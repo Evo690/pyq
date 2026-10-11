@@ -12,7 +12,7 @@ A static JEE previous-year-question practice workspace. Serve the repository roo
 - Save reusable test-builder setups for chapter selection, question count, time, year, and difficulty.
 - Flag a possible answer-key, solution, diagram, duplicate, or other question issue from the question view. Reports are stored locally and included in workspace backups; they are not uploaded automatically.
 - Keyboard controls: left/right arrows move between questions, 1–4 select an answer, M toggles a test review mark, C clears the current test answer, and Enter advances (or opens the final-submit prompt). Shortcuts pause while a modal or text field is active.
-- A persistent light/dark theme toggle remembers the student’s choice and restyles the full workspace, dialogs, analytics cards, and timed-test controls.
+- The workspace is dark-native: it boots into a deep “Obsidian Emerald” dark theme with a zero-flash theme bootstrap, and a persistent light/dark toggle remembers the student’s choice across the full workspace, dialogs, analytics cards, and timed-test controls. The dark design layer lives in `assets/studio.css`.
 - Chapter selection opens a dedicated workspace instead of a dialog. Practice sessions use a focused viewport with global navigation hidden; on small screens, primary destinations use a thumb-friendly bottom bar, dialogs become bottom sheets, controls respect device safe areas, and test/practice question navigation stays in a compact bottom dock.
 - Question, solution, and answer-option diagrams load lazily with asynchronous decoding, scale to the available desktop/mobile viewport, and show an accessible fallback when a source image cannot load.
 
