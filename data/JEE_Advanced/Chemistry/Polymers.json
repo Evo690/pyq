@@ -1,0 +1,230 @@
+[
+  {
+    "question_id": "64b169f0f23ac7d519f9afdb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Among cellulose, polyvinyl chloride, nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest in",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hgC7j",
+        "text": "\nnylon\n",
+        "image": null
+      },
+      {
+        "id": "XVEGP",
+        "text": "\npolyvinyl chloride\n",
+        "image": null
+      },
+      {
+        "id": "KPD4T",
+        "text": "\ncellulose\n",
+        "image": null
+      },
+      {
+        "id": "Dpuv8",
+        "text": "\nnatural rubber",
+        "image": null
+      }
+    ],
+    "correct_answer": "Dpuv8",
+    "solution_text": "$$\n\\text { Nylon has amid linkage capable of forming intermolecular } \\mathrm{H} \\text {-bonding as }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2Z4rUd48WCf_t7lkv_gHa5HajDJtInxtryet1Vuhhl8.original.fullsize.png\"><br>\nDue to $\\mathrm{H}$-bonding, nylon has strong intermolecular attraction.\nCellulose is a polyhydroxy compound, also capable of forming strong intermolecular $\\mathrm{H}$-bonding. Polyvinyl chloride is a polar polymer due to carbon chlorine bond and it possess strong dipole-dipole attraction. Natural rubber is poly (isoprene), a hydrocarbon, possess weak van der Waal's attraction.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f5i0Bw1-Ql-QNczMQa41ENvUzZ4r3kWg82G8MZwPurQ.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Classification of Polymers"
+  },
+  {
+    "question_id": "64b169d5f23ac7d519f9aee3",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Match the chemical substance in Column I with type of polymers/type of bond in Column II. Indicate your answer by darkening the appropriate bubbles of $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aBcz_-koYhRdo9Zs0JRtXZYX4tgTBARB13Q2LAWna7c.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IvCDn",
+        "text": "\nA-p; B-q; C-p; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "BYthu",
+        "text": "\nA-p, s; B-q, r; C-p, r; D-s\n",
+        "image": null
+      },
+      {
+        "id": "9uCyd",
+        "text": "\nA-s; B-p; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "AQ5Ca",
+        "text": "\nA-p, s; B-r; C-p, q; D-s",
+        "image": null
+      }
+    ],
+    "correct_answer": "BYthu",
+    "solution_text": "(A) $p, s$\n(B) $q, r$\n(C) $p, r$\n(D) $s$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0u0UXSHYX2s-C2PZe6qS4EkMFVTL9LWZNY5ja52juUQ.original.fullsize.png\"><br>\nSucrose (diasaccharide) < smiles>OCC1OC(CO)C(O)C(O)C1O < /smiles>\nSucrose/glucosidic as well as fructosidic linkage",
+    "solution_image": null,
+    "topic": "Classification of Polymers"
+  },
+  {
+    "question_id": "64b16a9df23ac7d519f9b609",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the correct statement(s) about polymers is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aE4es",
+        "text": "The polymerization of chloroprene gives natural rubber.",
+        "image": null
+      },
+      {
+        "id": "mMtXP",
+        "text": "Teflon is prepared from tetrafluoroethene by heating it with persulphate catalyst at high pressures.",
+        "image": null
+      },
+      {
+        "id": "up3Th",
+        "text": "PVC are thermoplastic polymers.",
+        "image": null
+      },
+      {
+        "id": "5v7ta",
+        "text": "Ethene at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>350</mn><mo>-</mo><mn>570</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;temperature and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1000</mn><mo>-</mo><mn>2000</mn></math> atm pressure in the presence of a peroxide initiator yields high density polythene.",
+        "image": null
+      }
+    ],
+    "correct_answer": "up3Th",
+    "solution_text": "<p>(A) Polymerization of chloroprene gives synthetic rubber</p><p>(B) Teflon is manufactured by heating tetrafluoroethene with a free radical or persulphate catalyst at hight pressure.</p><p>(C) Polyvinyl chloride (PVC) is a thermoplastic polymer and used in making hand bags, vinyl flooring and water pipes.</p><p>(D) Ethene at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>350</mn><mo>-</mo><mn>570</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> temperature and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1000</mn><mo>-</mo><mn>2000</mn><mo>&#160;</mo><mi>atm</mi></math> pressure in the presence of a peroxide initiator yields low density polythene.</p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Polymers"
+  },
+  {
+    "question_id": "64b16a78f23ac7d519f9b4b8",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Choose the correct option(s) from the following",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5grIl",
+        "text": "Natural rubber is polyisoprene containing <em>trans</em> alkene units.",
+        "image": null
+      },
+      {
+        "id": "uLcAD",
+        "text": "Nylon- <math><mn>6</mn></math> has amide linkages.",
+        "image": null
+      },
+      {
+        "id": "c0B1P",
+        "text": "Cellulose has only <math><mi>α</mi></math> -D-glucose units that are joined by glycosidic linkages.",
+        "image": null
+      },
+      {
+        "id": "ethBs",
+        "text": "Teflon prepared by heating tetrafluoroethene in presence of a persulphate catalyst at high pressure.",
+        "image": null
+      }
+    ],
+    "correct_answer": "ethBs",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> Natural rubber is poly isoprene containing Cis stereo-chemistry alkene units. <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math> Nylon- <math><mn>6</mn></math> has amide linkage, i.e., <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f746db1c-a695-4679-9e93-9bbbf14189f0-image47.png\"/>. <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> Cellulose is a straight chain polysaccharide composed of <math><mi>B</mi><mo>→</mo></math> Glucose units held together by <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>4</mn></mrow></msub></math> glycosidic linkage <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced></math> <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c9ff7abc-9597-41b9-a444-e99f03f8e1e5-image48.png\"/>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Polymers"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b33b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "On complete hydrogenation, natural rubber produces",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rFJHO",
+        "text": "Ethylene-propylene copolymer",
+        "image": null
+      },
+      {
+        "id": "69gAQ",
+        "text": "Vulcanised rubber",
+        "image": null
+      },
+      {
+        "id": "S6crL",
+        "text": "Polypropylene",
+        "image": null
+      },
+      {
+        "id": "BusBI",
+        "text": "Polybutylene",
+        "image": null
+      }
+    ],
+    "correct_answer": "rFJHO",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_Paper_1_Chem_Q._22_Ans_1_.jpg\"/>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Polymers"
+  },
+  {
+    "question_id": "64b16a15f23ac7d519f9b129",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "The correct functional group $X$ and the reagent/reaction conditions $Y$ in the following schemes are $\\mathrm{X}-\\left(\\mathrm{CH}_2\\right)_4-X$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/B4PneOQG7lvxe2R4OUEi1a5OrGBqkYzPVj-l4HcsdTo.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "F5rGM",
+        "text": "\n$X=\\mathrm{COOCH}_3, Y=\\mathrm{H}_2 / \\mathrm{Ni} /$ heat\n",
+        "image": null
+      },
+      {
+        "id": "fDw2j",
+        "text": "\n$X=\\mathrm{CONH}_2, Y=\\mathrm{H}_2 / \\mathrm{Ni} /$ heat\n",
+        "image": null
+      },
+      {
+        "id": "7pmyi",
+        "text": "\n$X=\\mathrm{CONH}_2, \\quad Y=\\mathrm{Br}_2 / \\mathrm{NaOH}$\n",
+        "image": null
+      },
+      {
+        "id": "B04A0",
+        "text": "\n$X=\\mathrm{CN}, Y=\\mathrm{H}_2 / \\mathrm{Ni} /$ heat",
+        "image": null
+      }
+    ],
+    "correct_answer": "B04A0",
+    "solution_text": "(a) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8yG7DY1gJXc4iUCEOER-m_1UdvdV_gvkjBLqdA44bzg.original.fullsize.png\"><br>\n(b)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rxpqZzH3d5lVE-WlPs6Ut1ZgpUDmVb5crAU54xotfFY.original.fullsize.png\"><br>\n(c)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zfi7JK9uaNGjLxX4gh4PcKfwAYM_ZAmsnxT4axnqnfM.original.fullsize.png\"><br>\n(d)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/C7pT7CVPeovTexhOTafI8TbQNslCMk0IIPvS_s7dq_I.original.fullsize.png\"><br>\n$$\n\\text { In author's opinion (a) and (b) should also be the answer. }\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/E4Bs3vfZ3lfBPb9mHMQ0te9i4wAnWAY_P_eo5gvqx2A.original.fullsize.png\"><br>\nPolyester, a condensation polymer<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tneLqzL0MI0skr6ZHl-Xj1c_DETeEDMLAn8BbF1KN7Q.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Polymers"
+  }
+]

@@ -1,0 +1,665 @@
+[
+  {
+    "question_id": "685102c16bba689a3eb09c9c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The correct match of the group reagents in List-I for precipitating the metal ion given in List-II from solutions, is<br> <table> <thead> <tr> <th> </th> <th>LIST - I </th> <th> </th> <th>LIST - II </th> </tr> </thead> <tbody> <tr> <td>(P) </td> <td>Passing $\\mathrm{H}_2 \\mathrm{~S}$ in the presence of $\\mathrm{NH}_4 \\mathrm{OH}$ </td> <td>(1) </td> <td>$\\mathrm{Cu}^{2+}$ </td> </tr> <tr> <td>(Q) </td> <td>$\\left(\\mathrm{NH}_4\\right)_2 \\mathrm{CO}_3$ in the presence of $\\mathrm{NH}_4 \\mathrm{OH}$ </td> <td>(2) </td> <td>$\\mathrm{Al}^{3+}$ </td> </tr> <tr> <td>(R) </td> <td>$\\mathrm{NH}_4 \\mathrm{OH}$ in the presence of $\\mathrm{NH}_4 \\mathrm{Cl}$ </td> <td>(3) </td> <td>$\\mathrm{Mn}^{2+}$ </td> </tr> <tr> <td>(S) </td> <td>Passing $\\mathrm{H}_2 \\mathrm{~S}$ in the presence of dilute HCl </td> <td>(4) </td> <td>$\\mathrm{Ba}^{2+}$ </td> </tr> <tr> <td> </td> <td> </td> <td>(5) </td> <td>$\\mathrm{Mg}^{2+}$ </td> </tr> </tbody> </table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tu59d",
+        "text": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 1$",
+        "image": null
+      },
+      {
+        "id": "TVf9k",
+        "text": "$\\mathrm{P} \\rightarrow 4 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 3 ; \\mathrm{S} \\rightarrow 1$",
+        "image": null
+      },
+      {
+        "id": "gLBgQ",
+        "text": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 5$",
+        "image": null
+      },
+      {
+        "id": "zBhWe",
+        "text": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "tu59d",
+    "solution_text": "$\\mathrm{Mn}^{+2} \\xrightarrow{\\mathrm{H}_2 \\mathrm{~S}+\\mathrm{NH}_4 \\mathrm{OH}} \\underset{\\text { Pink/buff ppt. }}{\\mathrm{MnS} \\downarrow}$\n$\\mathrm{Ba}^{+2} \\xrightarrow{\\left(\\mathrm{NH}_4\\right)_2 \\mathrm{CO}_3+\\mathrm{NH}_4 \\mathrm{OH}} \\underset{\\text { White ppt. }}{\\mathrm{BaCO}_3 \\downarrow}$\n$\\mathrm{Al}^{+3} \\xrightarrow{\\mathrm{NH}_4 \\mathrm{Cl}+\\mathrm{NH}_4 \\mathrm{OH}} \\underset{\\text { White ppt. }}{\\mathrm{Al}(\\mathrm{OH})_3 \\downarrow}$\n$\\mathrm{Cu}^{+2} \\xrightarrow{\\mathrm{H}_2 \\mathrm{~S}+\\mathrm{HCl} \\text { (dil.) }} \\underset{\\text { Black ppt. }}{\\mathrm{CuS} \\downarrow}$",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a8bf23ac7d519f9b564",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "<p>A mixture of two salts is used to prepare a solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>,</mo></math> which gives the following results:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>White</mi><mo>&#160;</mo><mi>precipitate</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>&#160;</mo><mi>only</mi><munderover><mo>&#8592;</mo><mrow><mi>Room</mi><mo>&#160;</mo><mi>temperature</mi></mrow><mrow><mi>Dilute</mi><mo>&#160;</mo><mi>NaOH</mi><mo>(</mo><mi>aq</mi><mo>)</mo></mrow></munderover><munder><mi mathvariant=\"normal\">S</mi><mfenced><mrow><mi>aq</mi><mo>.</mo><mo>&#160;</mo><mi>solution</mi><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><mi>the</mi><mo>&#160;</mo><mi>salts</mi></mrow></mfenced></munder><munderover><mo>&#8594;</mo><mrow><mi>Room</mi><mo>&#160;</mo><mi>temperature</mi></mrow><mrow><mi>Dilute</mi><mo>&#160;</mo><mi>HCl</mi><mfenced><mi>aq</mi></mfenced></mrow></munderover><mi>White</mi><mo>&#160;</mo><mi>precipitate</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>&#160;</mo><mi>only</mi></math></p><p>The correct option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math>&nbsp;for the salt mixture is(are)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JnkhS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Zn</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "lphuM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Bi</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Vyjz3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>AgNO</mi><mn>3</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Bi</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Z2PpT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Hg</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lphuM",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><msup><mi mathvariant=\"normal\">b</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mi>HCl</mi></mrow></mover><msub><mi>PbCl</mi><mn>2</mn></msub></math>(white precipitate)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><msup><mi mathvariant=\"normal\">b</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mi>NaOH</mi></mrow></mover><mi>Pb</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub></math>(white precipitate)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Bi</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>&#160;</mo><mi>HCl</mi></mrow></mover><msub><mi>BiCl</mi><mn>3</mn></msub></math>(water-soluble)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Bi</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mo>&#160;</mo><mi>NaOH</mi></mrow></mover><mi>Bi</mi><msub><mfenced><mi>OH</mi></mfenced><mn>3</mn></msub></math>(white precipitate)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Hg</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mi>HCl</mi></mrow></mover><msub><mi>HgCl</mi><mn>2</mn></msub></math>(water-soluble)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Hg</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mo>&#160;</mo><mi>NaOH</mi></mrow></mover><mi>Hg</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub></math>(yellow precipitate)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ag</mi><mo>+</mo></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mo>&#160;</mo><mi>HCl</mi></mrow></mover><mi>AgCl</mi></math>(white precipitate)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ag</mi><mo>+</mo></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mo>&#160;</mo><mi>NaOH</mi></mrow></mover><mi>AgOH</mi></math>(brown precipitate)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>.</mo><mo>&#160;</mo><mi>HCl</mi></mrow></mover><msub><mi>ZnCl</mi><mn>2</mn></msub></math>(water-soluble)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><mi>dil</mi><mo>&#160;</mo><mo>.</mo><mi>NaOH</mi></mrow></mover><mi>Zn</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub></math>(white precipitate)</p>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4ea",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "A colorless aqueous solution contains nitrates of two metals, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math>. When it was added to an aqueous solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaCl</mi></math>, a white precipitate was formed. This precipitate was found to be partly soluble in hot water to give a residue <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> and a solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>. The residue <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>&nbsp;was soluble in aq. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>3</mn></msub></math> and also in excess sodium thiosulfate. The hot solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math> gave a yellow precipitate with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>KI</mi></math>. The metals <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math>,&nbsp;respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HGdjm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ag</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi></math>",
+        "image": null
+      },
+      {
+        "id": "T3rqL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ag</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Fr9xn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi></math>",
+        "image": null
+      },
+      {
+        "id": "TRykQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Zn</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "HGdjm",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi><mo>=</mo><msub><mi>AgNO</mi><mn>3</mn></msub></math>,&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi><mo>=</mo><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><msub><mtext>AgNO</mtext><mn>3</mn></msub><mfenced><mi mathvariant=\"normal\">X</mi></mfenced></munder><mo>+</mo><mtext>NaCl</mtext><mo>&#8594;</mo><munder><mtext>AgCl</mtext><mrow><mo>(</mo><mtext>P</mtext><mo>)</mo></mrow></munder><mo>&#160;</mo><mo>&#8595;</mo><mo>+</mo><msub><mtext>NaNO</mtext><mn>3</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mi>AgCl</mi><mtext>&#8201;</mtext><mo>(</mo><mtext>s</mtext><mo>)</mo><mo>&#8595;</mo></mrow><mrow><mo>(</mo><mtext>P</mtext><mo>)</mo></mrow></munder><mo>+</mo><mn>2</mn><msub><mtext>NH</mtext><mn>3</mn></msub><mo>&#8594;</mo><munder><msup><mfenced open=\"[\" close=\"]\"><mrow><mtext>Ag</mtext><msub><mfenced><msub><mtext>NH</mtext><mn>3</mn></msub></mfenced><mn>2</mn></msub></mrow></mfenced><mo>+</mo></msup><mi>Soluble</mi></munder><msup><mtext>Cl</mtext><mo>&#8722;</mo></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>AgCl</mi><mrow><mo>(</mo><mi mathvariant=\"normal\">P</mi><mo>)</mo></mrow></munder><mo>+</mo><mn>2</mn><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">S</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>&#8594;</mo><msub><mi>Na</mi><mn>3</mn></msub><munder><mfenced open=\"[\" close=\"]\"><mrow><mi>Ag</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">S</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></mrow></mfenced><mn>2</mn></msub></mrow></mfenced><mi>Solubel</mi></munder><mo>+</mo><mi>NaCl</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi><munder><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">Y</mi></mfenced></munder><mo>+</mo><mn>2</mn><mi>NaCl</mi><mo>&#8594;</mo><munder><msub><mi>PbCl</mi><mn>2</mn></msub><mtable columnalign=\"left\"><mtr><mtd><mi>White</mi><mtext>&#8201;</mtext><mi>ppt</mi><mtext>&#8201;</mtext><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></mtd></mtr><mtr><mtd><mo>(</mo><mi>Soluble</mi><mtext>&#8201;</mtext><mi>in</mi><mtext>&#8201;</mtext><mi>hot</mi></mtd></mtr><mtr><mtd><mi>water</mi><mo>)</mo></mtd></mtr></mtable></munder><mtext>&#8201;&#160;&#8595;</mtext><mo>+</mo><mn>2</mn><msub><mi>NaNO</mi><mn>3</mn></msub></math>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><msub><mtext>PbCl</mtext><mn>2</mn></msub><mtable columnalign=\"left\"><mtr><mtd><mfenced><mrow><mi>aq</mi><mo>.</mo></mrow></mfenced></mtd></mtr><mtr><mtd><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></mtd></mtr></mtable></munder><mo>+</mo><mn>2</mn><mtext>KI</mtext><mo>&#8594;</mo><munder><msub><mtext>PbI</mtext><mn>2</mn></msub><mrow><mi>Yellow</mi><mtext>&#8201;</mtext><mi>ppt</mi></mrow></munder><mo>+</mo><mn>2</mn><mtext>KCl</mtext></math></p>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b306",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "The pair(s) of ions where BOTH the ions are precipitated upon passing <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math> gas in presence of dilute HCl, is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Pjksy",
+        "text": "<math><mi mathvariant=\"normal\">B</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Z</mi><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "KRdgI",
+        "text": "<math><mi mathvariant=\"normal\">B</mi><msup><mrow><mi mathvariant=\"normal\">i</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "lew0f",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">P</mi><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "r0PdY",
+        "text": "<math><mi mathvariant=\"normal\">H</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">B</mi><msup><mrow><mi mathvariant=\"normal\">i</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "r0PdY",
+    "solution_text": "Precipitate is formed on passing <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math>  in acidic medium i.e., ion must be of group II.<br > <math><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">P</mi><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">H</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">B</mi><msup><mrow><mi mathvariant=\"normal\">i</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a3cf23ac7d519f9b295",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nAn aqueous solution of metal ion $\\mathbf{M} 1$ reacts separately with reagents $\\mathbf{Q}$ and $\\mathbf{R}$ in excess to give tetrahedral and square planar complexes, respectively. An aqueous solution of another metal ion M2 always forms tetrahedral complexes with these reagents. Aqueous solution of $\\mathbf{M} 2$ on reaction with reagent $\\mathbf{S}$ gives white precipitate which dissolves in excess of $\\mathbf{S}$. The reactions are summarized in the scheme given below:\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iIG4S9hAA3cOJOSut3ieY0YukV5t_CvUWJuzRwwNWXQ.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nReagent $\\mathbf{S}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "W5Kzt",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>4</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>6</mn></mrow></msub></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "XPhWx",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">P</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "JZghk",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">r</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Eg4mc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>KOH</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Eg4mc",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image21-7ace3c4a-3a53-4f0d-8ebd-705d77df111c.jpg\" />",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a3cf23ac7d519f9b294",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nAn aqueous solution of metal ion $\\mathbf{M} 1$ reacts separately with reagents $\\mathbf{Q}$ and $\\mathbf{R}$ in excess to give tetrahedral and square planar complexes, respectively. An aqueous solution of another metal ion M2 always forms tetrahedral complexes with these reagents. Aqueous solution of $\\mathbf{M} 2$ on reaction with reagent $\\mathbf{S}$ gives white precipitate which dissolves in excess of $\\mathbf{S}$. The reactions are summarized in the scheme given below:\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iIG4S9hAA3cOJOSut3ieY0YukV5t_CvUWJuzRwwNWXQ.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\n$\\mathbf{M} 1, \\mathbf{Q}$ and $\\mathbf{R}$, respectively are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "81aR7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi><msup><mi mathvariant=\"normal\">n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math>",
+        "image": null
+      },
+      {
+        "id": "twL5D",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><msup><mrow><mi mathvariant=\"normal\">i</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Ie8Ds",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math>",
+        "image": null
+      },
+      {
+        "id": "W69Ev",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">o</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "twL5D",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image21-7ace3c4a-3a53-4f0d-8ebd-705d77df111c.jpg\" />",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a2ff23ac7d519f9b21b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nAn aqueous solution of a mixture of two inorganic salts, when treated with dilute $H C$ ?, gave a precipitate $(\\boldsymbol{P})$ and a filtrate $(\\boldsymbol{Q})$. The precipitate $\\boldsymbol{P}$ was found to dissolve in hot water. The filtrate $(\\boldsymbol{Q})$ remained unchanged, when treated with $\\mathrm{H}_{2} \\mathrm{~S}$ in a dilute mineral acid medium. However, it gave a precipitate $(\\boldsymbol{R})$ with $H_{2} S$ in an ammoniacal medium. The precipitate $\\boldsymbol{R}$ gave a coloured solution $(\\boldsymbol{S})$, when treated with $\\mathrm{H}_{2} \\mathrm{O}_{2}$ in an aqueous $\\mathrm{NaOH}$ medium.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe precipitate $\\boldsymbol{P}$ contains",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8eAZ0",
+        "text": "Pb<sup>2</sup><sup>+</sup>",
+        "image": null
+      },
+      {
+        "id": "t3iCt",
+        "text": "<math> <mrow> <msubsup> <mtext>Hg</mtext> <mn>2</mn> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msubsup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "WYcAb",
+        "text": "<math> <mrow> <msup> <mtext>Ag</mtext> <mo>+</mo> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "fGIxC",
+        "text": "<math> <mrow> <msup> <mtext>Hg</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "8eAZ0",
+    "solution_text": "<math> <mrow> <mtable> <mtr> <mtd> <msup> <mtext>Pb</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mn>2</mn> <msup> <mtext>Cl</mtext> <mo>-</mo> </msup> </mtd> <mtd> <mo>&#10230;</mo> </mtd> <mtd> <msub> <mtext>PbCl</mtext> <mn>2</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>white ppt</mtext> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> </mtd> <mtd> </mtd> <mtd> <mtext>soluble in hot water</mtext> </mtd> </mtr> </mtable> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1db",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "Upon treatment with ammoniacal&nbsp;<math> <mrow> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>S</mtext> </mrow> </math>, the metal ion that precipitates as a sulphide is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jytJi",
+        "text": "<math> <mrow> <mtext>Fe</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>III</mtext> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "KMyJe",
+        "text": "<math> <mrow> <mtext>Al</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>III</mtext> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "rPRkf",
+        "text": "<math> <mrow> <mtext>Mg</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>II</mtext> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "1i0CC",
+        "text": "<math> <mrow> <mtext>Zn</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>II</mtext> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1i0CC",
+    "solution_text": "<p>Among Fe<sup>3+</sup>, Al<sup>3+</sup>, Mg<sup>2+</sup> and Zn<sup>2+</sup>, only Zn<sup>2+</sup> is precipitated with ammoniacal H<sub>2</sub>S as ZnS.</p><p>The group III metal ions, in presence of NH<sub>4</sub>OH when H<sub>2</sub>S is bubbled through filtrate Ni<sup>2</sup><sup>+</sup>, Co<sup>2</sup><sup>+</sup> and Zn<sup>2</sup><sup>+</sup> are precipitated as sulphides.</p>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b168",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Which of the following halides react(s) with $\\mathrm{AgNO}_{3}(\\mathrm{aq})$ to give a precipitate that dissolves in $\\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}(\\mathrm{aq})$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "b6aKH",
+        "text": "$\\mathrm{HCl}$",
+        "image": null
+      },
+      {
+        "id": "PRqzF",
+        "text": "$\\mathrm{HF}$",
+        "image": null
+      },
+      {
+        "id": "yIWXA",
+        "text": "$\\mathrm{HBr}$",
+        "image": null
+      },
+      {
+        "id": "oed6l",
+        "text": "$\\mathrm{HI}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "oed6l",
+    "solution_text": "$\\begin{array}{l}\r\n\r\n\\mathrm{HX}+\\mathrm{AgNO}_{3} \\longrightarrow \\mathrm{AgX} \\downarrow+\\mathrm{HNO}_{3}(\\mathrm{X}=\\mathrm{Cl}, \\mathrm{Br}, \\mathrm{I}) \\\\\r\n\r\n\\mathrm{AgX}+2 \\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3} \\longrightarrow \\mathrm{Na}_{3}\\left[\\mathrm{Ag}\\left(\\mathrm{S}_{2} \\mathrm{O}_{3}\\right)_{2}\\right]+\\mathrm{NaX}\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af12",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "A solution of a metal ion when treated with $\\mathrm{KI}$ gives a red precipitate which dissolved in excess KI to give a colourless solution. Moreover, the solution of metal ion on treatment with a solution of cobalt (II) thiocyanate gives rise to a deep blue crystalline precipitqte. The metal ion is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "266i8",
+        "text": "\n$\\mathrm{Pb}^{2+}$\n",
+        "image": null
+      },
+      {
+        "id": "SLBmn",
+        "text": "\n$\\mathrm{Hg}^{2+}$\n",
+        "image": null
+      },
+      {
+        "id": "61lhQ",
+        "text": "\n$\\mathrm{Cu}^{2+}$\n",
+        "image": null
+      },
+      {
+        "id": "nv5qt",
+        "text": "\n$\\mathrm{Co}^2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SLBmn",
+    "solution_text": "$$\n\\begin{aligned}\n& \\mathrm{Hg}^{2+}+2 \\mathrm{I}^{-} \\longrightarrow \\mathrm{HgI}_2, \\mathrm{HgI}_2+\\mathrm{H}^{-} \\\\\n& \\text {(Excess) }\\left.\\longrightarrow \\mathrm{HgI}_4\\right]^{2-} \\\\\n& \\text { Soluble }^{2-} \\\\\n& \\mathrm{Hg}^{2+}+\\mathrm{Co}(\\mathrm{SCN})_2 \\longrightarrow \\mathrm{Hg}(\\mathrm{SCN})_2\n\\end{aligned}\n$$\nBlue crystalline ppt.",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b169c8f23ac7d519f9ae69",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A solution when diluted with $\\mathrm{H}_2 \\mathrm{O}$ and boiled, it gives a white precipitate. On addition of excess $\\mathrm{NH}_4 \\mathrm{Cl} / \\mathrm{NH}_4 \\mathrm{OH}$, the volume of precipitate decreases leaving behind a white gelatinous precipitate. Identify the precipitate which dissolves in $\\mathrm{NH}_4 \\mathrm{OH} / \\mathrm{NH}_4 \\mathrm{Cl}$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rPPOq",
+        "text": "\n$\\mathrm{Zn}(\\mathrm{OH})_2$\n",
+        "image": null
+      },
+      {
+        "id": "7iAlY",
+        "text": "\n$\\mathrm{Al}(\\mathrm{OH})_3$\n",
+        "image": null
+      },
+      {
+        "id": "B1VDA",
+        "text": "\n$\\mathrm{Mg}(\\mathrm{OH})_2$\n",
+        "image": null
+      },
+      {
+        "id": "EyCYk",
+        "text": "\n$\\mathrm{Ca}(\\mathrm{OH})_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "rPPOq",
+    "solution_text": "A solution of $\\mathrm{Zn}^{2+}$ ion reacts with water which on boiling give white ppt. of $\\mathrm{Zn}(\\mathrm{OH})_2$. This precipitates dissolve in excess of $\\mathrm{NH}_4 \\mathrm{OH}$ in presence of $\\mathrm{NH}_4 \\mathrm{Cl}$ because $\\mathrm{Zn}(\\mathrm{OH})_2$ on reaction with $\\mathrm{NH}_4 \\mathrm{OH}$ in presence of $\\mathrm{NH}_4 \\mathrm{Cl}$ forms tetrammine zinc (II) complex (soluble).\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uZilZltjS4fVUCxfYQUh2bfU6By7vtSKZ1G1L66vvg4.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/54xVnRJAct4YK6nXe_KVzZIA81hhc1znvIPmpFiT-TQ.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b47f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "The green colour produced in the borax bead test of a chromium(III) salt is due to -",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fV3Eu",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">r</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "QToWN",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">B</mi></math>",
+        "image": null
+      },
+      {
+        "id": "OGcyh",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>7</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "1Ku54",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "fV3Eu",
+    "solution_text": "Borax bead test<br /><math><msub><mrow><mtext>Na</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><msub><mrow><mtext>B</mtext></mrow><mrow><mtext>4</mtext></mrow></msub><msub><mrow><mtext>O</mtext></mrow><mrow><mtext>7</mtext></mrow></msub><msub><mrow><mtext>.10H</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><mtext>O&#8201;</mtext><mover><mrow><mo>&#8594;</mo></mrow><mrow><mi>&#916;</mi></mrow></mover><msub><mrow><mtext>Na</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><msub><mrow><mtext>B</mtext></mrow><mrow><mtext>4</mtext></mrow></msub><msub><mrow><mtext>O</mtext></mrow><mrow><mtext>7</mtext></mrow></msub><mtext>&#8201;</mtext><mover><mrow><mo>&#8594;</mo></mrow><mrow><mi>&#916;</mi></mrow></mover><msub><mrow><mtext>NaBO</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><mtext>&#8201;</mtext><mo>+</mo><msub><mrow><mtext>B</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><msub><mrow><mtext>O</mtext></mrow><mrow><mtext>3</mtext></mrow></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>r</mi><mi>2</mi></msub><msub><mi>O</mi><mi>3</mi></msub><mo>+</mo><msub><mi>B</mi><mi>2</mi></msub><msub><mi>O</mi><mi>3</mi></msub><mi>&#8201;</mi><msubsup><mover><mo>&#8594;</mo><mi>&#916;</mi></mover><mrow><mi>G</mi><mi>r</mi><mi>e</mi><mi>e</mi><mi>n</mi><mo>&#160;</mo><mi>c</mi><mi>o</mi><mi>l</mi><mi>o</mi><mi>u</mi><mi>r</mi><mi>e</mi><mi>d</mi></mrow><mrow><mo>&#8201;</mo><mo>&#8201;&#8201;&#8201;&#8201;</mo><mi>C</mi><mi>r</mi><mo>(</mo><mi>B</mi><msub><mi>O</mi><mi>2</mi></msub><msub><mo>)</mo><mn>3</mn></msub></mrow></msubsup></math>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "64b16a6cf23ac7d519f9b447",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "The correct option(s) to distinguish nitrate salts of <math><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> taken separately is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1WI8Q",
+        "text": "<math><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> shows the characteristic green colour in the flame test",
+        "image": null
+      },
+      {
+        "id": "trVFY",
+        "text": "Only <math><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> shows the formation of precipitate by passing <math><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math> in acidic medium",
+        "image": null
+      },
+      {
+        "id": "v429m",
+        "text": "Only <math><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> shows the formation of precipitate by passing <math><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math> in faintly basic medium",
+        "image": null
+      },
+      {
+        "id": "l6hyB",
+        "text": "<math><mrow><mrow><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><mi>C</mi><mi>u</mi></mrow></mrow></math> has higher reduction potential than <math><mrow><mrow><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><mi>M</mi><mi>n</mi></mrow></mrow></math> (measured under similar conditions)",
+        "image": null
+      }
+    ],
+    "correct_answer": "l6hyB",
+    "solution_text": "<math><mo>(</mo><mi>A</mi><mo>)</mo></math>   <math><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup></math>  both gives green colour in flame test and cannot distinguished<br > <math><mo>(</mo><mi>B</mi><mo>)</mo></math>   <math><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup></math>  belongs to group-II of cationic radical will gives ppt. of CuS in acidic medium<br > <math><mo>(</mo><mi>C</mi><mo>)</mo></math>   <math><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup></math>  both form ppt. in basic medium<br > <math><mo>(</mo><mi>D</mi><mo>)</mo></math>   <math><mrow><mrow><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup></mrow><mo>/</mo><mrow><mi>C</mi><mi>u</mi></mrow></mrow><mo>=</mo><mo>+</mo><mn>0.34</mn><mi>v</mi><mi> </mi><mfenced separators=\"|\"><mrow><mi>S</mi><mi>R</mi><mi>P</mi></mrow></mfenced></math> <br > <math><mrow><mrow><mi>M</mi><msup><mrow><mi>n</mi></mrow><mrow><mo>+</mo><mn>2</mn></mrow></msup></mrow><mo>/</mo><mrow><mi>M</mi><mi>n</mi></mrow></mrow><mo>=</mo><mo>-</mo><mn>0.1</mn><mo>.</mo><mn>18</mn><mi>v</mi><mi> </mi><mfenced separators=\"|\"><mrow><mi>S</mi><mi>R</mi><mi>P</mi></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a5",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "For the given aqueous reactions, which of the statement (s) is (are) true?\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Svv3zst3p7sI_P54dCWqKgbTFLaM_3DtTe_FQ-Pt7jc.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ks13T",
+        "text": "The first reaction is a redox reaction.",
+        "image": null
+      },
+      {
+        "id": "OZuM0",
+        "text": "White precipitate is $\\mathrm{Zn}_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{2}$.",
+        "image": null
+      },
+      {
+        "id": "HBn3P",
+        "text": "Addition of filtrate to starch solution gives blue colour.",
+        "image": null
+      },
+      {
+        "id": "b8z9v",
+        "text": "White precipitate is soluble in $\\mathrm{NaOH}$ solution.",
+        "image": null
+      }
+    ],
+    "correct_answer": "b8z9v",
+    "solution_text": "(a) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vP5xHf5rQ-oeLu-tBR1MMDrXwiiW2RCvCfWRJuRUUY0.original.fullsize.png\"><br>\r\n\r\n(b)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/arZWVsRkeoSNOeawWf9nWr3ClF295koKEKqHq7ETO1Q.original.fullsize.png\"><br>\r\n\r\n(c) When the filterate containing $\\mathrm{KI}_{3}$ add to start solution, the dissolved $\\mathrm{I}_{2}$ will produce a blue colour solution.\r\n\r\n(d)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/L_T_h2Cn1TUzT37-30StiEc0EPKXE3evAlukfbmJvWs.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b166",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Identify the binary mixture(s) that can be separated into individual compounds, by differential extraction as shown in the given scheme.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aMqxUZStPWU1AW8GqVL_8ef68f56DF1dukNecKVGOEQ.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Aasv3",
+        "text": "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}$ and $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COOH}$",
+        "image": null
+      },
+      {
+        "id": "y6ji5",
+        "text": "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COOH}$ and $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{OH}$",
+        "image": null
+      },
+      {
+        "id": "XQyVQ",
+        "text": "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{OH}$ and $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}$",
+        "image": null
+      },
+      {
+        "id": "fUSrD",
+        "text": "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{OH}$ and $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{COOH}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "fUSrD",
+    "solution_text": "(a) Both are soluble in $\\mathrm{NaOH}$. Hence, inseparable.\r\n\r\n(b) Only benzoic acid $\\left(\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COOH}\\right)$ is soluble in $\\mathrm{NaOH}$ and $\\mathrm{NaHCO}_{3}$, while benzyl alcohol $\\left(\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{OH}\\right)$ is not. Hence, separable.\r\n\r\n(c) Although $\\mathrm{NaOH}$ can enable separation between benzyl alcohol $\\left(\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{OH}\\right)$ and phenol $\\left(\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}\\right)$ as only the latter is soluble in $\\mathrm{NaOH}$. However, in $\\mathrm{NaHCO}_{3}$, both are insoluble. Hence, inseparable.\r\n\r\n(d) $\\alpha$-Phenylacetic acid $\\left(\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{COOH}\\right)$ is soluble in $\\mathrm{NaOH}$ and $\\mathrm{NaHCO}_{3}$, while benzyl alcohol $\\left(\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CH}_{2} \\mathrm{OH}\\right)$ is not. Hence, separable.",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6a0be51744d287c9361e5cdd",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "<strong>Passage:</strong> Consider the following reaction sequence in which $\\textbf{J}$, $\\textbf{K}$, $\\textbf{L}$ and $\\textbf{M}$ are the major products.<br><img style=\"width: 600px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q53_d1.png\" /><br>Given:<br>Atomic mass (in amu): H : $1$, C : $12$, N : $14$, O : $16$, S : $32$, Br : $80$, Ba : $137$<br><br><strong>Question:</strong> In sulphur estimation by Carius method, the amount of BaSO$_4$ formed from $3.79$ g of $\\textbf{M}$ is ____ g.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.33",
+    "solution_text": "Step 1: The starting material is $m$-xylene (1,3-dimethylbenzene). It undergoes Friedel-Crafts acylation with chloroacetyl chloride ($\\text{ClCH}_2\\text{COCl}$) in the presence of anhydrous $\\text{AlCl}_3$ to form 2-chloro-1-(2,4-dimethylphenyl)ethanone.<br><br>Step 2: The chloro ketone reacts with $\\text{NaI}$ (Finkelstein reaction) to form 2-iodo-1-(2,4-dimethylphenyl)ethanone.<br><br>Step 3: This iodo compound undergoes Williamson ether synthesis with sodium 3-nitrophenoxide to form compound $\\textbf{J}$.<br>The molecular formula of $\\textbf{J}$ is $\\text{C}_{16}\\text{H}_{15}\\text{NO}_4$.<br><br>Step 4: Compound $\\textbf{J}$ is reduced by $\\text{NaBH}_4$, which converts the ketone group to a secondary alcohol. Subsequent reaction with $\\text{PBr}_3$ replaces the hydroxyl group with a bromine atom, yielding compound $\\textbf{K}$.<br>The molecular formula of $\\textbf{K}$ is $\\text{C}_{16}\\text{H}_{16}\\text{BrNO}_3$.<br>Molar mass of $\\textbf{K} = (16 \\times 12) + (16 \\times 1) + 80 + 14 + (3 \\times 16) = 350 \\text{ g/mol}$, which matches the given data.<br><br>Step 5: Compound $\\textbf{K}$ reacts with sodium thiophenoxide ($\\text{PhSNa}$) in an $\\text{S}_\\text{N}2$ reaction, replacing the bromide with a phenylthio group ($\\text{-SPh}$) to form compound $\\textbf{M}$.<br>The molecular formula of $\\textbf{M}$ is $\\text{C}_{16}\\text{H}_{16}(\\text{SC}_6\\text{H}_5)\\text{NO}_3 \\Rightarrow \\text{C}_{22}\\text{H}_{21}\\text{NO}_3\\text{S}$.<br>Molar mass of $\\textbf{M} = 350 - 80 (\\text{for Br}) + 109 (\\text{for SPh}) = 379 \\text{ g/mol}$.<br><br>Step 6: Calculate the moles of compound $\\textbf{M}$ used in the Carius method.<br>$\\text{Moles of } \\textbf{M} = \\dfrac{3.79 \\text{ g}}{379 \\text{ g/mol}} = 0.01 \\text{ mol}$.<br><br>Step 7: Since each molecule of $\\textbf{M}$ contains exactly one sulphur atom, the moles of sulphur present is $0.01 \\text{ mol}$. In the Carius method, all sulphur is quantitatively converted to barium sulphate ($\\text{BaSO}_4$).<br>$\\text{Moles of BaSO}_4 \\text{ formed} = 0.01 \\text{ mol}$.<br><br>Step 8: Calculate the mass of $\\text{BaSO}_4$ formed.<br>Molar mass of $\\text{BaSO}_4 = 137 (\\text{Ba}) + 32 (\\text{S}) + 4 \\times 16 (\\text{O}) = 233 \\text{ g/mol}$.<br>$\\text{Mass of BaSO}_4 = 0.01 \\text{ mol} \\times 233 \\text{ g/mol} = 2.33 \\text{ g}$.<br><br>Answer: $2.33$",
+    "solution_image": null,
+    "topic": "Quantitative analysis of organic compounds"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b372",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "In the following reaction sequence in aqueous solution, the species <math> <mrow> <mtext>X,</mtext><mtext> </mtext><mtext>Y</mtext></mrow> </math> and <math> <mtext>Z</mtext> </math> respectively, are<br />\r\n\r\n<br />\r\n\r\n<math> <mrow> <msub> <mtext>S</mtext> <mtext>2</mtext> </msub> <msubsup> <mtext>O</mtext> <mn>3</mn> <mrow> <mn>2</mn><mo>−</mo></mrow> </msubsup> <mover> <mo>→</mo> <mrow> <msup> <mrow> <mtext>Ag</mtext></mrow> <mtext>+</mtext> </msup> </mrow> </mover> <munder> <mtext>X</mtext> <mtable columnalign=\"left\"> <mtr> <mtd> <mrow> <mtext>&nbsp;&nbsp;&nbsp;Clear</mtext></mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mtext>&nbsp;Solution</mtext></mrow> </mtd> </mtr> </mtable> </munder> <mover> <mo>→</mo> <mrow> <msup> <mrow> <mtext>Ag</mtext></mrow> <mtext>+</mtext> </msup> </mrow> </mover> <munder> <mtext>Y</mtext> <mtable columnalign=\"left\"> <mtr> <mtd> <mrow> <mtext>&nbsp;&nbsp;&nbsp;&nbsp;White</mtext></mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mtext>Precipitate</mtext></mrow> </mtd> </mtr> </mtable> </munder> <mover> <mo>→</mo> <mrow> <mtext>With</mtext><mtext> </mtext><mtext>time</mtext></mrow> </mover> <munder> <mtext>Z</mtext> <mtable columnalign=\"left\"> <mtr> <mtd> <mrow> <mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext>Black</mtext></mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mtext>Precipitate</mtext></mrow> </mtd> </mtr> </mtable> </munder> </mrow> </math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7V52l",
+        "text": "<math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn><mo>-</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">&nbsp;</mi><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      },
+      {
+        "id": "xAZQw",
+        "text": "<math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>5</mn><mo>-</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      },
+      {
+        "id": "8srVZ",
+        "text": "<math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn><mo>-</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi></math>",
+        "image": null
+      },
+      {
+        "id": "08MoY",
+        "text": "<math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn><mo>-</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mi mathvariant=\"normal\">&nbsp;</mi><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">gS</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "7V52l",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.23_Ans_1.jpg\" style=\"width: 450px; height: 249px;\" /><br />So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi><mo>,</mo><mi mathvariant=\"normal\">Y</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi></math> are <math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">g</mi><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn><mo>-</mo></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math> respectively.",
+    "solution_image": null,
+    "topic": "Radicals"
+  },
+  {
+    "question_id": "64b16a4ff23ac7d519f9b343",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The reagent(s) that can selectively precipitate <math><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>&nbsp;from a mixture of <math><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></math> and <math><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math>&nbsp;in aqueous solution is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "D0xMX",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Nxt1L",
+        "text": "<math><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Bu6Jy",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "GM8yJ",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>5</mn></mrow></msub><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Bu6Jy",
+    "solution_text": "<p>(A)</p><p><math><mtable><mtr><mtd><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><mo>+</mo></mtd><mtd><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><mo>&#8595;</mo></mtd><mtd><mo>+</mo></mtd></mtr><mtr><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mrow></mfenced></mtd><mtd></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mn>2</mn><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable></math><br /><math><mtable><mtr><mtd><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><mo>+</mo></mtd><mtd><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mtd></mtr><mtr><mtd></mtd><mtd></mtd></mtr></mtable></math><br />(B)</p><p><math><mtable><mtr><mtd><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><mo>+</mo></mtd><mtd><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">S</mi></mtd><mtd><mo>+</mo></mtd></mtr><mtr><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mrow></mfenced></mtd><mtd></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mn>2</mn><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable></math><br /><math><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><mo>+</mo></mtd><mtd><msubsup><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&#8595;</mo></mtd><mtd><mo>+</mo></mtd></mtr><mtr><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mrow></mfenced></mtd><mtd></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mn>2</mn><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable></math><br />(C)</p><p><math><mtable><mtr><mtd><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><mo>+</mo></mtd><mtd><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">S</mi><mo>&#8595;</mo></mtd><mtd><mo>+</mo></mtd></mtr><mtr><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mrow></mfenced></mtd><mtd></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><msup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable></math><br /><math><mtable><mtr><mtd><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><mo>+</mo></mtd><mtd><msubsup><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&#8595;</mo></mtd><mtd><mo>+</mo></mtd></mtr><mtr><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mrow></mfenced></mtd><mtd></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><msup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable></math><br />(D)</p><p><math><mtable><mtr><mtd><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>5</mn></mrow></msub><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi></mrow></mfenced></mtd><mtd><mo>+</mo></mtd><mtd><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>4</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>5</mn></mrow></msub><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">S</mi></mrow></mfenced></mtd></mtr><mtr><mtd></mtd><mtd><mo>(</mo><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mo>)</mo></mtd></mtr></mtable></math><br /><math><mtable><mtr><mtd><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>5</mn></mrow></msub><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi></mrow></mfenced></mtd><mtd><mo>+</mo></mtd><mtd><msubsup><mrow><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd><mtd></mtd><mtd><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced></mtd></mtr></mtable><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mtable><mtr><mtd><mo>&#8594;</mo></mtd><mtd><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">t</mi><mo>.</mo></mtd></mtr><mtr><mtd></mtd><mtd></mtd></mtr></mtable></math><br />Note: <math><mfenced close=\"}\" open=\"\" separators=\"|\"><mrow><mtable><mtr><mtd><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">p</mi><mo>=</mo><mn>2.5</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>8</mn></mrow></msup></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">p</mi><mo>=</mo><mn>3</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>28</mn></mrow></msup></mtd></mtr></mtable></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">q</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi></math><br />As in question selective precipitation is asked <math> <mrow> <mtext>P</mtext><mtext>b</mtext><mtext>S</mtext> </mrow> </math> will be precipitate much easier than <math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> though both are insoluble. Hence, answer should be <math> <mrow> <mtext>P</mtext><mtext>b</mtext><msub> <mrow> <mo stretchy=\"false\">(</mo><mtext>O</mtext><mtext>O</mtext><mtext>C</mtext><mo>&#8722;</mo><mtext>C</mtext><msub> <mtext>H</mtext> <mn>3</mn> </msub> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msub> </mrow> </math> also along with <math> <mrow> <mtext>C</mtext><mtext>u</mtext><mtext>C</mtext><msub> <mtext>l</mtext> <mn>2</mn> </msub></mrow></math>.</p>",
+    "solution_image": null,
+    "topic": "Radicals"
+  }
+]

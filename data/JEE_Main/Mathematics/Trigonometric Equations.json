@@ -1,0 +1,2000 @@
+[
+  {
+    "question_id": "69d8074b81239f6567c4f40a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (06 April Shift 1)",
+    "paper_year_short": "2026 (06 April Shift 1)",
+    "held_on": "2026-04-06T09:00:00.000Z",
+    "question_text": "Let $S = \\{\\theta \\in (-2\\pi, 2\\pi) : \\cos\\theta + 1 = \\sqrt{3}\\sin\\theta\\}$. Then $\\sum_{\\theta \\in S}\\theta$ is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SVdHV",
+        "text": "$-\\dfrac{2\\pi}{3}$",
+        "image": null
+      },
+      {
+        "id": "49LV2",
+        "text": "$-\\dfrac{4\\pi}{3}$",
+        "image": null
+      },
+      {
+        "id": "JwzWl",
+        "text": "$\\dfrac{2\\pi}{3}$",
+        "image": null
+      },
+      {
+        "id": "Z9xCL",
+        "text": "$\\dfrac{4\\pi}{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "49LV2",
+    "solution_text": "Given equation: $\\cos\\theta + 1 = \\sqrt{3}\\sin\\theta$<br><br>Using half-angle formulas, we get:<br><br>$2\\cos^2\\dfrac{\\theta}{2} = 2\\sqrt{3}\\sin\\dfrac{\\theta}{2}\\cos\\dfrac{\\theta}{2}$<br><br>$2\\cos\\dfrac{\\theta}{2} \\left( \\cos\\dfrac{\\theta}{2} - \\sqrt{3}\\sin\\dfrac{\\theta}{2} \\right) = 0$<br><br>This gives two cases:<br><br>Case 1: $\\cos\\dfrac{\\theta}{2} = 0$<br><br>$\\Rightarrow \\dfrac{\\theta}{2} = (2k+1)\\dfrac{\\pi}{2} \\Rightarrow \\theta = (2k+1)\\pi$<br><br>Since $\\theta \\in (-2\\pi, 2\\pi)$, the possible values are $\\theta = -\\pi, \\pi$.<br><br>Case 2: $\\cos\\dfrac{\\theta}{2} - \\sqrt{3}\\sin\\dfrac{\\theta}{2} = 0$<br><br>$\\Rightarrow \\tan\\dfrac{\\theta}{2} = \\dfrac{1}{\\sqrt{3}}$<br><br>$\\Rightarrow \\dfrac{\\theta}{2} = k\\pi + \\dfrac{\\pi}{6} \\Rightarrow \\theta = 2k\\pi + \\dfrac{\\pi}{3}$<br><br>Since $\\theta \\in (-2\\pi, 2\\pi)$, the possible values are:<br><br>For $k = 0$, $\\theta = \\dfrac{\\pi}{3}$<br><br>For $k = -1$, $\\theta = -2\\pi + \\dfrac{\\pi}{3} = -\\dfrac{5\\pi}{3}$<br><br>Thus, the set of solutions is $S = \\left\\{-\\pi, \\pi, \\dfrac{\\pi}{3}, -\\dfrac{5\\pi}{3}\\right\\}$.<br><br>Sum of all solutions in $S$:<br><br>$\\sum_{\\theta \\in S}\\theta = -\\pi + \\pi + \\dfrac{\\pi}{3} - \\dfrac{5\\pi}{3} = -\\dfrac{4\\pi}{3}$<br><br>Answer: $-\\dfrac{4\\pi}{3}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "69d8075f81239f6567c4f4f4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (05 April Shift 2)",
+    "paper_year_short": "2026 (05 April Shift 2)",
+    "held_on": "2026-04-05T14:00:00.000Z",
+    "question_text": "If $S = \\left\\{\\theta \\in [-\\pi, \\pi] : \\cos\\theta \\cos\\dfrac{5\\theta}{2} = \\cos 7\\theta \\cos\\dfrac{7\\theta}{2}\\right\\}$, then $n(S)$ is equal to _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "19",
+    "solution_text": "Given equation: $\\cos\\theta \\cos\\dfrac{5\\theta}{2} = \\cos 7\\theta \\cos\\dfrac{7\\theta}{2}$<br><br>Multiplying both sides by $2$:<br><br>$2\\cos\\theta \\cos\\dfrac{5\\theta}{2} = 2\\cos 7\\theta \\cos\\dfrac{7\\theta}{2}$<br><br>Using the identity $2\\cos A \\cos B = \\cos(A+B) + \\cos(A-B)$:<br><br>$\\cos\\left(\\theta + \\dfrac{5\\theta}{2}\\right) + \\cos\\left(\\theta - \\dfrac{5\\theta}{2}\\right) = \\cos\\left(7\\theta + \\dfrac{7\\theta}{2}\\right) + \\cos\\left(7\\theta - \\dfrac{7\\theta}{2}\\right)$<br><br>$\\cos\\left(\\dfrac{7\\theta}{2}\\right) + \\cos\\left(\\dfrac{-3\\theta}{2}\\right) = \\cos\\left(\\dfrac{21\\theta}{2}\\right) + \\cos\\left(\\dfrac{7\\theta}{2}\\right)$<br><br>Since $\\cos(-x) = \\cos x$, we get:<br><br>$\\cos\\left(\\dfrac{7\\theta}{2}\\right) + \\cos\\left(\\dfrac{3\\theta}{2}\\right) = \\cos\\left(\\dfrac{21\\theta}{2}\\right) + \\cos\\left(\\dfrac{7\\theta}{2}\\right)$<br><br>$\\cos\\left(\\dfrac{3\\theta}{2}\\right) = \\cos\\left(\\dfrac{21\\theta}{2}\\right)$<br><br>$\\cos\\left(\\dfrac{21\\theta}{2}\\right) - \\cos\\left(\\dfrac{3\\theta}{2}\\right) = 0$<br><br>Using the identity $\\cos C - \\cos D = -2\\sin\\left(\\dfrac{C+D}{2}\\right)\\sin\\left(\\dfrac{C-D}{2}\\right)$:<br><br>$-2\\sin\\left(\\dfrac{\\dfrac{21\\theta}{2} + \\dfrac{3\\theta}{2}}{2}\\right)\\sin\\left(\\dfrac{\\dfrac{21\\theta}{2} - \\dfrac{3\\theta}{2}}{2}\\right) = 0$<br><br>$-2\\sin(6\\theta)\\sin\\left(\\dfrac{9\\theta}{2}\\right) = 0$<br><br>This gives $\\sin(6\\theta) = 0$ or $\\sin\\left(\\dfrac{9\\theta}{2}\\right) = 0$.<br><br>Case 1: $\\sin(6\\theta) = 0$<br><br>$6\\theta = n\\pi \\Rightarrow \\theta = \\dfrac{n\\pi}{6}$ for $n \\in \\mathbb{Z}$.<br><br>Since $\\theta \\in [-\\pi, \\pi]$, we have $-\\pi \\le \\dfrac{n\\pi}{6} \\le \\pi \\Rightarrow -6 \\le n \\le 6$.<br><br>The possible values for $n$ are $\\{-6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6\\}$.<br><br>This gives $13$ solutions.<br><br>Case 2: $\\sin\\left(\\dfrac{9\\theta}{2}\\right) = 0$<br><br>$\\dfrac{9\\theta}{2} = m\\pi \\Rightarrow \\theta = \\dfrac{2m\\pi}{9}$ for $m \\in \\mathbb{Z}$.<br><br>Since $\\theta \\in [-\\pi, \\pi]$, we have $-\\pi \\le \\dfrac{2m\\pi}{9} \\le \\pi \\Rightarrow -4.5 \\le m \\le 4.5$.<br><br>The possible values for $m$ are $\\{-4, -3, -2, -1, 0, 1, 2, 3, 4\\}$.<br><br>This gives $9$ solutions.<br><br>To find common solutions, we equate the two sets of solutions:<br><br>$\\dfrac{n\\pi}{6} = \\dfrac{2m\\pi}{9} \\Rightarrow 3n = 4m$<br><br>For $m \\in \\{-4, -3, -2, -1, 0, 1, 2, 3, 4\\}$, $m$ must be a multiple of $3$. The valid values for $m$ are $-3, 0, 3$, which correspond to $n = -4, 0, 4$.<br><br>Thus, there are $3$ common solutions.<br><br>Total number of unique solutions $n(S) = 13 + 9 - 3 = 19$.<br><br>Answer: $19$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "69d8075781239f6567c4f49e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 1)",
+    "paper_year_short": "2026 (02 April Shift 1)",
+    "held_on": "2026-04-02T09:00:00.000Z",
+    "question_text": "Let $S = \\{x \\in [-\\pi, \\pi] : \\sin x (\\sin x + \\cos x) = a, a \\in \\mathbb{Z}\\}$. Then $n(S)$ is equal to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vmqqq",
+        "text": "$3$",
+        "image": null
+      },
+      {
+        "id": "tyAWJ",
+        "text": "$6$",
+        "image": null
+      },
+      {
+        "id": "Jm89n",
+        "text": "$7$",
+        "image": null
+      },
+      {
+        "id": "UqLyw",
+        "text": "$9$",
+        "image": null
+      }
+    ],
+    "correct_answer": "UqLyw",
+    "solution_text": "Given the equation: $\\sin x (\\sin x + \\cos x) = a$<br><br>$\\Rightarrow \\sin^2 x + \\sin x \\cos x = a$<br><br>Using the double angle formulas $\\sin^2 x = \\dfrac{1 - \\cos 2x}{2}$ and $\\sin x \\cos x = \\dfrac{\\sin 2x}{2}$, we get:<br><br>$\\dfrac{1 - \\cos 2x}{2} + \\dfrac{\\sin 2x}{2} = a$<br><br>$\\Rightarrow \\sin 2x - \\cos 2x = 2a - 1$<br><br>We know that the range of $A\\sin \\theta + B\\cos \\theta$ is $[-\\sqrt{A^2+B^2}, \\sqrt{A^2+B^2}]$. Thus, the range of $\\sin 2x - \\cos 2x$ is $[-\\sqrt{2}, \\sqrt{2}]$.<br><br>$\\Rightarrow -\\sqrt{2} \\le 2a - 1 \\le \\sqrt{2}$<br><br>$\\Rightarrow 1 - 1.414 \\le 2a \\le 1 + 1.414$<br><br>$\\Rightarrow -0.414 \\le 2a \\le 2.414$<br><br>$\\Rightarrow -0.207 \\le a \\le 1.207$<br><br>Since $a \\in \\mathbb{Z}$, the possible values for $a$ are $0$ and $1$.<br><br>Case 1: $a = 0$<br>$\\sin x (\\sin x + \\cos x) = 0$<br>$\\Rightarrow \\sin x = 0$ or $\\sin x + \\cos x = 0$<br>For $x \\in [-\\pi, \\pi]$, $\\sin x = 0 \\Rightarrow x \\in \\{-\\pi, 0, \\pi\\}$ (3 solutions)<br>$\\sin x + \\cos x = 0 \\Rightarrow \\tan x = -1 \\Rightarrow x \\in \\{-\\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}\\}$ (2 solutions)<br>Total solutions for $a = 0$ is $5$.<br><br>Case 2: $a = 1$<br>$\\sin^2 x + \\sin x \\cos x = 1$<br>$\\Rightarrow \\sin x \\cos x = 1 - \\sin^2 x$<br>$\\Rightarrow \\sin x \\cos x = \\cos^2 x$<br>$\\Rightarrow \\cos x (\\sin x - \\cos x) = 0$<br>$\\Rightarrow \\cos x = 0$ or $\\sin x - \\cos x = 0$<br>For $x \\in [-\\pi, \\pi]$, $\\cos x = 0 \\Rightarrow x \\in \\{-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\}$ (2 solutions)<br>$\\sin x - \\cos x = 0 \\Rightarrow \\tan x = 1 \\Rightarrow x \\in \\{-\\dfrac{3\\pi}{4}, \\dfrac{\\pi}{4}\\}$ (2 solutions)<br>Total solutions for $a = 1$ is $4$.<br><br>The total number of elements in the set $S$ is $n(S) = 5 + 4 = 9$.<br><br>Answer: $9$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6983c1a58bfdbb2435639754",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 2)",
+    "paper_year_short": "2026 (24 January Shift 2)",
+    "held_on": "2026-01-24T14:00:00.000Z",
+    "question_text": "The number of elements in the set $\\left\\{x \\in\\left[0,180^{\\circ}\\right]: \\tan \\left(x+100^{\\circ}\\right)=\\tan \\left(x+50^{\\circ}\\right) \\tan x \\tan \\left(x-50^{\\circ}\\right)\\right\\}$ is $\\_\\_\\_\\_$.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 4,
+    "solution_text": "$\\frac{\\tan(x+100°)}{\\tan x} = \\tan(x+50°)\\tan(x-50°)$<br>$\\frac{\\sin(x+100°)\\cos x}{\\cos(x+100°)\\sin x} = \\frac{\\sin(x+50°)\\sin(x-50°)}{\\cos(x+50°)\\cos(x-50°)}$<br>Applying Componendo & Dividendo:<br>$\\frac{\\sin(2x+100°)}{\\sin 100°} = \\frac{\\cos 100°}{-\\cos 2x}$<br>$2\\sin(2x+100°)\\cos 2x + \\sin 200° = 0$<br>$\\sin(4x+100°) + \\sin 100° + \\sin 200° = 0$<br>$\\sin(4x+100°) = -2\\sin 150° \\cos 50°$<br>$\\sin(4x+100°) = -\\cos 50° = \\sin(-40°)$<br>$\\therefore 4x + 100° = n\\pi + (-1)^n(-40°)$<br>$x = \\frac{n\\pi + (-1)^{n+1}(40°) - 100°}{4}$<br>$\\therefore x = 30°, 55°, 120°, 145°$ in $(0, \\pi)$<br>$\\therefore$ Number of solutions $= 4$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6983c1928bfdbb243563966c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (23 January Shift 1)",
+    "paper_year_short": "2026 (23 January Shift 1)",
+    "held_on": "2026-01-23T09:00:00.000Z",
+    "question_text": "Number of solutions of $\\sqrt{3} \\cos 2 \\theta+8 \\cos \\theta+3 \\sqrt{3}=0, \\theta \\in[-3 \\pi, 2 \\pi]$ is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8606544634",
+        "text": "0",
+        "image": null
+      },
+      {
+        "id": "8606544631",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "8606544633",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "8606544632",
+        "text": "4",
+        "image": null
+      }
+    ],
+    "correct_answer": "8606544631",
+    "solution_text": "Using $\\cos 2\\theta = 2\\cos^2\\theta - 1$:<br>$2\\sqrt{3}\\cos^2\\theta + 8\\cos\\theta + 2\\sqrt{3} = 0 \\Rightarrow \\sqrt{3}\\cos^2\\theta + 4\\cos\\theta + \\sqrt{3} = 0$.<br>$\\cos\\theta = \\frac{-4 \\pm 2}{2\\sqrt{3}}$, giving $\\cos\\theta = -\\frac{1}{\\sqrt{3}}$ or $\\cos\\theta = -\\sqrt{3}$ (rejected).<br>Let $\\alpha = \\cos^{-1}(-1/\\sqrt{3}) \\approx 2.186$ rad. General solution: $\\theta = 2n\\pi \\pm \\alpha$.<br>In $[-3\\pi, 2\\pi]$: $\\theta = \\alpha, -\\alpha, 2\\pi-\\alpha, -2\\pi+\\alpha, -2\\pi-\\alpha$.<br>Total $= 5$ solutions.",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c9a7c09d044e4c1a2d7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 2)",
+    "paper_year_short": "2025 (7 Apr Shift 2)",
+    "held_on": "2025-04-07T14:00:00.000Z",
+    "question_text": "The number of solutions of the equation<br/>$\\cos 2 \\theta \\cos \\frac{\\theta}{2}+\\cos \\frac{5 \\theta}{2}=2 \\cos ^3 \\frac{5 \\theta}{2}$<br/>in $\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$ is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yc7q4",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "cRGj5",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "00ZSw",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "FrciP",
+        "text": "7",
+        "image": null
+      }
+    ],
+    "correct_answer": "yc7q4",
+    "solution_text": "$\\begin{aligned}<br/>& \\cos 2 \\theta \\cos \\frac{\\theta}{2}+\\cos \\frac{5 \\theta}{2}=2 \\cos ^3 \\frac{5 \\theta}{2} \\\\\n& \\frac{1}{2}\\left(2 \\cos 2 \\theta \\cos \\frac{\\theta}{2}\\right)+\\cos \\frac{50}{2} \\\\\n& =\\frac{1}{2}\\left(\\cos \\frac{15 \\theta}{2}+3 \\cos \\frac{5 \\theta}{2}\\right)<br/>\\end{aligned}$<br/>or solving<br/>$\\begin{aligned}<br/>& \\cos \\frac{3 \\theta}{2}=\\cos \\frac{15 \\theta}{2} \\\\\n& \\cos \\frac{15 \\theta}{2}-\\cos \\frac{3 \\theta}{2}=0 \\\\\n& 2 \\sin 30 \\sin \\frac{9 \\theta}{2}=0<br/>\\end{aligned}$<br/>$3 \\theta=\\mathrm{n} \\pi \\text { or } \\frac{9 \\theta}{2}=\\mathrm{m} \\pi$<br/>$\\begin{aligned}<br/>& \\theta=\\frac{\\mathrm{n} \\pi}{3} \\quad \\theta=\\frac{2 \\mathrm{~m} \\pi}{9} \\\\\n& \\theta=\\left\\{-\\frac{\\pi}{2}, \\frac{\\pi}{3}, 0\\right\\} \\\\\n& \\theta=\\left\\{-\\frac{4 \\pi}{9}, \\frac{-2 \\pi}{9}, \\frac{4 \\pi}{9}, \\frac{2 \\pi}{9}\\right\\}<br/>\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c997c09d044e4c1a2d6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 1)",
+    "paper_year_short": "2025 (7 Apr Shift 1)",
+    "held_on": "2025-04-07T09:00:00.000Z",
+    "question_text": "If for $\\theta \\in\\left[-\\frac{\\pi}{3}, 0\\right]$, the points $(x, y)=\\left(3 \\tan \\left(\\theta+\\frac{\\pi}{3}\\right), 2 \\tan \\left(\\theta+\\frac{\\pi}{6}\\right)\\right)$ lie on $x y+\\alpha x+\\beta y+\\gamma=0$, then $\\alpha^2+\\beta^2+\\gamma^2$ is equal to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9fFLG",
+        "text": "80",
+        "image": null
+      },
+      {
+        "id": "Y3BCN",
+        "text": "72",
+        "image": null
+      },
+      {
+        "id": "RQr01",
+        "text": "96",
+        "image": null
+      },
+      {
+        "id": "LEpWR",
+        "text": "75",
+        "image": null
+      }
+    ],
+    "correct_answer": "LEpWR",
+    "solution_text": "$\\begin{aligned}<br/>& x=3\\left(\\frac{\\tan \\theta+\\sqrt{3}}{1-\\sqrt{3} \\tan \\theta}\\right) \\\\\n& x-\\sqrt{3} \\tan \\theta=3 \\tan \\theta+3 \\sqrt{3} \\\\\n& \\tan \\theta=\\frac{x-3 \\sqrt{3}}{3+\\sqrt{3} x} \\ldots(1) \\\\\n& 2\\left(\\frac{\\tan \\theta+\\frac{1}{\\sqrt{3}}}{1-\\frac{\\tan \\theta}{\\sqrt{3}}}=y\\right) \\\\\n& 2(\\sqrt{3} \\tan \\theta+1)=y(\\sqrt{3}-\\tan \\theta) \\ldots .<br/>\\end{aligned}$<br/>using (1) and (2)<br/>$\\begin{aligned}<br/>& 2\\left(\\frac{x-3 \\sqrt{3}}{\\sqrt{3}+x}+1\\right)=y\\left(\\sqrt{3}-\\frac{(x-3 \\sqrt{3})}{\\sqrt{3}(\\sqrt{3}+x)}\\right) \\\\\n& 2 \\sqrt{3}(x-3 \\sqrt{3}+x+\\sqrt{3})=y(3(\\sqrt{3}+x)-x+3 \\sqrt{3}) \\\\\n& 4 \\sqrt{3} x-12=y(2 x+6 \\sqrt{3}) \\\\\n& x y-2 \\sqrt{3} x+3 \\sqrt{3} y-6=0 \\\\\n& \\Rightarrow \\alpha=-2 \\sqrt{3}, \\beta=3 \\sqrt{3}, \\gamma=-6 \\\\\n& \\alpha^2+\\beta^2+\\gamma^2=12+27+36=75<br/>\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c997c09d044e4c1a2d5",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (4 Apr Shift 1)",
+    "paper_year_short": "2025 (4 Apr Shift 1)",
+    "held_on": "2025-04-04T09:00:00.000Z",
+    "question_text": "If $10 \\sin ^4 \\theta+15 \\cos ^4 \\theta=6$, then the value of $\\frac{27 \\operatorname{cosec}^6 \\theta+8 \\sec ^6 \\theta}{16 \\sec ^8 \\theta}$ is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ub5km",
+        "text": "$\\frac{2}{5}$",
+        "image": null
+      },
+      {
+        "id": "UJNDu",
+        "text": "$\\frac{3}{4}$",
+        "image": null
+      },
+      {
+        "id": "QU0US",
+        "text": "$\\frac{3}{5}$",
+        "image": null
+      },
+      {
+        "id": "ABC4U",
+        "text": "$\\frac{1}{5}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ub5km",
+    "solution_text": "$\\begin{aligned} & 10\\left(\\sin ^2 \\theta\\right)^2+15\\left(1-\\sin ^2 \\theta\\right)^2=6 \\\\ & \\text { Let } \\sin ^2 \\theta=\\mathrm{t} \\Rightarrow 10 \\mathrm{t}^2+15(1-\\mathrm{t})^2=16 \\\\ & 10 \\mathrm{t}^2+15-30 \\mathrm{t}+15 \\mathrm{t}^2=6 \\\\ & 25 \\mathrm{t}^2-30 \\mathrm{t}+9=0 \\\\ & (5 \\mathrm{t}-3)^2=0 \\\\ & \\sin ^2 \\theta=\\frac{3}{5} \\text { and } \\cos ^2 \\theta=\\frac{2}{5} \\\\ & \\frac{27 \\times \\frac{125}{27}+8+\\frac{125}{8}}{16\\left(\\frac{5}{2}\\right)^4}=\\frac{250}{125 \\times 5}=\\frac{2}{5}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c997c09d044e4c1a2d4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (3 Apr Shift 2)",
+    "paper_year_short": "2025 (3 Apr Shift 2)",
+    "held_on": "2025-04-03T14:00:00.000Z",
+    "question_text": "The number of solutions of equation $(4-\\sqrt{3}) \\sin x$ $-2 \\sqrt{3} \\cos ^2 x=-\\frac{4}{1+\\sqrt{3}}, x \\in\\left[-2 \\pi, \\frac{5 \\pi}{2}\\right]$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2zOKj",
+        "text": "$4$",
+        "image": null
+      },
+      {
+        "id": "7Wujg",
+        "text": "$3$",
+        "image": null
+      },
+      {
+        "id": "q5xbS",
+        "text": "$6$",
+        "image": null
+      },
+      {
+        "id": "VkzCG",
+        "text": "$5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "VkzCG",
+    "solution_text": "$\\begin{aligned} & (4-\\sqrt{3}) \\sin x-2 \\sqrt{3} \\cos ^2 x=\\frac{-4}{1+\\sqrt{3}}, x \\in\\left[-2 \\pi, \\frac{5 \\pi}{2}\\right] \\\\ & \\Rightarrow(4-\\sqrt{3}) \\sin x-2 \\sqrt{3}\\left(1-\\sin ^2 x\\right)=2(1-\\sqrt{3}) \\\\ & \\Rightarrow 2 \\sqrt{3} \\sin ^2 x+4 \\sin x-\\sqrt{3} \\sin x-2=0 \\\\ & \\Rightarrow(2 \\sin x-1)(\\sqrt{3} \\sin x+2)=0 \\\\ & \\Rightarrow \\sin x=\\frac{1}{2} \\\\ & \\therefore \\text { Number of solution }=5\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c997c09d044e4c1a2d3",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (3 Apr Shift 1)",
+    "paper_year_short": "2025 (3 Apr Shift 1)",
+    "held_on": "2025-04-03T09:00:00.000Z",
+    "question_text": "The number of solutions of the equation $2 x+3 \\tan x=\\pi, x \\in[-2 \\pi, 2 \\pi]-\\left\\{ \\pm \\frac{\\pi}{2}, \\pm \\frac{3 \\pi}{2}\\right\\}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XnoSv",
+        "text": "$6$",
+        "image": null
+      },
+      {
+        "id": "Yjcd7",
+        "text": "$5$",
+        "image": null
+      },
+      {
+        "id": "WYJy7",
+        "text": "$4$",
+        "image": null
+      },
+      {
+        "id": "UMCgb",
+        "text": "$3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Yjcd7",
+    "solution_text": "$\\tan \\mathrm{x}=\\frac{\\pi}{3}-\\frac{2 \\mathrm{x}}{3}$<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/Ecn5zcYEeQbU5AdH6_RtcgfX9aCyPfSNonrQ2PtRKXI.original.fullsize.png\"/><br/>5 solutions",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c987c09d044e4c1a2d1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 2)",
+    "paper_year_short": "2025 (2 Apr Shift 2)",
+    "held_on": "2025-04-02T14:00:00.000Z",
+    "question_text": "If $\\theta \\in\\left[-\\frac{7 \\pi}{6}, \\frac{4 \\pi}{3}\\right]$, then the number of solutions of $\\sqrt{3} \\operatorname{cosec}^2 \\theta-2(\\sqrt{3}-1) \\operatorname{cosec} \\theta-4=0$, is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ilchd",
+        "text": "$6$",
+        "image": null
+      },
+      {
+        "id": "czJKA",
+        "text": "$8$",
+        "image": null
+      },
+      {
+        "id": "xNzux",
+        "text": "$10$",
+        "image": null
+      },
+      {
+        "id": "6Q51F",
+        "text": "$7$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ilchd",
+    "solution_text": "$\\begin{aligned} & \\operatorname{cosec} \\theta=\\frac{2(\\sqrt{3}-1) \\pm \\sqrt{4(3+1-2 \\sqrt{3})+16 \\sqrt{3}}}{2 \\sqrt{3}} \\\\ & =\\frac{2(\\sqrt{3-1}) \\pm \\sqrt{16+8 \\sqrt{3}}}{2 \\sqrt{3}} \\\\ & =\\frac{2(\\sqrt{3}-1) \\pm(2+2 \\sqrt{3})}{2 \\sqrt{3}}\\end{aligned}$<br/>$\\operatorname{cosec} \\theta=2$ or $\\frac{-2}{\\sqrt{3}}$<br/>$\\therefore \\sin \\theta=\\frac{1}{2}$ or $\\frac{-\\sqrt{3}}{2}$<br/>$\\therefore \\sin \\theta=\\frac{1}{2}$ has 3 solutions \\& also $\\sin \\theta=\\frac{-\\sqrt{3}}{2}$<br/>has 3 solutions in $\\left[\\frac{-7 \\pi}{6}, \\frac{4 \\pi}{3}\\right]$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "68542c997c09d044e4c1a2d2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 1)",
+    "paper_year_short": "2025 (2 Apr Shift 1)",
+    "held_on": "2025-04-02T09:00:00.000Z",
+    "question_text": "If $\\theta \\in[-2 \\pi, 2 \\pi]$, then the number of solutions of $2 \\sqrt{2} \\cos ^2 \\theta+(2-\\sqrt{6}) \\cos \\theta-\\sqrt{3}=0$, is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "K8UHY",
+        "text": "12",
+        "image": null
+      },
+      {
+        "id": "m4i9m",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "3j1Ug",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "ITzbF",
+        "text": "10",
+        "image": null
+      }
+    ],
+    "correct_answer": "3j1Ug",
+    "solution_text": "$\\begin{aligned} & 2 \\sqrt{2} \\cos ^2 \\theta+2 \\cos \\theta-\\sqrt{6} \\cos \\theta-\\sqrt{3}=0 \\\\ & (2 \\cos \\theta-\\sqrt{3})(\\sqrt{2} \\cos \\theta+1)=0 \\\\ & \\cos \\theta=\\frac{\\sqrt{3}}{2}, \\frac{-1}{\\sqrt{2}}\\end{aligned}$<br/>Number of solution $=8$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "67a2ee8ec8b73881fdaea0ec",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (22 Jan Shift 2)",
+    "paper_year_short": "2025 (22 Jan Shift 2)",
+    "held_on": "2025-01-22T14:00:00.000Z",
+    "question_text": "The sum of all values of $\\theta \\in[0,2 \\pi]$ satisfying $2 \\sin ^2 \\theta=\\cos 2 \\theta$ and $2 \\cos ^2 \\theta=3 \\sin \\theta$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9CAq7",
+        "text": "$4 \\pi$",
+        "image": null
+      },
+      {
+        "id": "P2jYw",
+        "text": "$\\frac{5 \\pi}{6}$",
+        "image": null
+      },
+      {
+        "id": "qpHyt",
+        "text": "$\\pi$",
+        "image": null
+      },
+      {
+        "id": "IkkNO",
+        "text": "$\\frac{\\pi}{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qpHyt",
+    "solution_text": "$\\begin{aligned}\n& 2 \\sin ^2 \\theta=\\cos 2 \\theta \\\\\n& 2 \\sin ^2 \\theta=1-2 \\sin ^2 \\theta \\\\\n& 4 \\sin ^2 \\theta=1 \\\\\n& \\sin ^2 \\theta=\\frac{1}{4} \\\\\n& \\sin \\theta= \\pm \\frac{1}{2} \\\\\n& 2 \\cos ^2 \\theta=3 \\sin \\theta \\\\\n& 2-2 \\sin ^2 \\theta+3 \\sin \\theta-2=0 \\\\\n& (2 \\sin \\theta-1)(2 \\sin \\theta-2)=0 \\\\\n& \\sin \\theta=\\frac{1}{2}\n\\end{aligned}$\nso common equation which satisfy both equations is $\\sin \\theta=\\frac{1}{2}$\n$\\theta=\\frac{\\pi}{6}, \\frac{5 \\pi}{6} \\quad(\\theta \\in[0,2 \\pi])$\n\nSum $=\\pi$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "66446727970e6e9ab542d0b4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (05 Apr Shift 2)",
+    "paper_year_short": "2024 (05 Apr Shift 2)",
+    "held_on": "2024-04-05T14:00:00.000Z",
+    "question_text": "The number of solutions of $\\sin ^2 x+\\left(2+2 x-x^2\\right) \\sin x-3(x-1)^2=0$, where $-\\pi \\leq x \\leq \\pi$, is________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "$\\sin ^2 x-\\left(x^2-2 x-2\\right) \\sin x-3(x-1)^2=0$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/Te7nat8bKp7y0w3Ngaw26uy0jG0Oypp4WBXaXS8nvEs.original.fullsize.png\"><br />$\\begin{aligned} & \\sin x=-3(\\text { reject }) \\text { or }(x-1)^2 \\\\ & \\sin x=(x-1)^2\\end{aligned}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/uxid6risaV7wIu3L0RbfRs7LBdcoRYLk__zVKKQmswo.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6644671c970e6e9ab542d047",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (05 Apr Shift 1)",
+    "paper_year_short": "2024 (05 Apr Shift 1)",
+    "held_on": "2024-04-05T09:00:00.000Z",
+    "question_text": "Suppose $\\theta \\epsilon\\left[0, \\frac{\\pi}{4}\\right]$ is a solution of $4 \\cos \\theta-3 \\sin \\theta=1$. Then $\\cos \\theta$ is equal to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1YjaY",
+        "text": "$\\frac{4}{(3 \\sqrt{6}+2)}$",
+        "image": null
+      },
+      {
+        "id": "c37yV",
+        "text": "$\\frac{6+\\sqrt{6}}{(3 \\sqrt{6}+2)}$",
+        "image": null
+      },
+      {
+        "id": "HFHGn",
+        "text": "$\\frac{4}{(3 \\sqrt{6}-2)}$",
+        "image": null
+      },
+      {
+        "id": "vv1fY",
+        "text": "$\\frac{6-\\sqrt{6}}{(3 \\sqrt{6}-2)}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "HFHGn",
+    "solution_text": "$4\\left(\\frac{1-\\tan ^2 \\theta / 2}{1+\\tan ^2 \\theta / 2}\\right)-3\\left(\\frac{2 \\tan \\frac{\\theta}{2}}{1+\\tan ^2 \\frac{\\theta}{2}}\\right)=1$\nlet $\\tan \\frac{\\theta}{2}=\\mathrm{t}$\n$\\begin{aligned}\n& \\frac{4-4 t^2-6 t}{1+t^2}=1 \\\\\n& 4-4 t^2-6 t=1+t^2\n\\end{aligned}$\n$\\begin{aligned} & \\Rightarrow 5 t^2+6 t-3=0 \\\\ & \\Rightarrow t=\\frac{-6 \\pm \\sqrt{36-4(5)(-3)}}{2(5)} \\\\ & =\\frac{-6 \\pm \\sqrt{96}}{10} \\\\ & =\\frac{-6 \\pm 4 \\sqrt{6}}{10} \\\\ & t=\\frac{-3+2 \\sqrt{6}}{5} \\\\ & \\cos \\theta=\\frac{1-t^2}{1+t^2}=\\frac{1-\\left(\\frac{2 \\sqrt{6}-3}{5}\\right)^2}{1+\\left(\\frac{2 \\sqrt{6}-3}{5}\\right)^2}=\\frac{1-\\left(\\frac{24+9-12 \\sqrt{6}}{25}\\right)}{1+\\left(\\frac{24+9-12 \\sqrt{6}}{25}\\right)} \\\\ & =\\frac{25-33+12 \\sqrt{6}}{25+33-12 \\sqrt{6}}=\\frac{12 \\sqrt{6}-8}{58-12 \\sqrt{6}}=\\frac{6 \\sqrt{6}-4}{29-6 \\sqrt{6}} \\times \\frac{29+6 \\sqrt{6}}{29+6 \\sqrt{6}} \\\\ & =\\frac{100+150 \\sqrt{6}}{625}=\\frac{4+6 \\sqrt{6}}{25} \\times \\frac{4-6 \\sqrt{6}}{4-6 \\sqrt{6}} \\\\ & =\\frac{-200}{25(4-6 \\sqrt{6})}=\\frac{-8}{4-6 \\sqrt{6}}=\\frac{4}{3 \\sqrt{6}-2}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "66446714970e6e9ab542d004",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (04 Apr Shift 2)",
+    "paper_year_short": "2024 (04 Apr Shift 2)",
+    "held_on": "2024-04-04T14:00:00.000Z",
+    "question_text": "Let $S=\\left\\{\\sin ^2 2 \\theta:\\left(\\sin ^4 \\theta+\\cos ^4 \\theta\\right) x^2+(\\sin 2 \\theta) x+\\left(\\sin ^6 \\theta+\\cos ^6 \\theta\\right)=0\\right.$ has real roots $\\}$. If $\\alpha$ and $\\beta$ be the smallest and largest elements of the set $S$, respectively, then $3\\left((\\alpha-2)^2+(\\beta-1)^2\\right)$ equals _________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "$\\begin{aligned} & D=(\\sin 2 \\theta)^2-4\\left(1-\\frac{\\sin ^2 2 \\theta}{2}\\right)\\left(1-\\frac{3}{4} \\sin ^2 2 \\theta\\right) \\\\ & =(\\sin 2 \\theta)^2-4\\left(1-\\frac{5}{4} \\sin ^2 2 \\theta+\\frac{3}{8} \\sin ^4 2 \\theta\\right) \\\\ & D=-\\frac{3}{2} \\sin ^4 2 \\theta+6 \\sin ^2 2 \\theta-4>0 \\\\ & 3 \\sin ^4 2 \\theta-12 \\sin ^2 2 \\theta+8 < 0 \\\\ & \\sin ^2 2 \\theta=\\frac{12 \\pm \\sqrt{12^2-12.8}}{6}=\\frac{12 \\pm 4 \\sqrt{3}}{6}=\\frac{6 \\pm 2 \\sqrt{3}}{3} \\\\ & \\sin ^2 2 \\theta=2 \\pm \\frac{2}{\\sqrt{3}}, \\text { but } \\sin ^2 2 \\theta \\in[0,1] \\\\ & \\therefore \\alpha=2-\\frac{2}{\\sqrt{3}}, \\beta=1 \\rightarrow(\\alpha-2)^2=\\frac{4}{3},(\\beta-1)^2=0 \\\\ & 3(\\alpha-2)^2+(\\beta-1)^2=4\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6682bd3aba0e94a3c4025b54",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (01 Feb Shift 2)",
+    "paper_year_short": "2024 (01 Feb Shift 2)",
+    "held_on": "2024-02-01T14:00:00.000Z",
+    "question_text": "The number of solutions of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>−</mo><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>9</mn><mo>−</mo><mn>4</mn><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn><mo>;</mo><mi>x</mi><mo>∈</mo><mfenced close=\"]\" open=\"[\"><mrow><mo>−</mo><mn>2</mn><mi>π</mi><mo>,</mo><mn>2</mn><mi>π</mi></mrow></mfenced></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3Hq6A",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "AYxsk",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ZKgDj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "h0G8M",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "h0G8M",
+    "solution_text": "<p>Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>9</mn><mo>-</mo><mn>4</mn><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><mo>-</mo><mn>4</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>9</mn><mo>-</mo><mn>4</mn><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>4</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>4</mn><mi>cos</mi><mi>x</mi><mo>-</mo><mn>13</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>4</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>4</mn><mi>cos</mi><mi>x</mi><mo>=</mo><mn>13</mn></math></p><p>We know that, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>≤</mo><mi>cos</mi><mi>x</mi><mo>≤</mo><mn>1</mn></math></p><p>So, the maximum value of LHS is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>4</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>4</mn></mrow></mfenced><mo>=</mo><mn>12</mn></math></p><p>But, RHS is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn></math>.</p><p>So, no solutions are possible for the given equation.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6682bd3bba0e94a3c4025b58",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (30 Jan Shift 1)",
+    "paper_year_short": "2024 (30 Jan Shift 1)",
+    "held_on": "2024-01-30T09:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>sin</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mi>cos</mi><mi>x</mi><mo>+</mo><mn>4</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math> has exactly <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math> solutions in the interval <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"⌉\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mfrac><mrow><mi mathvariant=\"normal\">n</mi><mi>π</mi></mrow><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\">n</mi><mo>∈</mo><mi mathvariant=\"normal\">N</mi></math>, then the roots of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>n</mi><mi>x</mi><mo>+</mo><mo>(</mo><mi>n</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>0</mn></math> belong to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NYcvE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>0</mn><mo>,</mo><mo>∞</mo><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "hMrV5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mo>∞</mo><mo>,</mo><mn>0</mn><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "995TS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mfrac><msqrt><mn>17</mn></msqrt><mn>2</mn></mfrac><mo>,</mo><mfrac><msqrt><mn>17</mn></msqrt><mn>2</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "d7ux9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "hMrV5",
+    "solution_text": "<p>Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>sin</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mi>cos</mi><mi>x</mi><mo>+</mo><mn>4</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><msup><mi>sin</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>2</mn><mi>sin</mi><mi>x</mi><mo>·</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>4</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><msup><mi>sin</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>2</mn><mi>sin</mi><mi>x</mi><mo>·</mo><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mo>+</mo><mn>4</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><msup><mi>sin</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>2</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><mn>4</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>6</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math></p><p>Now, for exactly three solution we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>n</mi><mo>=</mo><mn>5</mn></math> (in the given interval)</p><p>So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>n</mi><mi>x</mi><mo>+</mo><mfenced><mrow><mi>n</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>x</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mn>5</mn><mo>±</mo><msqrt><mn>17</mn></msqrt></mrow><mn>2</mn></mfrac></math></p><p>So, the required interval is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mo>∞</mo><mo>,</mo><mn>0</mn><mo>)</mo></math>.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6682bd3bba0e94a3c4025b57",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (29 Jan Shift 2)",
+    "paper_year_short": "2024 (29 Jan Shift 2)",
+    "held_on": "2024-01-29T14:00:00.000Z",
+    "question_text": "The sum of the solutions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>∈</mo><mi>R</mi></math> of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>3</mn></msup><mn>2</mn><mi>x</mi></mrow><mrow><msup><mi>cos</mi><mn>6</mn></msup><mi>x</mi><mo>-</mo><msup><mi>sin</mi><mn>6</mn></msup><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "33Cc4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Rxv6R",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "NnGcB",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "5mtNc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "NnGcB",
+    "solution_text": "<p>Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>3</mn></msup><mn>2</mn><mi>x</mi></mrow><mrow><msup><mi>cos</mi><mn>6</mn></msup><mi>x</mi><mo>-</mo><msup><mi>sin</mi><mn>6</mn></msup><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mrow><mi>cos</mi><mn>2</mn><mi>x</mi><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow></mfenced></mrow><mrow><msup><mfenced><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mn>3</mn></msup><mo>-</mo><msup><mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mn>3</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mrow><mi>cos</mi><mn>2</mn><mi>x</mi><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow></mfenced></mrow><mrow><mfenced><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mfenced><mrow><msup><mi>cos</mi><mn>4</mn></msup><mi>x</mi><mo>+</mo><msup><mi>sin</mi><mn>4</mn></msup><mi>x</mi><mo>+</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow></mfenced><mrow><msup><mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow></mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow></mfenced><mrow><mn>1</mn><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><msup><mfenced><mrow><mn>2</mn><mi>sin</mi><mi>x</mi><mi>cos</mi><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mn>4</mn></mfrac></mstyle></mrow></mfrac><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><mfenced><mfrac><mrow><mn>3</mn><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow><mrow><mn>4</mn><mo>-</mo><mstyle displaystyle=\"true\"><msup><mi>sin</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mstyle></mrow></mfrac></mfenced><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><mfenced><mfrac><mrow><mn>3</mn><mo>+</mo><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mrow><mrow><mn>4</mn><mo>-</mo><mstyle displaystyle=\"true\"><msup><mi>sin</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></mstyle></mrow></mfrac></mfenced><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p>So, the sum of real roots is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6682bd3aba0e94a3c4025b56",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (29 Jan Shift 1)",
+    "paper_year_short": "2024 (29 Jan Shift 1)",
+    "held_on": "2024-01-29T09:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>α</mi><mo>,</mo><mo>-</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>&lt;</mo><mi>α</mi><mo>&lt;</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></math> is the solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>cos</mi><mi>θ</mi><mo>+</mo><mn>5</mn><mi>sin</mi><mi>θ</mi><mo>=</mo><mn>1</mn></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mi>α</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JhFOj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>10</mn><mo>-</mo><msqrt><mn>10</mn></msqrt></mrow><mn>6</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "1cDxM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>10</mn><mo>-</mo><msqrt><mn>10</mn></msqrt></mrow><mn>12</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "dTjGv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msqrt><mn>10</mn></msqrt><mo>-</mo><mn>10</mn></mrow><mn>12</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "hoPuH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msqrt><mn>10</mn></msqrt><mo>-</mo><mn>10</mn></mrow><mn>6</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "dTjGv",
+    "solution_text": "<p>Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>cos</mi><mi>θ</mi><mo>+</mo><mn>5</mn><mi>sin</mi><mi>θ</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>4</mn><mfenced><mfrac><mrow><mn>1</mn><mo>-</mo><msup><mi>tan</mi><mn>2</mn></msup><mstyle displaystyle=\"true\"><mfrac><mi>θ</mi><mn>2</mn></mfrac></mstyle></mrow><mrow><mn>1</mn><mo>+</mo><msup><mi>tan</mi><mn>2</mn></msup><mfrac><mi>θ</mi><mn>2</mn></mfrac></mrow></mfrac></mfenced><mo>+</mo><mn>5</mn><mfenced><mfrac><mrow><mn>2</mn><mi>tan</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac></mrow><mrow><mn>1</mn><mo>+</mo><msup><mi>tan</mi><mn>2</mn></msup><mfrac><mi>θ</mi><mn>2</mn></mfrac></mrow></mfrac></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>5</mn><msup><mi>tan</mi><mn>2</mn></msup><mfrac><mi>θ</mi><mn>2</mn></mfrac><mo>-</mo><mn>10</mn><mi>tan</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac><mo>-</mo><mn>3</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>10</mn><mo>±</mo><msqrt><mn>100</mn><mo>-</mo><mn>4</mn><mfenced><mn>5</mn></mfenced><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced></msqrt></mrow><mrow><mn>2</mn><mo>×</mo><mn>5</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>10</mn><mo>±</mo><msqrt><mn>160</mn></msqrt></mrow><mn>10</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mo>±</mo><msqrt><mn>40</mn></msqrt></mrow><mn>5</mn></mfrac></math></p><p>It is given that, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>α</mi><mo>∈</mo><mfenced><mrow><mfrac><mrow><mo>-</mo><mi>π</mi></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mi>α</mi><mn>2</mn></mfrac><mo>∈</mo><mfenced><mrow><mfrac><mrow><mo>-</mo><mi>π</mi></mrow><mn>4</mn></mfrac><mo>,</mo><mfrac><mi>π</mi><mn>4</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mfrac><mi>α</mi><mn>2</mn></mfrac><mo>∈</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mfrac><mi>α</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mo>-</mo><msqrt><mn>40</mn></msqrt></mrow><mn>5</mn></mfrac></math></p><p>We know that, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mi>θ</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>tan</mi><mstyle displaystyle=\"true\"><mfrac><mi>θ</mi><mn>2</mn></mfrac></mstyle></mrow><mrow><mn>1</mn><mo>-</mo><msup><mi>tan</mi><mn>2</mn></msup><mfrac><mi>θ</mi><mn>2</mn></mfrac></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mi>α</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced><mstyle displaystyle=\"true\"><mfrac><mrow><mn>5</mn><mo>-</mo><msqrt><mn>40</mn></msqrt></mrow><mn>5</mn></mfrac></mstyle></mfenced></mrow><mrow><mn>1</mn><mo>-</mo><msup><mfenced><mfrac><mrow><mn>5</mn><mo>-</mo><msqrt><mn>40</mn></msqrt></mrow><mn>5</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mi>α</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced><mstyle displaystyle=\"true\"><mfrac><mrow><mn>5</mn><mo>-</mo><msqrt><mn>40</mn></msqrt></mrow><mn>5</mn></mfrac></mstyle></mfenced></mrow><mrow><mn>2</mn><mfenced><mstyle displaystyle=\"true\"><mfrac><msqrt><mn>40</mn></msqrt><mn>5</mn></mfrac></mstyle></mfenced><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mn>8</mn><mn>5</mn></mfrac></mstyle></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mi>α</mi><mo>=</mo><mfrac><mrow><mn>5</mn><mo>-</mo><msqrt><mn>40</mn></msqrt></mrow><mrow><msqrt><mn>40</mn></msqrt><mo>-</mo><mn>4</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mi>α</mi><mo>=</mo><mfrac><mrow><msqrt><mn>40</mn></msqrt><mo>-</mo><mn>20</mn></mrow><mn>24</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>tan</mi><mi>α</mi><mo>=</mo><mfrac><mrow><msqrt><mn>10</mn></msqrt><mo>-</mo><mn>10</mn></mrow><mn>12</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6682bd3bba0e94a3c4025b59",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (27 Jan Shift 2)",
+    "paper_year_short": "2024 (27 Jan Shift 2)",
+    "held_on": "2024-01-27T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>tan</mi><mn>2</mn></msup><mi>θ</mi><mo>-</mo><mn>5</mn><mi>sec</mi><mi>θ</mi><mo>=</mo><mn>1</mn></math> has exactly <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math> solutions in the interval <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mfrac><mrow><mi mathvariant=\"normal\">n</mi><mi>π</mi></mrow><mn>2</mn></mfrac></mrow></mfenced></math>, for the least value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>∈</mo><mi mathvariant=\"normal\">N</mi></math> then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>∑</mo><mrow><mi mathvariant=\"normal\">k</mi><mo>=</mo><mn>1</mn></mrow><mi mathvariant=\"normal\">n</mi></munderover><mfrac><mi mathvariant=\"normal\">k</mi><msup><mn>2</mn><mi mathvariant=\"normal\">k</mi></msup></mfrac></math> is equal to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VnXR3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mn>2</mn><mn>15</mn></msup></mfrac><mfenced><mrow><msup><mn>2</mn><mn>14</mn></msup><mo>-</mo><mn>14</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "sXQvt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mn>2</mn><mn>14</mn></msup></mfrac><mfenced><mrow><msup><mn>2</mn><mn>15</mn></msup><mo>-</mo><mn>15</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "1KpiM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><mfrac><mn>15</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "lz7wj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac><mfenced><mrow><msup><mn>2</mn><mn>14</mn></msup><mo>-</mo><mn>15</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lz7wj",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi><mo>-</mo><mn>5</mn><mi>secθ</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><mfenced><mrow><msup><mi>sec</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mn>5</mn><mi>secθ</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><msup><mi>sec</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi><mo>-</mo><mn>5</mn><mi>secθ</mi><mo>-</mo><mn>3</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><msup><mi>sec</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi><mo>-</mo><mn>6</mn><mi>secθ</mi><mo>+</mo><mi>secθ</mi><mo>-</mo><mn>3</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><mi>secθ</mi><mfenced><mrow><mi>sec</mi><mi>θ</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>+</mo><mn>1</mn><mfenced><mrow><mi>secθ</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo>(</mo><mn>2</mn><mi>secθ</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>secθ</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>secθ</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>cosθ</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>,</mo><mo> </mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p>We know that, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>≤</mo><mi>cosθ</mi><mo>≤1</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>cosθ</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math> solutions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>13</mn></math></p><p>So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>∑</mo><mrow><mi mathvariant=\"normal\">k</mi><mo>=</mo><mn>1</mn></mrow><mn>13</mn></munderover><mfrac><mi mathvariant=\"normal\">k</mi><msup><mn>2</mn><mi mathvariant=\"normal\">k</mi></msup></mfrac><mo>=</mo><mi mathvariant=\"normal\">S</mi></math> (say)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">S</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><msup><mn>2</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>3</mn><msup><mn>2</mn><mn>3</mn></msup></mfrac><mo>+</mo><mo>…</mo><mo>.</mo><mo>+</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo> </mo><mi mathvariant=\"normal\">S</mi><mo>=</mo><mfrac><mn>1</mn><msup><mn>2</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mn>3</mn></msup></mfrac><mo>+</mo><mo>…</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><mn>12</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac><mo>+</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>14</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">S</mi><mo>-</mo><mfrac><mi mathvariant=\"normal\">S</mi><mn>2</mn></mfrac><mo>=</mo><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><msup><mn>2</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>3</mn><msup><mn>2</mn><mn>3</mn></msup></mfrac><mo>+</mo><mo>…</mo><mo>.</mo><mo>+</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac></mrow></mfenced><mo>-</mo><mfenced><mrow><mfrac><mn>1</mn><msup><mn>2</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mn>3</mn></msup></mfrac><mo>+</mo><mo>…</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><mn>12</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac><mo>+</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>14</mn></msup></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mi mathvariant=\"normal\">S</mi><mn>2</mn></mfrac><mo>=</mo><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>3</mn><msup><mn>2</mn><mn>3</mn></msup></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac></mrow></mfenced><mo>-</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>14</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mi mathvariant=\"normal\">S</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>·</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac></mrow><mrow><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfrac><mo>-</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>14</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mi mathvariant=\"normal\">S</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>·</mo><mfrac><mfrac><mrow><msup><mn>2</mn><mn>13</mn></msup><mo>-</mo><mn>1</mn></mrow><msup><mn>2</mn><mn>13</mn></msup></mfrac><mfrac><mn>1</mn><mn>2</mn></mfrac></mfrac><mo>-</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>14</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">S</mi><mo>=</mo><mn>2</mn><mo>·</mo><mfenced><mfrac><mrow><msup><mn>2</mn><mn>13</mn></msup><mo>-</mo><mn>1</mn></mrow><msup><mn>2</mn><mn>13</mn></msup></mfrac></mfenced><mo>-</mo><mfrac><mn>13</mn><msup><mn>2</mn><mn>13</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">S</mi><mo>=</mo><mfenced><mfrac><mrow><msup><mn>2</mn><mn>14</mn></msup><mo>-</mo><mn>2</mn><mo>-</mo><mn>13</mn></mrow><msup><mn>2</mn><mn>13</mn></msup></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">S</mi><mo>=</mo><mfenced><mfrac><mrow><msup><mn>2</mn><mn>14</mn></msup><mo>-</mo><mn>15</mn></mrow><msup><mn>2</mn><mn>13</mn></msup></mfrac></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6682bd3aba0e94a3c4025b55",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (27 Jan Shift 1)",
+    "paper_year_short": "2024 (27 Jan Shift 1)",
+    "held_on": "2024-01-27T09:00:00.000Z",
+    "question_text": "Let the set of all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>∈</mo><mi>R</mi></math> such that the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>a</mi><mi>sin</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>a</mi><mo>-</mo><mn>7</mn></math> has a solution be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>p</mi><mo>,</mo><mo> </mo><mi>q</mi><mo>]</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mi>tan</mi><mn>9</mn><mo>°</mo><mo>-</mo><mi>tan</mi><mn>27</mn><mo>°</mo><mo>-</mo><mfrac><mn>1</mn><mrow><mi>cot</mi><mn>63</mn><mo>°</mo></mrow></mfrac><mo>+</mo><mi>tan</mi><mn>81</mn><mo>°</mo></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mi>q</mi><mi>r</mi></math> is equal to ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "48",
+    "solution_text": "<p>Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>a</mi><mo>·</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>a</mi><mo>-</mo><mn>7</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>1</mn><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mi>a</mi><mo>×</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>a</mi><mo>-</mo><mn>7</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>a</mi><mo>×</mo><mi>sin</mi><mi>x</mi><mo>-</mo><mn>2</mn><mi>a</mi><mo>=</mo><mo>-</mo><mn>8</mn><mo>+</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>a</mi><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>2</mn><mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>a</mi><mo>(</mo><mi>sin</mi><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>2</mn><mo>(</mo><mi>sin</mi><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mn>2</mn><mo> </mo><mfenced close=\"]\" open=\"[\"><mtext>Not possible</mtext></mfenced><mo>,</mo><mo> </mo><mi>a</mi><mo>=</mo><mn>2</mn><mo>(</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></math></p><p>We know that, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>≤</mo><mi>sin</mi><mi>x</mi><mo>≤</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">a</mi><mo>∈</mo><mo>[</mo><mn>2</mn><mo>,</mo><mn>6</mn><mo>]</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>p</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo> </mo><mi>q</mi><mo>=</mo><mn>6</mn></math></p><p>Now, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mi>tan</mi><msup><mn>9</mn><mo>°</mo></msup><mo>+</mo><mi>cot</mi><msup><mn>9</mn><mo>°</mo></msup><mo>-</mo><mi>tan</mi><msup><mn>27</mn><mo>°</mo></msup><mo>-</mo><mi>cot</mi><msup><mn>27</mn><mo>°</mo></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mfrac><mrow><msup><mi>cos</mi><mn>2</mn></msup><msup><mn>9</mn><mo>°</mo></msup><mo>+</mo><msup><mi>sin</mi><mn>2</mn></msup><msup><mn>9</mn><mo>°</mo></msup></mrow><mrow><mi>sin</mi><msup><mn>9</mn><mo>°</mo></msup><mo>·</mo><mi>cos</mi><msup><mn>9</mn><mo>°</mo></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mi>cos</mi><mn>2</mn></msup><msup><mn>27</mn><mo>°</mo></msup><mo>+</mo><msup><mi>sin</mi><mn>2</mn></msup><msup><mn>27</mn><mo>°</mo></msup></mrow><mrow><mi>sin</mi><msup><mn>27</mn><mo>°</mo></msup><mo>·</mo><mi>cos</mi><msup><mn>27</mn><mo>°</mo></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mi>sin</mi><msup><mn>9</mn><mo>°</mo></msup><mo>·</mo><mi>cos</mi><msup><mn>9</mn><mo>°</mo></msup></mrow></mfrac><mo>-</mo><mfrac><mn>1</mn><mrow><mi>sin</mi><msup><mn>27</mn><mo>°</mo></msup><mo>·</mo><mi>cos</mi><msup><mn>27</mn><mo>°</mo></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mfrac><mn>2</mn><mrow><mn>2</mn><mo>×</mo><mi>sin</mi><msup><mn>9</mn><mo>°</mo></msup><mo>·</mo><mi>cos</mi><msup><mn>9</mn><mo>°</mo></msup></mrow></mfrac><mo>-</mo><mfrac><mn>2</mn><mrow><mn>2</mn><mo>×</mo><mi>sin</mi><msup><mn>27</mn><mo>°</mo></msup><mo>·</mo><mi>cos</mi><msup><mn>27</mn><mo>°</mo></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mfrac><mn>2</mn><mrow><mi>sin</mi><msup><mn>18</mn><mo>°</mo></msup></mrow></mfrac><mo>-</mo><mfrac><mn>2</mn><mrow><mi>sin</mi><msup><mn>54</mn><mo>°</mo></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mn>2</mn><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>4</mn><mrow><msqrt><mn>5</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfrac><mo>-</mo><mfrac><mn>4</mn><mrow><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mn>8</mn><mfenced close=\"]\" open=\"[\"><mfrac><mrow><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>1</mn><mo>-</mo><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>1</mn></mrow><mrow><mn>5</mn><mo>-</mo><mn>1</mn></mrow></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mn>8</mn><mfenced><mfrac><mn>2</mn><mn>4</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>r</mi><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>p</mi><mo>·</mo><mi>q</mi><mo>·</mo><mi>r</mi><mo>=</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>×</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>p</mi><mo>·</mo><mi>q</mi><mo>·</mo><mi>r</mi><mo>=</mo><mn>48</mn></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf43d43b5ec151ee550a",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (11 Apr Shift 1)",
+    "paper_year_short": "2023 (11 Apr Shift 1)",
+    "held_on": "2023-04-11T09:00:00.000Z",
+    "question_text": "The number of elements in the set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>&#952;</mi><mo>&#8712;</mo><mo>[</mo><mn>0</mn><mo>,</mo><mn>2</mn><mi>&#960;</mi><mo>]</mo><mo>:</mo><mn>3</mn><msup><mi>cos</mi><mn>4</mn></msup><mi>&#952;</mi><mo>-</mo><mn>5</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>6</mn></msup><mi>&#952;</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></mrow></mfenced></math>&nbsp;is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "D1TkP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math>",
+        "image": null
+      },
+      {
+        "id": "haxs1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "7gjQK",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn></math>",
+        "image": null
+      },
+      {
+        "id": "CWfye",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "CWfye",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>cos</mi><mn>4</mn></msup><mi>&#952;</mi><mo>-</mo><mn>5</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>6</mn></msup><mi>&#952;</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mfenced close=\"]\" open=\"[\"><mrow><mn>3</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>5</mn></mrow></mfenced><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>6</mn></msup><mi>&#952;</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></mfenced><mfenced><mrow><mn>3</mn><mo>-</mo><mn>3</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>5</mn></mrow></mfenced><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>6</mn></msup><mi>&#952;</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mn>3</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>6</mn></msup><mi>&#952;</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><mi>t</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>t</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mn>3</mn><mi>t</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>2</mn><msup><mi>t</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>t</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mn>3</mn><mi>t</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>2</mn><mfenced><mrow><msup><mi>t</mi><mn>3</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p>We know that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>a</mi><mn>3</mn></msup><mo>-</mo><msup><mi>b</mi><mn>3</mn></msup><mo>=</mo><mfenced><mrow><mi>a</mi><mo>-</mo><mi>b</mi></mrow></mfenced><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>t</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mn>3</mn><mi>t</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>2</mn><mfenced><mrow><mi>t</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mi>t</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>t</mi><mo>-</mo><mn>1</mn><mo>)</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>3</mn><mi>t</mi><mo>+</mo><mn>2</mn><mo>-</mo><mn>2</mn><mfenced><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mi>t</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>t</mi><mo>-</mo><mn>1</mn><mo>)</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>2</mn><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mi>t</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>t</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><mn>0</mn></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#960;</mi><mo>,</mo><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><mn>1</mn></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>11</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>6</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;Total solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>9</mn></math></p><p>Hence this is the required option.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d6852f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (10 Apr Shift 2)",
+    "paper_year_short": "2023 (10 Apr Shift 2)",
+    "held_on": "2023-04-10T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mo>-</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>,</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced><mo>:</mo><msup><mn>9</mn><mrow><mn>1</mn><mo>-</mo><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>+</mo><msup><mn>9</mn><mrow><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mn>10</mn></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><munder><mo>&#8721;</mo><mrow><mi>x</mi><mo>&#8712;</mo><mi>S</mi></mrow></munder><msup><mi>tan</mi><mn>2</mn></msup><mfenced><mfrac><mi>x</mi><mn>3</mn></mfrac></mfenced></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>(</mo><mi>&#946;</mi><mo>-</mo><mn>14</mn><msup><mo>)</mo><mn>2</mn></msup></math> is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "imAl9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn></math>",
+        "image": null
+      },
+      {
+        "id": "PgSG2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "xbZhE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>64</mn></math>",
+        "image": null
+      },
+      {
+        "id": "1v3rU",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1v3rU",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>9</mn><mrow><mn>1</mn><mo>-</mo><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>+</mo><msup><mn>9</mn><mrow><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mn>10</mn></math></p><p>Now let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>9</mn><mrow><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mi>t</mi></math>, then above equation will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mi>t</mi></mfrac><mo>+</mo><mi>t</mi><mo>=</mo><mn>10</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>10</mn><mi>t</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>t</mi><mo>=</mo><mn>9</mn><mo>&#160;</mo><mtext>or</mtext><mo>&#160;</mo><mi>t</mi><mo>=</mo><mn>1</mn></math></p><p>So, when&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>9</mn><mrow><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mn>9</mn><mo>&#8658;</mo><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>tan</mi><mi>x</mi><mo>=</mo><mo>&#177;</mo><mn>1</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mo>&#177;</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>4</mn></mfrac></math>, as given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mfrac><mrow><mo>-</mo><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p>Now when&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>9</mn><mrow><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>tan</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><mstyle displaystyle=\"false\"><munder><mo>&#8721;</mo><mrow><mi>x</mi><mo>&#8712;</mo><mi>S</mi></mrow></munder></mstyle><mfenced><mfrac><mi>x</mi><mn>3</mn></mfrac></mfenced><mo>=</mo><msup><mi>tan</mi><mn>2</mn></msup><mfenced><mfrac><mn>0</mn><mn>3</mn></mfrac></mfenced><mo>+</mo><msup><mi>tan</mi><mn>2</mn></msup><mfenced><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>12</mn></mfrac></mfenced><mo>+</mo><msup><mi>tan</mi><mn>2</mn></msup><mfenced><mfrac><mrow><mo>-</mo><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>12</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>+</mo><mn>2</mn><msup><mfenced><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>14</mn><mo>-</mo><mn>8</mn><msqrt><mn>3</mn></msqrt></math></p><p>So, the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>6</mn></mfrac><msup><mfenced><mrow><mi>&#946;</mi><mo>-</mo><mn>14</mn></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mn>64</mn><mo>&#215;</mo><mn>3</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>32</mn></math></p><p>Hence this is the correct option.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d681a5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (29 Jan Shift 2)",
+    "paper_year_short": "2023 (29 Jan Shift 2)",
+    "held_on": "2023-01-29T14:00:00.000Z",
+    "question_text": "The set of all values of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi></math> for which the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>4</mn></msup><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mi>&#955;</mi></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TKZyV",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "SU0FC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "nd7e8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "DhoAC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "DhoAC",
+    "solution_text": "<p>Given:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>4</mn></msup><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><msup><mfenced><mrow><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mn>2</mn><msup><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mn>4</mn><msup><mi>cos</mi><mn>4</mn></msup><mi>x</mi><mo>-</mo><mn>4</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn><mfenced><mrow><mn>1</mn><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>4</mn></msup><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mn>2</mn><msup><mi>cos</mi><mn>4</mn></msup><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mn>2</mn><msup><mi>cos</mi><mn>4</mn></msup><mi>x</mi><mo>-</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mn>2</mn><mfenced open=\"[\" close=\"]\"><mrow><msup><mi>cos</mi><mn>4</mn></msup><mi>x</mi><mo>-</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mn>2</mn><mfenced open=\"[\" close=\"]\"><mrow><msup><mfenced><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfenced></math></p><p>So,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi>max</mi></msub><mo>=</mo><mn>2</mn><mfenced><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfenced><mo>=</mo><mo>-</mo><mn>1</mn></math>&nbsp; (max Value)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi>min</mi></msub><mo>=</mo><mn>2</mn><mfenced><mrow><mn>0</mn><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfenced><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math>&nbsp; (Minimum Value)</p><p>So, range of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi></math>&nbsp;is<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67e28",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jul Shift 2)",
+    "paper_year_short": "2022 (29 Jul Shift 2)",
+    "held_on": "2022-07-29T14:00:00.000Z",
+    "question_text": "<p>The number of elements in the set</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>:</mo><mn>2</mn><mi>cos</mi><mfenced><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mfenced><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>+</mo><msup><mn>4</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup></mrow></mfenced></math>&nbsp;is</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OvFzQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "3m35m",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ng5Ik",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ClzdB",
+        "text": "infinite",
+        "image": null
+      }
+    ],
+    "correct_answer": "OvFzQ",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mfenced><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mfenced><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>+</mo><msup><mn>4</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup></math></p><p>Now we know that maximum value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi></math>&nbsp;function is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>, so&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mfenced><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mfenced><mo>&#8804;</mo><mn>2</mn></math>&nbsp;and using&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo><mi>M</mi><mo>&#8805;</mo><mi>G</mi><mo>.</mo><mi>M</mi></math>&nbsp;we get&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>4</mn><mi>x</mi></msup><mo>+</mo><msup><mn>4</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup><mo>&#8805;</mo><mn>2</mn></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">H</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mo>&#8804;</mo><mn>2</mn><mo>.</mo><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>.</mo><mi mathvariant=\"normal\">H</mi><mo>.</mo><mi mathvariant=\"normal\">s</mi><mo>&#160;</mo><mo>&#8805;</mo><mn>2</mn></math></p><p>Hence&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">H</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mo>=</mo><mn>2</mn><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>.</mo><mi mathvariant=\"normal\">H</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mo>=</mo><mn>2</mn></math></p><p>Now equating both to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mfenced><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mfenced><mo>=</mo><mn>2</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>4</mn><mi>x</mi></msup><mo>+</mo><msup><mn>4</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup><mo>=</mo><mn>2</mn></math></p><p>Now solving&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mfenced><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mfenced><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mfenced><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></mrow><mn>6</mn></mfrac><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mtext>or</mtext><mo>&#160;</mo><mo>-</mo><mn>1</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>Now solving&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>4</mn><mi>x</mi></msup><mo>+</mo><msup><mn>4</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup><mo>=</mo><mn>2</mn></math>&nbsp;we get&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>2</mn></mfenced></math>&nbsp;</p><p>Now from equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mn>2</mn></mfenced></math>&nbsp;we can see common solution is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math>&nbsp;</p><p>Hence, possible solution is only one.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d679fd",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jul Shift 2)",
+    "paper_year_short": "2022 (26 Jul Shift 2)",
+    "held_on": "2022-07-26T14:00:00.000Z",
+    "question_text": "If the sum of solutions of the system of equations <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mi>cos</mi><mn>2</mn><mi>&#952;</mi><mo>=</mo><mn>0</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>+</mo><mn>3</mn><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>0</mn></math>&nbsp;in the interval <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mn>0</mn><mo>,</mo><mn>2</mn><mi>&#960;</mi></mrow></mfenced></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mi>&#960;</mi></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi></math> is equal to _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mi>cos</mi><mn>2</mn><mi>&#952;</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#952;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>11</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac></math></p><p>Also given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>+</mo><mn>3</mn><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>3</mn><mi>sin</mi><mi>&#952;</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#952;</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>11</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac></math></p><p>So, the common solution is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac><mo>,</mo><mfrac><mrow><mn>11</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac></math></p><p>Sum&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi><mo>+</mo><mn>11</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac><mo>=</mo><mn>3</mn><mi>&#960;</mi><mo>=</mo><mi mathvariant=\"normal\">k</mi><mi>&#960;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>K</mi><mo>=</mo><mn>3</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d6799c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jul Shift 1)",
+    "paper_year_short": "2022 (26 Jul Shift 1)",
+    "held_on": "2022-07-26T09:00:00.000Z",
+    "question_text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>&#952;</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mn>2</mn><mi>&#960;</mi></mrow></mfenced><mo>:</mo><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>+</mo><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>=</mo><mn>16</mn></mrow></mfenced></math>. Then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mi>S</mi></mfenced><mo>+</mo><munder><mo>&#8721;</mo><mrow><mi>&#952;</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">S</mi></mrow></munder><mfenced><mrow><mi>sec</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mi>&#952;</mi></mrow></mfenced><mo>cosec</mo><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mi>&#952;</mi></mrow></mfenced></mrow></mfenced></math>&nbsp;is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PECXy",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "XhZXO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "T7L4N",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "qDkcl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "T7L4N",
+    "solution_text": "<blockquote><p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>+</mo><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>=</mo><mn>16</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>+</mo><msup><mn>8</mn><mrow><mn>2</mn><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>=</mo><mn>16</mn></math></p><p>Now let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>=</mo><mi>y</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>+</mo><mfrac><mn>64</mn><mi>y</mi></mfrac><mo>=</mo><mn>16</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mn>8</mn><mrow><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></msup><mo>=</mo><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#952;</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>4</mn></mfrac><mo>,</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>4</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>4</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>4</mn></mfrac></mrow></mfenced></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mi>S</mi></mfenced><mo>+</mo><munder><mo>&#8721;</mo><mrow><mi>&#952;</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">S</mi></mrow></munder><mfenced><mrow><mi>sec</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mi>&#952;</mi></mrow></mfenced><mo>cosec</mo><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mi>&#952;</mi></mrow></mfenced></mrow></mfenced></math></p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi mathvariant=\"normal\">n</mi><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>+</mo><munder><mo>&#8721;</mo><mrow><mi>&#952;</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">S</mi></mrow></munder><mfrac><mn>1</mn><mrow><mi>cos</mi><mfenced><mrow><mstyle displaystyle=\"true\"><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></mstyle><mo>+</mo><mn>2</mn><mi>&#952;</mi></mrow></mfenced><mi>sin</mi><mfenced><mrow><mstyle displaystyle=\"true\"><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></mstyle><mo>+</mo><mn>2</mn><mi>&#952;</mi></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>+</mo><munder><mo>&#8721;</mo><mrow><mi>&#952;</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">S</mi></mrow></munder><mfrac><mn>2</mn><mrow><mn>2</mn><mi>cos</mi><mfenced><mstyle displaystyle=\"true\"><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mi>&#952;</mi></mstyle></mfenced><mi>sin</mi><mfenced><mstyle displaystyle=\"true\"><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mi>&#952;</mi></mstyle></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>+</mo><munder><mo>&#8721;</mo><mrow><mi>&#952;</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">S</mi></mrow></munder><mn>2</mn><mi>cos</mi><mtext>ec</mtext><mfenced><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mn>4</mn><mi>&#952;</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>+</mo><mn>2</mn><mi>cos</mi><mtext>ec</mtext><mfenced><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mi mathvariant=\"normal\">&#960;</mi></mrow></mfenced><mtext>+</mtext><mn>2</mn><mi>cos</mi><mtext>ec</mtext><mfenced><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#960;</mi></mrow></mfenced><mtext>+</mtext><mn>2</mn><mi>cos</mi><mtext>ec</mtext><mfenced><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mn>5</mn><mi mathvariant=\"normal\">&#960;</mi></mrow></mfenced><mtext>+</mtext><mn>2</mn><mi>cos</mi><mtext>ec</mtext><mfenced><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mn>7</mn><mi mathvariant=\"normal\">&#960;</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>+</mo><mn>2</mn><mfenced close=\"]\" open=\"[\"><mrow><mo>-</mo><mi>cos</mi><mtext>ec</mtext><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac><mo>-</mo><mi>cos</mi><mtext>ec</mtext><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac><mo>-</mo><mi>cos</mi><mtext>ec</mtext><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac><mo>-</mo><mi>cos</mi><mtext>ec</mtext><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>+</mo><mfenced><mrow><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#215;</mo><mn>4</mn><mo>=</mo><mo>-</mo><mn>4</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67834",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (25 Jul Shift 1)",
+    "paper_year_short": "2022 (25 Jul Shift 1)",
+    "held_on": "2022-07-25T09:00:00.000Z",
+    "question_text": "The number of solutions of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mi>sin</mi><mi>x</mi></math>, such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>4</mn><mi>&#960;</mi><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mn>4</mn><mi>&#960;</mi></math> is&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ykgPL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ReQTO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "8o3tD",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "DW40V",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "8o3tD",
+    "solution_text": "<blockquote><p>The number of solutions will be the number of points of intersection of&nbsp;the graphs <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mi>sin</mi><mi>x</mi></math></p><p>Plotting the two curves on the same axis, we get,&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/59811bf7-4463-4c2a-91b5-85f4660f9c5d-image.png\" style=\"width: 456px; height: 200px;\" /></p><p>the number of intersection as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67ee8",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jun Shift 2)",
+    "paper_year_short": "2022 (29 Jun Shift 2)",
+    "held_on": "2022-06-29T14:00:00.000Z",
+    "question_text": "The number of solutions of the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mo>&#160;</mo><mi>x</mi><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mo>&#160;</mo><mi>x</mi></math>&nbsp;in the interval&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>10</mn></mrow></mfenced></math>&nbsp;is ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mi>sin</mi><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mfrac><mfenced><mrow><mo>-</mo><mn>1</mn><mo>&#177;</mo><msqrt><mn>5</mn></msqrt></mrow></mfenced><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mfrac><mfenced><mrow><msqrt><mn>5</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mn>2</mn></mfrac></math></p><p>Now plotting the graph we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/fb839449-bb1d-4fcf-8b19-c9bcdc42fb84-image.png\" style=\"width: 415px; height: 130px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo></math>Now by graph number of solutions in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mn>10</mn></mrow></mfenced><mo>=</mo><mn>4</mn></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d677d5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (24 Jun Shift 2)",
+    "paper_year_short": "2022 (24 Jun Shift 2)",
+    "held_on": "2022-06-24T14:00:00.000Z",
+    "question_text": "The number of solutions of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac></mrow></mfenced><mi>cos</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>3</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mo>-</mo><mn>3</mn><mi>&#960;</mi><mo>,</mo><mn>3</mn><mi>&#960;</mi></mrow></mfenced></math>&nbsp;is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "KPfrd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "TmkK0",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ytIfE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "srVp1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "srVp1",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac></mrow></mfenced><mi>cos</mi><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><msup><mi>cos</mi><mn>2</mn></msup><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>cos</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac></mrow></mfenced><mi>cos</mi><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>cos</mi><mn>2</mn></msup><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced><mo>+</mo><mi>cos</mi><mfenced><mfrac><mrow><mn>2</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mfenced><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mi>cos</mi><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>&#160;</mo></math>or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi>cos</mi><mn>2</mn><mi>x</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>x</mi><mo>=</mo><mo>-</mo><mn>6</mn><mi>&#960;</mi><mo>,</mo><mo>-</mo><mn>4</mn><mi>&#960;</mi><mo>,</mo><mo>-</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mn>0</mn><mo>,</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mn>4</mn><mi>&#960;</mi><mo>,</mo><mn>6</mn><mi>&#960;</mi></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mo>-</mo><mn>3</mn><mi>&#960;</mi><mo>,</mo><mo>-</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mo>-</mo><mi>&#960;</mi><mo>,</mo><mn>0</mn><mo>,</mo><mi>&#960;</mi><mo>,</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mn>3</mn><mi>&#960;</mi></mrow></mfenced></math></p><p>So total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>&nbsp;solutions.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66e55",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (01 Sep Shift 2)",
+    "paper_year_short": "2021 (01 Sep Shift 2)",
+    "held_on": "2021-09-01T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is the number of solutions of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mi>x</mi><mfenced><mrow><mn>4</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mi>x</mi></mrow></mfenced><mi>sin</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>1</mn><mo>,</mo></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mi>&#960;</mi></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> is the sum of all these solutions, then the ordered pair <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>n</mi><mo>,</mo><mi>S</mi></mrow></mfenced></math> is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9bdJg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>,</mo><mfrac><mrow><mn>8</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "wF4XQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>3</mn><mo>,</mo><mfrac><mrow><mn>13</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>9</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "dOoKt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>,</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "rdXLB",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>3</mn><mo>,</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wF4XQ",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mi>x</mi><mfenced><mrow><mn>4</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>+</mo><mi>x</mi></mrow></mfenced><mi>sin</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>2</mn><mi>cos</mi><mi>x</mi><mfenced><mrow><mn>2</mn><mi>cos</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><mi>cos</mi><mfenced><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>2</mn><mi>cos</mi><mi>x</mi><mfenced><mrow><mn>2</mn><mo>.</mo><mfenced><mrow><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mn>2</mn><mi>cos</mi><mi>x</mi><mfenced><mrow><mn>4</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>-</mo><mn>3</mn><mi>cos</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>cos</mi><mn>3</mn><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mn>3</mn><mi mathvariant=\"normal\">x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>9</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac></math></p><p>No. of solutions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>n</mi><mo>=</mo><mn>3</mn></math></p><p>Sum of solutions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>S</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mn>13</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf45d43b5ec151ee550b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (25 Jul Shift 2)",
+    "paper_year_short": "2021 (25 Jul Shift 2)",
+    "held_on": "2021-07-25T14:00:00.000Z",
+    "question_text": "The number of distinct real roots of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mtable columnalign=\"left\"><mtr><mtd><mi>sin</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd></mtr><mtr><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>sin</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd></mtr><mtr><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>sin</mi><mi>x</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math>&nbsp;in the interval <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xqUf4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "21mDF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "VZIzN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "5gMcn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "21mDF",
+    "solution_text": "<p>We have,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mtable columnalign=\"left\"><mtr><mtd><mi>sin</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd></mtr><mtr><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>sin</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd></mtr><mtr><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>sin</mi><mi>x</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn><mo>,</mo><mo>-</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></math></p><p>Apply:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>&#8594;</mo><msub><mi>R</mi><mn>1</mn></msub><mo>-</mo><msub><mi>R</mi><mn>2</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>&#8594;</mo><msub><mi>R</mi><mn>2</mn></msub><mo>-</mo><msub><mi>R</mi><mn>3</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mi>sin</mi><mi>x</mi><mo>-</mo><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mi>x</mi></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mi>sin</mi><mi>x</mi><mo>-</mo><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mi>x</mi></mtd></mtr><mtr><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>sin</mi><mi>x</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>-</mo><mi>cos</mi><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>cos</mi><mi>x</mi></mtd><mtd><mi>sin</mi><mi>x</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>-</mo><mi>cos</mi><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mi>cos</mi><mi>x</mi></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>cos</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></math></p><p>Since, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>-</mo><mi>&#960;</mi></mrow><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>,</mo></math>&nbsp;we get <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>&#8804;</mo><mi>tan</mi><mi>x</mi><mo>&#8804;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>tan</mi><mi>x</mi><mo>=</mo><mn>1</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></math></p><p>Hence, number of roots is one.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d67342",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (25 Jul Shift 1)",
+    "paper_year_short": "2021 (25 Jul Shift 1)",
+    "held_on": "2021-07-25T09:00:00.000Z",
+    "question_text": "The sum of all values of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mn>0</mn><mo>,</mo><mn>2</mn><mi>&#960;</mi><mo>]</mo></math>, for which&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>+</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>4</mn><mi>x</mi><mo>=</mo><mn>0</mn></math>, is equal to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uEaOb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>&#960;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "kypms",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mi>&#960;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "yL40F",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mi>&#960;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "LMtYp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mi>&#960;</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LMtYp",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>+</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>4</mn><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mi>sin</mi><mn>4</mn><mi>x</mi><mo>)</mo><mo>+</mo><mo>(</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi><mo>)</mo><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>sin</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mi>cos</mi><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>+</mo><mn>2</mn><mi>sin</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>sin</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mfenced open=\"{\" close=\"}\"><mrow><mi>cos</mi><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>+</mo><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>sin</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mfenced close=\"}\" open=\"{\"><mrow><mn>2</mn><mi>cos</mi><mi>x</mi><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>sin</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#960;</mi><mo>,</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mn>3</mn><mi>&#960;</mi><mo>,</mo><mn>4</mn><mi>&#960;</mi><mo>,</mo><mn>5</mn><mi>&#960;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac><mo>,</mo><mfrac><mrow><mn>4</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac><mo>,</mo><mfrac><mrow><mn>6</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac><mo>,</mo><mfrac><mrow><mn>8</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac><mo>,</mo><mn>2</mn><mi>&#960;</mi></math></p><p>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mi>&#960;</mi></math></p><p>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac></math></p><p>So sum&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mi>&#960;</mi><mo>+</mo><mi>&#960;</mi><mo>+</mo><mn>2</mn><mi>&#960;</mi><mo>=</mo><mn>9</mn><mi>&#960;</mi></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d67184",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (22 Jul Shift 1)",
+    "paper_year_short": "2021 (22 Jul Shift 1)",
+    "held_on": "2021-07-22T09:00:00.000Z",
+    "question_text": "The number of solutions of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>7</mn></msup><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>7</mn></msup><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8712;</mo><mo>[</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>4</mn><mi>&#960;</mi><mo>]</mo></math>&nbsp; is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YvXCp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn></math>",
+        "image": null
+      },
+      {
+        "id": "v3rVi",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>",
+        "image": null
+      },
+      {
+        "id": "6SwNj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "nkAhR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "6SwNj",
+    "solution_text": "<p>We know that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#8804;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>&#8804;</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#8804;</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>&#8804;</mo><mn>1</mn></math></p><p>Also, we know for a number which lie between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>,</mo></math>&nbsp;higher the power of the number the less is its value.&nbsp;&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>sin</mi><mn>7</mn></msup><mi>x</mi><mo>&#8804;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>&#8804;</mo><mn>1</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8230;</mo><mfenced><mn>1</mn></mfenced></math></p><p>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>7</mn></msup><mi>x</mi><mo>&#8804;</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>&#8804;</mo><mn>1</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8230;</mo><mfenced><mn>2</mn></mfenced></math></p><p>Also, we know that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mn>1</mn></math></p><p>This means the equality must hold&nbsp;for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>sin</mi><mn>7</mn></msup><mi>x</mi><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>7</mn></msup><mi>x</mi><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mfenced><mrow><msup><mi>sin</mi><mn>5</mn></msup><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mfenced><mrow><msup><mi>cos</mi><mn>5</mn></msup><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mn>0</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>=</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>=</mo><mn>1</mn></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mo>&#160;</mo><mn>4</mn><mi>&#960;</mi><mo>,</mo><mo>&#160;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac><mo>.</mo></math></p><p>Thus, there are total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;solutions.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66eb7",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (16 Mar Shift 1)",
+    "paper_year_short": "2021 (16 Mar Shift 1)",
+    "held_on": "2021-03-16T09:00:00.000Z",
+    "question_text": "The number of roots of the equation,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>+</mo><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mn>30</mn></math>&nbsp;in the interval <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mn>0</mn><mo>,</mo><mi>&#960;</mi></mrow></mfenced></math> is equal to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "noWdP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Fro0c",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "k4pEY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "WDD52",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Fro0c",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>+</mo><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mn>30</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>+</mo><mfrac><msup><mfenced><mn>81</mn></mfenced><mn>1</mn></msup><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup></mfrac><mo>=</mo><mn>30</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><mi>t</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>+</mo><mfrac><mn>81</mn><mi>t</mi></mfrac><mo>=</mo><mn>30</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>30</mn><mi>t</mi><mo>+</mo><mn>81</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>t</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mfenced><mrow><mi>t</mi><mo>-</mo><mn>27</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><msup><mn>3</mn><mn>1</mn></msup></math>&nbsp;or&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mn>81</mn></mfenced><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><msup><mn>3</mn><mn>3</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>3</mn><mrow><mn>4</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><msup><mn>3</mn><mn>1</mn></msup></math>&nbsp; or&nbsp;&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>3</mn><mrow><mn>4</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></msup><mo>=</mo><msup><mn>3</mn><mn>3</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math>&nbsp; or&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/4d74cd18-9d96-4d27-8234-8dbf50118c7c-image.png\" style=\"width: 248px; height: 114px;\" />&nbsp;&nbsp;</p><p>Hence, total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> solution.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf4ed43b5ec151ee5510",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (26 Feb Shift 1)",
+    "paper_year_short": "2021 (26 Feb Shift 1)",
+    "held_on": "2021-02-26T09:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt><mfenced><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mi>cos</mi><mi>x</mi><mo>+</mo><mn>1</mn></math>, then number of solutions of the given equation when&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math> is ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt><msup><mfenced><mrow><mi>cos</mi><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mo>-</mo><msqrt><mn>3</mn></msqrt><mi>cos</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><msqrt><mn>3</mn></msqrt><mi>cos</mi><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>cos</mi><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mi>x</mi><mo>=</mo><mn>1</mn></math> or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac></math> (reject)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>0</mn></math> only</p><p>Hence, only one solution.</p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf50d43b5ec151ee5512",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Apr Shift 2)",
+    "paper_year_short": "2019 (12 Apr Shift 2)",
+    "held_on": "2019-04-12T14:00:00.000Z",
+    "question_text": "Let <math><mi>S</mi></math> be the set of all <math><mi>&#945;</mi><mtext>&#8201;</mtext><mo>&#8712;</mo><mtext>&#8201;</mtext><mi>R</mi></math> such that the equation, <math><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>&#945;</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>&#945;</mi><mo>-</mo><mn>7</mn></math> has a solution. Then <math><mi>S</mi></math> is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uPIsf",
+        "text": "<math><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>3</mn><mo>,</mo><mi> </mi><mn>7</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "rzJAg",
+        "text": "<math><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mi> </mi><mn>6</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "XLmvB",
+        "text": "<math><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi> </mi><mn>4</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "ZjRhe",
+        "text": "R",
+        "image": null
+      }
+    ],
+    "correct_answer": "rzJAg",
+    "solution_text": "The given equation can be written as:  <br/><math><mn>1</mn><mo>-</mo><mn>2</mn><mrow><mrow><msup><mrow><mi mathvariant=\"italic\">sin</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow><mo>+</mo><mi> </mi><mi>α</mi><mi> </mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>α</mi><mo>-</mo><mn>7</mn></math>  <br/><math><mo>⇒</mo><mn>2</mn><mrow><mrow><msup><mrow><mi mathvariant=\"italic\">sin</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow><mo>-</mo><mi>α</mi><mrow><mrow><mi mathvariant=\"italic\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow><mo>+</mo><mn>2</mn><mi>α</mi><mo>-</mo><mn>8</mn><mo>=</mo><mn>0</mn></math>  <br/><math><mo>⇒</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mi>α</mi><mo>-</mo><mn>4</mn><mi> </mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi> </mi><mi> </mi><mn>2</mn><mi> </mi><mfenced separators=\"|\"><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mi> </mi><mo>≠</mo><mn>2</mn></mrow></mfenced></math>  <br/>For at least one solution <br/><math><mo>-</mo><mn>1</mn><mo>≤</mo><mfrac><mrow><mi mathvariant=\"normal\">α</mi><mo>-</mo><mn>4</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"normal\"> </mi><mo>≤</mo><mn>1</mn></math>  <br/><math><mo>⇒</mo><mi mathvariant=\"normal\">α</mi><mo>∈</mo><mo>[</mo><mn>2,6</mn><mo>]</mo></math>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf4fd43b5ec151ee5511",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Apr Shift 1)",
+    "paper_year_short": "2019 (12 Apr Shift 1)",
+    "held_on": "2019-04-12T09:00:00.000Z",
+    "question_text": "The number of solutions of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>+</mo><msup><mi>sin</mi><mn>4</mn></msup><mi>x</mi><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>3</mn><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac></mrow></mfenced></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "npu3e",
+        "text": "<math><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ftz5U",
+        "text": "<math><mn>7</mn></math>",
+        "image": null
+      },
+      {
+        "id": "7llEC",
+        "text": "<math><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "7wyy3",
+        "text": "<math><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "npu3e",
+    "solution_text": "<p>The given trigonometric equation can be written as<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi></mrow><mn>2</mn></msup><mn>3</mn><mi>x</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi></mrow><mn>4</mn></msup><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi></mrow><mn>2</mn></msup><mn>3</mn><mi>x</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi></mrow><mn>4</mn></msup><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math><mo>&#8658;</mo><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mn>3</mn><mi>x</mi><mo>=</mo><mn>0</mn></math> and <math><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>x</mi><mo>=</mo><mn>0</mn></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac></mrow></mfenced><mi>&#160;</mi></math></p><p>In given interval <math><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>x</mi><mo>=</mo><mn>0</mn></math> at <math><mi>x</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mi>&#160;</mi><mo>-</mo><mi>&#960;</mi><mo>,</mo><mtext>&#8201;</mtext><mn>0</mn><mo>,</mo><mtext>&#8201;</mtext><mi>&#960;</mi><mo>,</mo><mi>&#160;</mi><mn>2</mn><mi>&#960;</mi></math> and these values are also satisfied by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mn>3</mn><mi>x</mi><mo>=</mo><mn>0</mn><mo>.</mo></math><br />Hence total number of solutions is <math><mn>5</mn><mo>.</mo></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf46d43b5ec151ee550c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (09 Apr Shift 1)",
+    "paper_year_short": "2019 (09 Apr Shift 1)",
+    "held_on": "2019-04-09T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#160;</mi><mi>S</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>&#952;</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mn>2</mn><mi>&#960;</mi></mrow></mfenced><mo>:</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>+</mo><mn>3</mn><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>0</mn></mrow></mfenced><mo>.</mo></math>&nbsp;Then the sum of the elements of <math><mi>S</mi></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rxg4Y",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#960;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "yb5k2",
+        "text": "<math><mfrac><mrow><mn>13</mn><mi>&#960;</mi></mrow><mrow><mn>6</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "bGQwQ",
+        "text": "<math><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "81gRh",
+        "text": "<math><mn>2</mn><mi>&#960;</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "81gRh",
+    "solution_text": "<p>The given equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>&#952;</mi><mo>+</mo><mn>3</mn><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>0</mn></math> can be written as</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>&#952;</mi></mrow></mfenced><mo>+</mo><mn>3</mn><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi></mrow><mn>2</mn></msup><mi>&#952;</mi><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>&#952;</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mn>2</mn><mi>sin</mi><mi>&#952;</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>sin</mi><mi>&#952;</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>&#160;</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mi>sin</mi><mi>&#952;</mi><mo>&#8800;</mo><mn>2</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>Hence, solutions in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mo>-</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo><mi>&#160;</mi><mn>2</mn><mi>&#960;</mi></mrow></mfenced></math> are<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi>&#960;</mi><mo>+</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>,</mo><mi>&#160;</mi><mo>-</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi><mo>+</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>,</mo><mi>&#160;</mi><mn>2</mn><mi>&#960;</mi><mo>-</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac></math></p><p>Sum of the elements is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mi>&#960;</mi><mo>.</mo></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d666dc",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (10 Jan Shift 1)",
+    "paper_year_short": "2019 (10 Jan Shift 1)",
+    "held_on": "2019-01-10T09:00:00.000Z",
+    "question_text": "The sum of all values of <math><mi>&#160;</mi><mi>&#952;</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math> satisfying <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mn>2</mn><mi>&#952;</mi><mo>+</mo><msup><mi>cos</mi><mn>4</mn></msup><mn>2</mn><mi>&#952;</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xW80Y",
+        "text": "<math><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "gT6bM",
+        "text": "<math><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mrow><mn>8</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Arech",
+        "text": "<math><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "bVKGx",
+        "text": "<math><mi>&#960;</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "xW80Y",
+    "solution_text": "<p>Given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mn>2</mn><mi>&#952;</mi><mo>+</mo><msup><mi>cos</mi><mn>4</mn></msup><mn>2</mn><mi>&#952;</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p>Using&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo></math>&nbsp;we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>-</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>&#952;</mi><mo>+</mo><msup><mi>cos</mi><mn>4</mn></msup><mn>2</mn><mi>&#952;</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>&#952;</mi><mo>=</mo><mi>t</mi></mrow></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mi>t</mi><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced separators=\"|\"><mrow><mi>t</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>t</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>cos</mi><mn>2</mn></msup><mn>2</mn><mi>&#952;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>&#952;</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></math></p><p>Using&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mn>2</mn><mi>A</mi><mo>=</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>A</mi><mo>-</mo><mn>1</mn><mo>,</mo></math>&nbsp;we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mrow><mn>4</mn><mi>&#952;</mi><mo>=</mo><mn>0</mn></mrow></math></p><p>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfenced><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac><mo>,</mo><mo>&#160;</mo><mi>n</mi><mo>&#8712;</mo><mi>Z</mi><mo>.</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>4</mn><mi>&#952;</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#952;</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfrac><mi>&#960;</mi><mn>8</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#952;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>8</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mn>8</mn></mfrac><mo>&#160;</mo><mo>&#8712;</mo><mo>&#160;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p>Hence, the sum of the values of <math><mi>&#952;</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>8</mn></mfrac><mo>+</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>8</mn></mfrac><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>.</mo></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "6557bf48d43b5ec151ee550d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (09 Jan Shift 2)",
+    "paper_year_short": "2019 (09 Jan Shift 2)",
+    "held_on": "2019-01-09T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>,</mo></math> then the number of values of <math><mi>x</mi></math> for which <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Sdfj1",
+        "text": "<math><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "C939M",
+        "text": "<math><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "P4zGi",
+        "text": "<math><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "uwsxt",
+        "text": "<math><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "P4zGi",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi><mo>-</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>sin</mi><mn>2</mn><mi>&#160;</mi><mi>x</mi><mi>&#160;</mi><mo>.</mo><mi>cos</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mn>2</mn><mi>x</mi><mo>=</mo><mn>0</mn></math> or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math><mo>&#8658;</mo><mn>2</mn><mi>x</mi><mo>=</mo><mn>0</mn></math> or <math><mi>x</mi><mo>=</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math></p><p><math><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>0</mn></math> or <math><mi>&#160;</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math></p><p><math><mo>&#8756;</mo></math>&nbsp;Number of solutions <math><mo>=</mo><mn>2</mn></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d662f2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (15 Apr Shift 2 Online)",
+    "paper_year_short": "2018 (15 Apr Shift 2 Online)",
+    "held_on": "2018-04-15T14:00:00.000Z",
+    "question_text": "The number of solutions of $\\sin 3 x=\\cos 2 x$, in the interval $\\left(\\frac{\\pi}{2}, \\pi\\right)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3h6zL",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "haA4n",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "rOgzV",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "fiWNI",
+        "text": "\n1",
+        "image": null
+      }
+    ],
+    "correct_answer": "fiWNI",
+    "solution_text": "$\\sin 3 x=\\cos 2 x$\n$$\n\\begin{aligned}\n&\\Rightarrow 3 \\sin x-4 \\sin ^3 x=1-2 \\sin ^2 x \\\\\n&\\Rightarrow 4 \\sin ^3 x-2 \\sin ^2 x-3 \\sin x+1=0 \\\\\n&\\Rightarrow \\sin x=1, \\frac{-2 \\pm 2 \\sqrt{5}}{8}\n\\end{aligned}\n$$\nIn the interval $\\left(\\frac{\\pi}{2}, \\pi\\right), \\sin x=\\frac{-2+2 \\sqrt{5}}{8}$\nSo, there is only one solution.",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d662a5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (15 Apr Shift 1 Online)",
+    "paper_year_short": "2018 (15 Apr Shift 1 Online)",
+    "held_on": "2018-04-15T09:00:00.000Z",
+    "question_text": "If $\\tan A$ and $\\tan B$ are the roots of the quadratic equation, $3 x^2-10 x-25=0$ then the value of $3 \\sin ^2(A+B)-10 \\sin (A+B) \\cdot \\cos (A+B)-25 \\cos ^2$ $(A+B)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fPaCd",
+        "text": "\n25\n",
+        "image": null
+      },
+      {
+        "id": "0TLE2",
+        "text": "\n$-25$\n",
+        "image": null
+      },
+      {
+        "id": "ZfUoc",
+        "text": "\n$-10$\n",
+        "image": null
+      },
+      {
+        "id": "vX5vE",
+        "text": "\n10",
+        "image": null
+      }
+    ],
+    "correct_answer": "0TLE2",
+    "solution_text": "As $\\tan A$ and $\\tan B$ are the roots of $3 x^2-10 x-25=0$\nSo, $\\tan (A+B)=\\frac{\\tan A+\\tan B}{1-\\tan A \\tan B}=\\frac{\\frac{10}{3}}{1+\\frac{25}{3}}$ $=\\frac{10 / 3}{28 / 3}=\\frac{5}{14}$\nNow, $\\cos ^2(A+B)=-1+2 \\cos ^2(A+B)$\n$=\\frac{1-\\tan ^2(A+B)}{1+\\tan ^2(A+B)} \\Rightarrow \\cos ^2(A+B)=\\frac{196}{221}$\n$\\therefore 3 \\sin ^2(A+B)-10 \\sin (A+B)$\n$=\\cos ^2(A+B)\\left[3 \\tan ^2(A+B)-10 \\tan (A+B)-25\\right]$\n$=\\frac{75-700-4900}{196} \\times \\frac{196}{221}=-\\frac{5525}{196} \\times \\frac{196}{221}=-25$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d6623f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (08 Apr)",
+    "paper_year_short": "2018 (08 Apr)",
+    "held_on": "2018-04-08T09:00:00.000Z",
+    "question_text": "If sum of all the solutions of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>cos</mi><mi>x</mi><mo>&#183;</mo><mfenced separators=\"|\"><mrow><mi>cos</mi><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>+</mo><mi>x</mi></mrow></mfenced><mo>&#183;</mo><mi>cos</mi><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mn>1</mn></math> in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi></mrow></mfenced></math> is <math><mi>k</mi><mi>&#960;</mi></math>, then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi></math> is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SJdag",
+        "text": "<math><mfrac><mrow><mn>20</mn></mrow><mrow><mn>9</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "2FpDw",
+        "text": "<math><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Unssf",
+        "text": "<math><mfrac><mrow><mn>13</mn></mrow><mrow><mn>9</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "lIa5Z",
+        "text": "<math><mfrac><mrow><mn>8</mn></mrow><mrow><mn>9</mn></mrow></mfrac><mi>&nbsp;</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Unssf",
+    "solution_text": "<p>Given equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>cos</mi><mi>x</mi><mo>.</mo><mfenced separators=\"|\"><mrow><mi>cos</mi><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>+</mo><mi>x</mi></mrow></mfenced><mo>.</mo><mi>cos</mi><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p>We would use the formula</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced separators=\"|\"><mrow><mi>A</mi><mo>+</mo><mi>B</mi></mrow></mfenced><mo>.</mo><mi>cos</mi><mfenced separators=\"|\"><mrow><mi>A</mi><mo>-</mo><mi>B</mi></mrow></mfenced><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>A</mi><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>B</mi></math></p><p>Now, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>+</mo><mi>x</mi></mrow></mfenced><mo>.</mo><mi>cos</mi><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mi>cos</mi><mn>2</mn></msup><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>8</mn><mi>cos</mi><mi>x</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>8</mn><mi>cos</mi><mi>x</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>8</mn><mi>cos</mi><mi>x</mi><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>-</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>8</mn><mi>cos</mi><mi>x</mi><mfenced separators=\"|\"><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>8</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>-</mo><mn>6</mn><mi>cos</mi><mi>x</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>4</mn><msup><mi>cos</mi><mn>3</mn></msup><mi>x</mi><mo>-</mo><mn>3</mn><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>cos</mi><mn>3</mn><mi>x</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mn>3</mn><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>General Solution <math><mn>3</mn><mi>x</mi><mo>=</mo><mn>2</mn><mi>n</mi><mi>&#960;</mi><mo>&#177;</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math></p><p><math><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>n</mi><mi>&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>&#177;</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>9</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>&#160;</mi><mi>x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>9</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac><mo>-</mo><mfrac><mi>&#960;</mi><mn>9</mn></mfrac><mo>,</mo><mi>&#160;</mi><mi>&#160;</mi><mfrac><mrow><mn>2</mn><mi>&#960;</mi></mrow><mn>3</mn></mfrac><mo>+</mo><mfrac><mi>&#960;</mi><mn>9</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Sum</mi><mo>=</mo><mfrac><mrow><mn>13</mn><mi>&#960;</mi></mrow><mn>9</mn></mfrac><mo>,</mo><mi>&#160;</mi><mi>k</mi><mo>=</mo><mfrac><mn>13</mn><mn>9</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d660e6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2016 (10 Apr Online)",
+    "paper_year_short": "2016 (10 Apr Online)",
+    "held_on": "2016-04-10T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>&#952;</mi><mo>:</mo><mi>sin</mi><mi>&#952;</mi><mo>-</mo><mi>cos</mi><mi>&#952;</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><mi>cos</mi><mi>&#952;</mi></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>&#952;</mi><mo>:</mo><mi>sin</mi><mi>&#952;</mi><mo>+</mo><mi>cos</mi><mi>&#952;</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><mi>sin</mi><mi>&#952;</mi></mrow></mfenced><mo>,</mo></math>&nbsp;be two sets. Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8Uyca",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>&#8834;</mo><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>-</mo><mi>P</mi><mi>&#160;</mi><mo>&#8800;</mo><mi>&#160;</mi><mi>&#981;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "8cU66",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>&#8836;</mo><mi>P</mi></math>",
+        "image": null
+      },
+      {
+        "id": "GDyHq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mi>Q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "d2R2Z",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>&#8836;</mo><mi>Q</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "GDyHq",
+    "solution_text": "<p><strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>:</mo><mo>&#160;</mo><mi>sin</mi><mi>&#952;</mi><mo>-</mo><mi>cos</mi><mi>&#952;</mi><mo>=</mo><mi>&#160;</mi><msqrt><mn>2</mn></msqrt><mi>cos</mi><mi>&#952;</mi></math></strong></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mi>cos</mi><mi>&#952;</mi><mo>+</mo><mi>&#160;</mi><msqrt><mn>2</mn></msqrt><mi>cos</mi><mi>&#952;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mi>&#952;</mi><mo>=</mo><mi>&#160;</mi><msqrt><mn>2</mn></msqrt><mo>+</mo><mn>1</mn></math></p><p><strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>:</mo><mi>sin</mi><mi>&#952;</mi><mo>+</mo><mi>cos</mi><mi>&#952;</mi><mo>=</mo><mi>&#160;</mi><msqrt><mn>2</mn></msqrt><mi>sin</mi><mi>&#952;</mi><mo>&#8658;</mo><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mi>cos</mi><mi>&#952;</mi><mi>&#160;</mi><mi>&#160;</mi></math></strong></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>tan</mi><mi>&#952;</mi><mo>=</mo><mi>&#160;</mi><mfrac><mn>1</mn><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mi>&#160;</mi><msqrt><mn>2</mn></msqrt><mo>+</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d6603a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2016 (03 Apr)",
+    "paper_year_short": "2016 (03 Apr)",
+    "held_on": "2016-04-03T09:00:00.000Z",
+    "question_text": "If <math><mn>0</mn><mi>&#160;</mi><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mn>2</mn><mi>&#960;</mi><mo>,</mo></math> then the number of real values of <math><mi>x</mi><mo>,</mo></math> which satisfy the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>cos</mi><mn>3</mn><mi>x</mi><mo>+</mo><mi>cos</mi><mn>4</mn><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> is&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3VeqQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>",
+        "image": null
+      },
+      {
+        "id": "A2dlo",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>",
+        "image": null
+      },
+      {
+        "id": "v7nO2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "POYGf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3VeqQ",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mn>2</mn><mi>x</mi><mi>cos</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>cos</mi><mn>3</mn><mi>x</mi><mi>cos</mi><mi>x</mi><mo>=</mo><mn>0</mn></math><br /><br /><math><mo>&#8658;</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mi>x</mi><mfenced separators=\"|\"><mrow><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>cos</mi><mn>3</mn><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>cos</mi><mi>x</mi><mn>2</mn><mi>cos</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mn>2</mn></mfrac><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi><mo>,</mo><mfrac><mi>&#960;</mi><mn>5</mn></mfrac><mo>,</mo><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac><mo>,</mo><mfrac><mrow><mn>9</mn><mi>&#960;</mi></mrow><mn>5</mn></mfrac></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>&#160;</mo></math>Solutions.",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65fd1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2015 (11 Apr Online)",
+    "paper_year_short": "2015 (11 Apr Online)",
+    "held_on": "2015-04-11T09:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>&#945;</mi><mo>+</mo><mi>cos</mi><mi>&#946;</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>&#160;</mi><mtext>and</mtext><mi>&#160;</mi><mi>sin</mi><mi>&#945;</mi><mo>+</mo><mi>sin</mi><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>&#160;</mi></math>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi></math>&nbsp;is the arithmetic mean of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mi>&#160;</mi><mo>&#38;</mo><mo>&#160;</mo><mi>&#946;</mi><mo>,</mo></math>&nbsp;then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mn>2</mn><mi>&#952;</mi><mo>+</mo><mi>cos</mi><mn>2</mn><mi>&#952;</mi></math> is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Uxe8p",
+        "text": "<math><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "A4EO3",
+        "text": "<math><mfrac><mrow><mn>7</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "UUvZ8",
+        "text": "<math><mfrac><mrow><mn>4</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "HITxj",
+        "text": "<math><mfrac><mrow><mn>8</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "A4EO3",
+    "solution_text": "Given&nbsp;<br /><mo><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mo>&#160;</mo><mi>&#945;</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mi>cos</mi><mo>&#160;</mo><mi>&#946;</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math></mo><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mo>&#160;</mo><mi>&#945;</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mi>sin</mi><mo>&#160;</mo><mi>&#946;</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math><br /><math><mo>&#8658;</mo><mn>2</mn><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mo>(</mo><mfrac><mrow><mi>&#945;</mi><mo>+</mo><mi>&#946;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>)</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mo>(</mo><mfrac><mrow><mi>&#945;</mi><mo>-</mo><mi>&#946;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>)</mo><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> ......(i) and<br /><br /><math><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mo>(</mo><mfrac><mrow><mi>&#945;</mi><mo>+</mo><mi>&#946;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>)</mo></mrow></mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mo>&#8289;</mo><mo>(</mo><mfrac><mrow><mi>&#945;</mi><mo>-</mo><mi>&#946;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>)=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> ....(ii)<br /><br />Dividing (ii) and (i)<br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mo>&#160;</mo><mfenced><mfrac><mfenced><mrow><mi>&#945;</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mi>&#946;</mi></mrow></mfenced><mn>2</mn></mfrac></mfenced></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>&#8289;</mo><mrow><mi mathvariant=\"normal\">&#952;</mi><mi>&#160;</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mn>2</mn><mi mathvariant=\"normal\">&#952;</mi><mo>+</mo><mi>cos</mi><mo>&#8289;</mo><mn>2</mn><mi mathvariant=\"normal\">&#952;</mi><mi>&#160;</mi><mo>=</mo></math> <math><mfrac><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>&#8289;</mo><mrow><mi mathvariant=\"normal\">&#952;</mi></mrow></mrow></mrow><mrow><mn>1</mn><mo>+</mo><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>&#8289;</mo><mrow><mi mathvariant=\"normal\">&#952;</mi></mrow></mrow></mrow></mfrac><mo>+</mo><mi>&#160;</mi><mfrac><mrow><mn>1</mn><mo>-</mo><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>&#8289;</mo><mrow><mi mathvariant=\"normal\">&#952;</mi></mrow></mrow></mrow><mrow><mn>1</mn><mo>+</mo><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>&#8289;</mo><mrow><mi mathvariant=\"normal\">&#952;</mi></mrow></mrow></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></mfrac></math><br /><br /><math><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>8</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65e1c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (11 Apr Online)",
+    "paper_year_short": "2014 (11 Apr Online)",
+    "held_on": "2014-04-11T09:00:00.000Z",
+    "question_text": "If $2 \\cos \\theta+\\sin \\theta=1\\left(\\theta \\neq \\frac{\\pi}{2}\\right)$, then $7 \\cos \\theta+6 \\sin \\theta$ is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "piVhJ",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "nFB58",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "dSFfd",
+        "text": "\n$\\frac{11}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "lT00b",
+        "text": "\n$\\frac{46}{5}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "lT00b",
+    "solution_text": "Given $2 \\cos \\theta+\\sin \\theta=1$\nSquaring both sides, we get\n$$\n\\begin{aligned}\n&(2 \\cos \\theta+\\sin \\theta)^2=1^2 \\\\\n&\\Rightarrow 4 \\cos ^2 \\theta+\\sin ^2 \\theta+4 \\sin \\theta \\cos \\theta=1 \\\\\n&\\Rightarrow 3 \\cos ^2 \\theta+\\left(\\cos ^2 \\theta+\\sin ^2 \\theta\\right)+4 \\sin \\theta \\cos \\theta \\\\\n&=1 \\\\\n&\\Rightarrow 3 \\cos ^2 \\theta+\\not \\lambda+4 \\sin \\theta \\cos \\theta=1 \\\\\n&\\Rightarrow 3 \\cos ^2 \\theta+4 \\sin \\theta \\cos \\theta=0 \\\\\n&\\Rightarrow \\cos \\theta(3 \\cos \\theta+4 \\sin \\theta)=0 \\\\\n&\\Rightarrow 3 \\cos \\theta+4 \\sin \\theta=0 \\\\\n&\\Rightarrow 3 \\cos \\theta=-4 \\sin \\theta \\\\\n&\\Rightarrow \\frac{-3}{4}=\\tan \\theta=\\sqrt{\\sec ^2 \\theta-1}=\\frac{-3}{4} \\\\\n&\\left(\\because \\tan ^2 \\theta=\\sqrt{\\sec ^2 \\theta-1}\\right) \\\\\n&\\Rightarrow \\sec ^2 \\theta-1=\\left(\\frac{-3}{4}\\right)^2=\\frac{9}{16} \\\\\n&\\Rightarrow \\sec 2 \\theta=\\frac{9}{16}+1=\\frac{25}{16} \\Rightarrow \\sec \\theta=\\frac{5}{4}\n\\end{aligned}\n$$\nor $\\cos \\theta=\\frac{4}{5}$\nNow, $\\sin ^2 \\theta+\\cos ^2 \\theta=1$\n$$\n\\begin{aligned}\n&\\Rightarrow \\sin ^2 \\theta+\\left(\\frac{4}{5}\\right)^2=1 \\\\\n&\\sin ^2 \\theta+\\frac{4}{5}=1 \\Rightarrow \\sin ^2 \\theta=1-\\frac{16}{25}=\\frac{9}{25} \\\\\n&\\sin \\theta=\\pm \\frac{3}{5}\n\\end{aligned}\n$$\nTaking $\\quad\\left(\\sin \\theta=+\\frac{3}{5}\\right) \\quad$ because $\\left(\\sin \\theta=-\\frac{3}{5}\\right)$ cannot satisfy the given equation.\nTherefore; $7 \\cos \\theta+6 \\sin \\theta$\n$$\n=7 \\times \\frac{4}{5}+6 \\times \\frac{3}{5}=\\frac{28}{5}+\\frac{18}{5}=\\frac{46}{5}\n$$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65d08",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (25 Apr Online)",
+    "paper_year_short": "2013 (25 Apr Online)",
+    "held_on": "2013-04-25T09:00:00.000Z",
+    "question_text": "Let $\\mathrm{A}=\\{\\theta: \\sin (\\theta)=\\tan (\\theta)\\}$ and $\\mathrm{B}=(\\theta: \\cos (\\theta)=$ 1\\} be two sets. Then:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bfcFu",
+        "text": "\n$\\mathrm{A}=\\mathrm{B}$\n",
+        "image": null
+      },
+      {
+        "id": "42dDB",
+        "text": "\n$A \\not \\subset B$\n",
+        "image": null
+      },
+      {
+        "id": "vulSV",
+        "text": "\n$B \\not \\subset A$\n",
+        "image": null
+      },
+      {
+        "id": "tG3WW",
+        "text": "\n$A \\subset B$ and $B-A \\neq \\phi$",
+        "image": null
+      }
+    ],
+    "correct_answer": "42dDB",
+    "solution_text": "Let $\\mathrm{A}=\\{\\theta: \\sin \\theta=\\tan \\theta\\}$ and $\\mathrm{B}=\\{\\theta: \\cos \\theta=1\\}$\nNow, $A=\\left\\{\\theta: \\sin \\theta=\\frac{\\sin \\theta}{\\cos \\theta}\\right\\}$ $=\\{\\theta: \\sin \\theta(\\cos \\theta-1)=0\\}$ $=\\{\\theta=0, \\pi, 2 \\pi, 3 \\pi, \\ldots \\ldots\\}$\nFor $\\mathrm{B}: \\cos \\theta=1 \\Rightarrow \\theta=\\pi, 2 \\pi, 4 \\pi, \\ldots \\ldots$\nThis shows that $\\mathrm{A}$ is not contained in B. i.e. $\\mathrm{A} \\not \\subset \\mathrm{B}$. but $\\mathrm{B} \\subset \\mathrm{A}$.",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65ca6",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (23 Apr Online)",
+    "paper_year_short": "2013 (23 Apr Online)",
+    "held_on": "2013-04-23T09:00:00.000Z",
+    "question_text": "The number of solutions of the equation $\\sin 2 x-2 \\cos x+4 \\sin x=4$ in the interval $[0,5 \\pi]$ is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "U6kCM",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "UI49j",
+        "text": "\n5\n",
+        "image": null
+      },
+      {
+        "id": "w8GdK",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "JoYNA",
+        "text": "\n6",
+        "image": null
+      }
+    ],
+    "correct_answer": "U6kCM",
+    "solution_text": "$$\n\\text { } \\begin{aligned}\n& \\sin 2 x-2 \\cos x+4 \\sin x=4 \\\\\n& \\Rightarrow 2 \\sin x \\cdot \\cos x-2 \\cos x+4 \\sin x-4=0 \\\\\n& \\Rightarrow(\\sin x-1)(\\cos x-2)=0\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n& \\because \\cos x-2 \\neq 0, \\therefore \\sin x=1 \\\\\n& \\therefore \\quad x=\\frac{\\pi}{2}, \\frac{5 \\pi}{2}, \\frac{9 \\pi}{2}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65c55",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (22 Apr Online)",
+    "paper_year_short": "2013 (22 Apr Online)",
+    "held_on": "2013-04-22T09:00:00.000Z",
+    "question_text": "The number of solutions of the equation, $\\sin ^{-1} x=2 \\tan ^{-1} x$ (in principal values) is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wB5CG",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "FEBYU",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "4K3LS",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "nAmU0",
+        "text": "\n3",
+        "image": null
+      }
+    ],
+    "correct_answer": "wB5CG",
+    "solution_text": "Given equation is\n$$\n\\sin ^{-1} x=2 \\tan ^{-1} x\n$$\nNow, this equation has only one solution.\n$$\n\\begin{aligned}\n& \\therefore \\quad \\text { LHS }=\\sin ^{-1} 1=\\frac{\\pi}{2} \\\\\n& \\text { and } \\text { RHS }=2 \\tan ^{-1} 1=2 \\times \\frac{\\pi}{4}=\\frac{\\pi}{2}\n\\end{aligned}\n$$\nAlso, $x=1$ gives angle value as $\\frac{\\pi}{4}$ and $\\frac{5 \\pi}{4}$ $\\frac{5 \\pi}{4}$ is outside the principal value.",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65bf5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (09 Apr Online)",
+    "paper_year_short": "2013 (09 Apr Online)",
+    "held_on": "2013-04-09T09:00:00.000Z",
+    "question_text": "A value of $x$ for which $\\sin \\left(\\cot ^{-1}(1+x)\\right)=\\cos$ $\\left(\\tan ^{-1} x\\right)$, is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fS8SN",
+        "text": "\n$-\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "ZybTZ",
+        "text": "\n 1\n",
+        "image": null
+      },
+      {
+        "id": "pEMNy",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "xXXmh",
+        "text": "\n$\\frac{1}{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "fS8SN",
+    "solution_text": "$\\sin \\left(\\cot ^{-1}(1+x)\\right)=\\cos \\left(\\tan ^{-1} x\\right)$\n$\\begin{aligned} & \\Rightarrow \\operatorname{cosec}^2\\left(\\cot ^{-1}(1+x)\\right)=\\sec ^2\\left(\\tan ^{-1} x\\right) \\\\ & \\Rightarrow 1+\\left[\\cot \\left(\\cot ^{-1}(1+x)\\right)\\right]^2 \\\\ & \\Rightarrow=1+\\left[\\sec \\left(\\tan ^{-1} x\\right)\\right]^2 \\\\ & \\Rightarrow(1+x)^2=x^2 \\Rightarrow x=-\\frac{1}{2}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d6579b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If $0 < x < \\pi$ and $\\cos x+\\sin x=\\frac{1}{2}$, then $\\tan x$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rEaNc",
+        "text": "\n$\\frac{(1-\\sqrt{7})}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "JMPIk",
+        "text": "\n$\\frac{(4-\\sqrt{7})}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "M2B4u",
+        "text": "\n$-\\frac{(4+\\sqrt{7})}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "XNXWf",
+        "text": "\n$\\frac{(1+\\sqrt{7})}{4}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "M2B4u",
+    "solution_text": "$\\cos x+\\sin x=\\frac{1}{2} \\Rightarrow 1+\\sin 2 x=\\frac{1}{4} \\Rightarrow \\sin 2 x=-\\frac{3}{4}$, so $x$ is obtuse and $\\frac{2 \\tan x}{1+\\tan ^2 x}=-\\frac{3}{4} \\Rightarrow 3 \\tan ^2 x+8 \\tan x+3=0$\n$\\therefore \\tan x=\\frac{-8 \\pm \\sqrt{64-36}}{6}=\\frac{-4 \\pm \\sqrt{7}}{3}$\n$\\because \\tan x < 0 \\quad \\therefore \\tan x=\\frac{-4-\\sqrt{7}}{3}$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d6577b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "The number of values of $x$ in the interval $[0,3 \\pi]$ satisfying the equation $2 \\sin ^2 x+5 \\sin x-3=0$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Nl9xU",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "NiBxo",
+        "text": "\n6\n",
+        "image": null
+      },
+      {
+        "id": "QiB3k",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "u2vsS",
+        "text": "\n2",
+        "image": null
+      }
+    ],
+    "correct_answer": "Nl9xU",
+    "solution_text": "$2 \\sin ^2 x+5 \\sin x-3=0$\n$\\Rightarrow(\\sin x+3)(2 \\sin x-1)=0$\n$\\Rightarrow \\sin x=\\frac{1}{2} \\quad \\therefore \\ln (0,3 \\pi), x$ has 4 values",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d6544e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2002",
+    "paper_year_short": "2002",
+    "held_on": "2002-04-30T09:00:00.000Z",
+    "question_text": "The number of solution of $\\tan x+\\sec x=2 \\cos x$ in $[0,2 \\pi)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ncsvf",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "NTYTn",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "9GUzd",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "gJPeh",
+        "text": "\n1",
+        "image": null
+      }
+    ],
+    "correct_answer": "NTYTn",
+    "solution_text": "The given equation is $\\tan x+\\sec x=2 \\cos x \\Rightarrow \\sin x+1=2 \\cos ^2 x$\n$$\n\\begin{aligned}\n& \\Rightarrow \\sin x+1=2\\left(1-\\sin ^2 x\\right) \\Rightarrow 2 \\sin ^2 x+\\sin x-1=0 \\\\\n& \\Rightarrow(2 \\sin x-1)(\\sin x+1)=0 \\Rightarrow \\sin x=\\frac{1}{2},-1 \\Rightarrow x=30^{\\circ}, 150^{\\circ}, 270^{\\circ}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Equation"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65970",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2011",
+    "paper_year_short": "2011",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "If $A=\\sin ^2 x+\\cos ^4 x$, then for all real $x$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PFBdr",
+        "text": "\n$\\frac{13}{16} \\leq \\mathrm{A} \\leq 1$\n",
+        "image": null
+      },
+      {
+        "id": "4n774",
+        "text": "\n$1 \\leq \\mathrm{A} \\leq 2$\n",
+        "image": null
+      },
+      {
+        "id": "Z8354",
+        "text": "\n$\\frac{3}{4} \\leq \\mathrm{A} \\leq \\frac{13}{16}$\n",
+        "image": null
+      },
+      {
+        "id": "sq4vp",
+        "text": "\n$\\frac{3}{4} \\leq \\mathrm{A} \\leq 1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "sq4vp",
+    "solution_text": "$A=\\sin ^2 x+\\cos ^4 x=\\frac{7+\\cos 4 x}{8} \\Rightarrow \\frac{3}{4} \\leq A \\leq 1$",
+    "solution_image": null,
+    "topic": "Solving Trigonometric Inequalities"
+  }
+]

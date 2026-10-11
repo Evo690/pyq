@@ -1,0 +1,1903 @@
+[
+  {
+    "question_id": "6a0be51044d287c9361e5c9d",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Correct statement(s) about the compounds $\\textbf{X}$, $\\textbf{Y}$ and $\\textbf{Z}$ is(are)<br><img style=\"width: 600px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q38_d1.png\" />",
+    "question_image": null,
+    "options": [
+      {
+        "id": "38W2N",
+        "text": "$\\textbf{X}$ is used for sterilizing drinking water.",
+        "image": null
+      },
+      {
+        "id": "LBe6d",
+        "text": "$\\textbf{Y}$ has a planar structure.",
+        "image": null
+      },
+      {
+        "id": "gDcit",
+        "text": "$\\textbf{Z}$ is used in the enrichment of $^{235}\\text{U}$.",
+        "image": null
+      },
+      {
+        "id": "Dtfrb",
+        "text": "$\\textbf{Y}$ is a stronger Lewis base than ammonia.",
+        "image": null
+      }
+    ],
+    "correct_answer": "gDcit",
+    "solution_text": "From the given reactions, we can identify the compounds $\\textbf{X}$, $\\textbf{Y}$, and $\\textbf{Z}$ as follows:<br><br>Reaction 1: $\\text{MnO}_2 + 4\\text{HCl (conc.)} \\rightarrow \\text{MnCl}_2 + \\text{Cl}_2 + 2\\text{H}_2\\text{O}$<br>The greenish-yellow gas $\\textbf{X}$ is $\\text{Cl}_2$.<br><br>Reaction 2: $\\text{NH}_3 + 3\\text{Cl}_2 \\text{ (excess)} \\rightarrow \\text{NCl}_3 + 3\\text{HCl}$<br>Compound $\\textbf{Y}$ is $\\text{NCl}_3$.<br><br>Reaction 3: $\\text{Cl}_2 + 3\\text{F}_2 \\text{ (excess)} \\xrightarrow{573\\text{ K}} 2\\text{ClF}_3$<br>Compound $\\textbf{Z}$ is $\\text{ClF}_3$.<br><br>Evaluating the given statements:<br>(A) $\\text{Cl}_2$ is widely used as a disinfectant for sterilizing drinking water. This statement is correct.<br><br>(B) In $\\text{NCl}_3$, the nitrogen atom is $sp^3$ hybridized and possesses one lone pair of electrons. This gives it a trigonal pyramidal structure, not a planar one. This statement is incorrect.<br><br>(C) $\\text{ClF}_3$ is used in the enrichment of $^{235}\\text{U}$ because it reacts with uranium to produce the volatile compound $\\text{UF}_6$ ($\\text{U} + 3\\text{ClF}_3 \\rightarrow \\text{UF}_6 + 3\\text{ClF}$). This statement is correct.<br><br>(D) $\\text{NCl}_3$ is a weaker Lewis base than $\\text{NH}_3$. The highly electronegative chlorine atoms withdraw electron density from the nitrogen atom via the -I effect, making the lone pair less available for donation compared to ammonia. This statement is incorrect.<br><br>Answer: $\\textbf{X}$ is used for sterilizing drinking water.; $\\textbf{Z}$ is used in the enrichment of $^{235}\\text{U}$.",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cc0",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The complete hydrolysis of $\\mathrm{ICl}_2 \\mathrm{ClF}_3$ and $\\mathrm{BrF}_5$, respectively, gives",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EpqQG",
+        "text": "$\\mathrm{IO}^{-}, \\mathrm{ClO}_2^{-}$and $\\mathrm{BrO}_3^{-}$",
+        "image": null
+      },
+      {
+        "id": "2slff",
+        "text": "$\\mathrm{IO}_3^{-}, \\mathrm{ClO}_2^{-}$and $\\mathrm{BrO}_3^{-}$",
+        "image": null
+      },
+      {
+        "id": "n93x5",
+        "text": "$\\mathrm{IO}^{-}, \\mathrm{ClO}^{-}$and $\\mathrm{BrO}_2^{-}$",
+        "image": null
+      },
+      {
+        "id": "1VscC",
+        "text": "$\\mathrm{IO}_3^{-}, \\mathrm{ClO}_4^{-}$and $\\mathrm{BrO}_2^{-}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "EpqQG",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pzrA4p9JJ7vYuYRm-wtaW_4GFeou0o2qyDwvbzXMYqs.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "64b16a9ef23ac7d519f9b60b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "The reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>3</mn></msub></math>&nbsp;with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math> gives a paramagnetic gas, which upon reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math>&nbsp;produces",
+    "question_image": null,
+    "options": [
+      {
+        "id": "83vbl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cl</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>",
+        "image": null
+      },
+      {
+        "id": "rEbfl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ClO</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "KlJNx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cl</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>6</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "efoTz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cl</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>7</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "KlJNx",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>3</mn></msub></math>&nbsp;reacts with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math> according to the following equation,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>HClO</mi><mn>3</mn></msub><mo>+</mo><mn>2</mn><mi>HCl</mi><mo>&#10230;</mo><mn>2</mn><msub><mi>ClO</mi><mn>2</mn></msub><mo>+</mo><msub><mi>Cl</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ClO</mi><mn>2</mn></msub></math>&nbsp;molecule is paramagnetic, as it contains odd number of electrons.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>ClO</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>&#10230;</mo><msub><mi>Cl</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>6</mn></msub><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p>ClO<sub>2</sub> is used as a bleaching agent for paper pulp and textiles and in water treatment</p></blockquote>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b5a0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Ozonolysis of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ClO</mi><mn>2</mn></msub></math> produces an oxide of chlorine. The average oxidation state of chlorine in this oxide is ______ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>Reaction :&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ClO</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>&#8594;</mo><msub><mi>ClO</mi><mn>3</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ClO</mi><mn>3</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>+</mo><mfenced><mrow><mo>&#8722;</mo><mn>2</mn><mo>&#215;</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>=</mo><mo>+</mo><mn>6</mn></math></p><p>Here&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math>&nbsp;is oxidation state of chlorine in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ClO</mi><mn>3</mn></msub></math>.</p>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "64b16a7ff23ac7d519f9b4f2",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "With respect to hypochlorite, chlorate and perchlorate ions, choose the correct statement(s).",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LlvQh",
+        "text": "The hypochlorite ion is the strongest conjugate base.",
+        "image": null
+      },
+      {
+        "id": "WdVJC",
+        "text": "The molecular shape of only chlorate ion is influenced by the lone pair of electrons of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cl</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "NbJ0M",
+        "text": "The hypochlorite and chlorate ions disproportionate to give rise to identical set of ions.",
+        "image": null
+      },
+      {
+        "id": "kg3zC",
+        "text": "The hypochlorite ion oxidizes the sulfite ion.",
+        "image": null
+      }
+    ],
+    "correct_answer": "kg3zC",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>)</mo></math> since <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HOCl</mi></math> is weakest oxyacid of chlorine. Therefore <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ClO</mi></math> - become strongest conjugate base.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math>  </p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/51cb189b-a0eb-45c2-a615-0f7781047cda-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>ClO</mi><mo>-</mo></msup><mo>⟶</mo><mn>2</mn><msup><mi>Cl</mi><mo>-</mo></msup><mo>+</mo><msubsup><mi>ClO</mi><mn>3</mn><mo>-</mo></msubsup><mo> </mo><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub><mo>=</mo><msup><mn>10</mn><mn>27</mn></msup></math><br/>In hot solution rate of disproportionation is fairly rapid.<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msubsup><mi>ClO</mi><mn>3</mn><mo>-</mo></msubsup><mo>⟶</mo><msup><mi>Cl</mi><mo>-</mo></msup><mo>+</mo><mn>3</mn><msubsup><mi>ClO</mi><mn>4</mn><mo>-</mo></msubsup><mo> </mo><mi>Keq</mi><mo>=</mo><msup><mn>10</mn><mn>29</mn></msup></math> It is thermodynamically possible but kinetically, it is very slow reaction.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">D</mi><mo>)</mo></math> Lower oxyacids are good oxidizing agents.<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>3</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup><mo>+</mo><mover><mi mathvariant=\"normal\">O</mi><mo>¯</mo></mover><mi>Cl</mi><mo>⟶</mo><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup><mo>+</mo><msup><mi>Cl</mi><mo>-</mo></msup></math></p>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "64b16a5af23ac7d519f9b3a9",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "The correct statements about the oxoacids, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub><mi mathvariant=\"normal\">&#160;</mi><mi>and</mi><mi mathvariant=\"normal\">&#160;</mi><mi>HClO</mi></math>&nbsp;are,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5rsIJ",
+        "text": "the conjugate base of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub></math> is weaker base than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HClO</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "uTWMi",
+        "text": "the central atom in both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HClO</mi><mo>&#160;</mo></math>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#160;</mi><msup><mi>sp</mi><mn>3</mn></msup></math> hybridized.",
+        "image": null
+      },
+      {
+        "id": "GGC5K",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub></math> is formed in the reaction between&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#160;</mi><msub><mi>Cl</mi><mn>2</mn></msub><mi mathvariant=\"normal\">&#160;</mi><mi>and</mi><mi mathvariant=\"normal\">&#160;</mi><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "0my84",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub></math> is more acidic than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HClO</mi><mo>&#160;</mo></math>because of the resonance stabilization of its anion.",
+        "image": null
+      }
+    ],
+    "correct_answer": "0my84",
+    "solution_text": "<p>(i)  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub><mi mathvariant=\"normal\"> </mi><mo>⇌</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><msubsup><mi>ClO</mi><mn>4</mn><mrow><mo>-</mo><mi mathvariant=\"normal\"> </mi></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>ClO</mi><mn>4</mn><mo>-</mo></msubsup></math>  is resonance stabilized anion.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HClO</mi><mi mathvariant=\"normal\"> </mi><mo>⇌</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><msup><mi>ClO</mi><mo>-</mo></msup><mi mathvariant=\"normal\"> </mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mo>  </mo><mo>  </mo><msub><mi>HClO</mi><mn>4</mn></msub></math> is more acidic then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HClO</mi><mo>.</mo></math></p><p>(ii)   <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cl</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>→</mo><mi>HClO</mi><mo>+</mo><mi>HCl</mi><mi mathvariant=\"normal\"> </mi></math></p><p>(iii)  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub></math> <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/25_solu_chem_pa1.jpg\"/>The central atom is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sp</mi><mn>3</mn></msup></math> hybridised.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/25_solu_chem_pa1_2.jpg\"/> The central atom is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sp</mi><mn>3</mn></msup></math> hybridised.</p><p>(iv)  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>→</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msup><mi mathvariant=\"normal\">O</mi><mo>⊕</mo></msup><mo>+</mo><msubsup><mi>ClO</mi><mn>4</mn><mo>-</mo></msubsup></math> since <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math> is accepting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math> from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HClO</mi><mn>4</mn></msub></math> so <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>  is stronger base compare to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>ClO</mi><mn>4</mn><mo>-</mo></msubsup></math>.</p>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b30d",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "The correct statement(s) regarding,<br />(i) <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">O</mi></math><br />(ii) <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math><br />(iii) <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and<br />(iv) <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> is /are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "i2fzf",
+        "text": "The number of  <math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><mo>=</mo><mi mathvariant=\"normal\">O</mi></math>  bonds in (ii) and (iii) together is two.",
+        "image": null
+      },
+      {
+        "id": "SyFKr",
+        "text": "The number of lone pairs of electrons on Cl in (ii) and (iii) together is three.",
+        "image": null
+      },
+      {
+        "id": "SB7kS",
+        "text": "The hybridization of Cl in (iv) is  <math><mi mathvariant=\"normal\">s</mi><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "DVUuI",
+        "text": "Amongst (i) to (iv), the strongest acid (i)",
+        "image": null
+      }
+    ],
+    "correct_answer": "SB7kS",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image36-2833e7aa-3070-477e-a343-3432f777029d.png\"/> <br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image37-94b1fb60-0876-4720-8e03-e6589b83afc8.png\"/>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "64b16a2ff23ac7d519f9b219",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nThe reactions of $\\mathrm{Cl}_{2}$ gas with cold-dilute and hot-concentrated $\\mathrm{NaOH}$ in water give sodium salts of two (different) oxoacids of chlorine, $\\boldsymbol{P}$ and $\\boldsymbol{Q}$, respectively. The $\\mathrm{Cl}_{2}$ gas reacts with $\\mathrm{SO}_{2}$ gas, in presence of charcoal, to give a product $\\boldsymbol{R}$. $\\boldsymbol{R}$ reacts with white phosphorus to give a compound $\\boldsymbol{S}$. On hydrolysis, $\\boldsymbol{S}$ gives an oxoacid of phosphorus, $\\boldsymbol{T}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\n$P$ and $Q$, respectively, are the sodium salts of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "k3F8K",
+        "text": "Hypochlorous and chloric acids",
+        "image": null
+      },
+      {
+        "id": "5ZjAK",
+        "text": "Hypochlorus and chlorous acids",
+        "image": null
+      },
+      {
+        "id": "hOGVO",
+        "text": "Chloric and perchloric acids",
+        "image": null
+      },
+      {
+        "id": "XiTg4",
+        "text": "Chloric and hypochlorous acids",
+        "image": null
+      }
+    ],
+    "correct_answer": "k3F8K",
+    "solution_text": "<math> <mrow> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <mtext>cold dil. NaOH</mtext> <mo>&#8594;</mo> <mtext>NaOCl</mtext> <mo>+</mo> <mtext>NaCl</mtext> </mrow> </math><br /><math> <mrow> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <mtext>hot conc.&#160;</mtext> <mtext>NaOH</mtext> <mo>&#8594;</mo> <msub> <mtext>NaClO</mtext> <mn>3</mn> </msub> <mo>+</mo> <mtext>NaCl</mtext> </mrow> </math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOCl</mi></math> is salt of hypochlorous acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mi mathvariant=\"normal\">P</mi></math>.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaOCl</mi><mn>3</mn></msub></math> is salt of chloric acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi></math>.<br /><math> <mrow> <mtable> <mtr> <mtd> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> </mtd> <mtd> <mover> <mo>&#10230;</mo> <mtext>Charcoal</mtext> </mover> </mtd> <mtd> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>R</mtext> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <msub> <mtext>P</mtext> <mn>4</mn> </msub> </mtd> <mtd> <mo>&#10230;</mo> </mtd> <mtd> <msub> <mtext>PCl</mtext> <mn>5</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>S</mtext> </mrow> </mfenced> <mo>+</mo> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>PCl</mtext> <mn>5</mn> </msub> <mo>+</mo> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> </mtd> <mtd> <mo>&#10230;</mo> </mtd> <mtd> <msub> <mtext>H</mtext> <mn>3</mn> </msub> <msub> <mtext>PO</mtext> <mn>4</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>T</mtext> </mrow> </mfenced> <mo>+</mo> <mtext>HCl</mtext> </mtd> </mtr> </mtable> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Halogens and Its Compounds"
+  },
+  {
+    "question_id": "685102bf6bba689a3eb09c8f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The heating of $\\mathrm{NH}_4 \\mathrm{NO}_2$ at $60-70^{\\circ} \\mathrm{C}$ and $\\mathrm{NH}_4 \\mathrm{NO}_3$ at $200-250^{\\circ} \\mathrm{C}$ is associated with the formation of nitrogen containing compounds $\\mathbf{X}$ and $\\mathbf{Y}$, respectively. $\\mathbf{X}$ and $\\mathbf{Y}$, respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aBKys",
+        "text": "$\\mathrm{N}_2$ and $\\mathrm{N}_2 \\mathrm{O}$",
+        "image": null
+      },
+      {
+        "id": "oBqVc",
+        "text": "$\\mathrm{NH}_3$ and $\\mathrm{NO}_2$",
+        "image": null
+      },
+      {
+        "id": "zaKxd",
+        "text": "NO and $\\mathrm{N}_2 \\mathrm{O}$",
+        "image": null
+      },
+      {
+        "id": "CqZ1s",
+        "text": "$\\mathrm{N}_2$ and $\\mathrm{NH}_3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "aBKys",
+    "solution_text": "$\\begin{aligned} & \\mathrm{NH}_4 \\mathrm{NO}_2 \\xrightarrow[60-70^{\\circ} \\mathrm{C}]{\\Delta} \\mathrm{N}_2+2 \\mathrm{H}_2 \\mathrm{O} \\\\ & \\mathrm{NH}_4 \\mathrm{NO}_3 \\xrightarrow[200-250^{\\circ} \\mathrm{C}]{\\Delta} \\mathrm{N}_2 \\mathrm{O}+2 \\mathrm{H}_2 \\mathrm{O}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a9ef23ac7d519f9b60c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "The reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaCl</mi></math> in water produces a precipitate that dissolves upon the addition of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math> of appropriate concentration. The dissolution of the precipitate is due to the formation of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Rm9pU",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCl</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "6Gll2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCl</mi><mn>4</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "SHnNG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced open=\"[\" close=\"]\"><msub><mi>PbCl</mi><mn>4</mn></msub></mfenced><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "Ok1oe",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced open=\"[\" close=\"]\"><msub><mi>PbCl</mi><mn>6</mn></msub></mfenced><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "SHnNG",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> on reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Cl</mi><mo>-</mo></msup></math>, produces white precipitate of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCl</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi>Cl</mi><mo>-</mo></msup><mo>&#10230;</mo><msub><mi>PbCl</mi><mn>2</mn></msub><mo>&#8595;</mo></math></p><p>This precipitate is soluble in concentrated hydrochloric acid due to formation of tetrachloroplumbate <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math>&nbsp;ion</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCl</mi><mn>2</mn></msub><mo>&#8595;</mo><mo>+</mo><mn>2</mn><msup><mi>Cl</mi><mo>-</mo></msup><mo>&#10230;</mo><msup><mfenced close=\"]\" open=\"[\"><msub><mi>PbCl</mi><mn>4</mn></msub></mfenced><mrow><mn>2</mn><mo>-</mo></mrow></msup></math></p><p>On addition of potassium chromate (K2CrO4 ) solution to lead chloride a yellow precipitate of lead chromate is obtained.&nbsp;</p></blockquote>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a9df23ac7d519f9b606",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "The compound(s) which react(s) with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>3</mn></msub></math>&nbsp;to give boron nitride <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>BN</mi></mfenced></math> is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8Eke1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi></math>",
+        "image": null
+      },
+      {
+        "id": "PnEe6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">B</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">H</mi><mn>6</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "bb6O9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">B</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "OfR9B",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HBF</mi><mn>4</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "bb6O9",
+    "solution_text": "<p>The compound(s) which react with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>3</mn></msub></math>&nbsp;to form Boron nitride <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>BN</mi></mfenced></math> is/are:</p><p>(A) Amorphous <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>+</mo><msub><mi>NH</mi><mn>3</mn></msub><munder><mo>&#10230;</mo><mrow><mo>&#160;</mo><mi>Tempreature</mi><mo>&#160;</mo></mrow></munder><mi>BN</mi><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub></math></p><p>(B) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">B</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">H</mi><mn>6</mn></msub><mo>+</mo><munder><msub><mi>NH</mi><mn>3</mn></msub><mfenced><mi>excess</mi></mfenced></munder><mover><mo>&#10230;</mo><mrow><mo>&#160;</mo><mi>HighTemp</mi><mo>.&#160;</mo></mrow></mover><msub><mfenced><mi>BN</mi></mfenced><mi mathvariant=\"normal\">x</mi></msub></math></p><p>(C) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">B</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>+</mo><mn>2</mn><msub><mi>NH</mi><mn>3</mn></msub><mover><mo>&#10230;</mo><mrow><mn>900</mn><mo>&#176;</mo><mi mathvariant=\"normal\">C</mi></mrow></mover><mn>2</mn><mi>BN</mi><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p>(D) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HBF</mi><mn>4</mn></msub><mo>+</mo><msub><mi>NH</mi><mn>3</mn></msub><mo>&#10230;</mo><mfenced close=\"]\" open=\"[\"><msubsup><mi>NH</mi><mn>4</mn><mo>&#8853;</mo></msubsup></mfenced><mfenced close=\"]\" open=\"[\"><msubsup><mi>BF</mi><mn>4</mn><mo>&#8854;</mo></msubsup></mfenced></math></p><p>Hence, (A,B,C)&nbsp;are correct</p>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a96f23ac7d519f9b5ca",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Dissolving <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>24</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math> of white phosphorous in boiling <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> solution in an inert atmosphere gives a gas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>. The amount of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuSO</mi><mn>4</mn></msub></math> (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>) required to completely consume the gas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>&nbsp;is____[Given: Atomic mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">O</mi><mo>=</mo><mn>16</mn><mo>,</mo><mo>&#160;</mo><mi>Na</mi><mo>=</mo><mn>23</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">P</mi><mo>=</mo><mn>31</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>=</mo><mn>32</mn><mo>,</mo><mo>&#160;</mo><mi>Cu</mi><mo>=</mo><mn>63</mn></math>]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.38",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><mrow><mn>1</mn><mo>.</mo><mn>24</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></mrow></munder><mo>+</mo><mn>3</mn><mi>NaOH</mi><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8594;</mo><msub><mi>PH</mi><mn>3</mn></msub><mo>+</mo><mn>3</mn><msub><mi>NaH</mi><mn>2</mn></msub><msub><mi>PO</mi><mn>2</mn></msub></math></p><p>Number of moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mfrac><mrow><mi>Given</mi><mo>&#160;</mo><mi>mass</mi></mrow><mrow><mi>molar</mi><mo>&#160;</mo><mi>mass</mi></mrow></mfrac><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>24</mn></mrow><mn>124</mn></mfrac><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>moles</mi></math></p><p>As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> is present in excess. So, amount of phosphine formed is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn></math>&nbsp;mole (as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub></math> is limiting reagent)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mn>2</mn><msub><mi>PH</mi><mn>3</mn></msub></mrow><mrow><mn>0</mn><mo>.</mo><mn>01</mn><mi>mole</mi></mrow></munder><mo>+</mo><mn>3</mn><msub><mi>CuSO</mi><mn>4</mn></msub><mo>&#8594;</mo><msub><mi>Cu</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math></p><p>Since 2 moles of phosphine required 3 moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuSO</mi><mn>4</mn></msub></math>.</p><p>Amount of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuSO</mi><mn>4</mn></msub></math> required <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>3</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn></mrow><mn>2</mn></mfrac></math> mole</p><p>Mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuSO</mi><mn>4</mn></msub></math> (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>) required&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>03</mn></mrow><mn>2</mn></mfrac><mo>&#215;</mo><mfenced><mrow><mn>63</mn><mo>+</mo><mn>32</mn><mo>+</mo><mn>16</mn><mo>&#215;</mo><mn>4</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>03</mn></mrow><mn>2</mn></mfrac><mo>&#215;</mo><mn>159</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>.</mo><mn>38</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a91f23ac7d519f9b59d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nThe reaction of $\\mathrm{K}_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$ with freshly prepared $\\mathrm{FeSO}_{4}$ solution produces a dark blue precipitate called Turnbull's blue. Reaction of $\\mathrm{K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$ with the $\\mathrm{FeSO}_{4}$ solution in complete absence of air produces a white precipitate $\\mathbf{X}$, which turns blue in air. Mixing the $\\mathrm{FeSO}_{4}$ solution with $\\mathrm{NaNO}_{3}$, followed by a slow addition of concentrated $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ through the side of the test tube produces a brown ring.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nAmong the following, the brown ring is due to the formation of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cfqXj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><msub><mfenced><mi>NO</mi></mfenced><mn>2</mn></msub><msub><mfenced><msub><mi>SO</mi><mn>4</mn></msub></mfenced><mn>2</mn></msub></mrow></mfenced><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "mNMRg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><msub><mfenced><mi>NO</mi></mfenced><mn>2</mn></msub><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>4</mn></msub></mrow></mfenced><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "1Z7bw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><msub><mfenced><mi>NO</mi></mfenced><mn>4</mn></msub><msub><mfenced><msub><mi>SO</mi><mn>4</mn></msub></mfenced><mn>2</mn></msub></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "axK6z",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><mfenced><mi>NO</mi></mfenced><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>5</mn></msub></mrow></mfenced><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "axK6z",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><msubsup><mi>NO</mi><mn>3</mn><mo>-</mo></msubsup><mo>+</mo><mn>4</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>&#8594;</mo><mi>NO</mi><mo>+</mo><mn>3</mn><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>6</mn></msub></mrow></mfenced><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mi>NO</mi><mo>&#8594;</mo><munder><msup><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>5</mn></msub><mi>NO</mi></mrow></mfenced><mrow><mn>2</mn><mo>+</mo></mrow></msup><mrow><mi>Brown</mi><mo>&#160;</mo><mi>ring</mi></mrow></munder><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a78f23ac7d519f9b4b7",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "With reference to <em>aqua regia</em>, choose the correct option(s).",
+    "question_image": null,
+    "options": [
+      {
+        "id": "c1lq3",
+        "text": "Reaction of gold with aqua regia produces <math><msub><mrow><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> in the absence of air",
+        "image": null
+      },
+      {
+        "id": "qFa3i",
+        "text": "<em>Aqua regia</em> is prepared by mixing conc. <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math> and conc. <math><msub><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> in <math><mn>3</mn><mi> </mi><mo>:</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">v</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">v</mi></mrow></mrow></mrow></mfenced></math> ratio",
+        "image": null
+      },
+      {
+        "id": "UtU86",
+        "text": "Reaction of gold with <em>aqua regia</em> produces an anion having <math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">u</mi></math> in <math><mo>+</mo><mn>3</mn></math> oxidation state",
+        "image": null
+      },
+      {
+        "id": "HoofW",
+        "text": "The yellow colour of <math><mi>a</mi><mi>q</mi><mi>u</mi><mi>a</mi><mi> </mi><mi>r</mi><mi>e</mi><mi>g</mi><mi>i</mi><mi>a</mi></math> is due to the presence of <math><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math> and <math><msub><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "HoofW",
+    "solution_text": "Aqua regia is 3 past HCl and 1 part <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br /><math><mn>3</mn><mtext>HCl</mtext><mo>+</mo><msub><mrow><mtext>HNO</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><mo>&#8594;</mo><munder><mrow><mtext>NOCl</mtext><mo>+</mo><msub><mrow><mtext>Cl</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><mtext>O</mtext></mrow><mrow><mfenced separators=\"|\"><mrow><mtext>Yellow&#8201;colour&#8201;is&#8201;due&#8201;to&#8201;NOCl&#8201;and&#8201;</mtext><msub><mrow><mtext>Cl</mtext></mrow><mrow><mtext>2</mtext></mrow></msub></mrow></mfenced></mrow></munder></math><br /><math><mtext>Au</mtext><mo>+</mo><mtext>Aqua&#8201;Regia</mtext><mo>&#8594;</mo><munder><mrow><msub><mrow><mtext>HAuCl</mtext></mrow><mrow><mtext>4</mtext></mrow></msub></mrow><mrow><mfenced separators=\"|\"><mrow><mtext>+3&#8201;O.S&#8201;of&#8201;Au</mtext></mrow></mfenced></mrow></munder></math>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a66f23ac7d519f9b410",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "The compound(s) which generate(s) <math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> gas upon thermal decomposition below <math><msup><mrow><mn>300</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi></math> is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O34oh",
+        "text": "<math><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><mi>N</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "txZ3u",
+        "text": "<math><msub><mrow><msub><mrow><mfenced separators=\"|\"><mrow><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mi>&nbsp;</mi></mrow></msub><mi>C</mi><msub><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>7</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "vfo6y",
+        "text": "<math><mi>B</mi><mi>a</mi><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "FGQPj",
+        "text": "<math><mi>M</mi><msub><mrow><mi>g</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "vfo6y",
+    "solution_text": "<math><mo>(</mo><mi>A</mi><mo>)</mo></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ac446a8c-195c-4edc-be80-90e3452d65f0-image.png\"/><br ><math><mfenced separators=\"|\"><mrow><mi>B</mi></mrow></mfenced></math> <math><msub><mrow><mfenced separators=\"|\"><mrow><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><mi>C</mi><msub><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>7</mn></mrow></msub><mover accent=\"false\"><mo>→</mo><mrow><mo>∆</mo></mrow></mover><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi>C</mi><msub><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>4</mn><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi></math><br ><math><mo>(</mo><mi>C</mi><mo>)</mo></math> <math><mi>B</mi><mi>a</mi><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><mover accent=\"false\"><mo>→</mo><mrow><mo>∆</mo></mrow></mover><mi>B</mi><mi>a</mi><mo>+</mo><mn>3</mn><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math><br ><math><mo>(</mo><mi>D</mi><mo>)</mo></math> <math><mi>M</mi><msub><mrow><mi>g</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> (It does not decompose into N<sub>2</sub>)",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nUpon heating $\\mathrm{KClO}_{3}$ in the presence of catalytic amount of $\\mathrm{MnO}_{2}$, a gas $\\mathbf{W}$ is formed. Excess amount of $\\mathbf{W}$ reacts with white phosphorus to give $\\mathbf{X}$. The reaction of $\\mathbf{X}$ with pure $\\mathrm{HNO}_{3}$ gives $\\mathbf{Y}$ and $\\mathbf{Z}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\n$\\mathbf{Y}$ and $\\mathbf{Z}$ are, respectively",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vpqwv",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> and <math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "srkqG",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> and <math><mi>H</mi><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "UQ4ot",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math> and <math><mi>H</mi><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "1o6Fu",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UQ4ot",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/q-16-003.jpg\" style=\"width: 433px; height: 248px;\" />\r\n\r\nY and Z are respectively\r\n\r\n<math><mi>Y</mi><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>&nbsp;and&nbsp;<math><mi>Z</mi><mo>=</mo><mi>H</mi><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a41f23ac7d519f9b2c4",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "The total number of lone pairs of electrons in <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image26-2aaeab22-829e-4241-a97f-2e1953e6d760.png\"/>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a35f23ac7d519f9b252",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "The pair(s) of reagents that yield paramagnetic species is/are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wzh4p",
+        "text": "Na and excess of  <math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "X1IXj",
+        "text": "K and excess of  <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "oQDyw",
+        "text": "Cu and dilute  <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "gTz52",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and 2- ethylanthraquinol",
+        "image": null
+      }
+    ],
+    "correct_answer": "oQDyw",
+    "solution_text": "<p>A] sodium (Na) when dissolved in excess liquid ammonia, forms a blue coloured paramagnetic solution.<br >B]<br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image8-a073ae2d-65e6-45a6-a317-d18ea75be692.jpg\"/> <br >C]<br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image9-777d9fd8-fadb-44bf-bc63-71a1a2b2ff41.jpg\"/> <br >Where \"NO\" is paramagnetic.<br >D] <br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image10-154a9715-570a-4d58-9445-b6d1ebcd7a8a.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a27f23ac7d519f9b1d5",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "Concentrated nitric acid, upon long standing, turns yellow-brown due to the formation of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fKhri",
+        "text": "NO",
+        "image": null
+      },
+      {
+        "id": "m2nSZ",
+        "text": "NO<sub>2</sub>",
+        "image": null
+      },
+      {
+        "id": "MLJ4h",
+        "text": "N<sub>2</sub>O",
+        "image": null
+      },
+      {
+        "id": "yprPu",
+        "text": "N<sub>2</sub>O<sub>4</sub>",
+        "image": null
+      }
+    ],
+    "correct_answer": "m2nSZ",
+    "solution_text": "<p>Nitric acid decomposes in sunlight as per reaction<br /><math> <mrow> <mn>4</mn> <msub> <mtext>HNO</mtext> <mn>3</mn> </msub> <mo>&#10230;</mo> <mn>4</mn> <msub> <mtext>NO</mtext> <mn>2</mn> </msub> <mo>+</mo> <mn>2</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mo>+</mo> <msub> <mtext>O</mtext> <mn>2</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>g</mtext> </mrow> </mfenced> </mrow> </math><br />Yellow colour is due to dissolved NO<sub>2</sub>(liq.)</p><p>NO<sub>2</sub>(g) is brown in colour but it is yellow in dissolved form.</p>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a1af23ac7d519f9b15a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Which ordering of compounds is according to the decreasing order of the oxidation state of nitrogen?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1HkSk",
+        "text": "$\\mathrm{HNO}_{3}, \\mathrm{NO}, \\mathrm{NH}_{4} \\mathrm{Cl}, \\mathrm{N}_{2}$",
+        "image": null
+      },
+      {
+        "id": "u2Y7i",
+        "text": "$\\mathrm{HNO}_{3}, \\mathrm{NO}, \\mathrm{N}_{2}, \\mathrm{NH}_{4} \\mathrm{Cl}$",
+        "image": null
+      },
+      {
+        "id": "4VgWM",
+        "text": "$\\mathrm{HNO}_{3}, \\mathrm{NH}_{4} \\mathrm{Cl}, \\mathrm{NO}, \\mathrm{N}_{2}$",
+        "image": null
+      },
+      {
+        "id": "Dj5EZ",
+        "text": "$\\mathrm{NO}, \\mathrm{HNO}_{3}, \\mathrm{NH}_{4} \\mathrm{Cl}, \\mathrm{N}_{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "u2Y7i",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5uMr3OWtv4gIlYFa331LZHI9LGHFboDuNrZkFwIydD8.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b16a0df23ac7d519f9b0e0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Extra pure $\\mathrm{N}_2$ can be obtained by heating",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3tXO7",
+        "text": "\n$\\mathrm{NH}_3$ with $\\mathrm{CuO}$\n",
+        "image": null
+      },
+      {
+        "id": "Fzags",
+        "text": "\n$\\mathrm{NH}_4 \\mathrm{NO}_4$\n",
+        "image": null
+      },
+      {
+        "id": "1GMt8",
+        "text": "\n$\\left(\\mathrm{NH}_4\\right)_2 \\mathrm{Cr}_2 \\mathrm{O}_7$\n",
+        "image": null
+      },
+      {
+        "id": "swleP",
+        "text": "\n$\\mathrm{Ba}\\left(\\mathrm{N}_3\\right)_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "swleP",
+    "solution_text": "$\\mathrm{Ba}\\left(\\mathrm{N}_3\\right)_2 \\stackrel{\\text { Heat }}{\\longrightarrow} \\mathrm{Ba}(\\mathrm{s})+3 \\mathrm{~N}_2(\\mathrm{~g})$\nAzide salt of barium can be obtained in purest form as well as the decomposition product contain solid $\\mathrm{Ba}$ as byproduct along with gaseous nitrogen, hence no additional step of separation is required.\nOther reactions are:\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/__xySB5n7CNqg_PAIUWe3FIZmDl1RXC6K1XGKtDLPJ4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b01c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Match each of the reactions given in Column I with the corresponding products(s) given in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/V3GuxJAZ7_VpCvRcy3XmvJlvyEmLatpDGSsk2j_7RAw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XCrXk",
+        "text": "\n(A) p,q,t, (B) p,s,t, (C) r,s, (D) p\n",
+        "image": null
+      },
+      {
+        "id": "7eHFU",
+        "text": "\n(A) p,q,s, (B) p,q,t, (C) r, (D) q\n",
+        "image": null
+      },
+      {
+        "id": "vxMcD",
+        "text": "\n(A) p,q,s, (B) q,s,t, (C) r,s, (D) p\n",
+        "image": null
+      },
+      {
+        "id": "nmlLs",
+        "text": "\n(A) p,q,t, (B) p,q,t, (C) r, (D) q",
+        "image": null
+      }
+    ],
+    "correct_answer": "XCrXk",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b017",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The nitrogen oxide(s) that contain(s) N.N bond(s) is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SvhuW",
+        "text": "\n$\\mathrm{N}_2 \\mathrm{O}$\n",
+        "image": null
+      },
+      {
+        "id": "d7nSp",
+        "text": "\n$\\mathrm{N}_2 \\mathrm{O}_3$\n",
+        "image": null
+      },
+      {
+        "id": "8iKXo",
+        "text": "\n$\\mathrm{N}_2 \\mathrm{O}_4$\n",
+        "image": null
+      },
+      {
+        "id": "OYK8h",
+        "text": "\n$\\mathrm{N}_2 \\mathrm{O}_5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "8iKXo",
+    "solution_text": "(a) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/HVJ5m1pJ3hYCSttiQB34MosIV8_zEG62xhnxyAnV5PM.original.fullsize.png\"><br>\n(b)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/00sH_Dr9ZwSwzKvxfxgUgOxQPrfM9jvNLxkhXKwXzvo.original.fullsize.png\"><br>\n(c)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JN_jTHSw9fXDiA-m7uDlw1qSSFjTqziJ1WxKhVRz87M.original.fullsize.png\"><br>\n(d)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U2BhVoXzwXPQ4pLAr47LKrD5KZKTb1iXR_GByQ5GBWI.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "64b169e3f23ac7d519f9af65",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThere are some deposits of nitrates and phosphates in earth's crust. Nitrates are more soluble in water. Nitrates are difficult to reduce under the laboratory conditions but microbes do it easily. Ammonia forms large number of complexes with transition metal ions. Hybridisation easily explains the ease of sigma donation capability of $\\mathrm{NH}_3$ and $\\mathrm{PH}_3$. Phosphine is a flammable gas and is prepared from white phosphorus.<strong>Question:</strong>\nAmong the following, the correct statement is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AMuXO",
+        "text": "\nbetween $\\mathrm{NH}_3$ and $\\mathrm{PH}_3, \\mathrm{NH}_3$ is a better electron donor because the lone pair of electrons occupies spherical 's' orbital and is less directional\n",
+        "image": null
+      },
+      {
+        "id": "gpKFe",
+        "text": "\nbetween $\\mathrm{NH}_3$ and $\\mathrm{PH}_3, \\mathrm{PH}_3$ is a better electron donor because the lone pair of electrons occupies $\\mathrm{sp}^3$ orbital and is more directional\n",
+        "image": null
+      },
+      {
+        "id": "H4RD5",
+        "text": "\nbetween $\\mathrm{NH}_3$ and $\\mathrm{PH}_3, \\mathrm{NH}_3$ is a better electron donor because the lone pair of electrons occupies $\\mathrm{sp}^3$ orbital and is more directional\n",
+        "image": null
+      },
+      {
+        "id": "GXtf7",
+        "text": "\nbetween $\\mathrm{NH}_3$ and $\\mathrm{PH}_3, \\mathrm{PH}_3$ is a better electron donor because the lone pair of electrons occupies spherical ' $s$ ' orbital and is less directional",
+        "image": null
+      }
+    ],
+    "correct_answer": "H4RD5",
+    "solution_text": "$\\mathrm{NH}_3$ is better electron donor because the lone pair of electrons occupies $\\mathrm{sp}^3$-orbital and is more directional.",
+    "solution_image": null,
+    "topic": "Nitrogen and Its Compounds"
+  },
+  {
+    "question_id": "6a0be51644d287c9361e5cd1",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Correct statement(s) about the compounds $\\textbf{P}$, $\\textbf{Q}$ and $\\textbf{R}$ is(are)<br><img style=\"width: 600px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q42_d1.png\" />",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uGOTk",
+        "text": "$\\textbf{P}$ has two lone pairs of electrons on the central atom.",
+        "image": null
+      },
+      {
+        "id": "7PyS0",
+        "text": "$\\textbf{Q}$ has a perfect octahedral geometry.",
+        "image": null
+      },
+      {
+        "id": "tFTs0",
+        "text": "$\\textbf{Q}$ can act as a fluorinating agent.",
+        "image": null
+      },
+      {
+        "id": "uH0fc",
+        "text": "The molecular structure of $\\textbf{R}$ is trigonal pyramidal.",
+        "image": null
+      }
+    ],
+    "correct_answer": "uH0fc",
+    "solution_text": "From the given reaction conditions:<br><br>$\\text{Xe(g)} + 2\\text{F}_2\\text{(g)} \\xrightarrow[\\text{1 : 5 ratio}]{\\text{873 K, 7 bar}} \\text{XeF}_4$<br>Thus, $\\textbf{P}$ is $\\text{XeF}_4$.<br><br>$\\text{XeF}_4 + \\text{O}_2\\text{F}_2 \\xrightarrow{\\text{143 K}} \\text{XeF}_6 + \\text{O}_2$<br>Thus, $\\textbf{Q}$ is $\\text{XeF}_6$.<br><br>$\\text{XeF}_6 + 3\\text{H}_2\\text{O} \\xrightarrow{\\text{complete hydrolysis}} \\text{XeO}_3 + 6\\text{HF}$<br>Thus, $\\textbf{R}$ is $\\text{XeO}_3$.<br><br>Evaluating the given options:<br>(A) $\\textbf{P}$ ($\\text{XeF}_4$) has $8$ valence electrons on the central Xe atom. It forms $4$ single bonds with F, leaving $4$ electrons which form $2$ lone pairs. This statement is correct.<br><br>(B) $\\textbf{Q}$ ($\\text{XeF}_6$) has $6$ bond pairs and $1$ lone pair on the central Xe atom. Its geometry is distorted octahedral, not perfect octahedral. This statement is incorrect.<br><br>(C) $\\textbf{Q}$ ($\\text{XeF}_6$) is a strong fluorinating agent. This statement is correct.<br><br>(D) $\\textbf{R}$ ($\\text{XeO}_3$) has $3$ double bonds and $1$ lone pair on the central Xe atom. Its molecular structure is trigonal pyramidal. This statement is correct.<br><br>Answer: $\\textbf{P}$ has two lone pairs of electrons on the central atom.; $\\textbf{Q}$ can act as a fluorinating agent.; The molecular structure of $\\textbf{R}$ is trigonal pyramidal.",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b16a9cf23ac7d519f9b5ff",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "The reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Xe</mi><mrow/></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">F</mi><mn>2</mn></msub></math>&nbsp;gives a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Xe</mi></math> compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>. The number of moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HF</mi></math> produced by the complete hydrolysis of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mol</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> is _____ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Xe</mi><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mo>&#160;</mo><msub><mi mathvariant=\"normal\">F</mi><mn>2</mn></msub><mo>&#8594;</mo><munder><msub><mi>XeF</mi><mn>4</mn></msub><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></munder><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mn>6</mn><msub><mi>XeF</mi><mn>4</mn></msub></mrow><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></munder><mo>+</mo><mn>12</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#10230;</mo><mn>4</mn><mi>Xe</mi><mo>+</mo><mn>2</mn><msub><mi>XeO</mi><mn>3</mn></msub><mo>+</mo><mn>24</mn><mi>HF</mi><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p>Number of moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HF</mi></math> formed by complete hydrolysis of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> mole of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>=</mo><mn>4</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b16a74f23ac7d519f9b48d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "At <math><mn>143</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mo>,</mo></math> the reaction of <math><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mi mathvariant=\"normal\">F</mi></mrow><mrow><mn>4</mn></mrow></msub></math> with <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> produces a xenon compound <math><mi mathvariant=\"normal\">Y</mi><mo>.</mo></math> The total number of lone pair(s) of electrons present on the whole molecule of <math><mi mathvariant=\"normal\">Y</mi></math> is __________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "19",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>XeF</mi><mn>4</mn></msub><mo> </mo><mo>+</mo><mo> </mo><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">F</mi><mn>2</mn></msub><mo> </mo><mo>→</mo><mo> </mo><msub><mi>XeF</mi><mn>6</mn></msub><mo> </mo><mo>+</mo><mo> </mo><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p>So <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>XeF</mi><mn>6</mn></msub></math></p><p>Each <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">F</mi></math> atom contains three lone pairs and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Xe</mi></math> atom contain one lone pair.</p><p>so total lone pair<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>×</mo><mn>6</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>19</mn></math></p><p>Total <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">P</mi><mo>=</mo><mn>19</mn></math>.<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/95061d8f-694a-468c-8190-cddda5e197aa-image.png\"/></p>",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b16a3bf23ac7d519f9b28c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<p>Under ambient conditions, the total number of gases released as products in the final step of the reaction<br >\r\n\r\nscheme shown below is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image9-5bdb3417-3ed3-46ee-be19-cc5f7662c318.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "clgqL",
+        "text": "0",
+        "image": null
+      },
+      {
+        "id": "Z0ZMU",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "UmH6i",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "31PpC",
+        "text": "3",
+        "image": null
+      }
+    ],
+    "correct_answer": "UmH6i",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image10-159d96be-e0aa-4a78-ab95-91ee91d10a13.jpg\"/>",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b16a2ff23ac7d519f9b21f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The unbalanced chemical reactions given in List I show missing reagent or condition (?) which are provided in list II. match List I with List II and select the correct answer using the code given below the lists :<br />&nbsp;<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>List I</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>List II</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;A.&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>PbO</mtext><mn>2</mn></msub><mo>+</mo><mi mathvariant=\"normal\">H</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><msub><mtext>SO</mtext><mn>4</mn></msub><mover><mo>&#10230;</mo><mtext>?</mtext></mover><msub><mtext>PbSO</mtext><mn>4</mn></msub><mo>+</mo><msub><mtext>O</mtext><mn>2</mn></msub><mo>+</mo><mtext>other product</mtext></math></td>\t\t\t<td>&nbsp;P&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NO</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;B.&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>Na</mtext><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub><mo>+</mo><mi mathvariant=\"normal\">H</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mtext>O</mtext><mover><mo>&#10230;</mo><mtext>?</mtext></mover><msub><mtext>NaHSO</mtext><mn>4</mn></msub><mo>+</mo><mtext>other product</mtext></math></td>\t\t\t<td>&nbsp;Q&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;C.&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mi mathvariant=\"normal\">H</mi><msub><mo>&#8289;</mo><mn>4</mn></msub><mover><mo>&#10230;</mo><mtext>?</mtext></mover><mi mathvariant=\"normal\">N</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mo>+</mo><mtext>other product</mtext></math></td>\t\t\t<td>&nbsp;R&nbsp;</td>\t\t\t<td>Warm</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;D.&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>Xe</mtext><mi mathvariant=\"normal\">F</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mover><mo>&#10230;</mo><mtext>?</mtext></mover><mtext>Xe</mtext><mo>+</mo><mtext>other product</mtext></math></td>\t\t\t<td>&nbsp;S</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cl</mi><mn>2</mn></msub></math></td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Npn4I",
+        "text": "a-p;b-r;c-q;d-s;",
+        "image": null
+      },
+      {
+        "id": "49eRI",
+        "text": "a-p;b-r;c-q;d-s;",
+        "image": null
+      },
+      {
+        "id": "MZesh",
+        "text": "a-r;b-s;c-q;d-p;",
+        "image": null
+      },
+      {
+        "id": "HI3EO",
+        "text": "a-r;b-q;c-s;d-p;",
+        "image": null
+      }
+    ],
+    "correct_answer": "MZesh",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>2PbO</mtext><mn>2</mn></msub><mtext>&#160;</mtext><mo>+</mo><mo>&#160;</mo><mn>2</mn><mi mathvariant=\"normal\">H</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><msub><mtext>SO</mtext><mn>4</mn></msub><mover><mo>&#10230;</mo><mtext>Warm</mtext></mover><msub><mtext>2PbSO</mtext><mn>4</mn></msub><mtext>&#160;</mtext><mo>+</mo><mo>&#160;</mo><msub><mtext>O</mtext><mn>2</mn></msub><mtext>&#160;</mtext><mo>+</mo><mo>&#160;</mo><mn>2</mn><msub><mtext>H</mtext><mn>2</mn></msub><mtext>O</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>Na</mtext><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><msub><mo>&#8289;</mo><mn>3</mn></msub><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mi mathvariant=\"normal\">H</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8289;</mo><mover><mo>&#10230;</mo><mrow><mo>+</mo><mi>Cl</mi><msub><mo>&#8289;</mo><mn>2</mn></msub></mrow></mover><msub><mtext>NaHSO</mtext><mn>4</mn></msub><mtext>&#160;</mtext><mo>+</mo><mo>&#160;</mo><mtext>HCl</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mi mathvariant=\"normal\">H</mi><msub><mo>&#8289;</mo><mn>4</mn></msub><mover><mo>&#10230;</mo><mrow><mo>+</mo><mi mathvariant=\"normal\">I</mi><msub><mo>&#8289;</mo><mn>2</mn></msub></mrow></mover><mi mathvariant=\"normal\">N</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mn>4</mn><mtext>HI</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>Xe</mtext><mi mathvariant=\"normal\">F</mi><msub><mo>&#8289;</mo><mn>2</mn></msub><mover><mo>&#10230;</mo><mtext>+NO</mtext></mover><mtext>Xe&#160;</mtext><mo>+</mo><mo>&#160;</mo><mtext>NOF</mtext></math>",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b16a21f23ac7d519f9b19a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The shape of $\\mathrm{XeO}_{2} \\mathrm{~F}_{2}$ molecule is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qmjKe",
+        "text": "trigonal bipyramidal",
+        "image": null
+      },
+      {
+        "id": "eRflP",
+        "text": "square planar",
+        "image": null
+      },
+      {
+        "id": "z6VKA",
+        "text": "tetrahedral",
+        "image": null
+      },
+      {
+        "id": "rJMS0",
+        "text": "see-saw",
+        "image": null
+      }
+    ],
+    "correct_answer": "rJMS0",
+    "solution_text": "$\\mathrm{XeO}_{2} \\mathrm{~F}_{2}$ has trigonal bipyramidal geometry, but due to presence of lone pair of electrons on equitorial position, its shape is see-saw.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/UDbnJR18VA91hjdnr_weUkNg1dpNa8443FkeOQd2380.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aedd",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe noble gases have closed-shell electronic configuration and are monoatomic gases under normal conditions. The low boiling points of the lighter noble gases are due to weak dispersion forces between the atoms and the absence of other interatomic interactions.\nThe direct reaction of xenon with fluorine leads to a series of compounds with oxidation numbers $+2,+4$ and $+6 . \\mathrm{XeF}_4$ reacts violently with water to give $\\mathrm{XeO}_3$. The compounds of xenon exhibit rich stereochemistry and their geometries can be deduced considering the total number of electron pairs in the valence shell.<strong>Question:</strong>\n$\\mathrm{XeF}_4$ and $\\mathrm{XeF}_6$ are expected to be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hJmZy",
+        "text": "\noxidising\n",
+        "image": null
+      },
+      {
+        "id": "kc0DB",
+        "text": "\nreducing\n",
+        "image": null
+      },
+      {
+        "id": "kbwZm",
+        "text": "\nunreactive\n",
+        "image": null
+      },
+      {
+        "id": "Ikwbj",
+        "text": "\nstrongly basic",
+        "image": null
+      }
+    ],
+    "correct_answer": "hJmZy",
+    "solution_text": "$\\mathrm{XeF}_4$ oxidises potassium iodide\n$$\n\\mathrm{XeF}_4+4 \\mathrm{I}^{-} \\longrightarrow 2 \\mathrm{I}_2+4 \\mathrm{~F}^{-1}+\\mathrm{Xe}\n$$\n$\\mathrm{XeF}_6$ oxidises hydrogen like other xenon fluorides.",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aedc",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe noble gases have closed-shell electronic configuration and are monoatomic gases under normal conditions. The low boiling points of the lighter noble gases are due to weak dispersion forces between the atoms and the absence of other interatomic interactions.\nThe direct reaction of xenon with fluorine leads to a series of compounds with oxidation numbers $+2,+4$ and $+6 . \\mathrm{XeF}_4$ reacts violently with water to give $\\mathrm{XeO}_3$. The compounds of xenon exhibit rich stereochemistry and their geometries can be deduced considering the total number of electron pairs in the valence shell.<strong>Question:</strong>\nThe structure of $\\mathrm{XeO}_3$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yNuI6",
+        "text": "\nlinear\n",
+        "image": null
+      },
+      {
+        "id": "ymATG",
+        "text": "\nplanar\n",
+        "image": null
+      },
+      {
+        "id": "1Buta",
+        "text": "\npyramidal\n",
+        "image": null
+      },
+      {
+        "id": "TikrX",
+        "text": "\n$T$-shaped",
+        "image": null
+      }
+    ],
+    "correct_answer": "1Buta",
+    "solution_text": "$\\mathrm{XeO}_3$ total $e^{-}$pairs $=4(3 p b+1 l p)$ $s p^3$-hybridisation $\\Rightarrow$ pyramidal shape.",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aedb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe noble gases have closed-shell electronic configuration and are monoatomic gases under normal conditions. The low boiling points of the lighter noble gases are due to weak dispersion forces between the atoms and the absence of other interatomic interactions.\nThe direct reaction of xenon with fluorine leads to a series of compounds with oxidation numbers $+2,+4$ and $+6 . \\mathrm{XeF}_4$ reacts violently with water to give $\\mathrm{XeO}_3$. The compounds of xenon exhibit rich stereochemistry and their geometries can be deduced considering the total number of electron pairs in the valence shell.<strong>Question:</strong>\nArgon is used in are welding because of its",
+    "question_image": null,
+    "options": [
+      {
+        "id": "duEHc",
+        "text": "\nlow reactivity with metal\n",
+        "image": null
+      },
+      {
+        "id": "gmBOy",
+        "text": "\nability to lower the melting point of metal\n",
+        "image": null
+      },
+      {
+        "id": "5dHCS",
+        "text": "\nflammability\n",
+        "image": null
+      },
+      {
+        "id": "pJwU2",
+        "text": "\nhigh calorific value",
+        "image": null
+      }
+    ],
+    "correct_answer": "duEHc",
+    "solution_text": "Argon is used in arc welding to cause the inert atmosphere around without interaction with metal.",
+    "solution_image": null,
+    "topic": "Noble Gases"
+  },
+  {
+    "question_id": "64b16a2df23ac7d519f9b20e",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The correct statement(s) about O<sub>3</sub> is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "R8TIr",
+        "text": "O-O bond lengths are equal.",
+        "image": null
+      },
+      {
+        "id": "EJGJC",
+        "text": "Thermal decomposition of O<sub>3</sub>&nbsp;is endothermic.",
+        "image": null
+      },
+      {
+        "id": "08UHw",
+        "text": "O<sub>3</sub> is diamagnetic in nature.",
+        "image": null
+      },
+      {
+        "id": "j9PtW",
+        "text": "O<sub>3</sub>&nbsp;has a bent structure.",
+        "image": null
+      }
+    ],
+    "correct_answer": "j9PtW",
+    "solution_text": "<p>In ozone due to resonating structures O - O bond lengths are same<br />&nbsp;</p><p><img height=\"89\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7d6ef4de-b27e-46d1-b4c5-41c4c01cccc9-image.png\" width=\"314\" /></p><p>&nbsp;</p><p><br />O-O bond lengths are equal is correct<br /><math> <mrow> <mn>2</mn> <msub> <mtext>O</mtext> <mn>3</mn> </msub> <mo>&#10230;</mo> <mn>3</mn> <msub> <mtext>O</mtext> <mn>2</mn> </msub> <mo>+</mo> <mn>6</mn> <mn>8&#160;</mn> <mtext>Kcal</mtext> </mrow> </math><br />It is exothermic decomposition (O<sub>3</sub> unstable). Thermal decomposition of O<sub>3</sub>&nbsp;is endothermic is wrong<br />O<sub>3</sub> is diamagnetic in nature &nbsp; Is correct due to all paired electrons.<br />O<sub>3</sub>&nbsp;has a bent structure&nbsp; Is correct with a bond angle of 116.8<sup>o</sup> and bent structure</p>",
+    "solution_image": null,
+    "topic": "Oxygen and Its Compounds"
+  },
+  {
+    "question_id": "685102c56bba689a3eb09cc4",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The compound(s) with $\\mathrm{P}-\\mathrm{H}$ bond(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BZuYP",
+        "text": "$\\mathrm{H}_3 \\mathrm{PO}_4$",
+        "image": null
+      },
+      {
+        "id": "ytIbz",
+        "text": "$\\mathrm{H}_3 \\mathrm{PO}_3$",
+        "image": null
+      },
+      {
+        "id": "ItsPn",
+        "text": "$\\mathrm{H}_4 \\mathrm{P}_2 \\mathrm{O}_7$",
+        "image": null
+      },
+      {
+        "id": "mj95l",
+        "text": "$\\mathrm{H}_3 \\mathrm{PO}_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mj95l",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ImsX9uuhMHlAMS0jta4pqgcmA2fzIZq2RaXYbnaW5f4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "66965de0d603121f43a42afe",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "The species formed on fluorination of phosphorus pentachloride in a polar organic solvent are :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "v5teK",
+        "text": "$\\left[\\mathrm{PF}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$and $\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$",
+        "image": null
+      },
+      {
+        "id": "RW4wP",
+        "text": "$\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PCl}_4 \\mathrm{~F}_2\\right]^{-}$and $\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$",
+        "image": null
+      },
+      {
+        "id": "pYIW5",
+        "text": "$\\mathrm{PF}_3$ and $\\mathrm{PCl}_3$",
+        "image": null
+      },
+      {
+        "id": "lc1Lx",
+        "text": "$\\mathrm{PF}_5$ and $\\mathrm{PCl}_3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "RW4wP",
+    "solution_text": "$\\mathrm{PCl}_5$ when fluorinated in a polar organic solvent, ionic isomers are formed.\n$\\left[\\mathrm{PCl}_4^{+}\\right]\\left[\\mathrm{PCl}_4 \\mathrm{~F}_2\\right]^{-}$(colorless crystals)\n$\\left[\\mathrm{PCl}_4^{+}\\right]\\left[\\mathrm{PF}_6\\right]^{-}$(white crystals)",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "66965ddfd603121f43a42859",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "In the following reaction sequences, the major product $\\mathbf{Q}$ is:\nL-Glucose \\(\\xrightarrow[\\text { (ii) } \\mathrm{Cr}_2 \\mathrm{O}_3, 775 \\mathrm{~K}, 10-20 \\text { atm }]{\\text { (i) } \\mathrm{HI}, \\Delta} \\mathrm{P} \\xrightarrow[\\text { UV }]{\\mathrm{Cl}_2 \\text { (excess) }} \\mathrm{Q}\\)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5KPTM",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/I-st_f4C59-ItafC8hPDTQCvvv2XTmw-yuNhaQweIr4.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "sklE0",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hQeciWgOHZWl8sn3DRAa46o5LYas4j87svsxzQv0ylY.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "S7BdJ",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/WTen88vUTsvIqlFo8TVi0PU5sAxESCzFuo9B4VJLM4o.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "wk53m",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e5htSgw5hJepFAbsCrcj5_M8HRZ9tVSPdZCOf9ysAOc.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wk53m",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/z7eerIUBxJC6wnVp_XnhecCvHt0ajo_j-usa1lPe59U.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CiQIa74xY_8ckECBLXOogUpu97jrL9fg6ez3bXG9Vgg.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a90f23ac7d519f9b593",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "The correct statement(s) related to oxoacids of phosphorous is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Lqimd",
+        "text": "Upon heating, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math> undergoes disproportionation reaction to produce <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PH</mi><mn>3</mn></msub></math>.",
+        "image": null
+      },
+      {
+        "id": "rm5dy",
+        "text": "While <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math> can act as reducing agent, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math> cannot.",
+        "image": null
+      },
+      {
+        "id": "bZK1x",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math> is a monobasic acid.",
+        "image": null
+      },
+      {
+        "id": "uiO34",
+        "text": "The <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math> atom of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi mathvariant=\"normal\">H</mi></math> bond in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math> is not ionizable in water.",
+        "image": null
+      }
+    ],
+    "correct_answer": "uiO34",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub><mover><mo>&#8594;</mo><mo>&#8710;</mo></mover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub><mo>+</mo><msub><mi>PH</mi><mn>3</mn></msub></math>&nbsp;(Disproportionation)</p><p>Oxidation state of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi mathvariant=\"normal\">P</mi><mo>&#39;</mo></math>&nbsp;in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>5</mn></math>&nbsp;which is maximum oxidation state of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi mathvariant=\"normal\">P</mi><mo>&#39;</mo></math>&nbsp;so&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math>&nbsp;cannot act as a reducing agent whereas&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math>&nbsp;can act as a reducing agent because the oxidation state is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>3</mn></math> and it can increase upto <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>5</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math>:&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a13b1161-4266-4378-b6c1-9d9e7b14bf39-image.png\" style=\"width: 200px; height: 172px;\" /></p><p>It is dibasic acid.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Only&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math>- atom attached with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi mathvariant=\"normal\">O</mi><mo>&#39;</mo></math>&nbsp;is ionizable.</p>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a79f23ac7d519f9b4bc",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "The amount of water produced (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>in</mi><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math>) in the oxidation of <math><mn>1</mn></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mole</mi><mo>&#160;</mo></math>of rhombic sulphur by conc. <math><msub><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> to a compound with the highest oxidation state of sulphur is<br />(Given data: Molar mass of water<math><mo>=</mo><mn>18</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> )",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "288",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mn>8</mn></msub><mo>+</mo><mn>48</mn><msub><mi>HNO</mi><mn>3</mn></msub><mo>&#8594;</mo><mn>8</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><mn>48</mn><msub><mi>NO</mi><mn>2</mn></msub><mo>+</mo><mn>16</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math><br /><math><mo>&#8757;</mo></math> <math><mn>1</mn></math> mol of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mn>8</mn></msub></math> produces <math><mn>16</mn></math> mole of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>;</mo></math><br /><math><mo>&#8756;</mo></math> Mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math> produced <math><mo>&#8658;</mo><mn>16</mn><mo>&#215;</mo><mn>18</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>288</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi></math>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a6cf23ac7d519f9b44c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "The total number of compounds having at least one bridging oxo group among the molecules given below is<br />\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">N</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>5</mn></msub><mo>,</mo><mo>&nbsp;</mo><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>6</mn></msub><mo>,</mo><mo>&nbsp;</mo><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>8</mn></msub><mo>,</mo><mo>&nbsp;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>5</mn></msub><mo>,</mo><mo>&nbsp;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>5</mn></msub><msub><mi mathvariant=\"normal\">P</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>10</mn></msub><mo>,</mo><mo>&nbsp;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">S</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>,</mo><mo>&nbsp;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">S</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>5</mn></msub></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/123avaihfaw.png\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7_solu_1_chem_5.jpg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7_solu_2_chem_4fasd.jpg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7_solu_3_chem_3.jpg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7_solu_4_chem_2.jpg\"/>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a66f23ac7d519f9b412",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "Based on the compounds of group 15 elements, the correct statement(s) is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bhCfV",
+        "text": "<math><mi>B</mi><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>  is more basic than  <math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "5pHsn",
+        "text": "<math><mi>N</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  is more covalent than  <math><mi>B</mi><mi>i</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub><mi> </mi></math>",
+        "image": null
+      },
+      {
+        "id": "T3MlO",
+        "text": "<math><mi>P</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  Boils at lower temperature than  <math><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "luBPO",
+        "text": "The  <math><mi>N</mi><mo>-</mo><mi>N</mi></math>  single bond is stronger than the  <math><mi>P</mi><mo>-</mo><mi>P</mi></math>  single bond",
+        "image": null
+      }
+    ],
+    "correct_answer": "T3MlO",
+    "solution_text": "<math><mo>(</mo><mi>A</mi><mo>)</mo></math>   <math><mi>B</mi><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>  is metallic oxide but  <math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>  is non metallic oxide therefore  <math><mi>B</mi><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>  is basic but  <math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math>  is acidic.<br > <math><mo>(</mo><mi>B</mi><mo>)</mo></math>  In  <math><mi>N</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub><mi> </mi><mo>,</mo><mi> </mi><mi>N</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>F</mi></math>  are non metals but  <math><mi>B</mi><mi>i</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub><mi> </mi><mo>,</mo><mi> </mi><mi>B</mi><mi>i</mi></math>  is metal but  <math><mi>F</mi></math>  is non metal therefore  <math><mi>N</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  is more covalent than  <math><mi>B</mi><mi>i</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub></math> <br > <math><mo>(</mo><mi>C</mi><mo>)</mo></math>  In  <math><mi>P</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  hydrogen bonding is absent but in  <math><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  hydrogen bonding is present therefore  <math><mi>P</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  boils at lower temperature than  <math><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math> <br > <math><mo>(</mo><mi>D</mi><mo>)</mo></math>  Due to small size in N-N single bond l.p. - l.p. repulsion is more than P-P single bond therefore N-N single bond is weaker than the P-P single bond",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nUpon heating $\\mathrm{KClO}_{3}$ in the presence of catalytic amount of $\\mathrm{MnO}_{2}$, a gas $\\mathbf{W}$ is formed. Excess amount of $\\mathbf{W}$ reacts with white phosphorus to give $\\mathbf{X}$. The reaction of $\\mathbf{X}$ with pure $\\mathrm{HNO}_{3}$ gives $\\mathbf{Y}$ and $\\mathbf{Z}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\n$\\mathbf{W}$ and $\\mathbf{X}$ are, respectively",
+    "question_image": null,
+    "options": [
+      {
+        "id": "E2461",
+        "text": "<math><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><msub><mrow><mi>P</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "iXi7z",
+        "text": "<math><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>P</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>10</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "lCIYm",
+        "text": "<math><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><msub><mrow><mi>P</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>10</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "6YPKx",
+        "text": "<math><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>P</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "iXi7z",
+    "solution_text": "<p><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/190804.PNG\" style=\"width: 410px; height: 239px;\" /></p><p>W and X are respectively</p><p><math><mi>W</mi><mo>=</mo><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>&nbsp;and&nbsp;<math><mi>X</mi><mo>=</mo><msub><mrow><mi>P</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>10</mn></mrow></msub></math></p>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a55f23ac7d519f9b37a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "The nitrogen containing compound produced in the reaction of <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>10</mn></msub></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GI6iY",
+        "text": "Can also be prepared by reaction of  <math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>4</mn></mrow></msub></math>  and  <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "a6sVe",
+        "text": "Is diamagnetic",
+        "image": null
+      },
+      {
+        "id": "Hkwsy",
+        "text": "Contains one N-N bond",
+        "image": null
+      },
+      {
+        "id": "WBWp6",
+        "text": "Reacts with Na metal producing a brown gas",
+        "image": null
+      }
+    ],
+    "correct_answer": "WBWp6",
+    "solution_text": "<math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>10</mn></mrow></msub><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mover accent=\"false\"><mo>→</mo><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mover><mn>4</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">P</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">q</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math><br >A] <math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><mn>20</mn><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>→</mo><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">P</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><mn>20</mn><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>↑</mo><mo>+</mo><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math><br >B] <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub></math> is diamagnetic in nature<br >C] <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.31_Ans_1.jpg\"/><br/><math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub></math> contains one N - O - N bond not N - N bond.<br >D] <math><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">a</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub><mo>→</mo><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>↑</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">w</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">s</mi></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a3bf23ac7d519f9b28d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "The product formed in the reaction of <math><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math> with white phosphorous is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "W8csd",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "PHF5f",
+        "text": "<math><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "qck0h",
+        "text": "<math><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "cb3XH",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "W8csd",
+    "solution_text": "<math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>4</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi></mrow></mfenced></mrow></msub><mo>+</mo><mn>8</mn><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">l</mi></mrow></mfenced></mrow></msub><mo>→</mo><mn>4</mn><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">l</mi></mrow></mfenced></mrow></msub><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></mrow></msub><mo>+</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></mrow></msub></math><br>The product formed in the reaction of <math><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math> with white phosphorous is <math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a2ff23ac7d519f9b218",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nThe reactions of $\\mathrm{Cl}_{2}$ gas with cold-dilute and hot-concentrated $\\mathrm{NaOH}$ in water give sodium salts of two (different) oxoacids of chlorine, $\\boldsymbol{P}$ and $\\boldsymbol{Q}$, respectively. The $\\mathrm{Cl}_{2}$ gas reacts with $\\mathrm{SO}_{2}$ gas, in presence of charcoal, to give a product $\\boldsymbol{R}$. $\\boldsymbol{R}$ reacts with white phosphorus to give a compound $\\boldsymbol{S}$. On hydrolysis, $\\boldsymbol{S}$ gives an oxoacid of phosphorus, $\\boldsymbol{T}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\n$R, S$ and $T$, respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LrXnD",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SO</mi><mn>2</mn></msub><msub><mi>Cl</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>PCl</mi><mn>5</mn></msub><mo>&#160;</mo><mi>and</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "wJEAT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SO</mi><mn>2</mn></msub><msub><mi>Cl</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>PCl</mi><mn>3</mn></msub><mo>&#160;</mo><mi>and</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "lA701",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SOCl</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>PCl</mi><mn>3</mn></msub><mo>&#160;</mo><mi>and</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "VON25",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SOCl</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>PCl</mi><mn>5</mn></msub><mo>&#160;</mo><mi>and</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LrXnD",
+    "solution_text": "<math> <mrow> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <mtext>cold dil. NaOH</mtext> <mo>&#8594;</mo> <mtext>NaOCl</mtext> <mo>+</mo> <mtext>NaCl</mtext> </mrow> </math><br /><math> <mrow> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <mtext>hot conc.&#160;</mtext> <mtext>NaOH</mtext> <mo>&#8594;</mo> <msub> <mtext>NaClO</mtext> <mn>3</mn> </msub> <mo>+</mo> <mtext>NaCl</mtext> </mrow> </math><br />NaOCl is salt of hypochlorous acid = P.<br />NaOCl<sub>3</sub> is salt of chloric acid = Q.<br /><math> <mrow> <mtable> <mtr> <mtd> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> </mtd> <mtd> <mover> <mo>&#10230;</mo> <mtext>Charcoal</mtext> </mover> </mtd> <mtd> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>R</mtext> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> <msub> <mtext>Cl</mtext> <mn>2</mn> </msub> <mo>+</mo> <msub> <mtext>P</mtext> <mn>4</mn> </msub> </mtd> <mtd> <mo>&#10230;</mo> </mtd> <mtd> <msub> <mtext>PCl</mtext> <mn>5</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>S</mtext> </mrow> </mfenced> <mo>+</mo> <msub> <mtext>SO</mtext> <mn>2</mn> </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>PCl</mtext> <mn>5</mn> </msub> <mo>+</mo> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> </mtd> <mtd> <mo>&#10230;</mo> </mtd> <mtd> <msub> <mtext>H</mtext> <mn>3</mn> </msub> <msub> <mtext>PO</mtext> <mn>4</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>T</mtext> </mrow> </mfenced> <mo>+</mo> <mtext>HCl</mtext> </mtd> </mtr> </mtable> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a21f23ac7d519f9b199",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The reaction of white phosphorus with aqueous $\\mathrm{NaOH}$ gives phosphine along with another phosphorus containing compound. The reaction type; the oxidation states of phosphorus in phosphine and the other product are respectively",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XXZFi",
+        "text": "redox reaction; $-3$ and $-5$",
+        "image": null
+      },
+      {
+        "id": "aTII9",
+        "text": "redox reaction; $+3$ and $+5$",
+        "image": null
+      },
+      {
+        "id": "7chA7",
+        "text": "disproportionation reaction; $-3$ and $+5$",
+        "image": null
+      },
+      {
+        "id": "jFzJy",
+        "text": "disproportionation reaction; $-3$ and $+3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "7chA7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3PwXxOSYBkdxDVyIN1cvKcuQJF7DHqAX43VH128PVDQ.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b16a15f23ac7d519f9b12c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the number of compounds than can react with $\\mathrm{PCl}_5$ to give $\\mathrm{POCl}_3$ is $\\mathrm{O}_2, \\mathrm{CO}_2, \\mathrm{SO}_2, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{P}_4 \\mathrm{O}_{10}$.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "$$\n\\text { } \\mathrm{PCl}_5 \\text { produces } \\mathrm{POCl}_3 \\text { with the following reagents }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cekVD76OhILpF3olLzcENWVbk3RxyUJJzJVPltU7UI4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b169f0f23ac7d519f9afda",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The reaction of $P_2$ with $X$ leads selectively to $\\mathrm{P}_4 \\mathrm{O}_6$. The $\\mathrm{X}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pWeh3",
+        "text": "\ndry $\\mathrm{O}_2$\n",
+        "image": null
+      },
+      {
+        "id": "TEkRo",
+        "text": "\na mixture of $\\mathrm{O}_2$ and $\\mathrm{N}_2$\n",
+        "image": null
+      },
+      {
+        "id": "PYeUZ",
+        "text": "\nmoist $\\mathrm{O}_2$\n",
+        "image": null
+      },
+      {
+        "id": "z0STT",
+        "text": "\n$\\mathrm{O}_2$ in the presence of aq. $\\mathrm{NaOH}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "TEkRo",
+    "solution_text": "White phosphorus on reaction with limited supply of oxygen gives lower oxide $P_4 \\mathrm{O}_6$. Therefore, air $\\left(\\mathrm{O}_2+\\mathrm{N}_2\\right)$ is a good source for controlled supply of oxygen and the best choice for controlled oxidation of white phosphorus into lower oxide $\\mathrm{P}_4 \\mathrm{O}_6$.",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b169e3f23ac7d519f9af66",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThere are some deposits of nitrates and phosphates in earth's crust. Nitrates are more soluble in water. Nitrates are difficult to reduce under the laboratory conditions but microbes do it easily. Ammonia forms large number of complexes with transition metal ions. Hybridisation easily explains the ease of sigma donation capability of $\\mathrm{NH}_3$ and $\\mathrm{PH}_3$. Phosphine is a flammable gas and is prepared from white phosphorus.<strong>Question:</strong>\nWhite phosphorus on reaction with $\\mathrm{NaOH}$ gives $\\mathrm{PH}_3$ as one of the products. This is a",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gD3vj",
+        "text": "\ndimerisation reaction\n",
+        "image": null
+      },
+      {
+        "id": "SrZMa",
+        "text": "\ndisproportionation reaction\n",
+        "image": null
+      },
+      {
+        "id": "91y92",
+        "text": "\ncondensation reaction\n",
+        "image": null
+      },
+      {
+        "id": "LQdaC",
+        "text": "\nprecipitation reaction",
+        "image": null
+      }
+    ],
+    "correct_answer": "SrZMa",
+    "solution_text": "White phosphorus on reaction with $\\mathrm{NaOH}$ gives $\\mathrm{PH}_3$ as one of the product in disproportionation reaction\n$$\n\\mathrm{P}_4+3 \\mathrm{NaOH}+3 \\mathrm{H}_2 \\mathrm{O} \\longrightarrow 3 \\mathrm{NaH}_2 \\mathrm{PO}_2+\\mathrm{PH}_3\n$$",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "64b169e3f23ac7d519f9af64",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThere are some deposits of nitrates and phosphates in earth's crust. Nitrates are more soluble in water. Nitrates are difficult to reduce under the laboratory conditions but microbes do it easily. Ammonia forms large number of complexes with transition metal ions. Hybridisation easily explains the ease of sigma donation capability of $\\mathrm{NH}_3$ and $\\mathrm{PH}_3$. Phosphine is a flammable gas and is prepared from white phosphorus.<strong>Question:</strong>\nAmong the following, the correct statement is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aI7Fe",
+        "text": "\nphosphates have no biological significance in humans\n",
+        "image": null
+      },
+      {
+        "id": "tjDIO",
+        "text": "\nbetween nitrates and phosphates, phosphates are less abundant in earth's crust\n",
+        "image": null
+      },
+      {
+        "id": "Hkv1y",
+        "text": "\nbetween nitrates and phosphates, nitrates are less abundant in earth's crust\n",
+        "image": null
+      },
+      {
+        "id": "QRWUn",
+        "text": "\noxidation of nitrates is possible in soil",
+        "image": null
+      }
+    ],
+    "correct_answer": "Hkv1y",
+    "solution_text": "Due to greater solubility and nature to be prone to microbial action, nitrates are less abundant in earth's crust.",
+    "solution_image": null,
+    "topic": "Phosphorus and Its Compounds"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cbf",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "During sodium nitroprusside test of sulphide ion in an aqueous solution, one of the ligands coordinated to the metal ion is converted to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "65xC4",
+        "text": "$\\mathrm{NOS}^{-}$",
+        "image": null
+      },
+      {
+        "id": "DcyCd",
+        "text": "$\\mathrm{SCN}^{-}$",
+        "image": null
+      },
+      {
+        "id": "3lMNN",
+        "text": "$\\mathrm{SNO}^{-}$",
+        "image": null
+      },
+      {
+        "id": "t07lu",
+        "text": "$\\mathrm{NCS}^{-}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "65xC4",
+    "solution_text": "$\\mathrm{Na}_2\\left[\\mathrm{Fe}(\\mathrm{CN})_5(\\mathrm{NO})\\right]+\\mathrm{Na}_2 \\mathrm{~S} \\rightarrow \\mathrm{Na}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_5(\\mathrm{NOS})\\right]$<br>Sodium nitroprusside purple solution",
+    "solution_image": null,
+    "topic": "Sulphur and Its Compounds"
+  },
+  {
+    "question_id": "66965de2d603121f43a431d5",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "The compound (s) having peroxide linkage is(are) :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "V4x2R",
+        "text": "$\\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_7$",
+        "image": null
+      },
+      {
+        "id": "wsA8P",
+        "text": "$\\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_8$",
+        "image": null
+      },
+      {
+        "id": "R5lan",
+        "text": "$\\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_5$",
+        "image": null
+      },
+      {
+        "id": "P27GB",
+        "text": "$\\mathrm{H}_2 \\mathrm{SO}_5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "P27GB",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QTqr6Xor8qz1Q6PsDUH8qUIWVlg9uz740Tkn4sKgNQc.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Sulphur and Its Compounds"
+  },
+  {
+    "question_id": "64b16a14f23ac7d519f9b124",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Passing $\\mathrm{H}_2 \\mathrm{~S}$ gas into a mixture of $\\mathrm{Mn}^{2+}, \\mathrm{Ni}^{2+}, \\mathrm{Cu}^{2+}$ and $\\mathrm{Hg}^{2+}$ ions in an acidified aqueous solution precipitates",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HzGhF",
+        "text": "\n$\\mathrm{CuS}$ and $\\mathrm{HgS}$\n",
+        "image": null
+      },
+      {
+        "id": "GCjSh",
+        "text": "\n$\\mathrm{MnS}$ and $\\mathrm{CuS}$\n",
+        "image": null
+      },
+      {
+        "id": "DO4bf",
+        "text": "\n$\\mathrm{MnS}$ and $\\mathrm{NiS}$\n",
+        "image": null
+      },
+      {
+        "id": "UD8QG",
+        "text": "\n$\\mathrm{NiS}$ and $\\mathrm{HgS}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "HzGhF",
+    "solution_text": "In acidic medium, $\\mathrm{H}_2 \\mathrm{~S}$ is very feebly ionized giving very small concentration of sulphide ion for precipitation. Therefore, the most insoluble salts $\\mathrm{CuS}$ and $\\mathrm{HgS}$ are precipitated only.",
+    "solution_image": null,
+    "topic": "Sulphur and Its Compounds"
+  },
+  {
+    "question_id": "64b16a0ef23ac7d519f9b0f1",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The difference in the oxidation numbers of the two types of sulphur atoms in $\\mathrm{Na}_2 \\mathrm{~S}_4 \\mathrm{O}_6$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "$$\n\\mathrm{Na}_2 \\mathrm{~S}_4 \\mathrm{O}_6 \\text { is a salt of } \\mathrm{H}_2 \\mathrm{~S}_4 \\mathrm{O}_6 \\text { which has the following structure }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0-8axulfQ-DixHOvoN22BhSXEH57SKTvMteSI3efq2s.original.fullsize.png\"><br>\n$$\n\\Rightarrow \\text { Difference in oxidation number of two types of sulphur }=5\n$$",
+    "solution_image": null,
+    "topic": "Sulphur and Its Compounds"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af57",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "$$\n\\text { Aqueous solution of } \\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3 \\text { on reaction with } \\mathrm{Cl}_2 \\text { gives }\n$$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "a1ugm",
+        "text": "\n$\\mathrm{Na}_2 \\mathrm{~S}_4 \\mathrm{O}_6$\n",
+        "image": null
+      },
+      {
+        "id": "IDRo7",
+        "text": "\n$\\mathrm{NaHSO}_4$\n",
+        "image": null
+      },
+      {
+        "id": "VCM7v",
+        "text": "\n$\\mathrm{NaCl}$\n",
+        "image": null
+      },
+      {
+        "id": "OduMG",
+        "text": "\n$\\mathrm{NaOH}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "IDRo7",
+    "solution_text": "Sodium thiosulphate, $\\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3$ gets oxidised by chlorine water.\n$$\n\\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3+4 \\mathrm{Cl}_2+5 \\mathrm{H}_2 \\mathrm{O} \\longrightarrow 2 \\mathrm{NaHSO}_4+8 \\mathrm{HCl}\n$$\n$\\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3$ gets oxidised by $\\mathrm{FeCl}_3$ into $\\mathrm{Na}_2 \\mathrm{~S}_4 \\mathrm{O}_6$\n$$\n2 \\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3+2 \\mathrm{FeCl}_3 \\longrightarrow \\mathrm{Na}_2 \\mathrm{~S}_4 \\mathrm{O}_6+2 \\mathrm{FeCl}_2+2 \\mathrm{NaCl}\n$$\nFurther, $\\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3$ decomposes on treatment with dilute acids\n$$\n\\mathrm{Na}_2 \\mathrm{~S}_2 \\mathrm{O}_3+2 \\mathrm{HCl} \\longrightarrow 2 \\mathrm{NaCl}+\\mathrm{SO}_2+\\mathrm{S}+\\mathrm{H}_2 \\mathrm{O}\n$$",
+    "solution_image": null,
+    "topic": "Sulphur and Its Compounds"
+  }
+]

@@ -1,0 +1,1489 @@
+[
+  {
+    "question_id": "6983c1838bfdbb24356395b2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (21 January Shift 2)",
+    "paper_year_short": "2026 (21 January Shift 2)",
+    "held_on": "2026-01-21T14:00:00.000Z",
+    "question_text": "By usual analysis, 1.00 g of compound $(\\mathrm{X})$ gave 1.79 g of magnesium pyrophosphate. The percentage of phosphorus in compound $(X)$ is : (nearest integer) (Given, molar mass in $\\mathrm{g} \\mathrm{mol}^{-1}: \\mathrm{O}=16, \\mathrm{Mg}=24, \\mathrm{P}=31$)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ihcu1",
+        "text": "30",
+        "image": null
+      },
+      {
+        "id": "MWnig",
+        "text": "50",
+        "image": null
+      },
+      {
+        "id": "3FzJ5",
+        "text": "40",
+        "image": null
+      },
+      {
+        "id": "rvt6C",
+        "text": "20",
+        "image": null
+      }
+    ],
+    "correct_answer": "MWnig",
+    "solution_text": "Given: 1.00 g of compound (X) produces 1.79 g of Mg₂P₂O₇.<br>Molar mass of Mg₂P₂O₇ = 2(24) + 2(31) + 7(16) = 222 g/mol.<br>Moles of Mg₂P₂O₇ = 1.79 / 222 = 0.00806 mol.<br>Since each mole of Mg₂P₂O₇ contains 2 moles of P, moles of P = 2 × 0.00806 = 0.01612 mol.<br>Mass of P = 0.01612 × 31 = 0.4997 g ≈ 0.50 g.<br>Percentage of phosphorus = (0.50 / 1.00) × 100 = 50%.",
+    "solution_image": null,
+    "topic": "Identification of Acid Radicals"
+  },
+  {
+    "question_id": "69d8074981239f6567c4f3f6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (04 April Shift 2)",
+    "paper_year_short": "2026 (04 April Shift 2)",
+    "held_on": "2026-04-04T14:00:00.000Z",
+    "question_text": "Among $Fe^{3+}$, $Pb^{2+}$, $Cu^{2+}$ and $Mn^{2+}$, identify the one that gets precipitated out while passing $H_2S$ in presence of $NH_4OH$ as group reagent. The highest possible oxidation state of the corresponding metal is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VJIJa",
+        "text": "$+3$",
+        "image": null
+      },
+      {
+        "id": "nVCXW",
+        "text": "$+4$",
+        "image": null
+      },
+      {
+        "id": "uK6qv",
+        "text": "$+2$",
+        "image": null
+      },
+      {
+        "id": "YXUnm",
+        "text": "$+7$",
+        "image": null
+      }
+    ],
+    "correct_answer": "YXUnm",
+    "solution_text": "The group reagent $H_2S$ in the presence of $NH_4OH$ is used for the precipitation of Group IV cations in qualitative analysis.<br><br>Among the given ions, $Mn^{2+}$ belongs to Group IV and is precipitated as $MnS$.<br><br>$Pb^{2+}$ and $Cu^{2+}$ belong to Group II and are precipitated by $H_2S$ in an acidic medium.<br><br>$Fe^{3+}$ belongs to Group III and is precipitated as $Fe(OH)_3$ by $NH_4OH$ in the presence of $NH_4Cl$.<br><br>The metal corresponding to the precipitated ion is Manganese ($Mn$).<br><br>The electronic configuration of $Mn$ is $[Ar] 3d^5 4s^2$. By losing all its valence electrons, it can exhibit a maximum oxidation state of $+7$ (for example, in $KMnO_4$).<br><br>Answer: $+7$",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "6983c1a78bfdbb2435639775",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 2)",
+    "paper_year_short": "2026 (24 January Shift 2)",
+    "held_on": "2026-01-24T14:00:00.000Z",
+    "question_text": "In the Group analysis of cations, $\\mathrm{Ba}^{2+} ~\\&~ \\mathrm{Ca}^{2+}$ are precipitated respectively as",
+    "question_image": null,
+    "options": [
+      {
+        "id": "juPm5",
+        "text": "sulphide & sulphide",
+        "image": null
+      },
+      {
+        "id": "CZmK6",
+        "text": "chromate & sulphide",
+        "image": null
+      },
+      {
+        "id": "lnKHx",
+        "text": "carbonate & carbonate",
+        "image": null
+      },
+      {
+        "id": "7mURz",
+        "text": "hydroxide & carbonate",
+        "image": null
+      }
+    ],
+    "correct_answer": "lnKHx",
+    "solution_text": "In Group V of cation analysis, both Ba²⁺ and Ca²⁺ are precipitated by adding Na₂CO₃ or (NH₄)₂CO₃ solution. Ba²⁺ precipitates as BaCO₃ (white precipitate) and Ca²⁺ precipitates as CaCO₃ (white precipitate). Both form insoluble carbonates under these conditions, making the answer carbonate & carbonate.",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "6983c1a28bfdbb2435639736",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 1)",
+    "paper_year_short": "2026 (24 January Shift 1)",
+    "held_on": "2026-01-24T09:00:00.000Z",
+    "question_text": "Consider three metal chlorides $\\mathrm{x}, \\mathrm{y}$ and z, where x is water soluble at room temperature, y is sparingly soluble in water at room temperature and z is soluble in hot water. $\\mathrm{x}, \\mathrm{y}$ and z are respectively",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Jg44H",
+        "text": "$\\mathrm{CuCl}_{2}, \\mathrm{AgCl}$ and $\\mathrm{PbCl}_{2}$",
+        "image": null
+      },
+      {
+        "id": "uRanL",
+        "text": "$\\mathrm{AlCl}_{3}, \\mathrm{PbCl}_{2}$ and $\\mathrm{BaCl}_{2}$",
+        "image": null
+      },
+      {
+        "id": "z0PFj",
+        "text": "$\\mathrm{MgCl}_{2}, \\mathrm{AgCl}$ and $\\mathrm{AlCl}_{3}$",
+        "image": null
+      },
+      {
+        "id": "01HB4",
+        "text": "$\\mathrm{AgCl}, \\mathrm{Hg}_{2} \\mathrm{Cl}_{2}$ and $\\mathrm{PbCl}_{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Jg44H",
+    "solution_text": "Metal chloride solubility characteristics:<br>x must be water soluble at room temperature, y must be sparingly soluble at room temperature, and z must be soluble in hot water but not in cold water.<br>CuCl₂ is highly soluble in water (x).<br>AgCl is notoriously insoluble in water and sparingly soluble at any temperature, classifying it as sparingly soluble (y).<br>PbCl₂ exhibits unusual solubility behavior—it is sparingly soluble in cold water but its solubility increases with temperature, making it soluble in hot water (z).<br>This combination perfectly matches all three criteria.",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "67a2eeafc8b73881fdaea205",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (24 Jan Shift 1)",
+    "paper_year_short": "2025 (24 Jan Shift 1)",
+    "held_on": "2025-01-24T09:00:00.000Z",
+    "question_text": "Among the following cations, the number of cations which will give characteristic precipitate in their identification tests with $\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$ is _____.\n$\\mathrm{Cu}^{2+}, \\mathrm{Fe}^{3+}, \\mathrm{Ba}^{2+}, \\mathrm{Ca}^{2+}, \\mathrm{NH}_4^{+}, \\mathrm{Mg}^{2+}, \\mathrm{Zn}^{2+}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "$\\mathrm{Cu}^{2+}, \\mathrm{Ca}^{2+} \\& \\mathrm{Zn}^{2+}$ will form precipitate with $\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] . \\mathrm{Fe}^{3+}$ forms coloured solution",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "67a2eea5c8b73881fdaea1ae",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (23 Jan Shift 2)",
+    "paper_year_short": "2025 (23 Jan Shift 2)",
+    "held_on": "2025-01-23T14:00:00.000Z",
+    "question_text": "Identify $\\mathrm{A}, \\mathrm{B}$ and C in the given below reaction sequence\n$\\mathrm{A} \\xrightarrow{\\mathrm{HNO}_3} \\mathrm{~Pb}\\left(\\mathrm{NO}_3\\right)_2 \\xrightarrow{\\mathrm{H}_2 \\mathrm{SO}_4}$ B $\\xrightarrow[\\substack{\\text { (2) Acetic acid } \\\\ \\text { (3) } \\mathrm{K}_2 \\mathrm{CrO}_4}]{\\substack{\\text { (1) Ammonium } \\\\ \\text { acetate }}}$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Q26tu",
+        "text": "$\\mathrm{PbCl}_2, \\mathrm{PbSO}_4, \\mathrm{PbCrO}_4$",
+        "image": null
+      },
+      {
+        "id": "yFcME",
+        "text": "$\\mathrm{PbS}, \\mathrm{PbSO}_4, \\mathrm{~Pb}\\left(\\mathrm{CH}_3 \\mathrm{COO}\\right)_2$",
+        "image": null
+      },
+      {
+        "id": "5VCx2",
+        "text": "$\\mathrm{PbCl}_2, \\mathrm{~Pb}\\left(\\mathrm{SO}_4\\right)_2, \\mathrm{PbCrO}_4$",
+        "image": null
+      },
+      {
+        "id": "IEQlf",
+        "text": "$\\mathrm{PbS}, \\mathrm{PbSO}_4, \\mathrm{PbCrO}_4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "IEQlf",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/ASDtq-JBfJ_nDOXC_z4eL1VueWJkYQAa5PBHo8qEoqA.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "6644675f970e6e9ab542d2b4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (09 Apr Shift 2)",
+    "paper_year_short": "2024 (09 Apr Shift 2)",
+    "held_on": "2024-04-09T14:00:00.000Z",
+    "question_text": "Consider the following test for a group-IV cation.\n\\(\\begin{aligned}\n& \\mathrm{M}^{2+}+\\mathrm{H}_2 \\mathrm{~S} \\rightarrow \\mathrm{A} \\text { (Black precipitate) }+ \\text { by product } \\\\\n& \\mathrm{A}+\\text { aqua regia } \\rightarrow \\mathrm{B}+\\mathrm{NOCl}+\\mathrm{S}+\\mathrm{H}_2 \\mathrm{O} \\\\\n& \\mathrm{B}+\\mathrm{KNO}_2+\\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow \\mathrm{C}+\\text { by product }\n\\end{aligned}\\)\nThe spin-only magnetic moment value of the metal complex \\(\\mathrm{C}\\) is ______ BM (Nearest integer)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0",
+    "solution_text": "If \\(M^{+2}=C o^{+2}\\)\nthen\n\\(\\begin{aligned}\n& \\mathrm{Co}^{+2}+\\mathrm{H}_2 \\mathrm{~S} \\rightarrow \\underset{\\substack{\\text { Black } \\\\\n\\text { [A] }}}{\\mathrm{CoS}}+\\text { byproduct } \\\\\n& \\mathrm{CoS}+\\text { aqua regia } \\rightarrow \\underset{\\text{[B]}}{\\mathrm{CoCl}_2}+\\mathrm{NOCl}+\\mathrm{S}+\\mathrm{H}_2 \\mathrm{O}\n\\end{aligned}\\)\n\\(\\mathrm{CoCl}_2+\\mathrm{KNO}_2 \\xrightarrow{\\mathrm{CH}_3 \\mathrm{COOH}} k_3\\left[\\mathrm{CO}\\left(\\mathrm{NO}_2\\right)_6\\right]+\\text { byproduct }\\)\n\\([C]=C o^{+3} \\rightarrow 3 d^6 \\Rightarrow N O_2\\) is SFL so Co +3 has zero unpaired \\(e^{-}\\)\n\\(\\Rightarrow n=0 \\Rightarrow u=\\sqrt{n(n+2)}=0 B . M\\)",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "66446735970e6e9ab542d137",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (06 Apr Shift 2)",
+    "paper_year_short": "2024 (06 Apr Shift 2)",
+    "held_on": "2024-04-06T14:00:00.000Z",
+    "question_text": "During the detection of acidic radical present in a salt, a student gets a pale yellow precipitate soluble with difficulty in \\(\\mathrm{NH}_4 \\mathrm{OH}\\) solution when sodium carbonate extract was first acidified with dil. \\(\\mathrm{HNO}_3\\) and then \\(\\mathrm{AgNO}_3\\) solution was added. This indicates presence of :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nZxrO",
+        "text": "\\(\\mathrm{Br}^{-}\\)",
+        "image": null
+      },
+      {
+        "id": "u9uAY",
+        "text": "\\(\\mathrm{I}^{-}\\)",
+        "image": null
+      },
+      {
+        "id": "sOKk7",
+        "text": "\\(\\mathrm{Cl}^{-}\\)",
+        "image": null
+      },
+      {
+        "id": "zTCrO",
+        "text": "\\(\\mathrm{CO}_3{ }^{2-}\\)",
+        "image": null
+      }
+    ],
+    "correct_answer": "nZxrO",
+    "solution_text": "$\\begin{array}{ll}\n\\mathrm{Ag}^{+}+\\mathrm{I}^{-} \\rightarrow \\mathrm{AgI} & \\text{Yellow ppt.} \\\\\n\\mathrm{Ag}^{+}+\\mathrm{Cl}^{-} \\rightarrow \\mathrm{AgCl} & \\text{White ppt} \\\\\n\\mathrm{Ag}^{+}+\\mathrm{Br}^{-} \\rightarrow \\mathrm{AgBr} & \\text{Pale yellow ppt}\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "6644672d970e6e9ab542d0e5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (06 Apr Shift 1)",
+    "paper_year_short": "2024 (06 Apr Shift 1)",
+    "held_on": "2024-04-06T09:00:00.000Z",
+    "question_text": "Match List I with List II\n\\(\\begin{array}{|l|l|l|l|}\n\\hline & \\text{List - I} & & \\text{List - II} \\\\\n& \\text{(Precipitating reagent and conditions)} & & \\text{(Cation)} \\\\\n\\hline \\text { A. } & \\mathrm{NH}_4 \\mathrm{Cl}+\\mathrm{NH}_4 \\mathrm{OH} / \\mathrm{ARKS} & \\text { I. } & \\mathrm{Mn}^{2+} \\\\\n\\hline \\text { B. } & \\mathrm{NH}_4 \\mathrm{OH}+\\mathrm{Na}_2 \\mathrm{CO}_3 & \\text { II. } & \\mathrm{Pb}^{2+} \\\\\n\\hline \\text { C. } & \\mathrm{NH}_4 \\mathrm{OH}+\\mathrm{NH}_4 \\mathrm{Cl}+\\mathrm{H}_2 \\mathrm{~S} \\text { gas } & \\text { III. } & \\mathrm{Al}^{3+} \\\\\n\\hline \\text { D. } & \\text { dilute } \\mathrm{HCl} & \\text { IV. } & \\mathrm{Sr}^{2+} \\\\\n\\hline\n\\end{array}\\)\nChoose the correct answer from the options given below:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "84dZu",
+        "text": "A-III, B-IV, C-I, D-II",
+        "image": null
+      },
+      {
+        "id": "PorZg",
+        "text": "A-III, B-IV, C-II, D-I",
+        "image": null
+      },
+      {
+        "id": "ObJ64",
+        "text": "A-IV, B-III, C-II, D-I",
+        "image": null
+      },
+      {
+        "id": "sih9l",
+        "text": "A-IV, B-III, C-I, D-II",
+        "image": null
+      }
+    ],
+    "correct_answer": "84dZu",
+    "solution_text": "Theory based question",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "66446704970e6e9ab542cf72",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (04 Apr Shift 1)",
+    "paper_year_short": "2024 (04 Apr Shift 1)",
+    "held_on": "2024-04-04T09:00:00.000Z",
+    "question_text": "In the precipitation of the iron group (III) in qualitative analysis, ammonium chloride is added before adding ammonium hydroxide to :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EATVH",
+        "text": "increase concentration of \\(\\mathrm{Cl}^{-}\\)ions",
+        "image": null
+      },
+      {
+        "id": "A1qFI",
+        "text": "increase concentration of \\(\\mathrm{NH}_4{ }^{+}\\)ions",
+        "image": null
+      },
+      {
+        "id": "rL9U9",
+        "text": "prevent interference by phosphate ions",
+        "image": null
+      },
+      {
+        "id": "gooqr",
+        "text": "decrease concentration of \\({ }^{-} \\mathrm{OH}\\) ions",
+        "image": null
+      }
+    ],
+    "correct_answer": "gooqr",
+    "solution_text": "$\\begin{aligned}\n& \\mathrm{NH}_4 \\mathrm{OH} \\rightleftharpoons \\mathrm{NH}_4^{+}+\\mathrm{OH}^{-} \\\\\n& \\mathrm{NH}_4 \\mathrm{Cl} \\rightarrow \\mathrm{NH}_4^{+}+\\mathrm{Cl}\n\\end{aligned}$<br />Due to common ion effect of $\\mathrm{NH}_4^{+}$,\n$\\left[\\mathrm{OH}^{-}\\right]$decreases in such extent that only group-III cation can be precipitated, due to their very low $\\mathrm{K}_{\\mathrm{sp}}$ in the range of $10^{-38}$.",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "648b5a71417cc3fb48d686ca",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (13 Apr Shift 2)",
+    "paper_year_short": "2023 (13 Apr Shift 2)",
+    "held_on": "2023-04-13T14:00:00.000Z",
+    "question_text": "In the wet tests for detection of various cations by precipitation, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> cations are detected by obtaining precipitate of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3c3dW",
+        "text": "Ba(ox) : Barium oxalate",
+        "image": null
+      },
+      {
+        "id": "1wgNn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCO</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "YB9cs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ba</mi><mo>(</mo><mi>OAc</mi><msub><mo>)</mo><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Q3sLG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaSO</mi><mn>4</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1wgNn",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> belongs to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">V</mi><mtext>th&#160;</mtext></msup></math>Group and hence they are precipitated with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>CO</mi><mn>3</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math> to give ppt of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCO</mi><mn>3</mn></msub></math>.&nbsp;In&nbsp;Wet tests for cations,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>NH</mi><mn>4</mn></msub><msub><mo>)</mo><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math>&nbsp;is used as a group reagent for fifth group cations<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Ca</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Sr</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>)</mo></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mo>(</mo><msub><mi>NH</mi><mn>4</mn></msub><msub><mo>)</mo><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub><mo>&#8594;</mo><msub><mi>BaCO</mi><mn>3</mn></msub><mo>+</mo><msup><msub><mi>NH</mi><mn>4</mn></msub><mo>&#8853;</mo></msup></math></p>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d683b0",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (06 Apr Shift 2)",
+    "paper_year_short": "2023 (06 Apr Shift 2)",
+    "held_on": "2023-04-06T14:00:00.000Z",
+    "question_text": "Formation of which complex, among the following, is not a confirmatory test of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> ions",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eGdTv",
+        "text": "Lead sulphate",
+        "image": null
+      },
+      {
+        "id": "IEkBN",
+        "text": "Lead nitrate",
+        "image": null
+      },
+      {
+        "id": "ewTxd",
+        "text": "Lead chromate",
+        "image": null
+      },
+      {
+        "id": "MMV4G",
+        "text": "Lead iodide",
+        "image": null
+      }
+    ],
+    "correct_answer": "IEkBN",
+    "solution_text": "<blockquote><p>On adding <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>, white precipitate of lead sulphate, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbSO</mi><mn>4</mn></msub></math>&nbsp;is formed.&nbsp; By&nbsp;adding potassium iodide solution to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> - Yellow precipitate of lead iodide is formed. The ppt dissolves in boiling water and on cooling recrystallises.&nbsp;</p><p>By&nbsp;adding potassium chromate solution to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&ndash;Yellow precipitate of lead chromate is formed. But lead nitrate is a water soluble compound.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d681ee",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (30 Jan Shift 1)",
+    "paper_year_short": "2023 (30 Jan Shift 1)",
+    "held_on": "2023-01-30T09:00:00.000Z",
+    "question_text": "In the wet tests for identification of various cations by precipitation, which transition element cation doesn&#39;t belong to group IV in qualitative inorganic analysis?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Kd75A",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "caBfT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "6sWkg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Co</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "wAU3k",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Kd75A",
+    "solution_text": "<p>Cations are segregated in 5 groups depending upon their solubility with the help of various precipitating reagents. As per the segregation,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mo>&#160;</mo><msup><mi>Co</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><mo>&#160;</mo><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;belongs&nbsp;to the 4th group and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>&nbsp;belongs to the 3rd group.</p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d6764b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (27 Jul Shift 2)",
+    "paper_year_short": "2021 (27 Jul Shift 2)",
+    "held_on": "2021-07-27T14:00:00.000Z",
+    "question_text": "To an aqueous solution containing ions such as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Al</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Ca</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Cu</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;was&nbsp;added <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>conc</mi><mo>.</mo><mo>&#160;</mo><mi>HCl</mi></math>, followed by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></math>. The total number of cations precipitated during this reaction is/are :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mgZbZ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "HMwvL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "CF5cS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "8oqUq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mgZbZ",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Al</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup></math> sulphides hydrolyse in water. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> require basic medium with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></math> to form precipitate.&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ca</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> sulphides are&nbsp;also soluble.&nbsp; only&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Cu</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;can form the precipitate with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></math>&nbsp;in the acidic medium.",
+    "solution_image": null,
+    "topic": "Identification of Basic Radicals"
+  },
+  {
+    "question_id": "6983c1838bfdbb24356395b2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (21 January Shift 2)",
+    "paper_year_short": "2026 (21 January Shift 2)",
+    "held_on": "2026-01-21T14:00:00.000Z",
+    "question_text": "By usual analysis, 1.00 g of compound $(\\mathrm{X})$ gave 1.79 g of magnesium pyrophosphate. The percentage of phosphorus in compound $(X)$ is : (nearest integer) (Given, molar mass in $\\mathrm{g} \\mathrm{mol}^{-1}: \\mathrm{O}=16, \\mathrm{Mg}=24, \\mathrm{P}=31$)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ihcu1",
+        "text": "30",
+        "image": null
+      },
+      {
+        "id": "MWnig",
+        "text": "50",
+        "image": null
+      },
+      {
+        "id": "3FzJ5",
+        "text": "40",
+        "image": null
+      },
+      {
+        "id": "rvt6C",
+        "text": "20",
+        "image": null
+      }
+    ],
+    "correct_answer": "MWnig",
+    "solution_text": "Given: 1.00 g of compound (X) produces 1.79 g of Mg₂P₂O₇.<br>Molar mass of Mg₂P₂O₇ = 2(24) + 2(31) + 7(16) = 222 g/mol.<br>Moles of Mg₂P₂O₇ = 1.79 / 222 = 0.00806 mol.<br>Since each mole of Mg₂P₂O₇ contains 2 moles of P, moles of P = 2 × 0.00806 = 0.01612 mol.<br>Mass of P = 0.01612 × 31 = 0.4997 g ≈ 0.50 g.<br>Percentage of phosphorus = (0.50 / 1.00) × 100 = 50%.",
+    "solution_image": null,
+    "topic": "Method of preparation for Aldehydes"
+  },
+  {
+    "question_id": "69d8072f81239f6567c4f2cb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 2)",
+    "paper_year_short": "2026 (02 April Shift 2)",
+    "held_on": "2026-04-02T14:00:00.000Z",
+    "question_text": "Among $Fe^{2+}, Fe^{3+}, Cr^{2+}$ and $Zn^{2+}$, the ion that shows positive borax bead test and with highest ionisation enthalpy is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "00aWJ",
+        "text": "$Fe^{2+}$",
+        "image": null
+      },
+      {
+        "id": "CGaLf",
+        "text": "$Zn^{2+}$",
+        "image": null
+      },
+      {
+        "id": "slH1p",
+        "text": "$Cr^{2+}$",
+        "image": null
+      },
+      {
+        "id": "Ay5WA",
+        "text": "$Fe^{3+}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ay5WA",
+    "solution_text": "The borax bead test is given by transition metal ions that have unpaired electrons and form coloured compounds. <br><br>$Zn^{2+}$ has a completely filled $3d^{10}$ configuration, making it colourless, so it does not give a positive borax bead test. <br><br>The remaining ions and their electronic configurations are:<br>$Fe^{2+} : [Ar] 3d^{6}$<br>$Cr^{2+} : [Ar] 3d^{4}$<br>$Fe^{3+} : [Ar] 3d^{5}$<br><br>The ionisation enthalpy of an ion refers to the energy required to remove an electron from it. $Fe^{3+}$ has a highly stable half-filled $d$-subshell configuration ($3d^{5}$). Removing an electron from this stable configuration requires significantly more energy compared to removing an electron from $Fe^{2+}$ ($3d^{6}$) or $Cr^{2+}$ ($3d^{4}$). <br><br>Therefore, $Fe^{3+}$ shows a positive borax bead test and has the highest ionisation enthalpy among the given ions.<br><br>Answer: $Fe^{3+}$",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "69d8075c81239f6567c4f4d8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 1)",
+    "paper_year_short": "2026 (02 April Shift 1)",
+    "held_on": "2026-04-02T09:00:00.000Z",
+    "question_text": "A salt with few drops of conc. HCl gives apple green colour in flame test. The group precipitate of the salt is dissolved in acetic acid and treated with $K_2CrO_4$ to give yellow precipitate. When the sodium carbonate extract of the salt solution is heated with conc. $HNO_3$ and ammonium molybdate, it resulted a canary yellow precipitate. The cation and anion present in the salt are respectively,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HVDX7",
+        "text": "$Ca^{2+}$ and $SO_4^{2-}$",
+        "image": null
+      },
+      {
+        "id": "tffZf",
+        "text": "$Ba^{2+}$ and $PO_4^{3-}$",
+        "image": null
+      },
+      {
+        "id": "2wtIs",
+        "text": "$Mn^{2+}$ and $PO_4^{3-}$",
+        "image": null
+      },
+      {
+        "id": "7F12V",
+        "text": "$Ba^{2+}$ and $SO_4^{2-}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "tffZf",
+    "solution_text": "An apple green colour in the flame test indicates the presence of $Ba^{2+}$ ion.<br><br>The group precipitate of $Ba^{2+}$ is $BaCO_3$, which dissolves in acetic acid to form barium acetate. Upon treatment with $K_2CrO_4$, it gives a yellow precipitate of barium chromate ($BaCrO_4$), confirming the presence of $Ba^{2+}$.<br><br>When the sodium carbonate extract is heated with conc. $HNO_3$ and ammonium molybdate, the formation of a canary yellow precipitate indicates the presence of phosphate ($PO_4^{3-}$) ion. The canary yellow precipitate is ammonium phosphomolybdate, $(NH_4)_3PO_4 \\cdot 12MoO_3$.<br><br>Therefore, the cation is $Ba^{2+}$ and the anion is $PO_4^{3-}$.<br><br>Answer: $Ba^{2+}$ and $PO_4^{3-}$",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6983c1b48bfdbb2435639813",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (28 January Shift 2)",
+    "paper_year_short": "2026 (28 January Shift 2)",
+    "held_on": "2026-01-28T14:00:00.000Z",
+    "question_text": "A student has been given 0.314 g of an organic compound and asked to estimate Sulphur. During the experiment, the student has obtained 0.4813 g of barium sulphate. The percentage of sulphur present in the compound is $\\_\\_\\_\\_$. <br> (Given Molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{~S}: 32, \\mathrm{BaSO}_{4}: 233$)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VoG1g",
+        "text": "48.24 %",
+        "image": null
+      },
+      {
+        "id": "QJ2bP",
+        "text": "63.15 %",
+        "image": null
+      },
+      {
+        "id": "uBp5a",
+        "text": "21.05 %",
+        "image": null
+      },
+      {
+        "id": "VOnJp",
+        "text": "42.10 %",
+        "image": null
+      }
+    ],
+    "correct_answer": "uBp5a",
+    "solution_text": "Given: Mass of organic compound = 0.314 g, Mass of $\\text{BaSO}_4$ obtained = 0.4813 g.<br>$\\%S = \\frac{32}{233} \\times \\frac{0.4813}{0.314} \\times 100$<br>$= \\frac{32 \\times 0.4813 \\times 100}{233 \\times 0.314}$<br>$= \\frac{1540.16}{73.162}$<br>$= 21.05\\%$",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "66446740970e6e9ab542d19b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 1)",
+    "paper_year_short": "2024 (08 Apr Shift 1)",
+    "held_on": "2024-04-08T09:00:00.000Z",
+    "question_text": "Match List I with List II\n\\(\\begin{array}{|l|l|l|l|}\n\\hline & \\text{List-I} & & \\text{List-II} \\\\\n\\hline & \\text{(Name of the test)} & & \\text{(Reaction sequence involved) [M is metal]} \\\\\n\\hline \\text { A. } & \\text { Borax bead test } & \\text { I. } & \\mathrm{MCO}_3 \\rightarrow \\mathrm{MO} \\xrightarrow{\\mathrm{Co}\\left(\\mathrm{NO}_3\\right)_2} \\mathrm{CoO} \\cdot \\mathrm{MO} \\\\\n\\hline \\text { B. } & \\begin{array}{l}\n\\text { Charcoal } \\\\\n\\text { cavity test }\n\\end{array} & \\text { II. } & \\mathrm{MCO}_3 \\rightarrow \\mathrm{MCl}_2 \\rightarrow \\mathrm{M}^{2+} \\\\\n\\hline \\text { C } & \\begin{array}{l}\n\\text { Cobalt nitrate } \\\\\n\\text { test }\n\\end{array} & \\text { III } & \\mathrm{MSO}_4 \\xrightarrow[\\Delta]{\\mathrm{Na}_2 \\mathrm{~B}_4 \\mathrm{O}_7} \\mathrm{M}\\left(\\mathrm{BO}_2\\right)_2 \\rightarrow \\mathrm{MBO}_2 \\rightarrow \\mathrm{M} \\\\\n\\hline \\text { D. } & \\text { Flame test } & \\text { IV } & \\mathrm{MSO}_4 \\xrightarrow[\\Delta]{\\mathrm{Na}_2 \\mathrm{CO}_3} \\mathrm{MCO}_3 \\rightarrow \\mathrm{MO} \\rightarrow \\mathrm{M} \\\\\n\\hline\n\\end{array}\\)\nChoose the correct answer from the options given below:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "24qhg",
+        "text": "A-III, B-II, C-IV, D-I",
+        "image": null
+      },
+      {
+        "id": "vXbQw",
+        "text": "A-III, B-IV, C-I, D-II",
+        "image": null
+      },
+      {
+        "id": "tuGBm",
+        "text": "A-III, B-I, C-II, D-IV",
+        "image": null
+      },
+      {
+        "id": "7jJ87",
+        "text": "A-III, B-I, C-IV, D-II",
+        "image": null
+      }
+    ],
+    "correct_answer": "vXbQw",
+    "solution_text": "Cobalt nitrate test\n$\\mathrm{MCO}_3 \\rightarrow \\mathrm{MO} \\xrightarrow[+\\Delta]{\\mathrm{Co}\\left(\\mathrm{NO}_3\\right)_2}$ CoO. $\\mathrm{MO}$\nFlame test\n$\\mathrm{MCO}_3 \\rightarrow \\mathrm{MCl}_2 \\rightarrow \\mathrm{M}^{2+}$\nBorax Bead test\n$\\mathrm{MSO}_4 \\underset{\\Delta}{\\mathrm{Na}_2 \\mathrm{~B}_4 \\mathrm{O}_7} \\mathrm{M}\\left(\\mathrm{BO}_2\\right)_2 \\rightarrow \\mathrm{MBO}_2 \\rightarrow \\mathrm{M}$\nCharcoal cavity test\n$\\mathrm{MSO}_4 \\xrightarrow[\\Delta]{\\mathrm{Na}_2 \\mathrm{CO}_3} \\mathrm{MCO}_3 \\rightarrow \\mathrm{MO} \\rightarrow \\mathrm{M}$",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "66446736970e6e9ab542d141",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (06 Apr Shift 2)",
+    "paper_year_short": "2024 (06 Apr Shift 2)",
+    "held_on": "2024-04-06T14:00:00.000Z",
+    "question_text": "Match List - I with List - II.\n\\(\\begin{array}{ll}\n\\text{List - I} & \\text{List - II} \\\\\n\\text{Reaction} & \\text{Type of redox reaction} \\\\\n\\text{(A) } \\mathrm{Li} & \\text{(I) } 589.2 \\\\\n\\text{(B) } \\mathrm{Na} & \\text{(II) } 455.5 \\\\\n\\text{(C) } \\mathrm{Rb} & \\text{(III) } 670.8 \\\\\n\\text{(D) } \\mathrm{Cs} & \\text{(IV) } 780.0 \\\\\n\\end{array}\\)\nChoose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "leajJ",
+        "text": "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+        "image": null
+      },
+      {
+        "id": "tGIjo",
+        "text": "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+        "image": null
+      },
+      {
+        "id": "gWkYc",
+        "text": "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+        "image": null
+      },
+      {
+        "id": "gxf6y",
+        "text": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+        "image": null
+      }
+    ],
+    "correct_answer": "gxf6y",
+    "solution_text": "Fact Based",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6644671a970e6e9ab542d03b",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (05 Apr Shift 1)",
+    "paper_year_short": "2024 (05 Apr Shift 1)",
+    "held_on": "2024-04-05T09:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/HX-g11V6QVskEQwT0xAbopFO7FznkN6NBFUKobJqRCk.original.fullsize.png\"><br />In a borax bead test under hot condition, a metal salt (one from the given) is heated at point B of the flame, resulted in green colour salt bead. The spin-only magnetic moment value of the salt is _______ BM (Nearest integer)\n[Given atomic number of \\(\\mathrm{Cu}=29, \\mathrm{Ni}=28, \\mathrm{Mn}=25, \\mathrm{Fe}=26\\)]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "$\\mathrm{Fe}^{+3}$ will give green coloured bead when heated at point B.\nNumber of unpaired $\\mathrm{e}^{-}$in $\\mathrm{Fe}^{+3}=5$\n$\\mu=5.92$\nNearest integer $=6$",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd30ba0e94a3c4025b13",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (01 Feb Shift 1)",
+    "paper_year_short": "2024 (01 Feb Shift 1)",
+    "held_on": "2024-02-01T09:00:00.000Z",
+    "question_text": "The number of white coloured salts among the following is .......</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">A</mi></mfenced><mo> </mo><msub><mi>SrSO</mi><mn>4</mn></msub><mo> </mo><mo> </mo><mo> </mo><mfenced><mi mathvariant=\"normal\">B</mi></mfenced><mo> </mo><mi>Mg</mi><mfenced><msub><mi>NH</mi><mn>4</mn></msub></mfenced><msub><mi>PO</mi><mn>4</mn></msub><mo> </mo><mo> </mo><mo> </mo><mfenced><mi mathvariant=\"normal\">C</mi></mfenced><mo> </mo><msub><mi>BaCrO</mi><mn>4</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">D</mi></mfenced><mo> </mo><mi>Mn</mi><mo>(</mo><mi>OH</mi><msub><mo>)</mo><mn>2</mn></msub><mo> </mo><mo> </mo><mo> </mo><mfenced><mi mathvariant=\"normal\">E</mi></mfenced><mo> </mo><msub><mi>PbSO</mi><mn>4</mn></msub><mo> </mo><mo> </mo><mo> </mo><mfenced><mi mathvariant=\"normal\">F</mi></mfenced><mo> </mo><msub><mi>PbCrO</mi><mn>4</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">G</mi></mfenced><mo> </mo><mi>AgBr</mi><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mfenced><mi mathvariant=\"normal\">H</mi></mfenced><mo> </mo><msub><mi>PbI</mi><mn>2</mn></msub><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo> </mo><msub><mi>CaC</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>4</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">J</mi></mfenced><mo> </mo><mfenced close=\"]\" open=\"[\"><mrow><mi>Fe</mi><mo>(</mo><mi>OH</mi><msub><mo>)</mo><mn>2</mn></msub><mfenced><mrow><msub><mi>CH</mi><mn>3</mn></msub><mi>COO</mi></mrow></mfenced></mrow></mfenced></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p>The colour of the salts are as follows,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SrSO</mi><mn>4</mn></msub></math>- white<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Mg</mi><mfenced><msub><mi>NH</mi><mn>4</mn></msub></mfenced><msub><mi>PO</mi><mn>4</mn></msub></math> - white<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCrO</mi><mn>4</mn></msub></math> - yellow<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Mn</mi><mo>(</mo><mi>OH</mi><msub><mo>)</mo><mn>2</mn></msub></math> - white<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbSO</mi><mn>4</mn></msub></math> - white<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCrO</mi><mn>4</mn></msub></math> - yellow<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AgBr</mi></math> - pale yellow<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbI</mi><mn>2</mn></msub></math> - yellow<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CaC</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>4</mn></msub></math> - white</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mi>Fe</mi><mo>(</mo><mi>OH</mi><msub><mo>)</mo><mn>2</mn></msub><mfenced><mrow><msub><mi>CH</mi><mn>3</mn></msub><mi>COO</mi></mrow></mfenced></mrow></mfenced></math> – Brown Red</p><p>Hence the number of salts which are white in colour is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd30ba0e94a3c4025b12",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (31 Jan Shift 1)",
+    "paper_year_short": "2024 (31 Jan Shift 1)",
+    "held_on": "2024-01-31T09:00:00.000Z",
+    "question_text": "Molar mass of the salt from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaBr</mi><mo>,</mo><mo> </mo><msub><mi>NaNO</mi><mn>3</mn></msub><mo>,</mo><mo> </mo><mi>KI</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CaF</mi><mn>2</mn></msub></math> which does not evolve coloured vapours on heating with concentrated <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math> is ____ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi><mo> </mo><msup><mi>mol</mi><mrow><mo>–</mo><mn>1</mn></mrow></msup></math>, (Molar mass in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi><mo> </mo><msup><mi>mol</mi><mrow><mo>–</mo><mn>1</mn></mrow></msup><mo> </mo><mo>:</mo><mo> </mo><mi>Na</mi><mo> </mo><mo>:</mo><mo> </mo><mn>23</mn><mo>,</mo><mo> </mo><mi mathvariant=\"normal\">N</mi><mo> </mo><mo>:</mo><mo> </mo><mn>14</mn><mo>,</mo><mo> </mo><mi mathvariant=\"normal\">K</mi><mo> </mo><mo>:</mo><mo> </mo><mn>39</mn><mo>,</mo><mo> </mo><mi mathvariant=\"normal\">O</mi><mo> </mo><mo>:</mo><mo> </mo><mn>16</mn><mo>,</mo><mo> </mo><mi>Br</mi><mo> </mo><mo>:</mo><mo> </mo><mn>80</mn><mo>,</mo><mo> </mo><mi mathvariant=\"normal\">I</mi><mo> </mo><mo>:</mo><mo> </mo><mn>127</mn><mo>,</mo><mo> </mo><mi mathvariant=\"normal\">F</mi><mo> </mo><mo>:</mo><mo> </mo><mn>19</mn><mo>,</mo><mo> </mo><mi>Ca</mi><mo> </mo><mo>:</mo><mo> </mo><mn>40</mn></math>)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "78",
+    "solution_text": "<p>On heating <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaBr</mi></math> with concentrated sulphuric acid gives brown colour bromine vapours.</p><p>On heating <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaNO</mi><mn>3</mn></msub></math> with concentrated sulphuric acid will release a brown colour <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NO</mi><mn>2</mn></msub></math> gas </p><p>On heating <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">I</mi><mo>-</mo></msup></math> with concentrated sulphuric acid gives a dark purple colour.</p><p>On heating with concentrated sulphuric acid with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CaF</mi><mn>2</mn></msub></math> does not give any colour because it produces colourless hydrogen fluoride.Molar mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CaF</mi><mn>2</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>78</mn><mo>.</mo><mn>07</mn><mo> </mo><mi mathvariant=\"normal\">g</mi><mo>/</mo><mi>mol</mi></math></p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd30ba0e94a3c4025b11",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (31 Jan Shift 1)",
+    "paper_year_short": "2024 (31 Jan Shift 1)",
+    "held_on": "2024-01-31T09:00:00.000Z",
+    "question_text": "The compound that is white in color is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "iwXR6",
+        "text": "ammonium sulphide",
+        "image": null
+      },
+      {
+        "id": "5hyyi",
+        "text": "lead sulphate",
+        "image": null
+      },
+      {
+        "id": "BTSkK",
+        "text": "lead iodide",
+        "image": null
+      },
+      {
+        "id": "BkKyo",
+        "text": "ammonium arsinomolybdate",
+        "image": null
+      }
+    ],
+    "correct_answer": "5hyyi",
+    "solution_text": "<p>Lead sulphate-white</p><p>Lead sulphate is a white, somewhat crystalline, very heavy powder, its specific gravity being about <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>3</mn></math>. It is only slightly soluble in water, insoluble in dilute acids and alcohol, but soluble in solutions of ammonium salts and strong sulphuric acid.</p><p>Ammonium sulphide-soluble</p><p>Lead iodide-bright yellow</p><p>Ammonium arsinomolybdate-yellow</p><p>Hence, the answer is option B.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd2fba0e94a3c4025b10",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (30 Jan Shift 2)",
+    "paper_year_short": "2024 (30 Jan Shift 2)",
+    "held_on": "2024-01-30T14:00:00.000Z",
+    "question_text": "Number of metal ions characterized by flame test among the following is _________.<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Sr</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Ca</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Cu</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Co</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>,</mo><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<blockquote><p>The flame test is used to visually determine the identity of an unknown metal or metalloid ion based on the characteristic colour the salt turns the flame of a Bunsen burner. The heat of the flame excites the electrons of the metal ions, causing them to emit visible light.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Sr</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>-</mo><mi>Crimson</mi><mo> </mo><mi>red</mi><mo> </mo><mi>colour</mi><mspace linebreak=\"newline\"></mspace><msup><mi>Cu</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>-</mo><mi>Blue</mi><mo> </mo><mi>green</mi><mo> </mo><mi>colour</mi><mspace linebreak=\"newline\"></mspace><msup><mi>Ca</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>-</mo><mi>Brick</mi><mo> </mo><mi>red</mi><mo> </mo><mi>colour</mi><mspace linebreak=\"newline\"></mspace><msup><mi>Ba</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>-</mo><mo> </mo><mi>Pale</mi><mo> </mo><mi>green</mi><mo> </mo><mi>colour</mi></math></p><p>Hence, the answer is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd2fba0e94a3c4025b0f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (30 Jan Shift 1)",
+    "paper_year_short": "2024 (30 Jan Shift 1)",
+    "held_on": "2024-01-30T09:00:00.000Z",
+    "question_text": "The Lassiagne's extract is boiled with dil <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math> before testing for halogens because,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lduDZ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AgCN</mi></math> is soluble in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "4v7QQ",
+        "text": "Silver halides are soluble in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "uYsSx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Ag</mi><mn>2</mn></msub><mo> </mo><mi mathvariant=\"normal\">S</mi></math> is soluble in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "rlaVR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><mo> </mo><mi mathvariant=\"normal\">S</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaCN</mi></math> are decomposed by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "rlaVR",
+    "solution_text": "<p style=\"text-align: justify;\">The Lassaigne’s extract is first boiled with dil. HNO<sub>3</sub> to decompose cyanide or sulphide of sodium (NaCN or Na<sub>2</sub>S) formed during Lassaigne’s test. These ions would otherwise interfere with silver nitrate test for halogen.</p><p style=\"text-align: justify;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaCN</mi><mo> </mo><mo>(</mo><mo> </mo><mi>aq</mi><mo> </mo><mo>)</mo><mo> </mo><mo>+</mo><mo> </mo><msub><mi>HNO</mi><mn>3</mn></msub><mo> </mo><mo>(</mo><mo> </mo><mi>aq</mi><mo> </mo><mo>)</mo><mo> </mo><mo>→</mo><mo> </mo><msub><mi>NaNO</mi><mn>3</mn></msub><mo> </mo><mo>(</mo><mo> </mo><mi>aq</mi><mo> </mo><mo>)</mo><mo> </mo><mo>+</mo><mo> </mo><mi>HCN</mi><mo> </mo><mo>(</mo><mo>↑</mo><mo>)</mo></math></p><p style=\"text-align: justify;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo> </mo><mo>(</mo><mo> </mo><mi>aq</mi><mo> </mo><mo>)</mo><mo> </mo><mo>+</mo><mo> </mo><mn>2</mn><mo> </mo><msub><mi>HNO</mi><mn>3</mn></msub><mo> </mo><mo>(</mo><mo> </mo><mi>aq</mi><mo> </mo><mo>)</mo><mo> </mo><mo>→</mo><mo> </mo><mn>2</mn><mo> </mo><msub><mi>NaNO</mi><mn>3</mn></msub><mo> </mo><mo>(</mo><mo> </mo><mi>aq</mi><mo> </mo><mo>)</mo><mo> </mo><mo>+</mo><mo> </mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo> </mo><mo>(</mo><mo> </mo><mo>↑</mo><mo> </mo><mo>)</mo></math></p><p style=\"text-align: justify;\">Hence option D is the answer.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd2fba0e94a3c4025b0e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (30 Jan Shift 1)",
+    "paper_year_short": "2024 (30 Jan Shift 1)",
+    "held_on": "2024-01-30T09:00:00.000Z",
+    "question_text": "Given below are two statements:<br/>Statement-I: The gas liberated on warming a salt with dil <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>, turns a piece of paper dipped in lead acetate into black, it is a confirmatory test for sulphide ion.<br/>Statement-II: In statement-I the colour of paper turns black because of formation of lead sulphite.<br/>In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7vN6t",
+        "text": "Both Statement-I and Statement-II are false",
+        "image": null
+      },
+      {
+        "id": "S14I5",
+        "text": "Statement-I is false but Statement-II is true",
+        "image": null
+      },
+      {
+        "id": "wfNXJ",
+        "text": "Statement-I is true but Statement-II is false",
+        "image": null
+      },
+      {
+        "id": "KFv1V",
+        "text": "Both Statement-I and Statement-II are true.",
+        "image": null
+      }
+    ],
+    "correct_answer": "wfNXJ",
+    "solution_text": "<p>With warm dilute <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math> a sulphide gives hydrogen sulphide<b> </b>gas which smells like rotten eggs. A piece of filter paper dipped in lead acetate solution turns black on exposure to the gas due to the formation of lead sulphide which is black in colour.</p><p>As we know, hydrogen sulphide gas is a colourless gas and when it reacts with lead acetate it produces lead sulphide and acetic acid. The chemical reaction of hydrogen sulphide with lead acetate is given as:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><mo> </mo><mi mathvariant=\"normal\">S</mi><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>→</mo><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo> </mo><mi mathvariant=\"normal\">S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><msub><mfenced><mrow><msub><mi>CH</mi><mn>3</mn></msub><mi>COO</mi></mrow></mfenced><mn>2</mn></msub><mo> </mo><mi>Pb</mi><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo> </mo><mi mathvariant=\"normal\">S</mi><mo>→</mo><munder><mi>PbS</mi><mrow><mi>Black</mi><mo> </mo><mi>lead</mi><mo> </mo><mi>sulphide</mi></mrow></munder><mo>+</mo><mn>2</mn><msub><mi>CH</mi><mn>3</mn></msub><mi>COOH</mi></mrow><mrow></mrow></munder></math></p><p>Hence, the answer is option C.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd2fba0e94a3c4025b0d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (29 Jan Shift 2)",
+    "paper_year_short": "2024 (29 Jan Shift 2)",
+    "held_on": "2024-01-29T14:00:00.000Z",
+    "question_text": "Oxidation state of Fe(Iron) in complex formed in Brown ring test.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p>The chemical test called a brown ring test is conducted to find out the presence of Nitrate ions in any solution, in which the solutions form a brown ring in the test tube.</p><p>The above test is also called the brown ring test, in which the brown ring complex compound is formulated as<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mo>[</mo><mi>Fe</mi><mo>(</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><msub><mo>)</mo><mn>5</mn></msub><mi>NO</mi><mo>]</mo><msub><mi>SO</mi><mn>4</mn></msub><mo>.</mo></math> </p><p>Here the oxidation state of Iron in the complex, can be found as:</p><p>We can assume that the oxidation state of Iron metal is x.</p><p>Here the oxidation state of the Sulphate ion is<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mo>−</mo><mn>2</mn></math>, the oxidation state of water is zero and the oxidation state of Nitroso <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NO</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>1</mn></math>.Hence, the oxidation state of Iron can be calculated as:<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mo>(</mo><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mn>5</mn><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mo>+</mo><mn>2</mn><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mo>+</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd2fba0e94a3c4025b0c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (29 Jan Shift 2)",
+    "paper_year_short": "2024 (29 Jan Shift 2)",
+    "held_on": "2024-01-29T14:00:00.000Z",
+    "question_text": "A reagent which gives brilliant red precipitate with Nickel ions in basic medium is  ",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Kz3xv",
+        "text": "sodium nitroprusside",
+        "image": null
+      },
+      {
+        "id": "BATFF",
+        "text": "neutral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeCl</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "dIlDK",
+        "text": "meta-dinitrobenzene",
+        "image": null
+      },
+      {
+        "id": "n911h",
+        "text": " dimethyl glyoxime",
+        "image": null
+      }
+    ],
+    "correct_answer": "n911h",
+    "solution_text": "<p>The reagent that gives a brilliant red precipitate with nickel ions in basic medium is dimethylglyoxime (DMG) or its sodium salt, sodium dimethylglyoximate. This reaction is commonly used in qualitative analysis to detect the presence of nickel ions in a solution. When DMG is added to a basic solution containing nickel ions, a red precipitate of nickel dimethylglyoximate is formed. This reaction is often used as a confirmatory test for the presence of nickel ions.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi>dmg</mi><mo>-</mo></msup><mo>→</mo><mfenced close=\"]\" open=\"[\"><mrow><mi>Ni</mi><mo>(</mo><mi>dmg</mi><msub><mo>)</mo><mn>2</mn></msub></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "6682bd2fba0e94a3c4025b0b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (29 Jan Shift 2)",
+    "paper_year_short": "2024 (29 Jan Shift 2)",
+    "held_on": "2024-01-29T14:00:00.000Z",
+    "question_text": "On passing a gas, '<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math>', through Nessler's reagent, a brown precipitate is obtained. The gas '<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math> ' is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4sxaD",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      },
+      {
+        "id": "qyoI6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "xD3dO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "HngHg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cl</mi><mn>2</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "xD3dO",
+    "solution_text": "<p>Nessler's reagent is an aqueous solution of potassium iodide, mercuric chloride, and potassium hydroxide. Its chemical formula is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><msub><mi>HgI</mi><mn>4</mn></msub></math>. It is used to detect the presence of ammonia. It turns into a pale brown colour in the presence of ammonia.</p><p>Nessler’s Reagent Reaction:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><munder><munder><mrow><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><msub><mi>HgI</mi><mn>4</mn></msub></mrow><mo>⏟</mo></munder><mrow><mi>Nessler</mi><mo>'</mo><mi mathvariant=\"normal\">s</mi><mo> </mo><mi>reagent</mi></mrow></munder><mo>+</mo><msub><mi>NH</mi><mn>3</mn></msub><mo>+</mo><mn>3</mn><mi>KOH</mi><mover><mo>→</mo><mrow></mrow></mover><munder><munder><mrow><mi>HgO</mi><mo>.</mo><mi>Hg</mi><mfenced><msub><mi>NH</mi><mn>2</mn></msub></mfenced><mi mathvariant=\"normal\">I</mi></mrow><mo>⏟</mo></munder><mrow><mi>Iodide</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Millon</mi><mo>'</mo><mi mathvariant=\"normal\">s</mi><mo> </mo><mi>base</mi><mfenced><mrow><mi>brown</mi><mo> </mo><mi>precipitate</mi></mrow></mfenced></mrow></munder><mo>+</mo><mn>7</mn><mi>KI</mi><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d682fd",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (31 Jan Shift 2)",
+    "paper_year_short": "2023 (31 Jan Shift 2)",
+    "held_on": "2023-01-31T14:00:00.000Z",
+    "question_text": "Given below are two statements :<br />Statement I : Upon heating a borax bead dipped in cupric sulphate in a luminous flame, the colour of the bead becomes green.<br />Statement II : The green colour observed is due to the formation of copper(I) metaborate In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lRVr0",
+        "text": "Both Statement I and Statement II are false",
+        "image": null
+      },
+      {
+        "id": "F28mn",
+        "text": "Both Statement I and Statement II are true",
+        "image": null
+      },
+      {
+        "id": "49ysX",
+        "text": "Statement I is false but Statement II is true",
+        "image": null
+      },
+      {
+        "id": "qaK4r",
+        "text": "Statement I is true but Statement II is false",
+        "image": null
+      }
+    ],
+    "correct_answer": "lRVr0",
+    "solution_text": "Upon heating a borax bead dipped in cupric sulphate in a luminous flame, the colour of the bead becomes blue. Blue colour is observed due to copper (II) metaborate while copper (I) is colourless,",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67ec6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jun Shift 2)",
+    "paper_year_short": "2022 (29 Jun Shift 2)",
+    "held_on": "2022-06-29T14:00:00.000Z",
+    "question_text": "A white precipitate was formed when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCl</mi><mn>2</mn></msub></math> was&nbsp;added to water extract of an inorganic salt. Further,&nbsp;a gas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi>X</mi><mo>&#39;</mo></math>&nbsp;with characteristic odour was released&nbsp;when the formed white precipitate was dissolved in&nbsp;dilute HCI. The anion present in the inorganic salt is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "857m5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">I</mi><mo>-</mo></msup></math>",
+        "image": null
+      },
+      {
+        "id": "ako79",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><msub><mi>SO</mi><mn>3</mn></msub><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "FnRXM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "VkFOm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>NO</mi><mn>2</mn><mo>-</mo></msubsup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ako79",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/dc0f34a4-fb3e-418a-bc95-48fb8c2b8bc6-image.png\" style=\"width: 342px; height: 70px;\" /></p><p>A white precipitate was formed when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCl</mi><mn>2</mn></msub></math>&nbsp;when added to water extract of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>3</mn><mrow><mo>-</mo><mn>2</mn></mrow></msubsup></math>&nbsp;salt. which is an&nbsp;inorganic salt.<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>white</mi><mo>&#160;</mo><mi>pracipitate</mi><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><msub><mi>BaSO</mi><mn>3</mn></msub></math>&nbsp;is formed.&nbsp;Further,&nbsp;a gas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SO</mi><mn>2</mn></msub></math>&nbsp;with burning sulphur like&nbsp;odour will be released&nbsp;when the<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaSO</mi><mn>3</mn></msub></math>&nbsp;is&nbsp; dissolved in&nbsp;dilute HCI.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67bf6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (27 Jun Shift 2)",
+    "paper_year_short": "2022 (27 Jun Shift 2)",
+    "held_on": "2022-06-27T14:00:00.000Z",
+    "question_text": "<p>Match List I with List II.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\"><strong>List-I<br />\t\t\t(Anion)</strong></td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\"><strong>List-II<br />\t\t\t(gas evolved on reaction with dil. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"bold\">H</mi><mn mathvariant=\"bold\">2</mn></msub><msub><mi mathvariant=\"bold\">SO</mi><mn mathvariant=\"bold\">4</mn></msub></math>)</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>(A)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>CO</mi><mn>3</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math></td>\t\t\t<td>(I)</td>\t\t\t<td>\t\t\t<p>Colourless gas which turns lead acetate paper black.</p>\t\t\t</td>\t\t</tr>\t\t<tr>\t\t\t<td>(B)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mn>2</mn><mo>-</mo></mrow></msup></math></td>\t\t\t<td>(II)</td>\t\t\t<td>\t\t\t<p>Colourless gas which turns acidified potassium dichromate solution green.</p>\t\t\t</td>\t\t</tr>\t\t<tr>\t\t\t<td>(C)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>3</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math></td>\t\t\t<td>(III)</td>\t\t\t<td>Brown fumes which turns acidified KI solution containing starch blue.</td>\t\t</tr>\t\t<tr>\t\t\t<td>(D)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>NO</mi><mn>2</mn><mo>-</mo></msubsup></math></td>\t\t\t<td>(IV)</td>\t\t\t<td>Colourless gas evolved with brisk effervescence, which turns lime water milky.</td>\t\t</tr>\t</tbody></table><p>Choose the correct answer from the options given below</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "azkl7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>-</mo><mi>III</mi><mo>,</mo><mi mathvariant=\"normal\">B</mi><mo>-</mo><mi mathvariant=\"normal\">I</mi><mo>,</mo><mi mathvariant=\"normal\">C</mi><mo>-</mo><mi>II</mi><mo>,</mo><mi mathvariant=\"normal\">D</mi><mo>-</mo><mi>IV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "qGgvJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>-</mo><mi>II</mi><mo>,</mo><mi mathvariant=\"normal\">B</mi><mo>-</mo><mi mathvariant=\"normal\">I</mi><mo>,</mo><mi mathvariant=\"normal\">C</mi><mo>-</mo><mi>IV</mi><mo>,</mo><mi mathvariant=\"normal\">D</mi><mo>-</mo><mi>III</mi></math>",
+        "image": null
+      },
+      {
+        "id": "nkEG1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>-</mo><mi>IV</mi><mo>,</mo><mi mathvariant=\"normal\">B</mi><mo>-</mo><mi mathvariant=\"normal\">I</mi><mo>,</mo><mi mathvariant=\"normal\">C</mi><mo>-</mo><mi>III</mi><mo>,</mo><mi mathvariant=\"normal\">D</mi><mo>-</mo><mi>II</mi></math>",
+        "image": null
+      },
+      {
+        "id": "kjSwz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>-</mo><mi>IV</mi><mo>,</mo><mi mathvariant=\"normal\">B</mi><mo>-</mo><mi mathvariant=\"normal\">I</mi><mo>,</mo><mi mathvariant=\"normal\">C</mi><mo>-</mo><mi>II</mi><mo>,</mo><mi mathvariant=\"normal\">D</mi><mo>-</mo><mi>III</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kjSwz",
+    "solution_text": "<p>When small amount of carbonate salt is treated with dilute&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>&nbsp;or dilute&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math>, A colourless, odourless gas&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msub><mi>CO</mi><mn>2</mn></msub></mfenced></math>&nbsp;is evolved with brisk effervescence</p><p>When small amount of the following&nbsp;salts are treated with dilute&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>&nbsp;&nbsp;the following observations are seen.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\">Carbonate salt&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msubsup><mi>CO</mi><mn>3</mn><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msubsup></mfenced></math></td>\t\t\t<td style=\"text-align: center;\">Brisk effervescence of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>&nbsp;gas,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>CO</mi><mn>3</mn><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msubsup><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>&#8594;</mo><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msubsup><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>&#8593;</mo></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\">Sulphide salt&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msup><mi mathvariant=\"normal\">S</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></mfenced></math></td>\t\t\t<td style=\"text-align: center;\">A colourless gas&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></mrow></mfenced></math>&nbsp;with rotten egg smell</td>\t\t</tr>\t</tbody></table><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>&#8594;</mo><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo>&#8593;</mo></math></p><p>NO<sup>2 &ndash;</sup><sup> </sup>&nbsp;on reaction with dilute H<sub>2</sub>SO<sub>4&nbsp;</sub>will give brown NO<sub>2</sub>(g) will turn KI solution blue.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>3</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math>on reaction with dilute&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math> will give <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SO</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">g</mi></mfenced></math>, which will turn&nbsp;acidified potassium dichromate solution green.</p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67b95",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (27 Jun Shift 1)",
+    "paper_year_short": "2022 (27 Jun Shift 1)",
+    "held_on": "2022-06-27T09:00:00.000Z",
+    "question_text": "Which of the following is structure of a separating funnel?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Fvf95",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/31a1b937-d358-4da7-a403-8db91f58cc9e-image.png\" style=\"width: 90px; height: 168px;\" />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "4mD2a",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/8d8d9711-3621-49bf-bbd2-0f6dac9db4d1-image.png\" style=\"width: 90px; height: 140px;\" />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "QGytg",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/a707af82-ab87-4680-9c18-bb83e128a182-image.png\" style=\"width: 100px; height: 161px;\" />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "AqIFi",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/8977ffed-b329-476e-8e09-ea28e22c42f7-image.png\" style=\"width: 120px; height: 122px;\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "Fvf95",
+    "solution_text": "<p>When an organic compound is present in an aqueous medium, it is separated by shaking it with an organic solvent in which it is more soluble than in water. The organic solvent and the aqueous solution should be immiscible with each other so that they form two distinct layers which can be separated by a separatory&nbsp;funnel.</p><p><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/84a93904-e028-4600-b267-351cc8ac6c7d-9707177_Sol.png\" style=\"width: 300px; height: 264px;\" /></p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67a34",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jun Shift 1)",
+    "paper_year_short": "2022 (26 Jun Shift 1)",
+    "held_on": "2022-06-26T09:00:00.000Z",
+    "question_text": "<p>Which statement is not true with respect to nitrate ion test?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MDTVv",
+        "text": "A dark brown ring is formed at the junction of two solutions.",
+        "image": null
+      },
+      {
+        "id": "5pr2y",
+        "text": "Ring is formed due to nitroferrous sulphate complex.",
+        "image": null
+      },
+      {
+        "id": "i5gdW",
+        "text": "The brown complex is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mi>Fe</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>5</mn></msub><mfenced><mi>NO</mi></mfenced></mrow></mfenced><msub><mi>SO</mi><mn>4</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "5BQNo",
+        "text": "Heating the nitrate salt with conc. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>, light brown fumes are evolved.",
+        "image": null
+      }
+    ],
+    "correct_answer": "5pr2y",
+    "solution_text": "<p>Brown ring test is usually carried out by adding dilute ferrous sulphate solution to an aqueous solution containing nitrate ion, and then carefully adding concentrated sulphuric acid along the sides of the test tube. A brown ring at the interface between the solution and sulphuric acid layers indicates the presence of nitrate ion in solution.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>NO</mi><mn>3</mn><mo>&#8722;</mo></msubsup><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>&#8594;</mo><msub><mi>HNO</mi><mn>3</mn></msub><mo>+</mo><msubsup><mi>HSO</mi><mn>4</mn><mo>&#8722;</mo></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><msub><mi>FeSO</mi><mn>4</mn></msub><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><mn>2</mn><msub><mi>HNO</mi><mn>3</mn></msub><mo>&#8594;</mo><mn>3</mn><msub><mi>Fe</mi><mn>2</mn></msub><msub><mfenced><msub><mi>SO</mi><mn>4</mn></msub></mfenced><mn>3</mn></msub><mo>+</mo><mn>2</mn><mi>NO</mi><mo>+</mo><mn>4</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NO</mi><mo>+</mo><msub><mi>FeSO</mi><mn>4</mn></msub><mo>+</mo><mn>5</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8594;</mo><mfenced close=\"]\" open=\"[\"><mrow><mi>Fe</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>5</mn></msub><mi>NO</mi></mrow></mfenced><msub><mi>SO</mi><mn>4</mn></msub></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Brown ring)</p><p>Brown ring complex formed is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mi>Fe</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>5</mn></msub><mi>NO</mi></mrow></mfenced><msub><mi>SO</mi><mn>4</mn></msub></math></p><p>IUPAC name of the above complex is&nbsp;&nbsp;PentaaquanitrosylIron(I ) Sulphate.</p><p>Nitrate ions reacts with sulphuric acid&nbsp;to form nitrogen dioxide which is responsible for brown fumes.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d677be",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (24 Jun Shift 2)",
+    "paper_year_short": "2022 (24 Jun Shift 2)",
+    "held_on": "2022-06-24T14:00:00.000Z",
+    "question_text": "In the flame test of a mixture of salts, a green flame with blue centre was observed. Which one of the following cations may be present?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mrnuA",
+        "text": "Calcium",
+        "image": null
+      },
+      {
+        "id": "mc4II",
+        "text": "Copper",
+        "image": null
+      },
+      {
+        "id": "d2t9s",
+        "text": "Barium",
+        "image": null
+      },
+      {
+        "id": "k7REk",
+        "text": "Strontium",
+        "image": null
+      }
+    ],
+    "correct_answer": "mc4II",
+    "solution_text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 300px;\">\t<tbody>\t\t<tr>\t\t\t<td><strong>Metal</strong></td>\t\t\t<td><strong>Flame colour</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cu</mi></math></td>\t\t\t<td>Green flame with blue centre</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ca</mi></math></td>\t\t\t<td>Brick red</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ba</mi></math></td>\t\t\t<td>Apple green</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Sr</mi></math></td>\t\t\t<td>Crimson</td>\t\t</tr>\t</tbody></table>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67764",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (24 Jun Shift 1)",
+    "paper_year_short": "2022 (24 Jun Shift 1)",
+    "held_on": "2022-06-24T09:00:00.000Z",
+    "question_text": "During the qualitative analysis of salt with cation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">y</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>, addition of a reagent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">X</mi></mfenced></math>&nbsp;to alkaline solution of the salt gives a bright red precipitate. The reagent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">X</mi></mfenced></math>&nbsp;and the cation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msup><mi mathvariant=\"normal\">y</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></mfenced></math> present respectively are :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rL3fn",
+        "text": "Dimethylglyoxime and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "gkAxR",
+        "text": "Dimethylglyoxime and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Co</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "WJSCj",
+        "text": "Nessler&#39;s reagent and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Hg</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "1UurF",
+        "text": "Nessler&#39;s reagent and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "rL3fn",
+    "solution_text": "<p>During the qualitative analysis of salt with cation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>, addition of a reagent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Dimethylglyoxime</mi></math>&nbsp;to alkaline solution of the salt gives a bright red precipitate according to the following reaction. So, The reagent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">X</mi></mfenced></math>&nbsp;and the cation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msup><mi mathvariant=\"normal\">y</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></mfenced></math> respectively are Dimethylglyoxime and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mi>dmg</mi><mover><mo>&#8594;</mo><mrow><mi>Ammonical</mi><mo>&#160;</mo><mi>Solution</mi></mrow></mover><munder><mfenced open=\"[\" close=\"]\"><mrow><mi>Ni</mi><msub><mfenced><mi>dmg</mi></mfenced><mn>2</mn></msub></mrow></mfenced><mrow><mi>Red</mi><mo>&#160;</mo><mi>colur</mi></mrow></munder><mo>&#8595;</mo></math>,</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66ef0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (16 Mar Shift 2)",
+    "paper_year_short": "2021 (16 Mar Shift 2)",
+    "held_on": "2021-03-16T14:00:00.000Z",
+    "question_text": "<p>Match List-I with List-II&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-I</td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-II</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td style=\"text-align: center;\">Test/Reagents/Observation(s)</td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\">Species detected</td>\t\t</tr>\t\t<tr>\t\t\t<td>(a)</td>\t\t\t<td>Lassaigne&#39;s Test</td>\t\t\t<td>(i)</td>\t\t\t<td>Carbon</td>\t\t</tr>\t\t<tr>\t\t\t<td>(b)</td>\t\t\t<td>Cu(II) oxide</td>\t\t\t<td>(ii)</td>\t\t\t<td>Sulphur</td>\t\t</tr>\t\t<tr>\t\t\t<td>(c)</td>\t\t\t<td>Silver nitrate</td>\t\t\t<td>(iii)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">P</mi></math>, and halogen</td>\t\t</tr>\t\t<tr>\t\t\t<td>(d)</td>\t\t\t<td>The sodium fusion extract gives black precipitate with acetic acid and lead acetate</td>\t\t\t<td>(iv)</td>\t\t\t<td>Halogen Specifically</td>\t\t</tr>\t</tbody></table><p>The correct match is :</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MnSCF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "o6oFF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "wD9dW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "9mARs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wD9dW",
+    "solution_text": "<p>Match list :-&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>(a)</td>\t\t\t<td>Lassaigne&#39;s Test</td>\t\t\t<td>(i)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>,</mo><mi mathvariant=\"normal\">P</mi></math>&nbsp;and Halogen</td>\t\t</tr>\t\t<tr>\t\t\t<td>(b)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cu</mi><mfenced><mi>II</mi></mfenced></math> Oxide</td>\t\t\t<td>(ii)</td>\t\t\t<td>Carbon</td>\t\t</tr>\t\t<tr>\t\t\t<td>(c)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>AgNO</mi><mn>3</mn></msub></math></td>\t\t\t<td>(iii)</td>\t\t\t<td>Halogen specifically.</td>\t\t</tr>\t\t<tr>\t\t\t<td>(d)</td>\t\t\t<td>Sodium fusion extract given black precipitate with acetic acid and lead acetate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>CH</mi><mn>3</mn></msub><mi>COOH</mi><mo>/</mo><msub><mfenced><mrow><msub><mi>CH</mi><mn>3</mn></msub><mi>COO</mi></mrow></mfenced><mn>2</mn></msub><mo>&#160;</mo><mi>Pb</mi></mrow></mfenced></math></td>\t\t\t<td>(iv)</td>\t\t\t<td>Sulphur</td>\t\t</tr>\t</tbody></table>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d671b3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (24 Feb Shift 1)",
+    "paper_year_short": "2021 (24 Feb Shift 1)",
+    "held_on": "2021-02-24T09:00:00.000Z",
+    "question_text": "<p>Given below are two statements:<br />Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>:</mo></math>&nbsp;Colourless cupric metaborate is reduced to cuprous metaborate in a luminous flame.</p><p>Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi><mo>:</mo></math> Cuprous metaborate is obtained by heating boric anhydride and copper sulphate in a non-luminous flame.</p><p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "klZKq",
+        "text": "Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> is false but Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> is true",
+        "image": null
+      },
+      {
+        "id": "yA1en",
+        "text": "Both Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> and Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> are false",
+        "image": null
+      },
+      {
+        "id": "VX5PI",
+        "text": "Both Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> and Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> are true",
+        "image": null
+      },
+      {
+        "id": "1ymFZ",
+        "text": "Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> is true but Statement <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> is false",
+        "image": null
+      }
+    ],
+    "correct_answer": "yA1en",
+    "solution_text": "<p>(i)&nbsp;Blue cupric metaborate is reduced to colourless cuprous metaborate in a luminous flame</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/b42ed93e-168d-4025-83f3-e3f2bb3e5ce2-dec936dc-d8aa-425f-abea-0befb87f7441-image.png\" style=\"width: 253px; height: 83px;\" /></p><p>(ii)&nbsp;Cupric metaborate is obtained by heating boric anhydride and copper sulphate in a non-luminous flame.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/6809d0a1-5e44-48b6-9ecb-e972019134f9-84778904-980e-46b9-8d8b-e39a6606ec22-image.png\" style=\"width: 259px; height: 130px;\" /></p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d6681c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Apr Shift 1)",
+    "paper_year_short": "2019 (12 Apr Shift 1)",
+    "held_on": "2019-04-12T09:00:00.000Z",
+    "question_text": "An organic compound &lsquo;A&rsquo; is oxidized with <math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> followed by boiling with <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>.</mo></math> The resultant solution is then treated with ammonium molybdate to yield a yellow percipitate. Based on a above observation, the element present in the given compound is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LwKOF",
+        "text": "Fluorine",
+        "image": null
+      },
+      {
+        "id": "LCU4d",
+        "text": "Phosphorus",
+        "image": null
+      },
+      {
+        "id": "NzsHr",
+        "text": "Nitrogen",
+        "image": null
+      },
+      {
+        "id": "aPJzK",
+        "text": "Sulphur",
+        "image": null
+      }
+    ],
+    "correct_answer": "LCU4d",
+    "solution_text": "<p style=\"text-align: justify;\">The phosphorus containing organic compounds are detected by &#39;Lassaigne&#39;s test&#39; by heated with an oxidizing agent (sodium peroxide). The phosphorus present in the compound is oxidised to phosphate.</p><p style=\"text-align: justify;\">The solution is boiled with nitric acid and then treated with ammonium molybdate to produced canary yellow precipitate.&nbsp;</p><p>Phosphorus gets oxidised when it is treated with fuming conc. <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>.</mo></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><mi mathvariant=\"normal\">P</mi><msub><mi mathvariant=\"normal\">O</mi><mn>4</mn></msub><mo>+</mo><mn>3</mn><msub><mi>NaNO</mi><mn>3</mn></msub></math><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/7cab4eb7-e7e8-41c4-8e03-0ea633ba6b12-image.png\" style=\"width: 784px; height: 106px;\" /></p><p>Phosphoric acid is used along with molybdenum compound for the identification of Magnesium.</p>",
+    "solution_image": null,
+    "topic": "Preliminary Tests"
+  },
+  {
+    "question_id": "68542cbd7c09d044e4c1a38d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 1)",
+    "paper_year_short": "2025 (7 Apr Shift 1)",
+    "held_on": "2025-04-07T09:00:00.000Z",
+    "question_text": "When a salt is treated with sodium hydroxide solution it gives gas $\\mathrm{X}$. On passing gas $\\mathrm{X}$ through reagent $\\mathrm{Y}$ a brown coloured precipitate is formed. $\\mathrm{X}$ and $\\mathrm{Y}$ respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Z0RIP",
+        "text": "$\\mathrm{X}=\\mathrm{NH}_3$ and $\\mathrm{Y}=\\mathrm{HgO}$",
+        "image": null
+      },
+      {
+        "id": "uiC64",
+        "text": "$\\mathrm{X}=\\mathrm{NH}_3$ and $\\mathrm{Y}=\\mathrm{K}_2 \\mathrm{HgI}_4+\\mathrm{KOH}$",
+        "image": null
+      },
+      {
+        "id": "ul0Vl",
+        "text": "$\\mathrm{X}=\\mathrm{NH}_4 \\mathrm{Cl}$ and $\\mathrm{Y}=\\mathrm{KOH}$",
+        "image": null
+      },
+      {
+        "id": "CQWkL",
+        "text": "$\\mathrm{X}=\\mathrm{HCl}$ and $\\mathrm{Y}=\\mathrm{NH}_4 \\mathrm{Cl}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "uiC64",
+    "solution_text": "$\\mathrm{NH}_4^{+}+\\mathrm{NaOH} \\longrightarrow \\mathrm{H}_2 \\mathrm{O}+\\mathrm{NH}_3 \\uparrow$<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/zlgVoLdTpziORH65aQ1uy2tTAdVeTZrPImGlJs1cJ0o.original.fullsize.png\"/><br />$\\mathrm{NH}_3$ is identify by $\\mathrm{K}_2\\left[\\mathrm{HgI}_4\\right]+\\mathrm{KOH}$",
+    "solution_image": null,
+    "topic": "Radicals"
+  },
+  {
+    "question_id": "68542cbd7c09d044e4c1a38c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 2)",
+    "paper_year_short": "2025 (2 Apr Shift 2)",
+    "held_on": "2025-04-02T14:00:00.000Z",
+    "question_text": "Formation of $\\mathrm{Na}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_5 \\mathrm{NOS}\\right]$, a purple coloured complex formed by addition of sodium nitroprusside in sodium carbonate extract of salt indicates the presence of :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UCyf7",
+        "text": "Sodium ion",
+        "image": null
+      },
+      {
+        "id": "PQ2dp",
+        "text": "Sulphate ion",
+        "image": null
+      },
+      {
+        "id": "Sl3Le",
+        "text": "Sulphide ion",
+        "image": null
+      },
+      {
+        "id": "527Hc",
+        "text": "Sulphite ion",
+        "image": null
+      }
+    ],
+    "correct_answer": "Sl3Le",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/fZ6nnmwT3h8Nkt4vKWEli3x8uQw9GF1ZrVnIllpRN-4.original.fullsize.png\"/><br/>",
+    "solution_image": null,
+    "topic": "Radicals"
+  },
+  {
+    "question_id": "68542cbd7c09d044e4c1a38e",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 1)",
+    "paper_year_short": "2025 (2 Apr Shift 1)",
+    "held_on": "2025-04-02T09:00:00.000Z",
+    "question_text": "Choose the correct tests with respective observations.<br />(A) \\(\\mathrm{CuSO}_4\\) (acidified with acetic acid) \\(+ \\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\rightarrow\\) Chocolate brown precipitate.<br />(B) \\(\\mathrm{FeCl}_3+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\rightarrow\\) Prussian blue precipitate.<br />(C) \\(\\mathrm{ZnCl}_2+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]\\), neutralised with \\(\\mathrm{NH}_4 \\mathrm{OH}\\) \\(\\rightarrow\\) White or bluish white precipitate.<br />(D) \\(\\mathrm{MgCl}_2+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\rightarrow\\) Blue precipitate.<br />(E) \\(\\mathrm{BaCl}_2+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]\\), neutralised with NaOH \\(\\rightarrow\\) White precipitate.<br />Choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZOAAH",
+        "text": "A, D and E only",
+        "image": null
+      },
+      {
+        "id": "0Neji",
+        "text": "B, D and E only",
+        "image": null
+      },
+      {
+        "id": "JE7H3",
+        "text": "A, B and C only",
+        "image": null
+      },
+      {
+        "id": "kQZUT",
+        "text": "C, D and E only",
+        "image": null
+      }
+    ],
+    "correct_answer": "JE7H3",
+    "solution_text": "\\(2 \\mathrm{CuSO}_4+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\xrightarrow{\\mathrm{CH}_3 \\mathrm{COOH}}\\underset{\\text{(Chocolate brown ppt.)}}{\\mathrm{Cu}_2\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]+2 \\mathrm{~K}_2 \\mathrm{SO}_4}\\)<br />\\(4 \\mathrm{FeCl}_3+3 \\mathrm{~K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\longrightarrow \\underset{\\text { (Prussian Blue ppt.) }}{\\mathrm{Fe}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_3}+12 \\mathrm{KCl}\\)<br />\\(3 \\mathrm{ZnCl}_4+2 \\mathrm{~K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\xrightarrow{\\mathrm{NH}_4 \\mathrm{OH}} \\underset{\\text { (White or bluish white ppt.) }}{\\mathrm{K}_2 \\mathrm{Zn}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_2}+6 \\mathrm{KCl}\\)",
+    "solution_image": null,
+    "topic": "Radicals"
+  }
+]

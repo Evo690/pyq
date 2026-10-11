@@ -1,0 +1,999 @@
+[
+  {
+    "question_id": "64b16a69f23ac7d519f9b430",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> Let <math><mi>S</mi></math> be the circle in the <math> <mrow> <mi>x</mi><mi>y</mi> </mrow> </math> &ndash; plane defined by the equation <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&#160;</mi><mo>+</mo><mi>&#160;</mi><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mn>4</mn><mo>.</mo></math><br /><br> <strong> Question : </strong>Let <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> be the chords of <math> <mi>S</mi> </math> passing through the point <math><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&#160;</mi><mo>(</mo><mn>1,1</mn><mo>)</mo></math> and parallel to the <math> <mi>x</mi> </math> &ndash; axis and the <math> <mi>y</mi> </math> &ndash; axis, respectively. Let <math><msub><mrow><mi>G</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><msub><mrow><mi>G</mi></mrow><mrow><mn>2</mn></mrow></msub></math> be the chord of <math> <mi>S</mi> </math> passing through <math><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></math> and having slope <math> <mrow> <mo>&#8722;</mo><mn>1</mn> </mrow> <mo>.</mo></math> Let the tangents to <math><mi>S</mi></math> at <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> meet at <math><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn></mrow></msub></math>, the tangents to <math><mi>S</mi></math> at <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> meet at <math><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo></math> and the tangents to <math><mi>S</mi></math> at <math><msub><mrow><mi>G</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>G</mi></mrow><mrow><mn>2</mn></mrow></msub></math> meet at <math><mi>&#160;</mi><msub><mrow><mi>G</mi></mrow><mrow><mn>3</mn></mrow></msub></math>. Then, the points <math><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo></math> and <math><msub><mrow><mi>G</mi></mrow><mrow><mn>3</mn></mrow></msub></math> lie on the curve",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9E1HN",
+        "text": "<math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "zO3dE",
+        "text": "<math><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn></math>",
+        "image": null
+      },
+      {
+        "id": "kgPx1",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfenced><mo>=</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "csNU9",
+        "text": "<math><mi>x</mi><mi>y</mi><mo>=</mo><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9E1HN",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tilqgtbngsujpodqujekaxhbzphefgsixmjbhjzxcihnezxbwz.jpeg\" />\r\n\r\nCo - ordinates of <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are obtained by solving <math><mi>y</mi><mo>=</mo><mn>1</mn><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn></math>\r\n\r\n<math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mo>-</mo><msqrt><mn>3</mn></msqrt><mo>,</mo><mi>&#160;</mi><mn>1</mn></mrow></mfenced><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>,</mo><mi>&#160;</mi><mn>1</mn></mrow></mfenced></math>\r\n\r\nCo - ordinates of <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are obtained by solving\r\n\r\n<math><mi>x</mi><mo>=</mo><mn>1</mn><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn></math>\r\n\r\n<math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi>&#160;</mi><msqrt><mn>3</mn></msqrt></mrow></mfenced><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced></math>\r\n\r\nTangent at <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><mi>&#160;</mi><mo>-</mo><msqrt><mn>3</mn></msqrt><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></math>\r\n\r\nTangent at <math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>:</mo><mi>&#160;</mi><mo>-</mo><msqrt><mn>3</mn></msqrt><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></math>\r\n\r\n<math><mo>&#8756;</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mn>4</mn></mrow></mfenced></math>\r\n\r\nTangent at <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><mi>x</mi><mo>+</mo><msqrt><mn>3</mn></msqrt><mi>y</mi><mo>=</mo><mn>4</mn></math>\r\n\r\nTangent at <math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>:</mo><mi>x</mi><mo>-</mo><msqrt><mn>3</mn></msqrt><mi>y</mi><mo>=</mo><mn>4</mn></math>\r\n\r\n<math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>3</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>4</mn><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>\r\n\r\nAnd similarly <math><msub><mrow><mi>G</mi></mrow><mrow><mn>3</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mi>&#160;</mi><mn>2</mn></mrow></mfenced></math>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mn>4</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mn>4</mn><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mi>&#160;</mi><mn>2</mn></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">s</mi><mi>&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi>&#160;</mi><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></math>\r\n\r\nAlternate solution 2: The required curve will be the polar of the pole <math> <mrow> <msub> <mi>P</mi> <mn>0</mn> </msub> <mrow><mo>(</mo> <mrow> <mn>1</mn><mo>,</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> </math>w.rt. the circle S\r\n\r\nHence its equation is\r\n\r\n<math> <mi>T</mi><mo>=</mo><mn>0</mn> </math>\r\n\r\n<math> <mo>&#8658;</mo><mi>x</mi><mn>.1</mn><mo>+</mo><mi>y</mi><mn>.1</mn><mo>=</mo><mn>4</mn> </math>\r\n\r\n<math> <mo>&#8658;</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn> </math>\r\n\r\nAlternate solution 3:\r\n\r\nLet <math> <mrow> <mi>Q</mi><mrow><mo>(</mo> <mrow> <mi>h</mi><mo>,</mo><mi>k</mi></mrow> <mo>)</mo></mrow></mrow> </math> is a general point on the curve containing points <math> <mrow> <msub> <mi>E</mi> <mn>3</mn> </msub> <mo>,</mo><msub> <mi>F</mi> <mn>3</mn> </msub> <mtext>&#8201;</mtext><mtext>&#8201;</mtext><mo>&#38;</mo><mtext>&#8201;</mtext><mtext>&#8201;</mtext><msub> <mi>G</mi> <mn>3</mn> </msub> </mrow> </math> and a pair of tangents are drawn to the circle S from Q then the equation of the chord of contact will be\r\n\r\n<math> <mrow> <mi>T</mi><mo>=</mo><mi>x</mi><mi>h</mi><mo>+</mo><mi>y</mi><mi>k</mi><mo>&#8722;</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow> </math>\r\n\r\nsince the chord of contact passes through <math> <mrow> <msub> <mi>P</mi> <mn>0</mn> </msub> <mrow><mo>(</mo> <mrow> <mn>1</mn><mo>,</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> </math> hence\r\n\r\n<math> <mrow> <mn>1.</mn><mi>h</mi><mo>+</mo><mn>1.</mn><mi>k</mi><mo>&#8722;</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow> </math>\r\n\r\n<math> <mo>&#8658;</mo> </math> The point <math> <mrow> <mi>Q</mi><mrow><mo>(</mo> <mrow> <mi>h</mi><mo>,</mo><mi>k</mi></mrow> <mo>)</mo></mrow></mrow> </math> lies on the line <math> <mrow> <mn>1.</mn><mi>x</mi><mo>+</mo><mn>1.</mn><mi>y</mi><mo>&#8722;</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow> </math>\r\n\r\n<math> <mrow> <mo>&#8658;</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>&#8722;</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow> </math>",
+    "solution_image": null,
+    "topic": "Chord of Contact"
+  },
+  {
+    "question_id": "64b16a09f23ac7d519f9b0bc",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Two parallel chords of a circle of radius 2 are at a distance $\\sqrt{3}+1$ apart. If the chords subtend at the centre, angles of $\\frac{\\pi}{k}$ and $\\frac{2 \\pi}{k}$, where $k>0$, then the value of $[k]$ is\n[Note : $[k]$ denotes the largest integer less than or equal to $k$ ]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "Let $\\theta=\\frac{\\pi}{2 k}$\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nsyCMwfdsSgoA4eN35QoPJm706I-Z4eMkUQz8O6WHAQ.original.fullsize.png\"><br>\n\n$$\n\\begin{aligned}\n& \\cos \\theta=\\frac{x}{2} \\\\\n& \\Rightarrow \\quad \\cos 2 \\theta=\\frac{\\sqrt{3}+1-x}{2} \\\\\n& \\Rightarrow 2 \\cos ^2 \\theta-1=\\frac{\\sqrt{3}+1-x}{2} \\\\\n& \\Rightarrow 2\\left(\\frac{x^2}{4}\\right)-1=\\frac{\\sqrt{3}+1-x}{2} \\\\\n& \\Rightarrow \\quad x^2+x-3-\\sqrt{3}=0 \\\\\n& \\Rightarrow \\quad x=\\frac{-1 \\pm \\sqrt{1+12+4 \\sqrt{3}}}{2} \\\\\n& =\\frac{-1 \\pm \\sqrt{13+4 \\sqrt{3}}}{2} \\\\\n& =\\frac{-1+2 \\sqrt{3}+1}{2}=\\sqrt{3} \\\\\n& \\therefore \\quad \\cos \\theta=\\frac{\\sqrt{3}}{2} \\Rightarrow \\theta=\\frac{\\pi}{6} \\\\\n& \\therefore \\quad \\text { Required angle }=\\frac{\\pi}{k}=2 \\theta=\\frac{\\pi}{3} \\\\\n& \\Rightarrow \\quad k=3 \\\\\n&\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Chord of Contact"
+  },
+  {
+    "question_id": "64b16a6ef23ac7d519f9b459",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>&nbsp;be the line passing through the points <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>7</mn></mrow></mfenced></math> and <math><mi>Q</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mo>-</mo><mn>5</mn></mrow></mfenced></math>. Let <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub></math> be the set of all pairs of circles <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> such that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>&nbsp;is tangents to <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and tangent to <math><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>, and also such that <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> touch each other at a point, say,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>. Let <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub></math> be the set representing the locus of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>&nbsp;as the pair <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> varies in <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub></math>. Let the set of all straight line segments joining a pair of distinct points of <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and passing through the point <math><mi>R</mi><mfenced separators=\"|\"><mrow><mn>1,1</mn></mrow></mfenced></math> be <math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . Let <math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> be the set of the mid-points of the line segments in the set <math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . Then, which of the following statement(s) is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9z6d5",
+        "text": "The point  <math><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2,7</mn></mrow></mfenced></math>  lies in  <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Cub4Q",
+        "text": "The point <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></math> does NOT lie in <math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "46dbb",
+        "text": "The point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>1</mn></mrow></mfenced></math> lies in <math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "1ol00",
+        "text": "The point <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math> does NOT lie in <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1ol00",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dzztmzwbkgzcutxalnbmoagechjpsrxnjatppqowwwlhonkzuh.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>P</mi><mo>=</mo><mi>A</mi><mi>Q</mi><mo>=</mo><mi>A</mi><mi>M</mi></math> So <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∠</mo><mi>P</mi><mi>M</mi><mi>Q</mi><mo>=</mo><mn>90</mn><mo>°</mo></math><br >Locus of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math> is a circle having <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> as its diameter<br >Hence, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>1</mn></msub><mo>:</mo><mo> </mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>y</mi><mo>-</mo><mn>39</mn><mo>=</mo><mn>0</mn><mo>,</mo><mo> </mo><mi>x</mi><mo>≠</mo><mo>±</mo><mn>2</mn></math><br >Clearly <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>7</mn></mrow></mfenced></math> is not included in the locus because we can not consider point circles, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced></math> does not lie on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>1</mn></msub></math> as it does not satisfy the equation above.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ycmlfwewzpcxnuyfevdjskqwanghelyamqthloodjmnwokslhi.png\"/><br >The equation of chord with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mfenced><mrow><mi>h</mi><mo>,</mo><mi>k</mi></mrow></mfenced></math> as mid point will be given by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><msub><mi>S</mi><mn>1</mn></msub></math> or</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>h</mi><mo>+</mo><mi>y</mi><mi>k</mi><mo>-</mo><mi>y</mi><mo>-</mo><mi>k</mi><mo>-</mo><mn>39</mn><mo>=</mo><msup><mi>h</mi><mn>2</mn></msup><mo>+</mo><msup><mi>k</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>k</mi><mo>-</mo><mn>39</mn></math></p><p>or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>h</mi><mo>+</mo><mi>y</mi><mi>k</mi><mo>-</mo><mi>y</mi><mo>+</mo><mi>k</mi><mo>=</mo><msup><mi>h</mi><mn>2</mn></msup><mo>+</mo><msup><mi>k</mi><mn>2</mn></msup></math></p><p>It passes through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mfenced><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>. So,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>+</mo><mi>k</mi><mo>-</mo><mn>1</mn><mo>+</mo><mi>k</mi><mo>=</mo><msup><mi>h</mi><mn>2</mn></msup><mo>+</mo><msup><mi>k</mi><mn>2</mn></msup></math></p><p>or the locus of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>2</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p>But if <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> is not the part of locus of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math> then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> is not the chord of locus of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>. So point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>,</mo><mfrac><mn>7</mn><mn>5</mn></mfrac></mrow></mfenced></math> does not lie in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>2</mn></msub></math>. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>1</mn></mrow></mfenced></math> does not satisfy the equation hence does not lie in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>2</mn></msub></math>.</p>",
+    "solution_image": null,
+    "topic": "Chord with given Middle Point"
+  },
+  {
+    "question_id": "64b169f9f23ac7d519f9b031",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The centres of two circles $C_1$ and $C_2$ each of unit radius are at a distance of 6 units from each other. Let $P$ be the mid-point of the line segment joining the centres of $C_1$ and $C_2$ and $C$ be a circle touching circles $C_1$ and $C_2$ externally. If a common tangents to $C_1$ and $C$ passing through $P$ is also a common tangent to $C_2$ and $C$, then the radius of the circle $C$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "$(r+1)^2=\\alpha^2+9$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/P12uKGaiUhyU7Pkj_8wW1RmlxbN2wB15mKll54U7qWE.original.fullsize.png\"><br>\n\n$$\n\\begin{array}{lc}\n\\Rightarrow & r^2+8=\\alpha^2 \\\\\n\\Rightarrow & r^2+2 r+1=r^2+8+9 \\\\\n\\Rightarrow & 2 r=16 \\Rightarrow r=8\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Coaxial systems of circles"
+  },
+  {
+    "question_id": "64b16a7cf23ac7d519f9b4d5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Let the circles <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>9</mn></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>:</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn><mo>,</mo></math> intersect at the points <math><mi>X</mi></math> and <math><mi>Y</mi><mo>.</mo></math> Suppose that another circle <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>:</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mi>h</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mi>k</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></math> satisfies the following conditions:<br /><math><mfenced separators=\"|\"><mrow><mi>i</mi></mrow></mfenced></math> centre of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is collinear with the centres of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math><br /><math><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi></mrow></mfenced><mi>&#160;</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> both lie inside <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo></math> and<br /><math><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced><mi>&#160;</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> touches <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> at <math><mi>M</mi></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> at <math><mi>N</mi><mo>.</mo></math><br />Let the line through <math><mi>X</mi></math> and <math><mi>Y</mi></math> intersect <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> at <math><mi>Z</mi></math> and <math><mi>W</mi><mo>,</mo></math> and let a common tangent of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> be a tangent to the parabola <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi>&#945;</mi><mi>y</mi><mo>.</mo></math><br />There are some expression given in the List- <math><mi>I</mi></math> whose values are given in List- <math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></math> below:<br />&nbsp;<table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th>&nbsp;</th>\t\t\t<th>List- <math><mi mathvariant=\"normal\">I</mi></math></th>\t\t\t<th>&nbsp;</th>\t\t\t<th><span style=\"font-weight: 700; text-align: center;\">List-&nbsp;</span> II</th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi></mrow></mfenced></math></td>\t\t\t<td><math><mn>2</mn><mi>h</mi><mo>+</mo><mi>k</mi></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></math></td>\t\t\t<td><math><mn>6</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi>Z</mi><mi>W</mi></mrow><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi>X</mi><mi>Y</mi></mrow></mfrac></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>Q</mi></mrow></mfenced></math></td>\t\t\t<td><math><msqrt><mn>6</mn></msqrt></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi><mi>I</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi>M</mi><mi>Z</mi><mi>N</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi>Z</mi><mi>M</mi><mi>W</mi></mrow></mfrac></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi><mi>V</mi></mrow></mfenced></math></td>\t\t\t<td><math><mi>&#945;</mi></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>S</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mn>21</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>T</mi></mrow></mfenced></math></td>\t\t\t<td><math><mn>2</mn><msqrt><mn>6</mn></msqrt></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>U</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math></td>\t\t</tr>\t</tbody></table><br />Which of the following is the only INCORRECT combination?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jEdVP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>T</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "RXfln",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi>I</mi></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>S</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "OQL0P",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi>I</mi></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>U</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "PjQIs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>Q</mi></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "PjQIs",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0cba58d6-0917-41e0-ae55-8b3589279996-image6.png\"/>\r\n\r\nGiven centre of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> are collinear hence\r\n\r\n<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>h</mi></mtd><mtd><mi>k</mi></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>0</mn></math>\r\n\r\n<math><mn>3</mn><mi>k</mi><mo>=</mo><mn>4</mn><mi>h</mi></math> …(i)\r\n\r\n<math><mo>⇒</mo><mi>M</mi><mi>N</mi></math> is diameter of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math>\r\n\r\n<math><mi>M</mi><mi>N</mi><mo>=</mo><mi>M</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>N</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>2</mn><mi>r</mi><mo>=</mo><msub><mi>r</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>1</mn></msub><msub><mi>C</mi><mn>2</mn></msub><mo>+</mo><msub><mi>r</mi><mn>2</mn></msub></mtd><mtd><mfenced separators=\"|\"><mrow><mo>∵</mo><mi>M</mi><mi>N</mi><mo>=</mo><mn>2</mn><mi>r</mi></mrow></mfenced></mtd></mtr></mtable></math>\r\n\r\n<math><mn>2</mn><mi>r</mi><mo>=</mo><mn>3</mn><mo>+</mo><msqrt><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>-</mo><mn>0</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>4</mn><mo>-</mo><mn>0</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>+</mo><mn>4</mn></math>\r\n\r\n<math><menclose notation=\"box\"><mi>r</mi><mo>=</mo><mn>6</mn></menclose></math> …(ii)\r\n\r\n<math><mo>⇒</mo></math> Given <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> touches <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mi>M</mi></mtd><mtd></mtd></mtr></mtable></math>\r\n\r\nSo <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mi>C</mi><mn>1</mn></msub><msub><mi>C</mi><mn>3</mn></msub></mrow></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>r</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mtd><mtd></mtd></mtr></mtable></math>\r\n\r\n<math><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>9</mn></math> …(iii)\r\n\r\nFrom (i) and (iii)\r\n\r\n<math><mi>h</mi><mo>=</mo><mo>±</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> and <math><mi>k</mi><mo>=</mo><mo>±</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>\r\n\r\nSo centre of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> will be <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></math>\r\n\r\n<math><mo>⇒</mo></math> Now equation of common chord of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> will be\r\n\r\n<math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>0</mn></math>\r\n\r\n<math><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>18</mn></math>\r\n\r\nEquation of line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>9</mn></math> …(iv)\r\n\r\nDistance of line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi></math> from origin\r\n\r\n<math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>P</mi><mo>=</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>\r\n\r\n<math><mo>⇒</mo></math> now in <math><mo>∆</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>P</mi><mi>y</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced separators=\"|\"><mrow><msub><mi>C</mi><mn>1</mn></msub><mi>P</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced separators=\"|\"><mrow><mi>P</mi><mi>Y</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><msup><mfenced separators=\"|\"><mrow><msub><mi>C</mi><mn>1</mn></msub><mi>Y</mi></mrow></mfenced><mn>2</mn></msup></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mfrac><mn>81</mn><mn>25</mn></mfrac><mo>+</mo><msup><mfenced separators=\"|\"><mrow><mi>P</mi><mi>Y</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfenced separators=\"|\"><mn>9</mn></mfenced></mtd><mtd><mfenced separators=\"|\"><mrow><mo>∵</mo><msub><mi>C</mi><mn>1</mn></msub><mi>Y</mi><mo>=</mo><msub><mi>r</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn></mrow></mfenced></mtd></mtr></mtable></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced separators=\"|\"><mrow><mi>P</mi><mi>Y</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn>144</mn><mn>25</mn></mfrac><mo>⇒</mo><mi>P</mi><mi>Y</mi><mo>=</mo><mfrac><mn>12</mn><mn>5</mn></mfrac></math>\r\n\r\nLength of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi><mo>=</mo><mn>2</mn><mi>P</mi><mi>Y</mi><mo>=</mo><mfrac><mn>24</mn><mn>5</mn></mfrac></math>\r\n\r\n<math><mo>⇒</mo></math> Line <math><mi>Z</mi><mi>W</mi></math> is line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi></math>\r\n\r\nEquation of <math><mi>Z</mi><mi>W</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>9</mn></math>\r\n\r\nDistance of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> from <math><mi>Z</mi><mi>W</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced><mo>+</mo><mn>4</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced><mo>-</mo><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></math>\r\n\r\n<math><mi>Z</mi><mi>W</mi><mo>=</mo><mfrac><mrow><mn>6</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>\r\n\r\nnow <math><mi>Z</mi><mi>W</mi><mo>=</mo><mn>2</mn><msqrt><msup><mrow><mfenced separators=\"|\"><mrow><mn>6</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>6</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math>\r\n\r\n<math><mi>Z</mi><mi>W</mi><mo>=</mo><mfrac><mrow><mn>24</mn><msqrt><mn>6</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/95c93dc4-270b-4e9a-93d6-cf7cce768d4b-image7.png\"/>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mi> </mi><mn>2</mn><mi>h</mi><mo>+</mo><mi>k</mi><mo>=</mo><mn>2</mn><mo>×</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>30</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>=</mo><mn>6</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mfrac><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi>Z</mi><mi>W</mi></mrow><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi>X</mi><mi>Y</mi></mrow></mfrac><mo>=</mo><msqrt><mn>6</mn></msqrt></math>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mfrac><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><mi>M</mi><mi>Z</mi><mi>N</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><mi>Z</mi><mi>M</mi><mi>W</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mi>M</mi><mi>N</mi><mo>×</mo><mi>P</mi><mi>Z</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mi>Z</mi><mi>W</mi><mo>×</mo><mi>M</mi><mi>P</mi></mrow></mfrac></math>\r\n\r\n<math><mo>=</mo><mtable><mtr><mtd><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>M</mi><mi>N</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>Z</mi><mi>W</mi></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mi>Z</mi><mi>W</mi><mfenced separators=\"|\"><mrow><mi>M</mi><mi>G</mi><mo>+</mo><mi>G</mi><mi>P</mi></mrow></mfenced></mrow></mfrac></mtd><mtd><mfenced separators=\"|\"><mrow><mo>∴</mo><mi>P</mi><mi>Z</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>Z</mi><mi>W</mi></mrow></mfenced></mtd></mtr></mtable></math>\r\n\r\n<math><mo>=</mo><mtable><mtr><mtd><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mn>12</mn><mo>×</mo><mfrac><mrow><mn>12</mn><msqrt><mn>6</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><mn>24</mn><msqrt><mn>8</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>24</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></mrow></mfrac></mtd><mtd><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mo>∴</mo><mi>M</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mo>∴</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>A</mi><mo>=</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mtd></mtr></mtable></mrow></mfenced></mtd></mtr></mtable></math>\r\n\r\n<math><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></mrow></mfenced></math> Common tangent to <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is common chord to <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math>\r\n\r\n<math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>0</mn></math>\r\n\r\n<math><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>15</mn><mo>=</mo><mn>0</mn></math>\r\n\r\nNow this line is tangent to parabola\r\n\r\n<math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi>α</mi><mi>y</mi></math>\r\n\r\n<math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi>α</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mn>3</mn><mi>x</mi><mo>-</mo><mn>15</mn></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mfenced></math>\r\n\r\n<math><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>24</mn><mi>α</mi><mi>x</mi><mo>+</mo><mn>120</mn><mi>α</mi><mo>=</mo><mn>0</mn></math>\r\n\r\nApply <math><mi>D</mi><mo>=</mo><mn>0</mn></math> (for tangent, it will have repeated roots)\r\n\r\n<math><mi>α</mi><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Common Chord"
+  },
+  {
+    "question_id": "64b16a7bf23ac7d519f9b4d4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Let the circles <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>9</mn></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>:</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn><mo>,</mo></math> intersect at the points <math><mi>X</mi></math> and <math><mi>Y</mi><mo>.</mo></math> Suppose that another circle <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>:</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mi>h</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mi>k</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></math> satisfies the following conditions:<br /><math><mfenced separators=\"|\"><mrow><mi>i</mi></mrow></mfenced></math> centre of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is collinear with the centres of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math><br /><math><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi></mrow></mfenced><mi>&#160;</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> both lie inside <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo></math> and<br /><math><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced><mi>&#160;</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> touches <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> at <math><mi>M</mi></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> at <math><mi>N</mi><mo>.</mo></math><br />Let the line through <math><mi>X</mi></math> and <math><mi>Y</mi></math> intersect <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> at <math><mi>Z</mi></math> and <math><mi>W</mi><mo>,</mo></math> and let a common tangent of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> be a tangent to the parabola <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi>&#945;</mi><mi>y</mi><mo>.</mo></math><br />There are some expression given in the List- <math><mi mathvariant=\"normal\">I</mi></math> whose values are given in List- <math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></math> below:<br />&nbsp;<table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th>&nbsp;</th>\t\t\t<th><span style=\"font-weight: 700; text-align: center;\">List-&nbsp;</span> I</th>\t\t\t<th>&nbsp;</th>\t\t\t<th><span style=\"font-weight: 700; text-align: center;\">List-&nbsp;</span> II</th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi></mrow></mfenced></math></td>\t\t\t<td><math><mn>2</mn><mi>h</mi><mo>+</mo><mi>k</mi></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></math></td>\t\t\t<td><math><mn>6</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi>Z</mi><mi>W</mi></mrow><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi>X</mi><mi>Y</mi></mrow></mfrac></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>Q</mi></mrow></mfenced></math></td>\t\t\t<td><math><msqrt><mn>6</mn></msqrt></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi><mi>I</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi>M</mi><mi>Z</mi><mi>N</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><mi>Z</mi><mi>M</mi><mi>W</mi></mrow></mfrac></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>I</mi><mi>V</mi></mrow></mfenced></math></td>\t\t\t<td><math><mi>&#945;</mi></math></td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>S</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mn>21</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>T</mi></mrow></mfenced></math></td>\t\t\t<td><math><mn>2</mn><msqrt><mn>6</mn></msqrt></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi>U</mi></mrow></mfenced></math></td>\t\t\t<td><math><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math></td>\t\t</tr>\t</tbody></table><br />Which of the following is the only INCORRECT combination?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wJnp5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi>I</mi><mi>V</mi></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>S</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "cePD6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi>I</mi><mi>V</mi></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>U</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "puMEf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi>I</mi><mi>I</mi><mi>I</mi></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>R</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "TLApk",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi>I</mi></mfenced><mo>-</mo><mfenced separators=\"|\"><mi>P</mi></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wJnp5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0cba58d6-0917-41e0-ae55-8b3589279996-image6.png\"/><br/>Given centre of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> are collinear hence<br/><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>h</mi></mtd><mtd><mi>k</mi></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>0</mn></math><br/><math><mn>3</mn><mi>k</mi><mo>=</mo><mn>4</mn><mi>h</mi></math> …(i)<br/><math><mo>⇒</mo><mi>M</mi><mi>N</mi></math> is diameter of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br/><math><mi>M</mi><mi>N</mi><mo>=</mo><mi>M</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>N</mi></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>2</mn><mi>r</mi><mo>=</mo><msub><mi>r</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>1</mn></msub><msub><mi>C</mi><mn>2</mn></msub><mo>+</mo><msub><mi>r</mi><mn>2</mn></msub></mtd><mtd><mfenced separators=\"|\"><mrow><mo>∵</mo><mi>M</mi><mi>N</mi><mo>=</mo><mn>2</mn><mi>r</mi></mrow></mfenced></mtd></mtr></mtable></math><br/><math><mn>2</mn><mi>r</mi><mo>=</mo><mn>3</mn><mo>+</mo><msqrt><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>-</mo><mn>0</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>4</mn><mo>-</mo><mn>0</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>+</mo><mn>4</mn></math><br/><math><menclose notation=\"box\"><mi>r</mi><mo>=</mo><mn>6</mn></menclose></math> …(ii)<br/><math><mo>⇒</mo></math> Given <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> touches <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mi>M</mi></mtd><mtd></mtd></mtr></mtable></math><br/>So <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mi>C</mi><mn>1</mn></msub><msub><mi>C</mi><mn>3</mn></msub></mrow></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>r</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mtd><mtd></mtd></mtr></mtable></math><br/><math><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>9</mn></math> …(iii)<br/>From (i) and (iii)<br/><math><mi>h</mi><mo>=</mo><mo>±</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> and <math><mi>k</mi><mo>=</mo><mo>±</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math><br/>So centre of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> will be <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></math><br/><math><mo>⇒</mo></math> Now equation of common chord of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> will be<br/><math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>0</mn></math><br/><math><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>18</mn></math><br/>Equation of line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>9</mn></math> …(iv)<br/>Distance of line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi></math> from origin<br/><math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>P</mi><mo>=</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math><br/><math><mo>⇒</mo></math> now in <math><mo>∆</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>P</mi><mi>y</mi></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced separators=\"|\"><mrow><msub><mi>C</mi><mn>1</mn></msub><mi>P</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced separators=\"|\"><mrow><mi>P</mi><mi>Y</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><msup><mfenced separators=\"|\"><mrow><msub><mi>C</mi><mn>1</mn></msub><mi>Y</mi></mrow></mfenced><mn>2</mn></msup></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mfrac><mn>81</mn><mn>25</mn></mfrac><mo>+</mo><msup><mfenced separators=\"|\"><mrow><mi>P</mi><mi>Y</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfenced separators=\"|\"><mn>9</mn></mfenced></mtd><mtd><mfenced separators=\"|\"><mrow><mo>∵</mo><msub><mi>C</mi><mn>1</mn></msub><mi>Y</mi><mo>=</mo><msub><mi>r</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn></mrow></mfenced></mtd></mtr></mtable></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced separators=\"|\"><mrow><mi>P</mi><mi>Y</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn>144</mn><mn>25</mn></mfrac><mo>⇒</mo><mi>P</mi><mi>Y</mi><mo>=</mo><mfrac><mn>12</mn><mn>5</mn></mfrac></math><br/>Length of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi><mo>=</mo><mn>2</mn><mi>P</mi><mi>Y</mi><mo>=</mo><mfrac><mn>24</mn><mn>5</mn></mfrac></math><br/><math><mo>⇒</mo></math> Line <math><mi>Z</mi><mi>W</mi></math> is line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mi>Y</mi></math><br/>Equation of <math><mi>Z</mi><mi>W</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>9</mn></math><br/>Distance of <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> from <math><mi>Z</mi><mi>W</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced><mo>+</mo><mn>4</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced><mo>-</mo><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></math><br/><math><mi>Z</mi><mi>W</mi><mo>=</mo><mfrac><mrow><mn>6</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math><br/>now <math><mi>Z</mi><mi>W</mi><mo>=</mo><mn>2</mn><msqrt><msup><mrow><mfenced separators=\"|\"><mrow><mn>6</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>6</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math><br/><math><mi>Z</mi><mi>W</mi><mo>=</mo><mfrac><mrow><mn>24</mn><msqrt><mn>6</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></math><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/95c93dc4-270b-4e9a-93d6-cf7cce768d4b-image7.png\"/><br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mi> </mi><mn>2</mn><mi>h</mi><mo>+</mo><mi>k</mi><mo>=</mo><mn>2</mn><mo>×</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>30</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>=</mo><mn>6</mn></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mfrac><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi>Z</mi><mi>W</mi></mrow><mrow><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi>X</mi><mi>Y</mi></mrow></mfrac><mo>=</mo><msqrt><mn>6</mn></msqrt></math><br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mfrac><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><mi>M</mi><mi>Z</mi><mi>N</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><mi>Z</mi><mi>M</mi><mi>W</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mi>M</mi><mi>N</mi><mo>×</mo><mi>P</mi><mi>Z</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mi>Z</mi><mi>W</mi><mo>×</mo><mi>M</mi><mi>P</mi></mrow></mfrac></math><br/><math><mo>=</mo><mtable><mtr><mtd><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>M</mi><mi>N</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>Z</mi><mi>W</mi></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mi>Z</mi><mi>W</mi><mfenced separators=\"|\"><mrow><mi>M</mi><mi>G</mi><mo>+</mo><mi>G</mi><mi>P</mi></mrow></mfenced></mrow></mfrac></mtd><mtd><mfenced separators=\"|\"><mrow><mo>∴</mo><mi>P</mi><mi>Z</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>Z</mi><mi>W</mi></mrow></mfenced></mtd></mtr></mtable></math><br/><math><mo>=</mo><mtable><mtr><mtd><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mn>12</mn><mo>×</mo><mfrac><mrow><mn>12</mn><msqrt><mn>6</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><mn>24</mn><msqrt><mn>8</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>24</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></mrow></mfrac></mtd><mtd><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mo>∴</mo><mi>M</mi><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mo>∴</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>A</mi><mo>=</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mtd></mtr></mtable></mrow></mfenced></mtd></mtr></mtable></math><br/><math><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math><br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></mrow></mfenced></math> Common tangent to <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is common chord to <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br/><math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>0</mn></math><br/><math><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>15</mn><mo>=</mo><mn>0</mn></math><br/>Now this line is tangent to parabola<br/><math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi>α</mi><mi>y</mi></math><br/><math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi>α</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mn>3</mn><mi>x</mi><mo>-</mo><mn>15</mn></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mfenced></math><br/><math><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>24</mn><mi>α</mi><mi>x</mi><mo>+</mo><mn>120</mn><mi>α</mi><mo>=</mo><mn>0</mn></math><br/>Apply <math><mi>D</mi><mo>=</mo><mn>0</mn></math> (for tangent, it will have repeated roots)<br/><math><mi>α</mi><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Common Chord"
+  },
+  {
+    "question_id": "6a0be50d44d287c9361e5c87",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Match each entry in List-I to the correct entry in List-II and choose the correct option.<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">List-I</th><th style=\"border: 1px solid black; padding: 10px;\">List-II</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(P) The circle with centre $(1, 2)$ and touching the straight line $3x + 4y = 1$, passes through</td><td style=\"border: 1px solid black; padding: 10px;\">(1) the point $(1, 1)$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(Q) The common tangent to the circle $x^2 + y^2 = 2$ and the parabola $y^2 = 8x$ with positive slope, passes through</td><td style=\"border: 1px solid black; padding: 10px;\">(2) the point $(7, 9)$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(R) Let $M$ be the end point of the latus rectum of the ellipse $3x^2 + 4y^2 = 48$ such that $M$ lies in the first quadrant. Then the normal to the ellipse drawn at $M$ passes through</td><td style=\"border: 1px solid black; padding: 10px;\">(3) the point $(3, 2)$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(S) Let $H$ be the hyperbola whose centre is at the origin, one of the foci is at $(5, 0)$, and one directrix is $5x + 16 = 0$. Then $H$ passes through</td><td style=\"border: 1px solid black; padding: 10px;\">(4) the point $(2, 5)$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\"></td><td style=\"border: 1px solid black; padding: 10px;\">(5) the point $(8, 3\\sqrt{3})$</td></tr></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4Lnrm",
+        "text": "(P) $\\rightarrow$ (3), (Q) $\\rightarrow$ (4), (R) $\\rightarrow$ (1), (S) $\\rightarrow$ (2)",
+        "image": null
+      },
+      {
+        "id": "fj8uT",
+        "text": "(P) $\\rightarrow$ (3), (Q) $\\rightarrow$ (2), (R) $\\rightarrow$ (1), (S) $\\rightarrow$ (5)",
+        "image": null
+      },
+      {
+        "id": "0CrRI",
+        "text": "(P) $\\rightarrow$ (3), (Q) $\\rightarrow$ (2), (R) $\\rightarrow$ (4), (S) $\\rightarrow$ (5)",
+        "image": null
+      },
+      {
+        "id": "k1mo9",
+        "text": "(P) $\\rightarrow$ (4), (Q) $\\rightarrow$ (1), (R) $\\rightarrow$ (2), (S) $\\rightarrow$ (3)",
+        "image": null
+      }
+    ],
+    "correct_answer": "fj8uT",
+    "solution_text": "For (P):<br>The radius of the circle is the perpendicular distance from $(1, 2)$ to $3x + 4y - 1 = 0$.<br>$r = \\dfrac{|3(1) + 4(2) - 1|}{\\sqrt{3^2 + 4^2}} = \\dfrac{10}{5} = 2$<br>The equation of the circle is $(x - 1)^2 + (y - 2)^2 = 4$.<br>Checking the given points, $(3, 2)$ satisfies the equation.<br>Thus, (P) $\\rightarrow$ (3).<br><br>For (Q):<br>The equation of a tangent to $y^2 = 8x$ with slope $m$ is $y = mx + \\dfrac{2}{m}$.<br>Since it is also a tangent to $x^2 + y^2 = 2$, the perpendicular distance from $(0, 0)$ to the line $mx - y + \\dfrac{2}{m} = 0$ is equal to the radius $\\sqrt{2}$.<br>$\\dfrac{\\left|\\dfrac{2}{m}\\right|}{\\sqrt{m^2 + 1}} = \\sqrt{2}$<br>$\\dfrac{4}{m^2} = 2(m^2 + 1)$<br>$m^4 + m^2 - 2 = 0$<br>$(m^2 + 2)(m^2 - 1) = 0$<br>Since $m$ is real and positive, $m = 1$.<br>The equation of the common tangent is $y = x + 2$.<br>Checking the given points, $(7, 9)$ satisfies the equation.<br>Thus, (Q) $\\rightarrow$ (2).<br><br>For (R):<br>The equation of the ellipse is $\\dfrac{x^2}{16} + \\dfrac{y^2}{12} = 1$.<br>Here $a^2 = 16$ and $b^2 = 12$.<br>Eccentricity $e = \\sqrt{1 - \\dfrac{12}{16}} = \\dfrac{1}{2}$.<br>The end point of the latus rectum in the first quadrant is $\\left(ae, \\dfrac{b^2}{a}\\right) = \\left(4 \\times \\dfrac{1}{2}, \\dfrac{12}{4}\\right) = (2, 3)$.<br>The equation of the normal at $(2, 3)$ is $\\dfrac{16x}{2} - \\dfrac{12y}{3} = 16 - 12$.<br>$8x - 4y = 4 \\Rightarrow 2x - y = 1$.<br>Checking the given points, $(1, 1)$ satisfies the equation.<br>Thus, (R) $\\rightarrow$ (1).<br><br>For (S):<br>The centre is $(0, 0)$. The focus is $(ae, 0) = (5, 0) \\Rightarrow ae = 5$.<br>The directrix is $x = -\\dfrac{16}{5} \\Rightarrow \\dfrac{a}{e} = \\dfrac{16}{5}$.<br>Multiplying the two equations gives $a^2 = 16$.<br>Dividing the two equations gives $e^2 = \\dfrac{25}{16}$.<br>$b^2 = a^2(e^2 - 1) = 16\\left(\\dfrac{25}{16} - 1\\right) = 9$.<br>The equation of the hyperbola is $\\dfrac{x^2}{16} - \\dfrac{y^2}{9} = 1$.<br>Checking the given points, $(8, 3\\sqrt{3})$ satisfies the equation.<br>Thus, (S) $\\rightarrow$ (5).<br><br>Answer: (P) $\\rightarrow$ (3), (Q) $\\rightarrow$ (2), (R) $\\rightarrow$ (1), (S) $\\rightarrow$ (5)",
+    "solution_image": null,
+    "topic": "Common Tangents"
+  },
+  {
+    "question_id": "64b169d6f23ac7d519f9aef0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Tangents are drawn from the point $(17,7)$ to the circle $x^2+y^2=169$.\nStatement I The tangents are mutually perpendicular.\nStatement II The locus of the points from which mutually perpendicular tangents can be drawn to the given circle is $x^2+y^2=338$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NqlKT",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "yYlwd",
+        "text": "\nStatement I is true, Statement II is true; Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "qI65o",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "8PA7B",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "NqlKT",
+    "solution_text": "Since, the tangents are perpendicular.\nSo, locus of perpendicular tangents to circle $x^2+y^2=169$ is a director circle having equation\n$$\nx^2+y^2=338 .\n$$",
+    "solution_image": null,
+    "topic": "Director Circle"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3be",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "For how many values of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math>, the circle <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>-</mo><mi>p</mi><mo>=</mo><mn>0</mn></math> and the coordinate axes have exactly three common points?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p>We shall consider 3 cases.</p><p><strong>Case I:</strong> When p = 0</p><p>(i.e., circle passes through origin)</p><p>Now, equation of circle becomes</p><p><math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/45_solu_math_pap1.jpg\"/></p><p><strong>Case II:</strong> When circle intersect x-axis at 2 distinct points and touches y-axis.</p><p><math> <mrow> <msup> <mi>g</mi> <mn>2</mn> </msup> <mo>−</mo><mi>c</mi><mo>></mo><mn>0</mn> </mrow> </math> and <math> <mrow> <msup> <mi>f</mi> <mn>2</mn> </msup><mo>=</mo> <mi>c</mi></mrow></math></p><p><math> <mrow> <mn>1</mn><mo>+</mo><mi>p</mi><mo>></mo><mn>0</mn> </mrow> </math> and <math> <mrow> <mi>p</mi><mo>=</mo><mo>-</mo><mn>4</mn> </mrow> </math> so, this case is not possible</p><p><strong>Case III:</strong> When circle intersect y-axis at 2 distinct points and touches x-axis</p><p>Now, <math><msup><mrow><mi>g</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>  and <math><msup><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mi>c</mi><mo>></mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>1</mn><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi>p</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math> and <math><mn>4</mn><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi>p</mi></mrow></mfenced><mo>></mo><mn>0</mn></math></p><p><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mi>p</mi><mo>=</mo><mo>-</mo><mn>1</mn></math>  and, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>></mo><mo>-</mo><mn>4</mn></math></p><p><math><mo>∴</mo><mi> </mi><mi> </mi><mi> </mi><mi>p</mi><mo>=</mo><mo>-</mo><mn>1</mn></math> is possible.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/45_solu_math_pap1_1.jpg\"/></p><p><math><mo>∴</mo></math>   Finally, we conclude that <math><mi>p</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>-</mo><mn>1</mn></math>.</p><p><math><mo>⇒</mo></math>Two possible values of p.</p>",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b16a30f23ac7d519f9b227",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "Circle(s) touching <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>&nbsp;from the origin and having an intercept of length&nbsp;<math> <mrow> <mn>2</mn> <msqrt> <mn>7</mn> </msqrt> </mrow> </math>&nbsp;on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>-axis is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HTDVh",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "8RkVi",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>7</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "9rXhb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>-</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "P96rh",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>-</mo><mn>7</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9rXhb",
+    "solution_text": "<p>Let&nbsp; the circle be</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msup><mo>+</mo><mo>&#160;</mo><msup><mi>y</mi><mn>2</mn></msup><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mn>2</mn><mi>g</mi><mi>x</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mn>2</mn><mi>f</mi><mi>y</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mi>c</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>0</mn></math></p><p>According to the question,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>g</mi><mn>2</mn></msup><mo>-</mo><mi>c</mi><mo>=</mo><mn>0</mn><mo>&#8658;</mo><msup><mi>g</mi><mn>2</mn></msup><mo>=</mo><mi>c</mi><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>i</mi></mfenced></math>&nbsp;</p><p>and&nbsp; &nbsp; &nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msqrt><msup><mi>f</mi><mn>2</mn></msup><mo>-</mo><mi>c</mi></msqrt><mo>=</mo><mn>2</mn><msqrt><mn>7</mn></msqrt><mo>&#8658;</mo><msup><mi>f</mi><mn>2</mn></msup><mo>-</mo><mi>c</mi><mo>=</mo><mn>7</mn><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>The circle passes through the point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>3</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></math>, then&nbsp;<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>+</mo><mn>0</mn><mo>+</mo><mn>6</mn><mi>g</mi><mo>+</mo><mn>0</mn><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>9</mn><mo>+</mo><mn>6</mn><mi>g</mi><mo>+</mo><msup><mi>g</mi><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>,</mo></math>&nbsp;by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>g</mi><mo>+</mo><mn>3</mn><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>g</mi><mo>=</mo><mo>-</mo><mn>3</mn></math><br /><math> <mrow> <mo>&#8756;</mo> </mrow> </math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi>c</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>9</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mn>2</mn></msup><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>16</mn><mo>&#160;</mo><mo>&#8658;</mo><mi>f</mi><mo>=</mo><mo>&#177;</mo><mn>4</mn></math>&nbsp; &nbsp; &nbsp;</p><p>So the required circles are</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>&#177;</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b16a16f23ac7d519f9b137",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "The circle passing through the point $(-1,0)$ and touching the $Y$-axis at $(0,2)$, also passes through the point",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aZaLo",
+        "text": "\n$\\left(-\\frac{3}{2}, 0\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "C3Zrp",
+        "text": "\n$\\left(-\\frac{5}{2}, 2\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "YT8Vi",
+        "text": "\n$\\left(-\\frac{3}{2}, \\frac{5}{2}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "NcrcV",
+        "text": "\n$(-1,-4)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "NcrcV",
+    "solution_text": "Equation of circle passing through a point $\\left(x_1, y_1\\right)$ and touching the straight line $L$, is given by\n$$\n\\left(x-x_1\\right)^2+\\left(y-y_1\\right)^2=\\lambda L=0\n$$\n$\\therefore$ Equation of circle passing through $(0,2)$ and touching $x=0$.\nNow, $(x-0)^2+(y-2)^2+\\lambda x=0 \\ldots$ (i)\nAlso, it passes through $(-1,0)$.\nSo, $1+4-\\lambda=0 \\Rightarrow \\lambda=5$\nEq. (i) becomes,\n$$\n\\begin{aligned}\n& x^2+y^2-4 y+4+5 x=0 \\\\\n\\Rightarrow \\quad x^2+y^2+5 x-4 y+4 & =0\n\\end{aligned}\n$$\nFor $x$-intercept, put $y=0$,\n$$\n\\begin{array}{rlrl} \n& x^2+5 x+4 & =0 \\\\\n\\Rightarrow & & (x+1)(x+4) & =0 \\\\\n\\therefore & & x & =-1,-4\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b16a02f23ac7d519f9b081",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe circle $x^2+y^2-8 x=0$ and hyperbola $\\frac{x^2}{9}-\\frac{y^2}{4}=1$ intersect at the points $A$ and $B$.<strong>Question:</strong>\nEquation of the circle with $A B$ as its diameter is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "61HFx",
+        "text": "\n$x^2+y^2-12 x+24=0$\n",
+        "image": null
+      },
+      {
+        "id": "W1lvr",
+        "text": "\n$x^2+y^2+12 x+24=0$\n",
+        "image": null
+      },
+      {
+        "id": "1MOfB",
+        "text": "\n$x^2+y^2+24 x-12=0$\n",
+        "image": null
+      },
+      {
+        "id": "A2m4j",
+        "text": "\n$x^2+y^2-24 x-12=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "61HFx",
+    "solution_text": "The equation of the hyperbola is $\\frac{x^2}{9}-\\frac{y^2}{4}=1$ and that of circle is\n$$\nx^2+y^2-8 x=0\n$$\nFor their points of intersection\n$$\n\\frac{x^2}{9}+\\frac{x^2-8 x}{4}=1\n$$\n\n$$\n\\begin{array}{ll}\n\\Rightarrow & 4 x^2+9 x^2-72 x=36 \\\\\n\\Rightarrow & 13 x^2-72 x-36=0\n\\end{array}\n$$\n\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad 13 x^2-78 x+6 x-36=0 \\\\\n& \\Rightarrow \\quad 13 x(x-6)+6(x-6)=0 \\\\\n& \\Rightarrow \\quad x=6, x=-\\frac{13}{6} \\\\\n& x=-\\frac{13}{6} \\text { not acceptable } \\\\\n&\n\\end{aligned}\n$$\nNow, for $x=6, y=\\pm 2 \\sqrt{3}$\nRequired equation is\n$$\n\\begin{aligned}\n& (x-6)^2+(y+2 \\sqrt{3})(y-2 \\sqrt{3})=0 \\\\\n& \\Rightarrow \\quad x^2-12 x+y^2+24=0 \\\\\n& \\Rightarrow \\quad x^2+y^2-12 x+24=0\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b169f2f23ac7d519f9aff0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Tangents drawn from the point $P(1,8)$ to the circle $x^2+y^2-6 x-4 y-11=0$ touch the circle at the points $A$ and $B$. The equation of the circumcircle of $\\triangle P A B$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FT0UL",
+        "text": "\n$x^2+y^2+4 x-6 y+19=0$\n",
+        "image": null
+      },
+      {
+        "id": "At7xM",
+        "text": "\n$x^2+y^2-4 x-10 y+19=0$\n",
+        "image": null
+      },
+      {
+        "id": "idJNu",
+        "text": "\n$x^2+y^2-2 x+6 y-29=0$\n",
+        "image": null
+      },
+      {
+        "id": "LYJT7",
+        "text": "\n$x^2+y^2-6 x-4 y+19=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "At7xM",
+    "solution_text": "For required circle, $P(1,8)$ and $O(3,2)$ will be the end point of its diameter.\n$$\n\\begin{aligned}\n& \\therefore(x-1)(x-3)+(y-8)(y-2)=0 \\\\\n& \\Rightarrow \\quad x^2+y^2-4 x-10 y+19=0\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b169e5f23ac7d519f9af78",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA circle $C$ of radius 1 is inscribed in an equilateral $\\triangle P Q R$. The points of contact of $C$ with the sides $P Q, Q R, R P$ are $D, E, F$ respectively. The line $P Q$ is given by the equation\n$\\sqrt{3} x+y-6=0$ and the point $D$ is $\\left(\\frac{3 \\sqrt{3}}{2}, \\frac{3}{2}\\right)$. Further, it is given that the origin and the centre of $C$ are on the same side of the line $P Q$.<strong>Question:</strong>\nThe equation of circle $C$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "g5tAz",
+        "text": "\n$(x-2 \\sqrt{3})^2+(y-1)^2=1$\n",
+        "image": null
+      },
+      {
+        "id": "DvmsU",
+        "text": "\n$(x-2 \\sqrt{3})^2+\\left(y+\\frac{1}{2}\\right)^2=1$\n",
+        "image": null
+      },
+      {
+        "id": "Ij5sP",
+        "text": "\n$(x-\\sqrt{3})^2+(y+1)^2=1$\n",
+        "image": null
+      },
+      {
+        "id": "1zWdn",
+        "text": "\n$(x-\\sqrt{3})^2+(y-1)^2=1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "1zWdn",
+    "solution_text": "Let centre of circle $C$ be $(h, k)$.\nThen, $\\left|\\frac{\\sqrt{3} h+k-6}{\\sqrt{3+1}}\\right|=1$\n$$\n\\Rightarrow \\quad \\sqrt{3} h+k-6=2,-2\n$$\n$$\n\\Rightarrow \\quad \\sqrt{3} h+k=4\n$$\n(Rejecting 2 because origin and centre of $C$ are on the same side of $P Q$ ) The point $(\\sqrt{3}, 1)$ satisfies Eq. (i).\n$\\therefore$ Equation of circle $C$ is $(x-\\sqrt{3})^2+(y-1)^2=1$.",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b169cff23ac7d519f9aead",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRead the following passage and answer the questions.\nLet $A B C D$ be a square of side length 2 units. $C_2$ is the circle through vertices $A, B, C, D$ and $C_1$ is the circle touching all the sides of square $A B C D$. $L$ is the line through $A$.<strong>Question:</strong>\nIf $P$ is a point on $C_1$ and $Q$ is a point on $C_2$, then $\\frac{P A^2+P B^2+P C^2+P D^2}{Q A^2+Q B^2+Q C^2+Q D^2}$ is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JL7KG",
+        "text": "\n$0.75$\n",
+        "image": null
+      },
+      {
+        "id": "n7cNu",
+        "text": "\n$1.25$\n",
+        "image": null
+      },
+      {
+        "id": "ZhPLn",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "ctu5B",
+        "text": "\n$0.5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "JL7KG",
+    "solution_text": "$$\n\\text { Here, equation of } C_2:(x-1)^2+(y-1)^2=(\\sqrt{2})^2 \\text { and } C_1:(x-1)^2+(y-1)^2=(1)^2\n$$\n\n$$\n\\begin{aligned}\n& \\therefore P(1+\\cos \\theta, 1+\\sin \\theta) \\\\\n& \\text { and } Q(1+\\sqrt{2} \\sin \\theta, 1+\\sqrt{2} \\sin \\theta) \\\\\n& \\therefore P A^2+P B^2+P C^2+P D^2 \\\\\n& =\\left\\{(1+\\cos \\theta)^2+(1+\\sin \\theta)^2\\right\\} \\\\\n& +\\left\\{(\\cos \\theta-1)^2+(1+\\sin \\theta)^2\\right\\} \\\\\n& +\\left\\{(1+\\cos \\theta)^2+(1-\\sin \\theta)^2\\right\\} \\\\\n& +\\left\\{(1-\\cos \\theta)^2+(1-\\sin \\theta)^2\\right\\} \\\\\n& =16 \\\\\n& \\therefore \\quad \\frac{\\Sigma Q A^2}{\\Sigma P A^2}=\\frac{12}{16}=0.75 \\\\\n&\n\\end{aligned}\n$$\nHence (a) is the correct answer.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SEWnUdfopYlFl_vklMsnqLI82c2868zLYyuLSPl5984.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Equation of Circle & its intercept"
+  },
+  {
+    "question_id": "64b16a9ff23ac7d519f9b619",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi></math> be a circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#62;</mo><mn>0</mn></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>G</mi><mn>1</mn></msub><mo>,</mo><msub><mi>G</mi><mn>2</mn></msub><mo>,</mo><mo>&#8230;</mo><mo>,</mo><msub><mi>G</mi><mi>n</mi></msub></math> be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> circles of equal radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#62;</mo><mn>0</mn></math>. Suppose each of the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> circles <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>G</mi><mn>1</mn></msub><mo>,</mo><msub><mi>G</mi><mn>2</mn></msub><mo>,</mo><mo>&#8230;</mo><mo>,</mo><msub><mi>G</mi><mi>n</mi></msub></math> touches the circle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi></math> externally. Also, for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>&#8230;</mo><mo>,</mo><mi>n</mi><mo>-</mo><mn>1</mn></math>, the circle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>G</mi><mi>i</mi></msub></math> touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>G</mi><mrow><mi>i</mi><mo>+</mo><mn>1</mn></mrow></msub></math> externally, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>G</mi><mi>n</mi></msub></math> touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>G</mi><mn>1</mn></msub></math> externally. Then, which of the following statements is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eMsTo",
+        "text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>4</mn></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mi>r</mi><mo>&#60;</mo><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "EnYJP",
+        "text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>5</mn></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#60;</mo><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "oBW9O",
+        "text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>8</mn></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mi>r</mi><mo>&#60;</mo><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "De4Is",
+        "text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>12</mn></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt><mfenced><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow></mfenced><mi>r</mi><mo>&#62;</mo><mi>R</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "De4Is",
+    "solution_text": "<p>Plotting the diagram of given condition we have,</p><p>&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3b2befc4-31d1-4ed9-b286-c106bb370346-image.png\" style=\"width: 297px; height: 250px;\" /></p><p>Now each radius of smaller circle will make&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">&#960;</mi><mi>n</mi></mfrac></math>&nbsp;angle at centre of bigger circle,</p><p>Now applying the sine rule, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>sin</mi><mfenced><mfrac><mi>&#960;</mi><mi>n</mi></mfrac></mfenced></mrow><mrow><mi>sin</mi><mstyle displaystyle=\"true\"><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mstyle></mrow></mfrac><mo>=</mo><mfrac><mi>r</mi><mrow><mi>R</mi><mo>+</mo><mi>r</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mi>R</mi><mi>r</mi></mfrac><mo>+</mo><mn>1</mn><mo>=</mo><mo>cosec</mo><mfenced><mfrac><mi>&#960;</mi><mi>n</mi></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>R</mi><mo>=</mo><mi>r</mi><mfenced close=\"]\" open=\"[\"><mrow><mo>cosec</mo><mfenced><mfrac><mi>&#960;</mi><mi>n</mi></mfrac></mfenced></mrow></mfenced><mfenced close=\"]\" open=\"[\"><mrow><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p>Now checking all options we get,</p><p>(A) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>4</mn><mo>,</mo><mi>R</mi><mo>=</mo><mi>r</mi><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p>(B) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>5</mn><mo>,</mo><mi>R</mi><mo>=</mo><mi>r</mi><mfenced><mrow><mo>cosec</mo><mfrac><mi>&#960;</mi><mn>5</mn></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>R</mi><mo>&#60;</mo><mi>r</mi><mfenced><mrow><mo>cosec</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced><mo>&#8658;</mo><mi>R</mi><mo>&#60;</mo><mi>r</mi></math></p><p>(C) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>8</mn><mo>,</mo><mi>R</mi><mo>=</mo><mi>r</mi><mfenced close=\"]\" open=\"[\"><mrow><mo>cosec</mo><mfenced><mfrac><mi>&#960;</mi><mn>8</mn></mfrac></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>R</mi><mo>&#62;</mo><mi>r</mi><mfenced><mrow><mo>cosec</mo><mfenced><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>R</mi><mo>&#62;</mo><mi>r</mi><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p>(D) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>12</mn><mo>,</mo><mi>R</mi><mo>=</mo><mi>r</mi><mfenced close=\"]\" open=\"[\"><mrow><mo>cosec</mo><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>R</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><msqrt><mn>2</mn></msqrt><mfenced><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mn>1</mn></mrow></mfenced><mi>r</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>R</mi><mo>&#60;</mo><msqrt><mn>2</mn></msqrt><mfenced><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow></mfenced><mi>r</mi></math></p>",
+    "solution_image": null,
+    "topic": "Family of Circle"
+  },
+  {
+    "question_id": "64b16a37f23ac7d519f9b261",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "A circle S passes through the point (0, 1) and is orthogonal to the circles <math><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn> </math> and <math> <mrow> <msup> <mrow> <mi>x</mi><mo>&#8289;</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mi>y</mi><mo>&#8289;</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>1</mn> </mrow> </math>. Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "l3fsZ",
+        "text": "Radius of S is 8",
+        "image": null
+      },
+      {
+        "id": "aZKCq",
+        "text": "Radius of S is 7",
+        "image": null
+      },
+      {
+        "id": "MPMXw",
+        "text": "Centre of S is (-7, 1)",
+        "image": null
+      },
+      {
+        "id": "p9r5c",
+        "text": "Centre of S is (-8, 1)",
+        "image": null
+      }
+    ],
+    "correct_answer": "MPMXw",
+    "solution_text": "Given circles<br > <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>15</mn><mo>=</mo><mn>0</mn></math> <br > <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math> <br >Radical axis  <math><mi>x</mi><mo>+</mo><mn>7</mn><mo>=</mo><mn>0</mn></math>                 ......(i)<br >Centre of circle lies on (i)<br >Let the centre be  <math><mfenced separators=\"|\"><mrow><mo>-</mo><mn>7</mn><mo>,</mo><mi> </mi><mi>k</mi></mrow></mfenced></math> <br >Let equation be  <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>14</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>k</mi><mi>y</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math> <br >Orthogonallity gives<br > <math><mo>-</mo><mi> </mi><mn>14</mn><mo>=</mo><mi>c</mi><mo>-</mo><mn>15</mn><mi> </mi><mo>⇒</mo><mi>c</mi><mo>=</mo><mn>1</mn></math>      .......(ii)<br > <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi> </mi><mn>1</mn></mrow></mfenced><mo>→</mo><mn>1</mn><mo>-</mo><mn>2</mn><mi>k</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mi> </mi><mo>⇒</mo><mi>k</mi><mo>=</mo><mn>1</mn></math> <br >Hence radius  <math><mo>=</mo><mi> </mi><msqrt><msup><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mi>c</mi></msqrt><mo>=</mo><mi> </mi><msqrt><mn>49</mn><mo>+</mo><mn>1</mn><mo>-</mo><mn>1</mn></msqrt><mo>=</mo><mn>7</mn></math> <br >Alternate Solution<br >Given circles  <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>15</mn><mo>=</mo><mn>0</mn></math> <br > <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math> <br >Let equation of circle  <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>g</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>f</mi><mi>y</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math> <br >Circle passes through (0, 1) <br > <math><mo>⇒</mo></math>       <math><mn>1</mn><mo>+</mo><mn>2</mn><mi>f</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math> <br >Applying condition of orthogonality<br > <math><mo>-</mo><mn>2</mn><mi>g</mi><mo>=</mo><mi>c</mi><mo>-</mo><mn>15</mn><mo>,</mo><mi> </mi><mn>0</mn><mo>=</mo><mi>c</mi><mo>-</mo><mn>1</mn></math> <br > <math><mo>⇒</mo></math>       <math><mi>c</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi> </mi><mi>g</mi><mo>=</mo><mn>7</mn><mo>,</mo><mi> </mi><mi>f</mi><mo>=</mo><mi> </mi><mo>-</mo><mn>1</mn></math> <br > <math><mi>r</mi><mo>=</mo><mi> </mi><msqrt><mn>49</mn><mo>+</mo><mn>1</mn><mo>-</mo><mn>1</mn></msqrt><mo>=</mo><mn>7</mn><mo>;</mo></math>  centre  <math><mfenced separators=\"|\"><mrow><mo>-</mo><mn>7</mn><mo>,</mo><mi> </mi><mn>1</mn></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "General Equation of 2nd degree curve"
+  },
+  {
+    "question_id": "64b16a74f23ac7d519f9b48e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "A line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mn>1</mn></math> intersects the circle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced separators=\"|\"><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>25</mn></math> at the points <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>.</mo></math> If the midpoint of the line segment <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo></math>coordinate <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>,</mo></math> then which one of the following options is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8nn8u",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#8804;</mo><mi>m</mi><mo>&#60;</mo><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "53XJ7",
+        "text": "<math><mn>2</mn><mo>≤</mo><mi>m</mi><mo>&lt;</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "qJINY",
+        "text": "<math><mn>4</mn><mo>≤</mo><mi>m</mi><mo>&lt;</mo><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "5fCvM",
+        "text": "<math><mo>-</mo><mn>3</mn><mo>≤</mo><mi>m</mi><mo>&lt;</mo><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "53XJ7",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6a81a657-4b2b-4d70-8f73-ea27f4f9b8bb-1.PNG\"/>\r\n\r\nEquation of line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mo>:</mo><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mn>1</mn></math>\r\n\r\nLet <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> be the mid point of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math>, so its <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-coordinate of midpoint <math><mo>=</mo><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>\r\n\r\nHence, coordinates of midpoint <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>,</mo><mo>-</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">m</mi></mrow><mn>5</mn></mfrac><mo>+</mo><mn>1</mn></mrow></mfenced></math>\r\n\r\nLet centre of circle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mfenced separators=\"|\"><mrow><mn>3</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math>\r\n\r\nSince, perpendicular dropped from centre upon any chord divides it in two equal parts.\r\n\r\nHence, line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> will be perpendicular to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>O</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi>m</mi><mrow><mi>R</mi><mi>Q</mi></mrow></msub><mo>⋅</mo><msub><mi>m</mi><mrow><mi>R</mi><mi>O</mi></mrow></msub><mo>=</mo><mo>-</mo><mn>1</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo> </mo><mi>m</mi><mfenced separators=\"|\"><mfrac><mrow><mo>-</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">m</mi></mrow><mn>5</mn></mfrac><mo>+</mo><mn>1</mn><mo>+</mo><mn>2</mn></mrow><mrow><mo>-</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>-</mo><mn>3</mn></mrow></mfrac></mfenced><mo>=</mo><mo>-</mo><mn>1</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>m</mi><mfenced separators=\"|\"><mfrac><mrow><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>15</mn></mrow><mrow><mo>-</mo><mn>18</mn></mrow></mfrac></mfenced><mo>=</mo><mo>-</mo><mn>1</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>m</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>m</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi> </mi><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><mo>≤</mo><mi>m</mi><mo><</mo><mn>4</mn></math></p>",
+    "solution_image": null,
+    "topic": "line and circle"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b170",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The locus of the mid-point of the chord of contact of tangents drawn from points lying on the straight line $4 x-$ $5 y=20$ to the circle $x^{2}+y^{2}=9$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "H63YR",
+        "text": "$20\\left(x^{2}+y^{2}\\right)-36 x+45 y=0$",
+        "image": null
+      },
+      {
+        "id": "7YMfX",
+        "text": "$20\\left(x^{2}+y^{2}\\right)+36 x-45 y=0$",
+        "image": null
+      },
+      {
+        "id": "3Q967",
+        "text": "$36\\left(x^{2}+y^{2}\\right)-20 x+45 y=0$",
+        "image": null
+      },
+      {
+        "id": "ocGnx",
+        "text": "$36\\left(x^{2}+y^{2}\\right)+20 x-45 y=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "H63YR",
+    "solution_text": "Any point $P$ on line $4 x-5 y=20$ can be considered as $\\left(\\alpha, \\frac{4 \\alpha-20}{5}\\right)$.\r\n\r\nEquation of chord of contact $A B$ to the circle $x^{2}+y^{2}=9$\r\n\r\ndrawn from point $\\mathrm{P}\\left(\\alpha, \\frac{4 \\alpha-20}{5}\\right)$ is\r\n\r\nx. $\\alpha+$ y. $\\left(\\frac{4 \\alpha-20}{5}\\right)=9...(i)$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zkFIWBdkdHID8Ep1HUGZDpd4kkJTYXASn79_Szm3a1E.original.fullsize.png\"><br>\r\n\r\nAlso the equation of chord $A B$ whose mid point is $(h, k)$ is $h x+k y=h^{2}+k^{2}....(ii)$\r\n\r\n$\\because \\quad$ Equations (i) and (ii) represent the same line,\r\n\r\n$\\therefore \\quad \\frac{h}{\\alpha}=\\frac{k}{\\frac{4 \\alpha-20}{5}}=\\frac{h^{2}+k^{2}}{9}$\r\n\r\n$\\Rightarrow 5 k \\alpha=4 h \\alpha-20 h$ and $9 h=\\alpha\\left(h^{2}+k^{2}\\right)$\r\n\r\n$\\Rightarrow \\alpha=\\frac{20 h}{4 h-5 k} \\quad$ and $\\alpha=\\frac{9 h}{h^{2}+k^{2}}$\r\n\r\n$\\Rightarrow \\quad \\frac{20 h}{4 h-5 k}=\\frac{9 h}{h^{2}+k^{2}} \\Rightarrow 20\\left(h^{2}+k^{2}\\right)=9(4 h-5 k)$\r\n\r\n$\\therefore \\quad$ Locus of $(h, k)$ is $20\\left(x^{2}+y^{2}\\right)-36 x+45 y=0$",
+    "solution_image": null,
+    "topic": "line and circle"
+  },
+  {
+    "question_id": "64b16a69f23ac7d519f9b431",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> Let <math><mi>S</mi></math> be the circle in the <math> <mrow> <mi>x</mi><mi>y</mi> </mrow> </math> &ndash; plane defined by the equation <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&#160;</mi><mo>+</mo><mi>&#160;</mi><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mn>4</mn><mo>.</mo></math><br /><br> <strong> Question : </strong>Let <math> <mi>P</mi> </math> be a point on the circle <math> <mi>S</mi> </math> with both coordinates being positive. Let the tangent to <math> <mi>S</mi> </math> at <math> <mi>P</mi> </math> intersect the coordinate axes at the points <math> <mi>M</mi> </math> and <math> <mi>M</mi><mi>N</mi> </math> Then, the mid-point of the line segment must lie on the curve",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LE1RP",
+        "text": "<math><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>3</mn><mi>x</mi><mi>y</mi></math>",
+        "image": null
+      },
+      {
+        "id": "uts6H",
+        "text": "<math><msup><mrow><mi>x</mi></mrow><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mo>=</mo><msup><mrow><mn>2</mn></mrow><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "jiijN",
+        "text": "<math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>x</mi><mi>y</mi></math>",
+        "image": null
+      },
+      {
+        "id": "4Fohn",
+        "text": "<math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4Fohn",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fwgfvviruaawztysslwckaqyktalfctghxlmhfljzqxzcdoiia.jpeg\" /><br />Tangent at <math><mi>P</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>,</mo><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow></mrow></mfenced><mi>i</mi><mi>s</mi><mi>&#160;</mi><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>+</mo><mi>y</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>=</mo><mn>2</mn></math><br /><math><mi>M</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>,</mo><mn>0</mn></mrow></mfenced><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mi>N</mi><mfenced separators=\"|\"><mrow><mn>0,2</mn><mrow><mrow><mi mathvariant=\"normal\">cosce</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow></mrow></mfenced></math><br />Let midpoint be (h, k)<br /><math><mi>h</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>,</mo><mi>k</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">cosce</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow></math><br /><math><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn></math><br /><math><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn></math>",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b16a51f23ac7d519f9b352",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "Let RS be the diameter of the circle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math> where,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> is the point<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn><mo>)</mo></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>&#160;</mo></math>be a variable point (other than&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>S</mi></math>) on the circle and tangents to the circle at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>P</mi><mo>&#160;</mo></math>meet at the point<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>. The normal to the circle at P intersects a line drawn through<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> parallel to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>S</mi></math> at point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> . Then, the locus of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> passes through the point (s):",
+    "question_image": null,
+    "options": [
+      {
+        "id": "n4nUG",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "2Jxer",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "Pta9C",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "LF6NV",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>,</mo><mi> </mi><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Pta9C",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/math_45_solut_paper11111.jpg\"/><br ><math><mi mathvariant=\"normal\">Let P be  </mi><mo>(</mo><mi mathvariant=\"normal\">cos θ </mi><mo>,</mo><mi mathvariant=\"normal\"> sin θ</mi><mo>)</mo></math>, where<br ><math><mi mathvariant=\"normal\">θ </mi><mo>≠</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">π</mi></math><br >Tangent at <math><mi>P</mi><mi> </mi><mo>:</mo><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow><mo>+</mo><mi>y</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow><mo>=</mo><mn>1</mn></math> ........(i)<br >Tangent at <math><mi>S</mi><mi> </mi><mo>:</mo><mi>x</mi><mo>=</mo><mn>1</mn></math> .........(ii)<br ><math><mo>∴</mo></math> By (i) and (ii) : <math><mi>Q</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfrac></mrow></mfenced></math><br >Line through Q parallel to RS :<br ><math><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfrac><mi> </mi><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>y</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>θ</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></math> ..........(iii)<br >Normal at <math><mi>P</mi><mi> </mi><mo>:</mo><mi>y</mi><mo>=</mo><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfrac><mi>x</mi><mi> </mi><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi>y</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow><mo>.</mo><mi>x</mi></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>y</mi><mo>=</mo><mfenced separators=\"|\"><mfrac><mrow><mn>2</mn><mi>t</mi><mi mathvariant=\"italic\">an</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac></mrow><mrow><mn>1</mn><mo>-</mo><mi>t</mi><msup><mi mathvariant=\"italic\">an</mi><mn mathvariant=\"italic\">2</mn></msup><mfrac><mi>θ</mi><mn>2</mn></mfrac></mrow></mfrac></mfenced><mi>x</mi></math> ........(iv)  <br >Point of intersection of equation (iii) and (iv), <math><mi>E</mi><mi> </mi><mo>:</mo><mi>h</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>θ</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></mrow><mrow><mn>2</mn></mrow></mfrac><mo>;</mo><mi>k</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>θ</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></math><br >Eliminating <math><mi>θ</mi><mi> </mi><mo>:</mo><mi>h</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mi> </mi><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi> </mi><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>1</mn><mo>-</mo><mn>2</mn><mi>x</mi></math><br ><math> <mrow> <mrow><mo>(</mo> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mo>,</mo><mfrac> <mn>1</mn> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo></mrow><mo> & </mo><mrow><mo>(</mo> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mo>,</mo><mo>−</mo><mfrac> <mn>1</mn> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> </math>  satisfy the locus.",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b16a17f23ac7d519f9b143",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "The straight line $2 x-3 y=1$ divides the circular region $x^2+y^2 \\leq 6$ into two parts. If $S=\\left\\{\\left(2, \\frac{3}{4}\\right),\\left(\\frac{5}{2}, \\frac{3}{4}\\right),\\left(\\frac{1}{4},-\\frac{1}{4}\\right),\\left(\\frac{1}{8}, \\frac{1}{4}\\right)\\right\\}$, then the number of point(s) in $S$ lying inside the smaller part is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "$x^2+y^2 \\leq 6$ and $2 x-3 y=1$ is shown as, For the point to lie in the shaded part, origin and the point lie on opposite side of straight line $L$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dVwnyTkUUvsDQ18fHYOVS4iDdvsVr-wqh05DruuYZs0.original.fullsize.png\"><br>\n$\\therefore$ For any point in shaded part $L>0$ and for any point inside the circle $S < 0$.\nNow, for $\\left(2, \\frac{3}{4}\\right) L: 2 x-3 y-1$\n$$\nL: 4-\\frac{9}{4}-1=\\frac{3}{4}>0\n$$\nand $S: x^2+y^2-6$,\n$$\nS: 4+\\frac{9}{16}-6 < 0\n$$\n$\\Rightarrow\\left(2 \\frac{3}{4}\\right)$ lies in shaded part.\nFor $\\left(\\frac{5}{2}, \\frac{3}{4}\\right) L: 5-9-1 < 0 \\quad$ [neglect]\nFor $\\left.\\left(\\frac{1}{4},-\\frac{1}{4}\\right) L: \\frac{1}{2}+\\frac{3}{4}-1>0\\right\\}$\n$\\therefore\\left(\\frac{1}{4},-\\frac{1}{4}\\right)$ lies in the shaded part. For $\\left(\\frac{1}{8}, \\frac{1}{4}\\right) L: \\frac{1}{4}-\\frac{3}{4}-1 < 0$ [neglect] $\\Rightarrow$ Only 2 points lie in the shaded part.",
+    "solution_image": null,
+    "topic": "Position of point"
+  },
+  {
+    "question_id": "64b16aabf23ac7d519f9b683",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub></math>&nbsp;be the circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> with center at the origin. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub></math> be the circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> with center at the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mo>(</mo><mn>4</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#60;</mo><mi>r</mi><mo>&#60;</mo><mn>3</mn></math>. Two distinct common tangents <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>T</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub></math> are drawn. The tangent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>. The tangent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>T</mi></math> touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>. Midpoints of the line segments <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>T</mi></math> are joined to form a line which meets the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at a point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>=</mo><msqrt><mn>5</mn></msqrt></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>r</mi><mn>2</mn></msup></math> is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<blockquote><p>Plotting the diagram of the given value we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4a2905bf-23b3-4cb5-ae70-4610e003a467.png\" style=\"width: 400px; height: 214px;\" /></p><p>Now let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi></math> be midpoints of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>T</mi></math> respectively.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>M</mi><mi>N</mi></math> is a radical axis of two circles</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub><mo>:</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub><mo>:</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>4</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>8</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>17</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>0</mn></math></p><p>Now subtracting equation&nbsp;of both above circles we get,</p><p>Equation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>N</mi><mo>:</mo><mo>&#160;</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>-</mo><mn>18</mn><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>0</mn></math></p><p>Now the line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>N</mi></math>&nbsp;intersect the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mtext>axis</mtext></math>&nbsp;at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>B</mi><mfenced><mrow><mfrac><mrow><mn>18</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mn>8</mn></mfrac><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p>Also given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>=</mo><msqrt><mn>5</mn></msqrt></math></p><p>Now using distance formula we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><msup><mfenced><mrow><mfrac><mrow><mn>18</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mn>8</mn></mfrac><mo>-</mo><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>1</mn></msqrt><mo>=</mo><msqrt><mn>5</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mfrac><mrow><mn>18</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mn>8</mn></mfrac><mo>-</mo><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>18</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mn>8</mn></mfrac><mo>-</mo><mn>4</mn><mo>=</mo><mo>&#177;</mo><mn>2</mn></math></p><p>Taking positive sign we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>18</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mn>8</mn></mfrac><mo>=</mo><mn>6</mn><mo>&#8658;</mo><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mo>-</mo><mn>30</mn><mo>&#160;</mo><mfenced><mtext>rejected</mtext></mfenced></math></p><p>Now taking negative sign we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>18</mn><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mn>8</mn></mfrac><mo>=</mo><mn>2</mn><mo>&#8658;</mo><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></math></p><p>Hence,&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Radical axis and centre"
+  },
+  {
+    "question_id": "66965dd1d603121f43a3f541",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Let the straight line $\\mathrm{y}=2 \\mathrm{x}$ touch a circle with center $(0, \\alpha), \\alpha>0$, and radius $\\mathrm{r}$ at a point $\\mathrm{A}_1$. Let $\\mathrm{B}_1$ be the point on the circle such that the line segment $A_1 B_1$ is a diameter of the circle. Let $\\alpha+r=5+\\sqrt{5}$.\nMatch each entry in List-I to the correct entry in List-II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nWsazjEVEIvd2DADB_ki9u2SVxCfJacnU4_SczRNUoA.original.fullsize.png\"/>\nThe correct option is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3Ckn7",
+        "text": "$(\\mathrm{P}) \\rightarrow(4) \\quad(\\mathrm{Q}) \\rightarrow(2) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(3)$",
+        "image": null
+      },
+      {
+        "id": "FCisF",
+        "text": "$(\\mathrm{P}) \\rightarrow(2) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(3)$",
+        "image": null
+      },
+      {
+        "id": "jrk5E",
+        "text": "$(\\mathrm{P}) \\rightarrow(4) \\quad(\\mathrm{Q}) \\rightarrow(2) \\quad(\\mathrm{R}) \\rightarrow(5) \\quad(\\mathrm{S}) \\rightarrow(3)$",
+        "image": null
+      },
+      {
+        "id": "HNVDc",
+        "text": "$(\\mathrm{P}) \\rightarrow(2) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(3) \\quad(\\mathrm{S}) \\rightarrow(5)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "jrk5E",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vjzEO8CmfhM_MGYXOYShuN-ACF1qdKCwP0v23RKfFIY.original.fullsize.png\">\nConsider centre as $\\mathrm{P}(0, \\alpha), \\alpha>0$\n$\\left|\\frac{2(0)-\\alpha}{\\sqrt{5}}\\right|=r$\n$\\begin{aligned}& |-\\alpha|=\\sqrt{5} r \\\\& \\alpha=\\sqrt{5} r \\\\& \\therefore \\alpha+r=5+\\sqrt{5} \\\\& \\sqrt{5} r+r=\\sqrt{5}(\\sqrt{5}+1) \\\\& r=\\sqrt{5}, \\alpha=5 \\\\& \\therefore P(0,5)\\end{aligned}$\nFoot of perpendicular from $\\mathrm{P}$ to line $2 \\mathrm{x}-\\mathrm{y}=0$\n$\\begin{aligned}& \\frac{x-0}{2}=\\frac{y-5}{-1}=\\frac{-(2(0)-5)}{5}=1 \\\\& x=2, y=4 \\quad A_1(2,4)\\end{aligned}$\nLet $\\mathrm{B}(\\mathrm{p}, \\mathrm{q})$\r\n$\\therefore \\frac{\\mathrm{p}+2}{2}=0, \\frac{\\mathrm{q}+4}{2}=5$\n$\\therefore \\mathrm{p}=-2, \\mathrm{q}=6 \\quad \\mathrm{~B}(-2,6)$",
+    "solution_image": null,
+    "topic": "Tangent to circle"
+  },
+  {
+    "question_id": "64b16a51f23ac7d519f9b353",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The circle <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>3</mn><mo>,</mo></math> with centre at O, intersects the parabola <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>y</mi></math> at the point P in the first quadrant. Let the tangent to the circle <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> at P touches other two circles <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> at <math><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub></math> , respectively. Suppose <math><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> have equal radii <math><mn>2</mn><msqrt><mn>3</mn></msqrt></math> and centres <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>&#160;</mi><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub></math> , respectively. If <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub></math> lie on the y - axis, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "H3BlP",
+        "text": "<math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>12</mn></math>",
+        "image": null
+      },
+      {
+        "id": "5xamv",
+        "text": "<math><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>4</mn><msqrt><mn>6</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "cKDpb",
+        "text": "area of the triangle <math><mi>O</mi><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>&nbsp;</mi><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is <math><mn>6</mn><msqrt><mn>2</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "oVF7K",
+        "text": "area of the triangle  <math><mi>P</mi><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  is  <math><mn>4</mn><msqrt><mn>2</mn></msqrt></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "cKDpb",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/maths_46_solu_paper1.jpg\"/><br >On solving <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>3</mn></math> and <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>y</mi></math> we get point <math><mi>P</mi><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt><mo>,</mo><mi> </mi><mn>1</mn></mrow></mfenced></math><br >Equation of tangent at P<br ><math><msqrt><mn>2</mn></msqrt><mi> </mi><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn></math><br >Let <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub></math> be (0, k) and radius is <math><mn>2</mn><msqrt><mn>3</mn></msqrt></math><br ><math><mo>∴</mo></math> <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><msqrt><mn>2</mn></msqrt><mi> </mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>+</mo><mi>k</mi><mo>-</mo><mn>3</mn></mrow><mrow><msqrt><mn>2</mn><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>2</mn><msqrt><mn>3</mn></msqrt></math><br ><math><mo>∴</mo></math> <math><mi>k</mi><mo>=</mo><mn>9</mn><mo>,</mo><mi> </mi><mo>-</mo><mn>3</mn></math> <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br ><math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub><mi> </mi><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi> </mi><mn>9</mn></mrow></mfenced></math> and <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub></math><mi> </mi><math><mo>(</mo><mn>0</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo>)</mo></math> <math> <mrow> <mrow><mo>{</mo> <mrow> <mtable> <mtr> <mtd> <mrow> <msub> <mi>C</mi> <mn>2</mn> </msub> <mo>:</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>−</mo><mn>0</mn> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> <mo>+</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>y</mi><mo>−</mo><mn>9</mn> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> <mo>=</mo><mn>12</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <msub> <mi>C</mi> <mn>3</mn> </msub> <mo>:</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>−</mo><mn>0</mn> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> <mo>+</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>y</mi><mo>+</mo><mn>3</mn> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> <mo>=</mo><mn>12</mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mrow> </mrow> </math><br >Hence <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub><mi> </mi><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>12</mn></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/96655635.JPG\"/><br ><math><msup><mrow><mo>⇒</mo><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>12</mn><mo>=</mo><mn>36</mn></math><br ><math><mo>⇒</mo><mi>a</mi><mo>=</mo><mn>2</mn><msqrt><mn>6</mn></msqrt></math><br ><math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>4</mn><msqrt><mn>6</mn></msqrt></math><br >Perpendicular distance of origin O from <math><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is equal to distance of O from tangent <math><msqrt><mn>2</mn></msqrt><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn></math> which is same as radius of circle <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi> </mi><msqrt><mn>3</mn></msqrt></math><br >Hence area of <math><mi mathvariant=\"normal\">Δ</mi><mi>O</mi><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mfenced separators=\"|\"><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced><mi> </mi><msqrt><mn>3</mn></msqrt><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo><mi> </mi><mn>4</mn><msqrt><mn>6</mn></msqrt><mi> </mi><mo>.</mo><mi> </mi><msqrt><mn>3</mn></msqrt><mo>=</mo><mn>6</mn><msqrt><mn>2</mn></msqrt></math><br >Perpendicular Distance of P from <math><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mi> </mi><msqrt><mn>2</mn></msqrt></math><br ><math><mo>∴</mo></math> Area of <math><mi mathvariant=\"normal\">Δ</mi><mi>P</mi><msub><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>Q</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mn>12</mn><mo>×</mo><msqrt><mn>2</mn></msqrt><mo>=</mo><mn>6</mn><msqrt><mn>2</mn></msqrt></math>",
+    "solution_image": null,
+    "topic": "Tangent to circle"
+  },
+  {
+    "question_id": "64b16a24f23ac7d519f9b1b3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "A tangent $P T$ is drawn to the circle $x^{2}+y^{2}=4$ at the point $P(\\sqrt{3}, 1)$. A straight line $L$, perpendicular to $P T$ is a tangent to the circle $(x-3)^{2}+y^{2}-1$.\r\n\r\n<strong> Question:</strong> A common tangent of the two circles is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0nCVO",
+        "text": "$x=4$",
+        "image": null
+      },
+      {
+        "id": "Kifoo",
+        "text": "$y=2$",
+        "image": null
+      },
+      {
+        "id": "JwacO",
+        "text": "$x+\\sqrt{3} y=4$",
+        "image": null
+      },
+      {
+        "id": "LF76h",
+        "text": "$x+2 \\sqrt{2} y=6$",
+        "image": null
+      }
+    ],
+    "correct_answer": "LF76h",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QQHQDexIe4QpBIu0mS-rhYwFoOQq3AnLfPid0Gx6fiQ.original.fullsize.png\"><br>\r\n\r\nFrom the figure it is clear that the intersection point of two direct common tangents lies on $x$-axis.\r\n\r\nAlso $\\Delta P T_{1} C_{1} \\sim \\Delta P T_{2} C_{2}$\r\n\r\n$\\therefore \\quad P C_{1}: P C_{2}=2: 1$\r\n\r\nor $P$ divides $C_{1} C_{2}$ in the ratio $2: 1$ externally\r\n\r\n$\\therefore \\quad$ Coordinates of $P$ are $(6,0)$.\r\n\r\nLet the equation of tangent through $P$ be\r\n\r\n$y=m(x-6)$\r\n\r\nAsit touches $x^{2}+y^{2}=4$\r\n\r\n$\\therefore\\left|\\frac{6 m}{\\sqrt{m^{2}+1}}\\right|=2 \\Rightarrow 36 m^{2}=4\\left(m^{2}+1\\right)$\r\n\r\n$\\therefore \\quad m=\\pm \\frac{1}{2 \\sqrt{2}}$\r\n\r\n$\\therefore \\quad$ Equations of common tangents are\r\n\r\n$y=\\pm \\frac{1}{2 \\sqrt{2}}(x-6)$\r\n\r\nAlso $x=2$ is the common tangent to the two circles.",
+    "solution_image": null,
+    "topic": "Tangent to circle"
+  },
+  {
+    "question_id": "64b16a23f23ac7d519f9b1b2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "A tangent $P T$ is drawn to the circle $x^{2}+y^{2}=4$ at the point $P(\\sqrt{3}, 1)$. A straight line $L$, perpendicular to $P T$ is a tangent to the circle $(x-3)^{2}+y^{2}-1$.\r\n\r\n<strong> Question:</strong> A possible equation of $L$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fYLE5",
+        "text": "$x-\\sqrt{3} y=1$",
+        "image": null
+      },
+      {
+        "id": "BrUVj",
+        "text": "$x+\\sqrt{3} y=1$",
+        "image": null
+      },
+      {
+        "id": "npDjR",
+        "text": "$x-\\sqrt{3} y=-1$",
+        "image": null
+      },
+      {
+        "id": "I9o46",
+        "text": "$x+\\sqrt{3} y=5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "fYLE5",
+    "solution_text": "Equation of tangent $P T$ to the circle $x^{2}+y^{2}=4$ at the point $P(\\sqrt{3}, 1)$ is $x \\sqrt{3}+y=4$ Let the line $L$, perpendicular to tangent $P T$ be $x-y \\sqrt{3}+\\lambda=0$\r\n\r\nAs it is tangent to the circle $(x-3)^{2}+y^{2}=1$ $\\therefore \\quad$ Length of perpendicular from centre of circle to the Tangent $=$ radius of circle.\r\n\r\n$\\Rightarrow\\left|\\frac{3+\\lambda}{2}\\right|=1 \\Rightarrow \\lambda=-1 \\text { or }-5$\r\n\r\n$\\therefore$ Equation of $L$ can be $x-\\sqrt{3} y=1$ or $x-\\sqrt{3} y=5$",
+    "solution_image": null,
+    "topic": "Tangent to circle"
+  },
+  {
+    "question_id": "64b169dff23ac7d519f9af3b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Match the statements in Column I with the properties Column II. \n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/WqEVKx8z2jQTeJCQ2HtKkkAVDBSMLgrVvfEfm8t3x-M.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Q7YEM",
+        "text": "\nA-p, r; B-p, q, s; C-q, r; D-q, s\n",
+        "image": null
+      },
+      {
+        "id": "OmdP5",
+        "text": "\nA-p; B-p, s; C-p; D-q, s\n",
+        "image": null
+      },
+      {
+        "id": "K7aLE",
+        "text": "\nA-p, q; B-p, q; C-q, r; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "vu9Mg",
+        "text": "\nA-r, s; B-q; C-p; D-p, q, s",
+        "image": null
+      }
+    ],
+    "correct_answer": "K7aLE",
+    "solution_text": "(A) When two circles are intersecting they have a common normal and common tangent.\n(B) Two mutually extemal circles have a common normal and common tangent.\n(C) When one circle lies inside of other, then they have a common normal but no common tangent.\n(D) Two branches of a hyperbola have a common normal but no common tangent.",
+    "solution_image": null,
+    "topic": "Tangent to circle"
+  },
+  {
+    "question_id": "64b169ddf23ac7d519f9af2b",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Let $A B C D$ be a quadrilateral with area 18 , with side $A B$ parallel to the side $C D$ and $A B=2 C D$. Let $A D$ be perpendicular to $A B$ and $C D$. If a circle is drawn inside the quadrilateral $A B C D$ touching all the sides, then its radius is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qO42o",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "6lRsM",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "yMVg5",
+        "text": "\n$\\frac{3}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "8U2va",
+        "text": "\n1",
+        "image": null
+      }
+    ],
+    "correct_answer": "6lRsM",
+    "solution_text": "$$\n\\text { } 18=\\frac{1}{2}(3 \\alpha)(2 r) \\Rightarrow \\alpha r=6\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/t_pMgp4UiyFCXUuzb7KvmMfhX6yIJXigJy_YvZXXXZU.original.fullsize.png\"><br>\nLine, $y=-\\frac{2 r}{\\alpha}(x-2 \\alpha)$ is tangent to circle\n$$\n\\begin{aligned}\n(x-r)^2+(y-r)^2 & =r^2 \\\\\n2 \\alpha & =3 r \\text { and } \\alpha=6 \\\\\nr & =2\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n\\frac{1}{2}(x+2 x) \\times 2 r & =18 \\\\\nx r & =6 \\\\\n\\tan \\theta & =\\frac{x-r}{r} \\\\\n\\tan \\left(90^{\\circ}-\\theta\\right) & =\\frac{2 x-r}{r} \\\\\n\\frac{x-r}{r} & =\\frac{r}{2 x-r} \\times(2 x-3 r)=0\n\\end{aligned}\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RYKRVuCPEMy3tbKorSAXw9Jpm6M4NNkl3z1Zw8MBA1Y.original.fullsize.png\"><br>\n$$\nx=\\frac{3 r}{2}\n$$\nFrom Eqs. (i) and (ii), we get\n$$\nr=2\n$$",
+    "solution_image": null,
+    "topic": "Tangent to circle"
+  }
+]

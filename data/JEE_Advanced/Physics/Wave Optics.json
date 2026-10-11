@@ -1,0 +1,556 @@
+[
+  {
+    "question_id": "6a0be51444d287c9361e5cc4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "In a single slit diffraction experiment, a slit of width $(0.016 \\pm 0.002)$ mm is used to measure the wavelength of a monochromatic light source. In the diffraction pattern, the angular distance between the central maximum and first minimum is measured to be $(2^\\circ \\pm 40')$. The value of the fractional error in the measurement of wavelength is:<br>[Given: $\\sin(2^\\circ) = 0.035$]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.46",
+    "solution_text": "For a single slit diffraction, the condition for the first minimum is given by:<br><br>$a \\sin \\theta = \\lambda$<br><br>Taking the natural logarithm on both sides, we get:<br><br>$\\ln \\lambda = \\ln a + \\ln(\\sin \\theta)$<br><br>Differentiating to find the maximum fractional error:<br><br>$\\dfrac{\\Delta \\lambda}{\\lambda} = \\dfrac{\\Delta a}{a} + \\cot \\theta \\Delta \\theta$<br><br>Since $\\theta = 2^\\circ$ is very small, $\\cos \\theta \\approx 1$, which gives $\\cot \\theta \\approx \\dfrac{1}{\\sin \\theta}$.<br><br>Given $\\sin(2^\\circ) = 0.035$, we can approximate the angle in radians as $\\theta \\approx \\sin \\theta = 0.035$ rad.<br><br>The error in the angle is $\\Delta \\theta = 40' = \\left(\\dfrac{40}{60}\\right)^\\circ = \\left(\\dfrac{2}{3}\\right)^\\circ$.<br><br>Converting $\\Delta \\theta$ into radians:<br><br>$\\Delta \\theta = \\dfrac{2}{3} \\times \\left(\\dfrac{0.035}{2}\\right) = \\dfrac{0.035}{3}$ rad<br><br>The fractional error in the angular term is:<br><br>$\\cot \\theta \\Delta \\theta \\approx \\dfrac{\\Delta \\theta}{\\sin \\theta} = \\dfrac{\\dfrac{0.035}{3}}{0.035} = \\dfrac{1}{3}$<br><br>The fractional error in the slit width is:<br><br>$\\dfrac{\\Delta a}{a} = \\dfrac{0.002}{0.016} = \\dfrac{1}{8}$<br><br>Substituting these values into the error equation:<br><br>$\\dfrac{\\Delta \\lambda}{\\lambda} = \\dfrac{1}{8} + \\dfrac{1}{3} = \\dfrac{3 + 8}{24} = \\dfrac{11}{24}$<br><br>Answer: $0.46$",
+    "solution_image": null,
+    "topic": "Diffraction of Light"
+  },
+  {
+    "question_id": "685102bf6bba689a3eb09c8a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A single slit diffraction experiment is performed to determine the slit width using the equation, $\\frac{b d}{D}=m \\lambda$, where $b$ is the slit width, $D$ the shortest distance between the slit and the screen, $d$ the distance between the $m^{\\text {th }}$ diffraction maximum and the central maximum, and $\\lambda$ is the wavelength. $D$ and $d$ are measured with scales of least count of 1 cm and 1 mm, respectively. The values of $\\lambda$ and $m$ are known precisely to be 600 nm and 3, respectively. The maximum absolute error (in $\\mu \\mathrm{m}$) in the value of $b$ estimated using the diffraction maximum that occurs for $m=3$ with $d=5 \\mathrm{~mm}$ and $D=1 \\mathrm{~m}$ is ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "94.5",
+    "solution_text": "Original question asked about absolute error which can be both minimum or maximum, we added word maximum to make it clear for students\n$\\begin{aligned} & \\mathrm{b}=\\frac{\\mathrm{m} \\lambda \\mathrm{D}}{\\mathrm{d}}=360 \\mu \\mathrm{~m} \\\\ & \\mathrm{~b}_{\\max }=\\frac{3 \\times 600 \\times 10^{-3} \\times 1.01}{4 \\times 10^{-3}} \\mu \\mathrm{~m}=454.5 \\mu \\mathrm{~m} \\\\ & \\mathrm{~b}_{\\min }=\\frac{3 \\times 600 \\times 10^{-3} \\times 0.99}{6 \\times 10^{-3}} \\mu \\mathrm{~m}=297 \\mu \\mathrm{~m}\\end{aligned}$\nMaximum value of b gives error, $\\Delta \\mathrm{b}_1=94.5 \\mu \\mathrm{~m}$\nMinimum value of $b$ gives error, $\\Delta b_2=63 \\mu \\mathrm{~m}$\n$\\therefore$ We always report the largest error, hence correct answer should be $94.5 \\mu \\mathrm{~m}$",
+    "solution_image": null,
+    "topic": "Diffraction of Light"
+  },
+  {
+    "question_id": "64b16a5ff23ac7d519f9b3d0",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>Two coherent monochromatic point sources <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> of wavelength <math><mi>λ</mi><mo>=</mo><mn>600</mn><mi>n</mi><mi>m</mi></math> are placed symmetrically on either side of the center of the circle as shown. The sources are separated by a distance <math><mi>d</mi><mo>=</mo><mn>1.8</mn><mi> </mi><mi>m</mi><mi>m</mi><mo>.</mo></math> This arrangement produces interference fringes visible as alternate bright and dark spots on the circumference of the circle. The angular separation between two consecutive bright spots is <math><mi mathvariant=\"normal\">Δ</mi><mi>θ</mi></math> . Which of the following options is/are correct?<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ccatdytajcpzbtvqxgmfxzrtpkenvlonhntmlqacpkyksifkai.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jZibr",
+        "text": "A dark spot will be formed at the point  <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "oTv7V",
+        "text": "The angular separation between two consecutive bright spots decreases as we move from  <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  to  <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  along the first quadrant",
+        "image": null
+      },
+      {
+        "id": "UlKRn",
+        "text": "At <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> the order of the fringe will be maximum",
+        "image": null
+      },
+      {
+        "id": "RwB2k",
+        "text": "The total number of fringes produced between <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> in the first quadrant is close to 3000",
+        "image": null
+      }
+    ],
+    "correct_answer": "RwB2k",
+    "solution_text": "<p>At point <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>;</mo></math></p><p><math><mi mathvariant=\"normal\">&#916;</mi><mi>x</mi><mo>=</mo><mi>d</mi><mo>=</mo><mn>1.8</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi><mo>=</mo><mn>3000</mn><mi>&#160;</mi><mi>&#955;</mi></math></p><p>Hence a (bright fringe) will be formed at&nbsp;<math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math></p><p>Now &nbsp; <math><mi mathvariant=\"normal\">&#916;</mi><mi>x</mi><mo>=</mo><mi>d</mi><mrow><mrow><mi mathvariant=\"normal\">&#160;cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>=</mo><mi>n</mi><mi>&#955;</mi></math></p><p><math><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mi>n</mi><mi>&#955;</mi></mrow><mrow><mi>d</mi></mrow></mfrac></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi></math>&nbsp;is with the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mi>a</mi><mi>x</mi><mi>i</mi><mi>s</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi>sin</mi><mi>&#952;</mi><mo>&#160;</mo><mi mathvariant=\"normal\">&#916;</mi><mi>&#952;</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>n</mi></mrow></mfenced><mfrac><mi>&#955;</mi><mi>d</mi></mfrac></math></p><p><math><mi mathvariant=\"normal\">&#916;</mi><mi>&#952;</mi><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>n</mi></mrow></mfenced><mi>&#160;</mi><mfrac><mrow><mi>&#955;</mi></mrow><mrow><mi>d</mi><mrow><mrow><mi mathvariant=\"normal\">&#160;sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#952;</mi></mrow></mrow></mrow></mfrac></math></p><p><math><mi mathvariant=\"normal\">&#916;</mi><mi>&#952;</mi></math>&nbsp;increases as&nbsp;<math><mi>&#952;</mi></math>&nbsp;decreases</p><p>At&nbsp;&nbsp; <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo></math>&nbsp; the order of fringe will be maximum.</p><p>For total no. of bright fringes&nbsp;<math><mi>d</mi><mo>=</mo><mi>n</mi><mi>&#955;</mi><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>n</mi><mo>=</mo><mn>3000</mn></math></p><p><math><mo>&#8756;</mo></math>&nbsp;&nbsp; total no. of fringes&nbsp;<math><mo>=</mo><mn>3000</mn></math></p>",
+    "solution_image": null,
+    "topic": "Interference of Light"
+  },
+  {
+    "question_id": "64b16a53f23ac7d519f9b362",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<p>While conducting the Young's double slit experiment, a student replaced the two slits with a large opaque plate in the x-y plane containing two small holes that act as two coherent point sources <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> emitting light of wavelength 600 nm. The student mistakenly placed the screen parallel to the x-z plane (for z > 0) at a distance D = 3m from the mid-point of <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> , as shown schematically in the figure. The distance between the sources d = 0.6003 mm. The origin O is at the intersection of the screen and the line joining <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> . Which of the following is (are) true of the intensity pattern on the screen?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_7.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "h4aLM",
+        "text": "Hyperbolic bright and dark bands with foci symmetrically placed about O in the x-direction",
+        "image": null
+      },
+      {
+        "id": "QBf5Q",
+        "text": "Semi circular bright and dark bands centered at point O",
+        "image": null
+      },
+      {
+        "id": "eT1xp",
+        "text": "The region very close to the point O will be dark",
+        "image": null
+      },
+      {
+        "id": "BoJcC",
+        "text": "Straight bright and dark bands parallel to the x-axis",
+        "image": null
+      }
+    ],
+    "correct_answer": "eT1xp",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_7_Ans_.jpg\"/><br >Path difference at point O = d = .6003 mm = 600300 nm<br ><math><mo>=</mo><mfrac><mrow><mn>2001</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>600</mn><mi>n</mi><mi>m</mi></mrow></mfenced><mo>=</mo><mn>1000</mn><mi>λ</mi><mo>+</mo><mfrac><mrow><mi>λ</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi></math> minima form at point O<br >Line <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and screen are <math><mo>⊥</mo></math> to each other so fringe pattern is circular (semi-circular because only half of screen is available)",
+    "solution_image": null,
+    "topic": "Interference of Light"
+  },
+  {
+    "question_id": "6a0be51444d287c9361e5cc5",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "As shown in the figure, a ray $AB$ of unpolarized light enters from water of refractive index $n_w = 4/3$ into a medium of refractive index $n_p = 4/\\sqrt{3}$ after passing through a glass plate of refractive index $n_g = 1.5$ and a layer of water. At a particular incident angle $i$ the reflected ray $CD$ is polarized in the direction as shown in the figure. The value of $i$ (in degrees) is:<br><img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q30_d1.png\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "60",
+    "solution_text": "Let the angle of incidence at the first interface (water to glass) be $i$.<br><br>By applying Snell's law at the successive parallel interfaces, we can find the angle of incidence at the interface where the reflection occurs (water to medium $n_p$).<br><br>For the first interface (water to glass):<br>$n_w \\sin i = n_g \\sin r_1$<br><br>For the second interface (glass to water):<br>$n_g \\sin r_1 = n_w \\sin r_2$<br><br>From the above two equations, we get:<br>$n_w \\sin i = n_w \\sin r_2 \\implies r_2 = i$<br><br>Thus, the angle of incidence at the third interface (water to medium $n_p$) is also $i$.<br><br>The problem states that the reflected ray is completely polarized with its electric field perpendicular to the plane of incidence (indicated by the dots on ray $CD$). This complete polarization upon reflection occurs when the light is incident at Brewster's angle $\\theta_B$.<br><br>According to Brewster's law for the interface between water and medium $n_p$:<br>$\\tan \\theta_B = \\dfrac{n_p}{n_w}$<br><br>Since the angle of incidence at this interface is $i$, we have $i = \\theta_B$. Substituting the given refractive indices:<br>$\\tan i = \\dfrac{4/\\sqrt{3}}{4/3}$<br><br>$\\tan i = \\dfrac{3}{\\sqrt{3}} = \\sqrt{3}$<br><br>Therefore, the angle of incidence is:<br>$i = 60^\\circ$<br><br>Answer: $60$",
+    "solution_image": null,
+    "topic": "Polarization of Light"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c95",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "In the List-I, four optical effects are mentioned. The physical phenomena of light which are essential to describe these optical effects are given in List-II. Choose the option which describes the correct match between the entries in List-I to those in List-II.<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">List-I</th><th style=\"border: 1px solid black; padding: 10px;\">List-II</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(P) Colorful sky in north polar region (Aurora Borealis)</td><td style=\"border: 1px solid black; padding: 10px;\">(1) Dispersion and reflection</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(Q) Partially polarized sun light</td><td style=\"border: 1px solid black; padding: 10px;\">(2) Total internal reflection</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(R) Rainbow</td><td style=\"border: 1px solid black; padding: 10px;\">(3) Diffraction</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(S) Dark and bright fringes</td><td style=\"border: 1px solid black; padding: 10px;\">(4) Scattering of light by molecules in the atmosphere</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\"></td><td style=\"border: 1px solid black; padding: 10px;\">(5) Emission of radiation from oxygen and nitrogen atoms excited by charged particles</td></tr></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GAGfA",
+        "text": "P$\\rightarrow$5, Q$\\rightarrow$4, R$\\rightarrow$1, S$\\rightarrow$3",
+        "image": null
+      },
+      {
+        "id": "U0pky",
+        "text": "P$\\rightarrow$4, Q$\\rightarrow$2, R$\\rightarrow$1, S$\\rightarrow$3",
+        "image": null
+      },
+      {
+        "id": "QrRIm",
+        "text": "P$\\rightarrow$4, Q$\\rightarrow$1, R$\\rightarrow$2, S$\\rightarrow$3",
+        "image": null
+      },
+      {
+        "id": "7Jqfx",
+        "text": "P$\\rightarrow$5, Q$\\rightarrow$4, R$\\rightarrow$1, S$\\rightarrow$2",
+        "image": null
+      }
+    ],
+    "correct_answer": "GAGfA",
+    "solution_text": "The colorful sky in the north polar region, known as Aurora Borealis, is caused by the emission of radiation from oxygen and nitrogen atoms in the upper atmosphere when they are excited by charged particles from the solar wind. Thus, P $\\rightarrow$ 5.<br><br>Sunlight scattered by molecules in the atmosphere becomes partially polarized in a direction perpendicular to the incident light. Thus, Q $\\rightarrow$ 4.<br><br>A rainbow is formed due to the dispersion of sunlight and its internal reflection by water droplets in the atmosphere. Thus, R $\\rightarrow$ 1.<br><br>Dark and bright fringes are the characteristic patterns formed due to the superposition of light waves, which occurs in phenomena like interference and diffraction. Thus, S $\\rightarrow$ 3.<br><br>The correct matching is P $\\rightarrow$ 5, Q $\\rightarrow$ 4, R $\\rightarrow$ 1, S $\\rightarrow$ 3.<br><br>Answer: P$\\rightarrow$5, Q$\\rightarrow$4, R$\\rightarrow$1, S$\\rightarrow$3",
+    "solution_image": null,
+    "topic": "Polarization of Light"
+  },
+  {
+    "question_id": "6696579d623b9ed1d463746e",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "A point source $\\mathrm{S}$ emits unpolarized light uniformly in all directions. At two points $\\mathrm{A}$ and $\\mathrm{B}$, the ratio $r=I_A / I_B$ of the intensities of light is 2. If a set of two polaroids having $45^{\\circ}$ angle between their pass-axes is placed just before point $\\mathrm{B}$, then the new value of $r$ will be ______",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 8,
+    "solution_text": "\\(I \\propto \\frac{1}{l^2}\\)\r\nWhere I: distance from point source.\r\n\\(\\begin{aligned}\r\n& \\Rightarrow \\frac{I_A}{I_B}=\\frac{I_B^2}{I_A^2}=2 \\\\\r\n& \\Rightarrow I_B=\\sqrt{2} I_A .\r\n\\end{aligned}\\)\r\nAlso, due to polaroids:\r\n\\(\\begin{aligned}\r\n& I_B^{\\prime}=\\frac{I_B}{2} \\cos ^2 45^{\\circ}=\\frac{I_B}{4} \\\\\r\n& \\Rightarrow I_B^{\\prime}=\\frac{I_B}{4} \\ldots \\text { (2) } \\\\\r\n& \\Rightarrow \\text { Ratio becomes } 4 \\text { times. } \\\\\r\n& \\Rightarrow r_{\\text {new }}=8\r\n\\end{aligned}\\)",
+    "solution_image": null,
+    "topic": "Polarization of Light"
+  },
+  {
+    "question_id": "64b16a9bf23ac7d519f9b5f6",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>A double slit setup is shown in the figure. One of the slits is in medium&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> of refractive index <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>2</mn></msub></math>. The other slit is at the interface of this medium with another medium&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> of refractive index <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>1</mn></msub><mfenced><mrow><mo>&ne;</mo><msub><mi>n</mi><mn>2</mn></msub></mrow></mfenced></math>. The line joining the slits is perpendicular to the interface and the distance between the slits is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>. The slit widths are much smaller than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>. A monochromatic parallel beam of light is incident on the slits from medium <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>. A detector is placed in medium <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;at a large distance from the slits, and at an angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&theta;</mi></math>&nbsp;from the line joining them, so that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&theta;</mi></math>&nbsp;equals the angle of refraction of the beam. Consider two approximately parallel rays from the slits received by the detector.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/56cd4669-7b1d-4b72-b332-904ce25a59c4-image.png\" style=\"width: 222px; height: 250px;\" />​​​​​​​</p><p>Which of the following statement(s) is(are) correct?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ETtxl",
+        "text": "The phase difference between the two rays is independent of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "qkb9e",
+        "text": "The two rays interfere constructively at the detector.",
+        "image": null
+      },
+      {
+        "id": "OcI0v",
+        "text": "The phase difference between the two rays depends on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>1</mn></msub></math> but is independent of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Gf8L3",
+        "text": "The phase difference between the two rays vanishes only for certain values of d and the angle of incidence of the beam, with&nbsp; $\\theta$ being the corresponding angle of refraction.",
+        "image": null
+      }
+    ],
+    "correct_answer": "qkb9e",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c029035a-76d4-4930-b83c-4d7cffef5ee1-image.png\" style=\"width: 267px; height: 230px;\" /></p><p>From the above figure,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>=</mo><mi>d</mi><mi>tan</mi><mi>&#952;</mi></math></p><p>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>C</mi><mo>=</mo><mi>A</mi><mi>B</mi><mi>sin</mi><mi>&#945;</mi><mo>=</mo><mfenced><mi>d</mi></mfenced><mfenced><mrow><mi>tan</mi><mi>&#952;</mi></mrow></mfenced><mfenced><mrow><mi>sin</mi><mi>&#945;</mi></mrow></mfenced></math></p><p>Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>D</mi><mo>=</mo><mi>A</mi><mi>B</mi><mi>sin</mi><mi>&#952;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Path difference (in vaccum)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>n</mi><mn>1</mn></msub><mi>B</mi><mi>C</mi><mo>-</mo><msub><mi>n</mi><mn>2</mn></msub><mi>A</mi><mi>D</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>n</mi><mn>1</mn></msub><mfenced><mrow><mi>A</mi><mi>B</mi></mrow></mfenced><mi>sin</mi><mi>&#945;</mi><mo>-</mo><msub><mi>n</mi><mn>2</mn></msub><mfenced><mrow><mi>A</mi><mi>B</mi><mi>sin</mi><mi>&#952;</mi></mrow></mfenced></math></p><p>From snell&#39;s law&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>1</mn></msub><mi>sin</mi><mi>&#945;</mi><mo>=</mo><msub><mi>n</mi><mn>2</mn></msub><mi>sin</mi><mi>&#952;</mi></math>. Therefore, path difference</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>A</mi><mi>B</mi><mfenced><mrow><msub><mi>n</mi><mn>1</mn></msub><mi>sin</mi><mi>&#945;</mi><mo>-</mo><msub><mi>n</mi><mn>2</mn></msub><mi>sin</mi><mi>&#952;</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mfenced><mi>A</mi></mfenced><mo>,</mo><mfenced><mi>B</mi></mfenced></math>&nbsp;are correct</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>C</mi></mfenced><mo>,</mo><mfenced><mi>D</mi></mfenced></math>&nbsp;are incorrect</p>",
+    "solution_image": null,
+    "topic": "Wave Theory and Wavefronts"
+  },
+  {
+    "question_id": "64b16a7cf23ac7d519f9b4da",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>A parallel beam of light strikes a piece of transparent glass having cross section as shown in the figure below. Correct shape of the emergent wavefront will be (figures are schematic and not drawn to scale)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/567fc123-e5a5-490e-8c50-90ec72da44aa-image.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LEihE",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9e42f711-cdfd-4898-939d-0119419a539e-image.png\"/></p>",
+        "image": null
+      },
+      {
+        "id": "fotdB",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c9280199-2276-44fb-8ab7-146c626a6812-image.png\"/></p>",
+        "image": null
+      },
+      {
+        "id": "EK6Fi",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/62870fd9-6cb0-494f-b207-94cd3a2e1808-image.png\"/></p>",
+        "image": null
+      },
+      {
+        "id": "xqF2n",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0f9fe505-7663-4486-8ae0-bf21b83a9667-image.png\"/></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LEihE",
+    "solution_text": "As we can see that the thickness of the transparent glass is minimum for the rays which are in the middle portion. So these will have the minimum optical path and the rays on the extreme ends will have to cover the maximum optical path length. Hence, the wavefront of wave 2 will be ahead of waves 1 and 3.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0174563e-b1bf-4db0-9a6b-4130b956b25e-6252446.jpeg\"/>",
+    "solution_image": null,
+    "topic": "Wave Theory and Wavefronts"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cbc",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "In a Young's double slit experiment, a combination of two glass wedges $A$ and $B$, having refractive indices 1.7 and 1.5, respectively, are placed in front of the slits, as shown in the figure. The separation between the slits is $d=2 \\mathrm{~mm}$ and the shortest distance between the slits and the screen is $D=2 \\mathrm{~m}$. Thickness of the combination of the wedges is $t=12 \\mu \\mathrm{~m}$. The value of $l$ as shown in the figure is 1 mm . Neglect any refraction effect at the slanted interface of the wedges. Due to the combination of the wedges, the central maximum shifts (in mm ) with respect to O by ______\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SDMlXaQ3b5VLEQRi-d8HhoPpwryep2uZyoSCe0VTkWE.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.2",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/75EU-oqEDXmqKgJJPa8R2MhcfOuiac-S46egzPdBhXQ.original.fullsize.png\"><br>$\\begin{aligned} & x+y=12 \\mu m \\\\ & \\frac{4}{12}=\\frac{1}{x} \\\\ & x=3 \\mu m \\\\ & y=6 \\mu m\\end{aligned}$\n$\\begin{aligned} & \\therefore \\Delta=\\frac{y d}{D}-\\left(\\mu_B-1\\right) x-\\left(\\mu_A-1\\right) y+\\left(\\mu_B-1\\right) y+\\left(\\mu_A-1\\right) x \\\\ & \\frac{-y d}{D}=-0.5 \\times 3-0.7 \\times 9+0.5 \\times 9+0.7 \\times 3 \\\\ & \\frac{-y d}{D}=-0.5 \\times 6-0.7 \\times 6 \\\\ & \\Rightarrow \\frac{-y d}{D}=-1.2 \\mu \\mathrm{~m} \\\\ & \\Rightarrow y=\\frac{1.2 \\times D}{d}=\\frac{1.2 \\times 2}{2 \\times 10^{-3}} \\times 10^{-6} \\\\ & =1.2 \\mathrm{~mm}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Young's Double Slit Experiment"
+  },
+  {
+    "question_id": "66965ddcd603121f43a41da0",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "In a Young's double slit experiment, each of the two slits A and B, as shown in the figure, are oscillating about their fixed center and with a mean separation of $0.8 \\mathrm{~mm}$. The distance between the slits at time $t$ is given by $d=(0.8+0.04 \\sin \\omega t) \\mathrm{mm}$, where $\\omega=0.08 \\mathrm{rad} \\mathrm{s}^{-1}$. The distance of the screen from the slits is $1 \\mathrm{~m}$ and the wavelength of the light used to illuminate the slits is $6000 Ã…$. The interference pattern on the screen changes with time, while the central bright fringe (zeroth fringe) remains fixed at point $O$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/j1RUbFY6tbieebKo0ECGf1xdjFYzFP6CYbKQDE7tC7w.original.fullsize.png\">\nThe maximum speed in $\\mu \\mathrm{m} / \\mathrm{s}$ at which the $8^{\\text {th }}$ bright fringe will move is ________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 24,
+    "solution_text": "$\\begin{aligned}\n& \\mathrm{y}=\\mathrm{n} \\cdot \\frac{\\lambda \\mathrm{D}}{\\mathrm{d}} \\\\\n& \\mathrm{v}=\\frac{\\mathrm{dy}}{\\mathrm{dt}}=-\\mathrm{n} \\cdot \\frac{\\lambda \\cdot \\mathrm{d}}{\\mathrm{d}^2} \\cdot \\frac{d(d)}{d t} \\\\\n& d=0.8+0.04 \\sin \\omega t \\\\\n& \\frac{d(d)}{d t}=0.04 \\omega \\cos \\omega t\n\\end{aligned}$\n$\\text { for } \\mathrm{v} \\rightarrow \\max \\Rightarrow \\frac{\\mathrm{d}(\\mathrm{d})}{\\mathrm{dt}} \\rightarrow \\max \\text {. }$\nFor $\\frac{\\mathrm{d}(\\mathrm{d})}{\\mathrm{dt}} \\rightarrow \\max$.\n$\\begin{aligned}\n& \\cos \\omega \\mathrm{t}=1 \\Rightarrow \\sin \\omega \\mathrm{t}=0 \\\\\n& \\Rightarrow\\left(\\frac{\\mathrm{d}(\\mathrm{d})}{\\mathrm{dt}}\\right)_{\\max }=0.04 \\\\\n& \\Rightarrow \\mathrm{d}=0.8 \\mathrm{~mm} \\\\\n& \\mathrm{v}_{\\max }=\\frac{8 \\times 6000 \\times 10^{-10} \\times 1 \\times 0.04 \\times 0.08}{0.8 \\times 0.8 \\times 10^{-6} \\times 10^{-3}}=24 \\mu \\mathrm{m} / \\mathrm{s} .\n\\end{aligned}$\n(range is from 23.5 to 24.5)",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "66965ddbd603121f43a41a94",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Paragraph I: In a Young's double slit experiment, each of the two slits A and B, as shown in the figure, are oscillating about their fixed center and with a mean separation of $0.8 \\mathrm{~mm}$. The distance between the slits at time $t$ is given by $d=(0.8+0.04 \\sin \\omega t) \\mathrm{mm}$, where $\\omega=0.08 \\mathrm{rad} \\mathrm{s}^{-1}$. The distance of the screen from the slits is $1 \\mathrm{~m}$ and the wavelength of the light used to illuminate the slits is $6000 Ã…$. The interference pattern on the screen changes with time, while the central bright fringe (zeroth fringe) remains fixed at point $O$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/j1RUbFY6tbieebKo0ECGf1xdjFYzFP6CYbKQDE7tC7w.original.fullsize.png\">\nThe $8^{\\text {th }}$ bright fringe above the point $\\mathrm{O}$ oscillates with time between two extreme positions. The separation between these two extreme positions, in micrometer $(\\mu \\mathrm{m})$, is ___________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 600,
+    "solution_text": "$\\begin{aligned} & y=n \\cdot\\left(\\frac{\\lambda D}{d}\\right) \\\\ & \\text { for } 8^{\\text {th }} \\text { fringe } \\\\ & y=8 \\frac{\\lambda D}{d} \\\\ & y_{\\max }=8 \\frac{\\lambda D}{d_{\\min }} \\\\ & y_{\\min }=8 \\frac{\\lambda D}{d_{\\max }} \\\\ & y_{\\max }-y_{\\min }=8 \\lambda D\\left[\\frac{1}{d_{\\min }}-\\frac{1}{d_{\\max }}\\right] \\\\ & \\lambda=6000 Ã…\\end{aligned}$\n$\\begin{aligned} & \\mathrm{D}=1 \\mathrm{~m} \\\\ & \\mathrm{~d}_{\\max }=0.34 \\mathrm{~mm} \\\\ & \\mathrm{~d}_{\\text {min }}=0.76 \\mathrm{~mm} \\\\ & y_{\\max }-y_{\\min }=8 \\times 6000 \\times 10^{-10} \\times 1\\left[\\frac{1}{0.76 \\times 10^{-3}}-\\frac{1}{0.84 \\times 10^{-3}}\\right] \\\\ & =8 \\times 6 \\times 10^{-4} \\times\\left[\\frac{0.08}{0.76 \\times 0.84}\\right]=601.5 \\mu \\mathrm{m} \\\\ & \\end{aligned}$\n(answer range is from 598 to 602 )",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b16a76f23ac7d519f9b4a4",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "<p>In a Young's double slit experiment, the slit separation <math><mi mathvariant=\"normal\">d</mi></math> is <math><mn>0.3</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math> and the screen distance <math><mi mathvariant=\"normal\">D</mi></math> is <math><mn>1</mn><mi mathvariant=\"normal\">m</mi><mo>.</mo></math> A parallel beam of light of wavelength <math><mn>600</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></math> is incident on the slits at angle <math><mi>α</mi></math> as shown in figure. On the screen, the point <math><mi mathvariant=\"normal\">O</mi></math> is equidistant from the slits and distance <math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">O</mi></math> is <math><mn>11.0</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi><mo>.</mo></math> Which of the following statement(s) is/are correct?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/45b41541-0720-460f-85e8-7343f8070828-image18.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AGsbp",
+        "text": "For <math><mi mathvariant=\"normal\">α</mi><mo>=</mo><mfrac><mrow><mn>0.36</mn></mrow><mrow><mi mathvariant=\"normal\">π</mi></mrow></mfrac></math> degree, there will be destructive interference at point <math><mi mathvariant=\"normal\">O</mi><mo>.</mo></math>",
+        "image": null
+      },
+      {
+        "id": "8OmY9",
+        "text": "Fringe spacing depends on <math><mi mathvariant=\"normal\">α</mi></math>",
+        "image": null
+      },
+      {
+        "id": "wURHp",
+        "text": "For <math><mi mathvariant=\"normal\">α</mi><mo>=</mo><mfrac><mrow><mn>0.36</mn></mrow><mrow><mi mathvariant=\"normal\">π</mi></mrow></mfrac></math> degree, there will be destructive interference at point <math><mi mathvariant=\"normal\">P</mi></math>",
+        "image": null
+      },
+      {
+        "id": "OlCxT",
+        "text": "For <math><mi mathvariant=\"normal\">α</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> there will be constructive interference at point <math><mi mathvariant=\"normal\">P</mi><mo>.</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wURHp",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/24a7979e-8596-4e05-a78f-569d372f2f6b-image19.png\"/> <br/>Path difference at <math><mi>“</mi><mi>P</mi><mi>”</mi></math> , <math><mo>∆</mo><mi>x</mi><mo>=</mo><mi>d</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>α</mi><mo>+</mo><mi>d</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mrow></math> <br/><math><mtable><mtr><mtd><mi>θ</mi><mo>,</mo><mi> </mi><mi>α</mi><mo>:</mo><mi> </mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mo>,</mo></mtd><mtd><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mo>≅</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mo>=</mo><mfrac><mrow><mi>y</mi></mrow><mrow><mi>D</mi></mrow></mfrac></mrow></mrow></mrow></mrow></mtd></mtr></mtable></math> and <math><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>α</mi><mo>≈</mo><mi>α</mi></mrow></mrow></math> <br/><math><mo>⇒</mo><mo>∆</mo><mi>x</mi><mo>=</mo><mi>d</mi><mi>α</mi><mo>+</mo><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>D</mi></mrow></mfrac></math> <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced><mi> </mi><mo>∆</mo><mi>x</mi><mo>=</mo><mn>3</mn><mi> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi><mo>×</mo><mfrac><mrow><mn>0.36</mn></mrow><mrow><mi>π</mi></mrow></mfrac><mo>×</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>180</mn></mrow></mfrac><mo>+</mo><mn>0</mn><mo>=</mo><mn>600</mn><mi> </mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></math> <br/><math><mn>600</mn><mi> </mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi><mo>=</mo><mi>n</mi><mi>λ</mi></math> <br/><math><mi>n</mi><mo>=</mo><mn>1</mn></math> <br/>Constructive interference <math><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> is incorrect <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math> Fringe width does not depend on <math><mi>α</mi><mo>.</mo><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math> is incorrect <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced><mi> </mi><mo>∆</mo><mi>x</mi><mo>=</mo><mn>0.3</mn><mi> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi><mo>×</mo><mfrac><mrow><mn>0.36</mn></mrow><mrow><mi>π</mi></mrow></mfrac><mo>×</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>180</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>0.3</mn><mi> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi><mo>×</mo><mn>11</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1000</mn></mrow></mfrac><mo>=</mo><mn>39</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math> <br/>Now, <math><mo>∆</mo><mi>x</mi><mo>=</mo><mn>39</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>×</mo><mfrac><mrow><mn>600</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>9</mn></mrow></msup><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br/><math><mo>⇒</mo><mi>n</mi><mo>=</mo><mn>7</mn></math> <br/>Destructive interference happened <math><mo>⇒</mo></math> correct <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced><mi> </mi><mtable><mtr><mtd><mi>α</mi><mo>=</mo><mn>0</mn></mtd><mtd><mo>∴</mo><mo>∆</mo><mi>x</mi><mo>=</mo><mrow><mrow><mi>d</mi><mi>y</mi></mrow><mo>/</mo><mrow><mi>D</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mn>0.3</mn><mo>×</mo><mn>11</mn></mrow><mrow><mn>1000</mn></mrow></mfrac><mo>=</mo><mn>33</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></mtd></mtr></mtable></math> <br/><math><mo>∆</mo><mi>x</mi></math> in terms of <math><mi>λ</mi><mo>=</mo><mfrac><mrow><mn>33</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></mrow><mrow><mn>600</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow></mfrac><mi>λ</mi><mo>=</mo><mfrac><mrow><mn>11</mn><mi>λ</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br/>as <math><mo>∆</mo><mi>x</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mfrac><mrow><mi>λ</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br/>There will be destructive interference. <math><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced></math> is incorrect.",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b16a40f23ac7d519f9b2b4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>A Young's double slit interference arrangement with slits <math><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is immersed in water (refractive index <math><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> ) as shown in the figure. The positions of maxima on the surface of water are given by <math><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup></math> , where <math><mi mathvariant=\"normal\">λ</mi></math> is the wavelength of light in air (refractive index = 1), <math><mn>2</mn><mi mathvariant=\"normal\">d</mi></math> is the separation between the slits and m is an integer. The value of p is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image7-02bc2b40-7a0e-4674-b456-d1e51f17fe77.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image8-cc5ae708-aa45-4e24-92c3-2727ed6c5260.jpg\"/> <br > <math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msqrt><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msqrt><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> <br > <math><mo>∆</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced><msqrt><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">λ</mi></math> <br > <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msqrt><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">λ</mi></math> <br > <math><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>=</mo><mn>9</mn><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br > <math><mo>∴</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi><mo>=</mo><mn>3</mn></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b16a33f23ac7d519f9b23e",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "A light source, which emits two wavelengths <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>400</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></math> and <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>600</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></math> , is used in a Young&#39;s double slit experiment. If recorded fringe widths for <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are <math><msub><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and the number of fringes for them within a distance y on one side of the central maximum are <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , respectively, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9X03N",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Rf0JU",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "qVZ1k",
+        "text": "From the central maximum,  <math><msup><mrow><mn>3</mn></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">d</mi></mrow></msup></math>  maximum of  <math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  overlaps with  <math><msup><mrow><mn>5</mn></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math>  minimum of  <math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Wz6yR",
+        "text": "The angular separation of fringes for  <math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  is greater than  <math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "qVZ1k",
+    "solution_text": "<math><mi mathvariant=\"normal\">β</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">D</mi><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac></math> <br > <math><mo>∵</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >Also  <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >Also  <math><mn>3</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">D</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>600</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mo>×</mo><mn>5</mn><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">D</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">d</mi></mrow></mfrac></mrow></mfenced><mn>400</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></math> <br >Angular width  <math><mi mathvariant=\"normal\">θ</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b16a25f23ac7d519f9b1c4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "In the Young&#39;s double slit experiment using a monochromatic light of wavelength <math> <mrow> <mi>&#955;</mi> </mrow> </math>, the path difference ( in terms of an integer <math> <mrow> <mi>n</mi> </mrow> </math> ) corresponding to any point having half the peak intensity is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "klHEm",
+        "text": "<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mfrac> <mrow> <mi>&lambda;</mi> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "KpBim",
+        "text": "<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mfrac> <mrow> <mi>&lambda;</mi> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "hZXuP",
+        "text": "<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mfrac> <mrow> <mi>&lambda;</mi> </mrow> <mrow> <mn>8</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "kesjr",
+        "text": "<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mfrac> <mrow> <mi>&lambda;</mi> </mrow> <mrow> <mn>16</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "KpBim",
+    "solution_text": "<math> <mrow> <msub> <mtext>I</mtext> <mtext>max</mtext> </msub> <mo>=</mo> <mn>4</mn> <mtext>I ​</mtext></mrow></math><br /><math> <mrow> <mo>&there4;&nbsp;&nbsp;&nbsp;&nbsp;</mo> <mn>2</mn> <mtext>I</mtext> <mo>=</mo> <mn>2</mn> <mtext>I</mtext> <mo>+</mo> <mn>2</mn> <mtext>I</mtext> <mo>cos</mo> <mi>&theta;</mi> </mrow> </math><br /><math> <mrow> <mtext>cos&nbsp;</mtext> <mi>&theta;</mi> <mo>=</mo> <mn>0</mn> <mo>&rArr;</mo> <mi>&theta;</mi> <mo>=</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mfrac> <mrow> <mi>&pi;</mi> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mn>2</mn> <mi>&pi;</mi> </mrow> <mrow> <mi>&lambda;</mi> </mrow> </mfrac> <mo>x</mo> <mo>&nbsp;=&nbsp;</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mfrac> <mrow> <mi>&pi;</mi> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mtext>x</mtext> <mo>=</mo> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mi>&lambda;</mi> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b16a19f23ac7d519f9b14e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Young's double slit experiment is carried out by using green, red and blue light, one color at a time. The fringe widths recorded are $\\beta_{G}, \\beta_{R}$ and $\\beta_{B}$, respectively. Then,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "R97w5",
+        "text": "$\\beta_{G}>\\beta_{B}>\\beta_{R}$",
+        "image": null
+      },
+      {
+        "id": "5Z9v8",
+        "text": "$\\beta_{B}>\\beta_{G}>\\beta_{R}$",
+        "image": null
+      },
+      {
+        "id": "10V5E",
+        "text": "$\\beta_{R}>\\beta_{B}>\\beta_{G}$",
+        "image": null
+      },
+      {
+        "id": "U2euN",
+        "text": "$\\beta_{R}>\\beta_{G}>\\beta_{B}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "U2euN",
+    "solution_text": "We know that fringe width, $\\beta=\\frac{\\lambda D}{d}$ $\\because \\quad \\lambda_{R}>\\lambda_{\\mathrm{G}}>\\lambda_{B} \\quad \\therefore \\beta_{R}>\\beta_{G}>\\beta_{B}$",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b169f5f23ac7d519f9b008",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Column I shows four situations of standard Young's double slit arrangement with the screen placed far away from the slits $S_1$ and $S_2$. In each of these cases $S_1 P_0=S_2 P_0$, $S_1 P_1-S_2 P_1=\\frac{\\lambda}{4}$ and $S_1 P_2-S_2 P_2=\\frac{\\lambda}{3}$, where $\\lambda$ is the wavelength of the light used. In the cases $\\mathrm{B}, \\mathrm{C}$ and $\\mathrm{D}$, a transparent sheet of refractive index $\\mu$ and thickness $t$ is pasted on slit $S_2$. The thickness of the sheets are different in different cases. The phase difference between the light waves reaching a point $P$ on the screen from the two slits is denoted by $\\delta(P)$ and the intensity by $I(P)$. Match each situation given in Column-I with the statement(s) in Column-II valid for that situation.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/WB06TwRxOzqpnbZ5VrecHzPxESIeLecOdphK0motYWQ.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "r7lUy",
+        "text": "\n(A) q,t, (B) q, (C) t, (D) r,s,t\n",
+        "image": null
+      },
+      {
+        "id": "d1rrF",
+        "text": "\n(A) q,r,s, (B) r, (C) q,r, (D) q,s,t\n",
+        "image": null
+      },
+      {
+        "id": "ObKxf",
+        "text": "\n(A) p,s, (B) r, (C) q,t, (D) r,s\n",
+        "image": null
+      },
+      {
+        "id": "BVlE8",
+        "text": "\n(A) p,s, (B) q, (C) t, (D) r,s,t",
+        "image": null
+      }
+    ],
+    "correct_answer": "BVlE8",
+    "solution_text": "(A) $\\rightarrow(\\mathrm{p}, \\mathrm{s}) \\rightarrow$ Intensity at $P_0$ is maximum. It will continuously decrease from $P_0$ towards $P_2$.\n$(B) \\rightarrow(q) \\rightarrow$ Path difference due to slap will be compensated by geometrical path difference. Hence, $\\delta\\left(P_1\\right)=0$.\n$(\\mathrm{C}) \\rightarrow(\\mathrm{t}) \\rightarrow \\delta\\left(P_0\\right)=\\frac{\\lambda}{2}, \\delta\\left(P_1\\right)=\\frac{\\lambda}{2}-\\frac{\\lambda}{4}=\\frac{\\lambda}{4}$ and $\\delta\\left(P_2\\right)=\\frac{\\lambda}{2}-\\frac{\\lambda}{3}=\\frac{\\lambda}{6}$. When path difference increases from 0 to $\\frac{\\lambda}{2}$, intensity will decrease from maximum to zero. Hence, in this case,\n$$\nI\\left(P_2\\right)>I\\left(P_1\\right)>I\\left(P_0\\right)\n$$\n$(\\mathrm{D}) \\rightarrow(\\mathrm{r}, \\mathrm{s}, \\mathrm{t})$\n$$\n\\delta\\left(P_0\\right)=\\frac{3 \\lambda}{4}, \\delta\\left(P_1\\right)=\\frac{3 \\lambda}{4}-\\frac{\\lambda}{4}=\\frac{\\lambda}{2}\n$$\nand $\\delta\\left(P_2\\right)=\\frac{3 \\lambda}{4}-\\frac{\\lambda}{3}=\\frac{5 \\lambda}{12}$\nIn this case $I\\left(P_1\\right)=0$",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  },
+  {
+    "question_id": "64b169dff23ac7d519f9af43",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "In a Young's double slit experiment, the separation between the two slits is $d$ and the wavelength of the light is $\\lambda$. The intensity of light falling on slit 1 is four times the intensity of light falling on slit 2 . Choose the correct choice(s),",
+    "question_image": null,
+    "options": [
+      {
+        "id": "edfgT",
+        "text": "\nIf $d=\\lambda$, the screen will contain only one maximum\n",
+        "image": null
+      },
+      {
+        "id": "t4tN1",
+        "text": "\nIf $\\lambda < d < 2 \\lambda$, at least one more maximum (besides the central maximum) will be observed on the screen",
+        "image": null
+      },
+      {
+        "id": "c0Wlm",
+        "text": "\nIf the intensity of light falling on slit 1 is reduced so that it becomes equal to that of slit 2 , the intensities of the observed dark and bright fringes will increase\n",
+        "image": null
+      },
+      {
+        "id": "gQAdB",
+        "text": "\nIf the intensity of light falling on slit 2 is increased so that it becomes equal to that of slit 1 , the intensities of the observed dark and bright fringes will increase",
+        "image": null
+      }
+    ],
+    "correct_answer": "t4tN1",
+    "solution_text": "For $d=\\lambda$, there will be only one, acentral maxima.\nFor $\\lambda < d < 2 \\lambda$, there will be three maximas on the screen corresponding to path difference, $\\Delta x=0$ and $\\Delta x=\\pm \\lambda$ correct options are (a) and (b).",
+    "solution_image": null,
+    "topic": "Youngs Double Slit Experiment"
+  }
+]

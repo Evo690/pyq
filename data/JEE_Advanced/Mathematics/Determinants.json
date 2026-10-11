@@ -1,0 +1,670 @@
+[
+  {
+    "question_id": "66965dced603121f43a3ea3d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Let $S=\\left\\{A=\\left(\\begin{array}{lll}0 & 1 & c \\\\ 1 & a & d \\\\ 1 & b & e\\end{array}\\right): a, b, c, d, e \\in\\{0,1\\}\\right.$ and $\\left.|A| \\in\\{-1,1\\}\\right\\}$, where $|A|$ denotes the determinant of $A$. Then the number of elements in $S$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 16,
+    "solution_text": "\\(|A|=-(e-d)+c(b-a)= \\pm 1\\)\r\nCase (i) : \\(c=0 \\Rightarrow(e, d)=(1,0),(0,1) \\rightarrow 2\\) ways\r\nb and a can be each 2 ways\r\n\\(\\Rightarrow\\) Total \\(=8\\) ways\r\nCase (ii) : \\(c \\neq 0 \\Rightarrow c=1\\)\r\n\\(\\Rightarrow d-e+b-a= \\pm 1\\)\r\n\\(\\left.\\begin{array}{llll}1 & 1 & 1 & 0 \\\\ 1 & 1 & 0 & 1 \\\\ 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & 1\\end{array}\\right\\} \\rightarrow 4 \\times 2=8\\) ways\r\nTotal \\(=16\\) ways",
+    "solution_image": null,
+    "topic": "Expansion of Determinants"
+  },
+  {
+    "question_id": "64b16a7af23ac7d519f9b4c5",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math> and let <math><mi>P</mi><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mo>,</mo><mi>&#160;</mi><mi>Q</mi><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd><mtd><mn>6</mn></mtd></mtr></mtable></mrow></mfenced></math> and <math><mi>R</mi><mo>=</mo><mi>P</mi><mi>Q</mi><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math><br />Then which of the following options is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PfuXC",
+        "text": "For <math><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo></math> there exists a unit vector <math><mi>α</mi><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>β</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>γ</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math> for which <math><mi>R</mi><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mi>α</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>β</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>γ</mi></mrow></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>0</mn></mrow></mtd></mtr></mtable></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "TzUne",
+        "text": "There exists a real number <math><mi>x</mi></math> such that <math><mi>P</mi><mi>Q</mi><mo>=</mo><mi>Q</mi><mi>P</mi></math>",
+        "image": null
+      },
+      {
+        "id": "N30gP",
+        "text": "<math><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>⁡</mo><mrow><mi>R</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>⁡</mo><mrow><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mn>8</mn><mo>,</mo></mrow></mrow></mrow></mrow></math> for all <math><mi>x</mi><mo>∈</mo><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "npbUB",
+        "text": "For <math><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> if <math><mi>R</mi><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>b</mi></mrow></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>6</mn><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>b</mi></mrow></mtd></mtr></mtable></mrow></mfenced><mo>,</mo></math> then <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "npbUB",
+    "solution_text": "<math><mtable><mtr><mtd><mi>P</mi><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced></mtd><mtd><mi>Q</mi><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd><mtd><mn>6</mn></mtd></mtr></mtable></mrow></mfenced></mtd></mtr></mtable></math><br />Option <math><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math><br />Now <math><mi>R</mi><mo>=</mo><mi>P</mi><mi>Q</mi><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br /><math><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>Q</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced></mrow></mrow></mrow></mrow></mrow></mrow></mrow></mrow></math><br /><math><mtable><mtr><mtd><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>Q</mi></mrow></mfenced></mrow></mrow></mrow></mrow></mtd><mtd><mfenced separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></mrow></mrow></mrow></mfrac></mrow></mrow></mrow></mfenced></mtd></mtr></mtable></math><br /><math><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd><mtd><mn>6</mn></mtd></mtr></mtable></mrow></mfenced></mrow></mrow></mrow></mrow></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>det</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mi>R</mi></mfenced><mo>=</mo><mn>48</mn><mo>-</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup></math><br />now <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>det</mi><mo>&#8289;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd><mtd><mn>5</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mn>40</mn><mo>-</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>det</mi><mo>&#8289;</mo><mi>R</mi><mo>=</mo><mi>det</mi><mo>&#8289;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mi>x</mi></mtd><mtd><mn>5</mn></mtd></mtr></mtable></mfenced><mo>+</mo><mn>8</mn></math><br />Option <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math><br /><math><mi>R</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mi>&#945;</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>&#946;</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>&#947;</mi></mrow></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>0</mn></mrow></mtd></mtr></mtable></mrow></mfenced></math> must have not trivial solution<br />So <math><mrow><mrow><mi mathvariant=\"normal\">det</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>R</mi></mrow></mfenced><mo>=</mo><mn>0</mn></mrow></mrow></math><br /><math><mn>48</mn><mo>-</mo><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mo>&#177;</mo><mn>2</mn><msqrt><mn>3</mn></msqrt></math><br />Option <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced></math><br /><math><mi>R</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>b</mi></mrow></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>6</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>6</mn><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>6</mn><mi>b</mi></mrow></mtd></mtr></mtable></mrow></mfenced></math><br /><math><mi>P</mi><mi>Q</mi><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mi>b</mi></mrow></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>6</mn></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>6</mn><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mn>6</mn><mi>b</mi></mrow></mtd></mtr></mtable></mrow></mfenced></math> &hellip;(i)<br /><math><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd><mtd><mo>-</mo><mn>3</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>3</mn></mtd><mtd><mo>-</mo><mn>2</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced></math><br />Putting <math><mi>P</mi><mo>,</mo><mi>&#160;</mi><mi>Q</mi><mo>,</mo><mi>&#160;</mi><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> in equation (i)<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>6</mn></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mtable><mtr><mtd><mn>12</mn></mtd><mtd><mn>6</mn></mtd><mtd><mn>4</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>24</mn></mtd><mtd><mn>8</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>36</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\" separators=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>a</mi></mtd></mtr><mtr><mtd><mi>b</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>6</mn><mi>a</mi></mtd></mtr><mtr><mtd><mn>6</mn><mi>b</mi></mtd></mtr></mtable></mfenced></math><br /><math><mo>&#8658;</mo><mn>12</mn><mo>+</mo><mn>6</mn><mi>a</mi><mo>+</mo><mn>4</mn><mi>b</mi><mo>=</mo><mn>36</mn></math><br /><math><mn>24</mn><mi>a</mi><mo>+</mo><mn>8</mn><mi>b</mi><mo>=</mo><mn>36</mn><mi>a</mi></math><br /><math><mi>a</mi><mo>=</mo><mn>2</mn></math> and <math><mi>b</mi><mo>=</mo><mn>3</mn></math><br /><math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mn>5</mn></math><br />Option <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math><br /><math><mi>P</mi><mi>Q</mi><mo>=</mo><mi>Q</mi><mi>P</mi></math><br /><math><mi>P</mi><mi>Q</mi><mo>=</mo><mi>Q</mi><mi>P</mi><mo>&#8658;</mo><mi>P</mi><mi>Q</mi><msup><mrow><mi>P</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><mi>Q</mi></math><br /><math><mi>R</mi><mo>=</mo><mi>Q</mi></math><br />Not possible for any value of <math><mi>x</mi><mo>.</mo></math>",
+    "solution_image": null,
+    "topic": "Expansion of Determinants"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3bc",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "Which of the following is (are) NOT the square of a <math><mn>3</mn><mo>&#215;</mo><mn>3</mn></math> matrix with real entries?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8M27K",
+        "text": "<math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "GJCEp",
+        "text": "<math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "Zv8A5",
+        "text": "<math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "F2PiQ",
+        "text": "<math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "F2PiQ",
+    "solution_text": "Let \\(A=\\left[\\begin{array}{ccc}1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -1\\end{array}\\right]\\).Then, \\(|A|=-1\\)\r\nIf \\(\\mathrm{A}\\) is a prefect square of matrix \\(A_1\\). Then, \\(A_1^2=A\\)\r\n\\(\\Rightarrow\\left|A_1\\right|^2=|A| \\Rightarrow\\left|A_1\\right|^2=-1 \\Rightarrow A_1\\) cannot be a real matrix\r\nSo, option correct.\r\nLet \\(R=\\left[\\begin{array}{ccc}-1 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & -1\\end{array}\\right]\\) be the sqare of a \\(3 \\times 3\\) matrix \\(B_1\\), Then,\r\n\\(B=B_1^2 \\Rightarrow\\left|B_1\\right|^2=|B| \\Rightarrow\\left|B_1\\right|^2=\\left|\\begin{array}{ccc}\r\n-1 & 0 & 0 \\\\\r\n0 & -1 & 0 \\\\\r\n0 & 0 & -1\r\n\\end{array}\\right|=-1\\)\r\nSo, B cannot be the perfect square of a real matrix.\r\nIn option, the given matrix is the identity matrix \\(I_3\\) such that \\(I_3=I_3^2\\)\r\n\\(\\begin{aligned}\r\n&\\text { Conisder the matrix }\\left[\\begin{array}{ccc}\r\n1 & 0 & 0 \\\\\r\n0 & -1 & 0 \\\\\r\n0 & 0 & -1\r\n\\end{array}\\right] \\text { given in option. Clearly, } \\\\\r\n&{\\left[\\begin{array}{ccc}\r\n1 & 0 & 0 \\\\\r\n0 & -1 & 0 \\\\\r\n0 & 0 & -1\r\n\\end{array}\\right]=\\left[\\begin{array}{ccc}\r\n1 & 0 & 0 \\\\\r\n0 & 0 & 1 \\\\\r\n0 & -1 & 0\r\n\\end{array}\\right]\\left[\\begin{array}{ccc}\r\n1 & 0 & 0 \\\\\r\n0 & 0 & 1 \\\\\r\n0 & -1 & 0\r\n\\end{array}\\right]}\r\n\\end{aligned}\\)\r\nThus, the matrix given in option is the perfect square of a real matrix.",
+    "solution_image": null,
+    "topic": "Expansion of Determinants"
+  },
+  {
+    "question_id": "64b16a52f23ac7d519f9b358",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The total number of distinct <math><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math> for which <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mi>x</mi></mtd><mtd><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><mn>1</mn><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mtd></mtr><mtr><mtd><mn>2</mn><mi>x</mi></mtd><mtd><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><mn>1</mn><mo>+</mo><mn>8</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mtd></mtr><mtr><mtd><mn>3</mn><mi>x</mi></mtd><mtd><mn>9</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><mn>1</mn><mo>+</mo><mn>27</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>10</mn></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<math><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>1</mn><mo>+</mo><mn>8</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mtd></mtr><mtr><mtd><mn>3</mn></mtd><mtd><mn>9</mn></mtd><mtd><mn>1</mn><mo>+</mo><mn>27</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>10</mn></math><br /><math><mo>⇒</mo></math> <math><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>4</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>3</mn></mtd><mtd><mn>9</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>.</mo><mi>&nbsp;</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mi>&nbsp;</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>8</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd><mtd><mn>9</mn></mtd><mtd><mn>27</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>10</mn></math><br /><math><mo>⇒</mo></math> <math><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mfenced separators=\"|\"><mrow><mn>25</mn><mo>-</mo><mn>23</mn></mrow></mfenced><mo>+</mo><mn>6</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>6</mn></mrow></msup><mo>.</mo><mn>2</mn><mo>=</mo><mn>10</mn></math><br /><math><mo>⇒</mo></math> <math><mn>6</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>6</mn></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mn>5</mn><mo>=</mo><mn>0</mn></math><br /><math><mo>⇒</mo></math> <math><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>6</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mo>-</mo><mn>1</mn></math><br />Two real solutions for x",
+    "solution_image": null,
+    "topic": "Expansion of Determinants"
+  },
+  {
+    "question_id": "64b16a44f23ac7d519f9b2df",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Which of the following values of <math><mi mathvariant=\"normal\">&#945;</mi></math> satisfy the equation <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#945;</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mo>-</mo><mn>648</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#945;</mi></math> ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PGr8y",
+        "text": "<math><mo>-</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "gj65f",
+        "text": "<math><mn>9</mn></math>",
+        "image": null
+      },
+      {
+        "id": "3S9eq",
+        "text": "<math><mo>-</mo><mn>9</mn></math>",
+        "image": null
+      },
+      {
+        "id": "sKWHm",
+        "text": "<math><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3S9eq",
+    "solution_text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr></mtable></mrow></mfenced></math> <br ><br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  (Take common) <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br ><br > <math><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><mn>3</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mtd><mtd><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd><mtd><mfenced separators=\"|\"><mrow><mn>3</mn><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd></mtr><mtr><mtd><mfenced separators=\"|\"><mrow><mn>4</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd><mtd><mfenced separators=\"|\"><mrow><mn>4</mn><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd><mtd><mfenced separators=\"|\"><mrow><mn>4</mn><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd></mtr></mtable></mrow></mfenced></math> <br ><br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br ><br > <math><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><mn>3</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mtd><mtd><mn>3</mn><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">α</mi></mtd><mtd><mn>3</mn><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">α</mi></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math> <br ><br > <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  (Take common) <br > <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br ><br > <math><mo>∴</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi><mn>2</mn><mo>.</mo><mi mathvariant=\"normal\">α</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd><mtd><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mtd></mtr><mtr><mtd><mn>3</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mtd><mtd><mn>2</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> <br ><br > <math><mn>4</mn><msup><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mi mathvariant=\"normal\">α</mi></mrow></mfenced><mo>=</mo><mo>-</mo><mn>8</mn><msup><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>=</mo><mo>-</mo><mn>648</mn><mi mathvariant=\"normal\">α</mi></math> <br > <math><mi mathvariant=\"normal\">α</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><msup><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>81</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">α</mi><mo>=</mo><mo>±</mo><mn>9</mn></math>",
+    "solution_image": null,
+    "topic": "Expansion of Determinants"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b16f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Let $P=\\left[a_{i j}\\right]$ be a $3 \\times 3$ matrix and let $Q=\\left[b_{i j}\\right]$, where $b_{i j}=2^{i+j} a_{i j}$ for $1 \\leq i, j \\leq 3$. If the determinant of $P$ is 2 , then the determinant of the matrix $Q$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "68zc1",
+        "text": "$2^{10}$",
+        "image": null
+      },
+      {
+        "id": "auT5w",
+        "text": "$2^{11}$",
+        "image": null
+      },
+      {
+        "id": "8mOHQ",
+        "text": "$2^{12}$",
+        "image": null
+      },
+      {
+        "id": "4WreL",
+        "text": "$2^{13}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "4WreL",
+    "solution_text": "$|Q|=\\left|\\begin{array}{lll}2^{2} a_{11} & 2^{3} a_{12} & 2^{4} a_{13} \\\\ 2^{3} a_{21} & 2^{4} a_{22} & 2^{5} a_{23} \\\\ 2^{4} a_{31} & 2^{5} a_{32} & 2^{6} a_{33}\\end{array}\\right|$\r\n\r\n$=2^{2} \\cdot 2^{3} \\cdot 2^{4}\\left|\\begin{array}{ccc}a_{11} & a_{12} & a_{13} \\\\ 2 a_{21} & 2 a_{22} & 2 a_{23} \\\\ 2^{2} a_{31} & 2^{2} a_{32} & 2^{2} a_{33}\\end{array}\\right|$\r\n\r\n$=2^{9} \\cdot 2 \\cdot 2^{2}\\left|\\begin{array}{lll}a_{11} & a_{12} & a_{13} \\\\ a_{21} & a_{22} & a_{23} \\\\ a_{31} & a_{32} & a_{33}\\end{array}\\right|$\r\n\r\n$=2^{12} \\times|P|=2^{12} \\times 2=2^{13}$",
+    "solution_image": null,
+    "topic": "Expansion of Determinants"
+  },
+  {
+    "question_id": "64b16a6ef23ac7d519f9b45f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Let P be a matrix of order <math><mn>3</mn><mo>&#215;</mo><mn>3</mn></math> such that all the entries in P are from the set <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mn>0,</mn><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math> . Then, the maximum possible value of the determinant of P is _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<math><mo>&#8710;</mo><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></mtd><mtd><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><msub><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></mtd><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow></msub></mtd><mtd><msub><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd><mtd><msub><mrow><mi>c</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mtable><mtr><mtd><munder accentunder=\"false\"><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mo>&#9183;</mo></munder></mtd></mtr><mtr><mtd><mi>x</mi></mtd></mtr></mtable><mo>-</mo><mtable><mtr><mtd><munder accentunder=\"false\"><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mo>&#9183;</mo></munder></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr></mtable></math><br />Now if <math><mi>x</mi><mo>&#8804;</mo><mn>3</mn></math> and <math><mi>y</mi><mo>&#8805;</mo><mo>-</mo><mn>3</mn></math><br />The <math><mo>&#8710;</mo></math> can be maximum 6 but it is not possible<br />because&nbsp;<math><mi>x</mi><mo>=</mo><mn>3</mn><mo>&#8658;</mo></math> each term of <math><mi>x</mi><mo>=</mo><mn>1</mn></math><br />And <math><mi>y</mi><mo>=</mo><mn>-3</mn><mo>&#8658;</mo></math> each term of <math><mi>y</mi><mo>=</mo><mo>-</mo><mn>1</mn></math><br /><math><mo>&#8658;</mo></math> <math><mrow><munderover><mo stretchy=\"false\">&#8719;</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>i</mi></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mi>i</mi></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>=</mo><mn>1</mn></mrow></mrow><mi>&#160;</mi></math> and <math><mrow><munderover><mo stretchy=\"false\">&#8719;</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>i</mi></mrow></msub><msub><mrow><mi>b</mi></mrow><mrow><mi>i</mi></mrow></msub><msub><mrow><mi>c</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>=</mo><mo>-</mo><mn>1</mn></mrow></mrow></math>, which is a contradiction.<br />Now for value to be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;one the terms must be zero but that will make two terms zero which means answer cannot be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>. Next possibility is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;which&nbsp;can be obtained as <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>4</mn></math>",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16a08f23ac7d519f9b0b9",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Let $k$ be a positive real number and let $\\begin{aligned} A & =\\left[\\begin{array}{ccc}2 k-1 & 2 \\sqrt{k} & 2 \\sqrt{k} \\\\ 2 \\sqrt{k} & 1 & -2 k \\\\ -2 \\sqrt{k} & 2 k & -1\\end{array}\\right] \\text { and } \\\\ B & =\\left[\\begin{array}{ccc}0 & 2 k-1 & \\sqrt{k} \\\\ 1-2 k & 0 & 2 \\sqrt{k} \\\\ -\\sqrt{k} & -2 \\sqrt{k} & 0\\end{array}\\right]\\end{aligned}$\nIf $\\operatorname{det}(\\operatorname{adj} A)+\\operatorname{det}(\\operatorname{adj} B)=10^6$, then $[k]$ is equal to\n[Note : adj $M$ denotes the adjoint of a square matrix $M$ and $[k]$ denotes the largest integer less than or equal to $k$ ].",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "$|A|=(2 k+1)^3,|B|=0$\nBut $\\operatorname{det}(\\operatorname{adj} A)=\\operatorname{det}(\\operatorname{adj} B)=10^6$\n$$\n\\begin{aligned}\n& \\Rightarrow(2 k+1)^6=10^6 \\\\\n& \\Rightarrow k=\\frac{9}{2} \\Rightarrow[k]=4\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16aa5f23ac7d519f9b64f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>,</mo><mo>&#160;</mo><mi>&#946;</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi></math> be real numbers. Consider the following system of linear equations</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>7</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>&#945;</mi><mi>z</mi><mo>=</mo><mn>11</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>+</mo><mi>&#946;</mi><mi>z</mi><mo>=</mo><mi>&#947;</mi></math></p><p>Match each entry in List-I to the correct entries in List-II.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>List-I</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>List-II</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>=</mo><mn>28</mn></math>&nbsp;then the system has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math></td>\t\t\t<td>&nbsp;a unique solution</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>&#8800;</mo><mn>28</mn></math>, then the system has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math></td>\t\t\t<td>no solution</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math></td>\t\t\t<td>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>&#8800;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>1</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>&#8800;</mo><mn>28</mn></math>, then the system has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math></td>\t\t\t<td>infinitely many solutions</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math></td>\t\t\t<td>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>&#8800;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>1</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>=</mo><mn>28</mn></math>, then the system has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>4</mn></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>11</mn><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi><mo>=</mo><mn>0</mn></math>&nbsp;as a solution</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>5</mn></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mo>-</mo><mn>15</mn><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mn>4</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi><mo>=</mo><mn>0</mn></math>&nbsp;as a solution</td>\t\t</tr>\t</tbody></table><p>The correct option is:</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Re0ib",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>&#8594;</mo><mfenced><mn>3</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>&#8594;</mo><mfenced><mn>2</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>&#8594;</mo><mfenced><mn>1</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>&#8594;</mo><mfenced><mn>4</mn></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "jIvqW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>&#8594;</mo><mfenced><mn>3</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>&#8594;</mo><mfenced><mn>2</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>&#8594;</mo><mfenced><mn>5</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>&#8594;</mo><mfenced><mn>4</mn></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "swboL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>&#8594;</mo><mfenced><mn>2</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>&#8594;</mo><mfenced><mn>1</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>&#8594;</mo><mfenced><mn>4</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>&#8594;</mo><mfenced><mn>5</mn></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "NZBIM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>&#8594;</mo><mfenced><mn>2</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>&#8594;</mo><mfenced><mn>1</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>&#8594;</mo><mfenced><mn>1</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>&#8594;</mo><mfenced><mn>3</mn></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Re0ib",
+    "solution_text": "<blockquote><p>Given,</p><p>System of equations,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>7</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>&#945;</mi><mi>z</mi><mo>=</mo><mn>11</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>+</mo><mi>&#946;</mi><mi>z</mi><mo>=</mo><mi>&#947;</mi></math></p><p>Now finding&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mi>&#945;</mi></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mo>-</mo><mn>3</mn></mtd><mtd><mi>&#946;</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>3</mn><mi>&#945;</mi><mo>-</mo><mn>2</mn><mfenced><mrow><mi>&#946;</mi><mo>-</mo><mn>2</mn><mi>&#945;</mi></mrow></mfenced><mo>-</mo><mn>3</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>2</mn><mi>&#946;</mi><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></p><p>Now finding,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mn>3</mn></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>7</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>11</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mo>-</mo><mn>3</mn></mtd><mtd><mi>&#947;</mi></mtd></mtr></mtable></mfenced></math></p><p>Now equating,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>33</mn><mo>-</mo><mn>2</mn><mfenced><mrow><mi>&#947;</mi><mo>-</mo><mn>22</mn></mrow></mfenced><mo>+</mo><mn>7</mn><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#947;</mi><mo>=</mo><mn>28</mn></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mn>1</mn></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>7</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>11</mn></mtd><mtd><mn>0</mn></mtd><mtd><mi>&#945;</mi></mtd></mtr><mtr><mtd><mi>&#947;</mi></mtd><mtd><mo>-</mo><mn>3</mn></mtd><mtd><mi>&#946;</mi></mtd></mtr></mtable></mfenced></math></p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>&#916;</mi><mn>1</mn></msub><mo>=</mo><mn>21</mn><mi>&#945;</mi><mo>-</mo><mn>2</mn><mfenced><mrow><mn>11</mn><mi>&#946;</mi><mo>-</mo><mi>&#945;</mi><mi>&#947;</mi></mrow></mfenced><mo>-</mo><mn>33</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>&#916;</mi><mn>1</mn></msub><mo>=</mo><mn>21</mn><mi>&#945;</mi><mo>-</mo><mn>22</mn><mi>&#946;</mi><mo>+</mo><mn>2</mn><mi>&#945;</mi><mi>&#947;</mi><mo>-</mo><mn>33</mn></math></p><p>Similarly,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><msub><mi>&#916;</mi><mn>2</mn></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>7</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>11</mn></mtd><mtd><mi>&#945;</mi></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mi>&#947;</mi></mtd><mtd><mi>&#946;</mi></mtd></mtr></mtable></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>&#916;</mi><mn>2</mn></msub><mo>=</mo><mn>11</mn><mi>&#946;</mi><mo>-</mo><mi>&#945;</mi><mi>&#947;</mi><mo>-</mo><mn>7</mn><mfenced><mrow><mi>&#946;</mi><mo>-</mo><mn>2</mn><mi>&#945;</mi></mrow></mfenced><mo>+</mo><mi>&#947;</mi><mo>-</mo><mn>22</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>&#916;</mi><mn>2</mn></msub><mo>=</mo><mn>14</mn><mi>&#945;</mi><mo>+</mo><mn>4</mn><mi>&#946;</mi><mo>+</mo><mi>&#947;</mi><mo>-</mo><mi>&#945;</mi><mi>&#947;</mi><mo>-</mo><mn>22</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math>&nbsp;If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>=</mo><mn>28</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>1</mn></msub><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn></math></p><p>Infinitely many solutions</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>11</mn><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi><mo>=</mo><mn>0</mn></math>&nbsp;will satisfy all the three given equations, so it is a solution.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></math>&nbsp;If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>&#8800;</mo><mn>28</mn></math>&nbsp;then</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mn>0</mn></math>, but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mn>3</mn></msub><mo>&#8800;</mo><mn>0</mn></math>&nbsp;so no solution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math>&nbsp;If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>&#8800;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mi>&#945;</mi><mo>=</mo><mn>1</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#947;</mi><mo>&#8800;</mo><mn>28</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>&#8800;</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>3</mn></msub><mo>&#8800;</mo><mn>0</mn></math>&nbsp;so a unique solution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math>&nbsp;If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>&#8800;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>7</mn><mi>&#945;</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mi>&#945;</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>&#947;</mi><mo>=</mo><mn>28</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>&#8800;</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>1</mn></msub><mo>&#8800;</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mn>2</mn></msub><mo>&#8800;</mo><mn>0</mn></math>,&nbsp;so a unique solution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>11</mn><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi><mo>=</mo><mn>0</mn></math>&nbsp;will satisfy all the three equations</p><p>Option A is correct.&nbsp;&nbsp;</p></blockquote>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b16a9af23ac7d519f9b5e8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>,</mo><mi>q</mi><mo>,</mo><mi>r</mi></math>&nbsp;be non-zero real numbers that are, respectively, the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mi>th</mi><mo>&#160;</mo></mrow></msup><mo>,</mo><msup><mn>100</mn><mrow><mi>th</mi><mo>&#160;</mo></mrow></msup></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1000</mn><mrow><mi>th</mi><mo>&#160;</mo></mrow></msup></math>&nbsp;terms of a harmonic progression. Consider the system of linear equations<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>x</mi><mo>+</mo><mn>100</mn><mi>y</mi><mo>+</mo><mn>1000</mn><mi>z</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi><mi>r</mi><mi>x</mi><mo>+</mo><mi>p</mi><mi>r</mi><mi>y</mi><mo>+</mo><mi>p</mi><mi>q</mi><mi>z</mi><mo>=</mo><mn>0</mn></math></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td>&nbsp;</td>\t\t\t<td>List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>q</mi><mi>r</mi></mfrac><mo>=</mo><mn>10</mn></math>, then the system of linear equations has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>y</mi><mo>=</mo><mfrac><mn>10</mn><mn>9</mn></mfrac><mo>,</mo><mi>z</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>9</mn></mfrac></math>&nbsp;as a solution</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mi>r</mi></mfrac><mo>&#8800;</mo><mn>100</mn></math>, then the system of linear equations has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mn>10</mn><mn>9</mn></mfrac><mo>,</mo><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>,</mo><mi>z</mi><mo>=</mo><mn>0</mn></math>&nbsp;as a solution</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>III</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mi>q</mi></mfrac><mo>&#8800;</mo><mn>10</mn></math>, then the system of linear equations has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math></td>\t\t\t<td>infinitely many solutions</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mi>q</mi></mfrac><mo>=</mo><mn>10</mn></math>, then the system of linear equations has</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math></td>\t\t\t<td>no solution</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math></td>\t\t\t<td>at least one solution</td>\t\t</tr>\t</tbody></table><p>The correct option is:</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dVkTn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">T</mi></mfenced><mo>;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "dRFj2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "9m3oc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "kGfyO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">T</mi></mfenced><mo>;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "dRFj2",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>x</mi><mo>+</mo><mn>100</mn><mi>y</mi><mo>+</mo><mn>1000</mn><mi>z</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>2</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi><mi>r</mi><mi>x</mi><mo>+</mo><mi>p</mi><mi>r</mi><mi>y</mi><mo>+</mo><mi>p</mi><mi>q</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>3</mn></mfenced></math></p><p>Now equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math>&nbsp;can be re-written as</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>x</mi><mi>p</mi></mfrac><mo>+</mo><mfrac><mi>y</mi><mi>q</mi></mfrac><mo>+</mo><mfrac><mi>z</mi><mi>r</mi></mfrac><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mfenced><mrow><mo>&#8757;</mo><mo>&#160;</mo><mi>p</mi><mo>,</mo><mi>q</mi><mo>,</mo><mi>r</mi><mo>&#8800;</mo><mn>0</mn></mrow></mfenced></math></p><p>Now given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>,</mo><mo>&#160;</mo><mi>q</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>r</mi><msup><mtext>&#160;are&#160;10</mtext><mrow><mi>t</mi><mi>h</mi></mrow></msup><msup><mtext>,&#160;100</mtext><mrow><mi>t</mi><mi>h</mi></mrow></msup><msup><mtext>&#160;&#38;&#160;1000</mtext><mrow><mi>t</mi><mi>h</mi></mrow></msup><mtext>&#160;term&#160;of&#160;an&#160;h.p</mtext></math>,</p><p>So, let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mi>a</mi><mo>+</mo><mn>9</mn><mi>d</mi></mrow></mfrac><mo>,</mo><mo>&#160;</mo><mi>q</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mi>a</mi><mo>+</mo><mn>99</mn><mi>d</mi></mrow></mfrac><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mi>a</mi><mo>+</mo><mn>999</mn><mi>d</mi></mrow></mfrac></math></p><p>Now, equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math>&nbsp;will be</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>a</mi><mo>+</mo><mn>9</mn><mi>d</mi></mrow></mfenced><mi>x</mi><mo>+</mo><mfenced><mrow><mi>a</mi><mo>+</mo><mn>99</mn><mi>d</mi></mrow></mfenced><mi>y</mi><mo>+</mo><mfenced><mrow><mi>a</mi><mo>+</mo><mn>999</mn><mi>d</mi></mrow></mfenced><mi>z</mi><mo>=</mo><mn>0</mn></math></p><p>Now from equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mn>2</mn></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mn>3</mn></mfenced></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>10</mn></mtd><mtd><mn>100</mn></mtd><mtd><mn>1000</mn></mtd></mtr><mtr><mtd><mi>a</mi><mo>+</mo><mn>9</mn><mi>d</mi></mtd><mtd><mi>a</mi><mo>+</mo><mn>99</mn><mi>d</mi></mtd><mtd><mi>a</mi><mo>+</mo><mn>999</mn><mi>d</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mi>x</mi></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>100</mn></mtd><mtd><mn>1000</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mi>a</mi><mo>+</mo><mn>99</mn><mi>d</mi></mtd><mtd><mi>a</mi><mo>+</mo><mn>999</mn><mi>d</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>900</mn><mfenced><mrow><mi>d</mi><mo>-</mo><mi>a</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mi>y</mi></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>10</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1000</mn></mtd></mtr><mtr><mtd><mi>a</mi><mo>+</mo><mn>9</mn><mi>d</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>a</mi><mo>+</mo><mn>999</mn><mi>d</mi></mtd></mtr></mtable></mfenced><mo>=</mo><mn>990</mn><mfenced><mrow><mi>a</mi><mo>-</mo><mi>d</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mi>z</mi></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>10</mn></mtd><mtd><mn>100</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>a</mi><mo>+</mo><mn>9</mn><mi>d</mi></mtd><mtd><mi>a</mi><mo>+</mo><mn>99</mn><mi>d</mi></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mn>90</mn><mfenced><mrow><mi>d</mi><mo>-</mo><mi>a</mi></mrow></mfenced></math></p><p>Option I: If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>q</mi><mi>r</mi></mfrac><mo>=</mo><mn>10</mn><mo>&#8658;</mo><mi>a</mi><mo>=</mo><mi>d</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><msub><mi>&#916;</mi><mi>x</mi></msub><mo>=</mo><msub><mi>&#916;</mi><mi>y</mi></msub><mo>=</mo><msub><mi>&#916;</mi><mi>z</mi></msub><mo>=</mo><mn>0</mn></math></p><p>And eq.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math>&nbsp;and eq.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math>&nbsp;represents non-parallel planes eq.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math>&nbsp;and eq.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math>&nbsp;represents same plane</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Infinitely many solutions</p><p>Now finding solution by taking&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi><mo>=</mo><mi>&#955;</mi></math>&nbsp;so from equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mn>2</mn></mfenced></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>1</mn><mo>-</mo><mi>&#955;</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>10</mn><mi>y</mi><mo>=</mo><mo>-</mo><mn>100</mn><mi>&#955;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mn>10</mn><mn>9</mn></mfrac><mo>+</mo><mn>10</mn><mi>&#955;</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>9</mn></mfrac><mo>-</mo><mn>11</mn><mi>&#955;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>z</mi></mrow></mfenced><mo>&#8712;</mo><mfenced><mrow><mfrac><mn>10</mn><mn>9</mn></mfrac><mo>+</mo><mn>10</mn><mi>&#955;</mi><mo>,</mo><mo>&#160;</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>9</mn></mfrac><mo>-</mo><mn>11</mn><mi>&#955;</mi><mo>,</mo><mo>&#160;</mo><mi>&#955;</mi></mrow></mfenced></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;is not valid for any value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi></math>&nbsp;rest are valid.</p><p>So, option (i)<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi>Q</mi><mo>,</mo><mi>R</mi><mo>,</mo><mi>T</mi></math></p><p>Option II:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mi>r</mi></mfrac><mo>&#8800;</mo><mn>100</mn><mo>&#8658;</mo><mi>a</mi><mo>&#8800;</mo><mi>d</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msub><mi>&#916;</mi><mi>x</mi></msub><mo>,</mo><msub><mi>&#916;</mi><mi>y</mi></msub><mo>,</mo><msub><mi>&#916;</mi><mi>z</mi></msub><mo>&#8800;</mo><mn>0</mn></math></p><p>So, no solution</p><p>Option (ii)<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi>S</mi></math></p><p>Option (iii): If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mi>q</mi></mfrac><mo>&#8800;</mo><mn>10</mn><mo>&#8658;</mo><mi>a</mi><mo>&#8800;</mo><mi>d</mi></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mi>z</mi></msub><mo>&#8800;</mo><mn>0</mn></math></p><p>So, no solution</p><p>Option (iii)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi>S</mi></math></p><p>Now option (iv): If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mi>q</mi></mfrac><mo>=</mo><mn>10</mn><mo>&#8658;</mo><mi>a</mi><mo>=</mo><mi>d</mi></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;</mi><mi>z</mi></msub><mo>=</mo><mn>0</mn><mo>&#8658;</mo><msub><mi>&#916;</mi><mi>x</mi></msub><mo>=</mo><msub><mi>&#916;</mi><mi>y</mi></msub><mo>=</mo><mn>0</mn></math></p><p>So, infinitely many solutions</p><p>Option (iv)<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi>Q</mi><mo>,</mo><mi>R</mi><mo>,</mo><mi>T</mi></math>&nbsp;{similar to option&nbsp;(i)}</p></blockquote>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b16a8cf23ac7d519f9b56f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Let $\\alpha, \\beta$ and $\\gamma$ be real numbers such that the system of linear equations<br>$$<br>\\begin{array}{c}<br>x+2 y+3 z=\\alpha \\\\<br>4 x+5 y+6 z=\\beta \\\\<br>7 x+8 y+9 z=\\gamma-1<br>\\end{array}<br>$$<br>is consistent. Let $|M|$ represent the determinant of the matrix<br>$$<br>M=\\left[\\begin{array}{ccc}<br>\\alpha & 2 & \\gamma \\\\<br>\\beta & 1 & 0 \\\\<br>-1 & 0 & 1<br>\\end{array}\\right]<br>$$<br>Let $P$ be the plane containing all those $(\\alpha, \\beta, \\gamma)$ for which the above system of linear equations is consistent, and $D$ be the square of the distance of the point $(0,1,0)$ from the plane $P$.<br><p>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi></math> is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.5",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mi>&#945;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>=</mo><mi>&#946;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mi>z</mi><mo>=</mo><mi>&#947;</mi><mo>-</mo><mn>1</mn></math></p><p>The system of linear equations is consistent it means it has unique solution or infinite solutions</p><p>Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd><mtd><mn>5</mn></mtd><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>7</mn></mtd><mtd><mn>8</mn></mtd><mtd><mn>9</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math></p><p>Hence, there are infinitely many solutions.</p><p>If equations have infinitely many solutions, then the equations are linearly connected, i.e., <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub><mo>+</mo><mi>&#955;</mi><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><msub><mi>L</mi><mn>3</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>-</mo><mi>&#945;</mi></mrow></mfenced><mo>+</mo><mi>&#955;</mi><mo>(</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>-</mo><mi>&#946;</mi><mo>)</mo><mo>=</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mi>z</mi><mo>-</mo><mi>&#947;</mi><mo>+</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>&#955;</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>&#955;</mi></mrow><mn>8</mn></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mo>+</mo><mn>6</mn><mi>&#955;</mi></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mi>&#945;</mi><mo>+</mo><mi>&#955;</mi><mi>&#946;</mi></mrow><mrow><mi>&#947;</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>&#955;</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>&#955;</mi></mrow><mn>8</mn></mfrac><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mo>-</mo><mn>2</mn></math></p><p>Also,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>&#955;</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mi>&#945;</mi><mo>+</mo><mi>&#955;</mi><mi>B</mi></mrow><mrow><mi>&#947;</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mo>-</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mi>&#945;</mi><mo>-</mo><mn>2</mn><mi>&#946;</mi></mrow><mrow><mi>r</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>&#945;</mi><mo>-</mo><mn>2</mn><mi>&#946;</mi><mo>+</mo><mi>&#947;</mi><mo>=</mo><mn>1</mn></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;is the plane containing the points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>&#945;</mi><mo>,</mo><mi>&#946;</mi><mo>,</mo><mi>&#947;</mi></mrow></mfenced></math></p><p>So, the equation of the plane is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mn>2</mn><mo>&#160;</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>1</mn></math>&nbsp;(replacing&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>,</mo><mo>&#160;</mo><mi>&#946;</mi><mo>,</mo><mo>&#160;</mo><mi>&#947;</mi></math>&nbsp;by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>,</mo><mo>&#160;</mo><mi>z</mi></math>)</p><p>We know, the distance of a point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>z</mi><mn>1</mn></msub></mrow></mfenced></math>&nbsp;from plane&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>+</mo><mi>d</mi><mo>=</mo><mn>0</mn></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>a</mi><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>b</mi><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><mi>c</mi><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><mi>d</mi></mrow><msqrt><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup></msqrt></mfrac></mfenced></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>=</mo><msup><mfenced><mfrac><mrow><mn>0</mn><mo>&#215;</mo><mn>1</mn><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>1</mn><mo>+</mo><mn>0</mn><mo>&#215;</mo><mn>1</mn><mo>-</mo><mn>1</mn></mrow><msqrt><msup><mn>1</mn><mn>2</mn></msup><mo>+</mo><mo>(</mo><mo>-</mo><mn>2</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mn>1</mn><mn>2</mn></msup></msqrt></mfrac></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn>9</mn><mn>6</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>50</mn></math></p>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b16a8cf23ac7d519f9b56e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Let $\\alpha, \\beta$ and $\\gamma$ be real numbers such that the system of linear equations<br>$$<br>\\begin{array}{c}<br>x+2 y+3 z=\\alpha \\\\<br>4 x+5 y+6 z=\\beta \\\\<br>7 x+8 y+9 z=\\gamma-1<br>\\end{array}<br>$$<br>is consistent. Let $|M|$ represent the determinant of the matrix<br>$$<br>M=\\left[\\begin{array}{ccc}<br>\\alpha & 2 & \\gamma \\\\<br>\\beta & 1 & 0 \\\\<br>-1 & 0 & 1<br>\\end{array}\\right]<br>$$<br>Let $P$ be the plane containing all those $(\\alpha, \\beta, \\gamma)$ for which the above system of linear equations is consistent, and $D$ be the square of the distance of the point $(0,1,0)$ from the plane $P$.<br><p>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>|</mo><mi>M</mi><mo>|</mo></math> is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mi>&#945;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>=</mo><mi>&#946;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mi>z</mi><mo>=</mo><mi>&#947;</mi><mo>-</mo><mn>1</mn></math></p><p>The system of linear equations is consistent it means it has unique solution or infinite solutions</p><p>Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd><mtd><mn>5</mn></mtd><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>7</mn></mtd><mtd><mn>8</mn></mtd><mtd><mn>9</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math></p><p>Hence, there are infinitely many solutions.</p><p>If equations have infinitely many solutions, then the equations are linearly connected, i.e., <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub><mo>+</mo><mi>&#955;</mi><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><msub><mi>L</mi><mn>3</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>-</mo><mi>&#945;</mi></mrow></mfenced><mo>+</mo><mi>&#955;</mi><mo>(</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>-</mo><mi>&#946;</mi><mo>)</mo><mo>=</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mi>z</mi><mo>-</mo><mi>&#947;</mi><mo>+</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>&#955;</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>&#955;</mi></mrow><mn>8</mn></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mo>+</mo><mn>6</mn><mi>&#955;</mi></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mi>&#945;</mi><mo>+</mo><mi>&#955;</mi><mi>&#946;</mi></mrow><mrow><mi>&#947;</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>&#955;</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>&#955;</mi></mrow><mn>8</mn></mfrac><mo>&#8658;</mo><mi>&#955;</mi><mo>=</mo><mo>-</mo><mn>2</mn></math></p><p>Also,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>&#955;</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mi>&#945;</mi><mo>+</mo><mi>&#955;</mi><mi>B</mi></mrow><mrow><mi>&#947;</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mo>-</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mi>&#945;</mi><mo>-</mo><mn>2</mn><mi>&#946;</mi></mrow><mrow><mi>r</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>&#945;</mi><mo>-</mo><mn>2</mn><mi>&#946;</mi><mo>+</mo><mi>&#947;</mi><mo>=</mo><mn>1</mn></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mi>M</mi></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mi>&#945;</mi></mtd><mtd><mn>2</mn></mtd><mtd><mi>&#947;</mi></mtd></mtr><mtr><mtd><mi>&#946;</mi></mtd><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>&#945;</mi><mo>+</mo><mn>2</mn><mo>(</mo><mo>-</mo><mi>&#946;</mi><mo>)</mo><mo>+</mo><mi>&#947;</mi><mo>(</mo><mn>1</mn><mo>)</mo><mo>=</mo><mi>&#945;</mi><mo>-</mo><mn>2</mn><mi>&#946;</mi><mo>+</mo><mi>&#947;</mi><mo>=</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b16a6ef23ac7d519f9b45a",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> be the of all column matrices <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr></mtable></mrow></mfenced></math> such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>b</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>b</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>b</mi><mn>3</mn></msub><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> and the system of equations (in real variables)<br /><math><mtable><mtr><mtd><mo>-</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>5</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></mtd></mtr><mtr><mtd><mn>2</mn><mi>x</mi><mo>-</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd></mtr><mtr><mtd><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr></mtable></math><br />has at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution of each <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr></mtable></mrow></mfenced><mi>&#1013;</mi><mi>&#160;</mi><mi>S</mi></math> ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7O0nh",
+        "text": "<math><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><mn>4</mn><mi>y</mi><mo>+</mo><mn>5</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "RzyrS",
+        "text": "<math><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><mn>5</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>-</mo><mn>3</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "yzghv",
+        "text": "<math><mo>–</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>-</mo><mn>5</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&nbsp;</mi><mn>2</mn><mi>x</mi><mo>-</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>10</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>5</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "wl9PK",
+        "text": "<math><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>5</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi> </mi><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>-</mo><mn>5</mn><mi>z</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wl9PK",
+    "solution_text": "<p>We find <math><mi>D</mi><mo>=</mo><mn>0</mn></math> &amp; since no pair of planes are parallel, so there are an infinite number of solutions. So, the infinite solutions shall lie on a common line of intersection of these planes. Hence, we can write any plane as&nbsp; a linear combination of other two planes:&nbsp;</p><p><math><mi>&#945;</mi><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><mi>&#955;</mi><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>P</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br /><math><mo>&#8658;</mo></math> <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>13</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>3</mn></mrow></msub></math>&nbsp;(by comparing coefficients of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>,</mo><mo>&#160;</mo><mi>z</mi></math>)<br /><math><mo>&#8658;</mo></math> <math><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>13</mn><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br />(a) <math><mi>D</mi><mo>&#8800;</mo><mn>0</mn><mo>&#8658;</mo></math> unique solution for any <math><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br />(b) <math><mi>D</mi><mo>=</mo><mn>0</mn></math> but <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#8800;</mo><mn>13</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br />(c) <math><mi>D</mi><mo>=</mo><mn>0</mn></math> Also as they are parallel planes, they will have at least one solution only if they are all coincident, so that&nbsp;<math><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mo>-</mo><mn>2</mn><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mo>-</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br />So each&nbsp;of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>b</mi><mn>1</mn></msub><mo>,</mo><mi>&#160;</mi><msub><mi>b</mi><mn>2</mn></msub><mo>,</mo><mi>&#160;</mi><msub><mi>b</mi><mn>3</mn></msub></math>&nbsp;that satisfy&nbsp;<math><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>13</mn><msub><mrow><mi>b</mi></mrow><mrow><mn>3</mn></mrow></msub></math>, they don&#39;t always need to satisfy&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>b</mi><mn>2</mn></msub><mo>=</mo><mo>-</mo><mn>2</mn><msub><mi>b</mi><mn>1</mn></msub><mo>,</mo><mi>&#160;</mi><msub><mi>b</mi><mn>3</mn></msub><mo>=</mo><mo>-</mo><msub><mi>b</mi><mn>1</mn></msub></math>. Hence option is wrong.</p><p><br />(d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>&#8800;</mo><mn>0</mn><mo>&#160;</mo><mo>&#8658;</mo></math>&nbsp;unique solution for any&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>b</mi><mn>1</mn></msub><mo>,</mo><mi>&#160;</mi><msub><mi>b</mi><mn>2</mn></msub><mo>,</mo><mi>&#160;</mi><msub><mi>b</mi><mn>3</mn></msub></math></p>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3c0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "For a real number <math><mi>&#945;</mi><mo>,</mo></math> if the system <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mi>&#945;</mi></mtd><mtd><msup><mrow><mi>&#945;</mi></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr><mtr><mtd><mi>&#945;</mi></mtd><mtd><mn>1</mn></mtd><mtd><mi>&#945;</mi></mtd></mtr><mtr><mtd><msup><mrow><mi>&#945;</mi></mrow><mrow><mn>2</mn></mrow></msup></mtd><mtd><mi>&#945;</mi></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mi>&#160;</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr><mtr><mtd><mi>z</mi></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math> of linear equations, has infinitely many solutions, then <math><mn>1</mn><mo>+</mo><mi>&#945;</mi><mo>+</mo><msup><mrow><mi>&#945;</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi>&#160;</mi></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p>Determinant value of 3<math><mo>×</mo> </math>3 matrix should be zero for infinite solution</p><p><math><mi mathvariant=\"normal\">Δ</mi><mo>=</mo><mn>0</mn><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mn>1</mn><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>-</mo><mi>α</mi><mfenced separators=\"|\"><mrow><mi>α</mi><mo>-</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfenced><mo>+</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>-</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>=</mo><mn>0</mn></math></p><p><math><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>0</mn><mi>&nbsp;</mi><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>α</mi><mo>=</mo><mi>&nbsp;</mi><mo>±</mo><mi>&nbsp;</mi><mn>1</mn></math></p><p>But at &nbsp;<math><mi>α</mi><mo>=</mo><mn>1</mn></math>, three equations become parallel, so no solution so rejected</p><p>at &nbsp; <math><mi>α</mi><mo>=</mo><mo>-</mo><mn>1</mn></math>, All three equation become</p><p><math><mi>x</mi><mo>-</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>1</mn></math>&nbsp; (coincident planes), so infinite solution.</p><p><math><mo>∴</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mn>1</mn><mo>+</mo><mi>α</mi><mo>+</mo><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b16a57f23ac7d519f9b38c",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>a</mi><mo>,</mo><mi>&#160;</mi><mi>&#955;</mi><mo>,</mo><mi>&#160;</mi><mi>u</mi><mi mathvariant=\"double-struck\">&#160;</mi><mo>&#8712;</mo><mi mathvariant=\"double-struck\">R</mi></math> . Consider the system of linear equations<br /><math><mi>a</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mi>&#955;</mi></math><br /><math><mn>3</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mi>&#956;</mi></math><br />Which of the following statement(s) is (are) correct ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7IIp7",
+        "text": "If <math><mi>a</mi><mo>=</mo><mo>-</mo><mn>3</mn><mo>,</mo></math> then the system has infinitely many solutions for all values of <math><mi>λ</mi></math> and <math><mi>μ</mi></math>",
+        "image": null
+      },
+      {
+        "id": "7xXf0",
+        "text": "If <math><mi>a</mi><mi>&nbsp;</mi><mo>≠</mo><mo>-</mo><mn>3</mn><mo>,</mo></math> then the system has a unique solution for all values of <math><mi>λ</mi></math> and <math><mi>μ</mi></math>",
+        "image": null
+      },
+      {
+        "id": "NWYNC",
+        "text": "If <math><mi>λ</mi><mo>+</mo><mi>μ</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> then the system has infinitely many solutions for <math><mi>a</mi><mo>=</mo><mo>-</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "MmVu4",
+        "text": "If <math><mi>λ</mi><mo>+</mo><mi>μ</mi><mo>≠</mo><mn>0</mn><mo>,</mo></math> then the system has no solution for <math><mi>a</mi><mo>=</mo><mo>-</mo><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MmVu4",
+    "solution_text": "<math><mi>a</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mi>λ</mi></math><br /><math><mn>3</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mi>μ</mi></math><br />If&nbsp;<math><mi>a</mi><mo>=</mo><mo>-</mo><mn>3</mn></math> lines will be parallel or coincident, parallel for <math><mi>λ</mi><mo>+</mo><mi>μ</mi><mo>≠</mo><mn>0</mn></math> and coincident if <math><mi>λ</mi><mo>+</mo><mi>μ</mi><mo>=</mo><mn>0</mn></math> and if <math><mi>a</mi><mi>&nbsp;</mi><mo>≠</mo><mi>&nbsp;</mi><mo>-</mo><mn>3</mn></math> lines are intersecting <math><mo>⇒</mo></math> unique solution.<br />If parallel then no solution &amp; If coincident then infinite solution<p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169faf23ac7d519f9b037",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Let $(x, y, z)$ be points with integer coordinates satisfying the system of homogeneous equations $3 x-y-z=0,-3 x+z=0,-3 x+2 y+z=0$. Then, the number of such points for which $x^2+y^2+z^2 \\leq 100$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "Given, $\\quad 3 x-y-z=0$\nand\n$$\n\\begin{array}{r}\n-3 x+2 y+z=0 \\\\\n-3 x+z=0\n\\end{array}\n$$\nOn adding Eqs. (i) and (ii), we get $y=0$\nSo, $\\quad 3 x=z$\nNow, $\\quad x^2+y^2+z^2 \\leq 100$\n$$\n\\begin{array}{lc}\n\\Rightarrow & x^2+(3 x)^2+0 \\leq 100 \\\\\n\\Rightarrow & 10 x^2 \\leq 100 \\\\\n\\Rightarrow & x^2 \\leq 10 \\\\\n\\therefore & x=-3,-2,-1,0,1,2,3\n\\end{array}\n$$\nSo, number of such 7 points are possible.",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169f3f23ac7d519f9aff9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $A$ be the set of all $3 \\times 3$ symmetric matrices all of whose entries are either 0 or 1 . Five of these entries are 1 and four of them are 0 .<strong>Question:</strong>\nThe number of matrices $A$ in $A$ for which the system of linear equations $A\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$ is is inconsistent, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CGSCQ",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "271dK",
+        "text": "\nmore than 2\n",
+        "image": null
+      },
+      {
+        "id": "Y7OJr",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "HNnqh",
+        "text": "\n1",
+        "image": null
+      }
+    ],
+    "correct_answer": "271dK",
+    "solution_text": "Given, $A\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$\nCase I $\\left[\\begin{array}{lll}1 & a & b \\\\ a & 1 & c \\\\ b & c & 1\\end{array}\\right]\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$\n$a, b, c$ are selected from $1,0,0$.\n$\\Rightarrow x+a y+b z=1 \\Rightarrow a x+y+c z=0$ $b x+c y+z=0$\n(i) If $a=1, b=c=0$, then $x+y=1$ Inconsistent system of equation $x+y=0$\n(ii) If $a=0=c, b=1$, then $x+z=1$, $y=0$\nInconsistent system of equation\n$$\nx+z=0\n$$\n(iii) If $c=1, a=b=0$, then $x=1, z=0$, $y=0$\nCase II\n(i) $\\left[\\begin{array}{lll}1 & a & b \\\\ a & 0 & c \\\\ b & c & 0\\end{array}\\right]\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$\n$a, b, c$ are selected from $1,1,0$.\n$$\n\\begin{aligned}\n\\Rightarrow x+a y+b z & =1 \\Rightarrow a x+c z=0 \\\\\nb x+c y & =0\n\\end{aligned}\n$$\nClearly, in all three cases, solutions are possible, so system is consistent.\n$$\n\\begin{gathered}\n\\text { (ii) }\\left[\\begin{array}{lll}\n0 & a & b \\\\\na & 1 & c \\\\\nb & c & 0\n\\end{array}\\right]\\left[\\begin{array}{l}\nx \\\\\ny \\\\\nz\n\\end{array}\\right]=\\left[\\begin{array}{l}\n1 \\\\\n0 \\\\\n0\n\\end{array}\\right] \\\\\n\\Rightarrow a y+b z=1 \\Rightarrow a x+y+c z=0 \\\\\nb x+c y=0\n\\end{gathered}\n$$\nClearly, $b=0, a=c=1$ gives\n$$\ny=1 ; x+y+z=0\n$$\nInconsistent system $y=0$\nMore than 2 matrices are possible.\nHence, option (b) is correct.",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169f3f23ac7d519f9aff8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $A$ be the set of all $3 \\times 3$ symmetric matrices all of whose entries are either 0 or 1 . Five of these entries are 1 and four of them are 0 .<strong>Question:</strong>\nThe number of matrices $A$ in $A$ for which the system of linear equations $A\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$ has a unique solution, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1vgx1",
+        "text": "\nless than 4\n",
+        "image": null
+      },
+      {
+        "id": "GSIPy",
+        "text": "\natleast 4 but less than 7\n",
+        "image": null
+      },
+      {
+        "id": "Z9R29",
+        "text": "\natleast 7 but less than 10\n",
+        "image": null
+      },
+      {
+        "id": "eZczX",
+        "text": "\nat least 10",
+        "image": null
+      }
+    ],
+    "correct_answer": "GSIPy",
+    "solution_text": "Given, $A\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$\nFor unique solution, $\\operatorname{det}(A) \\neq 0$\n$$\n\\begin{gathered}\n\\text { Case I } \\operatorname{det}(A)=\\left|\\begin{array}{lll}\n1 & a & b \\\\\na & 1 & c \\\\\nb & c & 1\n\\end{array}\\right| \\\\\n=1-a^2-b^2-c^2+2 a b c \\neq 0\n\\end{gathered}\n$$\nHere $a, b, c$ is selected from $1,0,0$. (No case is possible)\nCase II\n(i) $\\operatorname{det}(A)=\\left|\\begin{array}{lll}1 & a & b \\\\ a & 0 & c \\\\ b & c & 0\\end{array}\\right|=2 a b c-c^2 \\neq 0$\nHere $a, b, c$ are selected from $1,1,0$. (2 cases are possible)\n(ii) $\\operatorname{det}(A)=\\left|\\begin{array}{lll}0 & a & b \\\\ a & 1 & c \\\\ b & c & 0\\end{array}\\right|=2 a b c-b^2 \\neq 0$\nHere $a, b, c$ are selected from $1,1,0$. (2 cases are possible)\n(iii) $\\operatorname{det}(A)=\\left|\\begin{array}{lll}0 & a & b \\\\ a & 0 & c \\\\ b & c & 1\\end{array}\\right|=2 a b c-a^2 \\neq 0$\nHere $a, b, c$ are selected from $1,1,0$. (2 cases are possible)\nHence, there are exactly 6 matrices for unique solution. Hence, option (b) is correct.",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169edf23ac7d519f9afc0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Consider the lines given by\n$$\nL_1: x+3 y-5=0, L_2: 3 x-k y-1=0, L_3: 5 x+2 y-12=0\n$$\nMatch the Statements/Expressions in Column I with the Statements/Expressions in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/t-8SrYw4JSCJlT9NZOgfJHOj9KnGrpZhN-Y1Vj8K5gU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pcJKt",
+        "text": "\n(A) r, (B) p,s, (C) s, (D) p,s\n",
+        "image": null
+      },
+      {
+        "id": "IKUAp",
+        "text": "\n(A) s, (B) p,q,r, (C) r, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "kPJM4",
+        "text": "\n(A) s, (B) p,q, (C) r, (D) p,q,s\n",
+        "image": null
+      },
+      {
+        "id": "FC4HP",
+        "text": "\n(A) r, (B) p,q, (C) s, (D) p,q",
+        "image": null
+      }
+    ],
+    "correct_answer": "kPJM4",
+    "solution_text": "(A) Solving equations $L_1$ and $L_3$,\n$$\n\\begin{aligned}\n\\frac{x}{-36+10} & =\\frac{y}{+12-25}=\\frac{1}{2-15} \\\\\nx & =2, y=1\n\\end{aligned}\n$$\n$L_1, L_2, L_3$ are concurrent, if point $(2,1)$ lies on $L_2$.\n$$\n\\therefore \\quad 6-k-1=0 \\Rightarrow k=5\n$$\n(B) Either $L_1$ is parallel to $L_2$, or $L_3$ is parallel to $L_2$, then\n$$\n\\begin{aligned}\n& \\frac{1}{3}=\\frac{3}{-k} \\text { or } \\frac{3}{5}=\\frac{-k}{2} \\\\\n& k=-9 \\quad \\text { or } \\quad k=-\\frac{6}{5}\n\\end{aligned}\n$$\n$$\n\\Rightarrow \\quad k=-9 \\text { or } k=-\\frac{6}{5}\n$$\n(C) $L_1, L_2, L_3$ form a triangle, if they are not concurrent, or not parallel.\n$$\n\\therefore \\quad k \\neq 5,-9,-\\frac{6}{5} \\Rightarrow k=\\frac{5}{6}\n$$\n(D) $L_1, L_2, L_3$ do not form a triangle, if\n$$\nk=5,-9,-\\frac{6}{5}\n$$",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169e5f23ac7d519f9af76",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Consider the system of equations $x-2 y+3 z=-1, x-3 y+4 z=1$ and $-x+y-2 z=k$\nStatement 1 The system of equations has no solution for $k \\neq 3$.\nStatement 2 The determinant $\\left|\\begin{array}{ccc}1 & 3 & -1 \\\\ -1 & -2 & k \\\\ 1 & 4 & 1\\end{array}\\right| \\neq 0$, for $k \\neq 3$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ExSk6",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "DtAjs",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "78qCA",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "7YlwH",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "ExSk6",
+    "solution_text": "$$\n\\text { The given system of equations can be expressed as }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jBbScxHaYhcKuePkpq3WFYXpu4TBDQnvjJ7XbV0GuLg.original.fullsize.png\"><br>\nWhen $k \\neq 3$, the given system of equations has no solution.\n$\\Rightarrow$ Statement 1 is true.Clearly, Statement 2 is also true as it is rearrangement of rows and columns of<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/DWVnYlhNGQEhHijhstXkfpyYNwJkcmw6j9YvbkG-GMo.original.fullsize.png\"><br>\nHence, option (a) is correct.",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169e5f23ac7d519f9af75",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Consider three planes\n$$\nP_1: x-y+z=1, P_2: x+y-z=-1\n$$\nand $P_3: x-3 y+3 z=2$\nLet $L_1, L_2$ and $L_3$ be the lines of intersection of the planes $P_2$ and $P_3, P_3$ and $P_1, P_1$ and $P_2$, respectively.\nStatement 1 Atleast two of the lines $L_1, L_2$ and $L_3$ are non-parallel.\nStatement 2 The three planes do not have a common point.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "R5hxZ",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "GTyWT",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "LCckd",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "sK8wP",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "sK8wP",
+    "solution_text": "The given equations are\n$$\n\\begin{aligned}\n& x-y+z=1, \\\\\n& x+y-z=-1 \\text { and } x-3 y+3 z=2\n\\end{aligned}\n$$\nThe system of equations can be put in matrix form as $A X=B$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Z98dskolD9r3E84JgOJxxxWAm-WJoBebFfGiKjaOBfQ.original.fullsize.png\"><br>\nwhich is inconsistent as $\\rho(A: B) \\neq \\rho(A)$.\n$\\Rightarrow$ The three planes do not have a common point.\n$\\Rightarrow$ Statement 2 is true.\nSince, planes $P_1, P_2$ and $P_3$ are pairwise intersection, their lines of intersection are parallel.\nStatement 1 is false.",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Consider the following linear equations\n$$\na x+b y+c z=0, b x+c y+a z=0, c x+a y+b z=0\n$$\nMatch the conditions/expressions in Column I with statements in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/67lHKgpE4NWG3yldUeb517taVAiUb-ATGMv_QnXaoBo.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1FKJQ",
+        "text": "\nA-p; B-p, s; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "50nYn",
+        "text": "\nA-r, q; B-r, s; C-r, s; D-r, s\n",
+        "image": null
+      },
+      {
+        "id": "APuQl",
+        "text": "\nA-s; B-p; C-q; D-s\n",
+        "image": null
+      },
+      {
+        "id": "aWtri",
+        "text": "\nA-r; B-q; C-p; D-s",
+        "image": null
+      }
+    ],
+    "correct_answer": "aWtri",
+    "solution_text": "Let $\\Delta=\\left|\\begin{array}{lll}a & b & c \\\\ b & c & a \\\\ c & a & b\\end{array}\\right|=-\\frac{1}{2}(a+b+c)\\left[(a-b)^2+(b-c)^2+(c-a)^2\\right]$\n(A) If $a+b+c \\neq 0$ and $a^2+b^2+c^2=a b+b c+c a$\n$$\n\\Rightarrow \\quad \\Delta=0 \\text { and } a=b=c \\neq 0\n$$\nThe equations represents identical planes.\n(B) $a+b+c=0$ and $a^2+b^2+c^2 \\neq a b+b c+c a$\n$$\n\\Rightarrow \\quad \\Delta=0\n$$\nThe equations have infinitely many solutions.\n$$\n\\begin{array}{rlrl} \n& & a x+b y & =(a+b) z \\\\\n\\Rightarrow & b x+c y & =(b+c) z \\\\\n\\Rightarrow & & \\left(b^2-a c\\right) y & =\\left(b^2-a c\\right) z \\Rightarrow y=z \\\\\n\\Rightarrow & a x+b y+c y & =0 \\\\\n& a x & =a y \\Rightarrow x=y=z\n\\end{array}\n$$\n(C) $a+b+c \\neq 0$ and $a^2+b^2+c^2 \\neq a b+b c+c a$\n$$\n\\Rightarrow \\quad \\Delta \\neq 0\n$$\nThe equation represent planes meeting at only one point.\n(D) $a+b+c=0$ and $a^2+b^2+c^2=a b+b c+c a$\n$$\n\\Rightarrow \\quad a=b=c=0\n$$\nThe equations represent whole of the three dimensional space.",
+    "solution_image": null,
+    "topic": "System of Linear Equations"
+  }
+]

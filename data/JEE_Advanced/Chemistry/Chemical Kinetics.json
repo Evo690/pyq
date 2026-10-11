@@ -1,0 +1,1097 @@
+[
+  {
+    "question_id": "64b16aa3f23ac7d519f9b63a",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>The plot of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>logk</mi><mi mathvariant=\"normal\">f</mi></msub></math> versus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi mathvariant=\"normal\">T</mi></mfrac></math> for a reversible reaction <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>&#8652;</mo><mi mathvariant=\"normal\">P</mi><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math> is shown.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/48fdc43b-2178-43d6-b924-0ac02b8737d5.png\" style=\"width: 296px; height: 216px;\" /></p><p>Pre-exponential factors for the forward and backward reactions are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>15</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>11</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, respectively. If the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>logK</mi></math> for the reaction at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi>logk</mi><mi mathvariant=\"normal\">b</mi></msub></mfenced></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"\" open=\"[\"><mrow><mi mathvariant=\"normal\">K</mi><mo>=</mo></mrow></mfenced></math>equilibrium constant of the reaction, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">f</mi></msub><mo>=</mo></math>rate constant of forward reaction, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo></math>rate constant of backward reaction]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<blockquote><p>From the question<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"left\"><mtr><mtd><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">f</mi></msub><mo>=</mo><msup><mn>10</mn><mn>15</mn></msup><mo>,</mo><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo><msup><mn>10</mn><mn>11</mn></msup><mo>,</mo></mtd><mtd><mi mathvariant=\"normal\">f</mi><mo>=</mo><mtext>&#160;Forward reaction&#160;</mtext></mtd></mtr><mtr><mtd><mi>logK</mi><mtext>&#160;at&#160;</mtext><mn>500</mn><mi mathvariant=\"normal\">K</mi><mo>=</mo><mn>6</mn></mtd><mtd><mi mathvariant=\"normal\">b</mi><mo>=</mo><mtext>&#160;Backward reaction&#160;</mtext></mtd></mtr><mtr><mtd><msub><mi>logk</mi><mi mathvariant=\"normal\">f</mi></msub><mtext>&#160;at&#160;</mtext><mn>500</mn><mi mathvariant=\"normal\">K</mi><mo>=</mo><mn>9</mn><mtext>&#160;(from graph)&#160;</mtext></mtd><mtd></mtd></mtr><mtr><mtd><msub><mi>logk</mi><mi mathvariant=\"normal\">b</mi></msub><mtext>&#160;at&#160;</mtext><mn>500</mn><mi mathvariant=\"normal\">K</mi><mo>:</mo></mtd><mtd></mtd></mtr><mtr><mtd><mi>logK</mi><mo>=</mo><mi>log</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">f</mi></msub><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">b</mi></msub></mfrac></mfenced><mo>&#160;&#160;</mo><mtext>&#160;since&#160;</mtext><mo>&#8658;</mo><mi mathvariant=\"normal\">K</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">f</mi></msub><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">b</mi></msub></mfrac></mtd><mtd></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>=</mo><msub><mi>logk</mi><mi mathvariant=\"normal\">f</mi></msub><mo>-</mo><msub><mi>logk</mi><mi mathvariant=\"normal\">b</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>=</mo><mn>9</mn><mo>-</mo><msub><mi>logk</mi><mi mathvariant=\"normal\">b</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>log</mi><mo>&#8289;</mo><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo><mn>3</mn><mtext>&#160;at&#160;</mtext><mn>500</mn><mi mathvariant=\"normal\">K</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>log</mi><mo>&#8289;</mo><mfrac><msub><mi mathvariant=\"normal\">k</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">k</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><mrow><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub></mrow><mi mathvariant=\"normal\">R</mi></mfrac><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">b</mi></msub><msup><mi mathvariant=\"normal\">e</mi><mfrac><mrow><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">E</mi><mi>ab</mi></msub></mrow><mi>RT</mi></mfrac></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mo>&#8289;</mo><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">b</mi></msub><msup><mi mathvariant=\"normal\">e</mi><mfrac><mrow><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">E</mi><mi>ab</mi></msub></mrow><mi>RT</mi></mfrac></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>lnk</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo><msub><mi>lnA</mi><mi mathvariant=\"normal\">b</mi></msub><mo>-</mo><mfrac><msub><mi mathvariant=\"normal\">E</mi><mi>ab</mi></msub><mi>RT</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>303</mn><msub><mi>logk</mi><mi mathvariant=\"normal\">b</mi></msub><mo>=</mo><mn>2</mn><mo>.</mo><mn>303</mn><msub><mi>logA</mi><mi mathvariant=\"normal\">b</mi></msub><mo>-</mo><mfrac><msub><mi mathvariant=\"normal\">E</mi><mi>ab</mi></msub><mrow><mn>500</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub><mrow><mn>500</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>303</mn><mfenced><mrow><msub><mi>logA</mi><mi mathvariant=\"normal\">b</mi></msub><mo>-</mo><msub><mi>logk</mi><mi mathvariant=\"normal\">b</mi></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub><mrow><mn>500</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>303</mn><mfenced><mrow><mi>log</mi><msup><mn>10</mn><mn>11</mn></msup><mo>-</mo><mn>3</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub><mrow><mn>500</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>303</mn><mo>(</mo><mn>11</mn><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>2</mn><mo>.</mo><mn>303</mn><mo>&#215;</mo><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mn>2</mn><mo>.</mo><mn>303</mn><mo>&#215;</mo><mn>8</mn><mo>&#215;</mo><mn>500</mn><mi mathvariant=\"normal\">R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">k</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">k</mi><mn>1</mn></msub></mfrac></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub></mrow><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mrow><mfrac><mn>1</mn><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></mrow></mfrac><mo>-</mo><mfrac><mn>1</mn><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub></mrow></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">k</mi><mrow><mn>250</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></mrow></msub><msub><mi mathvariant=\"normal\">k</mi><mrow><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></mrow></msub></mfrac></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">a</mi></msub></mrow><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mrow><mfrac><mn>1</mn><mn>250</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>500</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">k</mi><mrow><mn>250</mn><mi mathvariant=\"normal\">K</mi></mrow></msub><msub><mi mathvariant=\"normal\">k</mi><mrow><mn>500</mn><mi mathvariant=\"normal\">K</mi></mrow></msub></mfrac></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><mn>2</mn><mo>.</mo><mn>303</mn><mo>&#215;</mo><mn>8</mn><mo>&#215;</mo><mn>500</mn><mi mathvariant=\"normal\">R</mi></mrow><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mfrac><mn>1</mn><mn>500</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>303</mn><mfenced><mrow><msub><mi>logk</mi><mrow><mn>250</mn><mi mathvariant=\"normal\">K</mi></mrow></msub><mo>-</mo><msub><mi>logk</mi><mrow><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></mrow></msub></mrow></mfenced><mo>=</mo><mo>-</mo><mn>2</mn><mo>.</mo><mn>303</mn><mo>&#215;</mo><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>logk</mi><mrow><mn>250</mn><mi mathvariant=\"normal\">K</mi></mrow></msub><mo>-</mo><mn>3</mn><mo>=</mo><mo>-</mo><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>logk</mi><mrow><mn>250</mn><mi mathvariant=\"normal\">K</mi></mrow></msub><mo>=</mo><mo>-</mo><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi>logk</mi><mrow><mn>250</mn><mi mathvariant=\"normal\">K</mi></mrow></msub></mfenced><mo>=</mo><mn>5</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Arrhenius theory"
+  },
+  {
+    "question_id": "64b16a6df23ac7d519f9b452",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Consider the following reversible reaction:<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><mfenced separators=\"|\"><mi mathvariant=\"normal\">g</mi></mfenced><mo>+</mo><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mi mathvariant=\"normal\">g</mi></mfenced><mo>&#8652;</mo><mi>AB</mi><mo>&#160;</mo><mfenced separators=\"|\"><mi mathvariant=\"normal\">g</mi></mfenced></math><br />The activation energy of the backward reaction exceeds that of the forward reaction by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>RT</mi></math>&nbsp;(in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>). If the pre-exponential factor of the forward reaction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;times that of the reverse reaction, the absolute value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">G</mi><mo>&#8861;</mo></msup><mo>&#160;&#160;</mo><mo>(</mo><mi>in</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>)</mo></math> for the reaction at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;is ____.<br />(Given; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mn>2</mn></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>.7</mo><mo>,</mo><mo>&#160;&#160;</mo><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mn>2500</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi>at</mi><mi mathvariant=\"normal\">&#160;</mi><mn>300</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">G</mi></math>&nbsp;is the Gibbs energy)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8500",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>+</mo><mi mathvariant=\"normal\">B</mi><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>&#8652;</mo><mi>AB</mi><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">g</mi></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>ab</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">E</mi><mi>ef</mi></msub><mo>=</mo><mn>2</mn><mi>RT</mi><mi mathvariant=\"normal\">&#160;</mi><mo>&#8658;</mo><mo>&#8710;</mo><mi mathvariant=\"normal\">H</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>RT</mi><mi mathvariant=\"normal\">&#160;</mi><mi>and</mi><mfrac><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">f</mi></msub><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">b</mi></msub></mfrac><mo>=</mo><mn>4</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub><mo>=</mo><mfenced separators=\"|\"><mfrac><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">f</mi></msub><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">b</mi></msub></mfrac></mfenced><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">A</mi><mrow><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi></mrow></msub><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><msub><mi mathvariant=\"normal\">E</mi><mi>af</mi></msub><mo>/</mo><mi>RT</mi></mrow></msup></mrow><mrow><msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">b</mi></msub><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><msub><mi mathvariant=\"normal\">E</mi><mi>ab</mi></msub><mo>/</mo><mi>RT</mi></mrow></msup></mrow></mfrac><mo>=</mo><mn>4</mn><mfenced separators=\"|\"><msup><mi mathvariant=\"normal\">e</mi><mn>2</mn></msup></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mo>-</mo><mi>RTln</mi><mo>&#8289;</mo><mi mathvariant=\"normal\">K</mi><mo>=</mo><mo>-</mo><mn>2500</mn><mo>&#215;</mo><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mn>4</mn><mo>&#215;</mo><msup><mi mathvariant=\"normal\">e</mi><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mo>-</mo><mn>8500</mn><mi mathvariant=\"normal\">J</mi><mo>/</mo><mi>mol</mi></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi></math> Absolute value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>-</mo><mn>8500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>/</mo><mi>mol</mi></math>",
+    "solution_image": null,
+    "topic": "Arrhenius theory"
+  },
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e1",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "In a bimolecular reaction, the steric factor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> was experimentally determined to be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>5</mn></math>. The correct option(s) among the following is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JGqbC",
+        "text": "The value of the frequency factor predicted by the Arrhenius equation is higher than that determined experimentally.",
+        "image": null
+      },
+      {
+        "id": "IUhpz",
+        "text": "The activation energy of the reaction is unaffected by the value of the steric factor.",
+        "image": null
+      },
+      {
+        "id": "inERb",
+        "text": "Since <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>5</mn></math>, the reaction will not proceed unless an effective catalyst is used.",
+        "image": null
+      },
+      {
+        "id": "gO9oN",
+        "text": "The experimentally determined value of the frequency factor is higher than that predicated by the Arrhenius equation.",
+        "image": null
+      }
+    ],
+    "correct_answer": "gO9oN",
+    "solution_text": "The Arrhenius equation is\r\n\r\n\\(\\mathrm{k}=\\mathrm{Ae}^{-\\mathrm{Ea} / \\mathrm{RT}}\\)\r\n\r\nwhere A = Pre-exponential factor\r\n\r\nA is not directly related with temperature and activation energy.\r\n\r\nWhere \\(A=\\underset{\\text { (Frequency factor) }}{Z} \\times \\underset{\\text { (Steric factor) }}{P}\\)\r\n\r\nHence we can say the \\(\\mathrm{E}_{\\mathrm{a}}\\) is independent of steric factor\r\n\r\n\\(\\mathrm{P}=\\frac{\\mathrm{K}_{\\text {actual }}}{\\mathrm{K}_{\\text {theoretical }}}\\)\r\n\r\nSo, \\(A_{\\text {actual }}>A_{\\text {theoretical }}\\)",
+    "solution_image": null,
+    "topic": "Arrhenius theory"
+  },
+  {
+    "question_id": "64b16a4ff23ac7d519f9b344",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "According to the Arrhenius equation,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "E0X4U",
+        "text": "A high activation energy usually implies a fast reaction",
+        "image": null
+      },
+      {
+        "id": "cfpUN",
+        "text": "Rate constant increase with increase in temperature. This is due to a greater number of collisions whose energy exceeds the activation energy",
+        "image": null
+      },
+      {
+        "id": "ko5iJ",
+        "text": "Higher the magnitude of activation energy, stronger is the temperature dependence of the rate constant",
+        "image": null
+      },
+      {
+        "id": "3Pp6B",
+        "text": "The pre-exponential factor is a measure of the rate at which collisions occur, irrespective of their energy.",
+        "image": null
+      }
+    ],
+    "correct_answer": "3Pp6B",
+    "solution_text": "A] <math><mi mathvariant=\"normal\">k</mi><mo>=</mo><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mrow></mrow></msup></math><br />High <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></math> means less k, hence slower rate.<br />B] <math><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mrow></mrow></msup></math> = fraction of molecules having kinetic energy greater than activation energy which increase as temperature increases.<br />C] ln <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">k</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">k</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></mrow></mfenced></math> i.e., ln <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">k</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>∝</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></math><br />D] Rate of reaction <math><mo>∝</mo></math> Total number of collisions × Fraction of collisions which can form product<br />Rate of reaction <math><mo>∝</mo><msub><mrow><mi mathvariant=\"normal\">Z</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">B</mi></mrow></msub><mo>×</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi><mo>×</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mrow></mrow></msup></mrow></mfenced></math><br /><math><mo>∝</mo><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">&nbsp;</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mrow></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Arrhenius theory"
+  },
+  {
+    "question_id": "64b169fef23ac7d519f9b05a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Plots showing the variation of the rate constant $(k)$ with temperature $(T)$ are given below. The plot that follows Arrhenius equation is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dOkXy",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bBedyTUwOt1eLOFZiwi1MPSuJxPJn50Hejpee9qJpSc.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "8VPzn",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kp3C4NCB2daXgW6i0LDh4DAfOXG9YpKMW-HawADi_8Q.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "mlywm",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OGeL6AlXQQCvgmEfuRumFkRjPbU0KTWJ-kz6MnCOhrM.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "qnWAy",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SGXhcjtDKqxWCyhO3ysXxgUSjzamNVjExpoNID2Ov-I.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "dOkXy",
+    "solution_text": "$k=A e^{-E_a / R T}, \\quad$ As temperature increases $k$ increases exponentially. Chemical kinetics Conceptual mathematical analysis of data I",
+    "solution_image": null,
+    "topic": "Arrhenius theory"
+  },
+  {
+    "question_id": "64b169f6f23ac7d519f9b014",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "For a first order reaction, $A \\rightarrow P$, the temperature $(T)$ dependent rate constant $(k)$ was found to follow the equation, $\\log k=-(2000) / T+6.0$\nThe pre-exponential factor $A$ and the activation energy $\\left(E_a\\right)$, respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FEBw4",
+        "text": "\n$1.0 \\times 10^6 \\mathrm{~s}^{-1}$ and $9.2 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "sDbwh",
+        "text": "\n$6.0 \\mathrm{~s}^{-1}$ and $16.6 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "t3AdE",
+        "text": "\n$1.0 \\times 10^6 \\mathrm{~s}^{-1}$ and $16.6 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "7Fjcf",
+        "text": "\n$1.0 \\times 10^6 \\mathrm{~s}^{-1}$ and $38.3 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "7Fjcf",
+    "solution_text": "Comparing the slope and intercept of the given equation with the following Arrhenius equation :\n$$\n\\log k=-\\frac{E_a}{2303 R T}+\\log A\n$$\nHence, $\\log A=6$ i.e. $A=10^6 \\mathrm{~s}^{-1}$.\nComparing slope gives $E_a=38.3 \\mathrm{~kJ} / \\mathrm{mol}$.",
+    "solution_image": null,
+    "topic": "Arrhenius theory"
+  },
+  {
+    "question_id": "66965de4d603121f43a43b61",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into $\\mathrm{Pb}-206$ while the rest of it remains undisintegrated.\nWhen the age of the sample is $\\mathbf{P} \\times 10^8$ years, the ratio of mass of $\\mathrm{Pb}-206$ to that of $\\mathrm{U}-238$ in the sample is found to be 7 . The value of $\\mathbf{P}$ is ______\n[Given: Half-life of U-238 is $4.5 \\times 10^9$ years; $\\log _c 2=0.693$ ]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 143,
+    "solution_text": "${ }_{92} \\mathrm{U}^{238} \\quad \\longrightarrow \\quad{ }_{82} \\mathrm{~Pb}^{206}+8{ }_2 \\mathrm{He}^4+6_{-1} \\beta^0$\n$\\mathrm{t}=0 \\quad \\mathrm{~N}_0=\\left(\\frac{1}{238}+\\frac{7}{206}\\right)$ moles $\\mathrm{t}=\\mathrm{tN}_{\\mathrm{t}}=\\frac{1}{238}$ moles $\\mathrm{x}=\\frac{7}{206}$ moles\nLife of sample \\(\\rightarrow t\\) years\r\n\\([A]_0 \\propto\\) Initial mole of \\(\\mathrm{U}-238\\)\r\n\\([A]]_t \\propto\\) Final mole of U-238\r\n\\(\\begin{aligned}\r\n& \\frac{|A|_0}{|A|_t}=\\frac{\\frac{1}{228}+\\frac{7}{206}}{\\frac{1}{238}} \\\\\r\n& =\\frac{0.0042+0.0340}{0.0042} \\\\\r\n& =9.1 \\\\\r\n& =\\frac{2.303 \\log 2 \\times t}{4.5 \\times 10^9}=2.303 \\log 9.1 \\\\\r\n& t=14.27 \\times 10^9 \\text { years } \\\\\r\n& =142.7 \\times 10^8 \\text { years } \\\\\r\n& P=142.7 \\\\\r\n& P=143\r\n\\end{aligned}\\)",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b525",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>Which of the following plots is(are) correct for the given reaction?</p><p>(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi mathvariant=\"normal\">P</mi><msub><mo>]</mo><mn>0</mn></msub></math> is the initial concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f0fe2773-6420-4b66-9c06-87b59d290fe6-image.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UNtoR",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/db536072-a459-430b-a7e0-b152690bfe9a-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "k5hKg",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b45758b6-3155-49be-bb91-443cc196c12c-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "BELTc",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4fb4ebea-65ee-41a6-80b5-246031046061-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "cjgEs",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1f55b3c3-371b-400c-86eb-c3a62da7ddf7-image.png\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UNtoR",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0ae4309b-6051-4cbc-ae25-079b446f2900-image.png\"/></p><p>this is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mtext>st </mtext></msup></math> order reaction</p><p>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mtext>st </mtext></msup></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>693</mn></mrow><mi mathvariant=\"normal\">k</mi></mfrac></math></p><p>So independent of initial concentration</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/249155dd-2c12-46d4-8d9c-67bba1b6359f-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi><mo>=</mo><msub><mi mathvariant=\"normal\">C</mi><mn>0</mn></msub><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mi>kt</mi></mrow></msup><mo>⇒</mo><mo>tn</mo><mfenced close=\"]\" open=\"[\"><mfrac><mi mathvariant=\"normal\">C</mi><msub><mi mathvariant=\"normal\">C</mi><mn>0</mn></msub></mfrac></mfenced><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">k</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>ln</mi><mfenced close=\"]\" open=\"[\"><mfrac><mi mathvariant=\"normal\">P</mi><mrow><mo>[</mo><mi mathvariant=\"normal\">P</mi><msub><mo>]</mo><mn>0</mn></msub></mrow></mfrac></mfenced><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">k</mi></math></p><p>So graph <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math> is incorrect.</p>",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a7ff23ac7d519f9b4f8",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">U</mi><mprescripts></mprescripts><mn>92</mn><mn>238</mn></mmultiscripts></math> is known to undergo radioactive decay to form <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Pb</mi><mprescripts></mprescripts><mn>82</mn><mn>206</mn></mmultiscripts></math> by emitting alpha and bet a particles. A rock initially contained <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>68</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mi mathvariant=\"normal\">g</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">U</mi><mprescripts></mprescripts><mn>92</mn><mn>238</mn></mmultiscripts></math>. If the number of alpha particles that it would emit during its radioactive decay of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">U</mi><mprescripts></mprescripts><mn>92</mn><mn>238</mn></mmultiscripts></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Pb</mi><mprescripts></mprescripts><mn>82</mn><mn>206</mn></mmultiscripts></math> in three half-lives is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi><mo>&#215;</mo><msup><mn>10</mn><mn>18</mn></msup></math>,&nbsp;then what is the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi></math>?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.2",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow></mrow><mn>92</mn><mn>238</mn></msubsup><mi mathvariant=\"normal\">U</mi><msubsup><mo>&#8594;</mo><mn>82</mn><mn>206</mn></msubsup><mi>Pb</mi><msubsup><mo>+</mo><mn>2</mn><mn>4</mn></msubsup><mi>He</mi><mo>+</mo><mn>6</mn><msubsup><mtext>&#8201;</mtext><mrow><mo>&#8722;</mo><mn>1</mn></mrow><mrow><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><msup><mo>&#160;</mo><mn>0</mn></msup></mrow></msubsup><mi mathvariant=\"normal\">&#946;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>286</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mi>mole</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>.</mo><mn>286</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#215;</mo><msub><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">a</mi></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>286</mn><mo>&#215;</mo><mn>6</mn><mo>.</mo><mn>02</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>72</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></math></p><p>After 3 half lives</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi><mo>=</mo><mfrac><mi>No</mi><mrow><mo>(</mo><mn>2</mn><msup><mo>)</mo><mn>3</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>72</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></mrow><mn>8</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>215</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></math></p><p>So, no. of molecule of uranium decayed</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>[</mo><mn>1</mn><mo>.</mo><mn>72</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>215</mn><mo>]</mo><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mn>17</mn><mo>-</mo></mrow></msup></math></p><p>So No. of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#945;</mi></math> particle produced <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>8</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>12</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mn>18</mn></msup></math>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b482",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "In the decay sequence:<br /><math><mmultiscripts><mrow><mi mathvariant=\"normal\">U</mi></mrow><mprescripts></mprescripts><mrow><mn>92</mn></mrow><mrow><mn>238</mn></mrow></mmultiscripts><mover accent=\"false\"><mo>&#8594;</mo><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mover><mmultiscripts><mrow><mi mathvariant=\"normal\">T</mi><mi mathvariant=\"normal\">h</mi></mrow><mprescripts></mprescripts><mrow><mn>90</mn></mrow><mrow><mn>234</mn></mrow></mmultiscripts><mover accent=\"false\"><mo>&#8594;</mo><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mover><mmultiscripts><mrow><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">a</mi></mrow><mprescripts></mprescripts><mrow><mn>91</mn></mrow><mrow><mn>234</mn></mrow></mmultiscripts><mover accent=\"false\"><mo>&#8594;</mo><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mover><mmultiscripts><mrow><mi mathvariant=\"normal\">Z</mi></mrow><mprescripts></mprescripts><mrow><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mn>234</mn></mrow></mmultiscripts><mover accent=\"false\"><mo>&#8594;</mo><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow></mover><mmultiscripts><mrow><mi mathvariant=\"normal\">T</mi><mi mathvariant=\"normal\">h</mi></mrow><mprescripts></mprescripts><mrow><mn>90</mn></mrow><mrow><mn>234</mn></mrow></mmultiscripts></math><br /><math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>4</mn></mrow></msub></math> are&nbsp;the particles/ radiation emitted by the respective isotopes. The correct option(s) is/are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FfSQd",
+        "text": "<math><mi mathvariant=\"normal\">Z</mi></math> is an isotope of uranium.",
+        "image": null
+      },
+      {
+        "id": "yilEn",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is <math><msup><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mo>-</mo></mrow></msup></math>.",
+        "image": null
+      },
+      {
+        "id": "kIOw7",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>1</mn></mrow></msub></math> will deflect towards the negatively charged plate.",
+        "image": null
+      },
+      {
+        "id": "9QUeq",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is <math><mi mathvariant=\"normal\">&#947;</mi></math>-ray.",
+        "image": null
+      }
+    ],
+    "correct_answer": "kIOw7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dckqhyvznzmodjewqmsldsorhsyaaltuzneuinvvvdpcgzzrqh.jpeg\"/><br >I.e., <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">x</mi><mtext>1</mtext></msub><mo>=</mo><mi mathvariant=\"normal\">α</mi><mo>,</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>x</mtext><mtext>2</mtext></msub><mo>=</mo><mtext>β</mtext><mo>,</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>x</mtext><mtext>3</mtext></msub><mo>=</mo><mtext>β</mtext></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>x</mtext><mtext>4</mtext></msub><mo>=</mo><mi mathvariant=\"normal\">α</mi></math>.",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a6cf23ac7d519f9b44a",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "For a first order reaction <math><mi>A</mi><mo>(</mo><mi>g</mi><mo>)</mo><mi>&#160;</mi><mo>&#8594;</mo><mi>&#160;</mi><mn>2</mn><mi>B</mi><mo>(</mo><mi>g</mi><mo>)</mo><mi>&#160;</mi><mo>+</mo><mi>&#160;</mi><mi>C</mi><mo>(</mo><mi>g</mi><mo>)</mo></math> at constant volume and 300 K, the total pressure at the beginning <math><mo>(</mo><mi>t</mi><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mn>0</mn><mo>)</mo></math> and at time are <math><mi>&#160;</mi><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></math>, respectively. Initially, only A is present with concentration <math><mi>&#160;</mi><msub><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>A</mi></mrow></mfenced></mrow><mrow><mn>0</mn></mrow></msub></math>, and&nbsp; <math><msub><mrow><mi>t</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>&#160;</mi></mrow></msub></math> is the time required for the partial pressure of A to reach <math><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><msup><mrow><mn>3</mn></mrow><mrow><mi>r</mi><mi>d</mi></mrow></msup></mrow></mrow></math> of its initial value. The correct option(s) is (are)<br />(Assume that all these gases behave as ideal gases)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OmHr3",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qvspugwdqedskwcqrdbiwmmykvsidwzavnsmhcgzuulrucmoxc.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "v50bW",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wdarztbcivjcliqltxkmvpximlmiwsoosnkskpvckdidubnnya.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "AgEr6",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yllwzuotzkgqdwsztefevqgpjdbigqpvfkwuwisgmaxxoqpbtc.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "Lw5ST",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/blyxxvgvoxxlilbpeyjcyeoaxebfxfgpzfxmihtawsbdwublki.jpeg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Lw5ST",
+    "solution_text": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math><mi>A</mi><mo>&#8594;</mo><mn>2</mn><mi>B</mi><mo>+</mo><mi>C</mi></math><br /><math><mtable><mtr><mtd><mi>t</mi><mo>=</mo><mn>0</mn></mtd><mtd><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></mtd><mtd><mo>-</mo><mi>&#160;</mi><mo>-</mo></mtd></mtr><mtr><mtd><mi>t</mi><mo>=</mo><mi>t</mi></mtd><mtd><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><mi>P</mi></mtd><mtd><mn>2</mn><mi>P</mi><mi>&#160;</mi><mi>&#160;</mi><mi>P</mi></mtd></mtr></mtable></math><br /><math><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>+</mo><mn>2</mn><mi>P</mi><mo>=</mo><msub><mrow><mi>P</mi></mrow><mrow><mi>t</mi></mrow></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mo>=</mo><mfrac><mn>1</mn><mi>t</mi></mfrac><mi>ln</mi><mo>&#8289;</mo><mfrac><msub><mi>P</mi><mn>0</mn></msub><mrow><msub><mi>P</mi><mn>0</mn></msub><mo>-</mo><mi>P</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mi>t</mi></mfrac><mi>ln</mi><mo>&#8289;</mo><mfrac><msub><mi>P</mi><mn>0</mn></msub><mrow><msub><mi>P</mi><mn>0</mn></msub><mo>-</mo><mfrac><mfenced separators=\"|\"><mrow><msub><mi>P</mi><mi>t</mi></msub><mo>-</mo><msub><mi>P</mi><mn>0</mn></msub></mrow></mfenced><mn>2</mn></mfrac></mrow></mfrac></math><br /><math><mi>K</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mn>2</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><msub><mrow><mi>P</mi></mrow><mrow><mi>t</mi></mrow></msub></mrow></mfrac></mrow></mrow><mo>&#8658;</mo><mo>-</mo><mi>K</mi><mi>t</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><mn>2</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><msub><mrow><mi>P</mi></mrow><mrow><mi>t</mi></mrow></msub></mrow></mfenced></mrow></mrow></mrow></mrow></math><br />And <math><msub><mrow><mi>t</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>K</mi></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&#160;</mi></mrow><mrow><mfrac><mrow><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfrac></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>K</mi></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><mn>3</mn><mo>=</mo></mrow></mrow></math> contant<br />Rate constant does not depends on concentration",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a4ff23ac7d519f9b33d",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "A plot of the number of neutrons <math><mo stretchy=\"false\">(</mo><mtext>N</mtext><mo stretchy=\"false\">)</mo></math> against the number of protons <math><mo stretchy=\"false\">(</mo><mtext>P</mtext><mo stretchy=\"false\">)</mo></math> of&nbsp;the stable nuclei exhibits upwards deviation from linearity for atomic number, <math> <mrow> <mtext>Z</mtext><mo>&#62;</mo><mn>20</mn> </mrow> </math>. For an unstable nucleus having <math> <mrow> <mfrac> <mtext>N</mtext> <mtext>P</mtext> </mfrac> </mrow> </math> ratio less than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>, the possible mode(s) of decay is (are):",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TcvTE",
+        "text": "<math><msup><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mo>-</mo></mrow></msup></math> decay ( <math><mi mathvariant=\"normal\">&#946;</mi></math> emission)",
+        "image": null
+      },
+      {
+        "id": "aUGYQ",
+        "text": "Orbital of K-electron capture",
+        "image": null
+      },
+      {
+        "id": "7Budo",
+        "text": "Neutron emission",
+        "image": null
+      },
+      {
+        "id": "aAjEz",
+        "text": "<math><msup><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mo>+</mo></mrow></msup></math> decay (positron emission)",
+        "image": null
+      }
+    ],
+    "correct_answer": "aAjEz",
+    "solution_text": "As <math><mfrac><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfrac></math> ratio is less than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>,&nbsp;for possible decay mode,&nbsp;<math><mfrac><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfrac></math> ratio should increase. The possible modes are <math><mi mathvariant=\"normal\">&#945;</mi></math>-decay, K-capture and <math><msup><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mo>+</mo></mrow></msup></math>-decay. Hence, the correct options are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>4</mn></mfenced></math>&nbsp;(In <math><msup><mrow><mi mathvariant=\"normal\">&#946;</mi></mrow><mrow><mo>-</mo></mrow></msup></math>-decay or neutron decay, <math><mfrac><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfrac></math> ratio will decrease further).<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">P</mi></mfrac></math> should increase. So,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow></mrow><mn>0</mn></msub><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">p</mi><mprescripts></mprescripts><mn>1</mn><mn>1</mn></mmultiscripts><mo>&#10230;</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><mprescripts></mprescripts><mn>1</mn><mn>0</mn></mmultiscripts></math> [K-electron Capture]<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">p</mi><mprescripts></mprescripts><mn>1</mn><mn>1</mn></mmultiscripts><mo>&#10230;</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><mprescripts></mprescripts><mn>1</mn><mn>0</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">&#946;</mi><mprescripts></mprescripts><mn>0</mn><mn>1</mn></mmultiscripts></math> [<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">&#946;</mi><mo>+</mo></msup></math>-decay]<br />&nbsp;",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a48f23ac7d519f9b2ff",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "A closed vessel with rigid walls contains 1 mol of <math><mmultiscripts><mrow><mi mathvariant=\"normal\">U</mi></mrow><mprescripts></mprescripts><mrow><mn>92</mn></mrow><mrow><mn>238</mn></mrow></mmultiscripts></math> and 1 mol of air at 298 K. Considering complete decay of <math><mmultiscripts><mrow><mi mathvariant=\"normal\">U</mi></mrow><mprescripts></mprescripts><mrow><mn>92</mn></mrow><mrow><mn>238</mn></mrow></mmultiscripts></math> to <math><mmultiscripts><mrow><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi></mrow><mprescripts></mprescripts><mrow><mn>82</mn></mrow><mrow><mn>206</mn></mrow></mmultiscripts></math> , the ratio of the final pressure to the initial pressure of the system at 298 K is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p>Initial moles of gases = 1<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image1-b155210f-8b0b-4457-ab26-df1b1bc4064c.png\"/><br >Total gaseous moles after decomposition <math><mo>=</mo><mn>8</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>9</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">s</mi></math><br >Ratio of pressures, <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi mathvariant=\"normal\">f</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi mathvariant=\"normal\">i</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mi mathvariant=\"normal\">f</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mi mathvariant=\"normal\">i</mi></mrow></msub></mrow></mfrac><mo>=</mo><mn>9</mn></math></p>",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b169",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "An organic compound undergoes first-order decomposition. The time taken for its decomposition to $1 /$ 8 and $1 / 10$ of its initial concentration are $t_{1 / 8}$ and $t_{1 / 10}$ respectively. What is the value of $\\left[\\frac{t_{1 / 8}}{t_{1 / 10}}\\right] \\times 10$ ? $\\left(\\log _{10} 2=0.3\\right)$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "$\\begin{array}{l}\r\n\r\n t_{1 / 8}=\\frac{2.303 \\log 8}{k}=\\frac{2.303 \\times 3 \\log 2}{k} \\\\\r\n\r\nt_{1 / 10}=\\frac{2.303}{k} \\log 10=\\frac{2.303}{k} \\\\\r\n\r\n{\\left[\\frac{t_{1 / 8}}{t_{1 / 10}}\\right] \\times 10=\\frac{\\left(\\frac{2.303 \\times 3 \\log 2}{k}\\right)}{\\left(\\frac{2.303}{k}\\right)} \\times 10=9}\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a14f23ac7d519f9b127",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "For the first order reaction $2 \\mathrm{~N}_2 \\mathrm{O}_5(\\mathrm{~g}) \\longrightarrow 4 \\mathrm{NO}_2(g)+\\mathrm{O}_2(g)$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "M6JEl",
+        "text": "\nthe concentration of the reactant decreases exponentially with time.\n",
+        "image": null
+      },
+      {
+        "id": "JCTQE",
+        "text": "\nthe half-life of the reaction decreases with increasing temperature\n",
+        "image": null
+      },
+      {
+        "id": "UnULu",
+        "text": "\nthe half-life of the reaction depends on the initial concentration of the reactant.\n",
+        "image": null
+      },
+      {
+        "id": "pluGW",
+        "text": "\nthe reaction proceeds of $99.6 \\%$ completion in eight half-life duration.",
+        "image": null
+      }
+    ],
+    "correct_answer": "pluGW",
+    "solution_text": "(a) For a first order reaction, the concentration of reactant remaining after time $t$ is given by $[A]=[A]_0 e^{-k t}$ Therefore, concentration of reactant decreases exponentially with time.\n(b) Rise in temperature increases rate constant $(k)$ and therefore decreases half-life $\\left(t_{1 / 2}\\right)$ as\n$$\nt_{1 / 2}=\\frac{\\operatorname{In} 2}{k}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uEiTlnTY4Ij0rcajIC-R8c-EXfiYKaN6knd4uf6U5Fc.original.fullsize.png\"><br>\n(d) For a first order reaction, if 100 moles of reactant is taken initially, after $n$ half-lives, reactant remaining is given by\n$$\n\\begin{aligned}\n& \\text { Percentage } A=100\\left(\\frac{1}{2}\\right)^n=100\\left(\\frac{1}{2}\\right)^8=0.3906 \\\\\n& \\Rightarrow \\text { A reacted }=100-0.3906=99.6 \\%\n\\end{aligned}\n$$\n(c) Half-life of first order reaction is independent of initial concentration.",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b169e1f23ac7d519f9af55",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Under the same reaction conditions, initial concentration of $1.386 \\mathrm{~mol} \\mathrm{dm}^{-3}$ of a substance becomes half in 40 s and 20 s through first-order and zero-order kinetics, respectively. Ratio $\\left(\\frac{k_1}{k_0}\\right)$ of the rate constants for first order $\\left(k_1\\right)$ and zero $\\operatorname{order}\\left(k_0\\right)$ of the reaction is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ns5IE",
+        "text": "\n$0.5 \\mathrm{~mol}^{-1} \\mathrm{dm}^3$\n",
+        "image": null
+      },
+      {
+        "id": "dBs9L",
+        "text": "\n$1.0 \\mathrm{~mol} \\mathrm{dm}^3$\n",
+        "image": null
+      },
+      {
+        "id": "Xbl3P",
+        "text": "\n$1.5 \\mathrm{~mol} \\mathrm{dm}^3$\n",
+        "image": null
+      },
+      {
+        "id": "Ud4pb",
+        "text": "\n$2.0 \\mathrm{~mol}^{-1} \\mathrm{dm}^3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ns5IE",
+    "solution_text": "First order kinetics, $k_1=\\frac{0.693}{t_{1 / 2}}=\\frac{0.693}{40} \\mathrm{~s}^{-1}$\nZero order kinetics, $k_1=\\frac{C_0}{2 t_{1 / 2}}=\\frac{1.386}{2 \\times 20}$\nHence, $\\frac{k_1}{k_0}=\\frac{0.693}{1.386}=0.5$",
+    "solution_image": null,
+    "topic": "Integrated rate laws"
+  },
+  {
+    "question_id": "64b16a00f23ac7d519f9b06a",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The concentration of $R$ in the reaction $R \\longrightarrow P$ was measured as a function of time and the following data is obtained :\n$\\begin{array}{lllll}{[R] \\text { (molar) }} & 1.0 & 0.75 & 0.40 & 0.10 \\\\ t \\text { (min) } & 0.0 & 0.05 & 0.12 & 0.18\\end{array}$\nThe order of the reaction is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0",
+    "solution_text": "$k_{\\mathrm{I}}=\\frac{\\Delta[R]}{\\Delta t}=\\frac{0.25}{0.05}=5$\n$$\nk_{\\text {II }}=\\frac{\\Delta[R]}{\\Delta t}=\\frac{0.60}{0.12}=5\n$$\nSo, reaction must be of zero order.\nChemical kinetics\nStraight conceptual\nII",
+    "solution_image": null,
+    "topic": "Methods to determine order of reaction"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c99",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "For a reversible reaction $\\text{R} \\rightleftharpoons \\text{P}$, at constant temperature, both the forward and the backward reactions are first order elementary reactions with rate constants $k_f$ and $k_b$, respectively. At time zero, the concentration of $\\text{R}$ is $[\\text{R}]_0$ and the concentration of $\\text{P}$ is zero. At any given time, $[\\text{R}]$ and $[\\text{P}]$ are the concentrations of $\\text{R}$ and $\\text{P}$, respectively. If $k_b = 4k_f$, the correct graphical representation of the reaction is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "em7de",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q34_d1.png\" />",
+        "image": null
+      },
+      {
+        "id": "SY47V",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q34_d2.png\" />",
+        "image": null
+      },
+      {
+        "id": "9uM9L",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q34_d3.png\" />",
+        "image": null
+      },
+      {
+        "id": "acXLq",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q34_d4.png\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "9uM9L",
+    "solution_text": "For the reversible first-order reaction $\\text{R} \\rightleftharpoons \\text{P}$, at equilibrium, the rate of the forward reaction equals the rate of the backward reaction.<br><br>$k_f [\\text{R}]_{eq} = k_b [\\text{P}]_{eq}$<br><br>Given $k_b = 4k_f$, we can substitute this into the equilibrium condition:<br><br>$k_f [\\text{R}]_{eq} = 4k_f [\\text{P}]_{eq}$<br><br>$[\\text{R}]_{eq} = 4[\\text{P}]_{eq}$<br><br>From the conservation of mass, the total concentration remains constant at any time $t$:<br><br>$[\\text{R}]_{eq} + [\\text{P}]_{eq} = [\\text{R}]_0$<br><br>Substituting $[\\text{R}]_{eq} = 4[\\text{P}]_{eq}$ into the mass balance equation gives:<br><br>$4[\\text{P}]_{eq} + [\\text{P}]_{eq} = [\\text{R}]_0$<br><br>$5[\\text{P}]_{eq} = [\\text{R}]_0$<br><br>$[\\text{P}]_{eq} = 0.2[\\text{R}]_0$<br><br>Using this to find $[\\text{R}]_{eq}$:<br><br>$[\\text{R}]_{eq} = 4 \\times 0.2[\\text{R}]_0 = 0.8[\\text{R}]_0$<br><br>Therefore, as $t \\to \\infty$, the concentration ratio $\\dfrac{[\\text{P}]}{[\\text{R}]_0}$ approaches $0.2$ and $\\dfrac{[\\text{R}]}{[\\text{R}]_0}$ approaches $0.8$. This is correctly represented in the third graph.<br><br>Answer: <img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q34_d3.png\" />",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b16a2ef23ac7d519f9b20f",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "In the nuclear transmutation&nbsp;<math> <mrow> <msubsup> <mspace></mspace> <mn>4</mn> <mn>9</mn> </msubsup> <mtext>Be</mtext> <mo>+</mo> <mtext>X</mtext> <mo>&#10230;</mo> <msubsup> <mspace></mspace> <mn>4</mn> <mn>8</mn> </msubsup> <mtext>Be</mtext> <mo>+</mo> <mtext>Y</mtext> </mrow> </math>, identify&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi mathvariant=\"normal\">X</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Y</mi></mrow></mfenced></math>.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zXo8k",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">&#947;</mi><mi mathvariant=\"normal\">n</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "oMC0C",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">D</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "CzAdl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">D</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "4yCnX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">&#947;</mi><mi mathvariant=\"normal\">p</mi></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "oMC0C",
+    "solution_text": "<p>By charge and mass conservation, we can complete the nuclear transformation.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>9</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable><mtext>Be</mtext><mo>+</mo><mi mathvariant=\"normal\">&#947;</mi><mo>&#10230;</mo><mtable><mtr><mtd><mn>8</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable><mtext>Be</mtext><mo>+</mo><mtable><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable><mtext>n</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>9</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable><mtext>Be</mtext><mo>+</mo><msub><mspace/><mn>1</mn></msub><msup><mtext>H</mtext><mn>1</mn></msup><mo>&#10230;</mo><mtable><mtr><mtd><mn>8</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable><mtext>Be</mtext><mo>+</mo><mtable><mtr><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable><mtext>D</mtext></math><br /><math> <mrow> <mtable> <mtr> <mtd> <mn>9</mn> </mtd> </mtr> <mtr> <mtd> <mn>4</mn> </mtd> </mtr> </mtable> <mtext>Be</mtext> <mo>+</mo> <msub> <mspace></mspace> <mn>0</mn> </msub> <msup> <mtext>n</mtext> <mn>1</mn> </msup> <mo>&#10230;</mo> <mtable> <mtr> <mtd> <mn>8</mn> </mtd> </mtr> <mtr> <mtd> <mn>4</mn> </mtd> </mtr> </mtable> <mtext>Be</mtext> <mo>+</mo> <mn>2</mn> <mtable> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr> </mtable> <mtext>n</mtext> </mrow> </math><br />As with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#947;</mi></math>-rays, the emission is neutron and&nbsp;not proton.</p>",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b01d",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The total number of $\\alpha$ and $\\beta$-particles emitted in the nuclear reaction ${ }_{92} \\mathrm{U}^{238} \\longrightarrow{ }_{82} \\mathrm{~Pb}^{214}$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "${ }_{92} \\mathrm{U}^{238} \\rightarrow_{82} \\mathrm{U}^{214}+6_2 \\mathrm{He}^{\\mathrm{H}}(\\alpha)+2_{-1} e^0(\\beta)$",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af5d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement $1 \\mathrm{~Pb}^{4+}$ compounds are stronger oxidising agents than $\\mathrm{Sn}^{4+}$ compounds.\nStatement 2 The higher oxidation states for the group 14 elements are more stable for the heavier members of the group due to 'inert pair effect'.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7nTXd",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "HJuex",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "sgcRc",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "bhbSk",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "sgcRc",
+    "solution_text": "In early p-block, on moving top to bottom, the stability of lower oxidation state increases due to inert pair effect. $\\mathrm{Pb}^{4+}$ is less stable than $\\mathrm{Sn}^{4+}$, making it a better oxidising agent The lower oxidation state for the group 14 elements are more stable for the heavier members.",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af16",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "A positron is emitted from ${ }_{11}^{23} \\mathrm{Na}$. The ratio of the atomic mass and atomic number of the resulting nuclide is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Cr1Am",
+        "text": "\n22/10\n",
+        "image": null
+      },
+      {
+        "id": "bGOIN",
+        "text": "\n22/11\n",
+        "image": null
+      },
+      {
+        "id": "KlJyN",
+        "text": "\n23/10\n",
+        "image": null
+      },
+      {
+        "id": "QkhoB",
+        "text": "\n$23 / 12$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KlJyN",
+    "solution_text": "$$\n{ }_{11}^{23} \\mathrm{Na} \\longrightarrow{ }_{10}^{23} \\mathrm{Na}+{ }_{-1}^0 e\n$$",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae84",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nCarbon-14 is used to determine the age of organic material. The procedure is based on the formation of ${ }^{14} \\mathrm{C}$ by neutron capture in the upper atmosphere.\n$$\n{ }_7^{14} \\mathrm{~N}+{ }_0^1 n \\longrightarrow{ }_6^{14} \\mathrm{C}+{ }_1 n^1\n$$\n${ }^{14} \\mathrm{C}$ is absorbed by living organisms during photosynthesis. The ${ }^{14} \\mathrm{C}$ content is constant in living organism once the plant or animal dies, the uptake of carbon dioxide by it ceases and the level of ${ }^{14} \\mathrm{C}$ in the dead being, falls to the decay which ${ }^{14} \\mathrm{C}$ undergoes.\n$$\n{ }_6^{14} \\mathrm{C} \\longrightarrow{ }_7^{14} \\mathrm{~N}+\\beta^{-}\n$$\nThe half life period of ${ }^{14} \\mathrm{C}$ is 5770 years. The decay constant $(\\lambda)$ can be calculated by using the following formula $\\lambda=\\frac{0.693}{t_{1 / 2}}$.\nThe comparison of the $\\beta^{-}$activity of the dead matter with that of the carbon still in circulation enables measurement of the period of the isolation of the material from the living cycle. The method however, ceases to be accurate over periods longer than 30,000 years. The proportion of ${ }^{14} \\mathrm{C}$ to ${ }^{12} \\mathrm{C}$ in living matter is $1: 10^{12}$.<strong>Question:</strong>\nA nuclear explosion has taken place leading to increase in concentration of $C^{14}$ in nearby areas. $\\mathrm{C}^{14}$ concentration is $C_1$ in nearby areas and $C_2$ in areas far away. If the age of the fossil is determined to be $T_1$ and $T_2$ at the places respectively then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hTUif",
+        "text": "\nThe age of the fossil will increase at the place where explosion has taken and\n$$\nT_1-T_2=\\frac{1}{\\lambda} \\ln \\frac{C_1}{C_2}\n$$\n",
+        "image": null
+      },
+      {
+        "id": "iIRwF",
+        "text": "\nThe age of the fossil will decrease at the place where explosion has taken place and $T_1-T_2=\\frac{1}{\\lambda} \\ln \\frac{C_1}{C_2}$\n",
+        "image": null
+      },
+      {
+        "id": "zWsfr",
+        "text": "\nThe age of fossil will be determined to be same\n",
+        "image": null
+      },
+      {
+        "id": "mJ5hg",
+        "text": "\n$\\frac{T_1}{T_2}=\\frac{C_1}{C_2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hTUif",
+    "solution_text": "All radioactive decays are the examples of first order kinetics.\nSo, decay constant $\\lambda=\\frac{1}{T_1-T_2} \\ln \\frac{C_1}{C_2}$\n$C_1$ is the concentration at $T_1$ time\n$C_2$ is the concentration at $T_2$ time\nSo, $\\quad T_1-T_2=\\frac{1}{\\lambda} \\ln \\frac{C_1}{C_2}$",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae83",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nCarbon-14 is used to determine the age of organic material. The procedure is based on the formation of ${ }^{14} \\mathrm{C}$ by neutron capture in the upper atmosphere.\n$$\n{ }_7^{14} \\mathrm{~N}+{ }_0^1 n \\longrightarrow{ }_6^{14} \\mathrm{C}+{ }_1 n^1\n$$\n${ }^{14} \\mathrm{C}$ is absorbed by living organisms during photosynthesis. The ${ }^{14} \\mathrm{C}$ content is constant in living organism once the plant or animal dies, the uptake of carbon dioxide by it ceases and the level of ${ }^{14} \\mathrm{C}$ in the dead being, falls to the decay which ${ }^{14} \\mathrm{C}$ undergoes.\n$$\n{ }_6^{14} \\mathrm{C} \\longrightarrow{ }_7^{14} \\mathrm{~N}+\\beta^{-}\n$$\nThe half life period of ${ }^{14} \\mathrm{C}$ is 5770 years. The decay constant $(\\lambda)$ can be calculated by using the following formula $\\lambda=\\frac{0.693}{t_{1 / 2}}$.\nThe comparison of the $\\beta^{-}$activity of the dead matter with that of the carbon still in circulation enables measurement of the period of the isolation of the material from the living cycle. The method however, ceases to be accurate over periods longer than 30,000 years. The proportion of ${ }^{14} \\mathrm{C}$ to ${ }^{12} \\mathrm{C}$ in living matter is $1: 10^{12}$.<strong>Question:</strong>\nWhat should be the age of fossil for meaningful determination of its age?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "KAHDM",
+        "text": "\n6 years\n",
+        "image": null
+      },
+      {
+        "id": "pwb65",
+        "text": "\n6000 years\n",
+        "image": null
+      },
+      {
+        "id": "3OOw8",
+        "text": "\n60,000 years\n",
+        "image": null
+      },
+      {
+        "id": "22nIA",
+        "text": "\nIt can be used to calculate any age",
+        "image": null
+      }
+    ],
+    "correct_answer": "pwb65",
+    "solution_text": "Radio carbon dating method ceases to be accurate over periods longer than 30,000 years.",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "64b169caf23ac7d519f9ae82",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nCarbon-14 is used to determine the age of organic material. The procedure is based on the formation of ${ }^{14} \\mathrm{C}$ by neutron capture in the upper atmosphere.\n$$\n{ }_7^{14} \\mathrm{~N}+{ }_0^1 n \\longrightarrow{ }_6^{14} \\mathrm{C}+{ }_1 n^1\n$$\n${ }^{14} \\mathrm{C}$ is absorbed by living organisms during photosynthesis. The ${ }^{14} \\mathrm{C}$ content is constant in living organism once the plant or animal dies, the uptake of carbon dioxide by it ceases and the level of ${ }^{14} \\mathrm{C}$ in the dead being, falls to the decay which ${ }^{14} \\mathrm{C}$ undergoes.\n$$\n{ }_6^{14} \\mathrm{C} \\longrightarrow{ }_7^{14} \\mathrm{~N}+\\beta^{-}\n$$\nThe half life period of ${ }^{14} \\mathrm{C}$ is 5770 years. The decay constant $(\\lambda)$ can be calculated by using the following formula $\\lambda=\\frac{0.693}{t_{1 / 2}}$.\nThe comparison of the $\\beta^{-}$activity of the dead matter with that of the carbon still in circulation enables measurement of the period of the isolation of the material from the living cycle. The method however, ceases to be accurate over periods longer than 30,000 years. The proportion of ${ }^{14} \\mathrm{C}$ to ${ }^{12} \\mathrm{C}$ in living matter is $1: 10^{12}$.<strong>Question:</strong>\nWhich of the following option is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bSq0m",
+        "text": "\nIn living organisms, circulation of ${ }^{14} \\mathrm{C}$ from atmosphere is high so the carbon content is constant in organism.\n",
+        "image": null
+      },
+      {
+        "id": "Wub1N",
+        "text": "\nCarbon dating can be used to find out the age of earth crust and rocks.\n",
+        "image": null
+      },
+      {
+        "id": "W1cz6",
+        "text": "\nRadioactive absorption due to cosmic radiation is equal to the rate of radioactive decay, hence the carbon content remains constant in living organisms.\n",
+        "image": null
+      },
+      {
+        "id": "ww2dW",
+        "text": "\nCarbon dating can not be used to determine concentration of ${ }^{14} \\mathrm{C}$ in dead beings.",
+        "image": null
+      }
+    ],
+    "correct_answer": "W1cz6",
+    "solution_text": "Radioactive absorption due to cosmic radiation is equal to the rate of radioactive decay, hence the carbon content as the ratio of $\\mathrm{C}^{14}$ to $\\mathrm{C}^{12}$ remains constant in living organism.",
+    "solution_image": null,
+    "topic": "Parallel and Sequencial rate laws"
+  },
+  {
+    "question_id": "6a0be51544d287c9361e5cd0",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "For a first-order reaction $\\text{R} \\longrightarrow \\text{P}$ at a given temperature, $k$ is the rate constant. For this reaction, at the given temperature, the concentrations of $\\text{R}$ and $\\text{P}$ at a time $t$ are $[\\text{R}]$ and $[\\text{P}]$, respectively. The correct graphical representation(s) for this reaction is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Og4vR",
+        "text": "<img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q41_d1.png\" />",
+        "image": null
+      },
+      {
+        "id": "KxBa1",
+        "text": "<img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q41_d2.png\" />",
+        "image": null
+      },
+      {
+        "id": "DOvnA",
+        "text": "<img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q41_d3.png\" />",
+        "image": null
+      },
+      {
+        "id": "n7vKi",
+        "text": "<img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q41_d4.png\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "n7vKi",
+    "solution_text": "For a first-order reaction $\\text{R} \\rightarrow \\text{P}$, the rate law is given by:<br><br>$-\\dfrac{\\text{d}[\\text{R}]}{\\text{d}t} = \\dfrac{\\text{d}[\\text{P}]}{\\text{d}t} = k[\\text{R}]$<br><br>Integrating this, the concentration of the reactant at time $t$ is $[\\text{R}] = [\\text{R}]_0 e^{-kt}$.<br><br>The concentration of the product at time $t$ is $[\\text{P}] = [\\text{R}]_0 - [\\text{R}] = [\\text{R}]_0 (1 - e^{-kt})$.<br><br>The plot of $[\\text{P}]$ versus $t$ follows the equation $[\\text{P}] = [\\text{R}]_0 (1 - e^{-kt})$. This represents a curve that starts from the origin and is concave down, approaching a constant value $[\\text{R}]_0$. The graph in (A) is concave up, making it incorrect.<br><br>The plot of $\\dfrac{\\text{d}[\\text{R}]}{\\text{d}t}$ versus $[\\text{R}]$ follows the equation $\\dfrac{\\text{d}[\\text{R}]}{\\text{d}t} = -k[\\text{R}]$. This is a straight line passing through the origin with a negative slope ($-k$). The graph in (B) has a positive slope, making it incorrect.<br><br>The plot of $\\dfrac{\\text{d}[\\text{P}]}{\\text{d}t}$ versus $t$ follows the equation $\\dfrac{\\text{d}[\\text{P}]}{\\text{d}t} = k[\\text{R}]_0 e^{-kt}$. This represents an exponentially decreasing curve with respect to time. The graph in (C) matches this behavior, making it correct.<br><br>The rate constant $k$ depends only on the temperature and is independent of time. Therefore, the plot of $k$ versus $t$ is a horizontal straight line. The graph in (D) matches this, making it correct.<br><br>Answer: <img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q41_d3.png\" />; <img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q41_d4.png\" />",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "685102c56bba689a3eb09cca",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Consider a reaction $A+R \\rightarrow$ Product. The rate of this reaction is measured to be $k[A][R]$. At the start of the reaction, the concentration of $R,[R]_0$, is 10 -times the concentration of $A,[A]_0$. The reaction can be considered to be a pseudo first order reaction with assumption that $k[R]=k^{\\prime}$ is constant. Due to this assumption, the relative error (in \\%) in the rate when this reaction is $40 \\%$ complete, is _______\n[ $k$ and $k^{\\prime}$ represent corresponding rate constants]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4.16",
+    "solution_text": "$\\begin{aligned} & \\qquad \\quad \\mathrm{A}+\\mathrm{R} \\rightarrow \\text { Product } \\\\ & \\mathrm{t}=0 \\quad \\mathrm{~A}_0 \\quad 10 \\mathrm{~A}_0 \\\\ & \\mathrm{t}=\\mathrm{t} \\quad 0.6 \\mathrm{~A}_0 \\quad 9.6 \\mathrm{~A}_0 \\\\ & \\text { Rate }=\\mathrm{k}[\\mathrm{A}][\\mathrm{R}] \\\\ & \\text { Rate }_1=\\mathrm{k}\\left(0.6 \\mathrm{~A}_0\\right) \\times 9.6 \\mathrm{~A}_0 \\\\ & \\qquad \\quad \\mathrm{~A} \\quad+\\quad \\mathrm{R} \\rightarrow \\text { Product }  \\\\ & \\mathrm{t}=0 \\quad \\mathrm{~A}_0 \\qquad 10 \\mathrm{~A}_0(\\text { excess }) \\\\ & \\mathrm{t}=\\mathrm{t} \\quad 0.6 \\mathrm{~A}_0 \\quad 10 \\mathrm{~A}_0 \\\\ & \\text { Rate }=\\mathrm{k}^{\\prime}[\\mathrm{A}], \\mathrm{k}^{\\prime}=\\mathrm{k}[\\mathrm{R}] \\\\ & \\text { Rate }_2=\\left(\\mathrm{k} \\times 10 \\mathrm{~A}_0\\right) \\times\\left(0.6 \\mathrm{~A}_0\\right) \\\\ & 100 \\times \\frac{\\Delta \\text { Rate }}{\\text { Rate }_1}=\\frac{(0.6 \\times 10-0.6 \\times 9.6}{0.6 \\times 9.6} \\times 100=4.1666\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "66965dc2d603121f43a3bd3d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Consider the following reaction,\n$2 \\mathrm{H}_2(\\mathrm{~g})+2 \\mathrm{NO}(\\mathrm{g}) \\rightarrow \\mathrm{N}_2(\\mathrm{~g})+2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$\nwhich follows the mechanism given below:\n$2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g})$ $\\quad$ (fast equlibrium)\n$\\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$ $\\quad$(slow reaction)\n$\\mathrm{N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_3} \\mathrm{~N}_2(\\mathrm{~g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$ $\\quad$ (fast reaction)\nThe order of the reaction is_____",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 3,
+    "solution_text": "Rate law $=\\mathrm{k}_2\\left[\\mathrm{~N}_2 \\mathrm{O}_2\\right]\\left[\\mathrm{H}_2\\right] \\quad[\\because$ slowest step of reaction is RDS $]$\n$\\because \\frac{\\mathrm{k}_1}{\\mathrm{k}_{-1}}=\\frac{\\left[\\mathrm{N}_2 \\mathrm{O}_2\\right]}{[\\mathrm{NO}]^2}$\n$\\therefore \\quad\\left[\\mathrm{N}_2 \\mathrm{O}_2\\right]=\\frac{\\mathrm{k}_1}{\\mathrm{k}_{-1}}[\\mathrm{NO}]^2$\n$\\therefore \\quad$ Rate $=\\mathrm{k}_2 \\times \\frac{\\mathrm{k}_1}{\\mathrm{k}_{-1}}[\\mathrm{NO}]^2\\left[\\mathrm{H}_2\\right]$\n$\\therefore$ Order of reaction is (3)",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a98f23ac7d519f9b5d4",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Match the rate expressions in LIST-I for the decomposition of \\(\\mathrm{X}\\) with the corresponding profiles provided in LIST-II. \\(X_s\\) and \\(\\mathrm{k}\\) are constants having appropriate units.\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/frt654rtyhgfxcvbgfddrtyuytredcv.png\"/>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lh6hg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">T</mi></math>",
+        "image": null
+      },
+      {
+        "id": "T56hD",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">T</mi></math>",
+        "image": null
+      },
+      {
+        "id": "QmpIe",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "J2zTh",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lh6hg",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced></math>&nbsp;rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow></mfrac></math></p><p>Case-1:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#62;</mo><mo>&#62;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>+</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>&#8776;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></math></p><p>rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mfrac><mo>=</mo><mi mathvariant=\"normal\">k</mi></math>&nbsp; &nbsp; (Zero order w.r.t. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi></math></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dfd719b5-fdeb-4cb1-9ce2-423daaafee1f-image.png\" style=\"width: 220px; height: 142px;\" /></td>\t\t</tr>\t</tbody></table><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e9e7ebc4-703c-4316-a90b-e794bf7f2290-image.png\" style=\"width: 180px; height: 137px;\" /></td>\t\t</tr>\t</tbody></table><p>&nbsp;</p><p>Case-2:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#8810;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>+</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>&#8776;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub></mfrac><mo>=</mo><msup><mi mathvariant=\"normal\">k</mi><mo>&#39;</mo></msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></math>&nbsp; &nbsp;(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mi>st</mi></msup></math>&nbsp;order w.r.t. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">T</mi></math></p><p>Case-3:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#8776;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub></math></p><p>rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow></mfrac></math></p><p>In this case curve-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math>&nbsp;given in List-II will match.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>,</mo><mi mathvariant=\"normal\">T</mi></math>&nbsp; (The graph of half-life should start from origin)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math>&nbsp;rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#8810;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#8776;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp; rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub></mfrac><mo>=</mo><msup><mi mathvariant=\"normal\">k</mi><mo>&#39;</mo></msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></math>&nbsp; (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mi>st</mi></msup></math>&nbsp;order w.r.t. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">T</mi></math></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/01e32ef2-6a7f-4001-9d08-bc5374761a2e-image.png\" style=\"width: 220px; height: 144px;\" /></td>\t\t</tr>\t</tbody></table><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fc324932-d185-45c7-a83e-8e7bb417b98b-image.png\" style=\"width: 180px; height: 143px;\" /></td>\t\t</tr>\t</tbody></table><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>III</mi></mfenced></math>&nbsp; rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#62;</mo><mo>&#62;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#8776;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp; rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mfrac><mo>=</mo><mi mathvariant=\"normal\">k</mi></math>&nbsp; &nbsp;(Zero order w.r.t. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced></math>&nbsp;rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mn>2</mn></msup></mrow><mrow><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#62;</mo><mo>&#62;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">S</mi></msub><mo>+</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mo>&#8776;</mo><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp; rate&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced><mn>2</mn></msup></mrow><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></mfrac><mo>=</mo><mi mathvariant=\"normal\">k</mi><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">X</mi></mfenced></math>&nbsp; &nbsp;(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mi>st</mi></msup></math>&nbsp;order w.r.t. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">T</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a90f23ac7d519f9b590",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "For the following reaction&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">X</mi><mo>+</mo><mi mathvariant=\"normal\">Y</mi><mover><mo>&#8594;</mo><mi mathvariant=\"normal\">k</mi></mover><mi mathvariant=\"normal\">P</mi></math>&nbsp;the rate of reaction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mrow><mo>[</mo><mi mathvariant=\"normal\">P</mi><mo>]</mo></mrow></mrow><mi>dt</mi></mfrac><mo>=</mo><mi mathvariant=\"normal\">k</mi><mrow><mo>[</mo><mi mathvariant=\"normal\">X</mi><mo>]</mo></mrow></math>. Two moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math> are mixed with one mole of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math> to make <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></math> of solution. At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mo>&#160;</mo><mn>0</mn><mo>.</mo><mn>5</mn></math> mole of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math> is left in the reaction mixture. The correct statement(s) about the reaction is(are)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo></math>Use:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mo>&#160;</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>693</mn><mo>)</mo></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6CLMH",
+        "text": "The rate constant,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">k</mi></math>, of the reaction is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn><mo>.</mo><mn>86</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.",
+        "image": null
+      },
+      {
+        "id": "AMcLB",
+        "text": "Half-life of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">X</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "5WmIE",
+        "text": "At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mo>&#160;</mo><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mstyle mathvariant=\"bold\"><mrow><mo>[</mo><mi>x</mi><mo>]</mo></mrow></mstyle></mrow><mi>dt</mi></mfrac><mo>=</mo><mn>13</mn><mo>.</mo><mn>86</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mol</mi><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.",
+        "image": null
+      },
+      {
+        "id": "tB85D",
+        "text": "At&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mfenced open=\"[\" close=\"]\"><mi mathvariant=\"normal\">Y</mi></mfenced></mrow><mi>dt</mi></mfrac><mo>=</mo><mn>3</mn><mo>.</mo><mn>46</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mol</mi><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tB85D",
+    "solution_text": "\\(\\begin{array}{lllll} \r\n& 2 \\mathrm{X}+ & \\mathrm{y} & \\longrightarrow & \\mathrm{P} \\\\\r\n\\mathrm{t}=0 & 2 & 1 & & 0 \\\\\r\n\\mathrm{t}=50 & 2-2 \\times 0.5 & 1-0.5 & & \\\\\r\n& \\text { 1mole } & 0.5 & &\r\n\\end{array}\\)\r\nrate \\(=-\\frac{1}{2} \\frac{d x}{d t}=-\\frac{d y}{d t}=\\frac{d P}{d t}=K[X]\\)\r\n\\(-\\frac{1}{2} \\frac{d x}{d t}=K[X]\\)\r\n\\(-\\frac{d x}{d t}=2 K[X]=K^1[X]\\)\r\nHalf life is \\(t=50 \\mathrm{sec}\\)\r\n\\(2 K=\\frac{0.653 L}{50}\\)\r\n\\(K=\\frac{0.6932}{100}=6.332 \\times 10^{-3}\\)\r\n\\(t=50 \\mathrm{sec}\\)\r\n\\(-\\frac{d x}{d t}=2 K[X]\\)\r\n\\(-\\frac{d x}{d t}=2 \\times 6.332 \\times 10^{-3} \\times 1\\)\r\n\\(=13.864 \\times 10^{-3} \\mathrm{~mole} / \\mathrm{L} / \\mathrm{Sec}\\)\r\n\\(-\\frac{d y}{d t}=K[X]=6.332 \\times 10^{-3}\\left(\\frac{1}{2}\\right)\\)\r\n\\(=3.46 \\times 10^{-3} \\mathrm{~mole} / \\mathrm{L} / \\mathrm{Sec}^{-1}\\)",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a79f23ac7d519f9b4ba",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "The decomposition reaction <math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mover accent=\"false\"><mo>&#8594;</mo><mrow><mi>&#160;</mi><mo>&#8710;</mo><mi>&#160;</mi></mrow></mover><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></math> is started in a closed cylinder under the isothermal isochoric condition at an initial pressure of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>atm</mi></math>. After <math><mi mathvariant=\"normal\">Y</mi><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">s</mi></math> , the pressure inside the cylinder is found to be <math><mn>1.45</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">m</mi></math> . If the rate constant of the reaction is <math><mn>5</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, assuming ideal gas behaviour, the value of <math><mi mathvariant=\"normal\">Y</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.3",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/801c7ff6-012b-4d0c-9d53-64d9a1802839-image.png\"/><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>P</mtext><mn>0</mn></msub><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\"> </mi><mi>atm</mi><mo>,</mo><mo> </mo><msub><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">t</mi></msub><mo>=</mo><mn>1</mn><mo>.45</mo><mi mathvariant=\"normal\"> </mi><mi>atm</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">P</mi><mo>∝</mo></msub><mo>=</mo><mn>1</mn><mo>.5</mo><mi mathvariant=\"normal\"> </mi><mi>atm</mi></math><br/>From the unit of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi><mo>=</mo><mn>5</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo></math><br/>The reaction is first-order<br ><math><mi>t</mi><mo>=</mo><mfrac><mrow><mn>2.303</mn></mrow><mrow><mn>2</mn><mo>×</mo><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfrac><mrow><mrow><mi mathvariant='\\\"normal\\\"'>log</mi></mrow><mo>⁡</mo><mrow><mfenced separators='\\\"|\\\"'><mrow><mfrac><mrow><mn>1.5</mn><mo>-</mo><mn>1</mn></mrow><mrow><mn>1.5</mn><mo>-</mo><mn>1.45</mn></mrow></mfrac></mrow></mfenced></mrow></mrow></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>2</mn><mo>.303</mo><mo>×</mo><msup><mn>10</mn><mn>3</mn></msup><mo>=</mo><mi mathvariant=\"normal\">y</mi><mo>×</mo><msup><mn>10</mn><mn>3</mn></msup></math><br/><math><mo>∴</mo><mi>y</mi><mo>=</mo><mn>2.303</mn></math><br/>After round off: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>2</mn><mo>.3</mo></math></p>",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a73f23ac7d519f9b48a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Consider the kinetic data given in the following table for the reaction <math><mi mathvariant=\"normal\">A</mi><mo>+</mo><mi mathvariant=\"normal\">B</mi><mo>+</mo><mi mathvariant=\"normal\">C</mi><mo>&#8594;</mo></math> Product.<br />&nbsp;<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Experiment No.</td>\t\t\t<td><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced></math></td>\t\t\t<td><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math> <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced></math></td>\t\t\t<td><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced></math></td>\t\t\t<td>Rate of reaction <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mn>1</mn></math></td>\t\t\t<td><math><mn>0.2</mn></math></td>\t\t\t<td><math><mn>0.1</mn></math></td>\t\t\t<td><math><mn>0.1</mn></math></td>\t\t\t<td><math><mn>6.0</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mn>2</mn></math></td>\t\t\t<td><math><mn>0.2</mn></math></td>\t\t\t<td><math><mn>0.2</mn></math></td>\t\t\t<td><math><mn>0.1</mn></math></td>\t\t\t<td><math><mn>6.0</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mn>3</mn></math></td>\t\t\t<td><math><mn>0.2</mn></math></td>\t\t\t<td><math><mn>0.1</mn></math></td>\t\t\t<td><math><mn>0.2</mn></math></td>\t\t\t<td><math><mn>1.2</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mn>4</mn></math></td>\t\t\t<td><math><mn>0.3</mn></math></td>\t\t\t<td><math><mn>0.1</mn></math></td>\t\t\t<td><math><mn>0.1</mn></math></td>\t\t\t<td><math><mn>9.0</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math></td>\t\t</tr>\t</tbody></table><br />The rate of the reaction for <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced><mo>=</mo><mn>0.15</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced><mo>=</mo><mn>0.25</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></math> and <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced><mo>=</mo><mn>0.15</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></math> is found to be <math><mi mathvariant=\"normal\">Y</mi><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math> The value of <math><mi mathvariant=\"normal\">Y</mi></math> is __________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6.75",
+    "solution_text": "<math><mtext>r</mtext><mo>=</mo><mtext>k</mtext><mo>[</mo><mtext>A</mtext><mo>]</mo><msup><mrow><mtext> </mtext></mrow><mrow><mtext>a</mtext></mrow></msup><mtext> </mtext><msup><mrow><mo>[</mo><mtext>B</mtext><mo>]</mo></mrow><mrow><mtext>b</mtext></mrow></msup><mtext> </mtext><msup><mrow><mo>[</mo><mtext>C</mtext><mo>]</mo></mrow><mrow><mtext>c</mtext></mrow></msup></math><br /><math><mn>6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>=</mo><mtext>k</mtext><msup><mrow><mo>(</mo><mn>0.2</mn><mo>)</mo></mrow><mrow><mtext>a</mtext></mrow></msup><mtext>  </mtext><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mtext>b</mtext></mrow></msup><mtext>  </mtext><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mtext>c</mtext></mrow></msup></math> ..... (1)<br /><math><mn>6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>=</mo><mi>k</mi><msup><mrow><mo>(</mo><mn>0.2</mn><mo>)</mo></mrow><mrow><mtext>a</mtext></mrow></msup><msup><mrow><mo>(</mo><mn>0.2</mn><mo>)</mo></mrow><mrow><mtext>b</mtext></mrow></msup><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mtext>c</mtext></mrow></msup></math> ...... (2)<br /><math><mn>1.2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>=</mo><mi>k</mi><msup><mrow><mo>(</mo><mn>0.2</mn><mo>)</mo></mrow><mrow><mtext>a</mtext></mrow></msup><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mtext>b</mtext></mrow></msup><mtext> </mtext><msup><mrow><mo>(</mo><mn>0.2</mn><mo>)</mo></mrow><mrow><mtext>c</mtext></mrow></msup></math> ...... (3)<br /><math><mn>9</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>=</mo><mi>k</mi><msup><mrow><mo>(</mo><mn>0.3</mn><mo>)</mo></mrow><mrow><mtext>a</mtext></mrow></msup><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mtext>b</mtext></mrow></msup><mtext> </mtext><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mtext>c</mtext></mrow></msup></math> ...... (4)<br />From equation (1) and (ii) : <math><mi mathvariant=\"normal\">b</mi><mo>=</mo><mn>0</mn></math><br />From equation (1) and (iii) : <math><mi mathvariant=\"normal\">c</mi><mo>=</mo><mn>1</mn></math><br />From equation (1) and (iv) : <math><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>1</mn></math><br />Put <math><mi mathvariant=\"normal\">x</mi><mo>,</mo><mi mathvariant=\"normal\">y</mi></math> and <math><mi mathvariant=\"normal\">z</mi></math> in equation (i) we get;<br /><math><mn>6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>=</mo><mi>k</mi><msup><mrow><mo>(</mo><mn>0.2</mn><mo>)</mo></mrow><mrow><mn>1</mn></mrow></msup><mtext> </mtext><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mn>0</mn></mrow></msup><msup><mrow><mo>(</mo><mn>0.1</mn><mo>)</mo></mrow><mrow><mn>1</mn></mrow></msup></math><br /><math><mtext>r</mtext><mo>=</mo><mn>3</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>[</mo><mtext>A</mtext><mo>]</mo><mo>[</mo><mtext>C</mtext><mo>]</mo></math><br />For <math><mo>[</mo><mtext>A</mtext><mo>]</mo><mo>=</mo><mn>0.15</mn><mtext> mol </mtext><msup><mrow><mtext>dm</mtext></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></math><br /><math><mo>[</mo><mtext>B</mtext><mo>]</mo><mo>=</mo><mn>0.25</mn><mtext> mol </mtext><msup><mrow><mtext>dm</mtext></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></math><br /><math><mo>[</mo><mtext>C</mtext><mo>]</mo><mo>=</mo><mn>0.15</mn><mtext> mol </mtext><msup><mrow><mtext>dm</mtext></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></math><br /><math><mtext>r</mtext><mo>=</mo><mn>3</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>×</mo><mn>0.15</mn><mo>×</mo><mn>0.15</mn></math><br /><math><mtext>r</mtext><mo>=</mo><mn>6.75</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math><br /><math><mo>∴</mo><mtext>r</mtext><mtext>=</mtext><mtext>6.75</mtext></math>",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a3bf23ac7d519f9b288",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "For the elementary reaction <math><mi mathvariant=\"normal\">M</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">N</mi></math>, the rate of disappearance of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> increases by a factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>&nbsp;upon&nbsp;doubling the concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math>. The order of the reaction with respect to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sctlM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "9N7cm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "w9VOv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "2lfIn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9N7cm",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">r</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">r</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><msup><mfenced open=\"[\" close=\"]\" separators=\"|\"><mi mathvariant=\"normal\">M</mi></mfenced><mi mathvariant=\"normal\">n</mi></msup><msup><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>2</mn><mi mathvariant=\"normal\">M</mi></mrow></mfenced><mi mathvariant=\"normal\">n</mi></msup></mfrac><mo>&#8658;</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>3</mn></math>",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a27f23ac7d519f9b1d2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>In the reaction,<br ><math> <mrow> <mtext>P</mtext> <mo>+</mo> <mtext>Q</mtext> <mo>→</mo> <mtext>R</mtext> <mo>+</mo> <mtext>S</mtext> </mrow> </math><br >the time taken for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>75</mn><mo>%</mo></math> reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo> </mo></math>is twice the time taken for<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mn>50</mn><mo>%</mo></math> reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>. The concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi><mo> </mo></math>varies with reaction time as shown in the figure.The overall order of the reaction is:<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5ffa6d08-ef77-4d64-804d-cbb4d9ee09f7-image.png\"/>  </p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "X5bni",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "KxUlR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "XXTRH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "LRqbR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LRqbR",
+    "solution_text": "<p>The reaction is:</p><p><math> <mrow> <mtext>P</mtext> <mo>+</mo> <mtext>Q</mtext> <mo>&#8594;</mo> <mtext>R</mtext> <mo>+</mo> <mtext>S</mtext> </mrow> </math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>rate</mi><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><mi>the</mi><mo>&#160;</mo><mi>reaction</mi><mo>=</mo><mi mathvariant=\"normal\">k</mi><msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">P</mi></mfenced><mi mathvariant=\"normal\">x</mi></msup><msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">Q</mi></mfenced><mi mathvariant=\"normal\">y</mi></msup></math><br />The concentration of Q varies with time as per the graph by the equation.<br /><math> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mtext>Q</mtext> </mrow> </mfenced> <mo>=</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msub> <mtext>Q</mtext> <mn>0</mn> </msub> </mrow> </mfenced> <mo>-</mo> <mtext>kt &#8203;</mtext></mrow></math> i.e. Zero-order kinetics.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>0</mn></math><br />With respect to reactant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math></p><p>let time taken for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>%</mo></math> completion of the reaction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">a</mi></math>.</p><p>Then the time is taken for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>75</mn><mo>%</mo></math>&nbsp; complication will be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">a</mi><mo>.</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mover><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">t</mi><mrow><mn>50</mn><mo>%</mo></mrow></msub></mover><mo>&#160;</mo><mfrac><mi mathvariant=\"normal\">P</mi><mn>2</mn></mfrac><mover><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">t</mi><mrow><mn>75</mn><mo>%</mo></mrow></msub></mover><mo>&#160;</mo><mfrac><mi mathvariant=\"normal\">P</mi><mn>4</mn></mfrac></math></p><p>at</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>&#160;</mo><mo>;</mo><mo>&#160;</mo><mo>[</mo><mi mathvariant=\"normal\">P</mi><msub><mo>]</mo><mrow><mn>0</mn><mo>%</mo></mrow></msub><mo>=</mo><mo>&#160;</mo><mi mathvariant=\"normal\">P</mi><mspace linebreak=\"newline\"/><mi mathvariant=\"normal\">t</mi><mo>=</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">t</mi><mrow><mn>50</mn><mo>%</mo><mo>&#160;</mo></mrow></msub><mo>;</mo><mo>&#160;</mo><mo>[</mo><mi mathvariant=\"normal\">P</mi><msub><mo>]</mo><mrow><mn>50</mn><mo>%</mo></mrow></msub><mo>=</mo><mo>&#160;</mo><mfrac><mi mathvariant=\"normal\">P</mi><mn>2</mn></mfrac><mspace linebreak=\"newline\"/><mi mathvariant=\"normal\">t</mi><mo>=</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">t</mi><mrow><mn>75</mn><mo>%</mo><mo>&#160;</mo></mrow></msub><mo>;</mo><mo>&#160;</mo><mo>[</mo><mi mathvariant=\"normal\">P</mi><msub><mo>]</mo><mrow><mn>75</mn><mo>%</mo></mrow></msub><mo>=</mo><mo>&#160;</mo><mfrac><mi mathvariant=\"normal\">P</mi><mn>4</mn></mfrac></math><br />As we can see, in each time interval of &#39;a&#39; min the reactant concentration&nbsp;is changing by factor half. therefore rate constant is independent of the concentration of the reactant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>. hence with respect of reactant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>, order of the reaction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>1</mn></math><br />Rate law expression is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>rate</mi><mo>=</mo><mi mathvariant=\"normal\">k</mi><msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">P</mi></mfenced><mn>1</mn></msup><msup><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">Q</mi></mfenced><mn>0</mn></msup></math><br />The overall order of reaction&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>1</mn><mo>+</mo><mn>0</mn><mo>=</mo><mo>&#160;</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af18",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Consider a reaction $a G+b H \\rightarrow$ products. When concentration of both the reactants $G$ and $H$ is doubled, the rate increases by eight times. However, when concentration of $G$ is doubled keeping the concentration of $H$ fixed, the rate is doubled. The overall order of the reaction is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pah0d",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "L8H3s",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "FjG4e",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "Zju6K",
+        "text": "\n3",
+        "image": null
+      }
+    ],
+    "correct_answer": "Zju6K",
+    "solution_text": "$a G+b H \\longrightarrow$ Product\nSuppose order of reaction $=n$\nWhen concentration of both $G$ and $H$ is double than rate increase by eight times.\n$$\n\\begin{aligned}\n\\text { rate } & =k(\\text { reactants })^n \\\\\n(2)^8 & =k(2)^n \\\\\n(2)^3 & =k(2)^n \\\\\nn & =3\n\\end{aligned}\n$$\nwhen concentration of $G$ is doubled than concentration $H$ is fixed, the rate is double.\nthan $\\quad$ rate $\\propto[G]^1[H]^2$",
+    "solution_image": null,
+    "topic": "Rate law and rate constant"
+  },
+  {
+    "question_id": "64b16a48f23ac7d519f9b300",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "In dilute aqueous <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> , the complex diaquodioxalatoferrate (II) is oxidized by <math><msubsup><mrow><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup></math> . For this reaction, the ratio of the rate of change of <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow></mfenced></math> to the rate of change of <math><mo>[</mo><msubsup><mrow><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>]</mo></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<math><mn>8</mn><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup><mo>+</mo><msubsup><mrow><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>+</mo><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">X</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup><mo>⟶</mo><mi mathvariant=\"normal\">M</mi><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>6</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br > <math><mfrac><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>[</mo><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup><mo>]</mo></mrow><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>[</mo><msubsup><mrow><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>]</mo></mrow></mfrac><mo>=</mo><mn>8</mn></math>",
+    "solution_image": null,
+    "topic": "Rate of reaction"
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e5",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the correct statement(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ss3Cr",
+        "text": "<math><mi>A</mi><mi>l</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi>C</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub></math> has the three-centre two-electron bonds in its dimeric structure",
+        "image": null
+      },
+      {
+        "id": "9TaNA",
+        "text": "<math><mi>A</mi><mi>l</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  has the three-centre two-electron bonds in its dimeric structure",
+        "image": null
+      },
+      {
+        "id": "F4DiV",
+        "text": "<math><mi>B</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub></math> has the three-centre two-electron bonds in its dimeric structure",
+        "image": null
+      },
+      {
+        "id": "Piw58",
+        "text": "The Lewis acidity of <math><mi>B</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is greater than that of <math><mi>A</mi><mi>l</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Piw58",
+    "solution_text": "<p>(i)  <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/q-11.jpg\"/></p><p>(ii)  <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/q-11-2.jpg\"/></p><p>(iii) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/q-11-3.jpg\"/></p><p>(iv)  Lewis acidic strength decreases down the group. The decrease in acid strength occurs because as size increases, the attraction between the incoming electron pair and the nucleus weakens.</p><p>Hence Lewis acidic strength of <math><mi>B</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is more than <math><mi>A</mi><mi>l</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>.</mo></math></p><p> </p>",
+    "solution_image": null,
+    "topic": "Aluminium and Its Compounds"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b020",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The coordination number of $\\mathrm{Al}$ in the crystalline state of $\\mathrm{AlCl}_3$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "Coordination number of $\\mathrm{Al}=6$.",
+    "solution_image": null,
+    "topic": "Aluminium and Its Compounds"
+  },
+  {
+    "question_id": "64b16a4ff23ac7d519f9b342",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The crystalline form of borax has",
+    "question_image": null,
+    "options": [
+      {
+        "id": "A3jAR",
+        "text": "Tetra nuclear <math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></math> unit",
+        "image": null
+      },
+      {
+        "id": "j4oau",
+        "text": "All boron atoms in the same plane",
+        "image": null
+      },
+      {
+        "id": "5EGfU",
+        "text": "Equal number of <math><mi mathvariant=\"normal\">s</mi><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>2</mn></mrow></msup></math> and <math><mi mathvariant=\"normal\">s</mi><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>3</mn></mrow></msup></math> hybridized boron atoms",
+        "image": null
+      },
+      {
+        "id": "FYg00",
+        "text": "One terminal hydroxide per boron atom",
+        "image": null
+      }
+    ],
+    "correct_answer": "FYg00",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_Paper_1_Chem_Q._29_Ans_1.jpg\"/><br >(A) Having <math><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>5</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></math> tetra nuclear (boron) unit.<br >(B) All boron atoms not in same plane.<br >(C) Two boron are <math><mi mathvariant=\"normal\">s</mi><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>2</mn></mrow></msup></math> hybridised and two boron are <math><mi mathvariant=\"normal\">s</mi><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>3</mn></mrow></msup></math> hybridised.<br >(D) One terminal hydroxide per boron atom is present.",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b305",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Three moles of <math><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>6</mn></mrow></msub></math> are completely reacted with methanol. The number of moles of boron containing product formed is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<math><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>6</mn></mrow></msub><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>⟶</mo><mn>2</mn><mi mathvariant=\"normal\">B</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>6</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >For 3 moles of <math><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>6</mn></mrow></msub></math>  mole of B containing product formed = 6",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b16a35f23ac7d519f9b250",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "The correct statement(s) for orthoboric acid is/are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HoEdH",
+        "text": "It behaves as a weak acid in water due to self ionization.",
+        "image": null
+      },
+      {
+        "id": "Dw8ty",
+        "text": "Acidity of its aqueous solution increases upon addition of ethylene glycol.",
+        "image": null
+      },
+      {
+        "id": "zWnRQ",
+        "text": "It has a three dimensional structure due to hydrogen bonding.",
+        "image": null
+      },
+      {
+        "id": "OqQ0J",
+        "text": "It is a weak electrolyte in water.",
+        "image": null
+      }
+    ],
+    "correct_answer": "OqQ0J",
+    "solution_text": "<p>A]  <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">B</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  is a weak monobasic Lewis acid.<br > <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">B</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mi mathvariant=\"normal\">H</mi><mo>-</mo><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>⇌</mo><mi mathvariant=\"normal\">B</mi><msubsup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup><mo>…</mo><mo>.</mo><mo>.</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math> <br >B] Equilibrium (i) is shifted in forward direction by the addition of syn-diols like ethylene glycol which forms a stable complex with  <math><mi mathvariant=\"normal\">B</mi><msubsup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup></math> .<br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image7-ca6686b1-cc81-4cbf-8a9c-8caeb7858619.jpg\"/> <br >C] It has a planar sheet like structure due to hydrogen bonding.<br >D]  <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">B</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  is a weak electrolyte in water.</p>",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b016",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "In the reaction,\n$$\n2 \\mathrm{X}+\\mathrm{B}_2 \\mathrm{H}_6 \\longrightarrow\\left[\\mathrm{BH}_2(\\mathrm{X})_2\\right]^{+}\\left[\\mathrm{BH}_4\\right]^{-}\n$$\nThe amine (s) $X$, is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O7Mou",
+        "text": "\n$\\mathrm{NH}_3$\n",
+        "image": null
+      },
+      {
+        "id": "LPRJv",
+        "text": "\n$\\mathrm{CH}_3 \\mathrm{NH}_2$\n",
+        "image": null
+      },
+      {
+        "id": "hrA5n",
+        "text": "\n$\\left(\\mathrm{CH}_3\\right)_2 \\mathrm{NH}$\n",
+        "image": null
+      },
+      {
+        "id": "B6PE5",
+        "text": "\n$\\left(\\mathrm{CH}_3\\right)_3 \\mathrm{~N}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hrA5n",
+    "solution_text": "Small amines such as $\\mathrm{NH}_3 \\cdot \\mathrm{CH}_3 \\mathrm{NH}_2$ and $\\left(\\mathrm{CH}_3\\right)_2 \\mathrm{NH}$ give unsymmetrical cleavage of diborane according to following reaction,\n$$\n\\begin{aligned}\n&amp; \\mathrm{B}_2 \\mathrm{H}_6+2 \\mathrm{NH}_3 \\longrightarrow \\\\\n&amp; {\\left[\\mathrm{H}_2 \\mathrm{~B}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}\\left[\\mathrm{BH}_4\\right]^{-}} \\\\\n&amp;\n\\end{aligned}\n$$\nLarge amines, such as $\\left(\\mathrm{CH}_3\\right)_3 \\mathrm{~N}$ give symmetrical cleavage of diborane according to following reaction,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/YhfSvFekusS1ekfppnWA9ksQ_OT9BCLkCB9xM2Mq8yE.rendered.fullsize.png\"/>",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aed8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Statement I In water, orthoboric acid behaves as a weak monobasic acid.\nStatement II In water, orthoboric acid acts as proton donor.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rtLCm",
+        "text": "\nStatement I is true, Statement II is true, Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "6vuF4",
+        "text": "\nStatement I is true, Statement II is true, Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "rUiZ3",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "q1vqo",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "rUiZ3",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OQOeazUA4dd1iVMdu8Earsn8kQ_qy9Kvxjtan4JOfPw.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aed7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Statement I Boron always forms covalent bond\nStatement II The small size of $\\mathrm{B}^{3+}$ favours formation of covalent bond.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "awafK",
+        "text": "\nStatement I is true, Statement II is true, Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "tqrrz",
+        "text": "\nStatement I is true, Statement II is true, Statement II is not a correct explanation for Statement II\n",
+        "image": null
+      },
+      {
+        "id": "WGJBM",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "5qbsI",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "awafK",
+    "solution_text": "Boron always form covalent bond because boron requires very high energy to form $\\mathrm{B}^{3+}$ and again $\\mathrm{B}^{3+}$ due to its very small size having high polarising power thus cause greater polarisation and eventually significant covalent characteristics-Fajans rule.",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b169c8f23ac7d519f9ae68",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "$\\mathrm{B}(\\mathrm{OH})_3+\\mathrm{NaOH} \\rightleftharpoons \\mathrm{NaBO}_2+\\mathrm{Na}\\left[\\mathrm{B}(\\mathrm{OH})_4\\right]+\\mathrm{H}_2 \\mathrm{O}$.\nHow can this reaction is made to proceed in forward direction?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "i2Ycm",
+        "text": "\nAddition of cis 1, 2 diol\n",
+        "image": null
+      },
+      {
+        "id": "kfFHf",
+        "text": "\nAddition of borax\n",
+        "image": null
+      },
+      {
+        "id": "xjKgs",
+        "text": "\nAddition of trans 1, 2 diol\n",
+        "image": null
+      },
+      {
+        "id": "XVIe6",
+        "text": "\nAddition of $\\mathrm{Na}_2 \\mathrm{HPO}_4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "i2Ycm",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2FNAWz1kMoW_1Cxacm9TeBErG-KHS5AEc7xNT453yjg.original.fullsize.png\"><br>\nThis reaction is reversible reaction because sodium metaborate, $\\mathrm{Na}^{+}\\left[\\mathrm{B}(\\mathrm{OH})_4\\right]^{-}$formed by the reaction between $\\mathrm{B}(\\mathrm{OH})_3$ and $\\mathrm{NaOH}$ gets hydrolysed to regenerate $\\mathrm{B}(\\mathrm{OH})_3$ and $\\mathrm{NaOH}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/HTQ4_yy4c1xOjkvE_9BMrxfhp7VKkCLr5fdyJ0Wx66E.original.fullsize.png\"><br>\nIf, some quantity of polyhydroxy compound like cis-1, 3-diol, catechol, glycerol etc. is added to the reaction mixture. The $\\mathrm{B}(\\mathrm{OH})_3$ combines with such polyhydroxy compound to give chelated complex compound. Due to complex compound formation, stability increases and due to higher stability of complex, reaction moves in forward direction.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/AYuEJLlNLCpXuHv4OFV7V-Q0yw9fQtCkDRYG3LI-2Aw.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Boron and Its Compounds"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5d1",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "The treatment of galena with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math> produces a gas that is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SIosV",
+        "text": "paramagnetic",
+        "image": null
+      },
+      {
+        "id": "C1ho6",
+        "text": "bent in geometry",
+        "image": null
+      },
+      {
+        "id": "1V3dB",
+        "text": "an acidic oxide",
+        "image": null
+      },
+      {
+        "id": "fj597",
+        "text": "colorless",
+        "image": null
+      }
+    ],
+    "correct_answer": "fj597",
+    "solution_text": "<p>Concentrated nitric acid is a strong oxidising agent and attacks most metals except noble metals such as gold and platinum. The&nbsp;products of oxidation depend upon the concentration of the acid, temperature and the nature of the material undergoing oxidation.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PbS</mi><mo>+</mo><mi>dil</mi><mo>.</mo><msub><mi>HNO</mi><mn>3</mn></msub><mo>&#8594;</mo><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mo>+</mo><mi mathvariant=\"normal\">S</mi><mo>+</mo><mi>NO</mi><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NO</mi></math> is paramagnetic due to the presence of unpaired electron. It is a neutral oxide. It is colourless.</p><p>Hence, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">A</mi></mfenced></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">D</mi></mfenced></math>&nbsp;are correct statements.</p>",
+    "solution_image": null,
+    "topic": "Carbon and Its Compounds"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a8",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "With respect to graphite and diamond, which of the statement(s) given below is (are) correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rMWAO",
+        "text": "Graphite is harder than diamond.",
+        "image": null
+      },
+      {
+        "id": "c510Q",
+        "text": "Graphite has higher electrical conductivity than diamond.",
+        "image": null
+      },
+      {
+        "id": "RLfLi",
+        "text": "Graphite has higher thermal conductivity than diamond.",
+        "image": null
+      },
+      {
+        "id": "uTU70",
+        "text": "Graphite has higher C-C bond order than diamond.",
+        "image": null
+      }
+    ],
+    "correct_answer": "uTU70",
+    "solution_text": "(a) Diamond is harder than graphite.\r\n\r\n(b) Graphite is good conductor of electricity as each carbon is attached to three C-atoms leaving one valency free, which is responsible for electrical conduction, while in diamond, all the four valencies of carbon are satisfied, hence insulator.\r\n\r\n(c) Diamond is better thermal conductor than graphite. Whereas electrical conduction is due to availability of free electrons; thermal conduction is due to transfer of thermal vibrations from atom to atom. A compact and precisely aligned crystal like diamond thus facilitates fast movement of heat.\r\n\r\n(d) In graphite, $\\mathrm{C}-\\mathrm{C}$ bond acquires double bond character, hence higher bond order than in diamond.",
+    "solution_image": null,
+    "topic": "Carbon and Its Compounds"
+  },
+  {
+    "question_id": "64b169c9f23ac7d519f9ae75",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "The species present in solution when $\\mathrm{CO}_2$ is dissolved in water are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "KWi64",
+        "text": "\n$\\mathrm{CO}_2, \\mathrm{H}_2 \\mathrm{CO}_3, \\mathrm{HCO}_3^{-}, \\mathrm{CO}_3^{2-}$\n",
+        "image": null
+      },
+      {
+        "id": "Xgk6O",
+        "text": "\n$\\mathrm{H}_2 \\mathrm{CO}_3, \\mathrm{CO}_3^{2-}$\n",
+        "image": null
+      },
+      {
+        "id": "hLzzg",
+        "text": "\n$\\mathrm{CO}_3^{2-}, \\mathrm{HCO}_3^{-}$\n",
+        "image": null
+      },
+      {
+        "id": "pBzLQ",
+        "text": "\n$\\mathrm{CO}_2, \\mathrm{H}_2 \\mathrm{CO}_3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KWi64",
+    "solution_text": "When $\\mathrm{CO}_2$ is dissolved in water, therefore it forms dibasic carbonic acid, which gives $\\mathrm{HCO}_3^{-}$ and $\\mathrm{CO}_3^{2-}$ ions on ionisation. Hence in solution $\\mathrm{CO}_2, \\mathrm{H}_2 \\mathrm{CO}_3, \\mathrm{HCO}_3^{-}$and $\\mathrm{CO}_3^{2-}$ are present.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eZ-xAZkHk1P-k6OdkfipgaRrtdiTqe1veNGCrErZJ80.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Carbon and Its Compounds"
+  },
+  {
+    "question_id": "64b16aa3f23ac7d519f9b638",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>The stoichiometric reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>516</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math> of dimethyldichlorosilane with water results in a tetrameric cyclic product <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">X</mi></math> in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>75</mn><mo>%</mo></math> yield. The weight (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">X</mi></math> obtained is ____________</p><p>[Use, molar mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msup><mi>gmol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></mfenced><mo>:</mo><mi mathvariant=\"normal\">H</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">C</mi><mo>=</mo><mn>12</mn><mo>,</mo><mi mathvariant=\"normal\">O</mi><mo>=</mo><mn>16</mn><mo>,</mo><mi>Si</mi><mo>=</mo><mn>28</mn><mo>,</mo><mi>Cl</mi><mo>=</mo><mn>35</mn><mo>.</mo><mn>5</mn></math>]</p><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "222",
+    "solution_text": "<blockquote><p>The dimethyldichlorosilane is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>CH</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><msub><mi>SiCl</mi><mn>2</mn></msub></math>. The molecular mass is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>129</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math>.</p><p>Number of moles of dimethyldichlorosilane initially taken&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>516</mn><mn>129</mn></mfrac><mo>=</mo><mo>&#160;</mo><mn>4</mn><mi>moles</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fa487ddc-d077-4a3c-8639-81449232ebd8.png\" style=\"width: 438px; height: 215px;\" /></p><p>Applying POAC on Si atom</p><p>Moles of tetrameric cyclic product formed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>4</mn><mn>4</mn></mfrac><mo>&#215;</mo><mfrac><mn>75</mn><mn>100</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi>moles</mi></math></p><p>Molar mass of product formed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>296</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi><mo>/</mo><mi>moles</mi></math></p><p>The mass of product formed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>296</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>75</mn><mo>=</mo><mn>222</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Silicon and Its Compounds"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b307",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Under hydrolytic conditions, the compounds used for the preparation of linear polymer and for chain termination, respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "maXgO",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>  and  <math><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "W6k0e",
+        "text": "<math><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math>",
+        "image": null
+      },
+      {
+        "id": "zFzGQ",
+        "text": "<math><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "XpTMd",
+        "text": "<math><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>4</mn></mrow></msub></math>  and  <math><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "W6k0e",
+    "solution_text": "For linear polymer, we need <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and for termination, we need  <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math> .",
+    "solution_image": null,
+    "topic": "Silicon and Its Compounds"
+  },
+  {
+    "question_id": "64b16a07f23ac7d519f9b0b1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "All the compounds listed in Column I react with water. Match the result of the respective reactions with the appropriate options listed in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0hk2ELITLGEeE6FsrD3YGnb7BhaBybjkCUYWJE087tg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "afVJD",
+        "text": "\n(A) P,Q, (B) P,Q,R,T, (C) P,Q,T, (D) P\n",
+        "image": null
+      },
+      {
+        "id": "wKgAi",
+        "text": "\n(A) P,Q, (B) P,Q,T, (C) P,Q,R,T, (D) Q\n",
+        "image": null
+      },
+      {
+        "id": "B1650",
+        "text": "\n(A) P,S, (B) P,Q,R,T, (C) P,Q,T, (D) P\n",
+        "image": null
+      },
+      {
+        "id": "JTS5C",
+        "text": "\n(A) P,S, (B) P,Q,T, (C) P,Q,R,T, (D) Q",
+        "image": null
+      }
+    ],
+    "correct_answer": "B1650",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/oweF3s_sEGUv-gYhQtMusEWCNTt0D1g6YYpgxpH50pg.original.fullsize.png\"><br>\n\n$$\n\\begin{aligned}\n& \\quad 3 \\mathrm{XeF}_4+6 \\mathrm{H}_2 \\mathrm{O} \\longrightarrow \\mathrm{XeO}_3+2 \\mathrm{Xe}+\\frac{3}{2} \\mathrm{O}_2+12 \\mathrm{HF} \\\\\n& \\quad \\mathrm{Cl}_2+\\mathrm{H}_2 \\mathrm{O} \\longrightarrow 2 \\mathrm{HCl}+\\frac{1}{2} \\mathrm{O}_2 \\\\\n& \\quad \\mathrm{VCl}_5+\\mathrm{H}_2 \\mathrm{O} \\longrightarrow \\mathrm{VOCl}_3+2 \\mathrm{HCl} \\\\\n& \\text { Representative elements } \\\\\n& \\text { Factual } \\\\\n& \\text { III }\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Silicon and Its Compounds"
+  },
+  {
+    "question_id": "64b169ccf23ac7d519f9ae8d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Match the following\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aP6PkZrkpVGT5Ap7bH-wIPaY4lRESHzYikGKWjxXO2w.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qD4sV",
+        "text": "\n(A) Q,S, (B) S, (C) R, (D) Q,R\n",
+        "image": null
+      },
+      {
+        "id": "a4FiD",
+        "text": "\n(A) Q,S, (B) R, (C) S, (D) Q\n",
+        "image": null
+      },
+      {
+        "id": "I255K",
+        "text": "\n(A) P,R, (B) P, R, (C) R, (D) Q,R\n",
+        "image": null
+      },
+      {
+        "id": "nIJXt",
+        "text": "\n(A) P,R, (B) P, (C) R, (D) Q,R",
+        "image": null
+      }
+    ],
+    "correct_answer": "qD4sV",
+    "solution_text": "A match with $\\boldsymbol{Q}, \\boldsymbol{S} \\quad \\mathrm{Bi}^{3+}+\\mathrm{H}_2 \\mathrm{O} \\longrightarrow[\\mathrm{BiO}]^{+}+2 \\mathrm{H}^{+}$ B match with $\\boldsymbol{S} \\mathrm{NaAlO}_2+2 \\mathrm{H}_2 \\mathrm{O} \\longrightarrow \\mathrm{Al}(\\mathrm{OH})_3+\\mathrm{NaOH}$ C match with $\\boldsymbol{R} \\quad 2 \\mathrm{SiO}_4^{4-}+2 \\mathrm{H}^{+} \\longrightarrow \\mathrm{Si}_2 \\mathrm{O}_7^{6-}+\\mathrm{H}_2 \\mathrm{O}$ Pyrosilicate is formed by treating orthosilicate with acid. D match with $\\boldsymbol{Q}, \\boldsymbol{R} \\mathrm{Na}_2 \\mathrm{~B}_4 \\mathrm{O}_7 \\underset{\\text { or } \\mathrm{H}_2 \\mathrm{SO}_4}{\\stackrel{\\mathrm{HCl}}{\\mathrm{O}_3}} \\mathrm{H}_3 \\mathrm{BO}_3$\n$$\n\\mathrm{Na}_2 \\mathrm{~B}_4 \\mathrm{O}_4 \\stackrel{\\mathrm{H}_2 \\mathrm{O}}{\\longrightarrow} \\mathrm{H}_3 \\mathrm{BO}_3\n$$",
+    "solution_image": null,
+    "topic": "Silicon and Its Compounds"
+  }
+]

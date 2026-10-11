@@ -1,0 +1,827 @@
+[
+  {
+    "question_id": "66965dced603121f43a3ebf3",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "A group of 9 students, $\\mathrm{s}_1, \\mathrm{~s}_2, \\ldots \\ldots, \\mathrm{s}_9$, is to be divided to from three teams $\\mathrm{X}, \\mathrm{Y}$, and $\\mathrm{Z}$ of sizes 2,3 , and 4 , respectively. Suppose that $s_1$ cannot be selected for the team $\\mathrm{X}$, and $\\mathrm{s}_2$ cannot be selected for the team Y. Then the number of ways to from such teams, is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 665,
+    "solution_text": "$\\begin{array}{ccc}\\mathrm{x} & \\mathrm{y} & \\mathrm{z} \\\\ 2 & 3 & 4 \\end{array}$\nC-i) when $x$ does not contain $\\mathrm{S}_1$, but contains $\\mathrm{S}_2$\n\\(\\underset{\\text{(for }x)}{{ }^7 C_1} \\times \\underset{\\text{(for }y,z)}{\\frac{7!}{3!4!}}=245\\)\nC-ii) When $\\mathrm{x}$ does not contain $\\mathrm{S}_1, \\mathrm{~S}_2$ and $\\mathrm{y}$ does not contain $\\mathrm{S}_2$ i.e. \\(\\underset{\\text{(for }x)}{{ }^{7} \\mathrm{C}_2} \\times \\underset{\\text{(for }y,z)}{\\frac{6!}{3!3!}}=420\\)\nso total No. of ways $665$",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16aaaf23ac7d519f9b680",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math>&nbsp;be the set of all five digit numbers formed using <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>0</mn></math>. For example, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>22240</mn></math> is in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math>&nbsp;while <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>02244</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>44422</mn></math> are not in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math>. Suppose that each element of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math>&nbsp;has an equal chance of being chosen. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math>&nbsp;be the conditional probability that an element chosen at random is a multiple of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math> given that it is a multiple of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>. Then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>38</mn><mo>&#160;</mo><mi>p</mi></math>&nbsp;is equal to",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "31",
+    "solution_text": "<blockquote><p>First we will find the sample space in which the number of five-digit numbers are divisible by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>,</p><p>So, fixing zero at the last place we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><menclose notation=\"bottom\"><mn>0</mn></menclose></mrow><mo>&#9183;</mo></munder></math></p><p>Now in first four place following number can take place,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2224</mn><mo>&#160;</mo><mo>&#8594;</mo><mfrac><mrow><mn>4</mn><mo>!</mo></mrow><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>4</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2244</mn><mo>&#8594;</mo><mfrac><mrow><mn>4</mn><mo>!</mo></mrow><mrow><mn>2</mn><mo>!</mo><mn>2</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>6</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2221</mn><mo>&#8594;</mo><mfrac><mrow><mn>4</mn><mo>!</mo></mrow><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>4</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2241</mn><mo>&#8594;</mo><mfrac><mrow><mn>4</mn><mo>!</mo></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>12</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2441</mn><mo>&#8594;</mo><mfrac><mrow><mn>4</mn><mo>!</mo></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>12</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p>So, total sample space will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>12</mn><mo>+</mo><mn>12</mn><mo>=</mo><mn>38</mn></math>&nbsp;</p><p>Now finding the number of favourable outcomes,</p><p>So, Number of five-digit numbers divisible by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> but <u>&#39;not&#39;</u> by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math></p><p>Now fixing&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math>&nbsp;in last two places, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mo>-</mo><mo>-</mo><mo>-</mo><menclose notation=\"bottom\"><mn>1</mn></menclose><mo>&#160;</mo><menclose notation=\"bottom\"><mn>0</mn></menclose></mrow><mo>&#9183;</mo></munder></math></p><p>So, the first three places can be occupied by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>222</mn><mo>&#160;</mo><mo>&#8594;</mo><mo>&#160;</mo><mn>1</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>224</mn><mo>&#160;</mo><mo>&#8594;</mo><mn>3</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>244</mn><mo>&#160;</mo><mo>&#8594;</mo><mn>3</mn><mo>&#160;</mo><mtext>ways</mtext></math></p><p>So, total number of numbers which are divisible by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;but not&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math>&nbsp;will be,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>7</mn></math></p><p>So, favourable number of five-digit numbers that are divisible by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;<u>and</u>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>=</mo><mn>38</mn><mo>-</mo><mn>7</mn><mo>=</mo><mn>31</mn></math></p><p>Hence, probability is given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>=</mo><mfrac><mn>31</mn><mn>38</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>38</mn><mo>&#160;</mo><mi>p</mi><mo>=</mo><mn>31</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a99f23ac7d519f9b5de",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "The number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>-digit integers in the closed interval <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mn>2022</mn><mo>,</mo><mn>4482</mn></mrow></mfenced></math>&nbsp;formed by using the digits <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>7</mn></math>&nbsp;is ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "569",
+    "solution_text": "<blockquote><p>Given the number to be formed by using the digits <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>7</mn></math>&nbsp;</p><p>Now assuming counting integers starting from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></p><p>Case-I: if zero on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup></math>&nbsp;place</p><p>(i)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mn>0</mn><mo>&#160;</mo><mn>2</mn><mo>&#160;</mo><mo>&#160;</mo><mi>_</mi></math>, now here at unit place&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;number can take place except zero {as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2020</mn><mo>&#60;</mo><mn>2022</mn></math>}, so&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;possible way.</p><p>(ii)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mn>0</mn><mo>&#160;</mo><mi>_</mi><mo>&#160;</mo><mi>_</mi></math>, now here at ten&#39;s place&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\"><mrow><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>7</mn></mrow></mfenced></math>&nbsp;can take place&nbsp;&nbsp;and at unit place all&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>&nbsp;number can take place so total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#215;</mo><mn>6</mn><mo>=</mo><mn>24</mn></math>&nbsp;possible way</p><p>Case-II: If non-zero number on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup></math>&nbsp;place</p><p>i.e&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><munder><mrow><mo>&#160;</mo><munder><mrow><mo>&#160;</mo><mi>_</mi></mrow><mo>&#9183;</mo></munder></mrow><mn>5</mn></munder><mo>&#160;</mo><mo>&#160;</mo><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder><munder><mrow><mo>&#160;</mo><munder><mrow><mo>&#160;</mo><mi>_</mi></mrow><mo>&#9183;</mo></munder></mrow><mn>6</mn></munder></math>, here at hundredth place&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;possibility will be there and at unit and ten&#39;s place&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mn>6</mn></math>&nbsp;possibility will be there, so in total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#215;</mo><mn>6</mn><mo>&#215;</mo><mn>6</mn><mo>=</mo><mn>180</mn></math>&nbsp;possible cases,</p><p>Case -III when counting integers starting from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>3</mn></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd></mtr></mtable></math>&nbsp;here total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#215;</mo><mn>6</mn><mo>&#215;</mo><mn>6</mn><mo>=</mo><mn>216</mn></math>&nbsp;possible&nbsp;cases</p><p>Case -IV when counting integers starting from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math></p><p>(i) If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>,</mo><mn>2</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>&nbsp;on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup></math>&nbsp;place</p><p>i.e.,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>4</mn></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>3</mn></munder></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd></mtr></mtable></math>&nbsp;here total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#215;</mo><mn>6</mn><mo>&#215;</mo><mn>6</mn><mo>=</mo><mn>108</mn></math>&nbsp;possible&nbsp;cases</p><p>(ii) If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup></math>&nbsp;place</p><p>i.e.,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mn>3</mn></mtd><mtd><mn>4</mn></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd><mtd><munder><munder><mi>_</mi><mo>&#9183;</mo></munder><mn>6</mn></munder></mtd></mtr></mtable></math>&nbsp;here total&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#215;</mo><mn>6</mn><mo>=</mo><mn>36</mn></math>&nbsp;possible&nbsp;cases</p><p>So, total possible cases will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>+</mo><mn>24</mn><mo>+</mo><mn>180</mn><mo>+</mo><mn>216</mn><mo>+</mo><mn>108</mn><mo>+</mo><mn>36</mn><mo>=</mo><mn>569</mn></math>&nbsp;numbers</p></blockquote>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a87f23ac7d519f9b53c",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "An engineer is required to visit a factory for exactly four days during the first <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn></math>&nbsp;days of every month and it is mandatory that no&nbsp;two visits take place on consecutive days. Then the number of all possible ways in which such visits to the factory can be made by the engineer during <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><mn>15</mn></math> June <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2021</mn></math> is_____",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "495",
+    "solution_text": "<p>Selection of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;non-consecutive&nbsp;days out of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn></math>&nbsp;days is same as first remove <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;objects from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn></math>&nbsp;objects, so remainging objects are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn></math>&nbsp;having&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn></math>&nbsp;gaps in which these&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;objects can be placed again.</p><p>So, total number of ways is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">C</mi><mn>4</mn><none></none><mprescripts></mprescripts><none></none><mn>12</mn></mmultiscripts><mo>=</mo><mfrac><mrow><mn>12</mn><mo>.</mo><mn>11</mn><mo>.</mo><mn>10</mn><mo>.</mo><mn>9</mn></mrow><mrow><mn>4</mn><mo>.</mo><mn>3</mn><mo>.</mo><mn>2</mn><mo>.</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mn>495</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a7bf23ac7d519f9b4cd",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Five persons <math><mi mathvariant=\"normal\">A</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">B</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">C</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">D</mi></math> and <math><mi mathvariant=\"normal\">E</mi></math> are seated in a circular arrangement. If each of them is given a hat of one of the three colours red, blue and green, then the number of ways of distributing the hats such that the persons seated in adjacent seats get different coloured hats is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "30",
+    "solution_text": "<p>Given that no two persons sitting adjacent, have the hat of same colour, so hats of all colour must be used, also <math><mn>3</mn></math> hats of same colour cannot be used as at least two hats of same colour will become consecutive, so the only combination will be <math><mn>2</mn><mo>,</mo><mi> </mi><mn>2</mn><mo>,</mo><mi> </mi><mn>1</mn><mo>.</mo></math><br/>Three cases are possible<br/><math> <mrow> <mfenced close=\"}\" open=\"\"> <mrow> <mtable equalcolumns=\"true\" equalrows=\"true\"> <mtr> <mtd> <mrow> <mi>a</mi><mo stretchy=\"false\">)</mo><mo> </mo><mn>2</mn><mi>R</mi><mo>,</mo><mo> </mo><mn>2</mn><mi>B</mi><mo>,</mo><mo> </mo><mn>1</mn><mi>G</mi></mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mi>b</mi><mo stretchy=\"false\">)</mo><mo> </mo><mn>2</mn><mi>B</mi><mo>,</mo><mo> </mo><mn>2</mn><mi>G</mi><mo>,</mo><mo> </mo><mn>1</mn><mi>R</mi></mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mi>c</mi><mo stretchy=\"false\">)</mo><mo> </mo><mn>2</mn><mi>R</mi><mo>,</mo><mo> </mo><mn>2</mn><mi>G</mi><mo>,</mo><mo> </mo><mn>1</mn><mi>B</mi></mrow> </mtd> </mtr> </mtable></mrow> </mfenced><mo>−</mo><mn>3</mn></mrow> </math> way<br/>Select are person for single colour hat <math><mo>=</mo><mmultiscripts><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mprescripts></mprescripts><mrow><mi> </mi></mrow><mrow><mn>5</mn></mrow></mmultiscripts></math> (let say green)<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/589495s.png\"/><br/>Now remaining <math><mn>4</mn></math> hats can be distributed alternatively in two ways <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>B</mi><mi>R</mi><mi>B</mi><mi>R</mi><mo> </mo><mi>or</mi><mo> </mo><mi>R</mi><mi>B</mi><mi>R</mi><mi>B</mi></mrow></mfenced></math><br/>Total number of ways <math><mo>=</mo><mn>3</mn><mo>×</mo><mmultiscripts><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mprescripts></mprescripts><mrow><mi> </mi></mrow><mrow><mn>5</mn></mrow></mmultiscripts><mo>×</mo><mn>2</mn></math><br/><math><mo>=</mo><mn>30</mn></math></p>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a68f23ac7d519f9b429",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "The number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;digit numbers which are divisible by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>, with digits from the set <math><mo>{</mo><mn>1,2</mn><mo>,</mo><mn>3,4</mn><mo>,</mo><mn>5</mn><mo>}</mo></math> and the repetition of digits is allowed, is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "625",
+    "solution_text": "Option for last two digits are <math><mfenced separators=\"|\"><mrow><mn>12</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mn>24</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mn>32</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mn>44</mn></mrow></mfenced><mi>&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>52</mn></mrow></mfenced></math> .<br /><math><mo>∴</mo><mi>&nbsp;</mi></math> Total number of 5 digit numbers<br /><math><mo>=</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mn>5</mn><mo>×</mo><mn>5</mn><mo>×</mo><mn>5</mn><mo>×</mo><mn>5</mn><mo>=</mo><mn>625</mn></math><br /><math><mi>&nbsp;</mi></math>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3bd",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "Words of length<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> are formed using the letters A, B, C, D, E, F, G, H, I, J. Let <math><mi>x</mi></math> be the number of such words where no letter is repeated; and let <math><mi>y</mi></math> be the number of such words where exactly one letter is repeated twice and no other letter is repeated. The, <math><mfrac><mrow><mi>y</mi></mrow><mrow><mn>9</mn><mi>x</mi></mrow></mfrac><mo>=</mo></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo></math>number of ways in which<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> letter word can be formed using the given ten distinct letters.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>10</mn><mo>!</mo></math></p><p><math><mi>y</mi><mo>=</mo></math>&nbsp;number of ways, in which<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> letter words&nbsp;can be formed, in which exactly&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> letter is repeated twice and remaining&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math> letters are distinct.</p><p><math><mi>y</mi><mo>=</mo><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>10</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#215;</mo><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>9</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>8</mn></mrow></msub><mo>&#215;</mo><mfrac><mrow><mn>10</mn><mo>!</mo></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac></math><math> <mrow> <mo>=</mo><mn>10</mn><mo>&#215;</mo><mn>9</mn><mo>&#215;</mo><mfrac> <mrow> <mn>10</mn><mo>!</mo> </mrow> <mrow> <mn>2</mn><mo>!</mo> </mrow> </mfrac> <mo>=</mo><mn>5</mn><mo>&#215;</mo><mn>9</mn><mo>&#215;</mo><mn>10</mn><mo>!</mo> </mrow> </math></p><p><math><mfrac><mrow><mi>y</mi></mrow><mrow><mn>9</mn><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mo>&#215;</mo><mn>9</mn><mo>&#215;</mo><mn>10</mn><mo>!</mo></mrow><mrow><mn>9</mn><mo>&#215;</mo><mn>10</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>5</mn></math></p>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a44f23ac7d519f9b2d9",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Let n be the number of ways in which 5 boys and 5 girls can stand in a queue in such a way that all the girls stand consecutively in the queue. Let m be the number of ways in which 5 boys and 5 girls can stand in queue in such a way that exactly four girls stand consecutively in the queue. Then the value of <math><mfrac><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></mfrac></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><munder underaccent=\"false\"><mrow><mn>6</mn></mrow><mo>_</mo></munder><mo>.</mo></mrow></mfenced><munder underaccent=\"false\"><mrow><mn>5</mn></mrow><mo>_</mo></munder></math> <br > <math><mi mathvariant=\"normal\">m</mi><mo>=</mo><msup><mrow/><mrow><mn>5</mn></mrow></msup><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>×</mo><msup><mrow/><mrow><mn>6</mn></mrow></msup><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>×</mo><mn>4</mn><mo>!</mo><mo>×</mo><mn>5</mn><mo>!</mo></math> <br > <math><mfrac><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></mfrac><mo>=</mo><mn>5</mn></math>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b29a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "Three boys and two girls stand in a queue. The probability that the number of boys ahead of every girl is atleast one more than the number of girls ahead of her is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aZ6xX",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "wx7kD",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "u0XX2",
+        "text": "<math><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "ygxa2",
+        "text": "<math><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "aZ6xX",
+    "solution_text": "Either a girl start the sequence or will be at second position and will not acquire the last position as well.<br />Required probability <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mfenced separators=\"|\"><mrow><msup><mi>&#160;</mi><mn>3</mn></msup><msub><mi>C</mi><mn>2</mn></msub><mo>&#215;</mo><mn>2</mn><mo>!</mo><mo>&#215;</mo><mn>3</mn><mo>!</mo><mo>+</mo><msup><mi>&#160;</mi><mn>2</mn></msup><mi>&#160;</mi><msub><mi>C</mi><mn>1</mn></msub><mo>&#215;</mo><mn>2</mn><mo>!</mo><mo>&#215;</mo><mn>3</mn><mo>!</mo></mrow></mfenced><mrow><mi>&#160;</mi><mn>5</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a37f23ac7d519f9b268",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Let <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#60;</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#60;</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>&#60;</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&#60;</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>5</mn></mrow></msub></math> be positive integers such that <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>5</mn></mrow></msub><mo>=</mo><mn>20</mn></math> . Then the number of such distinct arrangements <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>n</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>n</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>n</mi></mrow><mrow><mn>5</mn></mrow></msub></mrow></mfenced></math> is _________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "When  <math><msub><mrow><mi>n</mi></mrow><mrow><mn>5</mn></mrow></msub></math>  takes value from 10 to 6 the carry forward moves from 0 to 4 which can be arranged in   <math><msup><mrow/><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>+</mo><mfrac><mrow><msup><mrow/><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow/><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow/><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow><mrow><mn>1</mn></mrow></mfrac><mo>=</mo><mn>7</mn></math> <br >Alternate solution<br >Possible solutions are<br >1, 2, 3, 4, 10<br >1, 2, 3, 5, 9<br >1, 2, 3, 6, 8<br >1, 2, 4, 5, 8<br >1, 2, 4, 6, 7<br >1, 3, 4, 5, 7<br >2, 3, 4, 5, 6<br >Hence 7 solutions are there.",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a24f23ac7d519f9b1b7",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Let $a_{n}$ denote the number of all $n$-digit positive integers formed by the digits 0,1 or both such that no consecutive digits in them are 0 . Let $b_{n}=$ the number of such $n$-digit integers ending with digit 1 and $c_{n}=$ the number of such $n$-digit integers ending with digit 0 .\r\n\r\n<strong> Question:</strong> Which of the following is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "p0IBX",
+        "text": "$a_{17}=a_{16}+a_{15}$",
+        "image": null
+      },
+      {
+        "id": "8Tb9K",
+        "text": "$c_{17} \\neq c_{16}+c_{15}$",
+        "image": null
+      },
+      {
+        "id": "fPagp",
+        "text": "$b_{17} \\neq b_{16}+c_{16}$",
+        "image": null
+      },
+      {
+        "id": "aXvAM",
+        "text": "$a_{17}=c_{17}+b_{16}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "p0IBX",
+    "solution_text": "By recurring formula, $a_{17}=a_{16}+a_{15}$ is correct\r\n\r\nAlso $c_{17} \\neq c_{16}+c_{15}$\r\n\r\n$\\Rightarrow a_{15} \\neq a_{14}+a_{13}\\left(\\because c_{n}=a_{n-2}\\right)$\r\n\r\n$\\therefore$ Incorrect\r\n\r\nSimilarly, other parts are also incorrect.",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b16a24f23ac7d519f9b1b6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Let $a_{n}$ denote the number of all $n$-digit positive integers formed by the digits 0,1 or both such that no consecutive digits in them are 0 . Let $b_{n}=$ the number of such $n$-digit integers ending with digit 1 and $c_{n}=$ the number of such $n$-digit integers ending with digit 0 .\r\n\r\n<strong> Question:</strong> The value of $b_{6}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SJoSL",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "LAuab",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "lliy8",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "rvZHy",
+        "text": "11",
+        "image": null
+      }
+    ],
+    "correct_answer": "LAuab",
+    "solution_text": "$\\because a_{n}=$ number of all $n$ digit +ve integers formed by the digits 0,1 or both such that no consecutive digits in them are 0 .\r\n\r\nand $b_{n}=$ number of such $n$ digit integers ending with 1 $c_{n}=$ number of such $n$ digit integers ending with 0\r\n\r\nClearly, $a_{n}=b_{n}+c_{n}\\left(\\because a_{n}\\right.$ can end with 0 or 1)\r\n\r\nAlso $b_{n}=a_{n-1}$ and $c_{n}=a_{n-2}[\\because$ if last digit is 0 , second last has to be 1]\r\n\r\n$\\therefore$ We get $a_{n}=a_{n-1}+a_{n-2}, n \\geq 3$\r\n\r\nAlso $a_{1}=1, a_{2}=2$,\r\n\r\nNow by this recurring formula, we get\r\n\r\n$\\begin{aligned} a_{3} &=a_{2}+a_{1}=3 \\\\ a_{4} &=a_{3}+a_{2}=3+2=5 \\\\ a_{5} &=a_{4}+a_{3}=5+3=8 \\\\ \\text { Also } b_{6} &=a_{5}=8 \\end{aligned}$",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b169f3f23ac7d519f9aff7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $A$ be the set of all $3 \\times 3$ symmetric matrices all of whose entries are either 0 or 1 . Five of these entries are 1 and four of them are 0 .<strong>Question:</strong>\nThe number of matrices in $A$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "X9MMq",
+        "text": "\n12\n",
+        "image": null
+      },
+      {
+        "id": "a8pJg",
+        "text": "\n6\n",
+        "image": null
+      },
+      {
+        "id": "xeZVt",
+        "text": "\n9\n",
+        "image": null
+      },
+      {
+        "id": "QuaYW",
+        "text": "\n3",
+        "image": null
+      }
+    ],
+    "correct_answer": "X9MMq",
+    "solution_text": "Case $I$ When all three diagonal elements are 1 , then\nNumber of matrices $={ }^3 C_1=3$\nCase II When two diagonal elements are zero and one element is one no, then Number of matrices $={ }^3 C_1 \\cdot{ }^3 C_1=9$\n$\\therefore$ Total matrices $=3+9=12$",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b169f2f23ac7d519f9afec",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The number of seven digit integers, with sum of the digits equal to 10 and formed by using the digits 1,2 and 3 only, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sHiUt",
+        "text": "\n55\n",
+        "image": null
+      },
+      {
+        "id": "lC3HR",
+        "text": "\n66\n",
+        "image": null
+      },
+      {
+        "id": "51TDz",
+        "text": "\n77\n",
+        "image": null
+      },
+      {
+        "id": "ndfRM",
+        "text": "\n88",
+        "image": null
+      }
+    ],
+    "correct_answer": "51TDz",
+    "solution_text": "There are two possible cases arise:\nCase I Five 1's, one 2's, one 3's\n$\\therefore$ Number of numbers $=\\frac{7 !}{5 !}=42$\nCase II Four 1's, three 2's\n$\\therefore$ Number of numbers $=\\frac{7 !}{4 ! 3 !}=35$\n$\\therefore$ Total number of numbers $=42+35=77$",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "64b169edf23ac7d519f9afc2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Consider all possible permutations of the letters of the word ENDEANOEL. Match the Statements/Expressions in Column I with the Statements/Expressions in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1Oj7xgNtMlSTH_bJ2EXv-IV_L6I5OltoIjA2nwL0Yr0.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SKFtn",
+        "text": "\n(A) r, (B) q, (C) s, (D) p\n",
+        "image": null
+      },
+      {
+        "id": "vnmX6",
+        "text": "\n(A) p, (B) s, (C) q, (D) q\n",
+        "image": null
+      },
+      {
+        "id": "8yplH",
+        "text": "\n(A) p, (B) r, (C) s, (D) q\n",
+        "image": null
+      },
+      {
+        "id": "8sKyC",
+        "text": "\n(A) r, (B) s, (C) r, (D) p",
+        "image": null
+      }
+    ],
+    "correct_answer": "vnmX6",
+    "solution_text": "(A) If ENDEA is fixed word, then assume this as a single letter.\nTotal number of letters $=5$ and total number of arrangements $=5$ ! .\n(B) If $E$ is at first and last places, then total number of permutations\n$$\n\\frac{7 !}{2 !}=21 \\times 5 !\n$$\n(C) If $\\mathrm{D}, \\mathrm{L}, \\mathrm{N}$ are not in last five positions\n$$\n\\leftarrow \\mathrm{D}, \\mathrm{L}, \\mathrm{N}, \\mathrm{N} \\rightarrow \\leftarrow \\text { E, E, E, A, O } \\rightarrow\n$$\nTotal number of permutations $=\\frac{4 !}{2 !} \\times \\frac{5 !}{3 !}=2 \\times 5$ ! .\n(D) Total number of odd positions $=5$\nPermutations of AEEEO are $\\frac{5 !}{3 !}$\nTotal number of even positions $=4$\nNumber of permutations of $\\mathrm{N}, \\mathrm{N}, \\mathrm{D}, \\mathrm{L}=\\frac{4 !}{2 !}$\nHence, total number of permutations $=\\frac{5 !}{3 !} \\times \\frac{4 !}{2 !}=2 \\times 5 !$.",
+    "solution_image": null,
+    "topic": "Arrangement under Constraint"
+  },
+  {
+    "question_id": "6a0be51244d287c9361e5cb2",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A bookshelf contains $6$ distinct books of Mathematics and $5$ distinct books of Physics. From these $11$ books, $6$ books are chosen at random. Let $X$ be the absolute value of the difference between the number of Mathematics books chosen and the number of Physics books chosen. If $\\alpha$ is the mean of the random variable $X$, then the value of $77\\alpha$ is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "100",
+    "solution_text": "Total number of ways to choose $6$ books from $11$ books is $^{11}C_{6} = 462$.<br><br>Let $M$ and $P$ be the number of Mathematics and Physics books chosen respectively. Since $6$ books are chosen, $M + P = 6$.<br><br>The random variable $X$ is given by $X = |M - P| = |2M - 6|$.<br><br>The possible selections of $(M, P)$, the corresponding values of $X$, and the number of ways are as follows:<br><br>For $M=1, P=5$: $X = |1 - 5| = 4$, Number of ways $= ^{6}C_{1} \\times ^{5}C_{5} = 6 \\times 1 = 6$<br><br>For $M=2, P=4$: $X = |2 - 4| = 2$, Number of ways $= ^{6}C_{2} \\times ^{5}C_{4} = 15 \\times 5 = 75$<br><br>For $M=3, P=3$: $X = |3 - 3| = 0$, Number of ways $= ^{6}C_{3} \\times ^{5}C_{3} = 20 \\times 10 = 200$<br><br>For $M=4, P=2$: $X = |4 - 2| = 2$, Number of ways $= ^{6}C_{4} \\times ^{5}C_{2} = 15 \\times 10 = 150$<br><br>For $M=5, P=1$: $X = |5 - 1| = 4$, Number of ways $= ^{6}C_{5} \\times ^{5}C_{1} = 6 \\times 5 = 30$<br><br>For $M=6, P=0$: $X = |6 - 0| = 6$, Number of ways $= ^{6}C_{6} \\times ^{5}C_{0} = 1 \\times 1 = 1$<br><br>The mean $\\alpha$ of the random variable $X$ is given by:<br><br>$\\alpha = \\dfrac{\\sum X_i f_i}{\\sum f_i}$<br><br>$\\alpha = \\dfrac{4(6) + 2(75) + 0(200) + 2(150) + 4(30) + 6(1)}{462}$<br><br>$\\alpha = \\dfrac{24 + 150 + 0 + 300 + 120 + 6}{462}$<br><br>$\\alpha = \\dfrac{600}{462} = \\dfrac{100}{77}$<br><br>Therefore, the value of $77\\alpha$ is:<br><br>$77\\alpha = 77 \\times \\dfrac{100}{77} = 100$<br><br>Answer: $100$",
+    "solution_image": null,
+    "topic": "Combination"
+  },
+  {
+    "question_id": "64b16a6ff23ac7d519f9b467",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "In a high school, a committee has to be formed from a group of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>&nbsp;boys<br /><math><msub><mrow><mi>M</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>M</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>M</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>M</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>M</mi></mrow><mrow><mn>5</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>M</mi></mrow><mrow><mn>6</mn></mrow></msub></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;girls <math><msub><mrow><mi>G</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>G</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>G</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>G</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>G</mi></mrow><mrow><mn>5</mn></mrow></msub></math>.<br />(i) Let <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> be the total number of ways in which the committee can be formed such that the committee has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;members, having exactly <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>&nbsp;boys and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;girls.<br />(ii) Let <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>2</mn></mrow></msub></math> be the total number of ways in which the committee can be formed such that the committee has at least <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;members, and having an equal number of boys and girls.<br />(iii) Let <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>3</mn></mrow></msub></math> be the total number of ways in which the committee can be formed such that the committee has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;members, at least <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;of them being girls.<br />(iv) Let <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>4</mn></mrow></msub></math> be the total number of ways in which the committee can be formed such that the committee has&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;members, having at least <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;girls and such that both <math><msub><mrow><mi>M</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>G</mi></mrow><mrow><mn>1</mn></mrow></msub></math> are NOT in the committee together.<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>LIST-I</td>\t\t\t<td>LIST-II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A. The value of <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> is</td>\t\t\t<td>P.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>136</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B. The value of <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is</td>\t\t\t<td>Q.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>189</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>C. The value of <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is</td>\t\t\t<td>R. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>192</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>D. The value of <math><msub><mrow><mi>&#945;</mi></mrow><mrow><mn>4</mn></mrow></msub></math> is</td>\t\t\t<td>S. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>T. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>381</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>U. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>461</mn></math></td>\t\t</tr>\t</tbody></table>The correct option is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0aniL",
+        "text": "a-s;b-u;c-t;d-q;",
+        "image": null
+      },
+      {
+        "id": "9kXa9",
+        "text": "a-u;b-t;c-q;d-p;",
+        "image": null
+      },
+      {
+        "id": "IJ5R6",
+        "text": "a-t;b-r;c-s;d-p;",
+        "image": null
+      },
+      {
+        "id": "xBZLK",
+        "text": "a-t;b-r;c-q;d-p;",
+        "image": null
+      }
+    ],
+    "correct_answer": "0aniL",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></math> <math><msub><mrow><mi>α</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>200</mn></math><br />So <math><mi>P</mi><mo>→</mo><mn>4</mn></math><br /><math><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></math> <math><msub><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced></math><br /><math><mo>=</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>11</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced><mo>-</mo><mn>1</mn><mo>=</mo><mn>461</mn></math><br />So <math><mi>Q</mi><mo>→</mo><mn>6</mn></math><br /><math><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></math> <math><msub><mrow><mi>α</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math><br /><math><mo>=</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>11</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>5</mn></mtd></mtr></mtable></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>381</mn></math><br />So <math><mi>R</mi><mo>→</mo><mn>5</mn></math><br /><math><mfenced separators=\"|\"><mrow><mn>4</mn></mrow></mfenced></math> <math><msub><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>4</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>4</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mfenced><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd></mtr></mtable></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mtable><mtr><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd></mtr></mtable></mrow></mfenced><mo>=</mo><mn>189</mn></math><br />So <math><mi>S</mi><mo>→</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Combination"
+  },
+  {
+    "question_id": "64b16a50f23ac7d519f9b34a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "A debate club consists of 6 girls and 4 boys. A team of 4 members is to be selected from this club including the selection of a captain (from among these 4 members) for the team. If the team has to include at most one boy, then the number of ways of selecting the team is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SZEYR",
+        "text": "380",
+        "image": null
+      },
+      {
+        "id": "0JKxT",
+        "text": "320",
+        "image": null
+      },
+      {
+        "id": "Xph3t",
+        "text": "260",
+        "image": null
+      },
+      {
+        "id": "rv6IE",
+        "text": "95",
+        "image": null
+      }
+    ],
+    "correct_answer": "SZEYR",
+    "solution_text": "<p>There are 2 cases-</p><p>i. All the 4 are girls</p><p>ii. 3 girls and 1 boy</p><p>So the answer is&nbsp;</p><p><math><mfenced separators=\"|\"><mrow><msup><mrow></mrow><mrow><mn>6</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><msup><mrow></mrow><mrow><mn>6</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>.</mo><mi>&nbsp;</mi><msup><mrow></mrow><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced><mo>.</mo><mi>&nbsp;</mi><msup><mrow></mrow><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>380</mn></math> &nbsp; &nbsp; (<math><msup><mrow></mrow><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo></math> No. of ways of selecting captain)</p>",
+    "solution_image": null,
+    "topic": "Combination"
+  },
+  {
+    "question_id": "64b16a3ef23ac7d519f9b2a5",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nBox $1$ contains three cards bearing numbers $1,2,3$; box $2$ contains five cards bearing numbers $1,2,3,4,5$; and box $3$ contains seven cards bearing numbers $1,2,3,4,5,6,7$. A card is drawn from each of the boxes. Let $x_{i}$ be the number on the card drawn from the $i^{t h}$ box, $i=1,2,3$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe probability that $x_{1}, x_{2}, x_{3}$ are in an arithmetic progression, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "T4plX",
+        "text": "<math><mfrac><mrow><mn>9</mn></mrow><mrow><mn>105</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "RLwU1",
+        "text": "<math><mfrac><mrow><mn>10</mn></mrow><mrow><mn>105</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "DjP81",
+        "text": "<math><mfrac><mrow><mn>11</mn></mrow><mrow><mn>105</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "cWOIT",
+        "text": "<math><mfrac><mrow><mn>7</mn></mrow><mrow><mn>105</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "DjP81",
+    "solution_text": "Here <math><mn>2</mn><msub><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo></math> even<br />Hence number of favorable ways <math><mo>=</mo><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>2</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mo>.</mo><mi>&#160;</mi><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>1</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mo>.</mo><mi>&#160;</mi><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>3</mn></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>11</mn></math>",
+    "solution_image": null,
+    "topic": "Combination"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b29c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "Six cards and six envelopes are numbered 1, 2, 3, 4, 5, 6 and cards are to be placed in envelopes so that<br />\r\n\r\n<br />\r\n\r\neach envelope contains exactly one card and no card is placed in the envelope bearing the same number and<br />\r\n\r\n<br />\r\n\r\nmore over the card numbered 1 is always placed in envelope numbered 2. Then the number of ways it can<br />\r\n\r\n<br />\r\n\r\nbe done is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cIcEf",
+        "text": "264",
+        "image": null
+      },
+      {
+        "id": "JLhqY",
+        "text": "265",
+        "image": null
+      },
+      {
+        "id": "JK2Dt",
+        "text": "53",
+        "image": null
+      },
+      {
+        "id": "Y9TQO",
+        "text": "67",
+        "image": null
+      }
+    ],
+    "correct_answer": "JK2Dt",
+    "solution_text": "Total number of placements of 6 cards into 6 envelopes when no card is placed in the envelope bearing the same number.<br /><math> <mrow> <mo>=</mo><mn>6</mn><mo>!</mo><mrow><mo>(</mo> <mrow> <mn>1</mn><mo>−</mo><mfrac> <mn>1</mn> <mrow> <mn>1</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mn>1</mn> <mrow> <mn>2</mn><mo>!</mo></mrow> </mfrac> <mo>−</mo><mfrac> <mn>1</mn> <mrow> <mn>3</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mn>1</mn> <mrow> <mn>4</mn><mo>!</mo></mrow> </mfrac> <mo>−</mo><mfrac> <mn>1</mn> <mrow> <mn>5</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mn>1</mn> <mrow> <mn>6</mn><mo>!</mo></mrow> </mfrac> </mrow> <mo>)</mo></mrow></mrow> </math><br /><math> <mrow> <mo>=</mo><mn>6</mn><mo>!</mo><mrow><mo>(</mo> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>2</mn><mo>!</mo></mrow> </mfrac> <mo>−</mo><mfrac> <mn>1</mn> <mrow> <mn>3</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mn>1</mn> <mrow> <mn>4</mn><mo>!</mo></mrow> </mfrac> <mo>−</mo><mfrac> <mn>1</mn> <mrow> <mn>5</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mn>1</mn> <mrow> <mn>6</mn><mo>!</mo></mrow> </mfrac> </mrow> <mo>)</mo></mrow></mrow> </math><br /><math> <mrow> <mo>=</mo><mn>360</mn><mo>−</mo><mn>120</mn><mo>+</mo><mn>30</mn><mo>−</mo><mn>6</mn><mo>+</mo><mn>5</mn><mo>=</mo><mn>265</mn></mrow> </math><br />Number of ways the card numbered 1 is placed among the above placements = 5 (envelope number 2, 3, 4, 5, 6)<br />So the required number of ways when card&nbsp;1 is placed&nbsp;in the envelope&nbsp;numbered 2 = 265 / 5 = 53",
+    "solution_image": null,
+    "topic": "Dearrangement"
+  },
+  {
+    "question_id": "64b16a87f23ac7d519f9b53d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "In a hotel, four rooms are available. Six persons are to be accommodated in these four rooms in such a way that each of these rooms contains at least one person and at most two persons. Then the number of all possible ways in which this can be done is_____",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1080",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>&nbsp;persons can be distributed in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;rooms in the group of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math>&nbsp;by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>!</mo></mrow><mrow><mfenced><mrow><mn>1</mn><mo>!</mo><mn>1</mn><mo>!</mo><mn>2</mn><mo>!</mo><mn>2</mn><mo>!</mo></mrow></mfenced><mfenced><mrow><mn>2</mn><mo>!</mo><mn>2</mn><mo>!</mo></mrow></mfenced></mrow></mfrac><mo>&#215;</mo><mn>4</mn><mo>!</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>720</mn><mo>&#215;</mo><mn>24</mn></mrow><mn>16</mn></mfrac><mo>=</mo><mn>1080</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Division and Distribution of Distinct Items"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b171",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5sUmb",
+        "text": "75",
+        "image": null
+      },
+      {
+        "id": "nT7Gf",
+        "text": "150",
+        "image": null
+      },
+      {
+        "id": "B6Kir",
+        "text": "210",
+        "image": null
+      },
+      {
+        "id": "IRqEI",
+        "text": "243",
+        "image": null
+      }
+    ],
+    "correct_answer": "nT7Gf",
+    "solution_text": "$\\because \\quad$ Each person gets at least one ball.\r\n\r\n$\\therefore \\quad 3$ Persons can have 5 balls as follow.\r\n\r\n\\begin{array}{|c|c|c|}\r\n\r\n\\hline Person & No. of balls & No. of balls \\\\\r\n\r\n\\hline I & 1 & 1 \\\\\r\n\r\n\\hline II & 1 & 2 \\\\\r\n\r\n\\hline III & 3 & 2 \\\\\r\n\r\n\\hline\r\n\r\n\\end{array}\r\n\r\nThe number of ways to distribute balls 1,1,3 in first to three persons\r\n\r\n$={ }^{5} \\mathrm{C}_{1} \\times{ }^{4} \\mathrm{C}_{1} \\times{ }^{3} \\mathrm{C}_{3}$\r\n\r\nAlso 3 , persons having 1,1 and 3 balls can be arranged in $\\frac{3 !}{2 !}$ ways.\r\n\r\n$\\therefore \\quad$ Total no. of ways to distribute $1,1,3$ balls to the three persons\r\n\r\n$={ }^{5} \\mathrm{C}_{1} \\times{ }^{4} \\mathrm{C}_{1} \\times{ }^{3} \\mathrm{C}_{3} \\times \\frac{3 !}{2 !}=60$\r\n\r\nSimilarly, total no. of ways to distribute $1,2,2$ balls to\r\n\r\nthree persons $={ }^{5} \\mathrm{C}_{1} \\times{ }^{4} \\mathrm{C}_{2} \\times{ }^{2} \\mathrm{C}_{2} \\times \\frac{3 !}{2 !}=90$\r\n\r\n$\\therefore \\quad$ The required number of ways $=60+90=150$",
+    "solution_image": null,
+    "topic": "Division and Distribution of Distinct Items"
+  },
+  {
+    "question_id": "6a0be50d44d287c9361e5c82",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "The number of ways to distribute $10$ identical red pens and $14$ identical blue pens among four persons such that each person gets $6$ pens, is _____________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "206",
+    "solution_text": "Let $r_i$ and $b_i$ be the number of red and blue pens given to the $i$-th person, where $i = 1, 2, 3, 4$.<br><br>Given that each person receives exactly $6$ pens, we have:<br>$r_i + b_i = 6 \\Rightarrow b_i = 6 - r_i$<br><br>Since the number of blue pens must be non-negative ($b_i \\ge 0$), we get $r_i \\le 6$. Also, $r_i \\ge 0$.<br><br>The total number of red pens is $10$, so:<br>$r_1 + r_2 + r_3 + r_4 = 10$<br><br>The number of ways to distribute the pens is the number of non-negative integer solutions to this equation subject to $0 \\le r_i \\le 6$.<br><br>This is equivalent to finding the coefficient of $x^{10}$ in the expansion of $(1 + x + x^2 + \\dots + x^6)^4$.<br><br>$(1 + x + x^2 + \\dots + x^6)^4 = \\left( \\dfrac{1 - x^7}{1 - x} \\right)^4 = (1 - x^7)^4 (1 - x)^{-4}$<br><br>Expanding both terms:<br>$(1 - x^7)^4 = 1 - 4x^7 + 6x^{14} - \\dots$<br>$(1 - x)^{-4} = \\sum_{k=0}^{\\infty} {}^{k+3}C_{3} x^k$<br><br>We need the coefficient of $x^{10}$ in the product $(1 - 4x^7 + \\dots) \\sum_{k=0}^{\\infty} {}^{k+3}C_{3} x^k$.<br><br>Coefficient of $x^{10} = 1 \\times (\\text{coefficient of } x^{10} \\text{ in } (1-x)^{-4}) - 4 \\times (\\text{coefficient of } x^3 \\text{ in } (1-x)^{-4})$<br><br>$= {}^{10+3}C_{3} - 4 \\times {}^{3+3}C_{3}$<br><br>$= {}^{13}C_{3} - 4 \\times {}^{6}C_{3}$<br><br>$= \\dfrac{13 \\times 12 \\times 11}{3 \\times 2 \\times 1} - 4 \\times \\dfrac{6 \\times 5 \\times 4}{3 \\times 2 \\times 1}$<br><br>$= 286 - 4 \\times 20$<br><br>$= 286 - 80 = 206$<br><br>Answer: $206$",
+    "solution_image": null,
+    "topic": "Division of Identical items"
+  },
+  {
+    "question_id": "64b16a37f23ac7d519f9b269",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi>n</mi><mi>&#160;</mi><mo>&#8805;</mo><mn>2</mn></math> be an integer. Take n distinct points on a circle and join each pair of points by a line segment. Colour the line segment joining every pair of adjacent points by blue and the rest by red. If the number of red and blue line segments are equal, then the value of n is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "Number of red lines  <math><mo>=</mo><msup><mrow/><mrow><mi>n</mi></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><mi>n</mi></math> <br >Number of blue lines = n<br >Hence,  <math><msup><mrow/><mrow><mi>n</mi></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><mi>n</mi><mo>=</mo><mi>n</mi></math> <br > <math><msup><mrow/><mrow><mi>n</mi></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><mi>n</mi></math> <br > <math><mfrac><mrow><mi>n</mi><mfenced separators=\"|\"><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mn>2</mn><mi>n</mi></math> <br > <math><mi>n</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>4</mn><mo>⇒</mo><mi>n</mi><mo>=</mo><mn>5</mn><mo>.</mo></math>",
+    "solution_image": null,
+    "topic": "Geometric Permutation"
+  },
+  {
+    "question_id": "685102bd6bba689a3eb09c78",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $S$ be the set of all seven-digit numbers that can be formed using the digits 0,1 and 2 . For example, 2210222 is in $S$, but 0210222 is NOT in $S$.\nThen the number of elements $x$ in $S$ such that at least one the digits 0 and 1 appears exactly twice in $x$, is equal to ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "762",
+    "solution_text": "Let $\\mathrm{A} \\rightarrow$ \" 0 \" appear exactly twice.\nand $\\mathrm{B} \\rightarrow \" 1 \"$ appear exactly twice.\n$\\therefore \\mathrm{A} \\cap \\mathrm{B} \\rightarrow$ \" 0 \" and \" 1 \" both appears exactly twice.\n$\\mathrm{n}(\\mathrm{A})=-\\underbrace{-------}$\n$={ }_{\\text {placing zero }}^6 \\mathrm{C}_2(1)(2)^5=\\frac{6 \\times 5}{2} \\times 2^5=480$ for $\\mathrm{n}(\\mathrm{B})$\nC-I : $1$ at first place\n$\\underline{1}\\underbrace{-------}$\n$\\text { Number of ways }=\\underset{\\text { placing } 1}{} \\mathrm{}^6{C}_1(1)(2)^5=192$\nC-II : 2 at first place\n$\\underline{2}\\underbrace{-------}$\nNumber of ways $=\\underset{\\text { placing } 1}{{ }^6 \\mathrm{C}_2(1)(2)^4}=\\frac{6 \\times 5}{2} \\times 2^4=240$\n$n(B)=240+192$\nfor $\\mathrm{n}(\\mathrm{A} \\cap \\mathrm{B})$\n$\\underline{}\\underbrace{-------}$\nfor $\\mathrm{n}(\\mathrm{A} \\cap \\mathrm{B})=\\underset{\\text { placing zero }}{{ }^6 \\mathrm{C}_2(1)} \\times \\underset{\\text { placing } 1}{{ }^5 \\mathrm{C}_2(1)} \\times \\underset{\\text { 2at rest places } 1}{(1)} =\\frac{6 \\times 5}{2} \\times \\frac{5 \\times 4}{2}=150$\n$\\begin{aligned} & \\therefore \\mathrm{n}(\\mathrm{A} \\cup \\mathrm{B})=\\mathrm{n}(\\mathrm{A})+\\mathrm{n}(\\mathrm{B})-\\mathrm{n}(\\mathrm{A} \\cap \\mathrm{B}) \\\\ & =480+(192+240)-150 \\\\ & =762\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Permutation"
+  },
+  {
+    "question_id": "64b16a9ff23ac7d519f9b61c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Consider <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;boxes, where each box contains <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math> red balls and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> blue balls. Assume that all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math> balls are distinct. In how many different ways can <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> balls be chosen from these <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> boxes so that from each box at least one red ball and one blue ball are chosen?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0f4TK",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>21816</mn></math>",
+        "image": null
+      },
+      {
+        "id": "USpLa",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>85536</mn></math>",
+        "image": null
+      },
+      {
+        "id": "cSOtM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12096</mn></math>",
+        "image": null
+      },
+      {
+        "id": "yu2wR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>156816</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "0f4TK",
+    "solution_text": "<blockquote><p>Let the four boxes be Box-1, Box-2, Box-3 and Box-4. Each of the box has&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>&nbsp;red balls and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;blue balls.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cd4298df-b141-419b-9626-33ce4672e39a-image.png\" style=\"width: 475px; height: 200px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math>&nbsp;balls can be chosen in:</p><p>Case I - When exactly one box gives four balls</p><p>Case II - When exactly two boxes gives three balls</p><p>Required number of ways<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math>&nbsp;Number of ways in Case I&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo></math> Number of ways in Case II.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>4</mn></mmultiscripts><mfenced close=\"]\" open=\"[\"><mrow><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>2</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>3</mn></mmultiscripts></mrow></mfenced><msup><mfenced><mrow><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>3</mn></mmultiscripts><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>2</mn></mmultiscripts></mrow></mfenced><mn>3</mn></msup><mo>+</mo><mmultiscripts><mi>C</mi><mn>2</mn><none></none><mprescripts></mprescripts><none></none><mn>4</mn></mmultiscripts><msup><mfenced close=\"]\" open=\"[\"><mrow><mmultiscripts><mi>C</mi><mn>2</mn><none></none><mprescripts></mprescripts><none></none><mn>3</mn></mmultiscripts><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>2</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>3</mn></mmultiscripts><mmultiscripts><mi>C</mi><mn>2</mn><none></none><mprescripts></mprescripts><none></none><mn>2</mn></mmultiscripts></mrow></mfenced><mn>2</mn></msup><msup><mfenced close=\"]\" open=\"[\"><mrow><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>3</mn></mmultiscripts><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>2</mn></mmultiscripts></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mfenced><mn>5</mn></mfenced><msup><mfenced><mn>6</mn></mfenced><mn>3</mn></msup><mo>+</mo><mn>6</mn><msup><mfenced><mrow><mn>3</mn><mo>&#215;</mo><mn>2</mn><mo>+</mo><mn>3</mn></mrow></mfenced><mn>2</mn></msup><msup><mfenced><mn>6</mn></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4320</mn><mo>+</mo><mn>17496</mn><mo>=</mo><mn>21816</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Permutation"
+  },
+  {
+    "question_id": "64b169ddf23ac7d519f9af29",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "The letters of the word $\\mathrm{COCHIN}$ are permuted and all the permutations are arranged in an alphabetical order as in an English dictionary. The number of words that appear before the word $\\mathrm{COCHIN}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lTVIk",
+        "text": "\n360\n",
+        "image": null
+      },
+      {
+        "id": "ihZ9A",
+        "text": "\n192\n",
+        "image": null
+      },
+      {
+        "id": "LtgWd",
+        "text": "\n97\n",
+        "image": null
+      },
+      {
+        "id": "mLP3I",
+        "text": "\n48",
+        "image": null
+      }
+    ],
+    "correct_answer": "LtgWd",
+    "solution_text": "In a word $\\mathrm{COCHIN}$, the second place can be filled in ${ }^4 C_1$ ways and the remaining four alphabets can be arranged in $4 !$ ways in four different places. The next $97^{\\text {th }}$ word will be COCHIN.",
+    "solution_image": null,
+    "topic": "Permutation"
+  },
+  {
+    "question_id": "64b16aabf23ac7d519f9b687",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>Consider the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#215;</mo><mn>6</mn></math>&nbsp;square in the figure. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><mo>,</mo><msub><mi>A</mi><mn>2</mn></msub><mo>,</mo><mo>&#8230;</mo><mo>,</mo><msub><mi>A</mi><mn>49</mn></msub></math> be the points of intersections (dots in the picture) in some order. We say that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>i</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>j</mi></msub></math> are friends if they are adjacent along a row or along a column. Assume that each point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>i</mi></msub></math> has an equal chance of being chosen.</p>\n\n<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d33e0b30-a00c-486d-8560-c6e3e5f7757d.png\" style=\"width: 200px; height: 197px;\" /></p>\n\n<p>(There are two questions based on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PARAGRAPH</mi><mo>&#160;</mo><mo>&#34;</mo><mi>II</mi><mo>&#34;</mo></math>, the question given below is one of them)</p>\n<br>Two distinct points are chosen randomly out of the points <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><mo>,</mo><msub><mi>A</mi><mn>2</mn></msub><mo>,</mo><mo>&#8230;</mo><mo>&#8230;</mo><mo>,</mo><msub><mi>A</mi><mn>49</mn></msub></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math>&nbsp;be the probability that they are friends. Then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>&#160;</mo><mi>p</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.5",
+    "solution_text": "<blockquote><p>Given,</p><p>We have to choose two distinct points randomly,</p><p>Now number of ways of selecting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> adjacent dots in row will be<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn></math>&nbsp;{as if you pick any dot then you have pick second dot from remaining <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>&nbsp;dots, so total ways will be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#215;</mo><mmultiscripts><mi>C</mi><mn>1</mn><none></none><mprescripts></mprescripts><none></none><mn>6</mn></mmultiscripts><mo>=</mo><mn>6</mn></math>}</p><p>Similarly, number of ways of selecting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> adjacent dots in&nbsp;column<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo></math>Number of ways of selecting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> adjacent dots from the given diagram we will&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>&#215;</mo><mn>7</mn><mo>+</mo><mn>6</mn><mo>&#215;</mo><mn>7</mn><mo>=</mo><mn>84</mn></math></p><p>So, probability is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>=</mo><mfrac><mn>84</mn><mmultiscripts><mi>C</mi><mn>2</mn><none></none><mprescripts></mprescripts><none></none><mn>49</mn></mmultiscripts></mfrac><mo>=</mo><mfrac><mrow><mn>84</mn><mo>&#215;</mo><mn>2</mn></mrow><mrow><mn>49</mn><mo>&#215;</mo><mn>48</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>7</mn><mi>p</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mo>&#215;</mo><mn>84</mn><mo>&#215;</mo><mn>2</mn></mrow><mrow><mn>49</mn><mo>&#215;</mo><mn>48</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Selection of one or more item"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b5a1",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi></mrow></mfenced><mo>&#160;</mo><mo>:</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>&#8230;</mo><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi></mrow></mfenced><mo>&#160;</mo><mo>:</mo><mn>1</mn><mo>&#8804;</mo><mi>i</mi><mo>&#60;</mo><mi>j</mi><mo>+</mo><mn>2</mn><mo>&#8804;</mo><mn>10</mn><mo>,</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>&#8230;</mo><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>3</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>l</mi></mrow></mfenced><mo>:</mo><mn>1</mn><mo>&#8804;</mo><mi>i</mi><mo>&#60;</mo><mi>j</mi><mo>&#60;</mo><mi>k</mi><mo>&#60;</mo><mi>l</mi><mo>,</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>l</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>.....</mn><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><p>and&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>4</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>l</mi></mrow></mfenced><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>&#160;</mo><mtext>and</mtext><mo>&#160;</mo><mi>l</mi><mo>&#160;</mo><mtext>are&#160;distint&#160;elements&#160;in</mtext><mo>&#160;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><p>If the total number of elements in the set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mi>r</mi></msub></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mi>r</mi></msub><mo>,</mo><mi>r</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn></math>&nbsp;then which of the following statements is (are) TRUE?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "f035E",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>1</mn></msub><mo>=</mo><mn>1000</mn></math>",
+        "image": null
+      },
+      {
+        "id": "l9v52",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>2</mn></msub><mo>=</mo><mn>44</mn></math>",
+        "image": null
+      },
+      {
+        "id": "5DBfW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>3</mn></msub><mo>=</mo><mn>220</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ihONA",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>n</mi><mn>4</mn></msub><mn>12</mn></mfrac><mo>=</mo><mn>420</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ihONA",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mi>i</mi></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi></mrow></mfenced><mo>:</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>...</mn><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>1</mn></msub><mo>=</mo><mn>10</mn><mo>&#215;</mo><mn>10</mn><mo>&#215;</mo><mn>10</mn><mo>=</mo><mn>1000</mn></math></p><p>i.e., number of&nbsp;elements in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub><mo>=</mo><mn>1000</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi></mrow></mfenced><mo>:</mo><mn>1</mn><mo>&#8804;</mo><mi>i</mi><mo>&#60;</mo><mi>j</mi><mo>+</mo><mn>2</mn><mo>&#8804;</mo><mn>10</mn><mo>,</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>...</mn><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 100px;\">\t<tbody>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>j</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>,</mo><mn>2</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8942;</mo></math></td>\t\t\t<td>&nbsp;</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mn>9</mn></math></td>\t\t</tr>\t</tbody></table><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>5</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>9</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>44</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>3</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>l</mi></mrow></mfenced><mo>:</mo><mn>1</mn><mo>&#8804;</mo><mi>i</mi><mo>&#60;</mo><mi>j</mi><mo>&#60;</mo><mi>k</mi><mo>&#60;</mo><mi>l</mi><mo>,</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>l</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>....10</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>3</mn></msub><msup><mo>=</mo><mn>10</mn></msup><msub><mi>C</mi><mn>4</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>10</mn><mo>&#215;</mo><mn>3</mn><mo>&#215;</mo><mn>8</mn><mo>&#215;</mo><mn>7</mn><mo>&#215;</mo><mn>6</mn><mo>!</mo></mrow><mrow><mn>4</mn><mo>&#215;</mo><mn>3</mn><mo>&#215;</mo><mn>2</mn><mo>&#215;</mo><mn>1</mn><mo>&#215;</mo><mn>6</mn><mo>!</mo></mrow></mfrac><mo>=</mo><mn>210</mn></math></p><p>i.e. number of elements in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>3</mn></msub><mo>=</mo><mn>210</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>4</mn></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>l</mi></mrow></mfenced><mo>:</mo><mi>i</mi><mo>,</mo><mi>j</mi><mo>,</mo><mi>k</mi><mo>&#160;</mo><mtext>and</mtext><mo>&#160;</mo><mi>l</mi><mo>&#160;</mo><mtext>are&#160;distinct&#160;elements&#160;in</mtext><mo>&#160;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>.......</mn><mo>,</mo><mn>10</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mn>4</mn></msub><mo>=</mo><mn>10</mn><mo>&#215;</mo><mn>9</mn><mo>&#215;</mo><mn>8</mn><mo>&#215;</mo><mn>7</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow></mrow><mn>10</mn></msup><msub><mi>C</mi><mn>4</mn></msub><mo>&#215;</mo><mn>4</mn><mo>!</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5040</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>n</mi><mn>4</mn></msub><mn>12</mn></mfrac><mo>=</mo><mfrac><mn>5040</mn><mn>12</mn></mfrac><mo>=</mo><mn>420</mn></math></p>",
+    "solution_image": null,
+    "topic": "Selection of one or more item"
+  },
+  {
+    "question_id": "64b169cdf23ac7d519f9ae99",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If $r, s, t$ are prime numbers and $p, q$ are the positive integers such that LCM of $p, q$ is $r^2 s^4 t^2$, then the number of ordered pairs $(p, q)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WsWjE",
+        "text": "\n252\n",
+        "image": null
+      },
+      {
+        "id": "X18Qr",
+        "text": "\n254\n",
+        "image": null
+      },
+      {
+        "id": "aSFjZ",
+        "text": "\n225\n",
+        "image": null
+      },
+      {
+        "id": "Of3Iv",
+        "text": "\n224",
+        "image": null
+      }
+    ],
+    "correct_answer": "aSFjZ",
+    "solution_text": "Since, $r, s, t$ are prime numbers.\n$\\therefore$ Selection of $p$ and $q$ are as under\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PK48_ScZ9Uo3f0yPK15Dvens-4AMMDMQM64oOlmGudc.original.fullsize.png\"><br>\n$\\therefore$ Total number of ways to select $s=9$.\nSimilarly, the number of ways to select $t=5$.\n$\\therefore$ Total number of ways $=5 \\times 9 \\times 5=225$.",
+    "solution_image": null,
+    "topic": "Selection of one or more item"
+  }
+]

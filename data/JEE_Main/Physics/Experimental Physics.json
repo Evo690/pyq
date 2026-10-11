@@ -1,0 +1,2410 @@
+[
+  {
+    "question_id": "69d8075281239f6567c4f461",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (04 April Shift 1)",
+    "paper_year_short": "2026 (04 April Shift 1)",
+    "held_on": "2026-04-04T09:00:00.000Z",
+    "question_text": "In a screw gauge when the circular scale is given five complete rotations it moves linearly by $2.5$ mm. If the circular scale has $100$ divisions, the least count of screw gauge is _____ mm.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "H0Wrx",
+        "text": "$1 \\times 10^{-2}$",
+        "image": null
+      },
+      {
+        "id": "ertPj",
+        "text": "$1 \\times 10^{-3}$",
+        "image": null
+      },
+      {
+        "id": "XPLof",
+        "text": "$5 \\times 10^{-2}$",
+        "image": null
+      },
+      {
+        "id": "dZGVb",
+        "text": "$5 \\times 10^{-3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "dZGVb",
+    "solution_text": "Pitch of the screw gauge is the linear distance moved in one complete rotation.<br><br>$\\text{Pitch} = \\dfrac{2.5}{5} = 0.5 \\text{ mm}$<br><br>Least count of the screw gauge is given by the ratio of the pitch to the total number of divisions on the circular scale.<br><br>$\\text{Least count} = \\dfrac{\\text{Pitch}}{\\text{Number of divisions on circular scale}}$<br><br>$\\text{Least count} = \\dfrac{0.5}{100} = 0.005 \\text{ mm}$<br><br>$\\text{Least count} = 5 \\times 10^{-3} \\text{ mm}$<br><br>Answer: $5 \\times 10^{-3}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "69d8072c81239f6567c4f2a5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 2)",
+    "paper_year_short": "2026 (02 April Shift 2)",
+    "held_on": "2026-04-02T14:00:00.000Z",
+    "question_text": "In a screw gauge the zero of main scale reference line coincides with the fifth division of the circular scale when two studs are in contact. There are $100$ divisions in circular scale and pitch of screw gauge is $0.1$ mm. When diameter of a sphere is measured, the reading of main scale is $5$ mm and $50^{\\text{th}}$ division of circular scale coincides with the reference line of main scale. The diameter of sphere is _______ mm.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Qsef1",
+        "text": "$5.045$",
+        "image": null
+      },
+      {
+        "id": "MGPR3",
+        "text": "$5.055$",
+        "image": null
+      },
+      {
+        "id": "Lix4F",
+        "text": "$5.450$",
+        "image": null
+      },
+      {
+        "id": "yH4Eq",
+        "text": "$5.550$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Qsef1",
+    "solution_text": "Least count of the screw gauge is given by:<br><br>$\\text{LC} = \\dfrac{\\text{Pitch}}{\\text{Number of divisions on circular scale}}$<br><br>$\\text{LC} = \\dfrac{0.1}{100} = 0.001 \\text{ mm}$<br><br>When the two studs are in contact, the $5^{\\text{th}}$ division of the circular scale coincides with the reference line. This indicates a positive zero error.<br><br>$\\text{Zero error} = +5 \\times \\text{LC} = +5 \\times 0.001 = +0.005 \\text{ mm}$<br><br>For the measurement of the sphere's diameter:<br><br>$\\text{Main scale reading (MSR)} = 5 \\text{ mm}$<br><br>$\\text{Circular scale reading (CSR)} = 50$<br><br>$\\text{Measured diameter} = \\text{MSR} + \\text{CSR} \\times \\text{LC}$<br><br>$\\text{Measured diameter} = 5 + 50 \\times 0.001 = 5.050 \\text{ mm}$<br><br>The true diameter is obtained by subtracting the zero error from the measured value:<br><br>$\\text{True diameter} = \\text{Measured diameter} - \\text{Zero error}$<br><br>$\\text{True diameter} = 5.050 - 0.005 = 5.045 \\text{ mm}$<br><br>Answer: $5.045$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6983c1b18bfdbb24356397ee",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (28 January Shift 2)",
+    "paper_year_short": "2026 (28 January Shift 2)",
+    "held_on": "2026-01-28T14:00:00.000Z",
+    "question_text": "In an experiment, a set of reading are obtained as follows - $1.24 \\mathrm{~mm}, 1.25 \\mathrm{~mm}, 1.23 \\mathrm{~mm}$, 1.21 mm. The expected least count of the instrument used in recording these readings is $\\_\\_\\_\\_$ mm.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gt0w6",
+        "text": "0.001",
+        "image": null
+      },
+      {
+        "id": "BBzRm",
+        "text": "0.1",
+        "image": null
+      },
+      {
+        "id": "L1oke",
+        "text": "0.01",
+        "image": null
+      },
+      {
+        "id": "rLi1D",
+        "text": "0.05",
+        "image": null
+      }
+    ],
+    "correct_answer": "L1oke",
+    "solution_text": "Least count is the smallest division readable on an instrument scale.<br>Given readings are 1.24 mm, 1.25 mm, 1.23 mm, 1.21 mm, all expressed to two decimal places.<br>The precision of measurement shows differences as small as 0.01 mm (e.g., 1.25 - 1.24 = 0.01 mm).<br>This indicates all readings can be recorded to the nearest 0.01 mm, which represents the smallest measurable division.<br>Therefore, the least count of the instrument is 0.01 mm.",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6983c1ac8bfdbb24356397ad",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (28 January Shift 1)",
+    "paper_year_short": "2026 (28 January Shift 1)",
+    "held_on": "2026-01-28T09:00:00.000Z",
+    "question_text": "When both jaws of vernier callipers touch each other, zero mark of the vernier scale is right to zero mark of main scale, $4^{\\text {th }}$ mark on vernier scale coincides with certain mark on the main scale. While measuring the length of a cylinder, observer observes 15 divisions on main scale and $5^{\\text {th }}$ division of vernier scale coincides with a main scale division. Measured length of cylinder is $\\_\\_\\_\\_$ mm.\n(Least count of Vernier calliper $=0.1 \\mathrm{~mm}$)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "McSBN",
+        "text": "15.5",
+        "image": null
+      },
+      {
+        "id": "9882c",
+        "text": "15.9",
+        "image": null
+      },
+      {
+        "id": "hW5ps",
+        "text": "15.1",
+        "image": null
+      },
+      {
+        "id": "Xqrod",
+        "text": "15.4",
+        "image": null
+      }
+    ],
+    "correct_answer": "hW5ps",
+    "solution_text": "Given Least Count ($LC$) = $0.1$ mm.<br>When jaws touch, the zero of the vernier scale is to the right of the main scale zero, indicating a positive zero error.<br>Zero error ($e$) = $+ (n \\times LC)$, where $n$ is the coinciding vernier division.<br>$e = +(4 \\times 0.1) = +0.4$ mm.<br>While measuring the cylinder:<br>Main Scale Reading ($MSR$) = $15$ divisions. <br>Assuming $1$ MSD = $1$ mm (standard for $LC = 0.1$ mm), $MSR = 15$ mm.<br>Vernier Scale Reading ($VSR$) = $5 \\times LC = 5 \\times 0.1 = 0.5$ mm.<br>Observed Reading = $MSR + VSR = 15 + 0.5 = 15.5$ mm.<br>True Measured Length = Observed Reading $-$ Zero Error<br>True Length = $15.5 - 0.4 = 15.1$ mm.",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6983c1a68bfdbb2435639767",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 2)",
+    "paper_year_short": "2026 (24 January Shift 2)",
+    "held_on": "2026-01-24T14:00:00.000Z",
+    "question_text": "In a vernier callipers, 50 vernier scale divisions are equal to 48 main scale divisions. If one main scale division $=0.05 \\mathrm{~mm}$, then the least count of the vernier callipers is $\\_\\_\\_\\_$ mm.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TRGR0",
+        "text": "0.005",
+        "image": null
+      },
+      {
+        "id": "LioJt",
+        "text": "0.05",
+        "image": null
+      },
+      {
+        "id": "CzbFJ",
+        "text": "0.002",
+        "image": null
+      },
+      {
+        "id": "7skG6",
+        "text": "0.02",
+        "image": null
+      }
+    ],
+    "correct_answer": "CzbFJ",
+    "solution_text": "Given: 50 vernier divisions = 48 main divisions and 1 main division = 0.05 mm<br>50 vernier divisions = 48 × 0.05 = 2.4 mm<br>1 vernier division = 2.4/50 = 0.048 mm<br>Least count = 1 main division - 1 vernier division = 0.05 - 0.048 = 0.002 mm",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6983c1948bfdbb2435639686",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (23 January Shift 1)",
+    "paper_year_short": "2026 (23 January Shift 1)",
+    "held_on": "2026-01-23T09:00:00.000Z",
+    "question_text": "In a screw gauge, the zero of the circular scale lies 3 divisions above the horizontal pitch line when their metallic studs are brought in contact. Using this instrument thickness of a sheet is measured. If pitch scale reading is 1 mm and the circular scale reading is 51 then the correct thickness of the sheet is $\\_\\_\\_\\_$ mm. <br> [Assume least count is 0.01 mm ]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8606544711",
+        "text": "$1.50$",
+        "image": null
+      },
+      {
+        "id": "8606544708",
+        "text": "$1.48$",
+        "image": null
+      },
+      {
+        "id": "8606544709",
+        "text": "$1.54$",
+        "image": null
+      },
+      {
+        "id": "8606544710",
+        "text": "$1.51$",
+        "image": null
+      }
+    ],
+    "correct_answer": "8606544709",
+    "solution_text": "For a screw gauge, the measurement formula is: Reading = Pitch scale + (Circular scale × Least count) - Zero error<br>The zero of circular scale lies 3 divisions above the pitch line, indicating negative zero error:<br>Zero error = -3 × 0.01 = -0.03 mm<br>Reading = 1 + (51 × 0.01) - (-0.03) = 1 + 0.51 + 0.03 = 1.54 mm",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "68542c517c09d044e4c1a15c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (4 Apr Shift 2)",
+    "paper_year_short": "2025 (4 Apr Shift 2)",
+    "held_on": "2025-04-04T14:00:00.000Z",
+    "question_text": "For the determination of refractive index of glass slab, a travelling microscope is used whose main scale contains 300 equal divisions equals to 15 cm. The vernier scale attached to the microscope has 25 divisions equals to 24 divisions of main scale. The least count (LC) of the travelling microscope is (in cm) :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2V4vZ",
+        "text": "$0.001$",
+        "image": null
+      },
+      {
+        "id": "tSjVr",
+        "text": "$0.002$",
+        "image": null
+      },
+      {
+        "id": "BsFjk",
+        "text": "$0.0005$",
+        "image": null
+      },
+      {
+        "id": "EitCs",
+        "text": "$0.0025$",
+        "image": null
+      }
+    ],
+    "correct_answer": "tSjVr",
+    "solution_text": "$\\begin{aligned} & 300 \\mathrm{msd}=15 \\mathrm{~cm} \\\\ & 1 \\mathrm{msd}=\\frac{15}{300} \\mathrm{~cm}=0.05 \\mathrm{~cm} \\\\ & 25 \\mathrm{vsd}=24 \\mathrm{msd} \\\\ & 1 \\mathrm{vsd}=\\frac{24}{25} \\mathrm{msd} \\\\ & \\mathrm{LC}=1 \\mathrm{msd}-1 \\mathrm{vsd}\\end{aligned}$<br/>$\\begin{aligned}<br/>& \\mathrm{LC}=1 \\mathrm{msd}-\\frac{24}{25} \\mathrm{msd}=\\frac{1}{25} \\mathrm{msd} \\\\\n& \\mathrm{LC}=\\frac{1}{25} \\times 0.05=0.002 \\mathrm{~cm}<br/>\\end{aligned}$<br/>correct option (2)",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "67a2eebec8b73881fdaea281",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (28 Jan Shift 1)",
+    "paper_year_short": "2025 (28 Jan Shift 1)",
+    "held_on": "2025-01-28T09:00:00.000Z",
+    "question_text": "A tiny metallic rectangular sheet has length and breadth of 5 mm and 2.5 mm , respectively. Using a specially designed screw gauge which has pitch of 0.75 mm and 15 divisions in the circular scale, you are asked to find the area of the sheet. In this measurement, the maximum fractional error will be $\\frac{x}{100}$ where $x$ is _________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/rAna8MLZ-gX6N34QrstoaoaKsJgIUdnv9Qso9k19sDM.original.fullsize.png\"><br>\n\nSince least count of the instrument can be calculated as\n$\\begin{aligned}\n& \\text { Least count }=\\frac{\\text { pitch length }}{\\text { No. of division on circular scale }} \\\\\n& =\\frac{0.75}{15}=0.05 \\mathrm{~mm} .\n\\end{aligned}$\n\nHere we are provided $\\mathrm{L}=5 \\mathrm{~mm} \\& \\mathrm{~W}=2.5 \\mathrm{~mm}$ $\\mathrm{L}=5 \\mathrm{~mm} \\& \\mathrm{~W}=2.5 \\mathrm{~mm}$\n$\\because$ We know that\n$\\mathrm{A}=\\mathrm{L} . \\mathrm{W}$\nFor calculating fractional error, we can write\n$\\frac{\\mathrm{dA}}{\\mathrm{~A}}=\\frac{\\mathrm{dL}}{\\mathrm{~L}}+\\frac{\\mathrm{dW}}{\\mathrm{~W}}$\n\nHere $\\mathrm{dL}=\\mathrm{dW}=0.05 \\mathrm{~mm}$\n$\\begin{aligned}\n& \\frac{\\mathrm{dA}}{\\mathrm{~A}}=\\frac{0.05}{5}+\\frac{0.05}{2.5} \\\\\n& \\Rightarrow \\frac{\\mathrm{dA}}{\\mathrm{~A}}=\\frac{1}{100}+\\frac{2}{100}=\\frac{3}{100}\n\\end{aligned}$\n\nSo, $x=3$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "67a2eeacc8b73881fdaea1ec",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (24 Jan Shift 1)",
+    "paper_year_short": "2025 (24 Jan Shift 1)",
+    "held_on": "2025-01-24T09:00:00.000Z",
+    "question_text": "The least count of a screw guage is 0.01 mm . If the pitch is increased by $75 \\%$ and number of divisions on the circular scale is reduced by $50 \\%$, the new least count will be _____ $\\times 10^{-3} \\mathrm{~mm}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "35",
+    "solution_text": "$\\begin{aligned} & \\text { Given least count of Screw Gauge }=0.01 \\mathrm{~mm} \\\\ & \\text { L.C }=\\frac{(\\text { pitch })}{\\text { No. of circular turn }}=\\frac{\\mathrm{P}}{\\mathrm{N}}=0.01 \\mathrm{~mm} \\\\ & \\text { New pitch }=\\frac{\\mathrm{P}(1+0.75)}{\\mathrm{N}(1-0.5)}=\\frac{\\mathrm{P}}{\\mathrm{N}}\\left[\\frac{1.75}{0.5}\\right] \\\\ & =(0.01) 3.5 \\\\ & =0.035 \\mathrm{~mm} \\\\ & =35 \\times 10^{-3} \\mathrm{~mm}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "67a2ee88c8b73881fdaea0b6",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (22 Jan Shift 1)",
+    "paper_year_short": "2025 (22 Jan Shift 1)",
+    "held_on": "2025-01-22T09:00:00.000Z",
+    "question_text": "Given below are two statements :\nStatement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division.\nStatement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions.\nIn the light of the above statements, choose the correct answer from the options given below.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VvLxP",
+        "text": "Statement I is true but Statement II is false",
+        "image": null
+      },
+      {
+        "id": "Viqc9",
+        "text": "Statement I is false but Statement II is true",
+        "image": null
+      },
+      {
+        "id": "g51Xn",
+        "text": "Both Statement I and Statement II are false",
+        "image": null
+      },
+      {
+        "id": "yQjlF",
+        "text": "Both Statement I and Statement II are true",
+        "image": null
+      }
+    ],
+    "correct_answer": "g51Xn",
+    "solution_text": "In general one vernier scale division is smaller than one main scale division but in some modified cases it may be not correct. Also least count is given by one main scale division / number of vernier scale division for normal vernier calliper.",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "66446750970e6e9ab542d22d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (09 Apr Shift 1)",
+    "paper_year_short": "2024 (09 Apr Shift 1)",
+    "held_on": "2024-04-09T09:00:00.000Z",
+    "question_text": "One main scale division of a vernier caliper is equal to $m$ units. If $\\mathrm{n}^{\\text {th }}$ division of main scale coincides with $(n+1)^{\\text {th }}$ division of vernier scale, the least count of the vernier caliper is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hvTl4",
+        "text": "$\\frac{n}{(n+1)}$",
+        "image": null
+      },
+      {
+        "id": "KMBBG",
+        "text": "$\\frac{1}{(n+1)}$",
+        "image": null
+      },
+      {
+        "id": "9hMm6",
+        "text": "$\\frac{m}{(n+1)}$",
+        "image": null
+      },
+      {
+        "id": "en0xG",
+        "text": "$\\frac{m}{n(n+1)}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "9hMm6",
+    "solution_text": "$\\begin{aligned} & \\mathrm{n} M S D=(\\mathrm{n}+1) \\mathrm{VSD} \\\\ & \\Rightarrow 1 \\mathrm{VSD}=\\frac{\\mathrm{n}}{\\mathrm{n}+1} \\mathrm{MSD} \\\\ & \\mathrm{L} \\cdot \\mathrm{C}=1 \\mathrm{MSD}-1 \\mathrm{VSD} \\\\ & \\mathrm{L} \\cdot \\mathrm{C}=\\mathrm{m}-\\mathrm{m}\\left(\\frac{\\mathrm{n}}{\\mathrm{n}+1}\\right) \\\\ & \\mathrm{L} \\cdot \\mathrm{C}=\\mathrm{m}\\left(\\frac{\\mathrm{n}+1-\\mathrm{n}}{\\mathrm{n}+1}\\right) \\\\ & \\Rightarrow \\mathrm{L} \\cdot \\mathrm{C}=\\left(\\frac{\\mathrm{m}}{\\mathrm{n}+1}\\right)\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "66446745970e6e9ab542d1ca",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 2)",
+    "paper_year_short": "2024 (08 Apr Shift 2)",
+    "held_on": "2024-04-08T14:00:00.000Z",
+    "question_text": "There are 100 divisions on the circular scale of a screw gauge of pitch $1 \\mathrm{~mm}$. With no measuring quantity in between the jaws, the zero of the circular scale lies 5 divisions below the reference line. The diameter of a wire is then measured using this screw gauge. It is found that 4 linear scale divisions are clearly visible while 60 divisions on circular scale coincide with the reference line. The diameter of the wire is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sgeoP",
+        "text": "$3.35 \\mathrm{~mm}$",
+        "image": null
+      },
+      {
+        "id": "ytmMd",
+        "text": "$4.65 \\mathrm{~mm}$",
+        "image": null
+      },
+      {
+        "id": "hDqPX",
+        "text": "$4.55 \\mathrm{~mm}$",
+        "image": null
+      },
+      {
+        "id": "8Zqtw",
+        "text": "$4.60 \\mathrm{~mm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hDqPX",
+    "solution_text": "$\\begin{aligned} & \\text { Least count }=\\frac{1}{100} \\mathrm{~mm}=0.01 \\mathrm{~mm} \\\\ & \\text { zero error }=+0.05 \\mathrm{~mm} \\\\ & \\text { Reading }=4 \\times 1 \\mathrm{~mm}+60 \\times 0.01 \\mathrm{~mm}-0.05 \\mathrm{~mm} \\\\ & =4.55 \\mathrm{~mm}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "66446745970e6e9ab542d1c9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 2)",
+    "paper_year_short": "2024 (08 Apr Shift 2)",
+    "held_on": "2024-04-08T14:00:00.000Z",
+    "question_text": "Least count of a vernier caliper is $\\frac{1}{20 \\mathrm{~N}} \\mathrm{~cm}$. The value of one division on the main scale is $1 \\mathrm{~mm}$. Then the number of divisions of main scale that coincide with $\\mathrm{N}$ divisions of vernier scale is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gKsq1",
+        "text": "$(2 \\mathrm{~N}-1)$",
+        "image": null
+      },
+      {
+        "id": "IPyIt",
+        "text": "$\\left(\\frac{2 \\mathrm{~N}-1}{2 \\mathrm{~N}}\\right)$",
+        "image": null
+      },
+      {
+        "id": "962VH",
+        "text": "$\\left(\\frac{2 \\mathrm{~N}-1}{2}\\right)$",
+        "image": null
+      },
+      {
+        "id": "qpdtn",
+        "text": "$\\left(\\frac{2 \\mathrm{~N}-1}{20 \\mathrm{~N}}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "962VH",
+    "solution_text": "Least count of vernier calipers $=\\frac{1}{20 \\mathrm{~N}} \\mathrm{~cm}$\n$\\because$ Least count $=1 \\mathrm{MSD}-1 \\mathrm{VSD}$\nlet $\\mathrm{x}$ no. of divisions of main scale coincides with $\\mathrm{N}$ division of vernier scale, then\n$\\begin{aligned} & 1 \\mathrm{VSD}=\\frac{\\mathrm{x} \\times 1 \\mathrm{~mm}}{\\mathrm{~N}} \\\\ & \\therefore \\frac{1}{20 \\mathrm{~N}} \\mathrm{~cm}=1 \\mathrm{~mm}-\\frac{\\mathrm{x} \\times 1 \\mathrm{~mm}}{\\mathrm{~N}} \\\\ & \\frac{1}{2 \\mathrm{~N}} \\mathrm{~mm}=1 \\mathrm{~mm}-\\frac{\\mathrm{x}}{\\mathrm{N}} \\mathrm{mm} \\\\ & \\mathrm{x}=\\left(1-\\frac{1}{2 \\mathrm{~N}}\\right) \\mathrm{N} \\\\ & \\mathrm{x}=\\frac{2 \\mathrm{~N}-1}{2}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6644673c970e6e9ab542d171",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 1)",
+    "paper_year_short": "2024 (08 Apr Shift 1)",
+    "held_on": "2024-04-08T09:00:00.000Z",
+    "question_text": "The diameter of a sphere is measured using a vernier caliper whose 9 divisions of main scale are equal to 10 divisions of vernier scale. The shortest division on the main scale is equal to $1 \\mathrm{~mm}$. The main scale reading is $2 \\mathrm{~cm}$ and second division of vernier scale coincides with a division on main scale. If mass of the sphere is 8.635 g, the density of the sphere is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mUbD1",
+        "text": "$2.0 \\mathrm{~g} / \\mathrm{cm}^3$",
+        "image": null
+      },
+      {
+        "id": "FPPa9",
+        "text": "$1.7 \\mathrm{~g} / \\mathrm{cm}^3$",
+        "image": null
+      },
+      {
+        "id": "JEDTr",
+        "text": "$2.2 \\mathrm{~g} / \\mathrm{cm}^3$",
+        "image": null
+      },
+      {
+        "id": "KvuvF",
+        "text": "$2.5 \\mathrm{~g} / \\mathrm{cm}^3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mUbD1",
+    "solution_text": "Given $9 \\mathrm{MSD}=10 \\mathrm{VSD}$\n$\\operatorname{mass}=8.635 \\mathrm{~g}$\n$\\begin{aligned} & \\mathrm{LC}=1 \\mathrm{MSD}-1 \\mathrm{VSD} \\\\ & \\mathrm{LC}=1 \\mathrm{MSD}-\\frac{9}{10} \\mathrm{MSD} \\\\ & \\mathrm{LC}=\\frac{1}{10} \\mathrm{MSD} \\\\ & \\mathrm{LC}=0.01 \\mathrm{~cm}\\end{aligned}$\nReading of diameter $=\\mathrm{MSR}+\\mathrm{LC} \\times \\mathrm{VSR}$\n$\\begin{aligned} & =2 \\mathrm{~cm}+(0.01) \\times(2) \\\\ & =2.02 \\mathrm{~cm}\\end{aligned}$\nVolume of sphere $=\\frac{4}{3} \\pi\\left(\\frac{d}{2}\\right)^3=\\frac{4}{3} \\pi\\left(\\frac{2.02}{2}\\right)^3$\n$=4.32 \\mathrm{~cm}^3$\nDensity $=\\frac{\\text { mass }}{\\text { volume }}=\\frac{8.635}{4.32}=1.998 \\sim 2.00 \\mathrm{~g}$<br />",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "66446732970e6e9ab542d114",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (06 Apr Shift 2)",
+    "paper_year_short": "2024 (06 Apr Shift 2)",
+    "held_on": "2024-04-06T14:00:00.000Z",
+    "question_text": "In a vernier calliper, when both jaws touch each other, zero of the vernier scale shifts towards left and its $4^{\\text {th }}$ division coincides exactly with a certain division on main scale. If 50 vernier scale divisions equal to 49 main scale divisions and zero error in the instrument is $0.04 \\mathrm{~mm}$ then how many main scale divisions are there in $1 \\mathrm{~cm}$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0azMT",
+        "text": "10",
+        "image": null
+      },
+      {
+        "id": "VReRx",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "8idzR",
+        "text": "20",
+        "image": null
+      },
+      {
+        "id": "ux5Rd",
+        "text": "40",
+        "image": null
+      }
+    ],
+    "correct_answer": "8idzR",
+    "solution_text": "$\\begin{aligned}\r\n& 50 \\mathrm{VSD}=49 \\mathrm{MSD} \\\\\r\n& 1 \\mathrm{VSD}=\\frac{49}{50} \\mathrm{MSD} \\\\\r\n& \\mathrm{LC}=1 \\mathrm{MSD}-1 \\mathrm{VSD} \\\\\r\n& \\mathrm{LC}=1 \\mathrm{MSD} \\cdot \\frac{49}{50} \\mathrm{MSD}=\\frac{\\mathrm{MSD}}{50} \\ldots . . . . . .(1) \\\\\r\n& \\text {Now, } | \\text { zero error }|=| 0-4(\\mathrm{~L} . \\mathrm{C}) | \\\\\r\n& 0.04=|-4(\\mathrm{~L} . \\mathrm{C})| \\Rightarrow \\mathrm{L} . \\mathrm{C}=0.01 \\mathrm{~mm} \\\\\r\n& \\mathrm{0 . 0 4}=|-\\mathrm{4}(\\mathrm{L} . \\mathrm{C})| \\Rightarrow \\mathrm{L} . \\mathrm{C} \\ldots . . .(2) \\\\\r\n& =\\mathrm{0 . 0 1} \\mathrm{mm}\r\n\\end{aligned}$\r\nUsing (1) and (2)\r\n$\\begin{aligned}\r\n& \\frac{M S D}{50}=0.01 \\\\\r\n& M S D=0.5 \\mathrm{~mm} \\\\\r\n& M S D=\\frac{1 \\mathrm{~cm}}{\\mathrm{~N}} \\\\\r\n& \\mathrm{~N}=\\frac{1 \\mathrm{~cm}}{0.5 \\mathrm{~mm}}=\\frac{100 \\mathrm{~mm}}{5 \\mathrm{~mm}} \\\\\r\n& \\mathrm{~N}=20\r\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "66446728970e6e9ab542d0bb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (06 Apr Shift 1)",
+    "paper_year_short": "2024 (06 Apr Shift 1)",
+    "held_on": "2024-04-06T09:00:00.000Z",
+    "question_text": "While measuring diameter of wire using screw gauge the following readings were noted. Main scale reading is $1 \\mathrm{~mm}$ and circular scale reading is equal to 42 divisions. Pitch of screw gauge is $1 \\mathrm{~mm}$ and it has 100 divisions on circular scale. The diameter of the wire is $\\frac{x}{50} \\mathrm{~mm}$. The value of $x$ is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fmRmd",
+        "text": "21",
+        "image": null
+      },
+      {
+        "id": "Qgmhm",
+        "text": "142",
+        "image": null
+      },
+      {
+        "id": "WH5nc",
+        "text": "71",
+        "image": null
+      },
+      {
+        "id": "1byLr",
+        "text": "42",
+        "image": null
+      }
+    ],
+    "correct_answer": "WH5nc",
+    "solution_text": "$\\begin{aligned} & \\mathrm{MSR}=1 \\mathrm{~mm}, \\mathrm{CSR}=42, \\text { pitch }=1 \\mathrm{~mm} \\\\ & \\mathrm{LC}=\\frac{\\text { pitch }}{\\text { No. of CSD }}=\\left(\\frac{1}{100}\\right)=0.01 \\mathrm{~mm} \\\\ & \\text { Diameter }=\\mathrm{MSR}+\\mathrm{LC} \\times \\mathrm{CSD} \\\\ & \\text { Diameter }=1+(0.01) \\times 42 \\mathrm{~mm} \\\\ & \\text { Diameter }=1.42 \\mathrm{~mm}=\\frac{\\mathrm{x}}{50} \\\\ & \\therefore \\mathrm{x}=71\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6644671f970e6e9ab542d064",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (05 Apr Shift 2)",
+    "paper_year_short": "2024 (05 Apr Shift 2)",
+    "held_on": "2024-04-05T14:00:00.000Z",
+    "question_text": "A vernier callipers has 20 divisions on the vernier scale, which coincides with $19^{\\text {th }}$ division on the main scale. The least count of the instrument is $0.1 \\mathrm{~mm}$. One main scale division is equal to _____$\\mathrm{mm}$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zp898",
+        "text": "$0.5$",
+        "image": null
+      },
+      {
+        "id": "ULiPK",
+        "text": "$2$",
+        "image": null
+      },
+      {
+        "id": "fcPul",
+        "text": "$5$",
+        "image": null
+      },
+      {
+        "id": "BkNWE",
+        "text": "$1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ULiPK",
+    "solution_text": "$\\begin{aligned} & 20 \\mathrm{VSD}=19 \\mathrm{MSD} \\\\ & 1 \\mathrm{VSD}=\\frac{19}{20} \\mathrm{MSD} \\\\ & \\text { L.C. }=1 \\mathrm{MSD}-1 \\mathrm{VSD} \\\\ & 0.1 \\mathrm{~mm}=1 \\mathrm{MSD}-\\frac{19}{20} \\mathrm{MSD} \\\\ & 0.1=\\frac{1}{20} \\mathrm{MSD} \\\\ & 1 \\mathrm{MSD}=2 \\mathrm{~mm}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6682bd90ba0e94a3c4025d6b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (01 Feb Shift 1)",
+    "paper_year_short": "2024 (01 Feb Shift 1)",
+    "held_on": "2024-02-01T09:00:00.000Z",
+    "question_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> divisions on the main scale of a Vernier calliper coincide with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn></math> divisions on the Vernier scale. If each division on the main scale is of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> units, the least count of the instrument is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XhBI5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "9TlzG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>10</mn><mn>11</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "QqFHd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>50</mn><mn>11</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "YLNVT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>11</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "YLNVT",
+    "solution_text": "<p>Given:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo> </mo><mi>M</mi><mi>S</mi><mi>D</mi><mo>=</mo><mn>11</mn><mo> </mo><mi>V</mi><mi>S</mi><mi>D</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>1</mn><mo> </mo><mi>V</mi><mi>S</mi><mi>D</mi><mo>=</mo><mfrac><mn>10</mn><mn>11</mn></mfrac><mo> </mo><mi>M</mi><mi>S</mi><mi>D</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>C</mi><mo>=</mo><mn>1</mn><mi>M</mi><mi>S</mi><mi>D</mi><mo>-</mo><mn>1</mn><mi>V</mi><mi>S</mi><mi>D</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo> </mo><mi>M</mi><mi>S</mi><mi>D</mi><mo>-</mo><mfrac><mn>10</mn><mn>11</mn></mfrac><mo> </mo><mi>M</mi><mi>S</mi><mi>D</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1</mn><mo> </mo><mi>M</mi><mi>S</mi><mi>D</mi></mrow><mn>11</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>5</mn><mn>11</mn></mfrac></math> units</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6682bd90ba0e94a3c4025d6a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (31 Jan Shift 2)",
+    "paper_year_short": "2024 (31 Jan Shift 2)",
+    "held_on": "2024-01-31T14:00:00.000Z",
+    "question_text": "The measured value of the length of a simple pendulum is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo> </mo><mi>cm</mi></math> with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo> </mo><mi>mm</mi></math> accuracy. The time for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> oscillations was measured to be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn></math> seconds with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> second resolution. From these measurements, the accuracy in the measurement of acceleration due to gravity is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>%</mo></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ul0Gd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "y4QWI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "hxhjz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "VtHVt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "hxhjz",
+    "solution_text": "<p>Time period of a simple pendulum is given by, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><mfenced><mfrac><mi mathvariant=\"script\">l</mi><mi>g</mi></mfrac></mfenced></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>g</mi><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mi>π</mi><mn>2</mn></msup><mi mathvariant=\"script\">l</mi></mrow><msup><mi>T</mi><mn>2</mn></msup></mfrac></math></p><p>Therefore, fractional error will be</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Δ</mi><mi>g</mi></mrow><mi>g</mi></mfrac><mo>=</mo><mfrac><mrow><mi>Δ</mi><mi mathvariant=\"script\">l</mi></mrow><mi mathvariant=\"script\">l</mi></mfrac><mo>+</mo><mfrac><mrow><mn>2</mn><mi>Δ</mi><mi>T</mi></mrow><mi>T</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow><mn>20</mn></mfrac><mo>+</mo><mn>2</mn><mfenced><mfrac><mn>1</mn><mn>40</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>2</mn></mrow><mn>20</mn></mfrac></math></p><p>Percentage change <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>2</mn></mrow><mn>20</mn></mfrac><mo>×</mo><mn>100</mn><mo>=</mo><mn>6</mn><mo>%</mo></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6682bd8fba0e94a3c4025d69",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (30 Jan Shift 2)",
+    "paper_year_short": "2024 (30 Jan Shift 2)",
+    "held_on": "2024-01-30T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> Vernier divisions are equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>49</mn></math> main scale divisions of a travelling microscope and one smallest reading of main scale is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mo> </mo><mi>mm</mi></math> the Vernier constant of travelling microscope is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gVBgm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo> </mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "zTwyH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo> </mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ekgKC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn><mo> </mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "WRDB8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn><mo> </mo><mi>mm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "WRDB8",
+    "solution_text": "<blockquote><p>The number of divisions on the vernier scale <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>50</mn></math></p><p>Main scale division <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>MSD</mi><mo>)</mo><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo> </mo><mi>mm</mi></math></p><p>As, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> divisions on the vernier scale coincide with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>49</mn></math> divisions on the main scale,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>VSD</mi><mo>=</mo><mfrac><mn>49</mn><mn>50</mn></mfrac><mi>MSD</mi></math></p><p>The minimum inaccuracy in the measurement of distance by a vernier scale,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> Least count of the vernier scale</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo> </mo><mi>MSD</mi><mo>–</mo><mn>1</mn><mo> </mo><mi>VSD</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo> </mo><mi>MSD</mi><mo>-</mo><mfrac><mrow><mn>4</mn><mn>9</mn></mrow><mrow><mn>5</mn><mn>0</mn></mrow></mfrac><mi>MSD</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mrow><mn>5</mn><mn>0</mn></mrow></mfrac><mi>MSD</mi><mo>=</mo><mfrac><mn>1</mn><mn>50</mn></mfrac><mo>×</mo><mn>0</mn><mi mathvariant=\"normal\">.</mi><mn>5</mn><mo> </mo><mi>mm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo> </mo><mi>mm</mi></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6682bd8fba0e94a3c4025d68",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (27 Jan Shift 2)",
+    "paper_year_short": "2024 (27 Jan Shift 2)",
+    "held_on": "2024-01-27T14:00:00.000Z",
+    "question_text": "Given below are two statements: one is labelled as Assertion(A) and the other is labelled as Reason (R).<br/><strong>Assertion (A)</strong> : In Vernier calliper if positive zero error exists, then while taking measurements, the reading taken will be more than the actual reading.<br/><strong>Reason (R)</strong> : The zero error in Vernier Calliper might have happened due to manufacturing defect or due to rough handling.<br/>In the light of the above statements, choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JNGLg",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "image": null
+      },
+      {
+        "id": "oi7AE",
+        "text": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+        "image": null
+      },
+      {
+        "id": "5qHlJ",
+        "text": "(A) is true but (R) is false",
+        "image": null
+      },
+      {
+        "id": "qNqFd",
+        "text": "(A) is false but (R) is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "oi7AE",
+    "solution_text": "<p>If a positive zero error exists in a vernier callipers, it means that the instrument shows a reading greater than zero even when the jaws are closed and there is no object being measured. In such a case, when actual measurements are taken, the readings will be more than the actual values.</p><p>The zero error in Vernier callipers can indeed occur due to manufacturing defects or rough handling. Manufacturing defects may lead to misalignments or inaccuracies in the instrument, while rough handling can result in damage that affects the calibration of the callipers.</p><p>Hence, both (A) and (R) are correct, but (R) is not the correct explanation of (A)</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "6682bd8fba0e94a3c4025d67",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (27 Jan Shift 1)",
+    "paper_year_short": "2024 (27 Jan Shift 1)",
+    "held_on": "2024-01-27T09:00:00.000Z",
+    "question_text": "Identify the physical quantity that cannot be measured using spherometer :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EZwxH",
+        "text": "Radius of curvature of concave surface",
+        "image": null
+      },
+      {
+        "id": "kK9wr",
+        "text": "Specific rotation of liquids",
+        "image": null
+      },
+      {
+        "id": "Tvyx4",
+        "text": "Thickness of thin plates",
+        "image": null
+      },
+      {
+        "id": "iqmFh",
+        "text": "Radius of curvature of convex surface",
+        "image": null
+      }
+    ],
+    "correct_answer": "kK9wr",
+    "solution_text": "<p>A spherometer is a device used for measuring the curvature of surfaces, particularly the radius of curvature of spherical or cylindrical surfaces. It consists of a central leg with a fine screw, and three outer legs that form a tripod. The device is primarily designed for measuring dimensions related to curved surfaces.</p><p>Specific rotation is a property related to the rotation of plane-polarized light in a substance. It is not measured using a spherometer. Instead, a polarimeter is typically used to measure specific rotation.</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d684fb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (10 Apr Shift 2)",
+    "paper_year_short": "2023 (10 Apr Shift 2)",
+    "held_on": "2023-04-10T14:00:00.000Z",
+    "question_text": "In an experiment with vernier callipers of least count <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math>, when two jaws are joined together the zero of vernier scale lies right to the zero of the main scale and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>6</mn><mi>th</mi></msup></math> division of vernier scale coincides with the main scale division. While measuring the diameter of a spherical bob, the zero of vernier scale lies in between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>3</mn><mo>&#160;</mo><mi>cm</mi></math> marks and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>4</mn><mi>th</mi></msup></math> division of vernier scale coincides with the main scale division. The diameter of bob is measured as",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5PPgt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>22</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "jTv5i",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>18</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "WiCCC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>26</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "LF8UK",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>25</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jTv5i",
+    "solution_text": "<blockquote><p>The least count is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>C</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Zero error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>Z</mi><mi>E</mi><mo>)</mo><mo>=</mo><mn>6</mn><mo>&#215;</mo><mi>L</mi><mi>C</mi><mo>=</mo><mn>6</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>The total reading is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mi>R</mi><mo>=</mo><mi>M</mi><mi>S</mi><mi>R</mi><mo>+</mo><mfenced><mrow><mi>V</mi><mi>S</mi><mi>R</mi><mo>&#215;</mo><mi>L</mi><mi>C</mi></mrow></mfenced><mo>-</mo><mi>Z</mi><mi>E</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>T</mi><mi>R</mi><mo>=</mo><mn>32</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mo>(</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><mn>4</mn><mo>)</mo><mo>&#160;</mo><mi>mm</mi><mo>-</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>mm</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>T</mi><mi>R</mi><mo>=</mo><mn>31</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>3</mn><mo>.</mo><mn>18</mn><mo>&#160;</mo><mi>cm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d681d7",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (30 Jan Shift 1)",
+    "paper_year_short": "2023 (30 Jan Shift 1)",
+    "held_on": "2023-01-30T09:00:00.000Z",
+    "question_text": "In a screw gauge, there are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn></math> divisions on the circular scale and the main scale moves by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> on a complete rotation of the circular scale. The zero of circular scale lies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math> divisions below the line of graduation when two studs are brought in contact with each other. When a wire is placed between the studs, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> linear scale divisions are clearly visible while 46<sup>th</sup> division the circular scale coincide with the reference line. The diameter of the wire is ______&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi><mo>.</mo></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "220",
+    "solution_text": "<p>Least count of screw gauge is<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>Pitch</mi><mrow><mi>No</mi><mo>.</mo><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><mi>circular</mi><mo>&#160;</mo><mi>divisions</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></mrow><mn>100</mn></mfrac></math></p><p>Least count,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>C</mi><mo>=</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi></math></p><p>The zero of circular scale lies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>&nbsp;divisions below the line of graduation. So, zero error is positive.</p><p>Positive zero error&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>M</mi><mi>S</mi><mi>R</mi><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>(</mo><mi>L</mi><mi>C</mi><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>6</mn><mfenced><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi></mrow></mfenced></math></p><p>Diameter of wire,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mi>M</mi><mi>S</mi><mi>R</mi><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>&#160;</mo><mo>(</mo><mi>L</mi><mi>C</mi><mo>)</mo><mo>&#8211;</mo><mi>Positive</mi><mo>&#160;</mo><mi>zero</mi><mo>&#160;</mo><mi>error</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>46</mn><mfenced><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>-</mo><mn>6</mn><mfenced><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>&#160;</mo><mi>mm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>40</mn><mo>&#215;</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Hence, diameter of wire is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>220</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi></math>.</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d6817f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (29 Jan Shift 2)",
+    "paper_year_short": "2023 (29 Jan Shift 2)",
+    "held_on": "2023-01-29T14:00:00.000Z",
+    "question_text": "When two resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub></math> connected in series and introduced into the left gap of a meter bridge and a resistance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math> is introduced into the right gap, a null point is found at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn><mo>&#160;</mo><mi>cm</mi></math> from left side. When <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub></math> are connected in parallel and introduced into the left gap, a resistance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math> is introduced into the right-gap to get null point at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>&#160;</mo><mi>cm</mi></math> from left end. The product of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>&#160;</mo><msub><mi>R</mi><mn>2</mn></msub></math> is ______&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">&#937;</mi><mn>2</mn></msup></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "30",
+    "solution_text": "<p>A meter bridge consists of a wire of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math> and of uniform cross-sectional area stretched taut and clamped between two thick metallic strips bent at right angles with two gaps across which resistors are to be connected. It works on the principle of the Wheatstone bridge. Therefore, we can write</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></mrow><mn>10</mn></mfrac><mo>=</mo><mfrac><mn>60</mn><mn>40</mn></mfrac><mspace linebreak=\"newline\"/><mo>&#8658;</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>15</mn><mo>&#160;</mo><mi>&#937;</mi></math></p><p>Then for the second case, we can write&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub></mrow><mrow><mfenced><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></mrow></mfenced><mo>&#215;</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mn>40</mn><mn>60</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>30</mn><mo>&#160;</mo><msup><mi>&#937;</mi><mn>2</mn></msup></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d6811f",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (29 Jan Shift 1)",
+    "paper_year_short": "2023 (29 Jan Shift 1)",
+    "held_on": "2023-01-29T09:00:00.000Z",
+    "question_text": "In a metre bridge experiment the balance point is obtained if the gaps are closed by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math>. A shunt of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math> is added to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math> resistor to shift the balancing point by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>22</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>cm</mi></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math> is ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/8f974d0e-47ac-4517-bf29-f04a0ec70601-9894943.png\" style=\"width: 300px; height: 236px;\" /></p><p>Case&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>: No shunt is added</p><p>The initial balancing length&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math>&nbsp;of the bridge is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>=</mo><mfrac><mi>l</mi><mrow><mn>100</mn><mo>-</mo><mi>l</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>200</mn><mo>-</mo><mn>2</mn><mi>l</mi><mo>=</mo><mn>3</mn><mi>l</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>l</mi><mo>=</mo><mn>40</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/8d24fb54-2353-4c7f-b4af-645d94bc9553-100487e4-2884-4aa2-9745-521f16f132a6-9894943_2.png\" style=\"width: 300px; height: 257px;\" /></p><p>Case&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>: When shunt is added</p><p>The new balancing length is,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>1</mn></msub><mo>=</mo><mn>22</mn><mo>.</mo><mn>5</mn><mo>+</mo><mn>40</mn><mo>=</mo><mn>62</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>62</mn><mo>.</mo><mn>5</mn></mrow><mrow><mn>37</mn><mo>.</mo><mn>5</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mfenced><mstyle displaystyle=\"true\"><mfrac><mrow><mn>3</mn><mi>X</mi></mrow><mrow><mn>3</mn><mo>+</mo><mi>X</mi></mrow></mfrac></mstyle></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>X</mi><mo>=</mo><mn>2</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67d9a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jul Shift 1)",
+    "paper_year_short": "2022 (29 Jul Shift 1)",
+    "held_on": "2022-07-29T09:00:00.000Z",
+    "question_text": "<p>In an experiment to find out the diameter of wire using screw gauge, the following observation were noted:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/b6216abc-455f-4ec6-b729-6107832bf814-image.png\" style=\"width: 220px; height: 146px;\" /></p><p>(a) Screw moves <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mo>&nbsp;</mo><mi>mm</mi></math> on main scale in one complete rotation<br />(b) Total divisions on circular scale <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>50</mn></math><br />(c) Main scale reading is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>5</mn><mo>&nbsp;</mo><mi>mm</mi></math><br />(d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>45</mn><mrow><mi>th</mi></mrow></msup></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>&nbsp;</mo></mrow></msup></math> division of circular scale is in the pitch line<br />(e) Instrument has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>03</mn><mo>&nbsp;</mo><mi>mm</mi></math> negative error Then the diameter of wire is :</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "34656",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>92</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "jho6t",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>54</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "PI1Vx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>98</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "iiL0o",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>45</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "PI1Vx",
+    "solution_text": "<blockquote><p>From the data given in the question,</p><p>Pitch of the screw gauge<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math>.</p><p>Total divisions on the circular scale<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>50</mn></math>.</p><p>Therefore, the least count of the screw gauge is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>LC</mi><mo>=</mo><mfrac><mtext>pitch</mtext><mi mathvariant=\"normal\">n</mi></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>5</mn></mrow><mn>50</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MSR</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>CSR</mi><mo>=</mo><mn>45</mn></math></p><p>Diameter reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MSR</mi><mo>+</mo><mi>LC</mi><mo>&#215;</mo><mi>CSR</mi><mo>-</mo></math> zero error</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>d</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>5</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>45</mn><mo>-</mo><mfenced><mrow><mo>-</mo><mn>0</mn><mo>.</mo><mn>03</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>d</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>98</mn><mo>&#160;</mo><mi>mm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67d99",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jul Shift 1)",
+    "paper_year_short": "2022 (29 Jul Shift 1)",
+    "held_on": "2022-07-29T09:00:00.000Z",
+    "question_text": "A travelling microscope has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math> divisions per <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cm</mi></math> on the main scale while its Vernier scale has total <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> divisions and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn></math> Vernier scale divisions are equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn></math> main scale divisions, what is the least count of the travelling microscope ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vDuR0",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>001</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ZfUOJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>002</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "JQvKw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>002</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "pQUcI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>005</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "JQvKw",
+    "solution_text": "<blockquote><p>One main scale division&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MSD</mi><mo>=</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>&#160;</mo><mi>cm</mi></math></p><p>One vernier scale division&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>VSD</mi><mo>=</mo><mfrac><mn>24</mn><mn>25</mn></mfrac><mi>MSD</mi><mo>=</mo><mfrac><mn>24</mn><mn>25</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> Least count <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>LC</mi><mo>=</mo><mi>MSD</mi><mo>-</mo><mi>VSD</mi><mo>=</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mn>24</mn><mn>25</mn></mfrac></mrow></mfenced><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>25</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>500</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>002</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>002</mn><mo>&#160;</mo><mi>cm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67acc",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (27 Jul Shift 1)",
+    "paper_year_short": "2022 (27 Jul Shift 1)",
+    "held_on": "2022-07-27T09:00:00.000Z",
+    "question_text": "The one division of main scale of vernier callipers reads <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> divisions of Vernier scale is equal to the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math> divisions on main scale. When the two jaws of the instrument touch each other the zero of the Vernier lies to the right of zero of the main scale and its fourth division coincides with a main scale division. When a spherical bob is tightly placed between the two jaws, the zero of the Vernier scale lies in between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>6</mn><mrow><mi>th</mi><mo>&#160;</mo></mrow></msup></math> Vernier division coincides with a main scale division. The diameter of the bob will be _____&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "412",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>MSD</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi>VSD</mi><mo>=</mo><mn>9</mn><mo>&#160;</mo><mi>MSD</mi></math></p><p>Then,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>VSD</mi><mo>=</mo><mfrac><mn>9</mn><mn>10</mn></mfrac><mi>MSD</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>9</mn><mo>&#160;</mo><mi>MSD</mi></math></p><p>Least count of Vernier calliper is L.C. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Positive zero error<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi>mm</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>04</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Observed reading of diameter of spherical bob<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>cm</mi><mo>+</mo><mn>6</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>=</mo><mn>4</mn><mo>.</mo><mn>16</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Real reading of diameter of bob<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>.</mo><mn>16</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>04</mn><mo>=</mo><mn>4</mn><mo>.</mo><mn>12</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>412</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d679aa",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jul Shift 2)",
+    "paper_year_short": "2022 (26 Jul Shift 2)",
+    "held_on": "2022-07-26T14:00:00.000Z",
+    "question_text": "In a Vernier Caliper <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math>&nbsp;divisions of Vernier scale is equal to the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>&nbsp;divisions of main scale. When both jaws of Vernier calipers touch each other, the zero of the Vernier scale is shifted to the left of zero of the main scale and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>4</mn><mi>th</mi></msup></math> Vernier scale division exactly coincides with the main scale reading. One main scale division is equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math>. While measuring diameter of a spherical body, the body is held between two jaws. It is now observed that zero of the Vernier scale lies between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>31</mn></math> divisions of main scale reading and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>6</mn><mrow><mi>th</mi><mo>&#160;</mo></mrow></msup></math> Vernier scale division exactly. coincides with the main scale reading. The diameter of the spherical body will be:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Nc01Y",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>02</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "MbdL3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>06</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "RQcY8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>10</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "vp5Zp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>20</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "RQcY8",
+    "solution_text": "<blockquote><p>Given that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">D</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">D</mi><mo>&#160;</mo><mo>=</mo><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">D</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">D</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>9</mn><mi mathvariant=\"normal\">M</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">D</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>9</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>L.C of vernier caliper <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>9</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Zero error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>10</mn><mo>-</mo><mn>4</mn></mrow></mfenced><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>mm</mi></math>&nbsp;as&nbsp;at zero the, the zero of the vernier is shifted towards&nbsp;left zero error is negative. Therefore, zero error<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>mm</mi></math>.</p><p>Reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi mathvariant=\"normal\">M</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">R</mi><mo>+</mo><mi mathvariant=\"normal\">V</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">R</mi><mo>-</mo></math> &nbsp;Zero error</p><p>Reading<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>+</mo><mn>6</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>-</mo><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mn>0</mn><mo>.</mo><mn>06</mn></mrow></mfenced></math></p><p>Reading<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn></math></p><p>Reading<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>.</mo><mn>12</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>The closest option is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>10</mn><mo>&#160;</mo><mi>cm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67962",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jul Shift 1)",
+    "paper_year_short": "2022 (26 Jul Shift 1)",
+    "held_on": "2022-07-26T09:00:00.000Z",
+    "question_text": "A screw gauge of pitch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> is used to measure the diameter of uniform wire of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi>cm</mi></math>, the main scale reading is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> and circular scale reading is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>. The calculated curved surface area of wire to appropriate significant figures is<br />[Screw gauge has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> divisions on the circular scale]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8llWh",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>8</mn><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "ejlaE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>4</mn><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "lRFN9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>9</mn><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "pAuKo",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>4</mn><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ejlaE",
+    "solution_text": "<blockquote><p>Least Count (L.C)<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>P</mi><mi>N</mi></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></mrow><mn>50</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Length of wire <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Diameter of wire <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>7</mn><mo>&#215;</mo></math> L.C</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>7</mn><mo>&#215;</mo><mo>.</mo><mn>01</mn><mo>=</mo><mn>1</mn><mo>.</mo><mn>57</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Curved surface area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>&#960;</mi><mi mathvariant=\"normal\">D</mi><mi>l</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>.</mo><mn>14</mn><mo>&#215;</mo><mn>6</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>57</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>.</mo><mn>352</mn><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup><mo>=</mo><mn>3</mn><mo>.</mo><mn>4</mn><msup><mrow><mo>&#160;</mo><mi>cm</mi></mrow><mn>2</mn></msup></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67ea9",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jun Shift 2)",
+    "paper_year_short": "2022 (29 Jun Shift 2)",
+    "held_on": "2022-06-29T14:00:00.000Z",
+    "question_text": "The Vernier constant of Vernier callipers is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math> and it has zero error of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>cm</mi></mrow></mfenced></math>. While measuring diameter of a sphere, the main scale reading is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>7</mn><mo>&#160;</mo><mi>cm</mi></math> and coinciding vernier division is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> . The corrected diameter will be _____<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mi>cm</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "180",
+    "solution_text": "<p>Vernier constant is the least count of the vernier&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>.</mo><mi>C</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>zero error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>correction<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">R</mi><mo>.</mo><mo>=</mo><mn>1</mn><mo>.</mo><mn>7</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">V</mi><mo>.</mo><mi mathvariant=\"normal\">S</mi><mo>.</mo><mi mathvariant=\"normal\">R</mi><mo>.</mo><mo>=</mo><mn>5</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi><mo>.</mo><mi mathvariant=\"normal\">C</mi><mo>.</mo><mo>=</mo><mn>5</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>The diameter of the sphere will be,</p><p>diameter<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>MSR</mi><mo>+</mo><mi>VSR</mi><mo>+</mo></math>correction</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>7</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>=</mo><mn>1</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>180</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67d41",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (28 Jun Shift 2)",
+    "paper_year_short": "2022 (28 Jun Shift 2)",
+    "held_on": "2022-06-28T14:00:00.000Z",
+    "question_text": "A student in the laboratory measures thickness of a wire using screw gauge. The readings are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>22</mn><mo>&#160;</mo><mi>mm</mi><mo>,</mo><mn>1</mn><mo>.</mo><mn>23</mn><mo>&#160;</mo><mi>mm</mi><mo>,</mo><mn>1</mn><mo>.</mo><mn>19</mn><mo>&#160;</mo><mi>mm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>20</mn><mo>&#160;</mo><mi>mm</mi></math>. The percentage error is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>x</mi><mn>121</mn></mfrac><mo>%</mo></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> is _____ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "150",
+    "solution_text": "<p>The average value of the readings is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mi>avg</mi></msub><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>19</mn><mo>+</mo><mn>1</mn><mo>.</mo><mn>20</mn><mo>+</mo><mn>1</mn><mo>.</mo><mn>22</mn><mo>+</mo><mn>1</mn><mo>.</mo><mn>23</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>21</mn></math></p><p>Now, absolute error in measurement&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><msub><mi>x</mi><mi>avg</mi></msub><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>02</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>02</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>06</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>015</mn></math></p><p>Percentage error in measurement is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>015</mn></mrow><mrow><mn>1</mn><mo>.</mo><mn>21</mn></mrow></mfrac><mo>&#215;</mo><mn>100</mn><mo>%</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>150</mn><mn>121</mn></mfrac><mo>%</mo></math></p><p>So, the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>150</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67a79",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jun Shift 2)",
+    "paper_year_short": "2022 (26 Jun Shift 2)",
+    "held_on": "2022-06-26T14:00:00.000Z",
+    "question_text": "A travelling microscope is used to determine the refractive index of a glass slab. If 40 divisions are there in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math> on main scale and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> Vernier scale divisions are equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>49</mn></math> main scale divisions, then least count of the travelling microscope is _____&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p>Given here, main scale reading,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>S</mi><mo>=</mo><mfrac><mn>1</mn><mn>40</mn></mfrac><mo>&#160;</mo><mi>cm</mi></math></p><p>And,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#215;</mo><mi>V</mi><mi>S</mi><mo>=</mo><mn>49</mn><mo>&#215;</mo><mi>M</mi><mi>S</mi></math></p><p>Least count of travelling microscope is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>C</mi><mo>=</mo><mi>M</mi><mi>S</mi><mo>-</mo><mi>V</mi><mi>S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>M</mi><mi>S</mi><mo>-</mo><mfrac><mn>49</mn><mn>50</mn></mfrac><mo>&#160;</mo><mi>M</mi><mi>S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>50</mn></mfrac><mo>&#215;</mo><mi>M</mi><mi>S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>50</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>40</mn></mfrac><mo>&#160;</mo><mi>cm</mi><mo>=</mo><mfrac><mn>1</mn><mn>2000</mn></mfrac><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67a1d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jun Shift 1)",
+    "paper_year_short": "2022 (26 Jun Shift 1)",
+    "held_on": "2022-06-26T09:00:00.000Z",
+    "question_text": "In a vernier callipers, each <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cm</mi></math> on the main scale is divided into <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math> equal parts. If tenth vernier scale division coincides with nineth main scale division. Then the value of vernier constant will be _____&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p>Vernier constant is defined as the difference between the value of one main scale division and one vernier scale division. It is also known as the least count of vernier calliper.</p><p>The main scale division of the given vernier calliper is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>S</mi><mi>D</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#160;</mo><mi>cm</mi></mrow><mn>20</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>C</mi><mo>=</mo><mfrac><mrow><mi>M</mi><mi>S</mi><mi>D</mi></mrow><mi>n</mi></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></mrow><mn>10</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>mm</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d676f4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (31 Aug Shift 2)",
+    "paper_year_short": "2021 (31 Aug Shift 2)",
+    "held_on": "2021-08-31T14:00:00.000Z",
+    "question_text": "The diameter of a spherical bob is measured using a vernier callipers. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math> divisions of the main scale, in the vernier callipers, are equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> divisions of vernier scale. One main scale division is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>.</mo></math>&nbsp;The main scale reading is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi>mm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>8</mn><mi>th</mi></msup></math> division of vernier scale was found to coincide exactly with one of the main scale division. If the given vernier callipers has positive zero error of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>04</mn><mo>&#160;</mo><mi>cm</mi><mo>,</mo></math>&nbsp;then the radius of the bob is _____________&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi><mo>.</mo></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "52",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>&#160;</mo><mi>M</mi><mi>S</mi><mi>D</mi><mo>=</mo><mn>10</mn><mo>&#160;</mo><mi>V</mi><mi>S</mi><mi>D</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>V</mi><mi>S</mi><mi>D</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>9</mn><mo>&#160;</mo><mi>mm</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>M</mi><mi>S</mi><mi>D</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>L</mi><mo>.</mo><mi>C</mi><mo>.</mo><mo>=</mo><mfrac><mrow><mi>M</mi><mi>S</mi><mi>D</mi><mo>-</mo><mi>V</mi><mi>S</mi><mi>D</mi></mrow><mrow><mi>M</mi><mi>S</mi><mi>D</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>9</mn></mrow><mn>1</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn></math><br />Reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> Main scale reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo></math> L.C. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo></math> vernier scale reading<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>+</mo><mfenced><mrow><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><mn>8</mn></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Reading of diameter<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi>mm</mi><mo>-</mo><mn>0</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi>mm</mi><mo>=</mo><mn>10</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi>mm</mi></math><br />radius of the bob<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>mm</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>52</mn><mo>&#160;</mo><mi>cm</mi><mo>=</mo><mn>52</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d673bc",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (26 Aug Shift 1)",
+    "paper_year_short": "2021 (26 Aug Shift 1)",
+    "held_on": "2021-08-26T09:00:00.000Z",
+    "question_text": "In a Screw Gauge, fifth division of the circular scale coincides with the reference line when the ratchet is closed. There are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math>&nbsp;divisions on the circular scale, and the main scale moves by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> on a complete rotation. For a particular observation the reading on the main scale is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> and the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn><mtext>th&#160;</mtext></msup></math> division of the circular scale coincides with reference line. Calculate the true reading.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NNGzt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>20</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "JKQV3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "SfzLp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>15</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "DyNFm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>25</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "SfzLp",
+    "solution_text": "L.C. of screw Gauge<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>5</mn></mrow><mn>50</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>mm</mi></math><br />Zero error of screw Gauge <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>&#215;</mo><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">C</mi><mo>.</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>mm</mi></math><br />Reading of screw gauge <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> main scale reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo></math> circular scale reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">C</mi><mo>.</mo><mo>-</mo></math>Zero error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>+</mo><mfenced><mrow><mn>20</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn></mrow></mfenced><mo>-</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>=</mo><mn>5</mn><mo>.</mo><mn>15</mn><mo>&#160;</mo><mi>mm</mi></math>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d675dd",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (27 Jul Shift 1)",
+    "paper_year_short": "2021 (27 Jul Shift 1)",
+    "held_on": "2021-07-27T09:00:00.000Z",
+    "question_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Assertion</mi><mo>&#160;</mo><mi>A</mi><mo>:</mo></math> If in five complete rotations of the circular scale, the distance travelled on the main scale of the screw gauge is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> and there are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> total divisions on a circular scale, then the least count is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>001</mn><mo>&#160;</mo><mi>cm</mi><mo>.</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Reason</mi><mo>&#160;</mo><mi>R</mi><mo>:</mo></math><br />Least Count <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mtext>&#160;Pitch&#160;</mtext><mtext>&#160;Total divisions on circular scale&#160;</mtext></mfrac></math><br />In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Hb9bu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> is not correct but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> is correct.",
+        "image": null
+      },
+      {
+        "id": "kOOot",
+        "text": "Both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> are correct and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> is the correct explanation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo></math>",
+        "image": null
+      },
+      {
+        "id": "xT7GN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> is correct but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> is not correct.",
+        "image": null
+      },
+      {
+        "id": "gQfsc",
+        "text": "Both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> are correct and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> is NOT the correct explanation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Hb9bu",
+    "solution_text": "<p>Least count <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mtext>&#160;Pitch&#160;</mtext><mtext>&#160;total division on circular scale&#160;</mtext></mfrac></math><br />In <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> revolution, distance travel,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#160;</mo><mi>mm</mi><mo>.</mo></math></p><p>In <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> revolution, it will travel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>.</mo></math><br />So the least count <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>50</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>02</mn></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d67310",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (25 Jul Shift 1)",
+    "paper_year_short": "2021 (25 Jul Shift 1)",
+    "held_on": "2021-07-25T09:00:00.000Z",
+    "question_text": "<p>Student <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and student <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math> used two screw gauges of equal pitch and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn></math> equal circular divisions to measure the radius of a given wire. The actual value of the radius of the wire is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>322</mn><mo>&#160;</mo><mi>cm</mi></math>. The absolute value of the difference between the final circular scale readings observed by the students <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math> is _______.</p><p>[Figure shows position of reference <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>&nbsp;when jaws of screw gauge are closed]</p><p>Given pitch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/fc084239-971b-4b08-9eb4-762feffb4daa-image.png\" style=\"width: 349px; height: 204px;\" /></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "13",
+    "solution_text": "<p>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>,</p><p>Reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>M</mi><mi>S</mi><mi>R</mi><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>+</mo><mi>Error</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>322</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>300</mn><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>+</mo><mn>5</mn><mo>&#215;</mo><mi>L</mi><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>322</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>300</mn><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>+</mo><mn>0</mn><mo>.</mo><mn>005</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>S</mi><mi>R</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>017</mn></math></p><p>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>,&nbsp;</p><p>Reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>M</mi><mi>S</mi><mi>R</mi><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>+</mo><mi>Error</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>322</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>200</mn><mo>+</mo><mi>C</mi><mi>S</mi><mi>R</mi><mo>+</mo><mn>0</mn><mo>.</mo><mn>092</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>S</mi><mi>R</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>030</mn></math></p><p>Difference <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>030</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>017</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>013</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Division on circular scale <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>013</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>001</mn></mrow></mfrac><mo>=</mo><mn>13</mn></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66f23",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (17 Mar Shift 1)",
+    "paper_year_short": "2021 (17 Mar Shift 1)",
+    "held_on": "2021-03-17T09:00:00.000Z",
+    "question_text": "<p>The vernier scale used for measurement has a positive zero error of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>mm</mi><mo>.</mo></math>&nbsp;If while taking a measurement it was noted that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math> on the vernier scale lies between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>cm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>cm</mi></math>.&nbsp;Vernier coincidence is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>,</mo></math> then the correct value of measurement is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cm</mi><mo>.</mo></math></p><p>(least count<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>cm</mi></math>)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aXN3e",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>36</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "HikLl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>54</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ILnc5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>58</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "hDmg6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>56</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "HikLl",
+    "solution_text": "<p>Positive zero error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Main scale reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>8</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Vernier scale reading<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>06</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Final reading<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>8</mn><mo>.</mo><mn>5</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>02</mn><mo>=</mo><mn>8</mn><mo>.</mo><mn>54</mn><mo>&#160;</mo><mi>cm</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66e69",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (16 Mar Shift 1)",
+    "paper_year_short": "2021 (16 Mar Shift 1)",
+    "held_on": "2021-03-16T09:00:00.000Z",
+    "question_text": "One main scale division of a vernier callipers is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>n</mi><mi>th</mi></msup></math> division of the vernier scale coincide with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mi>th</mi></msup></math> division of the main scale. The least count of the callipers in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mm</mi></math> is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hNBH6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>10</mn><mi>n</mi><mi>a</mi></mrow><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "nrWxP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>10</mn><mi>a</mi></mrow><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "uS1Pb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mrow><mn>10</mn><mi>n</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "60Vfe",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>10</mn><mi>a</mi></mrow><mi>n</mi></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "60Vfe",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mi>a</mi><mo>=</mo><mi>n</mi><mfenced><msup><mi>a</mi><mo>&#39;</mo></msup></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>a</mi><mo>&#39;</mo></msup><mo>=</mo><mfrac><mrow><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mi>a</mi></mrow><mi>n</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">C</mi><mo>.</mo><mo>=</mo><mn>1</mn><mi>MSD</mi><mo>-</mo><mn>1</mn><mi>VSD</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mi>a</mi><mo>-</mo><msup><mi>a</mi><mo>&#39;</mo></msup></mrow></mfenced><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>a</mi><mo>-</mo><mfrac><mrow><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mi>a</mi></mrow><mi>n</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi>n</mi><mi>a</mi><mo>-</mo><mi>n</mi><mi>a</mi><mo>+</mo><mi>a</mi></mrow><mi>n</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>n</mi></mfrac><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mfrac><mrow><mn>10</mn><mi>a</mi></mrow><mi>n</mi></mfrac></mfenced><mo>&#160;</mo><mi>mm</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d6724c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (25 Feb Shift 1)",
+    "paper_year_short": "2021 (25 Feb Shift 1)",
+    "held_on": "2021-02-25T09:00:00.000Z",
+    "question_text": "The pitch of the screw gauge is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math> and there are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn></math> divisions on the circular scale. When nothing is put in between the jaws, the zero of the circular scale lies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math> divisions below the reference line. When a wire is placed between the jaws, the first linear scale division is clearly visible while <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>72</mn><mtext>nd&#160;</mtext></msup></math> division on circular scale coincides with the reference line. The radius of the wire is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JAn42",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>64</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "xCzNH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>82</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "sUugc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>90</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "JnUNl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>80</mn><mo>&#160;</mo><mi>mm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "xCzNH",
+    "solution_text": "<p>Least count <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#160;</mo><mi>mm</mi></mrow><mn>100</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>zero error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>+</mo><mn>8</mn><mo>&#215;</mo><mi>LC</mi><mo>=</mo><mo>+</mo><mn>0</mn><mo>.</mo><mn>08</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>True reading (Diameter)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>72</mn><mo>&#215;</mo><mi>LC</mi></mrow></mfenced><mo>-</mo></math> (Zero error)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>1</mn><mo>&#160;</mo><mi>mm</mi><mo>+</mo><mn>72</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi>mm</mi></mrow></mfenced><mo>-</mo><mn>0</mn><mo>.</mo><mn>08</mn><mo>&#160;</mo><mi>mm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>72</mn><mo>&#160;</mo><mi>mm</mi><mo>-</mo><mn>0</mn><mo>.</mo><mn>08</mn><mo>&#160;</mo><mi>mm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>64</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>therefore, radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>64</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>82</mn><mo>&#160;</mo><mi>mm</mi><mo>.</mo></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66c0e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (06 Sep Shift 2)",
+    "paper_year_short": "2020 (06 Sep Shift 2)",
+    "held_on": "2020-09-06T14:00:00.000Z",
+    "question_text": "A student measuring the diameter of a pencil of circular cross-section with the help of a vernier scale records the following four readings&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>50</mn><mo>&#160;</mo><mi>mm</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>55</mn><mo>&#160;</mo><mi>mm</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>34</mn><mo>&#160;</mo><mi>mm</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>65</mn><mo>&#160;</mo><mi>mm</mi></math>. The average of these four reading is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>5375</mn><mo>&#160;</mo><mi>mm</mi></math>&nbsp;and the standard deviation of the data is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>07395</mn><mo>&#160;</mo><mi>mm</mi></math>. The average diameter of the pencil should therefore be recorded as :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XjDky",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>5</mn><mo>.5375</mo><mo>&#177;</mo><mn>0</mn><mo>.0739</mo></mrow></mfenced><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "prB8g",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>5</mn><mo>.5375</mo><mo>&#177;</mo><mn>0</mn><mo>.0740</mo></mrow></mfenced><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "uzhre",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>5</mn><mo>.538</mo><mo>&#177;</mo><mn>0</mn><mo>.074</mo></mrow></mfenced><mi>mm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "mB8Iu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>5</mn><mo>.54</mo><mo>&#177;</mo><mn>0</mn><mo>.07</mo></mrow></mfenced><mi>mm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mB8Iu",
+    "solution_text": "<p>Significant rule says that reading should has same significant figure as that of reading given.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>5375</mn><mo>&#8594;</mo></math> rounded to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mn>5</mn><mo>.</mo><mn>54</mn><mo>.</mo></math></p><p>0.07395<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo></math>&nbsp;rounded to<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo></math>0.07</p><p>therefore,&nbsp;<sub><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>5</mn><mo>.</mo><mn>54</mn><mo>&#177;</mo><mn>0</mn><mo>.</mo><mn>07</mn></mrow></mfenced><mo>&#160;</mo><mi>m</mi><mi>m</mi></math></sub></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66bb7",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (06 Sep Shift 1)",
+    "paper_year_short": "2020 (06 Sep Shift 1)",
+    "held_on": "2020-09-06T09:00:00.000Z",
+    "question_text": "A screw gauge has 50 divisions on its circular scale. The circular scale is 4 units ahead of the pitch scale marking, prior to use. Upon one complete rotation of the circular scale, a displacement of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mi>mm</mi></math>&nbsp;is noticed on the pitch scale. The nature of zero error involved and the lest count of the screw gauge, are respectively:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wdlYj",
+        "text": "Negative, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>&#956;</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "GDrJX",
+        "text": "Positive <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>&#956;</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "m2iz4",
+        "text": "Positive <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mi>m</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "4DdOJ",
+        "text": "Positive, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mi>&#956;</mi><mi>m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "GDrJX",
+    "solution_text": "&nbsp;",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d66a03",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (03 Sep Shift 1)",
+    "paper_year_short": "2020 (03 Sep Shift 1)",
+    "held_on": "2020-09-03T09:00:00.000Z",
+    "question_text": "Using screw gauge of pitch&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mi>cm</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> divisions on its circular scale, the thickness of an object is measured.&nbsp;It should correctly be recorded as,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bIV2J",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>121</mn><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "PcqZz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>124</mn><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "dT3p7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>125</mn><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "9TXOV",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>123</mn><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "PcqZz",
+    "solution_text": "<p>Thickness&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mi>M</mi><mo>.</mo><mi>S</mi><mo>.</mo></math>&nbsp;Reading&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo></math> Circular Scale Reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>L</mi><mo>.</mo><mi>C</mi><mo>.</mo><mo>)</mo></math></p><p>Here least count is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>002</mn><mo>&#160;</mo><mi>cm</mi><mo>&#160;</mo><mi>per</mi><mo>&#160;</mo><mi>division</mi><mo>.</mo></math></p><p>From all the four options, the second answer is divisible by this least count. Hence option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;is correct.</p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d66962",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (02 Sep Shift 1)",
+    "paper_year_short": "2020 (02 Sep Shift 1)",
+    "held_on": "2020-09-02T09:00:00.000Z",
+    "question_text": "The least count of the main scale of a vernier calipers is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math>. Its vernier scale is divided into&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math>&nbsp;divisions and coincide with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>&nbsp;divisions of the main scale. When jaws are touching each other, the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>7</mn><mi>th</mi></msup></math>&nbsp;division of the vernier scale coincides with a division of the main scale and the zero of vernier scale is lying right side of the zero of the main scale. When this vernier is used to measure the length of the cylinder the zero of the vernier scale between&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>4</mn><mi>th</mi></msup></math>&nbsp;VSD coincides with the main scale division. The length of the cylinder is (VSD is vernier scale division)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gCHX6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>2</mn><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "juQFK",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>21</mn><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "fmerf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>07</mn><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "bX5x6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>99</mn><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "fmerf",
+    "solution_text": "<blockquote><p>Zero Error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>070</mn></math></p><p>Vernier reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mo>(</mo><mn>3</mn><mo>.</mo><mn>1</mn><mo>+</mo><mn>4</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>)</mo><mo>&#160;</mo><mo>&#8211;</mo><mn>0</mn><mo>.</mo><mn>07</mn><mo>=</mo><mn>3</mn><mo>.</mo><mn>07</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66d88",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (09 Jan Shift 1)",
+    "paper_year_short": "2020 (09 Jan Shift 1)",
+    "held_on": "2020-01-09T09:00:00.000Z",
+    "question_text": "If the screw on a screw-gauge is given six rotations, it moves by <math><mn>3</mn><mi></mi><mi>m</mi><mi>m</mi></math> on the main scale. If there are <math><mn>50</mn></math> divisions on the circular scale the least count of the screw gauge is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZJB0E",
+        "text": "<math><mn>0.001</mn><mi mathvariant=\"normal\"></mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "r9s1E",
+        "text": "<math><mn>0.02</mn><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "OG9aG",
+        "text": "<math><mn>0.01</mn><mi mathvariant=\"normal\"></mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "G1ixz",
+        "text": "<math><mn>0.001</mn><mi mathvariant=\"normal\"></mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZJB0E",
+    "solution_text": "<blockquote><p>Pitch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>3</mn><mn>6</mn></mfrac><mo>=</mo><mn>0.5</mn><mo>&#160;</mo><mi>m</mi><mi>m</mi></math><br />L.C. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>0.5</mn><mn>50</mn></mfrac><mo>&#160;</mo><mi>m</mi><mi>m</mi><mo>=</mo><mfrac><mn>1</mn><mn>100</mn></mfrac><mo>&#160;</mo><mi>m</mi><mi>m</mi><mo>=</mo><mn>0.1</mn><mo>&#160;</mo><mi>m</mi><mi>m</mi><mo>=</mo><mn>0.001</mn><mo>&#160;</mo><mi>c</mi><mi>m</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d6685c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Apr Shift 2)",
+    "paper_year_short": "2019 (12 Apr Shift 2)",
+    "held_on": "2019-04-12T14:00:00.000Z",
+    "question_text": "A tunning fork of frequency <math><mn>480</mn><mi>&#160;</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">z</mi></math> is used in an experiment for measuring speed of sound <math><mfenced separators=\"|\"><mrow><mi>v</mi></mrow></mfenced></math> in air by resonance tube method. Resonance is observed to occur at two successive lengths of the air column, <math><msub><mrow><mi>l</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>30</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></math> and <math><msub><mrow><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>70</mn><mtext>&#8201;&#8201;</mtext><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi><mo>.</mo></math> Then, <math><mi>&#957;</mi></math> is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "845ep",
+        "text": "<math><mn>384</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\"> </mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "T23sa",
+        "text": "<math><mn>332</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\"> </mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "8tke1",
+        "text": "<math><mn>338</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\"> </mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "oPfCn",
+        "text": "<math><mn>379</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\"> </mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "845ep",
+    "solution_text": "Speed of sound, <math><mi>v</mi><mo>=</mo><mn>2</mn><mi>f</mi><mtext> </mtext><mfenced separators=\"|\"><mrow><msub><mrow><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>l</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math>  <br/><math><mo>=</mo><mn>2</mn><mo>×</mo><mn>480</mn><mfenced separators=\"|\"><mrow><mn>0.70</mn><mo>-</mo><mn>0.30</mn></mrow></mfenced></math>  <br/><math><mo>=</mo><mn>384</mn><mtext> </mtext><mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">s</mi></mrow></mrow></math>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d665e5",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (10 Apr Shift 1)",
+    "paper_year_short": "2019 (10 Apr Shift 1)",
+    "held_on": "2019-04-10T09:00:00.000Z",
+    "question_text": "In a meter bridge experiment, the circuit diagram and the corresponding observation table are shown in figure.<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/48734bb1-1bb4-4b79-8ea9-4e2f16e1e619-image2.png\" /><table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th>S. No.</th>\t\t\t<th><math><mi mathvariant=\"normal\">R</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#937;</mi></mrow></mfenced></math></th>\t\t\t<th><math><mi>l</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></mrow></mfenced></math></th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td><br />\t\t\t<sub>1.</sub><br />\t\t\t<sub>2.</sub><br />\t\t\t<sub>3.</sub><br />\t\t\t<sub>4.</sub></td>\t\t\t<td><br />\t\t\t<math><mn>1000</mn></math><br />\t\t\t<math><mn>100</mn></math><br />\t\t\t<math><mn>10</mn></math><br />\t\t\t<math><mn>1</mn></math></td>\t\t\t<td><br />\t\t\t<math><mn>60</mn></math><br />\t\t\t<math><mn>13</mn></math><br />\t\t\t<math><mn>1.5</mn></math><br />\t\t\t<math><mn>1.0</mn></math></td>\t\t</tr>\t</tbody></table><br />Which of the reading is inconsistent?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jpqxX",
+        "text": "<math><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "KCiPu",
+        "text": "<math><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "BFaRh",
+        "text": "<math><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Wht3B",
+        "text": "<math><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Wht3B",
+    "solution_text": "For meter bridge: <math><mi mathvariant=\"normal\"> </mi><mfrac><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>100</mn><mo>-</mo><mi mathvariant=\"script\">l</mi></mrow></mfrac></math>  <br/><math><mn>1</mn><mo>→</mo><mfrac><mrow><mn>1000</mn></mrow><mrow><mn>60</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>40</mn></mrow></mfrac><mo>⇒</mo><mi mathvariant=\"normal\">X</mi><mo>=</mo><mfrac><mrow><mn>2000</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mn>666.67</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math>  <br/><math><mn>2</mn><mo>→</mo><mfrac><mrow><mn>100</mn></mrow><mrow><mn>13</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>27</mn></mrow></mfrac><mo>⇒</mo><mi mathvariant=\"normal\">X</mi><mo>=</mo><mn>669.23</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math>  <br/><math><mn>3</mn><mo>→</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>1.5</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>98.5</mn></mrow></mfrac><mo>⇒</mo><mi mathvariant=\"normal\">X</mi><mo>=</mo><mn>656.67</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math>  <br/><math><mn>4</mn><mo>→</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>99</mn></mrow></mfrac><mo>⇒</mo><mi mathvariant=\"normal\">X</mi><mo>=</mo><mn>99</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math>  <br/>Resistance calculated by using data from 4<sup>th</sup> observation is most inconsistent.",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d66920",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Jan Shift 2)",
+    "paper_year_short": "2019 (12 Jan Shift 2)",
+    "held_on": "2019-01-12T14:00:00.000Z",
+    "question_text": "A load of mass <math><mi>M</mi><mi>&#160;</mi><mi>k</mi><mi>g</mi></math> is suspended from a steel wire of length <math><mn>2</mn><mi>m</mi></math> and radius <math><mn>1.0</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi></math> in Searle&#39;s apparatus experiment. The increase in length produced in the wire is <math><mn>4.0</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi><mo>.</mo></math> Now the load is fully immersed in a liquid of relative density <math><mn>2</mn><mo>.</mo></math> The relative density of the material of load is <math><mn>8</mn><mo>.</mo></math> The new value of increase in length of the steel wire is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "K2e8V",
+        "text": "<math><mn>4.0</mn><mi>&nbsp;</mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "khMGm",
+        "text": "Zero",
+        "image": null
+      },
+      {
+        "id": "Zrxun",
+        "text": "<math><mn>5.0</mn><mi> </mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "UNr8o",
+        "text": "<math><mn>3.0</mn><mi> </mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UNr8o",
+    "solution_text": "<math><mi>δ</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>v</mi><mi>g</mi><mo>×</mo><mi>L</mi></mrow><mrow><mi>A</mi><mi>y</mi></mrow></mfrac></math><br /><br /><math><msup><mrow><mi>δ</mi></mrow><mrow><mi>′</mi></mrow></msup><mo>=</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><msub><mrow><mi>ρ</mi></mrow><mrow><mi>L</mi></mrow></msub></mrow></mfenced><mi>v</mi><mi>g</mi><mo>×</mo><mi>L</mi></mrow><mrow><mi>A</mi><mi>y</mi></mrow></mfrac><mo>⇒</mo><mfrac><mrow><mi>δ</mi><mo>^</mo><mi>′</mi></mrow><mrow><mi>δ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><msub><mrow><mi>ρ</mi></mrow><mrow><mi>L</mi></mrow></msub></mrow><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>8</mn><mo>-</mo><mn>2</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math><br /><br /><math><msup><mrow><mi>δ</mi></mrow><mrow><mi>′</mi></mrow></msup><mo>=</mo><mn>3</mn><mi>&nbsp;</mi><mi>m</mi><mi>m</mi></math>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d668c8",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Jan Shift 1)",
+    "paper_year_short": "2019 (12 Jan Shift 1)",
+    "held_on": "2019-01-12T09:00:00.000Z",
+    "question_text": "In a meter bridge, the wire of length <math><mn>1</mn><mi>&#160;</mi><mi>m</mi></math> has a non-uniform cross-section such that, the variation <math><mfrac><mrow><mi>d</mi><mi>R</mi></mrow><mrow><mi>d</mi><mi>l</mi></mrow></mfrac></math> of its resistance <math><mi>R</mi></math> with length <math><mi>l</mi></math> is <math><mfrac><mrow><mi>d</mi><mi>R</mi></mrow><mrow><mi>d</mi><mi>l</mi></mrow></mfrac><mo>&#8733;</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mi>l</mi></msqrt></mrow></mfrac><mo>.</mo></math> Two equal resistances are connected as shown in the figure. The galvanometer has zero deflection when the jockey is at point <math><mi>P</mi><mo>.</mo></math> What is the length <math><mi>A</mi><mi>P</mi><mo>?</mo></math><br /><br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/apieykswnmsrcqqwlnylvdzinlvniybqlnsthhxartfgziarjs.png\" />",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Zd0yc",
+        "text": "<math><mn>0.2</mn><mi> </mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Bg3oG",
+        "text": "<math><mn>0.35</mn><mi> </mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "lHcbr",
+        "text": "<math><mn>0.3</mn><mi> </mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "h17mn",
+        "text": "<math><mn>0.25</mn><mi> </mi><mi>m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "h17mn",
+    "solution_text": "<p>According to question meter bridge have non-uniform wire, where its resistance has a variation with length as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>R</mi></mrow><mrow><mi>d</mi><mi>l</mi></mrow></mfrac><mo>&#8733;</mo><mfrac><mn>1</mn><msqrt><mi>l</mi></msqrt></mfrac></math>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>R</mi></mrow><mrow><mi>d</mi><mi>l</mi></mrow></mfrac><mo>=</mo><mfrac><mi>k</mi><msqrt><mi>l</mi></msqrt></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi></math>&nbsp;is proportionality constant<br />Let resistance of the left part&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>P</mi></math>&nbsp;and right part <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>B</mi></math>&nbsp;of the wire is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mi>A</mi><mi>P</mi></mrow></msub><mo>&#160;</mo><mo>,</mo><mo>&#160;</mo><msub><mi>R</mi><mrow><mi>P</mi><mi>B</mi></mrow></msub></math>&nbsp;respectively.</p><p>From balanced condition of wheat stone bridge is:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>S</mi></mfrac></math></p><p>So, from the above condition for given meter bridge is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>R</mi><mo>'</mo></msup><msup><mi>R</mi><mo>'</mo></msup></mfrac><mo>=</mo><mfrac><msub><mi>R</mi><mrow><mi>A</mi><mi>p</mi></mrow></msub><msub><mi>R</mi><mrow><mi>p</mi><mi>B</mi></mrow></msub></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#8658;</mo><msub><mi>R</mi><mrow><mi>A</mi><mi>p</mi></mrow></msub><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><msub><mi>R</mi><mrow><mi>p</mi><mi>B</mi></mrow></msub><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>2</mn></mfenced></math></p><p>Now from equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math>, on integrating&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8747;</mo><mi>d</mi><mi>R</mi><mo>=</mo><mi>k</mi><mo>&#8747;</mo><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><msqrt><mi>l</mi></msqrt></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>3</mn></mfenced></math></p><p>&nbsp;for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>P</mi></math>&nbsp;part of the wire of length extends from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>o</mi></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math>&nbsp;from the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mi>A</mi><mi>P</mi></mrow></msub><mo>&#160;</mo><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><msub><mi>R</mi><mrow><mi>A</mi><mi>P</mi></mrow></msub></msubsup><mo>&#8747;</mo><mi>d</mi><mi>R</mi><mo>=</mo><mi>k</mi><msubsup><mo>&#8747;</mo><mn>0</mn><mi>l</mi></msubsup><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><msqrt><mi>l</mi></msqrt></mfrac><mo>&#160;</mo><mo>=</mo><mi>k</mi><msubsup><mo>&#8747;</mo><mn>0</mn><mi>l</mi></msubsup><mo>&#160;</mo><mfenced><msup><mi>l</mi><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mfenced><mo>&#160;</mo><mi>d</mi><mi>l</mi><mo>&#160;</mo><mo>=</mo><mi>k</mi><mo>&#160;</mo><mfrac><msubsup><mfenced open=\"[\" close=\"]\"><msup><mi>l</mi><mrow><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mo>+</mo><mn>1</mn></mrow></msup></mfenced><mn>0</mn><mi>l</mi></msubsup><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mn>1</mn></mrow></mfrac><mspace linebreak=\"newline\"/><mo>&#8658;</mo><msub><mi>R</mi><mrow><mi>A</mi><mi>P</mi></mrow></msub><mo>&#160;</mo><mo>=</mo><mn>2</mn><mi>k</mi><msqrt><mi>l</mi></msqrt></math></p><p>Now, for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>B</mi></math>&nbsp;part of the wire of length extends from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>m</mi></math>, from the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mi>P</mi><mi>B</mi></mrow></msub><mo>&#160;</mo><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><msub><mi>R</mi><mrow><mi>P</mi><mi>B</mi></mrow></msub></msubsup><mi>d</mi><mi>R</mi><mo>=</mo><mi>k</mi><msubsup><mo>&#8747;</mo><mi>l</mi><mn>1</mn></msubsup><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><msqrt><mi>l</mi></msqrt></mfrac><mo>&#160;</mo><mo>=</mo><mi>k</mi><msubsup><mo>&#8747;</mo><mi>l</mi><mn>1</mn></msubsup><mo>&#160;</mo><mfenced><msup><mi>l</mi><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mfenced><mo>&#160;</mo><mi>d</mi><mi>l</mi><mo>&#160;</mo><mo>=</mo><mi>k</mi><mo>&#160;</mo><mfrac><msubsup><mfenced open=\"[\" close=\"]\"><msup><mi>l</mi><mrow><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mo>+</mo><mn>1</mn></mrow></msup></mfenced><mi>l</mi><mn>1</mn></msubsup><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mn>1</mn></mrow></mfrac><mspace linebreak=\"newline\"/><mo>&#8658;</mo><msub><mi>R</mi><mrow><mi>P</mi><mi>B</mi></mrow></msub><mo>&#160;</mo><mo>=</mo><mn>2</mn><mi>k</mi><mfenced open=\"[\" close=\"]\"><mrow><mn>1</mn><mo>-</mo><msqrt><mi>l</mi></msqrt></mrow></mfenced></math>&nbsp;</p><p>From equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mi>A</mi><mi>P</mi></mrow></msub><mo>=</mo><msub><mi>R</mi><mrow><mi>P</mi><mi>B</mi></mrow></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mn>2</mn><msqrt><mi>l</mi></msqrt><mo>=</mo><mn>2</mn><mfenced><mrow><mn>1</mn><mo>-</mo><msqrt><mi>l</mi></msqrt></mrow></mfenced><mspace linebreak=\"newline\"/><mo>&#8658;</mo><mo>&#160;</mo><msqrt><mi>l</mi></msqrt><mo>=</mo><mn>1</mn><mo>-</mo><msqrt><mi>l</mi></msqrt><mspace linebreak=\"newline\"/><mo>&#8658;</mo><msqrt><mi>l</mi></msqrt><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#8658;</mo><mi>l</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>25</mn><mo>&#160;</mo><mi>m</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d668af",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Jan Shift 1)",
+    "paper_year_short": "2019 (12 Jan Shift 1)",
+    "held_on": "2019-01-12T09:00:00.000Z",
+    "question_text": "The least count of the main scale of a screw gauge is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>&#160;</mi><mi>mm</mi><mo>.</mo></math> The minimum number of divisions on its circular scale required to measure <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mi mathvariant=\"normal\">&#160;</mi><mi>&#956;m</mi></math> diameter of a wire is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xYUWw",
+        "text": "<math><mn>50</mn></math>",
+        "image": null
+      },
+      {
+        "id": "zxi9D",
+        "text": "<math><mn>100</mn></math>",
+        "image": null
+      },
+      {
+        "id": "tL87T",
+        "text": "<math><mn>500</mn></math>",
+        "image": null
+      },
+      {
+        "id": "kBD9p",
+        "text": "<math><mn>200</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kBD9p",
+    "solution_text": "<blockquote><p>Least count of screw gauge <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mtext>&#8201;</mtext><mi>&#956;m</mi></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>.</mo><mi mathvariant=\"normal\">C</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">h</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">o</mi><mo>.</mo><mtext>&#8201;</mtext><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mtext>&#8201;</mtext><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">v</mi><mtext>&#8201;</mtext><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mtext>&#8201;</mtext><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mtext>&#8201;&#8201;</mtext><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi></mrow></mfrac></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#160;</mo><mi>&#956;m</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#160;</mo><mi>mm</mi></mrow><mi mathvariant=\"normal\">N</mi></mfrac></math><br /><br /><math><mi>N</mi><mo>=</mo><mn>200</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d667a9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (11 Jan Shift 2)",
+    "paper_year_short": "2019 (11 Jan Shift 2)",
+    "held_on": "2019-01-11T14:00:00.000Z",
+    "question_text": "In the experimental set up of metre bridge shown in the figure, the null point is obtaine data distance of $40 \\mathrm{~cm}$ from\r\n\r\nA. If a $10 \\Omega$ resistor is connected in series with $\\mathrm{R}_{1},$ the null point shifts by $10 \\mathrm{~cm}$. The resistance that should be connected in parallel with $\\left(\\mathrm{R}_{1}+10\\right) \\Omega$ such that the null point shifts back to its initial position is\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/HsIn7Htb_ptxgoG_scErIUAkGI5hy05ZkJ21SW6Y4Ns.original.fullsize.png\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BCmUz",
+        "text": "$20 \\Omega$",
+        "image": null
+      },
+      {
+        "id": "233Vf",
+        "text": "$40 \\Omega$",
+        "image": null
+      },
+      {
+        "id": "xViQ9",
+        "text": "$60 \\Omega$",
+        "image": null
+      },
+      {
+        "id": "qkkde",
+        "text": "$30 \\Omega$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xViQ9",
+    "solution_text": "Initially at null deflection $\\frac{\\mathrm{R}_{1}}{\\mathrm{R}_{2}}=\\frac{2}{3}$$\\ldots(\\mathrm{i})$\r\n\r\nFinally at null deflection, when null point is shifted $\\frac{\\mathrm{R}_{1}+10}{\\mathrm{R}_{2}}=1 \\Rightarrow \\mathrm{R}_{1}+10=\\mathrm{R}_{2}$...(ii)\r\n\r\nSolving equations (i) and (ii) we get $\\frac{2 R_{2}}{3}+10=R_{2}$\r\n\r\n$10=\\frac{\\mathrm{R}_{2}}{3} \\Rightarrow \\mathrm{R}_{2}=30 \\Omega$\r\n\r\n$\\& R_{1}=20 \\Omega$\r\n\r\nNow if required resistance is $\\mathrm{R}$ then $\\frac{\\frac{30 \\times \\mathrm{R}}{30+\\mathrm{R}}}{30}=\\frac{2}{3}$\r\n\r\n$\\mathrm{R}=60 \\Omega$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d6674d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (11 Jan Shift 1)",
+    "paper_year_short": "2019 (11 Jan Shift 1)",
+    "held_on": "2019-01-11T09:00:00.000Z",
+    "question_text": "The resistance of the meter bridge AB in given figure is $4 \\Omega$. With a cell of emf $\\varepsilon=0.5 \\mathrm{~V}$ and rheostat resistance $\\mathrm{R}_{\\mathrm{h}}=2 \\Omega$ the null point is obtained at some point J. When the cell is replaced by another one of emf $\\varepsilon=\\varepsilon_{2}$ the same null point $\\mathrm{J}$ is found for $\\mathrm{R}_{\\mathrm{h}}=6 \\Omega$. The $\\operatorname{emf} \\varepsilon_{2}$ is:\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/10XxhZc_WgumdrzdI9sRk7osdQr1aehCflZqE-eFEjM.original.fullsize.png\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6GtYt",
+        "text": "$0.4 \\mathrm{~V}$",
+        "image": null
+      },
+      {
+        "id": "pqjht",
+        "text": "$0.3 \\mathrm{~V}$",
+        "image": null
+      },
+      {
+        "id": "XMR1d",
+        "text": "$0.6 \\mathrm{~V}$",
+        "image": null
+      },
+      {
+        "id": "dc5jO",
+        "text": "$0.5 \\mathrm{~V}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "pqjht",
+    "solution_text": "Given, Emf of cell, $\\varepsilon=0.5 \\mathrm{v}$ Rheostat resistance, $\\mathrm{R}_{\\mathrm{h}}=2 \\Omega$ Potential gradient is\r\n\r\n$\\frac{d v}{d L}=\\left(\\frac{6}{2+4}\\right) \\times \\frac{4}{L}$\r\n\r\nLet null point be at $\\ell \\mathrm{cm}$ when cell of $\\mathrm{emf} \\varepsilon=0.5 \\mathrm{v}$ is used.\r\n\r\nthus $\\varepsilon_{1}=0.5 \\mathrm{~V}=\\left(\\frac{6}{2+4}\\right) \\times \\frac{4}{\\mathrm{~L}} \\times \\ell$...(i)\r\n\r\nFor resistance $\\mathrm{R}_{\\mathrm{h}}=6 \\Omega$ new potential gradient is $\\left(\\frac{6}{4+6}\\right) \\times \\frac{4}{L}$ and at null point\r\n\r\n$\\left(\\frac{6}{4+6}\\right)\\left(\\frac{4}{\\mathrm{~L}}\\right) \\times \\ell=\\varepsilon_{2}$...(ii)\r\n\r\nDividing equation (i) by (ii) we get\r\n\r\n$\\frac{0.5}{\\varepsilon_{2}}=\\frac{10}{6}$ thus $\\varepsilon_{2}=0.3 \\mathrm{v}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d6669c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (10 Jan Shift 1)",
+    "paper_year_short": "2019 (10 Jan Shift 1)",
+    "held_on": "2019-01-10T09:00:00.000Z",
+    "question_text": "A potentiometer wire <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AB</mi></math> having length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math> and resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mi>r</mi></math> is joined to a cell <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math> of emf <math><mi>&#949;</mi></math> and internal resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>. A&nbsp;cell <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math> having EMF&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#949;</mi><mo>/</mo><mn>2</mn></math> and internal resistance <math><mn>3</mn><mi>r</mi></math> is connected. The length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AJ</mi></math>, at which the galvanometer, as shown in the figure, shows no deflection is<br /><br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/04584076-d0f1-4d5f-ba54-8801a3a81d74-image.png\" style=\"width: 270px; height: 223px;\" />",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4yo2G",
+        "text": "<math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mi>L</mi></math>",
+        "image": null
+      },
+      {
+        "id": "LH2L1",
+        "text": "<math><mfrac><mrow><mn>11</mn></mrow><mrow><mn>24</mn></mrow></mfrac><mi>L</mi></math>",
+        "image": null
+      },
+      {
+        "id": "TeY5B",
+        "text": "<math><mfrac><mrow><mn>11</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mi>L</mi></math>",
+        "image": null
+      },
+      {
+        "id": "YCN18",
+        "text": "<math><mfrac><mrow><mn>13</mn></mrow><mrow><mn>24</mn></mrow></mfrac><mi>L</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "YCN18",
+    "solution_text": "Potential difference across <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AJ</mi><mo>=</mo><mi>I</mi><mo>&#160;</mo><msub><mi>R</mi><mrow><mi>A</mi><mi>J</mi></mrow></msub></math>,<br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>&#949;</mi><mrow><mn>13</mn><mi>r</mi></mrow></mfrac><mo>&#183;</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>12</mn><mi>r</mi></mrow><mi>L</mi></mfrac><mo>&#183;</mo><mi>x</mi></mrow></mfenced></math><br /><br />For no current in galvanometer,<br /><br /><math><mfrac><mrow><mi>&#949;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo></math> potential difference across <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AJ</mi></math><br /><br /><math><mfrac><mrow><mi>&#949;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>12</mn><mi>&#949;</mi></mrow><mrow><mn>13</mn><mi>L</mi></mrow></mfrac><mi>x</mi></math><br /><br /><math><mi>x</mi><mo>=</mo><mfrac><mrow><mn>13L</mn></mrow><mrow><mn>24</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d66597",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (09 Jan Shift 2)",
+    "paper_year_short": "2019 (09 Jan Shift 2)",
+    "held_on": "2019-01-09T14:00:00.000Z",
+    "question_text": "The pitch and the number of divisions, on the circular scale, for a given screw gauge are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>mm</mi></math> and <math><mn>100</mn></math> respectively. When the screw gauge is fully tightened without any object, the zero of its circular scale lies <math><mn>3</mn></math> divisions below the mean line.<br /><br />The readings of the main scale and the circular scale, for a thin sheet, are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.5</mo><mo>&#160;</mo><mi>mm</mi></math> and <math><mn>48</mn></math> respectively, the thickness of this sheet is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Fr4T6",
+        "text": "<math><mn>5.755</mn><mi>&nbsp;</mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Zwq6h",
+        "text": "<math><mn>5.740</mn><mi> </mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "qcEZy",
+        "text": "<math><mn>5.725</mn><mi>&nbsp;</mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "dxkPi",
+        "text": "<math><mn>5.950</mn><mi> </mi><mi>m</mi><mi>m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "qcEZy",
+    "solution_text": "<blockquote><p>least count <math><mo>=</mo><mfrac><mrow><mn>0.5</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><mn>0.005</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi></math><br /><br />Reading <math><mo>=</mo><mn>5.5</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi><mo>+</mo><mfenced separators=\"|\"><mrow><mn>48</mn><mo>-</mo><mn>3</mn></mrow></mfenced><mo>&#215;</mo><mn>0.005</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi></math><br /><br /><math><mo>=</mo><mn>5.725</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi><mo>.</mo></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d6631b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (15 Apr)",
+    "paper_year_short": "2018 (15 Apr)",
+    "held_on": "2018-04-15T09:00:00.000Z",
+    "question_text": "In a screw gauge,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> complete rotations of the screw cause it to move a linear distance of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>25</mn><mo>&#160;</mo><mi>cm</mi></math>. There are<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn></math> circular scale divisions. The thickness of a wire measured by this screw gauge gives a reading of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;main scale divisions and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math> circular scale divisions. Assuming negligible error, the thickness of the wire is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7He3G",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>4300</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "OkUM3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>3150</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "uTLkm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>0430</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "cZJmW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>2150</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "cZJmW",
+    "solution_text": "<p>The Least count<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>0.25</mn><mrow><mn>5</mn><mo>&#215;</mo><mn>100</mn></mrow></mfrac><mo>&#160;</mo><mi>cm</mi><mo>=</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi></math>.</p><p>Reading <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>&#215;</mo><mn>0.05</mn><mo>&#160;</mo><mi>cm</mi><mo>+</mo><mn>30</mn><mo>&#215;</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mi>cm</mi></math><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced separators=\"|\"><mrow><mn>0.2</mn><mo>+</mo><mn>0.0150</mn></mrow></mfenced><mo>&#160;</mo><mi>cm</mi><mo>=</mo><mn>0.2150</mn><mi>&#160;</mi><mi>cm</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d6626d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (15 Apr Shift 1 Online)",
+    "paper_year_short": "2018 (15 Apr Shift 1 Online)",
+    "held_on": "2018-04-15T09:00:00.000Z",
+    "question_text": "In a screw gauge, 5 complete rotations of the screw cause it to move a linear distance of $0.25$ $\\mathrm{cm}$. There are 100 circular scale divisions. The thickness of a wire measured by this screw gauge gives a reading of 4 main scale divisions and 30 circular scale divisions. Assuming negligible zero error, the thickness of the wire is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0UiGH",
+        "text": "\n$0.0430 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "C6uxL",
+        "text": "\n$0.3150 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "2iz2V",
+        "text": "\n$0.4300 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "kDm0Z",
+        "text": "\n$0.2150 \\mathrm{~cm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kDm0Z",
+    "solution_text": "Least count\n$$\n=\\frac{\\text { Value of } 1 \\text { part on main scale }}{\\text { Number of parts on vernier scale }}\n$$\n$$\n=\\frac{0.25}{5 \\times 100} \\mathrm{~cm}=5 \\times 10^{-4} \\mathrm{~cm}\n$$\nReading $=4 \\times 0.05 \\mathrm{~cm}+30 \\times 5 \\times 10^{-4} \\mathrm{~cm}$ $=(0.2+0.0150) \\mathrm{cm}=0.2150 \\mathrm{~cm}$ (Thickness of wire)",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65ff6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2016 (03 Apr)",
+    "paper_year_short": "2016 (03 Apr)",
+    "held_on": "2016-04-03T09:00:00.000Z",
+    "question_text": "A screw gauge with a pitch of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.5&#160;</mn><mi>mm</mi></math> and a circular scale with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math> divisions is used to measure the thickness of a thin sheet of aluminium. Before starting the measurement, it is found that when the two jaws of the screw gauge are brought in contact, the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>45</mn><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> division coincides with the main scale line and that the zero of the main scale is barely visible. What is the thickness of the sheet if the main scale reading is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.5&#160;</mo><mi>mm</mi></math> and the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>25</mn><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> division coincides with the main scale line?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nFHUU",
+        "text": "<math><mn>0.70</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "38bLO",
+        "text": "<math><mn>0.50</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "LEnHO",
+        "text": "<math><mn>0.75</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "l6G5d",
+        "text": "<math><mn>0.80</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "l6G5d",
+    "solution_text": "<p><math><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">C</mi><mo>=</mo><mfrac><mrow><mn>0.5</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>=</mo><mn>0.01</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math><br /><br />Zero error <math><mo>=</mo><mn>0.50</mn><mo>-</mo><mn>0.45</mn><mo>=</mo><mo>-</mo><mn>0.05</mn></math><br /><br />Thickness <math><mo>=</mo><mfenced separators=\"|\"><mrow><mn>0.5</mn><mo>+</mo><mn>25</mn><mo>&#215;</mo><mn>0.01</mn></mrow></mfenced><mo>+</mo><mn>0.05</mn></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0.50</mn><mo>+</mo><mn>0.25</mn><mo>+</mo><mn>0.05</mn></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0.80</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65f38",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2015 (10 Apr Online)",
+    "paper_year_short": "2015 (10 Apr Online)",
+    "held_on": "2015-04-10T09:00:00.000Z",
+    "question_text": "Diameter of a steel ball is measured using a Vernier calipers which has divisions of 0.1 cm on its main scale (MS) and 10 divisions of its Vernier scale (VS) match 9 divisions on the main scale. Three such measurements for a ball are given as:\r<table border=\"1\">\r\t<tbody>\r\t\t<tr>\r\t\t\t<td>S.No.</td>\r\t\t\t<td>MS (cm)</td>\r\t\t\t<td>VS divisions</td>\r\t\t</tr>\r\t\t<tr>\r\t\t\t<td>1.</td>\r\t\t\t<td>0.5</td>\r\t\t\t<td>8</td>\r\t\t</tr>\r\t\t<tr>\r\t\t\t<td>2.</td>\r\t\t\t<td>0.5</td>\r\t\t\t<td>4</td>\r\t\t</tr>\r\t\t<tr>\r\t\t\t<td>3.</td>\r\t\t\t<td>0.5</td>\r\t\t\t<td>6</td>\r\t\t</tr>\r\t</tbody>\r</table>\r<br />\rIf the zero error is - 0.03 cm, then mean corrected diameter is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "n8y9Y",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>53</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "RLk4g",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>56</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "0QnK3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>59</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "KwLL5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>52</mn><mo>&#160;</mo><mi>cm</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "0QnK3",
+    "solution_text": "L.C. of Vernier calipers<br /><br /><math><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mn>1</mn><mi>&#160;</mi><mi>m</mi><mi>a</mi><mi>i</mi><mi>n</mi><mi>&#160;</mi><mi>s</mi><mi>c</mi><mi>a</mi><mi>l</mi><mi>e</mi><mi>&#160;</mi><mi>d</mi><mi>ivision</mi></mrow><mrow><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mi>&#160;</mi><mi>d</mi><mi>i</mi><mi>v</mi><mi>i</mi><mi>s</mi><mi>o</mi><mi>n</mi><mi>s</mi><mi>&#160;</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi>&#160;</mi><mi>s</mi><mi>c</mi><mi>a</mi><mi>l</mi><mi>e</mi><mi>&#160;</mi></mrow></mfrac><mi>&#160;</mi></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>0.1</mn><mn>10</mn></mfrac><mo>=</mo><mn>0.01</mn><mi mathvariant=\"normal\">&#160;</mi><mi>cm</mi></math><br /><br />Reading of Vernier calipers<br /><br /><math><mo>=</mo><mi>M</mi><mo>.</mo><mi>S</mi><mo>.</mo><mi>R</mi><mo>.</mo><mi>&#160;</mi><mo>+</mo><mfenced separators=\"|\"><mrow><mi>L</mi><mo>.</mo><mi>C</mi></mrow></mfenced><mo>&#215;</mo><mi>v</mi><mi>s</mi><mi>&#160;</mi><mi>d</mi><mi>i</mi><mi>v</mi><mi>i</mi><mi>s</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi>s</mi><mo>.</mo></math><br /><br /><math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>0.5</mn><mo>+</mo><mn>0.01</mn><mo>&#215;</mo><mn>8</mn></math><br /><br /><math><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>0.5</mn><mo>+</mo><mn>0.01</mn><mo>&#215;</mo><mn>4</mn></math><br /><br /><math><msub><mrow><mi>d</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>0.5</mn><mo>+</mo><mn>0.01</mn><mo>&#215;</mo><mn>6</mn></math><br /><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi></math> Measured diameter are respectively<br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.58</mo><mi mathvariant=\"normal\">&#160;</mi><mi>cm</mi><mo>&#160;&#160;</mo><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>.54</mo><mi mathvariant=\"normal\">&#160;</mi><mi>cm</mi><mo>,</mo><mo>&#160;&#160;</mo><mo>&#160;&#160;</mo><mn>0</mn><mo>.56</mo><mi mathvariant=\"normal\">&#160;</mi><mi>cm</mi></math><br /><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>a</mi><mi>v</mi><mi>e</mi><mi>r</mi><mi>a</mi><mi>g</mi><mi>e</mi><mi>&#160;</mi><mi>d</mi><mi>i</mi><mi>a</mi><mi>m</mi><mi>e</mi><mi>t</mi><mi>e</mi><mi>r</mi><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mn>0.58</mn><mi>&#160;</mi><mo>+</mo><mi>&#160;</mi><mn>0.54</mn><mi>&#160;</mi><mo>+</mo><mi>&#160;</mi><mn>0.56</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>&#160;</mi></math><br /><br /><math><mo>=</mo><mfrac><mrow><mn>1.68</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mn>0.56</mn></math><br /><br />Negative zero error is added in the average diameter to get the corrected diameter<br /><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>c</mi><mi>o</mi><mi>r</mi><mi>r</mi><mi>e</mi><mi>c</mi><mi>t</mi><mi>e</mi><mi>d</mi><mi>&#160;</mi><mi>d</mi><mi>i</mi><mi>a</mi><mi>m</mi><mi>e</mi><mi>t</mi><mi>e</mi><mi>r</mi><mo>=</mo><mn>0.56</mn><mo>-</mo><mo>(</mo><mo>-</mo><mn>0.03</mn><mo>)</mo></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0.56</mn><mo>+</mo><mn>0.03</mn><mo>=</mo><mn>0.59</mn><mi>&#160;</mi><mi>cm</mi></math>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65e92",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (19 Apr Online)",
+    "paper_year_short": "2014 (19 Apr Online)",
+    "held_on": "2014-04-19T09:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/01993d30-4071-4280-8a67-273f1a240e31-image.png\" style=\"width: 300px; height: 242px;\" /><br />In an experiment to determine the gravitational acceleration <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math> of a place with the help of a simple pendulum, the measured time period squared is plotted against the string length of the pendulum in the figure. What is the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math> at the place?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "t6BAX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "c8BWh",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>87</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "qe88v",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>91</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "6Dokm",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>81</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "c8BWh",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi><msqrt><mfrac><mi>L</mi><mi>g</mi></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>g</mi><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></msup><mi>L</mi></mrow><msup><mi>T</mi><mn>2</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>T</mi><mn>2</mn></msup><mi>L</mi></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup></mrow><mi>g</mi></mfrac><mo>=</mo><mi>tan&#952;</mi><mo>=</mo></math>slope of graph</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;&#160;&#160;</mo><mo>&#160;</mo><mi>g</mi><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></msup></mrow><mi>tan&#952;</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>tan&#952;</mi><mo>=</mo><mfrac><mrow><mn>8</mn><mo>&#8722;</mo><mn>2</mn></mrow><mtable columnalign=\"left\"><mtr><mtd><mn>2</mn><mo>&#8722;</mo><mn>0.5</mn></mtd></mtr></mtable></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>6</mn><mn>1.5</mn></mfrac><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>g</mi><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><msup><mrow><mo>(</mo><mn>3.14</mn><mo>)</mo></mrow><mn>2</mn></msup></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msup><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></msup><mo>=</mo><msup><mfenced><mrow><mn>3</mn><mo>.</mo><mn>1</mn><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>9</mn><mo>.</mo><mn>8</mn><mn>7</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65d2e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (06 Apr)",
+    "paper_year_short": "2014 (06 Apr)",
+    "held_on": "2014-04-06T09:00:00.000Z",
+    "question_text": "A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yRYdk",
+        "text": "A meter scale",
+        "image": null
+      },
+      {
+        "id": "BvUyO",
+        "text": "A vernier calliper where the 10 divisions in vernier scale matches with 9 division in main scale and main scale has 10 divisions in 1 cm",
+        "image": null
+      },
+      {
+        "id": "vIwfj",
+        "text": "A screw gauge having 100 divisions in the circular scale and pitch as 1 mm",
+        "image": null
+      },
+      {
+        "id": "6E1Pl",
+        "text": "A screw gauge having 50 divisions in the circular scale and pitch as 1 mm",
+        "image": null
+      }
+    ],
+    "correct_answer": "BvUyO",
+    "solution_text": "As per given data the Vernier has a least count of 0.01 cm, which is consistent with the information given in question.",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65c5e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (23 Apr Online)",
+    "paper_year_short": "2013 (23 Apr Online)",
+    "held_on": "2013-04-23T09:00:00.000Z",
+    "question_text": "Correct set up to verify Ohm's law is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UyCCx",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/l7CXisTF8glaHPxjGf6mRo5FAKzx6Ot6-9JVZv65Oco.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "TGNDJ",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/7XH9wiMq4s4GC-MIjWmczvI9idBaDpg8FakKy-4bUCQ.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "umK8V",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/Z5xodKkFjcdJA7SpEc_zWtF_IBREF76B4iu9B4PdBGY.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "kXMte",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/Fs-ee1YWZe2XCyM18tEJSAFWm6HvE-1YFk1T0Ioe7eA.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UyCCx",
+    "solution_text": "In ohm's law, we check $V=I R$ where $I$ is the corrent flowing through a resistor and $\\mathrm{V}$ is the potential difference across that resistor. Only option (a) fits the above criteria. Remember that ammeter is connected in series with resistance and voltmeter parallel with the resistance.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/n7zuUUDQEqIDoaTebgKA_rzUHZS1Tv0Hl34bIV7Jqm0.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65a50",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2012 (19 May Online)",
+    "paper_year_short": "2012 (19 May Online)",
+    "held_on": "2012-05-19T09:00:00.000Z",
+    "question_text": "$N$ divisions on the main scale of a vernier calliper coincide with $(N+1)$ divisions of the vernier scale. If each division of main scale is ' $a$ ' units, then the least count of the instrument is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZUSp4",
+        "text": "\n$a$\n",
+        "image": null
+      },
+      {
+        "id": "yU3IS",
+        "text": "\n$\\frac{a}{N}$\n",
+        "image": null
+      },
+      {
+        "id": "qq1Vv",
+        "text": "\n$\\frac{N}{N+1} \\times a$\n",
+        "image": null
+      },
+      {
+        "id": "jgrVS",
+        "text": "\n$\\frac{a}{N+1}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "jgrVS",
+    "solution_text": "No of divisions on main scale $=N$\nNo of divisions on vernier scale $=N+1$ size of main scale division $=a$\nLet size of vernier scale division be $b$ then we have\n$$\na N=b(N+1) \\Rightarrow \\mathrm{b}=\\frac{a N}{N+1}\n$$\nLeast count is $\\mathrm{a}-\\mathrm{b}=\\mathrm{a}-\\frac{a N}{N+1}$ $=a\\left[\\frac{N+1-N}{N+1}\\right]=\\frac{a}{N+1}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65b10",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2012 (Offline)",
+    "paper_year_short": "2012 (Offline)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "A spectrometer gives the following reading when used to measure the angle of a prism.\nMain scale reading: $58.5$ degree\nVernier scale reading : $09$ divisions\nGiven that $1$ division on main scale corresponds to $0.5$ degree. Total divisions on the vernier scale is $30$ and match with $29$ divisions of the main scale. The angle of the prism from the above data",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jSkAn",
+        "text": "\n$58.59^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "8FmrY",
+        "text": "\n$58.77^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "rPmqr",
+        "text": "\n$58.65^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "vRoOD",
+        "text": "\n$59^{\\circ}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "rPmqr",
+    "solution_text": "$\\mathrm{L.C} =\\frac{1}{60}$\nTotal Reading $=585+\\frac{9}{60}=58.65$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65934",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2011",
+    "paper_year_short": "2011",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A screw gauge gives the following reading when used to measure the diameter of a wire.\nMain scale reading : $0 \\mathrm{~mm}$\nCircular scale reading : 52 divisions\nGiven that $1 \\mathrm{~mm}$ on main scale corresponds to 100 divisions of the circular scale.\nThe diameter of wire from the above date is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bzTVi",
+        "text": "\n$0.052 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "NOKnL",
+        "text": "\n$0.026 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "rONll",
+        "text": "\n$0.005 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "VywgS",
+        "text": "\n$0.52 \\mathrm{~cm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "bzTVi",
+    "solution_text": "Diameter of wire $=\\frac{1}{100} \\times 52=0.52 \\mathrm{~mm}=0.052 \\mathrm{~cm}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65898",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2009",
+    "paper_year_short": "2009",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "In an experiment the angles are required to be measured using an instrument. 29 divisions of the main scale exactly coincide with the 30 divisions of the vernier scale. If the smallest division of the main scale is half-a-degree $\\left(=0.5^{\\circ}\\right)$, then the least count of the instrument is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lZFpK",
+        "text": "\none minute\n",
+        "image": null
+      },
+      {
+        "id": "nH5sh",
+        "text": "\nhalf minute\n",
+        "image": null
+      },
+      {
+        "id": "zyriS",
+        "text": "\none degree\n",
+        "image": null
+      },
+      {
+        "id": "1t1ev",
+        "text": "\nhalf degree",
+        "image": null
+      }
+    ],
+    "correct_answer": "lZFpK",
+    "solution_text": "$$\n\\text { Least count }=\\frac{\\text { value of main scale division }}{\\text { No of divisions on vernier scale }}=\\frac{1}{30} \\mathrm{MSD}=\\frac{1}{30} \\times \\frac{1}{2}^{\\circ}=\\frac{1}{60}^{\\circ}=1 \\text { minute }\n$$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65837",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2008",
+    "paper_year_short": "2008",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Two full turns of the circular scale of a screw gauge cover a distance of $1 \\mathrm{~mm}$ on its main scale. The total number of divisions on the circular scale is 50 . Further, it is found that the screw gauge has a zero error of $-0.03 \\mathrm{~mm}$ while measuring the diameter of a thin wire, a student notes the main scale reading of $3 \\mathrm{~mm}$ and the number of circular scale divisions in line with the main scale as 35 . The diameter of the wire is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8wV23",
+        "text": "\n$3.32 \\mathrm{~mm}$\n",
+        "image": null
+      },
+      {
+        "id": "rPkLd",
+        "text": "\n$3.73 \\mathrm{~mm}$\n",
+        "image": null
+      },
+      {
+        "id": "dgA23",
+        "text": "\n$3.67 \\mathrm{~mm}$\n",
+        "image": null
+      },
+      {
+        "id": "RiSDe",
+        "text": "\n$3.38 \\mathrm{~mm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "RiSDe",
+    "solution_text": "Diameter $=$ M.S.R. $+$ C.S.R $\\times$ L.C. $+$ Z.E. $=3+35 \\times(0.5 / 50)+0.03=3.38 \\mathrm{~mm}$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d6581b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2008",
+    "paper_year_short": "2008",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Shown in the figure below is a meter-bridge set up with null deflection in the galvanometer. \n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/rA8Bb_aRR7cQwzxUtjcKaJHQmkW2x9tbXNN2GXNzp7E.original.fullsize.png\"><br>\nThe value of the unknown resistor $R$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Em7xh",
+        "text": "\n$13.75 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "blWhT",
+        "text": "\n$220 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "NHGwt",
+        "text": "\n$110 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "FVXsj",
+        "text": "\n$55 \\Omega$",
+        "image": null
+      }
+    ],
+    "correct_answer": "blWhT",
+    "solution_text": "$$\n\\frac{55}{20}=\\frac{R}{80} \\Rightarrow R=\\frac{55 \\times 8}{2}=220 \\Omega\n$$",
+    "solution_image": null,
+    "topic": "Experimental Physics"
+  },
+  {
+    "question_id": "69d8073281239f6567c4f2ea",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (05 April Shift 1)",
+    "paper_year_short": "2026 (05 April Shift 1)",
+    "held_on": "2026-04-05T09:00:00.000Z",
+    "question_text": "In a Vernier calipers, when both jaws touch each other, zero of the Vernier scale is shifted to the right of zero of the main scale and $7^{\\text{th}}$ Vernier division coincides with a main scale reading. If the value of $1$ main scale division is $1$ mm and there are $10$ Vernier scale divisions, then the Vernier caliper has",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VU2UW",
+        "text": "$0.07$ cm negative zero error",
+        "image": null
+      },
+      {
+        "id": "zvIWy",
+        "text": "$0.7$ cm negative zero error",
+        "image": null
+      },
+      {
+        "id": "RC9eZ",
+        "text": "$0.07$ cm positive zero error",
+        "image": null
+      },
+      {
+        "id": "ReXmX",
+        "text": "$0.7$ cm positive zero error",
+        "image": null
+      }
+    ],
+    "correct_answer": "RC9eZ",
+    "solution_text": "Least count of the Vernier calipers is given by $\\text{LC} = \\dfrac{1 \\text{ MSD}}{\\text{Number of VSD}}$.<br><br>Substituting the given values, $\\text{LC} = \\dfrac{1 \\text{ mm}}{10} = 0.1 \\text{ mm} = 0.01 \\text{ cm}$.<br><br>Since the zero of the Vernier scale is shifted to the right of the zero of the main scale, the zero error is positive.<br><br>The zero error is calculated as $+ (n \\times \\text{LC})$, where $n$ is the coinciding Vernier division.<br><br>Given that the $7^{\\text{th}}$ Vernier division coincides with a main scale reading, $n = 7$.<br><br>Zero error $= + (7 \\times 0.01 \\text{ cm}) = + 0.07 \\text{ cm}$.<br><br>Therefore, the Vernier caliper has a $0.07 \\text{ cm}$ positive zero error.<br><br>Answer: $0.07$ cm positive zero error",
+    "solution_image": null,
+    "topic": "Vernier Callipers"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "question_id": "685102be6bba689a3eb09c84",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Length, breadth and thickness of a strip having a uniform cross section are measured to be 10.5 cm , 0.05 mm , and $6.0 \\mu \\mathrm{~m}$, respectively. Which of the following option(s) give(s) the volume of the strip in $\\mathrm{cm}^3$ with correct significant figures:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Y9lxp",
+        "text": "$3.2 \\times 10^{-5}$",
+        "image": null
+      },
+      {
+        "id": "IIIwX",
+        "text": "$32.0 \\times 10^{-6}$",
+        "image": null
+      },
+      {
+        "id": "vvixE",
+        "text": "$3.0 \\times 10^{-5}$",
+        "image": null
+      },
+      {
+        "id": "hxWR1",
+        "text": "$3 \\times 10^{-5}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hxWR1",
+    "solution_text": "$\\mathrm{L}=10.5 \\mathrm{~cm} \\rightarrow 3$ significant digits\n$\\mathrm{b}=0.05 \\mathrm{~cm} \\rightarrow 1$ significant digit\n$\\mathrm{t}=6.0 \\mu \\mathrm{~m} \\rightarrow 2$ significant digits\nVolume, $\\mathrm{V}=$ Lbt must have only 1 significant digit\n$\\begin{aligned}\n& \\Rightarrow \\mathrm{V}=10.5 \\times 0.05 \\times 10^{-1} \\times 6.0 \\times 10^{-4} \\mathrm{~cm}^3 \\\\\n& =3 \\times 10^{-5} \\mathrm{cc}\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "66965dd7d603121f43a40d15",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "The dimensions of a cone are measured using a scale with a least count of $2 \\mathrm{~mm}$. The diameter of the base and the height are both measured to be $20.0 \\mathrm{~cm}$. The maximum percentage error in the determination of the volume is _______ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 3,
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QMyMlsC7bx2Hqzr6BA5DakVMNgnT1DYjAMskB0b3FFE.original.fullsize.png\">\n$\\mathrm{V}=\\frac{1}{3} \\pi\\left(\\frac{\\mathrm{D}}{2}\\right)^2 \\mathrm{H}$\n$\\therefore \\%$ Error in $\\mathrm{V}=2$ (% error in $\\mathrm{D})+\\%$ error in $\\mathrm{H}$.\n$\\because$ Least count is $2 \\mathrm{~mm}$.\n$\\therefore \\%$ error in D $=\\frac{2 \\mathrm{~mm}}{20 \\mathrm{~cm}} \\times 100 \\%=1 \\%$\n& % error in $\\mathrm{H}=\\frac{2 \\mathrm{~mm}}{20 \\mathrm{~cm}} \\times 100 \\%=1 \\%$\nSo $\\%$ error in $\\mathrm{V}=2 \\times 1 \\%+1 \\%=3 \\%$",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16aa1f23ac7d519f9b629",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the lens is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#177;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math> and the distance of its real image from the lens is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#177;</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math>. The error in the determination of focal length of the lens is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>%</mo></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<blockquote><p>Given:</p><p>Object distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>&#177;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Image distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>20</mn><mo>&#177;</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>As per lens formula</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>v</mi></mfrac><mo>-</mo><mfrac><mn>1</mn><mi>u</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><mi>f</mi></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mfenced><mrow><mo>-</mo><mn>10</mn></mrow></mfenced></mfrac><mo>=</mo><mfrac><mn>1</mn><mi>f</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>f</mi><mo>=</mo><mfrac><mn>20</mn><mn>3</mn></mfrac><mo>&#160;</mo><mi>cm</mi></math></p><p>Differentiate equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math>&nbsp;on both sides, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mfrac><mn>1</mn><msup><mi>v</mi><mn>2</mn></msup></mfrac></mrow></mfenced><mi>d</mi><mi>v</mi><mo>-</mo><mfenced><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><msup><mi>u</mi><mn>2</mn></msup></mfrac></mfenced><mi>d</mi><mi>u</mi><mo>=</mo><mfenced><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><msup><mi>f</mi><mn>2</mn></msup></mfrac></mfenced><mi>d</mi><mi>f</mi></math></p><p>For calculating maximum error, we will add all values</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><msup><mi>f</mi><mn>2</mn></msup></mfrac><mi>d</mi><mi>f</mi><mo>=</mo><mo>+</mo><mfrac><mn>1</mn><msup><mi>v</mi><mn>2</mn></msup></mfrac><mi>d</mi><mi>v</mi><mo>+</mo><mfrac><mn>1</mn><msup><mi>u</mi><mn>2</mn></msup></mfrac><mi>d</mi><mi>u</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mfrac><mrow><mi>d</mi><mi>f</mi></mrow><mi>f</mi></mfrac></mfenced><mo>&#215;</mo><mn>100</mn><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><mfenced><mrow><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow><msup><mn>20</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow><msup><mn>10</mn><mn>2</mn></msup></mfrac></mrow></mfenced><mfrac><mn>20</mn><mn>3</mn></mfrac></mrow></mfenced><mo>&#215;</mo><mn>100</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow><mn>1</mn></mfrac></mrow></mfenced><mfrac><mn>20</mn><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></math></p><p>Therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>f</mi></mrow><mi>f</mi></mfrac><mo>&#215;</mo><mn>100</mn><mo>=</mo><mn>1</mn><mo>%</mo><mo>=</mo><mi>n</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a83f23ac7d519f9b51a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Two capacitors with capacitance values <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub><mo>=</mo><mfenced><mrow><mn>2000</mn><mo>&#177;</mo><mn>10</mn></mrow></mfenced><mo>&#160;</mo><mi>pF</mi></math>&nbsp; and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub><mo>=</mo><mfenced><mrow><mn>3000</mn><mo>&#177;</mo><mn>15</mn></mrow></mfenced><mo>&#160;</mo><mi>pF</mi></math>&nbsp;are connected in series. The voltage applied across this combination is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mfenced><mrow><mn>5</mn><mo>.</mo><mn>00</mn><mo>&#177;</mo><mn>0</mn><mo>.</mo><mn>02</mn></mrow></mfenced><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>. The percentage error in the calculation of the energy stored in this combination of capacitors is __________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.3",
+    "solution_text": "<p>For the purpose of calculation of error, fundamental formula is considered</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>C</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>2</mn></msub></mfrac><mo>&#8658;</mo><mi>C</mi><mo>=</mo><mn>1200</mn><mo>&#160;</mo><mi>p</mi><mi>F</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mrow><mi>d</mi><mi>C</mi></mrow><msubsup><mi>C</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>=</mo><mo>-</mo><mfrac><mrow><mi>d</mi><msub><mi>C</mi><mn>1</mn></msub></mrow><msubsup><mi>C</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>-</mo><mfrac><mrow><mi>d</mi><msub><mi>C</mi><mn>2</mn></msub></mrow><msubsup><mi>C</mi><mn>2</mn><mn>2</mn></msubsup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mi>C</mi><mo>=</mo><mn>6</mn><mo>&#160;</mo><mi>p</mi><mi>F</mi></math></p><p>Equivalent capacitance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>1200</mn><mo>&#177;</mo><mn>6</mn></mrow></mfenced><mo>&#160;</mo><mi>pF</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mn>1</mn><mo>/</mo><mn>2</mn><mo>&#160;</mo><msup><mi>CV</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>d</mi><mi>E</mi><mo>/</mo><mi>E</mi><mo>=</mo><mi>d</mi><mi>C</mi><mo>/</mo><mi>C</mi><mo>+</mo><mn>2</mn><mi>d</mi><mi>V</mi><mo>/</mo><mi>V</mi><mo>)</mo><mo>&#215;</mo><mn>100</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>3</mn><mo>%</mo></math></p>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a66f23ac7d519f9b40e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> If the measurement errors in all the independent quantities are known, then it is possible to determine the error in any dependent quantity. This is done by the use of series expansion and truncating the expansion at the first power of the error. For example, consider the relation <math><mi>z</mi><mi>&#160;</mi><mo>=</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>y</mi></mrow></mfrac></math>. If the errors in <math><mi>x</mi><mo>,</mo><mi>&#160;</mi><mi>y</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mi>z</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi>&#160;</mi><mo>&#8710;</mo><mi>x</mi><mo>,</mo><mi>&#160;</mi><mo>&#8710;</mo><mi>y</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mo>&#8710;</mo><mi>z</mi></math> , respectively, then<br /><br /><math><mi>z</mi><mo>&#177;</mo><mo>&#8710;</mo><mi>z</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#177;</mo><mo>&#8710;</mo><mi>x</mi></mrow><mrow><mi>y</mi><mo>&#177;</mo><mo>&#8710;</mo><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>y</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>&#177;</mo><mfrac><mrow><mo>&#8710;</mo><mi>x</mi></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mfenced><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>&#177;</mo><mfrac><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br /><br />The series expansion for <math><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>&#177;</mo><mfrac><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, to first power in <math><mrow><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mo>/</mo><mrow><mi>y</mi></mrow></mrow><mo>,</mo><mi>&#160;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi>&#160;</mi><mn>1</mn><mo>&#8723;</mo><mfenced separators=\"|\"><mrow><mrow><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mo>/</mo><mrow><mi>y</mi></mrow></mrow></mrow></mfenced></math>. The relative errors in independent variables are always added. So the error in <math> <mi>z</mi> </math> will be<br /><br /><math> <mrow> <mtext>&#916;</mtext><mi>z</mi><mo>=</mo><mi>z</mi><mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mtext>&#916;</mtext><mi>x</mi></mrow> <mi>x</mi> </mfrac> <mo>+</mo><mfrac> <mrow> <mtext>&#916;</mtext><mi>y</mi></mrow> <mi>y</mi> </mfrac> </mrow> <mo>)</mo></mrow><mo>.</mo></mrow> </math><br />The above derivation makes the assumption that \\(\\Delta r / x \\ll 1, \\Delta y / y < 1\\). Therefore, the higher powers of these quantities are neglected.<br> <strong> Question : </strong> Consider the ratio \\(r=\\frac{(1-a)}{(1+a)}\\) to be determined by measuring a dimensionless quantity a If the error in the measurement of a is \\(\\Delta a(\\frac{\\Delta a}{a}<<1)\\), then what is the error \\(\\Delta r\\) in determining \\(r\\) ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cb6Dn",
+        "text": "<math><mfrac><mrow><mo>&#8710;</mo><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "lnzyY",
+        "text": "<math><mfrac><mrow><mn>2</mn><mo>&#8710;</mo><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "THo9K",
+        "text": "<math><mfrac><mrow><mn>2</mn><mo>&#8710;</mo><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "HrGPU",
+        "text": "<math><mfrac><mrow><mn>2</mn><mi>a</mi><mo>&#8710;</mo><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lnzyY",
+    "solution_text": "<math><mi>r</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfrac></mrow></mfenced></math><br /><math><mfrac><mrow><mo>&#8710;</mo><mi>r</mi></mrow><mrow><mi>r</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>&#8710;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced><mi>&#160;</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced></mrow></mfrac><mo>+</mo><mfrac><mrow><mo>&#8710;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow></mfrac></math><br /><math><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mo>&#8710;</mo><mi>a</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced></mrow></mfrac><mo>+</mo><mfrac><mrow><mo>&#8710;</mo><mi>a</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow></mfrac></math><br /><math><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mo>&#8710;</mo><mi>a</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow></mfrac></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mo>&#8710;</mo><mi>r</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&#8710;</mo><mi>a</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow></mfrac><mfrac><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&#8710;</mo><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>a</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a5ef23ac7d519f9b3cc",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "A person measures the depth of a well by measuring the time interval between dropping a stone and receiving the sound of impact with the bottom of the well. The error in his measurement of time is <math><mi>&#948;</mi><mi>T</mi><mo>=</mo><mn>0.01</mn></math> seconds and he measures the depth of the well to be L = 20 meters. Take the acceleration due to gravity <math><mi>g</mi><mo>=</mo><mn>10</mn><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> and the velocity of sound is <math><mn>300</mn><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . Then the fractional error in the measurement, <math><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></math> , is closest to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rdk48",
+        "text": "0.2%",
+        "image": null
+      },
+      {
+        "id": "I0zLC",
+        "text": "5%",
+        "image": null
+      },
+      {
+        "id": "z2mPr",
+        "text": "3%",
+        "image": null
+      },
+      {
+        "id": "e6sNV",
+        "text": "1%",
+        "image": null
+      }
+    ],
+    "correct_answer": "e6sNV",
+    "solution_text": "<p>Total time taken,</p><p><math><mi>T</mi><mo>=</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>g</mi></mrow></mfrac></msqrt><mo>+</mo><mfrac><mrow><mi>L</mi></mrow><mrow><mi>c</mi></mrow></mfrac></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math>&nbsp;is the sound speed in air.</p><p>Now, for an error&nbsp;<math><mi>&#948;</mi><mi>L</mi></math> in L,</p><p>We have an error&nbsp;<math><mi>&#948;</mi><mi>T</mi></math> in T</p><p>So,&nbsp;<math><mi>T</mi><mo>+</mo><mi>&#948;</mi><mi>T</mi><mo>=</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mi>L</mi><mo>+</mo><mi>&#948;</mi><mi>L</mi></mrow></mfenced></mrow><mrow><mi>g</mi></mrow></mfrac></msqrt><mo>+</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><mi>L</mi><mo>+</mo><mi>&#948;</mi><mi>L</mi></mrow></mfenced></mrow><mrow><mi>c</mi></mrow></mfrac><mi>&#160;</mi></math></p><p><math><mo>=</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>g</mi></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></msqrt><mo>+</mo><mfrac><mrow><mi>L</mi></mrow><mrow><mi>c</mi></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></math></p><p>Since,&nbsp;<math><mfrac><mrow><mi>&#948;</mi><mi>T</mi></mrow><mrow><mi>T</mi></mrow></mfrac></math> is very small, hence</p><p><math><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></math>&nbsp; is also small, so taking binomial approximation</p><p><math><mi>T</mi><mo>+</mo><mi>&#948;</mi><mi>T</mi><mo>=</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>g</mi></mrow></mfrac></msqrt><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced><mo>+</mo><mfrac><mrow><mi>L</mi></mrow><mrow><mi>c</mi></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>T</mi><mo>+</mo><mi>&#948;</mi><mi>T</mi><mo>=</mo><mfenced separators=\"|\"><msqrt><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mi>g</mi></mfrac></msqrt></mfenced><mo>+</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mi>g</mi></mfrac></msqrt><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mfrac><mi>L</mi><mi>c</mi></mfrac></mfenced><mo>+</mo><mfrac><mi>L</mi><mi>c</mi></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#948;</mi><mi>T</mi><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mi>g</mi></mfrac></msqrt><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac></mrow></mfenced><mo>+</mo><mfrac><mi>L</mi><mi>c</mi></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#948;</mi><mi>T</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><msqrt><mfrac><mi>L</mi><mrow><mn>2</mn><mi>g</mi></mrow></mfrac></msqrt><mo>+</mo><mfenced separators=\"|\"><mfrac><mi>L</mi><mi>c</mi></mfrac></mfenced></mrow></mfenced><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><msqrt><mfrac><mn>20</mn><mrow><mn>2</mn><mo>&#215;</mo><mn>10</mn></mrow></mfrac></msqrt><mo>+</mo><mfenced separators=\"|\"><mfrac><mn>20</mn><mn>300</mn></mfrac></mfenced></mrow></mfenced><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>15</mn></mfrac></mrow></mfenced><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mi>L</mi></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>15</mn></mrow><mn>16</mn></mfrac></math></p><p><math><mi>%</mi><mi>&#160;</mi><mi>&#160;</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">r</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>&#948;</mi><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced><mo>&#215;</mo><mn>100</mn><mi>%</mi></math></p><p><math><mo>=</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mn>16</mn></mrow></mfrac><mi>%</mi></math></p><p><math><mo>&#8776;</mo><mn>1</mn><mi>%</mi></math></p>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a53f23ac7d519f9b363",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "In an experiment to determine the acceleration due to gravity g, the formula used for the time period of a periodic motion is <math><mi>T</mi><mo>=</mo><mn>2</mn><mi>&#960;</mi><msqrt><mfrac><mrow><mn>7</mn><mfenced separators=\"|\"><mrow><mi>R</mi><mo>-</mo><mi>r</mi></mrow></mfenced></mrow><mrow><mn>5</mn><mi>g</mi></mrow></mfrac></msqrt><mo>.</mo></math> The values of R and r are measured to be <math><mfenced separators=\"|\"><mrow><mn>60</mn><mo>&#177;</mo><mn>1</mn></mrow></mfenced><mi>&#160;</mi><mi>m</mi><mi>m</mi><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>10</mn><mo>&#177;</mo><mn>1</mn></mrow></mfenced><mi>m</mi><mi>m</mi><mo>,</mo><mi>&#160;</mi></math> respectively. In five successive measurements, the time period is found to be 0.52s, 0.56s, 0.57s, 0.54s and 0.59s. The least count of the watch used for the measurement of time period is 0.01s. Which of the following statements (s) is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6IMrg",
+        "text": "The error in the measurement of r is 10%.",
+        "image": null
+      },
+      {
+        "id": "Z0msv",
+        "text": "The error in the measurement of T is 3.57 %.",
+        "image": null
+      },
+      {
+        "id": "NiQq4",
+        "text": "The error in the measurement of T is 2%.",
+        "image": null
+      },
+      {
+        "id": "V0iFE",
+        "text": "The error in the determined value of g is 11%.",
+        "image": null
+      }
+    ],
+    "correct_answer": "V0iFE",
+    "solution_text": "<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>T</td>\t\t\t<td>Absolute error</td>\t\t</tr>\t\t<tr>\t\t\t<td>1</td>\t\t\t<td>0.52</td>\t\t\t<td><math><mo>-</mo><mi>&#160;</mi><mn>0.04</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>2</td>\t\t\t<td>0.56</td>\t\t\t<td>00</td>\t\t</tr>\t\t<tr>\t\t\t<td>3</td>\t\t\t<td>0.57</td>\t\t\t<td><math><mo>+</mo><mi>&#160;</mi><mn>0.01</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>4</td>\t\t\t<td>0.54</td>\t\t\t<td><math><mo>-</mo><mn>0.02</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>5</td>\t\t\t<td>0.59</td>\t\t\t<td><math><mo>+</mo><mn>0.03</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><msub><mrow><mi>T</mi></mrow><mrow><mi>a</mi><mi>v</mi><mi>g</mi></mrow></msub><mo>=</mo><mn>0.556</mn></math> <math><mo>=</mo><mn>0.56</mn></math></td>\t\t\t<td>&nbsp;</td>\t\t</tr>\t</tbody></table><p><br /><br />Avg. absolute error <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>0</mn><mo>.</mo><mn>04</mn><mo>+</mo><mn>0</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>01</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>02</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>03</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>02</mn></math><br />Percentage error in time period<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mo>&#8710;</mo><mi>T</mi></mrow><mi>T</mi></mfrac><mo>&#215;</mo><mn>100</mn><mi>%</mi><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>02</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>56</mn></mrow></mfrac><mo>&#215;</mo><mn>100</mn><mi>%</mi><mo>&#8776;</mo><mn>3.57</mn><mi>%</mi></math><br />Percentage error in radius<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mo>&#8710;</mo><mi>r</mi></mrow><mi>r</mi></mfrac><mo>&#215;</mo><mn>100</mn><mi>%</mi><mo>=</mo><mfrac><mn>1</mn><mn>10</mn></mfrac><mo>&#215;</mo><mn>100</mn><mo>=</mo><mn>10</mn><mi>%</mi></math><br />Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>=</mo><mfrac><mrow><mn>28</mn><mi>&#960;</mi><mfenced><mrow><mi>R</mi><mo>-</mo><mi>r</mi></mrow></mfenced></mrow><mrow><mn>5</mn><msup><mi>T</mi><mn>2</mn></msup></mrow></mfrac></math></p><p>Percentage error in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math>,=<math><mfrac><mrow><mo>&#8710;</mo><mi>g</mi></mrow><mrow><mi>g</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>&#8710;</mo><mi>R</mi><mo>+</mo><mo>&#8710;</mo><mi>r</mi></mrow><mrow><mi>R</mi><mo>-</mo><mi>r</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>2</mn><mo>&#8710;</mo><mi>T</mi></mrow><mrow><mi>T</mi></mrow></mfrac></math><br /><math><mfrac><mrow><mo>&#8710;</mo><mi>g</mi></mrow><mrow><mi>g</mi></mrow></mfrac><mo>&#215;</mo><mn>100</mn><mi>%</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><mn>1</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>&#215;</mo><mn>100</mn><mi>%</mi><mo>+</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>3.57</mn></mrow></mfenced><mi>%</mi></math><math><mo>&#8776;</mo><mn>11</mn><mi>%</mi></math></p>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a46f23ac7d519f9b2ed",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "The energy of a system as a function of time <math><mi mathvariant=\"normal\">t</mi></math> is given as <math><mi mathvariant=\"normal\">E</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mo>-</mo><mi mathvariant=\"normal\">&#945;</mi><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math> , where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>0.2</mn><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . The measurement of <math><mi mathvariant=\"normal\">A</mi></math> has an error of 1.25%. If the error in the measurement of time is 1.50%, the percentage error in the value of <math><mi mathvariant=\"normal\">E</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></math> at <math><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>5</mn></math> s is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Energy <math><mi mathvariant=\"normal\">E</mi><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> <br >For small % errors, we can, do differentiation <br > <math><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">E</mi><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">A</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">A</mi></mrow></mfenced><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math> <br >Fractional error  <math><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">E</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">A</mi></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></mrow></mfenced><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></mrow></mfrac><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfrac></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfrac></mrow></mfenced><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\"> </mi></math> <br >% error  <math><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>1.25</mn><mi mathvariant=\"normal\">%</mi></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mn>0.2</mn><mo>×</mo><mn>1.5</mn><mi mathvariant=\"normal\">%</mi></mrow></mfenced><mo>×</mo><mn>5</mn></math> <br > <math><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">%</mi></math>  (errors always add up)<br >Alternate solution:<br > <math><mi mathvariant=\"normal\">E</mi><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> <br >Taking natural logarithm on both sides,<br > <math><mi mathvariant=\"script\">l</mi><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">E</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"script\">l</mi><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math> <br >Differentiating<br > <math><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">E</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfrac></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math> <br >For small fractional erros, errors always add up<br > <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">E</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfrac></mrow></mfenced><mo>+</mo><mi mathvariant=\"normal\">α</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfrac></mrow></mfenced><mo>×</mo><mi mathvariant=\"normal\">t</mi></math> <br > <math><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>1.25</mn><mi mathvariant=\"normal\">%</mi></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mn>0.2</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>1.5</mn><mi mathvariant=\"normal\">%</mi></mrow></mfenced><mn>5</mn><mi mathvariant=\"normal\"> </mi></math> <br > <math><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">%</mi></math>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a2bf23ac7d519f9b1fa",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "Using the expression&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>d</mi><mo>&#160;</mo><mi>sin</mi><mo>&#160;</mo><mi>&#952;</mi><mo>=</mo><mi>&#955;</mi></math>, one calculates the values of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math> by measuring the corresponding angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#952;</mtext></math> in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn><mo>&#176;</mo></math>. The wavelength <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi></math>&nbsp;is exactly known and the error in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi></math> is constant for all the values of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi></math>. As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#952;</mtext></math>&nbsp;increases from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#176;</mo></math><span style=\"font-size: 10.8333px;\">,</span>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "t6STk",
+        "text": "the absolute error in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math> remains constant.",
+        "image": null
+      },
+      {
+        "id": "QFUZY",
+        "text": "the absolute error in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>increases.",
+        "image": null
+      },
+      {
+        "id": "Rqcqw",
+        "text": "the fractional error in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math> remains constant.",
+        "image": null
+      },
+      {
+        "id": "Ke5IB",
+        "text": "the fractional error in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math> decreases.",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ke5IB",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>d</mi><mtext>&#160;sin</mtext><mi>&#160;&#952;</mi><mo>=</mo><mi>&#955;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mfrac><mi>&#955;</mi><mrow><mtext>2 sin</mtext><mi>&#160;&#952;</mi></mrow></mfrac></math><br />Differentiate on both the sides,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8706;</mo><mfenced><mi>d</mi></mfenced><mo>=</mo><mfrac><mi>&#955;</mi><mn>2</mn></mfrac><mo>&#8706;&#160;</mo><mfenced><mrow><mtext>cosec</mtext><mi>&#160;&#952;</mi></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8706;</mo><mfenced><mi>d</mi></mfenced><mo>=</mo><mfrac><mi>&#955;</mi><mn>2</mn></mfrac><mfenced><mrow><mo>-</mo><mtext>cosec&#160;</mtext><mi>&#952;&#160;</mi><mtext>cot</mtext><mi>&#160;&#952;</mi></mrow></mfenced><mo>&#8706;</mo><mi>&#952;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8706;</mo><mfenced><mi>d</mi></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><mi>&#955;</mi><mtext>&#160;cos&#160;</mtext><mi>&#160;&#952;</mi></mrow><mrow><mn>2&#160;</mn><msup><mtext>sin</mtext><mn>2</mn></msup><mi>&#160;&#952;</mi></mrow></mfrac><mo>&#8706;</mo><mi>&#952;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#160;&#952;</mi><mo>=</mo></math>increases and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>&#955;</mi><mo>&#160;</mo><mtext>cos</mtext><mo>&#160;</mo><mi>&#952;</mi></mrow><mrow><mn>2</mn><mo>&#160;</mo><msup><mtext>sin</mtext><mn>2</mn></msup><mo>&#160;</mo><mi>&#952;</mi></mrow></mfrac></math>&nbsp;decreases.<br /><u><strong>Alternate solution</strong></u><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mfrac><mi>&#955;</mi><mrow><mtext>2 sin</mtext><mi>&#160;&#952;</mi></mrow></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#8467;</mi><mi>n</mi><mo>&#160;</mo><mi>d</mi><mo>=</mo><mi>&#8467;</mi><mi>n</mi><mo>&#160;</mo><mi>&#955;</mi><mo>-</mo><mi>&#8467;</mi><mi>n</mi><mo>&#160;</mo><mn>2</mn><mo>-</mo><mi>&#8467;</mi><mi>n</mi><mtext>&#160;sin</mtext><mi>&#160;&#952;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>&#916;</mo><mfenced><mi>d</mi></mfenced></mrow><mi>d</mi></mfrac><mo>=</mo><mn>0</mn><mo>-</mo><mn>0</mn><mo>-</mo><mfrac><mn>1</mn><mrow><mtext>sin</mtext><mi>&#160;&#952;</mi></mrow></mfrac><mo>&#215;</mo><mtext>cos</mtext><mi>&#160;&#952;</mi><mfenced><mrow><mo>&#916;</mo><mtext>&#952;</mtext></mrow></mfenced></math><br />Fractional error,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"|\" close=\"|\"><mrow><mo>+</mo><mfenced><mi>d</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced open=\"|\" close=\"|\"><mrow><mtext>cot</mtext><mi>&#160;&#952;</mi><mo>&#916;</mo><mi>&#952;</mi></mrow></mfenced></math><br />Absolute error,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#916;</mo><mi>d</mi><mo>=</mo><mfenced><mrow><mi>d</mi><mtext>&#160;cot</mtext><mi>&#160;&#952;</mi></mrow></mfenced><mo>&#916;</mo><mi>&#952;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>d</mi><mrow><mn>2</mn><mtext>sin</mtext><mi>&#160;&#952;</mi></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><mtext>cos</mtext><mi>&#160;&#952;</mi></mrow><mrow><mtext>sin</mtext><mi>&#160;&#952;</mi></mrow></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#916;</mo><mi>d</mi><mo>=</mo><mfrac><mrow><mtext>cos</mtext><mi>&#160;&#952;</mi></mrow><mrow><msup><mtext>sin</mtext><mn>2</mn></msup><mi>&#160;&#952;</mi></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a18f23ac7d519f9b146",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "In the determination of Young's modulus $\\left(Y=\\frac{4 M L g}{\\pi l d^{2}}\\right)$ by using Searle's method, a wire of length $L=2 \\mathrm{~m}$ and diameter $d=0.5 \\mathrm{~mm}$ is used. For a load $M=2.5 \\mathrm{~kg}$, an extension $l=0.25 \\mathrm{~mm}$ in the length of the wire is observed. Quantities $d$ and $l$ are measured using a screw gauge and a micrometer, respectively. They have the same pitch of $0.5 \\mathrm{~mm}$. The number of divisions on their circular scale is 100 . The contributions to the maximum probable error of the $Y$ measurement",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZuXsA",
+        "text": "due to the errors in the measurements of $d$ and $l$ are the same.",
+        "image": null
+      },
+      {
+        "id": "SHGkb",
+        "text": "due to the error in the measurement of $d$ is twice that due to the error in the measurement of $l$.",
+        "image": null
+      },
+      {
+        "id": "O8Dxs",
+        "text": "due to the error in the measurement of $l$ is twice that due to the error in the measurement of $d$.",
+        "image": null
+      },
+      {
+        "id": "1Zheq",
+        "text": "due to the error in the measurement of $d$ is four times that due to the error in the measurement of $l$.",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZuXsA",
+    "solution_text": "The maximum possible error in $Y$ due to $l$ and $d$ $\\frac{\\Delta Y}{Y}=\\frac{\\Delta l}{l}+\\frac{2 \\Delta d}{d}$ Least count $=\\frac{\\text { Pitch }}{\\text { No. of division on circular scale }}$ $=\\frac{0.5}{100} \\mathrm{~mm}=0.005 \\mathrm{~mm}$\r\n\r\nHere, $\\Delta d=\\Delta l=0.005 \\mathrm{~mm}$\r\n\r\nError contribution of $l=\\frac{\\Delta l}{l}=\\frac{0.005 \\mathrm{~mm}}{0.25 \\mathrm{~mm}}=\\frac{1}{50}$\r\n\r\nError contribution of\r\n\r\n$d=\\frac{2 \\Delta d}{d}=\\frac{2 \\times 0.005 \\mathrm{~mm}}{0.5 \\mathrm{~mm}}=\\frac{1}{50}$\r\n\r\nHence contribution to the maximum possible error in the measurement of $y$ due to $l$ and $d$ is the same.",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b16a11f23ac7d519f9b10c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "The density of a solid ball is to be determined in an experiment. The diameter of the ball is measured with a screw gauge, whose pitch is $0.5 \\mathrm{~mm}$ and there are 50 divisions on the circular scale. The reading on the main scale is $2.5 \\mathrm{~mm}$ and that on the circular scale is 20 divisions. If the measured mass of the ball has a relative error of $2 \\%$, the relative percentage error in the density is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NGJgr",
+        "text": "\n$0.9 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "fNx4I",
+        "text": "\n$2.4 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "3fgJ2",
+        "text": "\n$3.1 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "bElhD",
+        "text": "\n$4.2 \\%$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3fgJ2",
+    "solution_text": "Least count of screw gauge $=\\frac{0.5}{50}$\n$$\n=0.01 \\mathrm{~mm}=\\Delta r\n$$\nDiameter, $r=2.5 \\mathrm{~mm}+20 \\times \\frac{0.5}{50}$\n$$\n=270 \\mathrm{~mm}\n$$\n$$\n\\frac{\\Delta r}{r}=\\frac{0.01}{2.70}\n$$\nor $\\frac{\\Delta r}{r} \\times 100=\\frac{1}{2.7}$\nNow, density $d=\\frac{m}{V}=\\frac{m}{\\frac{4}{3} \\pi\\left(\\frac{r}{2}\\right)^3}$\nHere, $r$ is the diameter.\n$$\n\\begin{aligned}\n\\therefore \\quad \\frac{\\Delta d}{d} & \\times 100=\\left\\{\\frac{\\Delta m}{m}+3\\left(\\frac{\\Delta r}{r}\\right)\\right\\} \\times 100 \\\\\n= & \\frac{\\Delta m}{m} \\times 100+3 \\times\\left(\\frac{\\Delta r}{r}\\right) \\times 100\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n& =2 \\%+3 \\times \\frac{1}{27} \\\\\n& =3.11 \\%\n\\end{aligned}\n$$\nAnalysis of Question\n(i) Question is moderately difficult.\n(ii) In practical part, questions in JEE are asked from vernier callipers and screw gauge.",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b169fbf23ac7d519f9b040",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A student uses a simple pendulum of exactly $1 \\mathrm{~m}$ length to determine $g$, the acceleration due to gravity. He uses a stop watch with the least count of $1 \\mathrm{~s}$ for this and records $40 \\mathrm{~s}$ for 20 oscillations. For this observation, which of the following statement(s) is/are true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LySd3",
+        "text": "\nError $\\Delta T$ in measuring $T$, the time period, is $0.05 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "azW4q",
+        "text": "\nError $\\Delta T$ in measuring $T$, the time period, is $1 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "65q8F",
+        "text": "\nPercentage error in the determination of $g$ is $5 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "yexg9",
+        "text": "\nPercentage error in the determination of $g$ is $2.5 \\%$",
+        "image": null
+      }
+    ],
+    "correct_answer": "65q8F",
+    "solution_text": "$T=\\frac{40 \\mathrm{~s}}{20}=2 \\mathrm{~s}$.\nFurther, $t=n T=20 T$ or $\\Delta t=20 \\Delta T$\n$\\therefore \\quad \\frac{\\Delta t}{t}=\\frac{\\Delta T}{T}$\nor $\\Delta T=\\frac{T}{t} \\cdot \\Delta t=\\left(\\frac{2}{40}\\right)(1)=0.05 \\mathrm{~s}$\nFurther, $T=2 \\pi \\sqrt{\\frac{l}{g}}$ or $\\quad T \\propto g^{-1 / 2}$\n$$\n\\therefore \\frac{\\Delta T}{T} \\times 100=-\\frac{1}{2} \\times \\frac{\\Delta g}{g} \\times 100\n$$\nor $\\%$ error in determination of $g$ is\n$$\n\\begin{aligned}\n\\frac{\\Delta g}{g} \\times 100 & =-200 \\times \\frac{\\Delta T}{T} \\\\\n& =-\\frac{200 \\times 0.05}{2}=-5 \\%\n\\end{aligned}\n$$\n$\\therefore$ correct options are (a) and (c).",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b169d8f23ac7d519f9aefa",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "A student performs an experiment to determine the Young's modulus of a wire, exactly $2 \\mathrm{~m}$ long, by Searle's method. In a particular reading, the student measures the extension in the length of the wire to be $0.8 \\mathrm{~mm}$ with an uncertainty of $\\pm 0.05 \\mathrm{~mm}$ at a load of exactly $1.0 \\mathrm{~kg}$. The student also measures the diameter of the wire to be $0.4 \\mathrm{~mm}$ with an uncertainty of $\\pm 0.01 \\mathrm{~mm}$. Take $g=9.8 \\mathrm{~m} / \\mathrm{s}^2$ (exact). The Young's modulus obtained from the reading is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fvZv8",
+        "text": "\n$(2.0 \\pm 0.3) 10^{11} \\mathrm{~N} / \\mathrm{m}^2$\n",
+        "image": null
+      },
+      {
+        "id": "mk26d",
+        "text": "\n$(2.0 \\pm 0.2) \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^2$\n",
+        "image": null
+      },
+      {
+        "id": "41d5R",
+        "text": "\n$(2.0 \\pm 0.1) \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^2$\n",
+        "image": null
+      },
+      {
+        "id": "Rspgb",
+        "text": "\n$(2.0 \\pm 0.05) \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mk26d",
+    "solution_text": "$\\begin{aligned} Y & =\\frac{F L}{A l}=\\frac{4 F L}{\\pi d^2 l} \\\\ & =\\frac{(4)(1.0 \\times 9.8)(2)}{\\pi\\left(0.4 \\times 10^{-3}\\right)^2\\left(0.8 \\times 10^{-3}\\right)}=20 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^2\\end{aligned}$\nFurther $\\quad \\frac{\\Delta Y}{Y}=2\\left(\\frac{\\Delta d}{d}\\right)+\\left(\\frac{\\Delta l}{l}\\right)$\n$$\n\\begin{aligned}\n\\therefore \\quad \\Delta Y & =\\left\\{2\\left(\\frac{\\Delta d}{d}\\right)+\\left(\\frac{\\Delta l}{l}\\right)\\right\\} Y=\\left\\{2 \\times \\frac{0.01}{0.4}+\\frac{0.05}{0.8}\\right\\} \\times 2.0 \\times 10^{11} \\\\\n& =0.2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^2 \\text { or }(Y+\\Delta Y)=(2+0.2) \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^2\n\\end{aligned}\n$$\nThe correct option is (b).",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b169c4f23ac7d519f9ae47",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A student performs an experiment for determination of $g\\left(=\\frac{4 \\pi^2 l}{T^2}\\right), l \\approx 1 \\mathrm{~m}$, and he commits an error of $\\Delta l$. For $T$ he takes the time of $n$ oscillations with the stop watch of least count $\\Delta T$ and he commits a human error of $0.1 \\mathrm{~s}$. For which of the following data, the measurement of $g$ will be most accurate?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "T4hqL",
+        "text": "\n$\\Delta L=0.5, \\Delta T=0.1, n=20$\n",
+        "image": null
+      },
+      {
+        "id": "s7mlK",
+        "text": "\n$\\Delta L=0.5, \\Delta T=0.1, n=50$\n",
+        "image": null
+      },
+      {
+        "id": "oe2lp",
+        "text": "\n$\\Delta L=0.5, \\Delta T=0.01, n=20$\n",
+        "image": null
+      },
+      {
+        "id": "k8I72",
+        "text": "\n$\\Delta L=0.1, \\Delta T=0.05, n=50$",
+        "image": null
+      }
+    ],
+    "correct_answer": "k8I72",
+    "solution_text": "$\\frac{\\Delta g}{g}=\\frac{\\Delta l}{l}+2 \\frac{\\Delta T}{n}$\nIn option (d) error in $\\Delta g$ is minimum and number of observations made are maximum. Hence, in this case error in $g$ will be minimum.",
+    "solution_image": null,
+    "topic": "Errors of Measurement"
+  },
+  {
+    "question_id": "64b169d8f23ac7d519f9aefe",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "A particle moves in the $X-Y$ plane under the influence of a force such that its linear momentum is $\\mathbf{p}(t)=A[\\hat{\\mathbf{i}} \\cos k t-\\hat{\\mathbf{j}} \\sin k t]$, where $A$ and $k$ are constants. The angle between the force and the momentum is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mCWQo",
+        "text": "\n$0^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "OvQPz",
+        "text": "\n$30^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "ei0uK",
+        "text": "\n$45^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "hX8q4",
+        "text": "\n$90^{\\circ}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hX8q4",
+    "solution_text": "$$\n\\begin{aligned}\n& \\mathbf{F}=\\frac{d \\mathbf{p}}{d t}=-k A \\sin k t \\hat{\\mathbf{i}}-k A \\cos k t \\hat{\\mathbf{j}} \\\\\n& \\mathbf{p}=A \\cos k t \\hat{\\mathbf{i}}-A \\sin k \\hat{\\mathbf{j}}\n\\end{aligned}\n$$\nSince,\nF $\\cdot \\mathbf{p}=0$\n$\\therefore$ Angle between $\\mathbf{F}$ and pshould be $90^{\\circ}$.\n$\\therefore$ Correct option is $(\\mathrm{d})$.",
+    "solution_image": null,
+    "topic": "Multiplication of Vectors"
+  }
+]

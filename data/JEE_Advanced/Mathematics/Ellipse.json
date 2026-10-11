@@ -1,0 +1,754 @@
+[
+  {
+    "question_id": "64b16a9af23ac7d519f9b5e9",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>Consider the ellipse&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>4</mn></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></math>. Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mfenced><mrow><mi>&#945;</mi><mo>,</mo><mn>0</mn></mrow></mfenced><mo>,</mo><mn>0</mn><mo>&#60;</mo><mi>&#945;</mi><mo>&#60;</mo><mn>2</mn></math>, be a point. A straight line drawn through&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi></math>&nbsp;parallel to the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>-axis crosses the ellipse and its auxiliary circle at points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math>&nbsp;respectively, in the first quadrant. The tangent to the ellipse at the point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;intersects the positive&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at a point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi></math>. Suppose the straight line joining&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math>&nbsp;and the origin makes an angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi></math>&nbsp;with the positive&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td>&nbsp;</td>\t\t\t<td>List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></math>, then the area of the triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mi>G</mi><mi>H</mi></math>&nbsp;is</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mfenced><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mn>4</mn></msup><mn>8</mn></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac></math>, then the area of the triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mi>G</mi><mi>H</mi></math>&nbsp;is</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>III</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac></math>, then the area of the triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mi>G</mi><mi>H</mi></math>&nbsp;is</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>4</mn></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced></math></td>\t\t\t<td>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></math>, then the area of the triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mi>G</mi><mi>H</mi></math>&nbsp;is</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mn>3</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mn>2</mn></mfrac></math></td>\t\t</tr>\t</tbody></table><p>The correct option is:</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bWN5F",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>;</mo><mo>&#160;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "dw8WX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>;</mo><mo>&#160;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">T</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "cXWFw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>;</mo><mo>&#160;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">T</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "lrMaL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>;</mo><mo>&#160;</mo><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>;</mo><mfenced><mi>III</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced><mo>;</mo><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "cXWFw",
+    "solution_text": "<blockquote><p>Given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>4</mn></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></math></p><p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>&#8801;</mo><mn>2</mn><mi>cos</mi><mi>&#981;</mi></math></p><p>Tangent at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mfenced><mrow><mn>2</mn><mi>cos</mi><mi>&#981;</mi><mo>,</mo><msqrt><mn>3</mn></msqrt><mi>sin</mi><mi>&#981;</mi></mrow></mfenced></math>&nbsp;to&nbsp;the ellipse is&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mi>cos</mi><mi>&#981;</mi></mrow><mn>2</mn></mfrac><mo>+</mo><mfrac><mrow><mi>y</mi><mi>sin</mi><mi>&#981;</mi></mrow><msqrt><mn>3</mn></msqrt></mfrac><mo>=</mo><mn>1</mn></math></p><p>This&nbsp;intersect&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi><mfenced><mrow><mn>2</mn><mi>sec</mi><mi>&#981;</mi><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p>Drawing the figure as per the information, we get,&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/766c615e-823c-4732-890a-1d2a1204755d-image.png\" style=\"width: 380px; height: 256px;\" /></p><p>Area of triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mi>G</mi><mi>H</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>2</mn><mi>sec</mi><mi>&#981;</mi><mo>-</mo><mn>2</mn><mi>cos</mi><mi>&#981;</mi></mrow></mfenced><mn>2</mn><mi>sin</mi><mi>&#981;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi>&#981;</mi><mo>.</mo><mi>tan</mi><mi>&#981;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mi>cos</mi><mn>2</mn><mi>&#981;</mi></mrow></mfenced><mo>&#183;</mo><mi>tan</mi><mi>&#981;</mi></math></p><p>I.&nbsp; If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>,</mo><mi>&#916;</mi><mo>=</mo><mn>1</mn><mo>&#8594;</mo><mfenced><mi>Q</mi></mfenced></math></p><p>II. If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>3</mn></mfrac><mo>,</mo><mi>&#916;</mi><mo>=</mo><mn>2</mn><mo>&#183;</mo><msup><mfenced><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mfenced><mn>2</mn></msup><mo>&#183;</mo><msqrt><mn>3</mn></msqrt><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mn>2</mn></mfrac><mo>&#8594;</mo><mfenced><mi>T</mi></mfenced></math></p><p>III.&nbsp; If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>,</mo><mi>&#916;</mi><mo>=</mo><mn>2</mn><mo>&#183;</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mn>2</mn></msup><mo>&#183;</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mn>3</mn></msqrt></mrow></mfrac><mo>&#8594;</mo><mfenced><mi>S</mi></mfenced></math></p><p>IV.&nbsp; If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>12</mn></mfrac><mo>,</mo><mi>&#916;</mi><mo>=</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mrow></mfenced><mo>&#183;</mo><mfenced><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mo>=</mo><mfrac><msup><mfenced><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mn>2</mn></msup><mn>2</mn></mfrac><mo>=</mo><mfrac><msup><mfenced><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mn>4</mn></msup><mn>8</mn></mfrac><mo>&#8594;</mo><mfenced><mi>P</mi></mfenced></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Auxillary Circle"
+  },
+  {
+    "question_id": "64b169f2f23ac7d519f9aff1",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The line passing through the extremity $A$ of the major axis and extremity $B$ of the minor axis of the ellipse $x^2+9 y^2=9$ meets its auxiliary circle at the point $M$. Then, the area of the triangle with vertices at $A, M$ and the origin $O$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jqbbd",
+        "text": "\n$\\frac{31}{10}$\n",
+        "image": null
+      },
+      {
+        "id": "2uOMD",
+        "text": "\n$\\frac{29}{10}$\n",
+        "image": null
+      },
+      {
+        "id": "Zk1EC",
+        "text": "\n$\\frac{21}{10}$\n",
+        "image": null
+      },
+      {
+        "id": "HGld4",
+        "text": "\n$\\frac{27}{10}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "HGld4",
+    "solution_text": "Equation of auxiliary circle is\n$$\nx^2+y^2=9\n$$\nEquation of $A M$ is $\\frac{x}{3}+\\frac{y}{1}=1$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Hod-rW6Zn2B0oS-2r5NrPWUUUlN7neIAYNLN1KktmLY.original.fullsize.png\"><br>\nOn solving Eqs. (i) and (ii), we get Coordinates of $M=\\left(-\\frac{12}{5}, \\frac{9}{5}\\right)$ Now, area of $\\triangle A O M=\\frac{1}{2} \\times O A \\times M N$ $=\\frac{27}{10}$ sq units",
+    "solution_image": null,
+    "topic": "Auxillary Circle"
+  },
+  {
+    "question_id": "64b16a58f23ac7d519f9b391",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $F_{1}\\left(x_{1}, 0\\right)$ and $F_{2}\\left(x_{2}, 0\\right)$, for $x_{1}<0$ and $x_{2}>0$, be the foci of the ellipse $\\frac{x^{2}}{9}+\\frac{y^{2}}{8}=1 .$ Suppose a parabola having vertex at the origin and focus at $F_{2}$ intersects the ellipse at point $M$ in the first quadrant and at point $N$ in the fourth quadrant.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIf the tangents to the ellipse at $M$ and $N$ meet at $R$ and the normal to the parabola at $M$ meets the $x$-axis at $Q$, then the ratio of area of the triangle $M Q R$ to area of the quadrilateral $M F_{1} N F_{2}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zTlTX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "87qYr",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "1b8WM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "AnUZJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1b8WM",
+    "solution_text": "<img alt=\"\" height=\"145\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/maths_54_solu.jpg\" width=\"279\" /><br />Equation of chord of contact MN is <math> <mrow> <mi>x</mi><mo>=</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> </math><br />Let R(h,k)<br /><math> <mo>&#8658;</mo> </math> Equation of chord of contact<br /><math> <mrow> <mo>&#8658;</mo><mfrac> <mrow> <mi>x</mi><mi>h</mi> </mrow> <mn>9</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mi>y</mi><mi>k</mi> </mrow> <mn>8</mn> </mfrac> <mo>=</mo><mn>1</mn> </mrow> </math><br />Comparing we get R(6,0)<br />Normal to parabola at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>&#160;</mi><mo>:</mo><mi>y</mi><mo>-</mo><mi>&#160;</mi><msqrt><mn>6</mn></msqrt><mo>=</mo><mi>&#160;</mi><mo>-</mo><mfrac><msqrt><mn>6</mn></msqrt><mrow><mn>2</mn><mo>&#183;</mo><mn>1</mn></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced></math><br />Solving it with <math><mi>y</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> we get <math><mi>Q</mi><mi>&#160;</mi><mo>&#8801;</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math><br /><math><mo>&#8756;</mo></math> Area of triangle MQR <math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mn>6</mn><mo>-</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>.</mo><mi>&#160;</mi><msqrt><mn>6</mn></msqrt><mo>=</mo><mfrac><mrow><mn>5</mn><msqrt><mn>6</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac></math><br />Area of quadrilateral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><msub><mi>F</mi><mn>1</mn></msub><mi>N</mi><msub><mi>F</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><mo>&#183;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced><msqrt><mn>6</mn></msqrt><mo>=</mo><mn>2</mn><msqrt><mn>6</mn></msqrt></math><br />Required ratio <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mn>5</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>8</mn></math>",
+    "solution_image": null,
+    "topic": "Chord of Contact"
+  },
+  {
+    "question_id": "64b16a94f23ac7d519f9b5b2",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;be the ellipse&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>16</mn></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mn>9</mn></mfrac><mo>=</mo><mn>1</mn></math>. For any three distinct points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Q</mi><mo>&#39;</mo></msup></math>&nbsp;on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>, let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mfenced><mrow><mi>P</mi><mo>,</mo><mi>Q</mi></mrow></mfenced></math>&nbsp;be the mid-point of the line segment joining&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>, and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mfenced><mrow><mi>P</mi><mo>,</mo><msup><mi>Q</mi><mo>&#39;</mo></msup></mrow></mfenced></math>&nbsp;be the mid-point of the line segment joining&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Q</mi><mo>&#39;</mo></msup></math>. Then the maximum possible value of the distance between&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mfenced><mrow><mi>P</mi><mo>,</mo><mi>Q</mi></mrow></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mfenced><mrow><mi>P</mi><mo>,</mo><msup><mi>Q</mi><mo>'</mo></msup></mrow></mfenced></math>, as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Q</mi><mo>&#39;</mo></msup></math>&nbsp;vary on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>, is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p>.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/45845bf8-a408-4051-95f4-a3bd90c670c0-image.png\" style=\"width: 270px; height: 217px;\" /></p><p>In a triangle sides joining the mid-points of two sides is half and parallel to third side</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>1</mn></msub><msub><mi>M</mi><mn>2</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>Q</mi><msup><mi>Q</mi><mo>&#39;</mo></msup></math></p><p>Maximum value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><msup><mi>Q</mi><mo>&#39;</mo></msup></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>A</mi><mo>&#39;</mo></msup></math></p><p>Hence, maximum value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>1</mn></msub><msub><mi>M</mi><mn>2</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>A</mi><msup><mi>A</mi><mo>&#39;</mo></msup><mo>=</mo><mn>4</mn></math></p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Chord with given Middle Point"
+  },
+  {
+    "question_id": "64b16aa4f23ac7d519f9b643",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub></math>&nbsp;be two distinct common tangents to the ellipse <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>:</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>6</mn></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></math>&nbsp;and the parabola <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>:</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>12</mn><mi>x</mi></math>. Suppose that the tangent&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math>&nbsp;touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> at the points <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub></math>, respectively and the tangent <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub></math>&nbsp;touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> at the points <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>4</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>3</mn></msub></math>, respectively. Then which of the following statements is(are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fjjMf",
+        "text": "The area of the quadrilateral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub><msub><mi>A</mi><mn>3</mn></msub><msub><mi>A</mi><mn>4</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn></math> square units",
+        "image": null
+      },
+      {
+        "id": "qrkOV",
+        "text": "The area of the quadrilateral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub><msub><mi>A</mi><mn>3</mn></msub><msub><mi>A</mi><mn>4</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>36</mn></math> square units",
+        "image": null
+      },
+      {
+        "id": "znmWD",
+        "text": "The tangents <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub></math> meet the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>&#8211;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "j8KTJ",
+        "text": "The tangents <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub></math> meet the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>&#8211;</mo><mn>6</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "znmWD",
+    "solution_text": "<p>Given,</p><p>Equation of ellipse</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>:</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>6</mn></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></math>,</p><p>Now equation of tangent with slope <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mn>1</mn></msub></math>&nbsp;will be :</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>:</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><msub><mi>m</mi><mn>1</mn></msub><mi>x</mi><mo>&#177;</mo><msqrt><mn>6</mn><msubsup><mi>m</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><mn>3</mn></msqrt></math></p><p>And equation of parabola,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>:</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>12</mn><mi>x</mi></math>,</p><p>So, equation of tangent with slope <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mn>2</mn></msub></math>&nbsp;will be:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><msub><mi>m</mi><mn>2</mn></msub><mi>x</mi><mo>+</mo><mfrac><mn>3</mn><msub><mi>m</mi><mn>2</mn></msub></mfrac></math></p><p>Now for common tangent</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><msub><mi>m</mi><mn>1</mn></msub><mo>=</mo><msub><mi>m</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><mo>&#177;</mo><msqrt><mn>6</mn><msubsup><mi>m</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><mn>3</mn></msqrt><mo>=</mo><mfrac><mn>3</mn><msub><mi>m</mi><mn>2</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>m</mi><mo>=</mo><mo>&#177;</mo><mn>1</mn></math></p><p>Hence, equation of common tangents will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mo>&#8211;</mo><mi>x</mi><mo>-</mo><mn>3</mn></math></p><p>Now we know that,</p><p>Point of contact for parabola is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mi>a</mi><msup><mi>m</mi><mn>2</mn></msup></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mi>m</mi></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><msub><mi>A</mi><mn>1</mn></msub><mo>&#8801;</mo><mfenced><mrow><mn>3</mn><mo>,</mo><mo>&#160;</mo><mn>6</mn></mrow></mfenced><mo>,</mo><mo>&#160;</mo><msub><mi>A</mi><mn>4</mn></msub><mfenced><mrow><mn>3</mn><mo>-</mo><mn>6</mn></mrow></mfenced></math></p><p>Now let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced></math></p><p>So, equation of&nbsp;tangent to ellipse&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;at point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced></math> is given by,</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><msub><mi>x</mi><mn>1</mn></msub></mrow><mn>6</mn></mfrac><mo>+</mo><mfrac><mrow><mi>y</mi><msub><mi>y</mi><mn>1</mn></msub></mrow><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></math></p><p>Now comparing above equation with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></math>,</p><p>We get,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>-</mo><msub><mi>x</mi><mn>1</mn></msub></mrow><mn>6</mn></mfrac><mo>=</mo><mfrac><msub><mi>y</mi><mn>1</mn></msub><mn>3</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>A</mi><mn>2</mn></msub><mo>&#8801;</mo><mfenced><mrow><mfrac><mrow><mo>-</mo><mn>6</mn></mrow><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>3</mn></mfrac></mrow></mfenced><mo>&#8801;</mo><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>3</mn></msub></math>&nbsp;is mirror image of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub></math>&nbsp;in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>A</mi><mn>3</mn></msub><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1e9359d0-02bf-4a5f-b6b6-38c4c60027f2.png\" style=\"width: 300px; height: 180px;\" /></p><p>Now finding the intersection point of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mn>0</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>, we get&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></math></p><p>So, Area of quadrilateral&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub><msub><mi>A</mi><mn>3</mn></msub><msub><mi>A</mi><mn>4</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>12</mn><mo>+</mo><mn>2</mn></mrow></mfenced><mo>&#215;</mo><mn>5</mn><mo>=</mo><mn>35</mn></math>&nbsp;square units</p>",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "6a0be51244d287c9361e5cb4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Consider the ellipse $E$ given by $\\dfrac{x^2}{18} + \\dfrac{y^2}{12} = 1$. Let $H$ be the hyperbola whose eccentricity is the reciprocal of the eccentricity of $E$ and whose foci are the same as that of $E$. Let $P$ and $Q$ be the points of intersection of $H$ and the parabola $\\sqrt{5}\\, y = x^2$ in the first quadrant. Let $d$ be the distance between $P$ and $Q$.<br>If $a$ and $b$ are the integers such that $d^2 = a + b\\sqrt{5}$, then the value of $a - b$ is __________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "18",
+    "solution_text": "For the ellipse $E: \\dfrac{x^2}{18} + \\dfrac{y^2}{12} = 1$, we have $a_E^2 = 18$ and $b_E^2 = 12$.<br><br>The eccentricity $e_E$ is given by:<br>$e_E = \\sqrt{1 - \\dfrac{b_E^2}{a_E^2}} = \\sqrt{1 - \\dfrac{12}{18}} = \\dfrac{1}{\\sqrt{3}}$<br><br>The foci of the ellipse $E$ are $(\\pm a_E e_E, 0) = \\left(\\pm \\sqrt{18} \\times \\dfrac{1}{\\sqrt{3}}, 0\\right) = (\\pm \\sqrt{6}, 0)$.<br><br>For the hyperbola $H$, the eccentricity $e_H$ is the reciprocal of $e_E$, so $e_H = \\sqrt{3}$.<br>Since $H$ has the same foci as $E$, its foci are $(\\pm \\sqrt{6}, 0)$.<br>Let the equation of $H$ be $\\dfrac{x^2}{A^2} - \\dfrac{y^2}{B^2} = 1$.<br>The foci are $(\\pm A e_H, 0)$, which gives $A \\sqrt{3} = \\sqrt{6} \\Rightarrow A = \\sqrt{2} \\Rightarrow A^2 = 2$.<br>Also, $B^2 = A^2(e_H^2 - 1) = 2(3 - 1) = 4$.<br>Thus, the equation of the hyperbola $H$ is $\\dfrac{x^2}{2} - \\dfrac{y^2}{4} = 1$.<br><br>To find the points of intersection of $H$ and the parabola $\\sqrt{5}y = x^2$, we substitute $x^2 = \\sqrt{5}y$ into the equation of $H$:<br>$\\dfrac{\\sqrt{5}y}{2} - \\dfrac{y^2}{4} = 1$<br><br>Multiplying by $4$, we get:<br>$2\\sqrt{5}y - y^2 = 4 \\Rightarrow y^2 - 2\\sqrt{5}y + 4 = 0$<br><br>Solving for $y$ using the quadratic formula:<br>$y = \\dfrac{2\\sqrt{5} \\pm \\sqrt{20 - 16}}{2} = \\sqrt{5} \\pm 1$<br><br>Let $y_1 = \\sqrt{5} - 1$ and $y_2 = \\sqrt{5} + 1$. Both are positive.<br>The corresponding $x^2$ values are:<br>$x_1^2 = \\sqrt{5}(\\sqrt{5} - 1) = 5 - \\sqrt{5}$<br>$x_2^2 = \\sqrt{5}(\\sqrt{5} + 1) = 5 + \\sqrt{5}$<br><br>Since the points $P$ and $Q$ lie in the first quadrant, $x > 0$. Thus, $x_1 = \\sqrt{5 - \\sqrt{5}}$ and $x_2 = \\sqrt{5 + \\sqrt{5}}$.<br><br>The square of the distance $d$ between $P$ and $Q$ is:<br>$d^2 = (x_2 - x_1)^2 + (y_2 - y_1)^2$<br><br>First, we evaluate $(x_2 - x_1)^2$:<br>$(x_2 - x_1)^2 = x_2^2 + x_1^2 - 2x_1x_2$<br>$x_2^2 + x_1^2 = (5 + \\sqrt{5}) + (5 - \\sqrt{5}) = 10$<br>$x_1x_2 = \\sqrt{(5 - \\sqrt{5})(5 + \\sqrt{5})} = \\sqrt{25 - 5} = \\sqrt{20} = 2\\sqrt{5}$<br>So, $(x_2 - x_1)^2 = 10 - 4\\sqrt{5}$.<br><br>Next, we evaluate $(y_2 - y_1)^2$:<br>$(y_2 - y_1)^2 = ((\\sqrt{5} + 1) - (\\sqrt{5} - 1))^2 = 2^2 = 4$<br><br>Adding these together gives $d^2$:<br>$d^2 = 10 - 4\\sqrt{5} + 4 = 14 - 4\\sqrt{5}$<br><br>Comparing this with $d^2 = a + b\\sqrt{5}$, we get $a = 14$ and $b = -4$.<br><br>Therefore, $a - b = 14 - (-4) = 18$.<br><br>Answer: $18$",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "685102c26bba689a3eb09ca5",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $P\\left(x_1, y_1\\right)$ and $Q\\left(x_2, y_2\\right)$ be two distinct points on the ellipse\n$\\frac{x^2}{9}+\\frac{y^2}{4}=1$\nsuch that $y_1>0$, and $y_2>0$. Let C denote the circle $x^2+y^2=9$, and $M$ be the point $(3,0)$.\nSuppose the line $x=x_1$ intersects $C$ at $R$, and the line $x=x_2$ intersects $C$ at $S$, such that the $y$-coordinates of $R$ and $S$ are positive. Let $\\angle R O M=\\frac{\\pi}{6}$ and $\\angle S O M=\\frac{\\pi}{3}$, where $O$ denotes the origin $(0,0)$. Let $|X Y|$ denote the length of the line segment $X Y$.<br>Then which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xgZ2f",
+        "text": "The equation of the line joining $P$ and $Q$ is $2 x+3 y=3(1+\\sqrt{3})$",
+        "image": null
+      },
+      {
+        "id": "tsbMh",
+        "text": "The equation of the line joining $P$ and $Q$ is $2 x+y=3(1+\\sqrt{3})$",
+        "image": null
+      },
+      {
+        "id": "KnLtB",
+        "text": "If $N_2=\\left(x_2, 0\\right)$, then $3\\left|N_2 Q\\right|=2\\left|N_2 S\\right|$",
+        "image": null
+      },
+      {
+        "id": "myA1g",
+        "text": "If $N_1=\\left(x_1, 0\\right)$, then $9\\left|N_1 P\\right|=4\\left|N_1 R\\right|$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KnLtB",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rAeZ-9qneWj0US_G7jJak86SVvCeF1Opv2isaizY2no.original.fullsize.png\"><br>$\\begin{aligned} & \\mathrm{P} \\equiv\\left(3 \\cos 30^{\\circ}, 2 \\sin 30^{\\circ}\\right) \\equiv\\left(\\frac{3 \\sqrt{3}}{2}, 1\\right) \\\\ & \\mathrm{Q} \\equiv\\left(3 \\cos 60^{\\circ}, 2 \\sin 60^{\\circ}\\right) \\equiv\\left(\\frac{3}{2}, \\sqrt{3}\\right) \\\\ & \\mathrm{R}\\left(\\frac{3 \\sqrt{3}}{2}, \\frac{3}{2}\\right), \\mathrm{S}\\left(\\frac{3}{2}, \\frac{3 \\sqrt{3}}{2}\\right)\\end{aligned}$\nSlope of $\\mathrm{PQ}=\\mathrm{m}_{\\mathrm{PQ}}=\\frac{\\sqrt{3}-1}{\\frac{3}{2}-\\frac{3 \\sqrt{3}}{2}}=-\\frac{2}{3}$\nEquation of line PQ\n$\\mathrm{y}-\\sqrt{3}=-\\frac{2}{3}\\left(\\mathrm{x}-\\frac{3}{2}\\right)$\n$\\Rightarrow 2 x+3 y=3(\\sqrt{3}+1) \\quad$ option (A) is correct\nNow\n$\\begin{aligned} & \\text { if } \\mathrm{N}_2=\\left(\\mathrm{x}_2, 0\\right)=\\left(\\frac{3}{2}, 0\\right) \\\\ & \\left|\\mathrm{N}_2 \\mathrm{Q}\\right|=\\sqrt{3} \\text { and }\\left|\\mathrm{N}_2 \\mathrm{~S}\\right|=\\frac{3 \\sqrt{3}}{2}\\end{aligned}$\n$\\Rightarrow 3\\left|\\mathrm{~N}_2 \\mathrm{Q}\\right|=2\\left|\\mathrm{~N}_2 \\mathrm{~S}\\right| \\quad$ option (C) is correct\nNow, if $\\mathrm{N}_1=\\left(\\mathrm{x}_1, 0\\right) \\Rightarrow \\mathrm{N}_1=\\left(\\frac{3 \\sqrt{3}}{2}, 0\\right)$\n$\\Rightarrow\\left|\\mathrm{N}_1 \\mathrm{P}\\right|=1,\\left|\\mathrm{~N}_1 \\mathrm{R}\\right|=\\frac{3}{2} \\quad$ option (D) is incorrect",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b16a74f23ac7d519f9b492",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Define the collections <math><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow></mfenced></math> of ellipses and <math><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow></mfenced></math> of rectangles as follows:<br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>9</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>;</mo></math><br /><math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo></math> rectangle of largest area, with sides parallel to the axes, inscribed in <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>;</mo></math><br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msub><mo>:</mo></math> ellipse <math><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msubsup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msubsup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mn>1</mn></math> of largest area inscribed in <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><mi mathvariant=\"normal\">n</mi><mo>&#62;</mo><mn>1</mn><mo>;</mo></math><br /><math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msub><mo>:</mo></math> rectangle of largest area, with sides parallel to the axes, inscribed in <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><mi mathvariant=\"normal\">n</mi><mo>&#62;</mo><mn>1</mn><mo>.</mo></math><br />Then which of the following options is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nqIBB",
+        "text": "The eccentricities of  <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>18</mn></mrow></msub></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>19</mn></mrow></msub></math>  are NOT equal",
+        "image": null
+      },
+      {
+        "id": "53Vzo",
+        "text": "The distance of a focus from the centre in <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>9</mn></mrow></msub></math> is <math><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>32</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "rpgiJ",
+        "text": "The length of latus rectum of  <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>9</mn></mrow></msub></math>  is  <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "i3rbi",
+        "text": "<math><mrow><munderover><mo stretchy=\"true\">&#8721;</mo><mrow><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mtext>&#8201;</mtext><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mtext>&#8201;</mtext><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></msub></mrow></mfenced><mo>&#60;</mo><mn>24</mn><mo>,</mo></mrow></mrow></math> for each positive integer <math><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "i3rbi",
+    "solution_text": "<p>As given:<br ><math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn></math> (Here <math><mi>a</mi><mo>=</mo><mn>3</mn></math> and <math><mi>b</mi><mo>=</mo><mn>2</mn></math> )<br >Semi major axis <math><mo>=</mo><mi>a</mi></math> and semi minor axis <math><mo>=</mo><mi>b</mi></math><br >Let a vertex of <math><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></math> be <math><mfenced separators=\"|\"><mrow><mi>a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mi>θ</mi><mo>,</mo><mi>b</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>θ</mi></mrow></mfenced></math><br >Then area of <math><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><mi>a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mi>θ</mi><mo>×</mo><mn>2</mn><mi>b</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>θ</mi></math><br ><math><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><mi>a</mi><mi>b</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn><mi>θ</mi></math><br >Maximum area of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>,</mo></math></p><p>when <math><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn><mi>θ</mi><mo>=</mo><mn>1</mn></math><br >or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>θ</mi><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></math><br ><math><mi>θ</mi><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></math><br >Maximum area of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><mi>a</mi><mi>b</mi></math> ....(i)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/akloqbgqpbohzxzokfhiqtzcxhgxaiegqspfcliktkbppqtbvz.png\"/><br >Now, ellipse <math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> will have semi major axis <math><mfrac><mrow><mi>a</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math> and semi minor axis <math><mfrac><mrow><mi>b</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math><br ><math><mo>∵</mo><mtext> </mtext><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>b</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn><mo>,</mo></math></p><p>hence maximum area of <math><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>b</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></mrow></mfenced></math><br >Similarly, ellipse <math><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn></mrow></msub></math> will have semi major axis <math><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> and semi minor axis <math><mfrac><mrow><mi>b</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br ><math><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>:</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>b</mi></mrow><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn></math><br >And maximum area of<br ><math><msub><mrow><mi>R</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>b</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfrac></mrow></mfenced></math><br >Option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>)</mo><mo>:</mo></math><br >All ellipse will have some eccentricity as the ratios of semi major axis and semi minor axis is same for all ellipse.<br ><math><mi>e</mi><mo>=</mo><msqrt><mn>1</mn><mo>-</mo><mfrac><mrow><msubsup><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></msqrt><mo>=</mo><msqrt><mn>1</mn><mo>-</mo><mfrac><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><br >Option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>4</mn><mo>)</mo><mo>:</mo></math><br ><math><mrow><munderover><mo stretchy=\"true\">∑</mo><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>1</mn></mrow><mrow><mi>m</mi></mrow></munderover><mrow><mtext>area of rectangle</mtext></mrow></mrow><mtext> </mtext><msub><mrow><mi>R</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mo>…</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>m</mi></mrow></msub></math><br >Area of <math><mi>m</mi></math> rectangle will be lesser than area of infinite<br >Rectangle <math><mo>⇒</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mo>…</mo><mo>.</mo><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>m</mi></mrow></msub><mo><</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mo>…</mo><mo>.</mo><mo>.</mo><mi>∞</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo stretchy=\"true\">∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><mtext>area of rectangle</mtext><mo><</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>+</mo><mn>2</mn><mfenced separators=\"|\"><mfrac><mi>a</mi><msqrt><mn>2</mn></msqrt></mfrac></mfenced><mfenced separators=\"|\"><mfrac><mi>b</mi><msqrt><mn>2</mn></msqrt></mfrac></mfenced><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mi>∞</mi><mo>=</mo><mn>2</mn><mi>a</mi><mi>b</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><msup><mfenced separators=\"|\"><msqrt><mn>2</mn></msqrt></mfenced><mn>2</mn></msup></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mi>∞</mi></mrow></mfenced></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo stretchy=\"true\">∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi> </mi><msub><mi>R</mi><mi>n</mi></msub><mo><</mo><mn>2</mn><mi>a</mi><mi>b</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mfrac><mtext>1</mtext><mrow><mtext>1-</mtext><mfrac><mtext>1</mtext><mtext>2</mtext></mfrac></mrow></mfrac></mfenced></math><br ><math><mrow><munderover><mo stretchy=\"true\">∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>m</mi></mrow></munderover><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi> </mi><msub><mrow><mi>R</mi></mrow><mrow><mi>n</mi></mrow></msub><mo><</mo><mn>4</mn><mi>a</mi><mi>b</mi></mrow></mrow></math><br ><math><mrow><munderover><mo stretchy=\"true\">∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>m</mi></mrow></munderover><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi> </mi><msub><mrow><mi>R</mi></mrow><mrow><mi>n</mi></mrow></msub><mo><</mo><mn>4</mn><mo>×</mo><mn>3</mn><mo>×</mo><mn>2</mn></mrow></mrow></math><br ><math><mrow><munderover><mo stretchy=\"true\">∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>m</mi></mrow></munderover><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi> </mi><msub><mrow><mi>R</mi></mrow><mrow><mi>n</mi></mrow></msub><mo><</mo><mn>24</mn></mrow></mrow></math><br >Option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>3</mn><mo>)</mo><mo>:</mo></math><br >Length of latus rectum of <math><msub><mrow><mi>E</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><msubsup><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>a</mi><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfrac></math><br ><math><mi>L</mi><mo>.</mo><mi>R</mi><mo>.</mo><mtext> </mtext><mi>o</mi><mi>f</mi><mtext> </mtext><msub><mrow><mi>E</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>a</mi><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>3</mn><mo>×</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math><br >Option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>2</mn><mo>)</mo><mo>:</mo></math><br >Distance between focus and centre of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>9</mn></msub><mo>=</mo><msub><mi>a</mi><mn>9</mn></msub><mi>e</mi></math><br ><math><mo>=</mo><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mo>(</mo><msqrt><mn>2</mn></msqrt><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>×</mo><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>16</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mo>=</mo><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>16</mn></mrow></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b16a6ef23ac7d519f9b45b",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Consider two straight lines, each of which is tangent to both the circle <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> and the parabola <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>x</mi></math> . Let these lines intersect at the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>. Consider the ellipse whose center is at the origin <math><mi>O</mi><mo>(</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mn>0</mn><mo>)</mo></math> and whose semi-major axis is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>Q</mi></math>. If the length of the minor axis of this ellipse is <math><msqrt><mn>2</mn></msqrt></math>, then the which of the following statement(s) is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Q1Unm",
+        "text": "For the ellipse, the eccentricity is <math><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math> and the length of the latus rectum is 1",
+        "image": null
+      },
+      {
+        "id": "jTKp8",
+        "text": "For the ellipse, the eccentricity is  <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>  and the length of the latus rectum is  <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "0ODCZ",
+        "text": "The area of the region bounded by the ellipse between the lines <math><mi>x</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math> and <math><mi>x</mi><mo>=</mo><mn>1</mn></math> is <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt></mrow></mfrac><mfenced separators=\"|\"><mrow><mi>π</mi><mo>-</mo><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "WNTmQ",
+        "text": "The area of the region bounded by the ellipse between the lines  <math><mi>x</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math>  and  <math><mi>x</mi><mo>=</mo><mn>1</mn></math>  is  <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mi>π</mi><mo>-</mo><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "0ODCZ",
+    "solution_text": "Let equation of common tangent is \\(\\mathrm{y}=\\mathrm{m} \\mathrm{x}+\\frac{1}{\\mathrm{~m}}\\)\r\n\r\n\\(\\therefore\\left|\\frac{0+0+\\frac{1}{\\mathrm{~m}}}{\\sqrt{1+\\mathrm{m}^{2}}}\\right|=\\frac{1}{\\sqrt{2}} \\Rightarrow \\mathrm{m}^{4}+\\mathrm{m}^{2}-2=0 \\Rightarrow \\mathrm{m}=\\pm 1\\) Equation of common tangents are \\(\\mathrm{y}=\\mathrm{x}+1\\) and \\(\\mathrm{y}=-\\mathrm{x}+1\\)\r\n\r\npoint \\(Q\\) is \\((-1,0)\\)\r\n\r\n\\(\\therefore\\) Equation of ellipse is \\(\\frac{x^{2}}{1}+\\frac{y^{2}}{1 / 2}=1\\)\r\n\r\n(A) \\(\\mathrm{e}=\\sqrt{1-\\frac{1}{2}}=\\frac{1}{\\sqrt{2}}\\) and \\(\\mathrm{LR}=\\frac{2 \\mathrm{~b}^{2}}{\\mathrm{a}}=1\\)\r\n\r\n(C) Area \\(2 \\cdot \\int_{1 / \\sqrt{2}}^{1} \\frac{1}{\\sqrt{2}} \\cdot \\sqrt{1-\\mathrm{x}^{2}} \\mathrm{dx}=\\sqrt{2}\\left[\\frac{\\mathrm{x}}{2} \\sqrt{1-\\mathrm{x}^{2}}+\\frac{1}{2} \\sin ^{-1} \\mathrm{x}\\right]_{1 / \\sqrt{2}}^{1}\\) \\(=\\sqrt{2}\\left[\\frac{\\pi}{4}-\\left(\\frac{1}{4}+\\frac{\\pi}{8}\\right)\\right]=\\sqrt{2}\\left(\\frac{\\pi}{8}-\\frac{1}{4}\\right]=\\frac{\\pi-2}{4 \\sqrt{2}}\\)\r\n\r\nCorrect answers are (A) and (C).<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/oghhitiwazeanccemntdxcszwhahcxlzbyimzrhmorziuctvmm.png\"/>",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b16a1df23ac7d519f9b176",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The ellipse $E_{1}: \\frac{x^{2}}{9}+\\frac{y^{2}}{4}=1$ is inscribed in a rectangle $R$ whose sides are parallel to the coordinate axes. Another ellipse $E_{2}$ passing through the point $(0,4)$ circumscribes the rectangle $R$. The eccentricity of the ellipse $E_{2}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UWQo4",
+        "text": "$\\frac{\\sqrt{2}}{2}$",
+        "image": null
+      },
+      {
+        "id": "xHPLv",
+        "text": "$\\frac{\\sqrt{3}}{2}$",
+        "image": null
+      },
+      {
+        "id": "T1Gkf",
+        "text": "$\\frac{1}{2}$",
+        "image": null
+      },
+      {
+        "id": "hhFrm",
+        "text": "$\\frac{3}{4}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "T1Gkf",
+    "solution_text": "As rectangle $A B C D$ circumscribed the ellipse $\\frac{x^{2}}{9}+\\frac{y^{2}}{4}=1, \\quad \\therefore A=(3,2)$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aet9wmBJVgdIkqK5Yu0olFJanD-DZd2Mf-55gTg95GY.original.fullsize.png\"><br>\r\n\r\nLet the ellipse circumscribing the rectangle $A B C D$ is $\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}=1...(i)$\r\n\r\nGiven that ellipse (i) passes through $(a, 4)$ $\\therefore b^{2}=16$\r\n\r\nAlso ellipse (i) passes through $A(3,2)$\r\n\r\n$\\therefore \\quad \\frac{9}{a^{2}}+\\frac{4}{16}=1 \\Rightarrow a^{2}=12$\r\n\r\n$\\therefore \\quad e=\\sqrt{1-\\frac{12}{16}}=\\sqrt{\\frac{1}{4}}=\\frac{1}{2}$",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b169f9f23ac7d519f9b02c",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "An ellipse intersects the hyperbola $2 x^2-2 y^2=1$ orthogonally. The eccentricity of the ellipse is reciprocal to that of the hyperbola. If the axes of the ellipse are along the coordinate axes, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hYkO0",
+        "text": "\nequation of ellipse is $x^2+2 y^2=2$\n",
+        "image": null
+      },
+      {
+        "id": "7wNN3",
+        "text": "\nthe foci of ellipse are $(\\pm 1,0)$\n",
+        "image": null
+      },
+      {
+        "id": "4zNZG",
+        "text": "\nequation of ellipse is $x^2+2 y^2=4$\n",
+        "image": null
+      },
+      {
+        "id": "vvejp",
+        "text": "\nthe foci of ellipse are $(\\pm \\sqrt{2}, 0)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "7wNN3",
+    "solution_text": "Given, $2 x^2-2 y^2=1$\n$$\n\\Rightarrow \\quad \\frac{x^2}{\\left(\\frac{1}{2}\\right)}-\\frac{y^2}{\\left(\\frac{1}{2}\\right)}=1\n$$\nEccentricity of hyperbola $=\\sqrt{2}$\nSo, eccentricity of ellipse $=1 / \\sqrt{2}$\nLet equation of ellipse be\n$$\n\\begin{aligned}\n& \\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1(a>b) \\Rightarrow \\frac{1}{\\sqrt{2}}=\\sqrt{1-\\frac{b^2}{a^2}} \\\\\n& \\Rightarrow \\quad \\frac{b^2}{a^2}=\\frac{1}{2} \\Rightarrow a^2=2 b^2 \\\\\n& \\therefore \\quad x^2+2 y^2=2 b^2 \\\\\n&\n\\end{aligned}\n$$\nLet ellipse and hyperbola intersect at\n$$\nA\\left(\\frac{1}{\\sqrt{2}} \\sec \\theta, \\frac{1}{\\sqrt{2}} \\tan \\theta\\right)\n$$\nOn differentiating Eq. (i),\n$$\n4 x-4 y \\frac{d y}{d x}=0 \\Rightarrow \\frac{d y}{d x}=\\frac{x}{y}\n$$\n\n$$\n\\therefore \\quad\\left(\\frac{d y}{d x}\\right)_{\\text {at } A}=\\frac{\\sec \\theta}{\\tan \\theta}=\\operatorname{cosec} \\theta\n$$\nOn differentiating Eq. (ii),\n$$\n2 x+4 y \\frac{d y}{d x}=0\n$$\n\n$$\n\\therefore \\quad\\left(\\frac{d y}{d x}\\right)_{\\text {at } A}=-\\frac{x}{2 y}=-\\frac{1}{2} \\operatorname{cosec} \\theta\n$$\nSince, ellipse and hyperbola are orthogonal.\n$$\n\\begin{aligned}\n& \\therefore \\quad-\\frac{1}{2} \\operatorname{cosec}^2 \\theta=-1 \\\\\n& \\Rightarrow \\quad \\operatorname{cosec}^2 \\theta=2 \\Rightarrow \\theta=\\pm \\frac{\\pi}{4} \\\\\n& \\therefore A\\left(1, \\frac{1}{\\sqrt{2}}\\right) \\text { or }\\left(1,-\\frac{1}{\\sqrt{2}}\\right)\n\\end{aligned}\n$$\nFrom Eq. (i), $1+2\\left(\\frac{1}{\\sqrt{2}}\\right)^2=2 b^2$ $\\Rightarrow \\quad b^2=1$\nEquation of ellipse is $x^2+2 y^2=2$\nCoordinate of foci $(\\pm a e, 0)$\n$$\n=\\left(\\pm \\sqrt{2} \\cdot \\frac{1}{\\sqrt{2}}, 0\\right)=(\\pm 1,0)\n$$\nHence, options (a) and (b) are correct. If major axis is along $Y$-axis, then\n\n$$\n\\begin{aligned}\n& \\frac{1}{\\sqrt{2}}=\\sqrt{1-\\frac{a^2}{b^2}} \\Rightarrow b^2=2 a^2 \\\\\n& \\therefore 2 x^2+y^2=2 a^2 \\Rightarrow y^{\\prime}=-\\frac{2 x}{y} \\\\\n& \\Rightarrow \\quad y^{\\prime}\\left(\\frac{1}{\\sqrt{2}} \\sec \\theta \\frac{1}{\\sqrt{2}} \\tan \\theta\\right)=\\frac{-2}{\\sin \\theta} \\\\\n&\n\\end{aligned}\n$$\nAs ellipse and hyperbola are orthogonal.\n$$\n\\begin{array}{ll}\n\\therefore & -\\frac{2}{\\sin \\theta} \\cdot \\operatorname{cosec} \\theta=-1 \\\\\n\\Rightarrow & \\operatorname{cosec}^2 \\theta=1 \\Rightarrow \\theta=\\pm \\frac{\\pi}{4} \\\\\n\\therefore & 2 x^2+y^2=2 a^2 \\Rightarrow 2+\\frac{1}{2}=2 a^2 \\\\\n\\Rightarrow & a^2=\\frac{5}{4} \\Rightarrow 2 x^2+y^2=\\frac{5}{2}\n\\end{array}\n$$\nCorresponding foci are $(0, \\pm 1)$.",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b169e4f23ac7d519f9af71",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Let $P\\left(x_1, y_1\\right)$ and $Q\\left(x_2, y_2\\right), y_1 < 0, y_2 < 0$, be the end points of the latusrectum of the ellipse $x^2+4 y^2=4$. The equations of parabolas with latusrectum $P Q$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jIJLE",
+        "text": "\n$x^2+2 \\sqrt{3} y=3+\\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "SkR9k",
+        "text": "\n$x^2-2 \\sqrt{3} y=3+\\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "eJUnI",
+        "text": "\n$x^2+2 \\sqrt{3} y=3-\\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "6VzGf",
+        "text": "\n$x^2-2 \\sqrt{3} y=3-\\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "eJUnI",
+    "solution_text": "The equation $x^2+4 y^2=4$ represents an ellipse with 2 and 1 as semi-major and semi-minor axes and eccentricity $\\frac{\\sqrt{3}}{2}$. Thus, the ends of latusrect are $\\left(\\sqrt{3}, \\frac{1}{2}\\right)$ and $\\left(\\sqrt{3},-\\frac{1}{2}\\right),\\left(-\\sqrt{3},-\\frac{1}{2}\\right)$ and $\\left(\\sqrt{3},-\\frac{1}{2}\\right)$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xEg5w8HkzhfUb5VNonqRlTHouyfpQlt8WmCSapQNpQ8.original.fullsize.png\"><br>\nAccording to the question, we consider only $P\\left(-\\sqrt{3},-\\frac{1}{2}\\right)$ and $Q\\left(\\sqrt{3},-\\frac{1}{2}\\right)$.\nNow, $\\quad P Q=2 \\sqrt{3}$\nThus, the coordinates of the vertex of the parabolas are $A\\left(0, \\frac{-1+\\sqrt{3}}{2}\\right)$ and $A^{\\prime}\\left(0, \\frac{-1-\\sqrt{3}}{2}\\right)$ and corresponding equations are and\n$$\n(x-0)^2=-4 \\cdot \\frac{\\sqrt{3}}{2}\\left(y+\\frac{1-\\sqrt{3}}{2}\\right)\n$$\ni.e., $(x-0)^2=4 \\cdot \\frac{\\sqrt{3}}{2}\\left(y-\\frac{-1-\\sqrt{3}}{2}\\right)$ and\n$$\n\\begin{aligned}\n& x^2+2 \\sqrt{3} y=3-\\sqrt{3} \\\\\n& x^2-2 \\sqrt{3} y=3+\\sqrt{3}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b169d5f23ac7d519f9aee4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "A hyperbola, having the transverse axis of length $2 \\sin \\theta$, is confocal with the ellipse $3 x^2+4 y^2=12$. Then, its equation is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vKRyf",
+        "text": "\n$x^2 \\operatorname{cosec}^2 \\theta-y^2 \\sec ^2 \\theta=1$\n",
+        "image": null
+      },
+      {
+        "id": "2m08S",
+        "text": "\n$x^2 \\sec ^2 \\theta-y^2 \\operatorname{cosec}^2 \\theta=1$\n",
+        "image": null
+      },
+      {
+        "id": "qQ1p9",
+        "text": "\n$x^2 \\sin ^2 \\theta-y^2 \\cos ^2 \\theta=1$\n",
+        "image": null
+      },
+      {
+        "id": "TixZC",
+        "text": "\n$x^2 \\cos ^2 \\theta-y^2 \\sin ^2 \\theta=1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "vKRyf",
+    "solution_text": "The given ellipse is\n$$\n\\begin{aligned}\n& \\frac{x^2}{4}+\\frac{y^2}{3}=1 \\Rightarrow \\alpha=2, \\beta=\\sqrt{3} \\\\\n& \\therefore \\quad 3=4\\left(1-e^2\\right) \\Rightarrow e=\\frac{1}{2} \\\\\n&\n\\end{aligned}\n$$\n$$\n\\therefore \\quad a e=1\n$$\nHence the eccentricity $e_1$, of the hyperbola is given by\n$$\n\\begin{array}{rlrl} \n& & 1 & =e_1 \\sin \\theta \\\\\n\\Rightarrow & & e_1 & =\\operatorname{cosec} \\theta \\\\\n\\Rightarrow & b^2 & =\\sin ^2 \\theta\\left(\\operatorname{cosec}^2 \\theta-1\\right)=\\cos ^2 \\theta\n\\end{array}\n$$\nHence, the hyperbola is\n$$\n\\frac{x^2}{\\sin ^2 \\theta}-\\frac{y^2}{\\cos ^2 \\theta}=1 \\text { or } x^2 \\operatorname{cosec}^2 \\theta-y^2 \\sec ^2 \\theta=1\n$$",
+    "solution_image": null,
+    "topic": "Equation of Ellipse"
+  },
+  {
+    "question_id": "64b16a09f23ac7d519f9b0c2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTangents are drawn from the point $P(3,4)$ to the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$ touching the ellipse at points $A$ and $B$.<strong>Question:</strong>\nThe equation of the locus of the point whose distance from the point $P$ and the line $A B$ are equal, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kOWDw",
+        "text": "\n$9 x^2+y^2-6 x y-54 x-62 y$\n$$\n+241=0\n$$\n",
+        "image": null
+      },
+      {
+        "id": "trX6c",
+        "text": "\n$x^2+9 y^2+6 x y-54 x+62 y$\n$$\n-241=0\n$$\n",
+        "image": null
+      },
+      {
+        "id": "HTmuY",
+        "text": "\n$9 x^2+9 y^2-6 x y-54 x-62 y$\n$$\n-241=0\n$$\n",
+        "image": null
+      },
+      {
+        "id": "uk7S8",
+        "text": "\n$x^2+y^2-2 x y+27 x+31 y$\n$$\n-120=0\n$$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kOWDw",
+    "solution_text": "Equation of $A B$ is $y-0=-\\frac{1}{3}(x-3)$\n$$\n\\begin{gathered}\nx+3 y-3=0 \\\\\n|x+3 y-3|^2=10\\left[(x-3)^2+(y-4)^2\\right]\n\\end{gathered}\n$$\n(Look at coefficient of $x^2$ and $y^2$ in the\nanswers)",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b025",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The normal at a point $P$ on the ellipse $x^2+4 y^2=16$ meets the $x$-axis at $Q$. If $M$ is the mid-point of the line segment $P Q$, then the locus of $M$ intersects the latusrectum of the given ellipse at the points",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EJRyD",
+        "text": "\n$\\left(\\pm \\frac{3 \\sqrt{5}}{2}, \\pm \\frac{2}{7}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "ZXIh0",
+        "text": "\n$\\left(\\pm \\frac{3 \\sqrt{5}}{2}, \\pm \\frac{\\sqrt{19}}{4}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "kF3v6",
+        "text": "\n$\\left(\\pm 2 \\sqrt{3}, \\pm \\frac{1}{7}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "czdCZ",
+        "text": "\n$\\left(\\pm 2 \\sqrt{3}, \\pm \\frac{4 \\sqrt{3}}{7}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kF3v6",
+    "solution_text": "Given, $\\quad \\frac{x^2}{16}+\\frac{y^2}{4}=1$\nHere, $\\quad a=4, b=2$\nEquation of normal is\n$$\n\\begin{aligned}\n& 4 x \\sec \\theta-2 y \\operatorname{cosec} \\theta=12 \\\\\n& M\\left(\\frac{7 \\cos \\theta}{2}, \\sin \\theta\\right)=(h, k) \\text { (say) } \\\\\n& \\therefore \\quad h=\\frac{7 \\cos \\theta}{2} \\Rightarrow \\cos \\theta=\\frac{2 h}{7} \\\\\n& {\\left[\\because \\cos ^2 \\theta+\\sin ^2 \\theta=1\\right]} \\\\\n&\n\\end{aligned}\n$$\nHence, locus is $\\frac{4 x^2}{49}+y^2=1$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/h5Ha-7vIkDAyJhn9AIK2wVfBtoXgLlrlSF9VVmEZDp0.original.fullsize.png\"><br>\nFor given ellipse, $e^2=1-\\frac{4}{16}=\\frac{3}{4}$\n$$\n\\begin{array}{rc}\n\\therefore \\quad e=\\frac{\\sqrt{3}}{2} \\\\\n\\therefore \\quad x=\\pm 4 \\times \\frac{\\sqrt{3}}{2}=\\pm 2 \\sqrt{3} \\\\\n& {[\\because x=\\pm a e] \\ldots \\text { (ii) }}\n\\end{array}\n$$\nOn solving Eqs. (i) and (ii), we get\n$$\n\\begin{aligned}\n& \\frac{4}{49} \\times 12+y^2=1 \\Rightarrow y^2=1-\\frac{48}{49}=\\frac{1}{49} \\\\\n& \\Rightarrow \\quad y=\\pm \\frac{1}{7}\n\\end{aligned}\n$$\n$\\therefore$ Required points $\\left(\\pm 2 \\sqrt{3}, \\pm \\frac{1}{7}\\right)$.",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "6a0be51344d287c9361e5cb8",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "<strong>Passage:</strong> Consider the ellipses given by $x^2 + 4y^2 = 1$ and $4x^2 + y^2 = 1$.<br><br><strong>Question:</strong> Let $P$ be the point in the first quadrant where the given ellipses intersect. If $\\theta$ is the acute angle between the tangents to the given ellipses at the point $P$, then the value of $4\\tan\\theta$ is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7.5",
+    "solution_text": "The given equations of the ellipses are $x^2 + 4y^2 = 1$ and $4x^2 + y^2 = 1$.<br><br>To find the point of intersection, we equate the two expressions:<br><br>$x^2 + 4y^2 = 4x^2 + y^2$<br><br>$3x^2 = 3y^2 \\Rightarrow x = y$ (since $P$ lies in the first quadrant)<br><br>Substituting $x = y$ into the first ellipse equation:<br><br>$x^2 + 4x^2 = 1 \\Rightarrow 5x^2 = 1 \\Rightarrow x = \\dfrac{1}{\\sqrt{5}}$<br><br>Thus, the point of intersection is $P\\left(\\dfrac{1}{\\sqrt{5}}, \\dfrac{1}{\\sqrt{5}}\\right)$.<br><br>Differentiating $x^2 + 4y^2 = 1$ with respect to $x$ gives the slope of the tangent to the first ellipse:<br><br>$2x + 8y \\dfrac{dy}{dx} = 0 \\Rightarrow \\dfrac{dy}{dx} = -\\dfrac{x}{4y}$<br><br>At $P\\left(\\dfrac{1}{\\sqrt{5}}, \\dfrac{1}{\\sqrt{5}}\\right)$, the slope is $m_1 = -\\dfrac{1}{4}$.<br><br>Differentiating $4x^2 + y^2 = 1$ with respect to $x$ gives the slope of the tangent to the second ellipse:<br><br>$8x + 2y \\dfrac{dy}{dx} = 0 \\Rightarrow \\dfrac{dy}{dx} = -\\dfrac{4x}{y}$<br><br>At $P\\left(\\dfrac{1}{\\sqrt{5}}, \\dfrac{1}{\\sqrt{5}}\\right)$, the slope is $m_2 = -4$.<br><br>The acute angle $\\theta$ between the tangents is given by:<br><br>$\\tan\\theta = \\left| \\dfrac{m_1 - m_2}{1 + m_1 m_2} \\right|$<br><br>$\\tan\\theta = \\left| \\dfrac{-\\dfrac{1}{4} - (-4)}{1 + \\left(-\\dfrac{1}{4}\\right)(-4)} \\right| = \\left| \\dfrac{\\dfrac{15}{4}}{2} \\right| = \\dfrac{15}{8}$<br><br>Therefore, the value of $4\\tan\\theta$ is:<br><br>$4\\tan\\theta = 4 \\times \\dfrac{15}{8} = \\dfrac{15}{2} = 7.5$<br><br>Answer: $7.5$",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  },
+  {
+    "question_id": "66965dcad603121f43a3d9bb",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Consider the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$. Let $S(p, q)$ be a point in the first quadrant such that $\\frac{p^2}{9}+\\frac{q^2}{4}>1$. Two tangents are drawn from $S$ to the ellipse, of which one meets the ellipse at one end point of the minor axis and the other meets the ellipse at a point $T$ in the fourth quadrant. Let $R$ be the vertex of the ellipse with positive $x$-coordinate and $O$ be the center of the ellipse. If the area of the triangle $\\triangle O R T$ is $\\frac{3}{2}$, then which of the following options is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sjBr9",
+        "text": "$q=2, p=3 \\sqrt{3}$",
+        "image": null
+      },
+      {
+        "id": "8bMmC",
+        "text": "$q=2, p=4 \\sqrt{3}$",
+        "image": null
+      },
+      {
+        "id": "MWxs6",
+        "text": "$q=1, p=5 \\sqrt{3}$",
+        "image": null
+      },
+      {
+        "id": "AJvpq",
+        "text": "$q=1, p=6 \\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "sjBr9",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/oP0X7KDvFuLihZQG-kOpTM-UCss8zKkZuyPZ8LPOZSQ.original.fullsize.png\">\n$\\operatorname{Ar}(\\Delta \\mathrm{ORT})=\\frac{3}{2}$\n$\\left|\\frac{1}{2} \\times 3 \\times 2 \\sin \\theta\\right|=\\frac{3}{2}$\n$\\sin \\theta=\\frac{1}{2} \\Rightarrow \\theta=\\frac{11 \\pi}{6}$ as point T is in third quadrant\n$\\mathrm{T}\\left(\\frac{3 \\sqrt{3}}{2},-1\\right)$\nTanget at $(0,2) \\frac{x(0)}{9}+\\frac{y(2)}{4}=1 \\Rightarrow y=2...(1)$\nTangent at $\\left(\\frac{3 \\sqrt{3}}{2},-1\\right) \\frac{x\\left(\\frac{3 \\sqrt{3}}{2}\\right)}{9}+\\frac{y(-1)}{4}=1...(2)$\n$\\therefore$ By solving (1) & (2) $\\Rightarrow \\mathrm{p}=3 \\sqrt{3}, \\mathrm{q}=2$\n$\\Rightarrow$ Option (1) is Correct.",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3c4",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "Columns 1, 2 and 3 contain conics, equations of tangents to the conics and points of contact, respectively.<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Column 1</td>\t\t\t<td>Column 2</td>\t\t\t<td>Column 3</td>\t\t</tr>\t\t<tr>\t\t\t<td>(I) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(i) <math><mi>m</mi><mi>y</mi><mo>=</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>x</mi><mo>+</mo><mi>a</mi></math></td>\t\t\t<td>(P) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mrow><mi>m</mi></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(II) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(ii) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>a</mi><mi>&#160;</mi><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(Q) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mi>m</mi><mi>a</mi></mrow><mrow><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mi>a</mi></mrow><mrow><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(III) <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>a</mi><mi>x</mi></math></td>\t\t\t<td>(iii) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>&#160;</mi><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(R) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>m</mi></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(IV) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(iv) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(S) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>m</mi></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t</tbody></table>The tangent to a suitable conic (Column 1) at <math><mfenced separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math> is found to be <math><msqrt><mn>3</mn></msqrt><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>4</mn></math> , then which of the following options is the only Correct combination?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kFuAa",
+        "text": "(IV) (iii) (S)",
+        "image": null
+      },
+      {
+        "id": "Htxd8",
+        "text": "(II) (iv) (R)",
+        "image": null
+      },
+      {
+        "id": "yWPkV",
+        "text": "(IV) (iv) (S)",
+        "image": null
+      },
+      {
+        "id": "6M3N4",
+        "text": "(II) (iii) (R)",
+        "image": null
+      }
+    ],
+    "correct_answer": "Htxd8",
+    "solution_text": "<p><math><mi>P</mi><mfenced separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>;</mo><mi>&#160;</mi></math>&nbsp;tangent&nbsp;<math><msqrt><mn>3</mn></msqrt><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced separators=\"|\"><msqrt><mn>3</mn></msqrt></mfenced><mi>x</mi><mo>+</mo><mn>4</mn><mfenced separators=\"|\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mi>y</mi><mo>=</mo><mn>4</mn></math>,&nbsp;comparing with (II)</p><p><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>a</mi><mo>=</mo><mn>2</mn><mi>&#160;</mi></math></p><p><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math>&nbsp;is tangent for&nbsp;<math><mi>m</mi><mo>=</mo><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></math>&nbsp;&nbsp;i.e. (ii)</p><p><math><mo>&#8756;</mo></math>&nbsp;&nbsp;&nbsp; Point of contact for&nbsp;<math><mi>a</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>&#160;</mi><mi>m</mi><mo>=</mo><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></math>&nbsp;is R</p>",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3c2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "Columns 1, 2 and 3 contain conics, equations of tangents to the conics and points of contact, respectively.<br />&nbsp;<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Column 1</td>\t\t\t<td>Column 2</td>\t\t\t<td>Column 3</td>\t\t</tr>\t\t<tr>\t\t\t<td>(I) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(i) <math><mi>m</mi><mi>y</mi><mo>=</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>x</mi><mo>+</mo><mi>a</mi></math></td>\t\t\t<td>(P) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mrow><mi>m</mi></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(II) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(ii) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>a</mi><mi>&#160;</mi><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(Q) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mi>m</mi><mi>a</mi></mrow><mrow><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mi>a</mi></mrow><mrow><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(III) <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>a</mi><mi>x</mi></math></td>\t\t\t<td>(iii) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>&#160;</mi><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(R) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>m</mi></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(IV) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(iv) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(S) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>m</mi></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t</tbody></table>For <math><mi>a</mi><mo>=</mo><msqrt><mn>2</mn></msqrt></math> , if a tangent is drawn to a suitable conic (Column 1) at the point of contact <math><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mn>1</mn></mrow></mfenced></math> , then which of the following options is the only Correct combination for obtaining its equation?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZBOjw",
+        "text": "(II) (ii) (Q)",
+        "image": null
+      },
+      {
+        "id": "PEVEc",
+        "text": "(III) (i) (P)",
+        "image": null
+      },
+      {
+        "id": "q9PWt",
+        "text": "(I) (ii) (Q)",
+        "image": null
+      },
+      {
+        "id": "KTE4B",
+        "text": "(I) (i) (P)",
+        "image": null
+      }
+    ],
+    "correct_answer": "q9PWt",
+    "solution_text": "<p>For <math><mi>a</mi><mo>=</mo><mi>&#160;</mi><msqrt><mn>2</mn></msqrt></math>&nbsp;&nbsp;and point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn><mo>)</mo></math> only I of column-1 satisfies. Hence, equation of tangent is <math><mo>-</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>2</mn></math>&nbsp;or &nbsp;<math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>m</mi><mo>=</mo><mn>1</mn></math>&nbsp; which matches with (ii) of column 2 and also with Q of column 3</p>",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  },
+  {
+    "question_id": "64b16a4bf23ac7d519f9b320",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>2</mn></msub></math> be two ellipse whose centers are at the origin. The major axes of <math><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> lie along the x - axis and the y - axis, respectively. Let S be the circle <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>y</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mo>.</mo></math> The straight line <math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn></math> touches the curves&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>,</mo><mo>&#160;</mo><msub><mi>E</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>2</mn></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mo>&#160;</mo><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>,</mo></math> respectively. Suppose that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mo>=</mo><mi>P</mi><mi>R</mi><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow><mn>3</mn></mfrac><mo>.</mo></math>&nbsp;If<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#160;</mi><msub><mi>e</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>e</mi><mn>2</mn></msub></math>&nbsp;are the eccentricities of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>2</mn></msub><mo>,</mo></math>respectively, then the correct expression(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cvRjZ",
+        "text": "<math><msubsup><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><mi> </mi><msubsup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>43</mn></mrow><mrow><mn>40</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "2FNvs",
+        "text": "<math><msub><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mi> </mi><mfrac><mrow><msqrt><mn>7</mn></msqrt></mrow><mrow><mn>2</mn><msqrt><mn>10</mn></msqrt></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Ac3sF",
+        "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msubsup><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mi> </mi><msubsup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "EmKKx",
+        "text": "<math><msub><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mi> </mi><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2FNvs",
+    "solution_text": "Let Q be <math><mo>(</mo><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>)</mo></math><br />So equation tangent at Q will be<br /><math><mi>x</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mi>y</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><mfenced separators=\"|\"><mrow><mi>y</mi><mo>+</mo><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math><br />Comparing with <math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn></math><br /><math><mfenced separators=\"|\"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced><mi>&#160;</mi><mo>&#8801;</mo><mo>(</mo><mn>1,2</mn><mo>)</mo></math><br />So R and Q will be<br /><math><mfenced separators=\"|\"><mrow><mn>1</mn><mi>&#160;</mi><mo>&#177;</mo><mfrac><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>2</mn><mo>&#177;</mo><mfrac><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mn>3</mn><mi>&#960;</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mrow></mrow></mrow></mrow></mfenced></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>Q</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>&#160;</mi><mo>,</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>&#160;</mi><mo>,</mo><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced></math><br />Let Q lies on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mi>&#160;</mi></mrow><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>+</mo><mi>&#160;</mi><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>=</mo><mn>1</mn></math><br />So tangent at P is<br /><math><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mrow><mn>3</mn><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>4</mn><mi>y</mi></mrow><mrow><mn>3</mn><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn></math><br />Comparing with <math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn></math><br /><math><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>5</mn><mo>,</mo><mi>&#160;</mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>&#160;</mi><mo>&#8658;</mo><msub><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>5</mn></msqrt></mrow></mfrac></math><br />And R lies on <math><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msubsup><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msubsup><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mn>1</mn></math><br />So tangent at <math><mfrac><mrow><mi>x</mi></mrow><mrow><msubsup><mrow><mn>3</mn><mi>a</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>8</mn><mi>y</mi></mrow><mrow><msubsup><mrow><mn>3</mn><mi>b</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mn>3</mn></math><br />Comparing with <math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msubsup><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><msubsup><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mn>8</mn><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msqrt><mfrac><mrow><mn>7</mn></mrow><mrow><mn>8</mn></mrow></mfrac></msqrt></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msubsup><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><msubsup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>43</mn></mrow><mrow><mn>40</mn></mrow></mfrac><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>e</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msqrt><mn>7</mn></msqrt></mrow><mrow><mn>2</mn><msqrt><mn>10</mn></msqrt></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  },
+  {
+    "question_id": "64b16a2bf23ac7d519f9b1f9",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A vertical line passing through the point&nbsp;<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>h</mtext> <mo>,</mo> <mtext>0</mtext> </mrow> </mfenced> </mrow> </math> intersects the ellipse <math> <mrow> <mfrac> <mrow> <msup> <mtext>x</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mtext>y</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <mo>=</mo> <mn>1</mn> </mrow> </math> at the points <math> <mrow> <mtext>P</mtext> </mrow> </math> and <math> <mrow> <mtext>Q</mtext> </mrow> </math>. Let the tangents to the ellipse at <math> <mrow> <mtext>P</mtext> </mrow> </math> and <math> <mrow> <mtext>Q</mtext> </mrow> </math> meet at the point <math> <mrow> <mtext>R</mtext> </mrow> </math>. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#916;</mo><mo>(</mo><mi mathvariant=\"normal\">h</mi><mo>)</mo><mo>=</mo></math> area of triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PQR</mi><mo>,</mo><msub><mo>&#916;</mo><mn>1</mn></msub><mo>=</mo><munder><mi>max</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8804;</mo><mi mathvariant=\"normal\">h</mi><mo>&#8804;</mo><mn>1</mn></mrow></munder><mo>&#916;</mo><mfenced><mi mathvariant=\"normal\">h</mi></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><msub><mi mathvariant=\"normal\">&#916;</mi><mn>2</mn></msub><mo>=</mo><munder><mi>min</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8804;</mo><mi mathvariant=\"normal\">h</mi><mo>&#8804;</mo><mn>1</mn></mrow></munder><mo>&#916;</mo><mo>(</mo><mi mathvariant=\"normal\">h</mi><mo>)</mo></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>8</mn><msqrt><mn>5</mn></msqrt></mfrac><msub><mo>&#916;</mo><mn>1</mn></msub><mo>-</mo><mn>8</mn><msub><mo>&#916;</mo><mn>2</mn></msub><mo>=</mo></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p>Point of intersection of tangents at P and Q is <math> <mrow> <mtext>R</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>2 sec</mtext> <mi>θ</mi> <mo>,</mo> <mn>0</mn> </mrow> </mfenced> </mrow> </math><br >Area of <math> <mrow> <mo>Δ</mo> <mtext>PQR</mtext> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mo>·</mo> <mn>2</mn> <msqrt> <mn>3</mn> </msqrt> <mo>sin</mo> <mi>θ</mi> <mo>·</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>2 sec</mtext> <mi>θ</mi> <mo>-</mo> <mtext>2 cos </mtext> <mi>θ</mi> </mrow> </mfenced> </mrow> </math><br ><math> <mrow> <mo>⇒</mo> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mo>Δ</mo> <mo>=</mo> <mn>2</mn> <msqrt> <mn>3</mn> </msqrt> <mo>·</mo> <mfrac> <mrow> <msup> <mtext>sin</mtext> <mn>3</mn> </msup> <mi>θ</mi> </mrow> <mrow> <mtext>cos </mtext> <mi>θ</mi> </mrow> </mfrac> </mrow> </math>; where <math> <mrow> <mtext>cos </mtext> <mi>θ</mi> <mo>∈</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> <mtext>,</mtext> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1df3a2e8-8393-419d-a335-f851dbae4e4a-82.PNG\"/><br >Now <math> <mrow> <mfrac> <mrow> <mtext>d</mtext> <mo>Δ</mo> </mrow> <mrow> <mtext>d</mtext> <mi>θ</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <msqrt> <mn>3</mn> </msqrt> <mfenced close=\"|\" open=\"|\" separators=\",\"> <mrow> <mtext>cos </mtext> <mi>θ</mi> <mo>·</mo> <msup> <mtext>3 sin</mtext> <mn>2</mn> </msup> <mi>θ</mi> <mtext>cos </mtext> <mi>θ</mi> <mo>-</mo> <msup> <mtext>sin</mtext> <mn>3</mn> </msup> <mi>θ</mi> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mtext>sin</mtext> <mi>θ</mi> </mrow> </mfenced> </mrow> </mfenced> </mrow> <mrow> <msup> <mtext>cos </mtext> <mn>2</mn> </msup> <mi>θ</mi> </mrow> </mfrac> <mo>></mo> <mn>0</mn> </mrow> </math><br >As <math> <mrow> <mi>θ</mi> </mrow> </math> increases, <math> <mrow> <mo>Δ</mo> </mrow> </math> increases <math> <mrow> <mo>⇒</mo> </mrow> </math> when cos <math> <mrow> <mi>θ</mi> </mrow> </math> decreases, <math> <mrow> <mo>Δ</mo> </mrow> </math> increases<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mspace width=\"0.5em\"></mspace><mspace width=\"0.5em\"></mspace><msub><mo>Δ</mo><mtext>min</mtext></msub><mtext> occurs at cos</mtext><mi>θ</mi><mo>=</mo><mn>1</mn><mo>/</mo><mn>2</mn><mtext>,</mtext><mspace width=\"0.5em\"></mspace><mtext>Therefore </mtext><msub><mo>Δ</mo><mn>2</mn></msub><mo>=</mo><mn>2</mn><msqrt><mn>3</mn></msqrt><mo>·</mo><mfrac><msup><mfenced><mrow><mn>1</mn><mo>-</mo><mn>1</mn><mo>/</mo><mn>4</mn></mrow></mfenced><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mn>4</mn><msqrt><mn>3</mn></msqrt><mo>·</mo><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mn>8</mn></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mn>6</mn></mrow><mn>8</mn></mfrac></math><br ><math> <mrow> <msub> <mo>Δ</mo> <mtext>max</mtext> </msub> <mtext> occurs at cos</mtext> <mi>θ</mi> <mo>=</mo> <mn>1</mn> <mo>/</mo> <mn>4</mn> <mtext>,</mtext> <mspace width=\"0.5em\"></mspace> <mtext>Therefore </mtext> <mspace width=\"0.5em\"></mspace> <msub> <mo>Δ</mo> <mn>1</mn> </msub> <mo>=</mo> <mn>2</mn> <msqrt> <mn>3</mn> </msqrt> <mo>·</mo> <mfrac> <mrow> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>1</mn> <mo>-</mo> <mn>1</mn> <mo>/</mo> <mn>1</mn> <mn>6</mn> </mrow> </mfenced> </mrow> <mrow> <mn>3</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> <mrow> <mn>1</mn> <mo>/</mo> <mn>4</mn> </mrow> </mfrac> <mo>=</mo> <mn>8</mn> <msqrt> <mn>3</mn> </msqrt> <mo>·</mo> <mfrac> <mrow> <mn>1</mn> <mn>5</mn> <mtext>.</mtext> <msqrt> <mn>1</mn> <mn>5</mn> </msqrt> </mrow> <mrow> <mtext>4.4.4</mtext> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <msqrt> <mn>3</mn> </msqrt> <mtext>.</mtext> <mn>1</mn> <mn>5</mn> <mtext>.</mtext> <msqrt> <mn>3</mn> </msqrt> <msqrt> <mn>5</mn> </msqrt> </mrow> <mrow> <mn>1</mn> <mn>6</mn> </mrow> </mfrac> </mrow> </math><br ><math> <mrow> <mo>⇒</mo> <mspace width=\"0.5em\"></mspace> <msub> <mo>Δ</mo> <mn>1</mn> </msub> <mo>=</mo> <mfrac> <mrow> <mn>4</mn> <mn>5</mn> </mrow> <mrow> <mn>8</mn> </mrow> </mfrac> <msqrt> <mn>5</mn> </msqrt> </mrow> </math><br >Now <math> <mrow> <mfrac> <mrow> <mn>8</mn> </mrow> <mrow> <msqrt> <mn>5</mn> </msqrt> </mrow> </mfrac> <msub> <mo>Δ</mo> <mn>1</mn> </msub> <mo>-</mo> <mn>8</mn> <msub> <mo>Δ</mo> <mn>2</mn> </msub> <mo>=</mo> <mn>4</mn> <mn>5</mn> <mo>-</mo> <mn>3</mn> <mn>6</mn> <mo>=</mo> <mn>9</mn> </mrow> </math></p>",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  },
+  {
+    "question_id": "64b16a09f23ac7d519f9b0c0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTangents are drawn from the point $P(3,4)$ to the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$ touching the ellipse at points $A$ and $B$.<strong>Question:</strong>\nThe coordinates of $A$ and $B$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PVBAm",
+        "text": "\n$(3,0)$ and $(0,2)$\n",
+        "image": null
+      },
+      {
+        "id": "K3LdB",
+        "text": "\n$\\left(-\\frac{8}{5}, \\frac{2 \\sqrt{161}}{15}\\right)$ and $\\left(-\\frac{9}{5}, \\frac{8}{5}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "heHHo",
+        "text": "\n$\\left(-\\frac{8}{5}, \\frac{2 \\sqrt{161}}{15}\\right)$ and $(0,2)$\n",
+        "image": null
+      },
+      {
+        "id": "qi2qf",
+        "text": "\n$(3,0)$ and $\\left(-\\frac{9}{5}, \\frac{8}{5}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qi2qf",
+    "solution_text": "$$\n\\text { Figure is self explanatory }\n$$\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jDX6GkEhtNdY7zYO8pXOklILC_QwTFTGY_kNUs2S2r4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Tangent to ellipse"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "question_id": "68542ca97c09d044e4c1a324",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 1)",
+    "paper_year_short": "2025 (7 Apr Shift 1)",
+    "held_on": "2025-04-07T09:00:00.000Z",
+    "question_text": "Thyroxine, the hormone has given below structure<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/fQKwiWHsfQNyQAX9ieH1t77RDt1iPhT4o0KpkiZ09MQ.original.fullsize.png\"/><br />The percentage of iodine in thyroxine is ____ $\\%$. (nearest integer)<br />(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{C}: 12. \\mathrm{H}: 1, \\mathrm{O}: 16$, $\\mathrm{N}: 14, \\mathrm{I}: 127)$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "65",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/er4SiHYwNLwmhKwG93Fp4R847ec9vYXy0CN0eUokvWQ.original.fullsize.png\"/><br />$\\rightarrow$ Molecular formula of Thyroxine $\\Rightarrow$ $\\mathrm{C}_{15} \\mathrm{H}_{11} \\mathrm{O}_4 \\mathrm{NI}_4$<br />$\\rightarrow$ Molecular mass of Thyroxine -<br />$\\begin{aligned} & \\mathrm{C} \\rightarrow 15 \\times 12=180 \\\\ & \\mathrm{H} \\rightarrow 11 \\times 1=11 \\\\ & \\mathrm{O} \\rightarrow 16 \\times 4=64 \\\\ & \\mathrm{~N} \\rightarrow 14 \\times 1=14 \\\\ & \\mathrm{I} \\rightarrow 127 \\times 4=508\\end{aligned}$<br />$\\rightarrow$ Molecular mass of Thyroxine $\\Rightarrow 777$<br />$\\begin{aligned}& \\rightarrow \\% \\text { of Iodine }=\\frac{508}{777} \\times 100 \\\\& =65.38 \\%\\end{aligned}$<br />Nearest integer $=65$",
+    "solution_image": null,
+    "topic": "Drugs and It's Classification"
+  }
+]

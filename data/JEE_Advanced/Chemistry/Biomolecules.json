@@ -1,0 +1,742 @@
+[
+  {
+    "question_id": "6a0be51644d287c9361e5cd4",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "The correct statement(s) regarding sugars is(are)<br>Given: Specific rotations of L-($-$)-glucose and L-($+$)-fructose are $-52.5^\\circ$ and $+92.5^\\circ$, respectively.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "k2vZR",
+        "text": "On treatment with $\\text{HNO}_3$, gluconic acid is oxidized to saccharic acid, whereas glucose is not oxidized to saccharic acid.",
+        "image": null
+      },
+      {
+        "id": "KCCSz",
+        "text": "Fructose gives a positive Fehling's test because it isomerises to glucose and another aldohexose in the presence of Fehling's reagent.",
+        "image": null
+      },
+      {
+        "id": "PTFWz",
+        "text": "Invert sugar is an equimolar mixture of D-glucose and D-fructose formed after hydrolysis of the corresponding disaccharide.",
+        "image": null
+      },
+      {
+        "id": "bX91b",
+        "text": "Specific rotation of invert sugar is $-40^\\circ$.",
+        "image": null
+      }
+    ],
+    "correct_answer": "PTFWz",
+    "solution_text": "Statement (A) is incorrect: Nitric acid ($\\text{HNO}_3$) is a strong oxidizing agent that oxidizes both glucose and gluconic acid to saccharic acid.<br><br>Statement (B) is correct: Fehling's reagent provides an alkaline medium. Under these conditions, fructose (a ketose) undergoes the Lobry de Bruyn-van Ekenstein rearrangement to form an equilibrium mixture of fructose, glucose, and mannose. Glucose and mannose are aldohexoses that readily reduce Fehling's solution, giving a positive test.<br><br>Statement (C) is correct: Hydrolysis of sucrose (a disaccharide) yields an equimolar mixture of D-($+$)-glucose and D-($-$)-fructose. This mixture is known as invert sugar because the sign of specific rotation changes from positive (for sucrose) to negative (for the mixture).<br><br>Statement (D) is incorrect: The specific rotation of L-($-$)-glucose is $-52.5^\\circ$, so for D-($+$)-glucose it is $+52.5^\\circ$. The specific rotation of L-($+$)-fructose is $+92.5^\\circ$, so for D-($-$)-fructose it is $-92.5^\\circ$.<br>The specific rotation of invert sugar (an equimolar mixture of D-glucose and D-fructose, which have the same molar mass) is the average of their specific rotations:<br>$[\\alpha]_{\\text{mix}} = \\dfrac{+52.5^\\circ + (-92.5^\\circ)}{2} = -20^\\circ$.<br><br>Answer: Fructose gives a positive Fehling's test because it isomerises to glucose and another aldohexose in the presence of Fehling's reagent.; Invert sugar is an equimolar mixture of D-glucose and D-fructose formed after hydrolysis of the corresponding disaccharide.",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "6a0be51544d287c9361e5ccf",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A known artificial sweetener $\\textbf{X}$ is composed of 4-chloro-4-deoxy-$\\alpha$-D-galactose and 1,6-dichloro-1,6-dideoxy-$\\beta$-D-fructose joined by a glycosidic linkage. Structure of D-galactose is given below:<br><img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q40_d1.png\" /><br>The correct structure of $\\textbf{X}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "m3GXx",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q40_d2.png\" />",
+        "image": null
+      },
+      {
+        "id": "Jv5Ob",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q40_d3.png\" />",
+        "image": null
+      },
+      {
+        "id": "oM5bq",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q40_d4.png\" />",
+        "image": null
+      },
+      {
+        "id": "6JxX9",
+        "text": "<img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q40_d5.png\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "m3GXx",
+    "solution_text": "<img style=\"width: 600px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q40_d6.png\" />",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "64b16a8bf23ac7d519f9b55f",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Given:\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f47c6400-6ff1-4059-a8ef-edd8a47f847a-image.png\" style=\"width: 350px; height: 198px;\" />\r\n\r\nThe compound&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>,</mo></math>&nbsp;which on reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>HNO</mi><mn>3</mn></msub></math> will give the product having degree of rotation,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi mathvariant=\"normal\">&#945;</mi></mfenced><mi mathvariant=\"normal\">D</mi><mo>=</mo><mo>&#8722;</mo><mn>52</mn><mo>.7</mo><mo>&#176;</mo></math>&nbsp;is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8mZap",
+        "text": "<p><img height=\"148\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1f7e7db7-059d-47ee-9023-b7b2594419f3-image.png\" width=\"112\" /></p>",
+        "image": null
+      },
+      {
+        "id": "xkIpv",
+        "text": "<p><img height=\"148\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/153ebe6a-346a-437c-8fea-eef693ac87a2-image.png\" style=\"float: left;\" width=\"109\" /></p>",
+        "image": null
+      },
+      {
+        "id": "HFbYj",
+        "text": "<p><img height=\"147\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/53cd9f22-320b-4d23-ac57-90a7cc81dc4b-image.png\" width=\"113\" /></p>",
+        "image": null
+      },
+      {
+        "id": "aVMkn",
+        "text": "<p><img height=\"146\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/25c443d7-61fb-4b05-9acd-492cdda92221-image.png\" style=\"float: left;\" width=\"105\" /></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "aVMkn",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vNGTXjRj3GdpI9t5YUwsB2Br0VeGkByfJQ6mxg-vLiE.original.fullsize.png\"/><br/>Now the structure, that shows $[\\propto]_{D}=-52.7^{\\circ}$ is<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/N7EOD4e9bV3kwYH4_pJDoDJJEapgd536SpUXP5_aq2c.original.fullsize.png\"/><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pkKQ4PyXzU9ySor52I5wcewFoLfI6vGzY2fwjUwHV90.original.fullsize.png\"/><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hG9VA52CNsz5BS4nYjNfkvCDY5Ca-2vrGSXKlWBM7h4.original.fullsize.png\"/><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZFwHtHecwE1RAVyON6IxXutgqHlRcVXgr4_VATfaTiY.original.fullsize.png\"/><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kVkUmWaQjkXR58s1jPN-aiQP9xC6Zf_4wbZlEmwRzfo.original.fullsize.png\"/>",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "64b16a6cf23ac7d519f9b449",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "<p>The Fischer presentation of D-glucose is given below<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xobndxpoodckkvisnkvtyidyfrvnwcgywyzvvaumkpnjhncwuc.jpeg\"/><br >The correct structure(s) of <math><mi>β</mi><mo>-</mo><mi>L</mi><mo>-</mo></math> glucopyranose is (are)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XFnh5",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/emjykagymznogmouetygouhopdapanoiiudakjmavlhapmsize.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "XWKlX",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rtgikcmgzlrkuojirmgyowdcnmuuswwyjwxpldakdomxllkhqv.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "2Gbat",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/coexjixlhntxedwonucnpqcobyxbbmvntdswhczskfhbblmrot.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "WllKT",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/drsulwhtndzekneekezjjhynllttfkaaheotgiwmldfdnankwj.jpeg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "WllKT",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hgkejxghcpzcrbmgghyqzlxogqntkttrediunlyaxlpqbpnlkh.jpeg\"/>",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "64b16a42f23ac7d519f9b2cd",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>The structure of <math><mi mathvariant=\"normal\">D</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mo>+</mo></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">e</mi></math> is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image47-0530bb83-0c42-437b-9b0e-227fe5808063.jpg\"/><br >The structure of <math><mi mathvariant=\"normal\">L</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">e</mi></math> is</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MPz9i",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image48-a27e9b71-ad24-4644-b63c-d4aac70abd7c.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "7s5iE",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image49-c293650a-7ea8-48e3-bc8f-ae5d6f3ff649.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "qKLZD",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image50-cf024ebc-1a07-4ef3-a6ca-513fa99e73ee.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "j1uYX",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image51-5b3f8d4c-b708-4994-9734-6461b05c3bfe.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MPz9i",
+    "solution_text": "<p>The structure of <math><mi mathvariant=\"normal\">L</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">e</mi></math> is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image52-b80b925c-39b7-404a-a541-44e7219af650.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b16a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "When the following aldohexose exists in its D-configuration, the total number of stereoisomers in its pyranose form is :\r\n\r\n$\\mathrm{CHO}-\\mathrm{CH}_{2}-\\mathrm{CHOH}-\\mathrm{CHOH}-\\mathrm{CHOH}-\\mathrm{CH}_{2} \\mathrm{OH}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/KyWlZsicRYTj_rfw35_zDvgQtgvHykOdM0o0zUk-dhc.original.fullsize.png\"><br>\r\n\r\nThus, total number of stereoisomers in pyranose form of D-configuration $=2^{3}=8$",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "64b16a13f23ac7d519f9b11f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "The following carbohydrate is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LZMccHCZciAHoKNne5T0u7qX1eX5ii5OxbVFDwr8UXk.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dBAYV",
+        "text": "\na ketohexose\n",
+        "image": null
+      },
+      {
+        "id": "77ayi",
+        "text": "\nan aldohexose\n",
+        "image": null
+      },
+      {
+        "id": "nVcN3",
+        "text": "\nan $\\alpha$-furanose\n",
+        "image": null
+      },
+      {
+        "id": "ByxDa",
+        "text": "\nan $\\alpha$-pyranose",
+        "image": null
+      }
+    ],
+    "correct_answer": "77ayi",
+    "solution_text": "Here, the- $\\mathrm{OH}$ of hemiacetal group is equatorial therefore, it is a $\\beta$-pyranose of an aldohexose.",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b019",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The correct statement(s) about the following sugars $X$ and $Y$ is (are)\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZoedRdBPYAC6fLpcvG-PfllkpSpBdM5GZHTcYr8M3iU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "k5fmC",
+        "text": "\n$X$ is a reducing sugar and $Y$ is a non-reducing sugar\n",
+        "image": null
+      },
+      {
+        "id": "ujHgO",
+        "text": "\n$X$ is a non-reducing sugar and $Y$ is a reducing sugar\n",
+        "image": null
+      },
+      {
+        "id": "vICyQ",
+        "text": "\nthe glucosidic linkages in $X$ and $Y$ are $\\alpha$ and $\\beta$, respectively\n",
+        "image": null
+      },
+      {
+        "id": "IvL8I",
+        "text": "\nthe glucosidic linkages in $X$ and $Y$ are $\\beta$ and $\\alpha$, respectively",
+        "image": null
+      }
+    ],
+    "correct_answer": "vICyQ",
+    "solution_text": "$X$ has acetal linkage and $Y$ has hemiacetal linkage. Carbohydrate with hemiacetal linkage are reducing sugars and carbohydrate with acetal linkage are non reducing sugars.\n$X$ is $\\alpha$ anomer and $Y$ is $\\beta$-anomer of $D(+)$ glucose.",
+    "solution_image": null,
+    "topic": "Carbohydrates"
+  },
+  {
+    "question_id": "685102c66bba689a3eb09cce",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A linear octasaccharide (molar mass $=1024 \\mathrm{~g} \\mathrm{~mol}^{-1}$ ) on complete hydrolysis produces three monosaccharides: ribose, 2-deoxyribose and glucose. The amount of 2-deoxyribose formed is $58.26 \\%(\\mathrm{w} / \\mathrm{w})$ of the total amount of the monosaccharides produced in the hydrolyzed products. The number of ribose unit(s) present in one molecule of octasaccharide is $\\qquad$\nUse : Molar mass $\\left(\\right.$ in $\\left.\\mathrm{g} \\mathrm{mol}^{-1}\\right)$ : ribose $=150,2$-deoxyribose $=134$, glucose $=180$; Atomic mass (in amu): $\\mathrm{H}=1, \\mathrm{O}=16$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "$\\underset{\\mathrm{M} . \\mathrm{M} .=1024}{\\text { Octasaccharide }}+\\underset{\\mathrm{M} . \\mathrm{M} .=126}{7 \\mathrm{H}_2 \\mathrm{O}} \\longrightarrow \\begin{aligned} & \\text { Ribose }+ \\text { 2deoxyribose }+ \\text { glucose } \\\\ & \\text { Total mass }=1024+126=1150\\end{aligned}$<br>$\\begin{aligned}\n& 58.26=\\frac{134 \\times n}{1150} \\times 100 \\\\\n& \\frac{66.999}{100}=134 n \\quad n=4.99=5\n\\end{aligned}$<br>5 units of 2-Deoxyribose\n$1150=(5 \\times 150)+(\\mathrm{x} \\times 150)+(\\mathrm{y} \\times 180)$<br>$\\begin{aligned} & 1150=\\underbrace{750}_{5 \\text { unit }}+\\underbrace{150 x}_{300}+\\underbrace{180 y}_{180} \\\\ \n& \\qquad \\quad \\qquad \\quad \\text{2 unit} \\quad  \\text{1 unit}\\end{aligned}$\nn = 2.00",
+    "solution_image": null,
+    "topic": "Disaccharides and Polysaccharides"
+  },
+  {
+    "question_id": "64b16aa8f23ac7d519f9b669",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "A disaccharide X cannot be oxidised by bromine water. The acid hydrolysis of X leads to a laevorotatory solution. The disaccharide X is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eJCOZ",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/def2d9f1-e717-46b4-ac8f-a6e1ae3cc010.png\" style=\"width: 400px; height: 145px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "DddLT",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b11ca96f-be72-4c7a-9df4-a1b7c0fdf356.png\" style=\"width: 400px; height: 144px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "o8Xct",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/beea2ec4-b510-48c4-9238-ae5f1b45e656.png\" style=\"width: 340px; height: 120px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "enTMs",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1618225d-37d3-4a6f-a610-f36a3540bc97.png\" style=\"width: 344px; height: 121px;\" /></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "eJCOZ",
+    "solution_text": "<blockquote><p>A and D cannot be oxidised by bromine water as they do not have hemiacetal linkage. The acid hydrolysis of A leads to a laevorotatory solution. A is sucrose which is dextrorotatory, on acid hydrolysis gives mixture of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>-D-glucopyranose&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math>-D-fructofuranose, the mixture is laevorotatory.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b6af0d57-7aef-49e9-b668-a1279ac3b853.png\" style=\"width: 952px; height: 249px;\" /></p></blockquote>",
+    "solution_image": null,
+    "topic": "Disaccharides and Polysaccharides"
+  },
+  {
+    "question_id": "64b16a55f23ac7d519f9b374",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "For &#39;invert sugar&#39;, the correct statement(s) is (are)<br />(Given: specific rotations of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mo>+</mo></mfenced><mo>-</mo></math>sucrose, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mo>+</mo></mfenced><mo>-</mo></math>maltose, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>-</mo><mfenced><mo>-</mo></mfenced><mo>-</mo></math>glucose and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>-</mo><mfenced><mo>+</mo></mfenced><mo>-</mo></math>fructose in aqueous solution are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mn>66</mn><mo>&#176;</mo></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><msup><mn>140</mn><mo>&#176;</mo></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>&#8211;</mo><msup><mn>52</mn><mo>&#176;</mo></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mn>92</mn><mo>&#176;</mo></msup></math>, respectively)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CK6Rk",
+        "text": "&#39;invert sugar&#39; is prepared by acid catalyzed hydrolysis of maltose.",
+        "image": null
+      },
+      {
+        "id": "tHFoP",
+        "text": "&#39;invert sugar&#39; is an equimolar mixture of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi><mo>-</mo><mfenced><mo>+</mo></mfenced></math> glucose and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi><mo>-</mo><mfenced><mo>-</mo></mfenced><mo>-</mo></math> fructose.",
+        "image": null
+      },
+      {
+        "id": "8RYGY",
+        "text": "specific rotation of &#39;invert sugar&#39; is <math><mo>-</mo><msup><mrow><mn>20</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math>.",
+        "image": null
+      },
+      {
+        "id": "dZO3f",
+        "text": "on reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Br</mi><mn>2</mn></msub></math> water, &#39;invert sugar&#39; forms saccharic acid as one of the products.",
+        "image": null
+      }
+    ],
+    "correct_answer": "8RYGY",
+    "solution_text": "<p>Invert sugar is an equimolar mixture of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi><mo>-</mo></math>glucose and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi><mo>-</mo></math>fructose, which is obtained by the hydrolysis of sucrose<br >Specific rotation of mixture is the half of the sum of specific rotation of both components,<math><mfrac><mrow><mo>+</mo><msup><mrow><mn>52</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mo>+</mo><mfenced separators=\"|\"><mrow><mo>-</mo><msup><mrow><mn>92</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mo>-</mo><msup><mrow><mn>20</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.25_Ans_1.jpg\"/></p><p><span style=\"line-height: 1.6;\">(specific rotation </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>52</mn><mo>°</mo></math><span style=\"line-height: 1.6;\">) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mi mathvariant=\"normal\">D</mi><mo>-</mo></math>fructose (specific rotation </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>92</mn><mo>°</mo></math><span style=\"line-height: 1.6;\">) Sucrose specific rotation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>66</mn><mo>°</mo></math></span></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.25_Ans_2.jpg\"/></p><p><math><mi mathvariant=\"normal\">D</mi><mo>-</mo><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\"> </mi><mover accent=\"false\"><mo>→</mo><mrow><mi mathvariant=\"normal\">B</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></mrow></mover><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi></math>.</p>",
+    "solution_image": null,
+    "topic": "Disaccharides and Polysaccharides"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b054",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The correct statement about the following disaccharide is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QqT6oLSrnkeSquiGQCGACjGNdqT2hMxckER2bHRinJk.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "l9Ylf",
+        "text": "\nRing (a) is pyranose with $\\alpha$-glycosidic link\n",
+        "image": null
+      },
+      {
+        "id": "2bih3",
+        "text": "\nRing (a) is furanose with $\\alpha$-glycosidic link\n",
+        "image": null
+      },
+      {
+        "id": "4pVzx",
+        "text": "\nRing (b) is furanose with $\\alpha$-glycosidic link\n",
+        "image": null
+      },
+      {
+        "id": "fswBa",
+        "text": "\nRing (b) is pyranose with $\\beta$-glycosidic link",
+        "image": null
+      }
+    ],
+    "correct_answer": "l9Ylf",
+    "solution_text": "Ring $A$ is pyranose ( 6 membered ring containing one O-atom) with $\\alpha$-glycosidic linkage and ring $B$ is furanose with $\\beta$-glycosidic linkage.\nBiomolecules Conceptual structural interpretation III",
+    "solution_image": null,
+    "topic": "Disaccharides and Polysaccharides"
+  },
+  {
+    "question_id": "64b169eaf23ac7d519f9af9f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Cellulose upon acetylation with excess acetic anhydride $/ \\mathrm{H}_2 \\mathrm{SO}_4$ (catalytic) gives cellulose triacetate whose structures is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "v2dqv",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vcZWeiwKU2Vq9yUSu_12xota-a4MELVx4tBB_R7Mtyk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "Eu0cf",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cFjjhfJ5MqUjhtPAANFIh657CBYwMmJ4ppRqLkx8-k8.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "kCif3",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-8XI9mYzYOXsJOA9AWUyO1eA4Mb45HNpMzM9Fgor0-E.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "8ObGb",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/i0fyHXTqCwabq19fcj15yW5CyfeHsUF7SYB_85zK-AA.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "v2dqv",
+    "solution_text": "Cellulose is a straight chain polysaccharide composed of D-glucose units, which are joined by $\\beta$-glycosidic linkages between $\\mathrm{C}-1$ of one glucose and C-4 of the next glucose. In one, unit only three hydroxy groups are free to form acetate, that's why called cellulose triacetate",
+    "solution_image": null,
+    "topic": "Disaccharides and Polysaccharides"
+  },
+  {
+    "question_id": "66965de3d603121f43a438ea",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "For a double strand DNA, one strand is given below:\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e53XGV6r-Y-VKbXwU2G4A49Q1dcSnhGAC7PG0EA5PWA.original.fullsize.png\">\nThe amount of energy required to split the double strand DNA into two single strands is _______ kcal $\\mathrm{mol}^{-1}$.\n[Given: Average energy per $\\mathrm{H}$-bond for A-T base pair $=1.0 \\mathrm{kcal} \\mathrm{mol}^{-1}, \\mathrm{G}-\\mathrm{C}$ base pair $=1.5 \\mathrm{kcal}$ $\\mathrm{mol}^{-1}$, and A-U base pair $=1.25 \\mathrm{kcal} \\mathrm{mol}^{-1}$. Ignore electrostatic repulsion between the phosphate groups.]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 41,
+    "solution_text": "$\\mathrm{A}=\\mathrm{T} \\quad 2 \\mathrm{H}$-bond\n$\\mathrm{G} \\equiv \\mathrm{C} \\quad 3 \\mathrm{H}$-bond\nNumber of $\\mathrm{A}=\\mathrm{T}$ pair $=7$\nNumber of $\\mathrm{G} \\equiv \\mathrm{C}$ pair $=6$\nNumber of H-bond involve in $\\mathrm{A}=\\mathrm{T}=7 \\times 2=14$\nNumber of $\\mathrm{H}$-bond involve in $\\mathrm{G} \\equiv \\mathrm{C}=6 \\times 3=18$\nEnergy required for $\\mathrm{A}=\\mathrm{T}=14 \\times 1=14$\nEnergy required for $\\mathrm{G} \\equiv \\mathrm{C}=18 \\times 1.5=27$\nTotal energy required $14+27=41$",
+    "solution_image": null,
+    "topic": "Nucleic Acids"
+  },
+  {
+    "question_id": "64b16a9ef23ac7d519f9b60d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Treatment of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>-glucose with aqueous <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> results in a mixture of monosaccharides, which are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vN4SB",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/655906f4-67f4-436e-a4ff-5ffed7720cd9-image.png\" style=\"width: 353px; height: 120px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "cIiyr",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8936aed9-b2b3-49fe-b4f1-866a521cf384-image.png\" style=\"width: 348px; height: 120px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "ELYi9",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/be7c5e8e-8b4d-4ce7-9ef0-db0b0dd4e8b1-image.png\" style=\"width: 343px; height: 120px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "dhfDi",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5a59f4a8-2c5b-479f-92fe-ff72bb6a2f52-image.png\" style=\"width: 350px; height: 120px;\" /></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ELYi9",
+    "solution_text": "<blockquote><p>When glucose is treated with dilute&nbsp;NaOH, it&nbsp;gives a&nbsp;mixture of&nbsp;D-glucose,&nbsp;D-mannose and&nbsp;D-fructose. This reaction is known as Lobry de Bruyn-van Ekenstein rearrangement.&nbsp;Basic catalysed&nbsp;tautomerism through enediol intermediate takes place.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/99e94215-b97f-42e3-8b9e-1ab813c44005-image.png\" style=\"width: 508px; height: 450px;\" /></p></blockquote>",
+    "solution_image": null,
+    "topic": "Preparation and Reactions of Glucose"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b483",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Which of the following statement(s) is(are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rAr2D",
+        "text": "Oxidation of glucose with bromine water gives glutamic acid",
+        "image": null
+      },
+      {
+        "id": "xbsuT",
+        "text": "The two six-membered cyclic hemiacetal forms of  <math><mi mathvariant=\"normal\">D</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mo>+</mo></mrow></mfenced><mo>-</mo></math> glucose are called anomers",
+        "image": null
+      },
+      {
+        "id": "JiXNh",
+        "text": "Hydrolysis of sucrose gives dextrorotatory glucose and levorotatory fructose",
+        "image": null
+      },
+      {
+        "id": "SHh9T",
+        "text": "Monosaccharides cannot be hydrolysed to give polyhydroxy aldehydes and ketones",
+        "image": null
+      }
+    ],
+    "correct_answer": "SHh9T",
+    "solution_text": "<math><mo>→</mo><mi> </mi></math> Glucose  <math><mover><mrow><munder><mrow><mo>→</mo></mrow><mrow><mo>[</mo><mtext>0</mtext><mo>]</mo></mrow></munder></mrow><mrow><msub><mrow><mtext>Br</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><msub><mrow><mtext>-H</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><mtext>O</mtext></mrow></mover></math>  Glycolic acid<br > <math><mo>→</mo><mi> </mi><mo>∝</mo><mo>-</mo><mi>Δ</mi><mo>-</mo></math> Glucose and  <math><mtext>β</mtext><mo>-</mo><mtext>D</mtext></math>  Glucose<br > <math><mo>→</mo></math>  Hydrolysis of sucrose given dextrorotatory glucose and levorotatory fructose,<br > <math><mo>→</mo></math>  Monosaccharide cannot be hydrolyzed to give polyhydroxy aldehyde and ketones.",
+    "solution_image": null,
+    "topic": "Preparation and Reactions of Glucose"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af1a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I Glucose gives a reddish-brown precipitate with Fehling's solution. \nStatement II Reaction of glucose with Fehling's solution gives $\\mathrm{CuO}$ and gluconic acid.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4WDkL",
+        "text": "\nStatement I is true, Statement II is true, Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "lPWtN",
+        "text": "\nStatement I is true, Statement II is true; Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "8EbaY",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "N3ySn",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "8EbaY",
+    "solution_text": "Glucose gives a reddish brown precipitate with Fehling's solution. Solution consists of $\\mathrm{Cu}^{2+}$ which gets reduced to $\\mathrm{Cu}^{+}\\left(\\mathrm{Cu}_2 \\mathrm{O}\\right)$.",
+    "solution_image": null,
+    "topic": "Preparation and Reactions of Glucose"
+  },
+  {
+    "question_id": "6a0be51644d287c9361e5cd9",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "In the following reaction sequence, major products $\\textbf{X}$ and $\\textbf{Y}$ are acyclic monomers.<br><img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q50_d1.png\" /><br>$500$ mol of $\\textbf{X}$ completely reacts with $500$ mol of $\\textbf{Y}$ to give $1$ mol of a single biodegradable acyclic copolymer $\\textbf{Z}$ as the only product. The amount of $\\textbf{Z}$ formed in grams is ____.<br>Given:<br>Atomic mass (in amu): H : $1$, C : $12$, N : $14$, O : $16$, Br : $80$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "85018",
+    "solution_text": "Step 1: Identification of monomer $\\textbf{X}$<br>The given reaction sequence for $\\textbf{X}$ is:<br>$\\text{CH}_3\\text{I} \\xrightarrow{\\text{KCN}} \\text{CH}_3\\text{CN}$<br>$\\text{CH}_3\\text{CN} \\xrightarrow{\\text{H}_3\\text{O}^+, \\Delta} \\text{CH}_3\\text{COOH}$<br>$\\text{CH}_3\\text{COOH} \\xrightarrow{\\text{Red P, Br}_2} \\text{BrCH}_2\\text{COOH}$ (Hell-Volhard-Zelinsky reaction)<br>$\\text{BrCH}_2\\text{COOH} \\xrightarrow{\\text{NH}_3 \\text{ (excess)}} \\text{H}_2\\text{N}-\\text{CH}_2-\\text{COOH}$<br>Thus, $\\textbf{X}$ is Glycine. <br>Molar mass of $\\textbf{X}$ ($\\text{C}_2\\text{H}_5\\text{NO}_2$) = $2(12) + 5(1) + 14 + 2(16) = 75 \\text{ g/mol}$.<br><br>Step 2: Identification of monomer $\\textbf{Y}$<br>Caprolactam on acidic hydrolysis gives $\\epsilon$-aminocaproic acid:<br>Caprolactam $\\xrightarrow{\\text{H}_3\\text{O}^+, \\Delta} \\text{H}_2\\text{N}-(\\text{CH}_2)_5-\\text{COOH}$<br>Thus, $\\textbf{Y}$ is $\\epsilon$-aminocaproic acid. <br>Molar mass of $\\textbf{Y}$ ($\\text{C}_6\\text{H}_{13}\\text{NO}_2$) = $6(12) + 13(1) + 14 + 2(16) = 131 \\text{ g/mol}$.<br><br>Step 3: Calculation of the mass of copolymer $\\textbf{Z}$<br>The copolymer $\\textbf{Z}$ is Nylon-2-nylon-6, which is a biodegradable polyamide formed by the condensation polymerization of Glycine and $\\epsilon$-aminocaproic acid.<br>The problem states that $500 \\text{ mol}$ of $\\textbf{X}$ and $500 \\text{ mol}$ of $\\textbf{Y}$ completely react to form $1 \\text{ mol}$ of a single acyclic copolymer $\\textbf{Z}$.<br>This means each molecule of polymer $\\textbf{Z}$ contains $500$ units of $\\textbf{X}$ and $500$ units of $\\textbf{Y}$, making a total of $1000$ monomer units.<br>In an acyclic chain of $1000$ monomers, the number of peptide (amide) bonds formed is $1000 - 1 = 999$.<br>For each peptide bond formed, one molecule of water ($\\text{H}_2\\text{O}$) is eliminated. Since $1 \\text{ mol}$ of polymer $\\textbf{Z}$ is formed, $999 \\text{ mol}$ of water are eliminated.<br><br>Applying the law of conservation of mass:<br>Mass of $\\textbf{Z}$ = (Mass of $500 \\text{ mol}$ of $\\textbf{X}$) + (Mass of $500 \\text{ mol}$ of $\\textbf{Y}$) - (Mass of $999 \\text{ mol}$ of $\\text{H}_2\\text{O}$)<br>Mass of $\\textbf{Z} = (500 \\times 75) + (500 \\times 131) - (999 \\times 18)$<br>Mass of $\\textbf{Z} = 37500 + 65500 - 17982$<br>Mass of $\\textbf{Z} = 103000 - 17982 = 85018 \\text{ g}$<br><br>Answer: $85018$",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b522",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "The structure of a peptide is given below.\r\n\r\n \r\n\r\nIf the absolute values of the net charge of the peptide at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo> </mo><mi>pH</mi><mo>=</mo><mn>6</mn><mo>,</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>=</mo><mn>11</mn></math> are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>1</mn></msub></mfenced><mo>,</mo><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>2</mn></msub></mfenced><mo>,</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>3</mn></msub></mfenced><mo>,</mo></math> respectively, then what is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>1</mn></msub></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>2</mn></msub></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>3</mn></msub></mfenced></math>?\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/780c6a5a-ab61-46ed-b3fe-6b5651500bab-image.png\"/>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p>The structure of tripeptide will be as followed at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PH</mi><mo>=</mo><mn>2</mn></math> (in highly acidic medium)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/753d74f4-59e3-4317-b517-fe2d1fca3e41-image.png\"/></p><p>hence <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>1</mn></msub></mfenced><mo>=</mo><mn>2</mn></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>=</mo><mn>6</mn></math> (in approximately neutral solution it will be</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/57e644c9-c455-4084-9944-b6589e217c17-image.png\"/></p><p>Hence <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>2</mn></msub></mfenced><mo>=</mo><mn>0</mn></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>=</mo><mn>11</mn></math> (in highly basic medium) the structure will be</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fa3afe09-3fa5-47e2-86b1-df027d1f9da2-image.png\"/></p><p>Hence <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>3</mn></msub></mfenced></math> will be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>.</p><p>Therefore <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>1</mn></msub></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>2</mn></msub></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">z</mi><mn>3</mn></msub></mfenced><mo>=</mo><mn>2</mn><mo>+</mo><mn>0</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>5</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a56f23ac7d519f9b37f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nTreatment of compound $\\mathbf{O}$ with $\\mathrm{KMnO}_{4} / \\mathrm{H}^{+}$gave $\\mathbf{P}$, which on heating with ammonia gave $\\mathbf{Q}$. The compound $\\mathbf{Q}$ on treatment with $\\mathrm{Br}_{2} / \\mathrm{NaOH}$ produced $\\mathbf{R}$. On strong heating, $\\mathbf{Q}$ gave $\\mathbf{S}$, which on further treatment with ethyl $2-$bromopropanoate in the presence of $\\mathrm{KOH}$ followed by acidification, gave a compound $\\mathbf{T}$.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/YojvyX-pD0foQoAv-nEPdjiwmnyPVOAmeyvFzzq4gG8.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe compound $\\mathbf{T}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pgxVd",
+        "text": "Glycine",
+        "image": null
+      },
+      {
+        "id": "ap1OL",
+        "text": "Alanine",
+        "image": null
+      },
+      {
+        "id": "0EsWE",
+        "text": "Valine",
+        "image": null
+      },
+      {
+        "id": "ksx6C",
+        "text": "Serine",
+        "image": null
+      }
+    ],
+    "correct_answer": "ap1OL",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.35_Ans_1.jpg\" style=\"width: 689px; height: 437px;\" /><br />Q to R is Hoffmann&#39;s bromamide degradation reaction<br />S to T is Gabriel&#39;s phthalimide systhesis",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a36f23ac7d519f9b25c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>The total number of distinct naturally occurring amino acids obtained by complete acidic hydrolysis of the peptide shown below is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image27-65642f43-8e3c-4a07-9c27-5ed9fc6f4775.jpg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p>This peptide on complete hydrolysis produced 4 distinct amino acids which are given below. Out of which only glycine is naturally occurring amino acid.<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image28-939a6c5e-0d41-40cb-9d74-391c754ea079.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image29-3e3cafa4-1bb6-4d74-b838-ec1cc640ba1a.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image30-4c8c1c06-844b-45b1-8c32-0bb187ddeac2.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image31-87fe5535-e92b-4cc7-a78f-302c03420202.jpg\"/><br > </p>",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a29f23ac7d519f9b1e4",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A tetrapeptide has -COOH group on alanine. This produces glycine (Gly), Valine&nbsp;(Val), Phenyl alanine&nbsp;(Phe) and Alanine (Ala) on complete hydrolysis. For this tetrapeptide, the number of possible sequences (primary structures) with -NH<sub>2</sub> group attached to a chiral center is&nbsp;",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Following combinations are possible for tetrapeptide:<br /><math> <mrow> <mtable> <mtr> <mtd> <mtext>Val</mtext> <mo>-</mo> <mtext>Phe</mtext> <mo>-</mo> <mtext>Gly</mtext> <mo>-</mo> <mtext>Ala</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>Val</mtext> <mo>-</mo> <mtext>Gly</mtext> <mo>-</mo> <mtext>Phe</mtext> <mo>-</mo> <mtext>Ala</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>Phe</mtext> <mo>-</mo> <mtext>Gly</mtext> <mo>-</mo> <mtext>Val</mtext> <mo>-</mo> <mtext>Gly</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>Phe</mtext> <mo>-</mo> <mtext>Val</mtext> <mo>-</mo> <mtext>Gly</mtext> <mo>-</mo> <mtext>Ala</mtext> </mtd> </mtr> </mtable> </mrow> </math><br />In all above sequences, C-terminal is alanine.<br />Glycine is optically inactive amino acid,&nbsp; it can not be N-terminal. Hence, only above combinations are possible.",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b16b",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The substituents $R_{1}$ and $R_{2}$ for nine peptides are listed in the table given below. How many of these peptides are positively charged at $\\mathrm{pH}=7.0$ ?\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rmBF2AWjJ_eIJZodviWtqeiE2VUVclDkDbIdYCGd73w.original.fullsize.png\"><br>\r\n\r\n\\begin{array}{|c|c|c|}\r\n\r\n\\hline Peptide & \\mathbf{R}_{\\mathbf{1}} & \\mathbf{R}_{\\mathbf{2}} \\\\\r\n\r\n\\hline I & \\mathrm{H} & \\mathrm{H} \\\\\r\n\r\n\\hline II & \\mathrm{H} & \\mathrm{CH}_{3} \\\\\r\n\r\n\\hline III & \\mathrm{CH}_{2} \\mathrm{COOH} & \\mathrm{H} \\\\\r\n\r\n\\hline IV & \\mathrm{CH}_{2} \\mathrm{CONH}_{2} & \\left(\\mathrm{CH}_{2}\\right)_{4} \\mathrm{NH}_{2} \\\\\r\n\r\n\\hline V & \\mathrm{CH}_{2} \\mathrm{CONH}_{2} & \\mathrm{CH}_{2} \\mathrm{CONH}_{2} \\\\\r\n\r\n\\hline VI & \\left(\\mathrm{CH}_{2}\\right)_{4} \\mathrm{NH}_{2} & \\left(\\mathrm{CH}_{2}\\right)_{4} \\mathrm{NH}_{2} \\\\\r\n\r\n\\hline VII & \\mathrm{CH}_{2} \\mathrm{COOH} & \\mathrm{CH}_{2} \\mathrm{CONH}_{2} \\\\\r\n\r\n\\hline VIII & \\mathrm{CH}_{2} \\mathrm{OH} & \\left(\\mathrm{CH}_{2}\\right)_{4} \\mathrm{NH}_{2} \\\\\r\n\r\n\\hline IX & \\left(\\mathrm{CH}_{2}\\right)_{4} \\mathrm{NH}_{2} & \\mathrm{CH}_{3} \\\\\r\n\r\n\\hline\r\n\r\n\\end{array}",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Peptides with isoelectric point (pI) more than 7 would exist as cation in neutral solution $(\\mathrm{pH}=7)$ which means the given polypeptide is of basic nature, so it must contain two or more amino groups. Hence IV, VI, VIII and IX are correct options.",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a0ef23ac7d519f9b0f0",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A decapeptide (molecular weight 796) on complete hydrolysis gives glycine (molecular weight 75), alanine and phenylalanine. Glycine contributes $47.0 \\%$ to the total weight of the hydrolysed products. The number of glycine units present in the decapeptide is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "$$\n\\text { A decapeptide has nine peptide (amide) linkage as }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QRsCQ14li6NT9gp0NOovuoPzTGcmi68dMG0a74dUtUg.original.fullsize.png\"><br>\nTherefore, no hydrolysis, it will absorb nine water molecules.\nHence, total mass of hydrolysis product $=796+18 \\times 9=958$\n$\\Rightarrow$ mass of glycine in hydrolysis product $=\\frac{958 \\times 47}{100}=450$\n$\\Rightarrow$ number of glycine molecule in one molecule of decapeptide $=\\frac{450}{75}=6$",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  },
+  {
+    "question_id": "64b16a00f23ac7d519f9b06c",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The total number of basic groups in the following form of lysine is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CDh0L1QC28BehxYBcQjQr3xBovuGv8IJ4caySMfOPKw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "Lysine contains two basic groups, e.g., $\\mathrm{NH}_2$\nBiomolecules\nBasic straight\nI",
+    "solution_image": null,
+    "topic": "Properties and Preparation of Amino Acids"
+  }
+]

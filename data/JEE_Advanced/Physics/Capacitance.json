@@ -1,0 +1,560 @@
+[
+  {
+    "question_id": "6696579d623b9ed1d4637473",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Four identical thin, square metal sheets, $S_1, S_2, S_3$ and $S_4$, each of side $a$ are kept parallel to each other with equal distance $d(\\ll a)$ between them, as shown in the figure. Let $C_0=\\varepsilon_0 a^2 / d$, where $\\varepsilon_0$ is the permittivity of free space.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wrVTJvFmbkH-cpCDFPq8t7MWcliNkKMHSUGq3QODPwI.original.fullsize.png\">\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/G0RPj7Bb_okyw7CrMC7Lv-b191S6Emkx_BZg-tF6d-w.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Jnbp4",
+        "text": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$",
+        "image": null
+      },
+      {
+        "id": "ot0N1",
+        "text": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 1$",
+        "image": null
+      },
+      {
+        "id": "zuo2l",
+        "text": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 1$",
+        "image": null
+      },
+      {
+        "id": "T79ym",
+        "text": "$\\mathrm{P} \\rightarrow 3$; $\\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "zuo2l",
+    "solution_text": "For P\r\n<img src=\"images/hf8c375_chfcr47r348.png\">\r\nAll are in series\r\n\\(\\begin{gathered}\r\nC_{e q}=\\frac{C_0}{3} \\\\\r\nP \\rightarrow(3)\r\n\\end{gathered}\\)\r\nFor Q\r\n<img src=\"images/hf8c375_chfcr47r3481.png\">\r\n\\(\\begin{gathered}\r\nC_{e q}=\\frac{C_0}{2} \\\\\r\nQ \\rightarrow(2)\r\n\\end{gathered}\\)\r\nFor R\r\n<img src=\"images/hf8c375_chfcr47r3482.png\">\r\n\\(\\begin{gathered}\r\nC_{e q}=\\frac{2 C}{3} \\\\\r\nR \\rightarrow(4)\r\n\\end{gathered}\\)\r\nFor S\r\n<img src=\"images/hf8c375_chfcr47r3483.png\">\r\n\\(\\begin{aligned}\r\n& \\Rightarrow C_{e q}=3 C_0 \\\\\r\n& S \\rightarrow(1)\r\n\\end{aligned}\\)",
+    "solution_image": null,
+    "topic": "Capacitance"
+  },
+  {
+    "question_id": "6a0be51544d287c9361e5cc9",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "<strong>Passage:</strong> A container of height $2$ m, length $2$ m and breadth $1$ m is made of insulating vertical walls and two large area horizontal metal plates ($M_1$ and $M_2$) which extend far beyond the vertical walls in all directions. The container is partitioned into two equal chambers with a thin insulating vertical wall. The partition wall contains a small hole of cross-sectional area $\\sqrt{10}$ cm$^2$ near its bottom edge. Initially the hole is closed and the left chamber of the container is completely filled with a liquid of dielectric constant $\\epsilon_r = 15$ and the right chamber is empty ($\\epsilon_r = 1$). At time $t = 0$, the hole is opened and the liquid flows from the left chamber to the right chamber. In both the chambers, the space above the liquid has $\\epsilon_r = 1$ and is maintained at atmospheric pressure. The schematic of the container at a time $t > 0$ is shown in the figure.<br>[Given: acceleration due to gravity is $10$ ms$^{-2}$.]<br><img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q33_d1.png\" /><br><br><strong>Question:</strong> The difference in the capacitance (in F) between the metal plates at $t = 0$ and that at $t = 500$ s is $(8 - n)\\epsilon_0$, where $\\epsilon_0$ is the permittivity of free space. The value of $n$ is:",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.97",
+    "solution_text": "Let $A$ be the area of each chamber. $A = 1 \\times 1 = 1 \\text{ m}^2$. Distance between plates is $d = 2 \\text{ m}$.<br><br>At $t = 0$, the left chamber is completely filled with liquid ($\\epsilon_r = 15$) and right chamber is empty ($\\epsilon_r = 1$).<br><br>Initial capacitance $C(0) = C_1 + C_2 = \\dfrac{15 \\epsilon_0 A}{d} + \\dfrac{\\epsilon_0 A}{d} = \\dfrac{15 \\epsilon_0 (1)}{2} + \\dfrac{\\epsilon_0 (1)}{2} = 8 \\epsilon_0$.<br><br>Let $y_1$ and $y_2$ be the liquid levels in the left and right chambers at time $t$. By conservation of volume, $y_1 + y_2 = 2 \\text{ m}$.<br><br>Let $h = y_1 - y_2$. The velocity of efflux from the left chamber is $v = \\sqrt{2gh}$.<br><br>Rate of flow $Q = -A \\dfrac{dy_1}{dt} = a \\sqrt{2gh}$, where $a = \\sqrt{10} \\times 10^{-4} \\text{ m}^2$ is the hole area.<br><br>Since $y_1 + y_2 = 2$, we have $dy_2 = -dy_1$, so $dh = 2dy_1 \\Rightarrow \\dfrac{dy_1}{dt} = \\dfrac{1}{2} \\dfrac{dh}{dt}$.<br><br>$-\\dfrac{1}{2} \\dfrac{dh}{dt} = a \\sqrt{2gh} \\Rightarrow \\dfrac{dh}{\\sqrt{h}} = -2a \\sqrt{2g} dt$.<br><br>Integrating from $t=0$ ($h=2$) to $t=500 \\text{ s}$ ($h$):<br><br>$\\int_{2}^{h} h^{-1/2} dh = -2a \\sqrt{2g} \\int_{0}^{500} dt$<br><br>$2\\sqrt{h} - 2\\sqrt{2} = -2 (\\sqrt{10} \\times 10^{-4}) (\\sqrt{20}) (500) = -\\sqrt{200} \\times 10^{-4} \\times 1000 = -10\\sqrt{2} \\times 0.1 = -\\sqrt{2}$.<br><br>$2\\sqrt{h} = \\sqrt{2} \\Rightarrow \\sqrt{h} = \\dfrac{1}{\\sqrt{2}} \\Rightarrow h = 0.5 \\text{ m}$.<br><br>From $y_1 + y_2 = 2$ and $y_1 - y_2 = 0.5$, we get $y_1 = 1.25 \\text{ m}$ and $y_2 = 0.75 \\text{ m}$.<br><br>At $t=500 \\text{ s}$, each chamber acts as two capacitors in series (liquid and air).<br><br>$C_{left} = \\dfrac{1}{\\dfrac{y_1}{15\\epsilon_0 A} + \\dfrac{2-y_1}{\\epsilon_0 A}} = \\dfrac{15\\epsilon_0}{30 - 14y_1} = \\dfrac{15\\epsilon_0}{30 - 14(1.25)} = \\dfrac{15\\epsilon_0}{12.5} = \\dfrac{6}{5} \\epsilon_0 = 1.2 \\epsilon_0$.<br><br>$C_{right} = \\dfrac{1}{\\dfrac{y_2}{15\\epsilon_0 A} + \\dfrac{2-y_2}{\\epsilon_0 A}} = \\dfrac{15\\epsilon_0}{30 - 14y_2} = \\dfrac{15\\epsilon_0}{30 - 14(0.75)} = \\dfrac{15\\epsilon_0}{19.5} = \\dfrac{150}{195} \\epsilon_0 = \\dfrac{10}{13} \\epsilon_0$.<br><br>$C(500) = C_{left} + C_{right} = \\dfrac{6}{5} \\epsilon_0 + \\dfrac{10}{13} \\epsilon_0 = \\dfrac{128}{65} \\epsilon_0 \\approx 1.97 \\epsilon_0$.<br><br>Difference in capacitance $= C(0) - C(500) = 8\\epsilon_0 - \\dfrac{128}{65}\\epsilon_0 = \\left(8 - \\dfrac{128}{65}\\right)\\epsilon_0$.<br><br>Comparing this with the given expression $(8 - n)\\epsilon_0$, we get $n = \\dfrac{128}{65} = 1.97$",
+    "solution_image": null,
+    "topic": "Capacitors with Dielectric"
+  },
+  {
+    "question_id": "64b16aa0f23ac7d519f9b624",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>A container has a base of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi>cm</mi><mo>&#215;</mo><mn>5</mn><mo>&#160;</mo><mi>cm</mi></math> and height <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi>cm</mi></math>, as shown in the figure. It has two parallel electrically conducting walls each of area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi>cm</mi><mo>&#215;</mo><mn>50</mn><mo>&#160;</mo><mi>cm</mi></math>. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>&nbsp;at a uniform rate of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><msup><mi>cm</mi><mn>3</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>. What is the value of the capacitance of the container after <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math>&nbsp;seconds?</p><p>[Given: Permittivity of free space <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#949;</mi><mn>0</mn></msub><mo>=</mo><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>12</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">C</mi><mn>2</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">N</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>&#8722;</mo><mn>2</mn></mrow></msup></math>, the effects of the non-conducting walls on the capacitance are negligible]</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b1769d59-50df-45c1-a827-c79e1adef763.png\" style=\"width: 300px; height: 284px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3Y8bg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>27</mn><mo>&#160;</mo><mi>pF</mi></math>",
+        "image": null
+      },
+      {
+        "id": "jQijn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>63</mn><mo>&#160;</mo><mi>pF</mi></math>",
+        "image": null
+      },
+      {
+        "id": "41TVd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>81</mn><mo>&#160;</mo><mi>pF</mi></math>",
+        "image": null
+      },
+      {
+        "id": "bmYi7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>135</mn><mo>&#160;</mo><mi>pF</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jQijn",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8abad4a2-1814-4083-865c-1553ed8fb08e.png\" style=\"width: 250px; height: 294px;\" /></p><p>Height of the liquid column&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mtext>volume</mtext><mtext>base&#160;area</mtext></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>h</mi><mo>=</mo><mfrac><mrow><mfenced><mrow><mn>250</mn><mo>&#160;</mo><msup><mi>cm</mi><mn>3</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced><mo>&#215;</mo><mfenced><mrow><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></mrow></mfenced></mrow><mrow><mfenced><mrow><mn>50</mn><mo>&#160;</mo><mi>cm</mi></mrow></mfenced><mo>&#215;</mo><mfenced><mrow><mn>5</mn><mo>&#160;</mo><mi>cm</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><mn>10</mn><mo>&#160;</mo><mi>cm</mi></math></p><p>Now capacitance of the upper part can be written as,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>&#949;</mi><mn>0</mn></msub></mrow><mi>d</mi></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mrow><mfenced close=\"]\" open=\"[\"><mrow><mfenced><mrow><mn>0</mn><mo>.</mo><mn>50</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>10</mn></mrow></mfenced><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>50</mn></mrow></mfenced><mo>&#215;</mo><mfenced><mrow><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>12</mn></mrow></msup></mrow></mfenced></mrow><mfenced><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></mrow></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>36</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8211;</mo><mn>10</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi></math></p><p>Capacitance for the lower part can be written as,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mi>K</mi><msub><mi>A</mi><mn>2</mn></msub><msub><mi>&#949;</mi><mn>0</mn></msub></mrow><mi>d</mi></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mrow><mn>3</mn><mo>&#215;</mo><mfenced><mrow><mn>0</mn><mo>.</mo><mn>10</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfenced><mo>&#215;</mo><mfenced><mrow><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>12</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>C</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>27</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8211;</mo><mn>10</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/480c454a-e050-4af7-8174-dcdc0ad4f916.png\" style=\"width: 300px; height: 336px;\" /></p><p>Both part of the capacitor can be considered as connected in parallel,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mrow><mi>e</mi><mi>f</mi><mi>f</mi></mrow></msub><mo>=</mo><msub><mi>C</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>63</mn><mo>&#160;</mo><mi>pF</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Capacitors with Dielectric"
+  },
+  {
+    "question_id": "64b16a71f23ac7d519f9b478",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "A parallel plate capacitor of capacitance <math><mi mathvariant=\"normal\">C</mi></math> has spacing d between two plates having area <math><mi mathvariant=\"normal\">A</mi><mo>.</mo></math> The region between the plates is filled with <math><mi mathvariant=\"normal\">N</mi></math> dielectric layers, parallel to its plates, each with thickness <math><mi mathvariant=\"normal\">&#948;</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow></mfrac><mo>.</mo></math> The dielectric constant of the <math><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> layer is <math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">K</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow></mfrac></mrow></mfenced><mo>.</mo></math> For a very large <math><mi mathvariant=\"normal\">N</mi><mfenced separators=\"|\"><mrow><mo>&#62;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfenced><mo>,</mo></math> the capacitance <math><mi mathvariant=\"normal\">C</mi></math> is <math><mi mathvariant=\"normal\">&#945;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">K</mi><msub><mrow><mo>&#8712;</mo></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>.</mo></math> The value of <math><mi mathvariant=\"normal\">&#945;</mi></math> will be____<br /><math><mo>[</mo><msub><mrow><mo>&#8712;</mo></mrow><mrow><mn>0</mn></mrow></msub></math> is the permittivity of free space]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jwwygxeqqbmykrfpcajhkvetzcahgnqzyoewhdzovabgxtponi.png\"/>\r\n\r\nLet <math><msup><mrow><mi>m</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> layer is at a distance <math><mi mathvariant=\"normal\">‘</mi><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">’</mi></math> from left plate.\r\n\r\nAlso, let there be a small strip of thickness 'dx' having small capacitance <math><mi>′</mi><mi>′</mi><mi>d</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>C</mi></mrow></mfrac></mrow></mfenced><mi>′</mi><mi>′</mi></math> with medium <math><mi>′</mi><mi>′</mi><msub><mrow><mi>K</mi></mrow><mrow><mi>m</mi></mrow></msub><mi>′</mi><mi>′</mi></math> in between.\r\n\r\n<math><mo>⇒</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>m</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>D</mi></mrow><mrow><mi>N</mi></mrow></mfrac></math>\r\n\r\nAlso, <math><mi>d</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>C</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mi>m</mi></mrow></msub><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mi>m</mi></mrow></msub><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>K</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>m</mi></mrow><mrow><mi>N</mi></mrow></mfrac></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>K</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>D</mi></mrow></mfrac></mrow></mfenced></mrow></mfrac></math>\r\n\r\n<math><mo>⇒</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>C</mi></mrow><mrow><mi>e</mi><mi>q</mi></mrow></msub></mrow></mfrac><mo>=</mo><mo>∫</mo><mi>d</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>C</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mrow><munderover><mo stretchy=\"true\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>D</mi></mrow></munderover><mrow><mfrac><mrow><mi>D</mi><mi>d</mi><mi>x</mi></mrow><mrow><mi>K</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi><mfenced separators=\"|\"><mrow><mi>D</mi><mo>+</mo><mi>x</mi></mrow></mfenced></mrow></mfrac></mrow></mrow></math>\r\n\r\n<math><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>C</mi></mrow><mrow><mi>e</mi><mi>q</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>D</mi></mrow><mrow><mi>K</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi></mrow></mfrac><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn></math>\r\n\r\n<math><msub><mrow><mi>C</mi></mrow><mrow><mi>e</mi><mi>q</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>K</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>A</mi></mrow><mrow><mi>D</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn></mrow></mfrac><mo>⋅</mo></math> Therefore <math><mi>α</mi><mo>=</mo><mn>1</mn></math>",
+    "solution_image": null,
+    "topic": "Capacitors with Dielectric"
+  },
+  {
+    "question_id": "64b16a46f23ac7d519f9b2f2",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<p>A parallel plate capacitor having plates of area <math><mi mathvariant=\"normal\">S</mi></math> and plate separation <math><mi mathvariant=\"normal\">d</mi></math> , has capacitance <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> in air. When two dielectrics of different relative permittivities ( <math><msub><mrow><mi mathvariant=\"normal\">ε</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\"> </mi></math> and <math><msub><mrow><mi mathvariant=\"normal\">ε</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>4</mn></math> ) are introduced between the two plates as shown in the figure, the capacitance becomes <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . The ratio <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math> is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image10-00858567-f376-486b-be8c-e64f8146c3f4.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Crzlf",
+        "text": "<math><mfrac><mrow><mn>6</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Bk5ij",
+        "text": "<math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "zzGqm",
+        "text": "<math><mfrac><mrow><mn>7</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "a9KTH",
+        "text": "<math><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "a9KTH",
+    "solution_text": "<math><mfrac><mrow><mn>5</mn><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >In new setup we have 3 different setups<br >i.  <math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br > <math><msup><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mi mathvariant=\"normal\">′</mi></mrow></msup><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >ii.  <math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br > <math><msup><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mi mathvariant=\"normal\">′</mi><mi mathvariant=\"normal\">′</mi></mrow></msup><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >iii.  <math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br > <math><msup><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mi mathvariant=\"normal\">′</mi><mi mathvariant=\"normal\">′</mi><mi mathvariant=\"normal\">′</mi></mrow></msup><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image11-8247136b-678d-49c1-81a5-296746d0e4f3.jpg\"/> <br > <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></mrow></mfenced></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>6</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br > <math><mo>∴</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Capacitors with Dielectric"
+  },
+  {
+    "question_id": "64b16a32f23ac7d519f9b238",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>A parallel plate capacitor has a dielectric slab of dielectric constant K between its plates that covers 1/3 of the area of its plates, as shown in the figure. The total capacitance of the capacitor is C while that of the portion with dielectric in between is <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> . When the capacitor is charged, the plate area covered by the dielectric gets charge <math><msub><mrow><mi mathvariant=\"normal\">Q</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and the rest of the area gets charge <math><msub><mrow><mi mathvariant=\"normal\">Q</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . The electric field in the dielectric is <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and that in the other portion is <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . Choose the correct option/options, ignoring edge effects.<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image2-95418e85-0042-4c6f-8564-a2a5d886ae5b.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ryhh1",
+        "text": "<math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "GvoPE",
+        "text": "<math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">K</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "bD3pB",
+        "text": "<math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">Q</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">Q</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mi mathvariant=\"normal\">K</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "vg5l1",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">K</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "vg5l1",
+    "solution_text": "As <math><mi mathvariant=\"normal\">E</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac></math><br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac></math><br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac></math><br />(As both parts have some P.D.) upper capacitor have capacitance<br /><math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">K</mi><msub><mrow><mi mathvariant=\"normal\">&epsilon;</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">A</mi><mo>/</mo><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&nbsp;</mi></math><br />Lower capacitor<br /><math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">&epsilon;</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">A</mi><mo>/</mo><mi mathvariant=\"normal\">d</mi></math><br /><math><mo>&there4;</mo></math> equivalent capacitance<br /><math><mi mathvariant=\"normal\">C</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">k</mi><mo>+</mo><mn>2</mn></mrow></mfenced><msub><mrow><mi mathvariant=\"normal\">ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">A</mi><mo>/</mo><mi mathvariant=\"normal\">d</mi></math><br /><math><mo>&there4;</mo><mfrac><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">k</mi></mrow></mfrac></math><br />And <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac><mo>:</mo><mfrac><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi></mrow></mfrac><mo>=</mo><mn>1</mn></math>",
+    "solution_image": null,
+    "topic": "Capacitors with Dielectric"
+  },
+  {
+    "question_id": "64b16a88f23ac7d519f9b549",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "In the circuit shown below, the switch $\\mathrm{S}$ is connected to position $\\mathrm{P}$ for a long time so that the charge on the capacitor becomes $q_{1} \\mu \\mathrm{C}$. Then $\\mathrm{S}$ is switched to position $\\mathrm{Q}$. After a long time, the charge on the capacitor is $q_{2} \\mu \\mathrm{C}$.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZHIRLcmz3zRjfLQivbNZ0a4sH8usHPYH0mxhL0TIfqo.original.fullsize.png\"><br>The magnitude of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mn>2</mn></msub></math>&nbsp;is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.67",
+    "solution_text": "<p>When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math>&nbsp;is connected to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/61655b1c-7a5e-4f50-8631-8fabc9eb1418-D7.png\" style=\"width: 300px; height: 164px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mn>2</mn><mrow><mn>1</mn><mo>+</mo><mn>2</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>Now, after distribution of potential,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mn>2</mn></msub><mo>=</mo><mi>C</mi><mi>V</mi></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>1</mn><mi>&#956;F</mi></mrow></mfenced><mfenced><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mn>2</mn></msub><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#160;</mo><mi>&#956;C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mn>2</mn></msub><mo>=</mo><mn>0.67</mn><mo>&#160;</mo><mi>&#956;C</mi></math></p>",
+    "solution_image": null,
+    "topic": "Charging and Discarging of capacitors"
+  },
+  {
+    "question_id": "64b16a88f23ac7d519f9b548",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "In the circuit shown below, the switch $\\mathrm{S}$ is connected to position $\\mathrm{P}$ for a long time so that the charge on the capacitor becomes $q_{1} \\mu \\mathrm{C}$. Then $\\mathrm{S}$ is switched to position $\\mathrm{Q}$. After a long time, the charge on the capacitor is $q_{2} \\mu \\mathrm{C}$.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZHIRLcmz3zRjfLQivbNZ0a4sH8usHPYH0mxhL0TIfqo.original.fullsize.png\"><br>The magnitude of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mn>1</mn></msub></math>&nbsp;is _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.33",
+    "solution_text": "<p>When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math>&nbsp;is connected to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>,&nbsp;<br />In steady state,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/99af4d0f-7bfb-4f0d-abe1-c832689232ee-image.png\" style=\"width: 400px; height: 198px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&#8722;</mo><mn>1</mn></mrow><mrow><mn>2</mn><mo>+</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>i</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>Now,</p><p>Charge on capacitor,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi><mo>=</mo><mi>C</mi><mi>V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>q</mi><mo>=</mo><mfenced><mrow><mn>1</mn><mi>&#956;F</mi></mrow></mfenced><mfenced><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>q</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#956;C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>q</mi><mo>=</mo><mn>1.33</mn><mo>&#160;</mo><mi>&#956;C</mi></math></p>",
+    "solution_image": null,
+    "topic": "Charging and Discarging of capacitors"
+  },
+  {
+    "question_id": "64b169e7f23ac7d519f9af89",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "A parallel plate capacitor $C$ with plates of unit area and separation $d$ is filled with a liquid of dielectric constant $K=2$. The level of liquid is $\\frac{d}{3}$ initially. Suppose the liquid level decreases at a constant speed $v$, the time constant as a function of time $t$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kXR5joieLkCoSaad8_WTmvKA05ny_GxeO0ptHUUMHLY.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cRZro",
+        "text": "\n$\\frac{6 \\varepsilon_0 R}{5 d+3 v t}$\n",
+        "image": null
+      },
+      {
+        "id": "RKVFl",
+        "text": "\n$\\frac{(15 d+9 v t) \\varepsilon_0 R}{2 d^2-3 d v t-9 v^2 t^2}$\n",
+        "image": null
+      },
+      {
+        "id": "wJYNI",
+        "text": "\n$\\frac{6 \\varepsilon_0 R}{5 d-3 v t}$\n",
+        "image": null
+      },
+      {
+        "id": "oGrb7",
+        "text": "\n$\\frac{(15 d-9 v t) \\varepsilon_0 R}{2 d^2+3 d v t-9 v^2 t^2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "cRZro",
+    "solution_text": "After time $t$, thickness of liquid will remain $\\left(\\frac{d}{3}-v t\\right)$.\nNow, time constant as function of time\n$$\n\\begin{aligned}\n\\tau_c & =C R \\\\\n& \\left.=\\frac{\\varepsilon_0(1) \\cdot R}{\\left(d-\\frac{d}{3}+v t\\right)+\\frac{d / 3-v t}{2}} \\quad \\quad \\text { Applying } C=\\frac{\\varepsilon_0 A}{d-t+\\frac{t}{k}}\\right) \\\\\n& =\\frac{6 \\varepsilon_0 R}{5 d+3 v t}\n\\end{aligned}\n$$\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Charging and Discarging of capacitors"
+  },
+  {
+    "question_id": "64b169d1f23ac7d519f9aeba",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "A circuit is connected as shown in the figure with the switch $S$ open. When the switch is closed, the total amount of charge that flows from $Y$ to $X$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gVNmoMqCTlpc9kjg3AHBkN3h3FpoDB_xQ_LN2wyvCFU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1ccGP",
+        "text": "\nzero\n",
+        "image": null
+      },
+      {
+        "id": "axtuN",
+        "text": "\n$54 \\mu \\mathrm{C}$\n",
+        "image": null
+      },
+      {
+        "id": "o213e",
+        "text": "\n$27 \\mu \\mathrm{C}$\n",
+        "image": null
+      },
+      {
+        "id": "mJGvG",
+        "text": "\n$81 \\mu \\mathrm{C}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "o213e",
+    "solution_text": "From $Y$ to $X$ charge flows to plates $a$ and $b$.\n$$\n\\left(q_0+q_b\\right)_i=0,\\left(q_0+q_b\\right)_f=27 \\mu \\mathrm{C}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U9y-IpNMTnta5hFfTFwh-2QOoznAart4eldMPFAg-5M.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qLd1-LHBQQ3Yec5ukMhmKqut2Kcs75i6baaqnE6p4O8.original.fullsize.png\"><br>\n$\\therefore 27 \\mu \\mathrm{C}$ charge flows from $Y$ to $X$.\n$\\therefore$ Correct option is (c)",
+    "solution_image": null,
+    "topic": "Charging and Discarging of capacitors"
+  },
+  {
+    "question_id": "64b16a95f23ac7d519f9b5bc",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>A medium having dielectric constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mo>&gt;</mo><mn>1</mn></math>&nbsp;fills the space between the plates of a parallel plate capacitor. The plates have large area, and the distance between them is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>. The capacitor is connected to a battery of voltage <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi></math>. as shown in Figure (a). Now, both the plates are moved by a distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>d</mi><mn>2</mn></mfrac></math> from their original positions, as shown in Figure (b).</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3046c2e4-8622-45a1-9824-b44c89de88e3-image.png\" style=\"width: 350px; height: 180px;\" /></p><p>In the process of going from the configuration depicted in Figure (a) to that in Figure (b), which of the following statement(s) is(are) correct?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "D3SEE",
+        "text": "The electric field inside the dielectric material is reduced by a factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "F00IF",
+        "text": "The capacitance is decreased by a factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math>.",
+        "image": null
+      },
+      {
+        "id": "QKJXt",
+        "text": "The voltage between the capacitor plates is increased by a factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfenced></math>.",
+        "image": null
+      },
+      {
+        "id": "bNDZx",
+        "text": "The work done in the process DOES NOT depend on the presence of the dielectric material.",
+        "image": null
+      }
+    ],
+    "correct_answer": "F00IF",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/81f8d8ca-acd5-4828-91c2-21b745d7d975-image.png\" style=\"width: 360px; height: 166px;\" /></p><p>Capacitance of both capacitors are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>a</mi></msub><mo>=</mo><mfrac><mrow><mi>K</mi><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi></mrow><mi>d</mi></mfrac></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>b</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi></mrow><mrow><mi>d</mi><mo>+</mo><mfenced><mfrac><mi>d</mi><mi>K</mi></mfrac></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>K</mi></mrow><mrow><mi>d</mi><mfenced><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfrac></math></p><p>Now, charge stored is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><mi>K</mi><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi></mrow><mi>d</mi></mfrac><mi>V</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mi>b</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>K</mi><mi>V</mi></mrow><mrow><mi>d</mi><mfenced><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfrac></math>.</p><p>Electric field between each parallel plate capacitor is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>a</mi></msub><mo>=</mo><mfrac><msub><mi>q</mi><mi>a</mi></msub><mrow><mi>K</mi><mi>A</mi><msub><mi>&#949;</mi><mn>0</mn></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>K</mi><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>K</mi><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi></mrow></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>V</mi><mi>d</mi></mfrac></math>&nbsp;and</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>E</mi><mi>b</mi></msub></mfenced><mi>dielectric</mi></msub><mo>=</mo><mfrac><msub><mi>E</mi><mi>air</mi></msub><mi>K</mi></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msub><mi>q</mi><mi>b</mi></msub><mrow><mi>K</mi><mi>A</mi><msub><mi>&#949;</mi><mn>0</mn></msub></mrow></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>K</mi><mi>V</mi></mrow><mrow><mi>d</mi><mfenced><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>K</mi><mi>A</mi><msub><mi>&#949;</mi><mn>0</mn></msub></mrow></mfenced></mrow></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>V</mi><mrow><mi>d</mi><mfenced><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfrac></math></p><p>So, from above relations, we can see that capacitance decrease by a factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math>.</p></blockquote><blockquote><p>Work done in the process&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><msub><mi>U</mi><mi>f</mi></msub><mo>-</mo><msub><mi>U</mi><mi>i</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msub><mi>C</mi><mi>f</mi></msub><mo>-</mo><msub><mi>C</mi><mi>i</mi></msub></mrow></mfenced><msup><mi>V</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>K</mi></mrow><mrow><mi>d</mi><mfenced><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>K</mi><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi></mrow><mi>d</mi></mfrac></mrow></mfenced><msup><mi>V</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>V</mi><mn>2</mn></msup><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>K</mi></mrow><mi>d</mi></mfrac><mfenced><mrow><mfrac><mn>1</mn><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><mi>K</mi><msup><mi>V</mi><mn>2</mn></msup></mrow><mi>d</mi></mfrac><mfrac><mrow><mn>1</mn><mo>-</mo><mi>K</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfrac><mrow><msub><mi>&#949;</mi><mn>0</mn></msub><mi>A</mi><msup><mi>V</mi><mn>2</mn></msup></mrow><mi>d</mi></mfrac><mfenced><mfrac><mrow><mo>-</mo><msup><mi>K</mi><mn>2</mn></msup></mrow><mrow><mi>K</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mfenced></math></p><p>Thus, the work done in the process depends upon the dielectric material.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Force and Energy stored in capacitor"
+  },
+  {
+    "question_id": "64b16a60f23ac7d519f9b3d7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nConsider a simple $R C$ circuit as shown in Figure $1$.\r\n\r\nProcess 1: In the circuit the switch $S$ is closed at $t=0$ and the capacitor is fully charged to voltage $V_{0}$ (i.e., charging continues for time $T>>R C$ ). In the process some dissipation $\\left(E_{D}\\right)$ occurs across the resistance $R$. The amount of energy finally stored in the fully charged capacitor is $E_{C}$.\r\n\r\nProcess 2: In a different process the voltage is first set to $\\frac{V_{0}}{3}$ and maintained for a charging time $T>>R C$. Then the voltage is raised to $\\frac{2 V_{0}}{3}$ without discharging the capacitor and again maintained for a time $T>>R C$. The process is repeated one more time by raising the voltage to $V_{0}$ and the capacitor is charged to the same final voltage $V_{0}$ as in Process 1.\r\n\r\nThese two processes are depicted in Figure $2 .$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3hict01xSw6FyuXh_2qulXcKYs9jUrrEUZAMrv_GzUE.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yQ5vkMubbDGQwsU_k7Dwv6nzzCKrbzhgT73D7qg05Ek.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIn Process 2, total energy dissipated across the resistance $E_{D}$ is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5ZYSp",
+        "text": "\\(E_D=\\frac{1}{2} C V_0^2\\)",
+        "image": null
+      },
+      {
+        "id": "mK0y8",
+        "text": "\\(E_D=3\\left(\\frac{1}{2} C V_0^2\\right)\\)",
+        "image": null
+      },
+      {
+        "id": "aBEIj",
+        "text": "\\(E_D=\\frac{1}{3}\\left(\\frac{1}{2} C V_0^2\\right)\\)",
+        "image": null
+      },
+      {
+        "id": "Ry3lS",
+        "text": "\\(E_D=3 C V_0^2\\)",
+        "image": null
+      }
+    ],
+    "correct_answer": "aBEIj",
+    "solution_text": "For process (i)<br />Charge on capacitor&nbsp;<math><mo>=</mo><mfrac><mrow><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&#160;</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math><br />Energy stored in capacitor&nbsp;<math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><mfrac><mrow><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>9</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />Work done by battery&nbsp;<math><mo>=</mo><mfrac><mrow><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>9</mn></mrow></mfrac></math><br />Heat loss&nbsp; <math><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>9</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />For process (ii)<br />Charge on capacitor&nbsp;<math><mo>=</mo><mfrac><mrow><mn>2</mn><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></math><br />Extra charge flow through battery&nbsp;<math><mo>=</mo><mfrac><mrow><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></math><br />Work done by battery:&nbsp; <math><mfrac><mrow><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac><mi>&#160;</mi><mo>.</mo><mfrac><mrow><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>9</mn></mrow></mfrac></math><br />Final energy store in capacitor:&nbsp;<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>4</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />Energy store in process 2:&nbsp;<math><mfrac><mrow><mn>4</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />Heat loss in process (ii) = work done by battery in process (ii) &ndash; energy store in capacitor process (ii)<br /><math><mo>=</mo><mfrac><mrow><mn>2</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>9</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>3</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />For process (iii)<br />Charge on capacitor&nbsp;<math><mo>=</mo><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></math><br />Extra charge flow through battery:&nbsp;<math><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><mfrac><mrow><mn>2</mn><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></math><br />Work done by battery in this process:&nbsp;<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>C</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>3</mn></mrow></mfrac></math><br />Find energy store in capacitor:&nbsp; <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></math><br />Energy stored in this process:&nbsp; <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mfrac><mrow><mn>4</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />Heat loss in process (iii):&nbsp; <math><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>5</mn><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac></math><br />Now total heat loss&nbsp; <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>E</mi></mrow><mrow><mi>D</mi></mrow></msub></mrow></mfenced><mo>:</mo><mi>&#160;</mi><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>18</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>6</mn></mrow></mfrac></math><br />Final energy store in capacitor:&nbsp;<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></math><br />So we can say that&nbsp;<math><msub><mrow><mi>E</mi></mrow><mrow><mi>D</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Force and Energy stored in capacitor"
+  },
+  {
+    "question_id": "64b16a5ff23ac7d519f9b3d6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nConsider a simple $R C$ circuit as shown in Figure $1$.\r\n\r\nProcess 1: In the circuit the switch $S$ is closed at $t=0$ and the capacitor is fully charged to voltage $V_{0}$ (i.e., charging continues for time $T>>R C$ ). In the process some dissipation $\\left(E_{D}\\right)$ occurs across the resistance $R$. The amount of energy finally stored in the fully charged capacitor is $E_{C}$.\r\n\r\nProcess 2: In a different process the voltage is first set to $\\frac{V_{0}}{3}$ and maintained for a charging time $T>>R C$. Then the voltage is raised to $\\frac{2 V_{0}}{3}$ without discharging the capacitor and again maintained for a time $T>>R C$. The process is repeated one more time by raising the voltage to $V_{0}$ and the capacitor is charged to the same final voltage $V_{0}$ as in Process 1.\r\n\r\nThese two processes are depicted in Figure $2 .$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3hict01xSw6FyuXh_2qulXcKYs9jUrrEUZAMrv_GzUE.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yQ5vkMubbDGQwsU_k7Dwv6nzzCKrbzhgT73D7qg05Ek.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIn Process 1 , the energy stored in the capacitor $E_{C}$ and heat dissipated across resistance $E_{D}$ are related by:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JlOCv",
+        "text": "\\(E_C=E_D\\)",
+        "image": null
+      },
+      {
+        "id": "RCHc2",
+        "text": "\\(E_C=E_D \\ln 2\\)",
+        "image": null
+      },
+      {
+        "id": "QRfKC",
+        "text": "\\(E_C=\\frac{1}{2} E_D\\)",
+        "image": null
+      },
+      {
+        "id": "5RK5a",
+        "text": "\\(E_C=2 E_D\\)",
+        "image": null
+      }
+    ],
+    "correct_answer": "JlOCv",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/15_solu_phy_pa_2.jpg\" style=\"width: 212px; height: 118px;\" /><br />When switch is closed for a very long time capacitor will get fully charged and charge on capacitor will be&nbsp;<math><mi>q</mi><mo>=</mo><mi>C</mi><mi>V</mi></math><br />Energy stored in capacitor&nbsp;<math><msub><mrow><mi>E</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>C</mi><msup><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msup></math>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.....(i)<br />Work done by battery&nbsp;<math><mfenced separators=\"|\"><mrow><mi>W</mi></mrow></mfenced><mo>=</mo><mi>V</mi><mi>q</mi><mo>=</mo><mi>V</mi><mi>C</mi><mi>V</mi><mo>=</mo><mi>C</mi><msup><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br />Dissipated across resistance&nbsp;<math><msub><mrow><mi>E</mi></mrow><mrow><mi>D</mi></mrow></msub></math>&nbsp;= (work done by battery) &ndash; (energy store)<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>D</mi></msub><mo>=</mo><mi>C</mi><msup><mi>V</mi><mn>2</mn></msup><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>C</mi><msup><mi>V</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>C</mi><msup><mi>V</mi><mn>2</mn></msup></math>&nbsp; &nbsp; &nbsp; &nbsp; .....(ii)<br />From (i) and (ii)<br /><math><msub><mrow><mi>E</mi></mrow><mrow><mi>D</mi></mrow></msub><mo>=</mo><mi>&#160;</mi><msub><mrow><mi>E</mi></mrow><mrow><mi>C</mi></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Force and Energy stored in capacitor"
+  },
+  {
+    "question_id": "64b16a0af23ac7d519f9b0c7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A $2 \\mu \\mathrm{F}$ capacitor is charged as shown in the figure. The percentage of its stored energy dissipated after the switch $S$ is turned to position 2 , is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-pmB3YN7s_jnLXaMuH5hC5HdHc5c4gtUiS-FBt_xaDw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "g4BVH",
+        "text": "\n$0 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "aNw4Q",
+        "text": "\n$20 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "kAwcK",
+        "text": "\n$75 \\%$\n",
+        "image": null
+      },
+      {
+        "id": "pa6gt",
+        "text": "\n$80 \\%$",
+        "image": null
+      }
+    ],
+    "correct_answer": "pa6gt",
+    "solution_text": "$q_i=C_i V=2 V=q$ (say)\nThis charge will remain constant after switch is shifted from position 1 to position 2.\n$$\n\\begin{aligned}\nU_i & =\\frac{1}{2} \\frac{q^2}{C_i}=\\frac{q^2}{2 \\times 2}=\\frac{q^2}{4} \\\\\nU_f & =\\frac{1}{2} \\frac{q^2}{C_f}=\\frac{q^2}{2 \\times 10}=\\frac{q^2}{20}\n\\end{aligned}\n$$\n$\\therefore$ Energy dissipated $=U_i-U_f=\\frac{q^2}{5}$\nThis energy dissipated $\\left(=\\frac{q^2}{5}\\right)$ is $80 \\%$ of the initial stored energy $\\left(=\\frac{q^2}{4}\\right)$.\nAnalysis of Question\n(i) This question is moderately tough.\n(ii) In a capacitor circuit, redistribution of charge takes place under following three conditions.\n(a) A switch is closed.\n(b) A closed switch is opened.\n(c) A switch is shifted from one position to another position.\nIn the redistribution of charge, energy is dissipated.",
+    "solution_image": null,
+    "topic": "Force and Energy stored in capacitor"
+  },
+  {
+    "question_id": "64b16a94f23ac7d519f9b5b6",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>In the following circuit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>1</mn></msub><mo>=</mo><mn>12</mn><mo>&#160;</mo><mi>&#956;F</mi><mo>,</mo><msub><mi>C</mi><mn>2</mn></msub><mo>=</mo><msub><mi>C</mi><mn>3</mn></msub><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi>&#956;F</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>4</mn></msub><mo>=</mo><msub><mi>C</mi><mn>5</mn></msub><mo>=</mo><mn>2</mn><mo>&#160;</mo><mi>&#956;F</mi></math>. The charge stored in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>3</mn></msub></math> is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#956;C</mi><mo>.</mo></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/593d7dc0-dcda-4a35-b178-f1f4169d513f-image.png\" style=\"width: 300px; height: 140px;\" /></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<blockquote><p>From circuit given,</p><p>Capacitors&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>C</mi><mn>3</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>C</mi><mn>4</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>5</mn></msub></math>&nbsp;are in parallel connection with constant potential difference as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>.</p><p>Now, charge stored in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>3</mn></msub></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>3</mn></msub><mo>=</mo><mn>2</mn><mo>&#215;</mo><mn>4</mn><mo>&#160;</mo><mi>&#956;C</mi></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>8</mn><mo>&#160;</mo><mi>&#956;C</mi></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Grouping of capacitors"
+  },
+  {
+    "question_id": "64b16a65f23ac7d519f9b408",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<p>Three identical capacitors <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> have a capacitance of <math><mn>1.0</mn><mi> </mi><mi>μ</mi><mi>F</mi></math> each and they are uncharged initially. They are connected in a circuit as shown in the figure and <math><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></math> is then filled completely with a dielectric material of relative permittivity <math><msub><mrow><mi>ϵ</mi></mrow><mrow><mi>r</mi></mrow></msub></math> . The cell electromotive force (emf) <math><mrow> <msub> <mi>V</mi> <mn>0</mn> </msub> </mrow> <mi> </mi><mo>=</mo><mi> </mi><mn>8</mn><mi> </mi><mi>V</mi></math> . First the switch <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> is closed while the switch <math><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is kept open. When the capacitor <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is fully charged, <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> is opened and <math><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is closed simultaneously. When all the capacitors reach equilibrium, the charge on <math><msub><mrow><mi>C</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is found to be <math><mn>5</mn><mi> </mi><mi>μ</mi><mi>C</mi></math> . The value of <math><msub><mrow><mi>ϵ</mi></mrow><mrow><mi>r</mi></mrow></msub></math> =____________.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xyzryitbyxwnrebtgcoxxtfvgsobjhwmsianjxhzumtgpbkpbd.jpeg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/11_solu_phy.jpg\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/11_solu_1_phy.jpg\"/>\r\n\r\nApplying loop rule\r\n\r\n<math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>1</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><msub><mrow><mo>∈</mo></mrow><mrow><mi>r</mi></mrow></msub></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>1</mn></mrow></mfrac><mo>=</mo><mn>0</mn></math>\r\n\r\n<math><mfrac><mrow><mn>3</mn></mrow><mrow><msub><mrow><mo>∈</mo></mrow><mrow><mi>r</mi></mrow></msub></mrow></mfrac><mo>=</mo><mn>2</mn></math>\r\n\r\n<math><msub><mrow><mo>∈</mo></mrow><mrow><mi>r</mi></mrow></msub><mo>=</mo><mn>1.50</mn></math>",
+    "solution_image": null,
+    "topic": "Grouping of capacitors"
+  },
+  {
+    "question_id": "64b16a26f23ac7d519f9b1c8",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>In the circuit shown in the figure, there are two parallel plate capacitors each of capacitance <em>C</em>. The switch <em>S<sub>1</sub></em> is pressed first to fully charge the capacitor <em>C<sub>1</sub></em> and the released. The switch <em>S<sub>2</sub></em> is then pressed to charge the capacitor <em>C</em><sub>2</sub>. After some time, <em>S<sub>2</sub></em> is released and then is<em> S<sub>3</sub></em> pressed. After some time,<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012549_JEE_ADVANCED_2013.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gfGMW",
+        "text": "the charge on the upper plate of C<sub>1</sub> is 2CV<sub>0&nbsp;</sub>.&nbsp;",
+        "image": null
+      },
+      {
+        "id": "J5eka",
+        "text": "the charge on the upper plate of C<sub>1</sub> is CV<sub>0&nbsp;</sub>.&nbsp;",
+        "image": null
+      },
+      {
+        "id": "RZ7un",
+        "text": "the charge on the upper plate of C<sub>2</sub> is 0.&nbsp;",
+        "image": null
+      },
+      {
+        "id": "hdYH8",
+        "text": "the charge on the upper plate of C<sub>2</sub> is - CV<sub>0&nbsp;</sub>.&nbsp;",
+        "image": null
+      }
+    ],
+    "correct_answer": "hdYH8",
+    "solution_text": "When S<sub>1</sub> is closed,<br />charge on&nbsp;<math> <mrow> <msub> <mtext>C</mtext> <mn>1</mn> </msub> <mo>=</mo> <mn>2</mn> <msub> <mtext>V</mtext> <mn>0</mn> </msub> <mtext>C</mtext> </mrow> </math><br />After S<sub>2</sub> is closed, half of the change will move to C<sub>2</sub><br /><math> <mrow> <mo>&#8756;&#160;&#160;</mo> </mrow> </math> charge on <math> <mrow> <msub> <mtext>C</mtext> <mn>1</mn> </msub> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mn>2</mn> <msub> <mtext>V</mtext> <mn>0</mn> </msub> <mtext>C</mtext> </mrow> </math><br />when S<sub>2</sub> is closed,<br />charge on <math> <mrow> <msub> <mtext>C</mtext> <mn>2</mn> </msub> <mo>=</mo> <msub> <mtext>V</mtext> <mn>0</mn> </msub> <mtext>C</mtext> </mrow> </math> but with reversed polarity,<br /><math> <mrow> <mo>&#8756;&#160;&#160;</mo> </mrow> </math> Charge on upper plate <math> <mrow> <mo>=</mo> <mo>-</mo> <msub> <mtext>V</mtext> <mn>0</mn> </msub> <mtext>C</mtext> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Grouping of capacitors"
+  },
+  {
+    "question_id": "64b16a1ff23ac7d519f9b186",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "In the given circuit, a charge of $+80 \\mu C$ is given to the upper plate of the $4 \\mu F$ capacitor. Then in the steady state, the charge on the upper plate of the $3 \\mu F$ capacitor is\r\n\r\n<img src=\" data:image/png;base64,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\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cKYkq",
+        "text": "$+32 \\mu \\mathrm{C}$",
+        "image": null
+      },
+      {
+        "id": "KaMim",
+        "text": "$+40 \\mu \\mathrm{C}$",
+        "image": null
+      },
+      {
+        "id": "YgwHI",
+        "text": "$+48 \\mu \\mathrm{C}$",
+        "image": null
+      },
+      {
+        "id": "8Aj1U",
+        "text": "$+80 \\mu \\mathrm{C}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "YgwHI",
+    "solution_text": "The total charge on plate $A$ will be $80 \\mu \\mathrm{C}$.\r\n\r\n$2 \\mu F$ and $3 \\mu F$ capacitors are in parallel. Therefore, $C_{e q}=2+3=5 \\mathrm{HF}$\r\n\r\nCharge on capacitor of $3 \\mu \\mathrm{F}$ capacitance $q=\\frac{3}{5} \\times 80=48 \\mu C$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hg2rttPavpB446uZyDbOiN4HL3hyjh-OD7VgG6EegZM.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Grouping of capacitors"
+  }
+]

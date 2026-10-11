@@ -1,0 +1,2084 @@
+[
+  {
+    "question_id": "648b5a65417cc3fb48d660fa",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2017 (02 Apr)",
+    "paper_year_short": "2017 (02 Apr)",
+    "held_on": "2017-04-02T09:00:00.000Z",
+    "question_text": "A magnetic needle of magnetic moment <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.7</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math> and moment of inertia <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.5</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math> is performing simple harmonic oscillations in a magnetic field of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn><mo>&#160;</mo><mi mathvariant=\"normal\">T</mi></math>. Time taken for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> complete oscillations is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "P7qLk",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>76</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ONBbu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>65</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>",
+        "image": null
+      },
+      {
+        "id": "0pcxn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>89</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>",
+        "image": null
+      },
+      {
+        "id": "nl6TY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>98</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ONBbu",
+    "solution_text": "Time period of oscillating magnetic needle is &nbsp;&nbsp;<math><mi>T</mi><mo>=</mo><mn>2</mn><mi>&#960;</mi><msqrt><mfrac><mrow><mi>I</mi></mrow><mrow><mi>M</mi><mi>B</mi></mrow></mfrac></msqrt></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mi>&#960;</mi><msqrt><mfrac><mrow><mn>7.5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow><mrow><mn>6.7</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>0.01</mn></mrow></mfrac></msqrt><mi>&#160;</mi><mi>sec</mi></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0.6647</mn><mi>&#160;</mi><mi>sec</mi></math><br /><br />Time for oscillations, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>10</mn><mi>&#160;</mi><mi>T</mi><mo>=</mo><mn>6.647</mn><mo>&#160;</mo><mi>sec</mi><mo>&#8289;</mo><mo>=</mo><mn>6.65</mn><mi>&#160;</mi><mi>sec</mi></math>",
+    "solution_image": null,
+    "topic": "Magnetic Equipments"
+  },
+  {
+    "question_id": "6983c1948bfdbb243563967d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (23 January Shift 1)",
+    "paper_year_short": "2026 (23 January Shift 1)",
+    "held_on": "2026-01-23T09:00:00.000Z",
+    "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). <br> Consider a ferromagnetic material : <br> <b>Assertion (A)</b> : The individual atoms in a ferromagnetic material possess a magnetic dipole moment and interact with one another in such a way that they spontaneously align themselves forming domains. <br> <b>Reason (R)</b>: At high enough temperature, the domain structure of ferromagnetic material disintegrates. Thus, magnetization will disappear at high enough temperature known as Curie temperature. <br> In the light of the above statements, choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8606544722",
+        "text": "(A) is true but (R) is false",
+        "image": null
+      },
+      {
+        "id": "8606544721",
+        "text": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "image": null
+      },
+      {
+        "id": "8606544723",
+        "text": "(A) is false but (R) is true",
+        "image": null
+      },
+      {
+        "id": "8606544720",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "image": null
+      }
+    ],
+    "correct_answer": "8606544721",
+    "solution_text": "Assertion (A) states that individual atoms in a ferromagnetic material possess a magnetic dipole moment and interact to form domains. This is a correct description of the domain theory of ferromagnetism, where exchange interactions lead to spontaneous alignment of moments within small regions called domains.<br>Reason (R) states that at high temperatures (above the Curie temperature $T_C$), the domain structure disintegrates due to thermal agitation, and the material becomes paramagnetic. This is also a correct statement regarding the temperature dependence of ferromagnetic materials.<br>However, Reason (R) describes the effect of temperature on the domain structure, whereas Assertion (A) describes the fundamental nature and formation of domains in the ferromagnetic state. The disintegration of domains at high temperature is not the reason why they form spontaneously at lower temperatures. Therefore, both statements are true, but (R) is not the correct explanation of (A).",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "6644673d970e6e9ab542d17e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 1)",
+    "paper_year_short": "2024 (08 Apr Shift 1)",
+    "held_on": "2024-04-08T09:00:00.000Z",
+    "question_text": "Paramagnetic substances:\nA. align themselves along the directions of external magnetic field.\nB. attract strongly towards external magnetic field.\nC. has susceptibility little more than zero.\nD. move from a region of strong magnetic field to weak magnetic field.\nChoose the most appropriate answer from the options given below:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xT5D5",
+        "text": "A, B, C Only",
+        "image": null
+      },
+      {
+        "id": "o7nWN",
+        "text": "$\\mathrm{A}, \\mathrm{B}, \\mathrm{C}, \\mathrm{D}$",
+        "image": null
+      },
+      {
+        "id": "gMG7y",
+        "text": "A, C Only",
+        "image": null
+      },
+      {
+        "id": "sSB0d",
+        "text": "B, D Only",
+        "image": null
+      }
+    ],
+    "correct_answer": "gMG7y",
+    "solution_text": "A, C only",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a71417cc3fb48d685fc",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (12 Apr Shift 1)",
+    "paper_year_short": "2023 (12 Apr Shift 1)",
+    "held_on": "2023-04-12T09:00:00.000Z",
+    "question_text": "<p>Given below are two statements:</p><p><strong>Statement I :</strong> The diamagnetic property depends on temperature.</p><p><strong>Statement II :</strong> The induced magnetic dipole moment in a diamagnetic sample is always opposite to the magnetising field.</p><p>In the light of given statements, choose the correct answer from the options given below</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NHs9N",
+        "text": "Both Statement I and Statement II are False",
+        "image": null
+      },
+      {
+        "id": "cDEUY",
+        "text": "Statement I is incorrect but Statement II is true",
+        "image": null
+      },
+      {
+        "id": "VO4Cu",
+        "text": "Statement I is correct but Statement II is false",
+        "image": null
+      },
+      {
+        "id": "HFqAC",
+        "text": "Both Statement I and Statement II are true",
+        "image": null
+      }
+    ],
+    "correct_answer": "cDEUY",
+    "solution_text": "<blockquote><p>The properties of a diamagnetic material are as follows:</p><p>1.&nbsp;The&nbsp;susceptibility&nbsp;has&nbsp;a&nbsp;low&nbsp;negative&nbsp;value.</p><p>2.&nbsp;Susceptibility is independent of temperature.</p><p>3.&nbsp;The relative permeability is slightly less than one.</p><p>4.&nbsp;When placed in a non-uniform magnetic field they have a tendency to move&nbsp;away from the field.</p><p>5. When suspended freely in a uniform magnetic field, they set themselves perpendicular to the direction of the magnetic field.</p><p>Hence, Statement I is false, but statement II is true.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d684fc",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (10 Apr Shift 2)",
+    "paper_year_short": "2023 (10 Apr Shift 2)",
+    "held_on": "2023-04-10T14:00:00.000Z",
+    "question_text": "<p>Given below are two statements:</p><p><strong>Statement I</strong>: For diamagnetic substance&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>&#8804;</mo><mi mathvariant=\"normal\">x</mi><mo>&#60;</mo><mn>0</mn></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math> is the magnetic susceptibility.</p><p><strong>Statement II</strong>: Diamagnetic substance when placed in an external magnetic field, tend to move from stronger to weaker part of the field.&nbsp;In the light of the above statements, choose the correct answer from the options give below.</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VY9ES",
+        "text": "Both <strong>Statement I</strong> and <strong>Statement II</strong> are False",
+        "image": null
+      },
+      {
+        "id": "6MI0D",
+        "text": "<strong>Statement I</strong> is correct but <strong>Statement II</strong> is false",
+        "image": null
+      },
+      {
+        "id": "zInTH",
+        "text": "<strong>Statement I</strong> is incorrect but <strong>Statement II</strong> is true",
+        "image": null
+      },
+      {
+        "id": "ws7yp",
+        "text": "Both <strong>Statement I</strong> and <strong>Statement II</strong> are true",
+        "image": null
+      }
+    ],
+    "correct_answer": "ws7yp",
+    "solution_text": "<blockquote><p>There are no atomic dipoles in diamagnetic materials because the resultant magnetic moment of each atom is zero due to paired electrons.&nbsp;Diamagnetic materials are repelled by a magnet. These substances are weakly repelled by the field, so in a nonuniform field, these substances have a tendency to move from a strong to a weak part of the external magnetic field.</p><p>For diamagnetic substance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>1</mn><mo>&#60;</mo><mi mathvariant=\"normal\">x</mi><mo>&#60;</mo><mn>0</mn><mo>)</mo></math> and&nbsp;a diamagnetic substance&nbsp;is repelled by the magnetic field.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d68439",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (08 Apr Shift 2)",
+    "paper_year_short": "2023 (08 Apr Shift 2)",
+    "held_on": "2023-04-08T14:00:00.000Z",
+    "question_text": "<p>Given below are two statements: one is labelled as <strong>Assertion </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> and the other is labelled as<strong> Reason</strong> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math>.<br /><strong>Assertion A</strong> : Electromagnets are made of soft iron.<br /><strong>Reason R</strong> : Soft iron has high permeability and low retentivity.<br />In the light of above statements, choose the most appropriate answer from the options given below.</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "I6sMO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> is not correct but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is correct",
+        "image": null
+      },
+      {
+        "id": "1ojuG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> is correct but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is not correct",
+        "image": null
+      },
+      {
+        "id": "g3bk6",
+        "text": "Both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> are correct and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is the correct explanation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math>",
+        "image": null
+      },
+      {
+        "id": "WW283",
+        "text": "Both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> are correct but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is NOT the correct explanation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "g3bk6",
+    "solution_text": "<blockquote><p>A coil surrounding a magnetic core&nbsp;having high permeability and low&nbsp;retentivity,&nbsp;through which an electric current is&nbsp;fed&nbsp;to&nbsp;magnetise&nbsp;the&nbsp;core&nbsp;is&nbsp;what&nbsp;makes&nbsp;up&nbsp;an&nbsp;electromagnet. Wherever controllable magnets are needed, as in devices where the magnetic flux needs to be adjusted, reversed, or turned on and off, an electromagnet is used.</p><p>Hence, both <strong>A</strong> and <strong>R</strong> are correct and <strong>R</strong> is the correct explanation of <strong>A</strong>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67b74",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (27 Jun Shift 1)",
+    "paper_year_short": "2022 (27 Jun Shift 1)",
+    "held_on": "2022-06-27T09:00:00.000Z",
+    "question_text": "The susceptibility of a paramagnetic material is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>99</mn></math>. The permeability of the material in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Wb</mi><mo>/</mo><mi mathvariant=\"normal\">A</mi><mo>-</mo><mi mathvariant=\"normal\">m</mi></math>, is [Permeability of free space <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#956;</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>&#160;</mo><mi>Wb</mi><mo>/</mo><mi mathvariant=\"normal\">A</mi><mo>-</mo><mi mathvariant=\"normal\">m</mi></math>]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FwiG6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "PAyNh",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "cx60y",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "w8cNi",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "FwiG6",
+    "solution_text": "<p>Using the relation of magnetic susceptibility&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>&#967;</mi></mfenced></math>&nbsp;and relative permeability<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><msub><mi>&#956;</mi><mi>r</mi></msub></mfenced></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#956;</mi><mi>r</mi></msub><mo>=</mo><mn>1</mn><mo>+</mo><mi>&#967;</mi><mo>=</mo><mn>1</mn><mo>+</mo><mn>99</mn><mo>=</mo><mn>100</mn></math></p><p>Magnetic permeability,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#956;</mi><mo>=</mo><msub><mi>&#956;</mi><mn>0</mn></msub><msub><mi>&#956;</mi><mi>r</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>&#215;</mo><mn>100</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#956;</mi><mo>=</mo><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup></math></p>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d678fe",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (25 Jun Shift 2)",
+    "paper_year_short": "2022 (25 Jun Shift 2)",
+    "held_on": "2022-06-25T14:00:00.000Z",
+    "question_text": "<p>Given below are two statements :</p><p><strong>Statement - I :</strong> Susceptibilities of paramagnetic and ferromagnetic substances increase with decrease in temperature.</p><p><strong>Statement - II :</strong> Diamagnetism is a result of orbital motions of electrons developing magnetic moments opposite to the applied magnetic field.</p><p>Choose the correct answer from the options given below</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kSkji",
+        "text": "Both Statement - I and Statement - II are true.",
+        "image": null
+      },
+      {
+        "id": "NRh69",
+        "text": "Both Statement - I and Statement - II are false.",
+        "image": null
+      },
+      {
+        "id": "xrSSa",
+        "text": "Statement - I is true but Statement - II is false.",
+        "image": null
+      },
+      {
+        "id": "BzLeu",
+        "text": "Statement- I is false but Statement - II is true.",
+        "image": null
+      }
+    ],
+    "correct_answer": "kSkji",
+    "solution_text": "<p>Statement-I is true as susceptibility of ferromagnetic and paramagnetic materials is inversely related to temperature, so it increases with decrease in temperature.</p><p>Statement-II is also true as because of orbital motion of electrons, the diamagnetic material is able to oppose external magnetic field.&nbsp;Once an external magnetic field is applied, diamagnetic materials develop an induced magnetic field opposite to this field and thus are repelled by the field.</p>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66e16",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (01 Sep Shift 2)",
+    "paper_year_short": "2021 (01 Sep Shift 2)",
+    "held_on": "2021-09-01T14:00:00.000Z",
+    "question_text": "<p>Following plots show Magnetization <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>M</mi><mo>)</mo></math> vs Magnetising field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>H</mi><mo>)</mo></math> and Magnetic susceptibility <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">&#967;</mi><mo>)</mo></math> vs Temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>T</mi><mo>)</mo></math> graph :</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/50d72cec-fd1e-4f1d-914c-a483d1da6594-image.png\" style=\"width: 528px; height: 401px;\" /></p><p>Which of the following combination will be represented by a diamagnetic material?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0L4Bf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "2lQBa",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "JToZW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "vqFvG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "vqFvG",
+    "solution_text": "<p>A magnetic field is a vector field that describes the magnetic influence on moving electric charges, electric currents, and magnetic materials. A moving charge in a magnetic field experiences a force perpendicular to its own velocity and to the magnetic field. So the graph between magnetizing field, and magnetizing field,&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/4c7b1d39-41bc-4cf5-83ba-4ce18ca1c263-image.png\" style=\"width: 193px; height: 186px;\" /><br />And the graph between magnetic susceptibility and temperature,&nbsp;<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/b49e57bc-8cf4-4453-96f9-f6e501ce53b5-image.png\" style=\"width: 222px; height: 199px;\" /></p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d6713f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (22 Jul Shift 1)",
+    "paper_year_short": "2021 (22 Jul Shift 1)",
+    "held_on": "2021-07-22T09:00:00.000Z",
+    "question_text": "<p>Statement I : The ferromagnetic property depends on temperature. At high temperature, ferromagnet becomes paramagnet.</p><p>Statement II : At high temperature, the domain wall area of a ferromagnetic substance increases. In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QIEvc",
+        "text": "Statement I is true but Statement II is false.",
+        "image": null
+      },
+      {
+        "id": "4V2Iy",
+        "text": "Both Statement I and Statement II are true.",
+        "image": null
+      },
+      {
+        "id": "0O5Ek",
+        "text": "Both Statement I and Statement II are false.",
+        "image": null
+      },
+      {
+        "id": "w44PL",
+        "text": "Statement I&nbsp;is false but Statement II is true.",
+        "image": null
+      }
+    ],
+    "correct_answer": "QIEvc",
+    "solution_text": "As temperature increases, domains disintegrate so ferromagnetism decreases and above curie temperature it become paramagnet.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d672a6",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (25 Feb Shift 2)",
+    "paper_year_short": "2021 (25 Feb Shift 2)",
+    "held_on": "2021-02-25T14:00:00.000Z",
+    "question_text": "In a ferromagnetic material, below the curie temperature, a domain is defined as:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mZrZh",
+        "text": "a macroscopic region with saturation magnetization.",
+        "image": null
+      },
+      {
+        "id": "rfm5k",
+        "text": "a macroscopic region with consecutive magnetic dipoles oriented in opposite direction.",
+        "image": null
+      },
+      {
+        "id": "6nscd",
+        "text": "a macroscopic region with zero magnetization.",
+        "image": null
+      },
+      {
+        "id": "moFFZ",
+        "text": "a macroscopic region with randomly oriented magnetic dipoles.",
+        "image": null
+      }
+    ],
+    "correct_answer": "mZrZh",
+    "solution_text": "In a ferromagnetic material, below the curie temperature, a domain is defined as a macroscopic region with saturation magnetization.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d671f8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (24 Feb Shift 2)",
+    "paper_year_short": "2021 (24 Feb Shift 2)",
+    "held_on": "2021-02-24T14:00:00.000Z",
+    "question_text": "A soft ferromagnetic material is placed in an external magnetic field. The magnetic domains:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "X097I",
+        "text": "have no relation with external magnetic field.",
+        "image": null
+      },
+      {
+        "id": "HtfCi",
+        "text": "decrease in size and changes orientation.",
+        "image": null
+      },
+      {
+        "id": "bEQ32",
+        "text": "increase in size but no change in orientation.",
+        "image": null
+      },
+      {
+        "id": "JTWa2",
+        "text": "may increase or decrease in size and change its orientation.",
+        "image": null
+      }
+    ],
+    "correct_answer": "JTWa2",
+    "solution_text": "Soft ferromagnetic materials are materials which can be easily magnetised and demagnetised by external magnetic field. When external field is applied, the domains experiences a net torque hence change its orientation.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66ae9",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (04 Sep Shift 2)",
+    "paper_year_short": "2020 (04 Sep Shift 2)",
+    "held_on": "2020-09-04T14:00:00.000Z",
+    "question_text": "A paramagnetic sample shows a net magnetisation of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#160;</mo><mi>A</mi><mo>/</mo><mi>m</mi></math> when it is placed in an external magnetic field of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi>T</mi></math> at a temperature of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mi>K</mi></math>. When the sample is placed in an external magnetic field of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>3</mn><mo>&#160;</mo><mi>T</mi></math> at a temperature of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn><mo>&#160;</mo><mi>K</mi></math>, then the magnetisation will be :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yteFq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>A</mi><mo>/</mo><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "fvj8i",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mi>A</mi><mo>/</mo><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "r1EN9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>25</mn><mo>&#160;</mo><mi>A</mi><mo>/</mo><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "6GmMC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi>A</mi><mo>/</mo><mi>m</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "6GmMC",
+    "solution_text": "<p>According to Curie&#39;s Law,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#967;</mi><mo>&#8733;</mo><mfrac><mn>1</mn><mi>T</mi></mfrac></math><br />Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#967;</mi><mn>1</mn></msub><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><msub><mi>&#967;</mi><mn>2</mn></msub><msub><mi>T</mi><mn>2</mn></msub></math><br />Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#967;</mi><mo>=</mo><mfrac><mi>M</mi><mi>B</mi></mfrac></math><br />So,&nbsp;<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>M</mi><mn>1</mn></msub><msub><mi>T</mi><mn>1</mn></msub></mrow><msub><mi>B</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><mrow><msub><mi>M</mi><mn>2</mn></msub><msub><mi>T</mi><mn>2</mn></msub></mrow><msub><mi>B</mi><mn>2</mn></msub></mfrac></math><br />On substituting the values,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>&#215;</mo><mn>4</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>4</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mi>M</mi><mn>2</mn></msub><mo>&#215;</mo><mn>24</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>3</mn></mrow></mfrac></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66a50",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (03 Sep Shift 2)",
+    "paper_year_short": "2020 (03 Sep Shift 2)",
+    "held_on": "2020-09-03T14:00:00.000Z",
+    "question_text": "<p>A perfectly diamagnetic sphere has a small spherical cavity at its centre, which is filled with a paramagnetic substance. The whole system is placed in a uniform magnetic field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo></mover></math>. Then the field inside the paramagnetic substance is:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/b8045c02-34f5-4e01-8d4c-dd6bf71b2525-image.png\" style=\"width: 71px; height: 76px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AVN56",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "l0wui",
+        "text": "Zero",
+        "image": null
+      },
+      {
+        "id": "oyKiP",
+        "text": "much large than&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mover><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo></mover></mfenced></math>&nbsp;and parallel to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "0sS90",
+        "text": "much large than&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"|\" close=\"|\"><mover><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo></mover></mfenced></math>&nbsp;but opposite to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo></mover></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "l0wui",
+    "solution_text": "When magnetic field is applied diamagnetic substance produces magnetic field in opposite direction so net magnetic field will be zero.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66ca9",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (07 Jan Shift 2)",
+    "paper_year_short": "2020 (07 Jan Shift 2)",
+    "held_on": "2020-01-07T14:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/04ca36a4-8d68-49cf-84fa-50cbffd7f9b5-image.png\" style=\"width: 250px; height: 250px;\" /><br />The figure gives experimentally measured <math><mi mathvariant=\"normal\">B</mi></math> vs. <math><mi mathvariant=\"normal\">H</mi></math> variation in a ferromagnetic material. The retentivity, coercivity and saturation, respectively, of the material are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SH5Qc",
+        "text": "<math><mn>1.5</mn><mi></mi><mtext>T</mtext><mo>,</mo><mn>50</mn><mi></mi><mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></mrow></math> and <math><mn>1.0</mn><mtext>T</mtext></math>",
+        "image": null
+      },
+      {
+        "id": "F1sve",
+        "text": "<math><mn>1.5</mn><mi></mi><mtext>T</mtext><mo>,</mo><mi></mi><mn>50</mn><mi></mi><mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></mrow></math> and <math><mn>1.0</mn><mi></mi><mtext>T</mtext></math>",
+        "image": null
+      },
+      {
+        "id": "r6Yo0",
+        "text": "<math><mn>150</mn><mi></mi><mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></mrow><mo>,</mo><mi></mi><mn>1.0</mn><mi></mi><mi mathvariant=\"normal\">T</mi></math> and <math><mn>1.5</mn><mi></mi><mtext>T</mtext></math>",
+        "image": null
+      },
+      {
+        "id": "ABvo0",
+        "text": "<math><mn>1.0</mn><mi></mi><mtext>T</mtext><mo>,</mo><mi></mi><mn>50</mn><mi></mi><mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></mrow></math> and <math><mn>1.5</mn><mi></mi><mtext>T</mtext></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ABvo0",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/311bd192-0b06-470e-b08e-0c2fb79d208d-image.png\" style=\"width: 250px; height: 226px;\" /><br /><math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">y</mi></math><br /><math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">y</mi></math><br /><math><mi mathvariant=\"normal\">z</mi><mo>=</mo><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"></mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">z</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi></math>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d66914",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Jan Shift 2)",
+    "paper_year_short": "2019 (12 Jan Shift 2)",
+    "held_on": "2019-01-12T14:00:00.000Z",
+    "question_text": "A paramagnetic material has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>28</mn></msup><mo>&nbsp;</mo><mi>atoms</mi><mo>&nbsp;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math>. Its magnetic susceptibility at temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>350</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">K</mi></math> is <math><mn>2.8</mn><mo>Ã—</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>. Its susceptibility at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">K</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bnCIx",
+        "text": "<math><mn>3.726</mn><mo>x</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "ogEts",
+        "text": "<math><mn>2.672</mn><mo>x</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "LTzDQ",
+        "text": "<math><mn>3.267</mn><mo>x</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "OsDMO",
+        "text": "<math><mn>3.672</mn><mo>x</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LTzDQ",
+    "solution_text": "<blockquote><p>From Curie&#39;s law, the magnetic susceptibility is inversely proportional to the temperature, i.e.,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#967;</mi><mo>&#8733;</mo><mfrac><mn>1</mn><mi>T</mi></mfrac></math></p><p>Hence, the ratio of magnetic susceptibility at different temperature&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mn>350</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub><mo>=</mo><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>&#967;</mi><mn>2</mn></msub><msub><mi>&#967;</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><msub><mi>T</mi><mn>1</mn></msub><msub><mi>T</mi><mn>2</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#967;</mi><mn>2</mn></msub><mo>=</mo><msub><mi>&#967;</mi><mn>1</mn></msub><mo>&#215;</mo><mfrac><msub><mi>T</mi><mn>1</mn></msub><msub><mi>T</mi><mn>2</mn></msub></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#215;</mo><mfrac><mn>350</mn><mn>300</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#967;</mi><mn>2</mn></msub><mo>=</mo><mn>3</mn><mo>.</mo><mn>267</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d66325",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (15 Apr)",
+    "paper_year_short": "2018 (15 Apr)",
+    "held_on": "2018-04-15T09:00:00.000Z",
+    "question_text": "<p>The <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>-</mo><mi>H</mi></math> curve for a ferromagnet is shown in the figure. The ferromagnet is placed inside a long solenoid with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1000</mn><mo>&#160;</mo><mi>turns</mi><mo>&#160;</mo><msup><mi>cm</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. The current that should be passed in the solenoid to demagnetize the ferromagnet completely is,&nbsp;<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/d27b2bb6-aec7-41d8-95e0-32c2c19d0832-image.png\" style=\"width: 295px; height: 250px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Hh9Jo",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#xA0;</mo><mi>mA</mi></math>",
+        "image": null
+      },
+      {
+        "id": "XVjEn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#xA0;</mo><mi>&#x3BC;A</mi></math>",
+        "image": null
+      },
+      {
+        "id": "xpe8S",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#xA0;</mo><mi>mA</mi></math>",
+        "image": null
+      },
+      {
+        "id": "VVkSY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>&#xA0;</mo><mi>&#x3BC;A</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "xpe8S",
+    "solution_text": "The coercivity of ferromagnet,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#215;</mo><mi>I</mi><mo>=</mo><mn>100</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>I</mi><mo>=</mo><mfrac><mn>100</mn><msup><mn>10</mn><mn>5</mn></msup></mfrac><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mn>m</mn><mn>A</mn></math>.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65e96",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (19 Apr Online)",
+    "paper_year_short": "2014 (19 Apr Online)",
+    "held_on": "2014-04-19T09:00:00.000Z",
+    "question_text": "An example of a perfect diamagnet is a superconductor. This implies that when a superconductor is put in a magnetic field of intensity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>,&nbsp;the magnetic field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>s</mi></msub></math> inside the superconductor will be such that",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IleTZ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>s</mi></msub><mo>=</mo><mi>B</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "oBs5c",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>s</mi></msub><mo>=</mo><mn>0</mn></math>.",
+        "image": null
+      },
+      {
+        "id": "4mUgy",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>s</mi></msub><mo>&#60;</mo><mi>B</mi><mo>&#160;</mo></math>but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>s</mi></msub><mo>&#8800;</mo><mn>0</mn></math>.",
+        "image": null
+      },
+      {
+        "id": "ti169",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>s</mi></msub><mo>=</mo><mo>&#8211;</mo><mi>B</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "oBs5c",
+    "solution_text": "In diamagnetic material, the magnetic field strength decreases. So, in a perfect diamagnetic,&nbsp;it has to be zero.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65dd8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (11 Apr Online)",
+    "paper_year_short": "2014 (11 Apr Online)",
+    "held_on": "2014-04-11T09:00:00.000Z",
+    "question_text": "Three identical bars A, B and C are made of different magnetic materials. When kept in a uniform magnetic field, the field lines around them look as follows:\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/pcHay_y5s0hrmspzNqT80hWCImOw1TtMe8c0KyLn4-c.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/juddoQN0CaReHXnbX_qVdH3RxxAbbBL73d5IEmj_5gM.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/JZCr13N1kOgwZupx0lcebpkKMNjjQV6mz_qqA9SgSHE.original.fullsize.png\"><br>\nMake the correspondence of these bars with their material being diamagnetic ( $\\mathrm{D})$, ferromagnetic (F) and paramagnetic $(\\mathrm{P})$ :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qjfnf",
+        "text": "\n$\\mathrm{A} \\leftrightarrow \\mathrm{D}, \\mathrm{B} \\leftrightarrow \\mathrm{P}, \\mathrm{C} \\leftrightarrow \\mathrm{F}$\n",
+        "image": null
+      },
+      {
+        "id": "m2wX3",
+        "text": "\n$\\mathrm{A} \\leftrightarrow \\mathrm{F}, \\mathrm{B} \\leftrightarrow \\mathrm{D}, \\mathrm{C} \\leftrightarrow \\mathrm{P}$\n",
+        "image": null
+      },
+      {
+        "id": "SKG0N",
+        "text": "\n$\\mathrm{A} \\leftrightarrow \\mathrm{P}, \\mathrm{B} \\leftrightarrow \\mathrm{F}, \\mathrm{C} \\leftrightarrow \\mathrm{D}$\n",
+        "image": null
+      },
+      {
+        "id": "7Hj82",
+        "text": "\n$\\mathrm{A} \\leftrightarrow \\mathrm{F}, \\mathrm{B} \\leftrightarrow \\mathrm{P}, \\mathrm{C} \\leftrightarrow \\mathrm{D}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "m2wX3",
+    "solution_text": "Diamagnetic materials are repelled in an external magnetic field.\nBar $B$ represents diamagnetic materials.",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65d24",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (06 Apr)",
+    "paper_year_short": "2014 (06 Apr)",
+    "held_on": "2014-04-06T09:00:00.000Z",
+    "question_text": "The coercivity of a small magnet, where the ferromagnet gets demagnetised is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>/</mo><mi mathvariant=\"normal\">m</mi></math>. The current required to be passed in a solenoid of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi>cm</mi></math> and number of turns <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn></math>, so that the magnet gets demagnetised when inside the solenoid is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FbMe3",
+        "text": "30 mA",
+        "image": null
+      },
+      {
+        "id": "4vQ8c",
+        "text": "60 mA",
+        "image": null
+      },
+      {
+        "id": "XIRVI",
+        "text": "3 A",
+        "image": null
+      },
+      {
+        "id": "TS55h",
+        "text": "6 A",
+        "image": null
+      }
+    ],
+    "correct_answer": "XIRVI",
+    "solution_text": "<p>For solenoid, the magnetic field needed to be magnetised the magnet.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>n</mi><mi>I</mi></math></p><p>where, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>100</mn><mo>,</mo><mi>l</mi><mo>=</mo><mn>10</mn><mo>&#160;</mo><mi>cm</mi><mo>=</mo><mfrac><mn>10</mn><mn>100</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mo>=</mo><mfrac><mn>100</mn><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfrac><mo>&#215;</mo><mi>I</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>I</mi><mo>=</mo><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p>",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65836",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2008",
+    "paper_year_short": "2008",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Relative permittivity and permeability of a material are $\\varepsilon_{\\mathrm{r}}$ and $\\mu_{\\mathrm{r}}$, respectively. Which of the following values of these quantities are allowed for a diamagnetic material?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RFIPH",
+        "text": "\n$\\varepsilon_{\\mathrm{r}}=0.5, \\mu_{\\mathrm{r}}=1.5$\n",
+        "image": null
+      },
+      {
+        "id": "eZGxz",
+        "text": "\n$\\varepsilon_{\\mathrm{r}}=1.5, \\mu_{\\mathrm{r}}=0.5$\n",
+        "image": null
+      },
+      {
+        "id": "lVGri",
+        "text": "\n$\\varepsilon_r=0.5, \\mu_r=0.5$\n",
+        "image": null
+      },
+      {
+        "id": "aXVtr",
+        "text": "\n$\\varepsilon_{\\mathrm{r}}=1.5, \\mu_{\\mathrm{r}}=1.5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "eZGxz",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65580",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2004",
+    "paper_year_short": "2004",
+    "held_on": "2004-04-30T09:00:00.000Z",
+    "question_text": "The materials suitable for making electromagnets should have",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HDSgI",
+        "text": "\nhigh retentivity and high coercivity\n",
+        "image": null
+      },
+      {
+        "id": "N89rB",
+        "text": "\nlow retentivity and low coercivity\n",
+        "image": null
+      },
+      {
+        "id": "SGFNK",
+        "text": "\nhigh retentivity and low coercivity\n",
+        "image": null
+      },
+      {
+        "id": "wztH1",
+        "text": "\nlow retentivity and high coercivity",
+        "image": null
+      }
+    ],
+    "correct_answer": "N89rB",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d6546a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2003",
+    "paper_year_short": "2003",
+    "held_on": "2003-04-30T09:00:00.000Z",
+    "question_text": "Curie temperature is the temperature above which",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zQsv4",
+        "text": "\na ferromagnetic material becomes paramagnetic\n",
+        "image": null
+      },
+      {
+        "id": "FEtTT",
+        "text": "\na paramagnetic material becomes diamagnetic\n",
+        "image": null
+      },
+      {
+        "id": "xs713",
+        "text": "\na ferromagnetic material becomes diamagnetic\n",
+        "image": null
+      },
+      {
+        "id": "otVW3",
+        "text": "\na paramagnetic material becomes ferromagnetic",
+        "image": null
+      }
+    ],
+    "correct_answer": "zQsv4",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Magnetic Materials and their Properties"
+  },
+  {
+    "question_id": "69d8074781239f6567c4f3e1",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (04 April Shift 2)",
+    "paper_year_short": "2026 (04 April Shift 2)",
+    "held_on": "2026-04-04T14:00:00.000Z",
+    "question_text": "Two identical small bar magnets each of dipole moment $3\\sqrt{5}$ J/T are placed at a center to center separation of $10$ cm, with their axes perpendicular to each other as shown in figure. The value of magnetic field at the point P midway between the magnets is $\\alpha \\times 10^{-3}$ T. The value of $\\alpha$ is ______.<br>($\\mu_0=4\\pi \\times 10^{-7}$ Tm/A)<br><img style=\"width:400px;\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main_2026_april_watermarked/04APRS2__q48_d1.jpg\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "12",
+    "solution_text": "Let the magnetic moment of each magnet be $M = 3\\sqrt{5}$ J/T.<br><br>The distance of point P from the center of each magnet is $r = 5$ cm $= 0.05$ m.<br><br>For the first magnet (horizontal), point P lies on its axial line. The magnetic field at P due to the first magnet is:<br><br>$B_1 = \\dfrac{\\mu_0}{4\\pi} \\dfrac{2M}{r^3}$<br><br>The direction of $\\vec{B}_1$ is along the axis of the first magnet.<br><br>For the second magnet (vertical), point P lies on its equatorial line. The magnetic field at P due to the second magnet is:<br><br>$B_2 = \\dfrac{\\mu_0}{4\\pi} \\dfrac{M}{r^3}$<br><br>The direction of $\\vec{B}_2$ is parallel to the axis of the second magnet, which is perpendicular to the axis of the first magnet.<br><br>Since $\\vec{B}_1$ and $\\vec{B}_2$ are perpendicular to each other, the net magnetic field at P is:<br><br>$B = \\sqrt{B_1^2 + B_2^2}$<br><br>Substituting the expressions for $B_1$ and $B_2$:<br><br>$B = \\sqrt{\\left(\\dfrac{\\mu_0}{4\\pi} \\dfrac{2M}{r^3}\\right)^2 + \\left(\\dfrac{\\mu_0}{4\\pi} \\dfrac{M}{r^3}\\right)^2}$<br><br>$B = \\dfrac{\\mu_0}{4\\pi} \\dfrac{M}{r^3} \\sqrt{2^2 + 1^2} = \\dfrac{\\mu_0}{4\\pi} \\dfrac{\\sqrt{5}M}{r^3}$<br><br>Substituting the given values $\\dfrac{\\mu_0}{4\\pi} = 10^{-7}$ T m/A, $M = 3\\sqrt{5}$ J/T, and $r = 0.05$ m:<br><br>$B = 10^{-7} \\times \\dfrac{\\sqrt{5} \\times 3\\sqrt{5}}{(0.05)^3}$<br><br>$B = 10^{-7} \\times \\dfrac{15}{125 \\times 10^{-6}}$<br><br>$B = \\dfrac{15 \\times 10^{-1}}{125}$<br><br>$B = 0.1 \\times 0.12$ T<br><br>$B = 0.012$ T<br><br>$B = 12 \\times 10^{-3}$ T<br><br>Comparing this with the given value $\\alpha \\times 10^{-3}$ T, we get $\\alpha = 12$.<br><br>Answer: $12$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "69d8074681239f6567c4f3d8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (04 April Shift 2)",
+    "paper_year_short": "2026 (04 April Shift 2)",
+    "held_on": "2026-04-04T14:00:00.000Z",
+    "question_text": "A solenoid has a core made of material with relative permeability $400$. The magnetic field produced in the interior of solenoid is $1.0$ T. The magnetic intensity in SI units is $\\alpha \\times 10^5$. The value of $\\alpha$ is ______.<br>(Free space permeability $\\mu_0=4\\pi \\times 10^{-7}$ SI units.)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "b2NE3",
+        "text": "$\\dfrac{25}{\\pi}$",
+        "image": null
+      },
+      {
+        "id": "g8I2t",
+        "text": "$\\dfrac{1}{16\\pi}$",
+        "image": null
+      },
+      {
+        "id": "B8Fv9",
+        "text": "$\\dfrac{1}{\\pi}$",
+        "image": null
+      },
+      {
+        "id": "c7hVY",
+        "text": "$\\dfrac{1}{4\\pi}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "g8I2t",
+    "solution_text": "The magnetic field $B$ inside the solenoid is related to the magnetic intensity $H$ by the formula:<br><br>$B = \\mu H = \\mu_0 \\mu_r H$<br><br>Rearranging for $H$, we get:<br><br>$H = \\dfrac{B}{\\mu_0 \\mu_r}$<br><br>Substituting the given values ($B = 1.0$ T, $\\mu_r = 400$, and $\\mu_0 = 4\\pi \\times 10^{-7}$ T m/A):<br><br>$H = \\dfrac{1.0}{4\\pi \\times 10^{-7} \\times 400}$<br><br>$H = \\dfrac{1.0}{1600\\pi \\times 10^{-7}}$<br><br>$H = \\dfrac{1}{16\\pi \\times 10^{-5}}$<br><br>$H = \\dfrac{1}{16\\pi} \\times 10^5$ A/m<br><br>Comparing this with the given expression $H = \\alpha \\times 10^5$, we find:<br><br>$\\alpha = \\dfrac{1}{16\\pi}$<br><br>Answer: $\\dfrac{1}{16\\pi}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "68542c567c09d044e4c1a175",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 2)",
+    "paper_year_short": "2025 (7 Apr Shift 2)",
+    "held_on": "2025-04-07T14:00:00.000Z",
+    "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason(R).<br/>Assertion (A) : Magnetic monopoles do not exist.<br/>Reason (R) : Magnetic field lines are continuous and form closed loops.<br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ujZhC",
+        "text": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are correct but $(\\mathrm{R})$ is not the correct explanation of (A)",
+        "image": null
+      },
+      {
+        "id": "GweYx",
+        "text": "(A) is correct but $(\\mathrm{R})$ is not correct",
+        "image": null
+      },
+      {
+        "id": "EciE1",
+        "text": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are correct and $(\\mathrm{R})$ is the correct explanation of (A)",
+        "image": null
+      },
+      {
+        "id": "e7Wdn",
+        "text": "(A) is not correct but ( $\\mathrm{R}$) is correct",
+        "image": null
+      }
+    ],
+    "correct_answer": "EciE1",
+    "solution_text": "Both statements are correct and reason is also the correct explanation of assertion.",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "68542c577c09d044e4c1a178",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 1)",
+    "paper_year_short": "2025 (7 Apr Shift 1)",
+    "held_on": "2025-04-07T09:00:00.000Z",
+    "question_text": "The percentage increase in magnetic field (B) when space within a current carrying solenoid is filled with magnesium (magnetic susceptibility $\\left.\\chi_{\\mathrm{mg}}=1.2 \\times 10^{-5}\\right)$ is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mhi3Y",
+        "text": "$\\frac{6}{5} \\times 10^{-3} \\%$",
+        "image": null
+      },
+      {
+        "id": "6BTNZ",
+        "text": "$\\frac{5}{6} \\times 10^{-5} \\%$",
+        "image": null
+      },
+      {
+        "id": "svIVD",
+        "text": "$\\frac{5}{6} \\times 10^{-4} \\%$",
+        "image": null
+      },
+      {
+        "id": "vvD0p",
+        "text": "$\\frac{5}{3} \\times 10^{-5} \\%$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mhi3Y",
+    "solution_text": "$\\begin{aligned} & \\% \\text { change in } B=\\frac{B_{\\text {new }}-B_{\\text {old }}}{B_{\\text {old }}} \\times 100 \\% \\\\ & =\\frac{\\mu \\mathrm{ni}-\\mu_0 \\mathrm{ni}}{\\mu_0 \\mathrm{ni}} \\times 100 \\%=\\frac{\\left(\\mu-\\mu_0\\right)}{\\mu_0} \\times 100 \\% \\\\ & =\\frac{\\left(\\mu_0 \\mu_{\\mathrm{r}}-\\mu_0\\right)}{\\mu_0} \\times 100 \\% \\\\ & =\\left(\\mu_{\\mathrm{r}}-1\\right) \\times 100 \\% \\\\ & =\\chi_{\\mathrm{n}} \\times 100 \\% \\\\ & =1.2 \\times 10^{-3} \\%\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "68542c577c09d044e4c1a177",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 2)",
+    "paper_year_short": "2025 (2 Apr Shift 2)",
+    "held_on": "2025-04-02T14:00:00.000Z",
+    "question_text": "A solenoid having area $A$ and length ' $l$ ' is filled with a material having relative permeability 2. The magnetic energy stored in the solenoid is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IZPUz",
+        "text": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{\\mu_0}$",
+        "image": null
+      },
+      {
+        "id": "GlKsJ",
+        "text": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{2 \\mu_0}$",
+        "image": null
+      },
+      {
+        "id": "sRF6D",
+        "text": "$\\mathrm{B}^2 \\mathrm{Al}$",
+        "image": null
+      },
+      {
+        "id": "HPT25",
+        "text": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{4 \\mu_0}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "HPT25",
+    "solution_text": "$\\frac{\\mathrm{U}}{\\mathrm{V}}=\\frac{\\mathrm{B}^2}{2 \\mu_{\\mathrm{r}} \\mathrm{u}_0} \\Rightarrow \\mathrm{U}=\\frac{\\mathrm{B}^2}{4 \\mu_0} \\mathrm{~V}=\\frac{\\mathrm{B}^2}{4 \\mu_0} \\mathrm{~A} \\ell$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "68542c567c09d044e4c1a176",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 1)",
+    "paper_year_short": "2025 (2 Apr Shift 1)",
+    "held_on": "2025-04-02T09:00:00.000Z",
+    "question_text": "The relationship between the magnetic susceptibility $(\\chi)$ and the magnetic permeability $(\\mu)$ is given by :<br/>($\\mu_0$ is the permeability of free space and $\\mu_{\\mathrm{r}}$ is relative permeability)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SR8lB",
+        "text": "$\\chi=\\frac{\\mu}{\\mu_0}-1$",
+        "image": null
+      },
+      {
+        "id": "GcCtQ",
+        "text": "$\\chi=\\frac{\\mu_{\\mathrm{r}}}{\\mu_0}+1$",
+        "image": null
+      },
+      {
+        "id": "lHZSg",
+        "text": "$\\chi=\\mu_{\\mathrm{r}}+1$",
+        "image": null
+      },
+      {
+        "id": "7DXcN",
+        "text": "$\\chi=1-\\frac{\\mu}{\\mu_0}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SR8lB",
+    "solution_text": "We have<br/>$\\begin{aligned} & \\mu_{\\mathrm{r}}=(1+\\chi) \\Rightarrow \\chi=\\left(\\mu_{\\mathrm{r}}-1\\right) \\\\ & \\mu=\\mu_0 \\mu_{\\mathrm{r}} \\Rightarrow \\mu_{\\mathrm{r}}=\\frac{\\mu}{\\mu_0} \\\\ & \\therefore \\chi=\\left(\\frac{\\mu}{\\mu_0}-1\\right)\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "67a2eec4c8b73881fdaea2b6",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (28 Jan Shift 2)",
+    "paper_year_short": "2025 (28 Jan Shift 2)",
+    "held_on": "2025-01-28T14:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/ZOyI0dWsod0HQRaRqoX7F1eILOdSEr17QrmBKOX1rBc.original.fullsize.png\"/><br/>\nA bar magnet has total length $2 l=20$ units and the field point $P$ is at a distance $\\mathrm{d}=10$ units from the centre of the magnet. If the relative uncertainty of length measurement is $1 \\%$, then uncertainty of the magnetic field at point P is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vF3LN",
+        "text": "$4 \\%$",
+        "image": null
+      },
+      {
+        "id": "WGHAK",
+        "text": "$15 \\%$",
+        "image": null
+      },
+      {
+        "id": "mgxHk",
+        "text": "$5 \\%$",
+        "image": null
+      },
+      {
+        "id": "ZyFWp",
+        "text": "$10 \\%$",
+        "image": null
+      }
+    ],
+    "correct_answer": "vF3LN",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/SES2iVZmAuOyfB9z77qA77SZx-xh77PPMKzRKnntIHg.original.fullsize.png\"><br>\nMagnetic field at $P, B=\\frac{\\mu_0}{4 \\pi} \\frac{m(2 l)}{r^3}$, where $m$ is the pole strength\n$\\begin{aligned}\n\\Rightarrow\\left(\\frac{\\Delta B}{B} \\times 100\\right) & =\\left(\\frac{\\Delta l}{l}\\right) \\times 100+3\\left|\\frac{\\Delta r}{r}\\right| \\times 100 \\\\\n& =1 \\%+3 \\%=4 \\%\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "66446747970e6e9ab542d1dd",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 2)",
+    "paper_year_short": "2024 (08 Apr Shift 2)",
+    "held_on": "2024-04-08T14:00:00.000Z",
+    "question_text": "The coercivity of a magnet is $5 \\times 10^3 \\mathrm{~A} / \\mathrm{m}$. The amount of current required to be passed in a solenoid of length $30 \\mathrm{~cm}$ and the number of turns 150 , so that the magnet gets demagnetised when inside the solenoid is _____A.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/2Ca9ebgPH7LOb-A4W4wP6EN_LTd7KUz1YSm2SuvLn-E.original.fullsize.png\"><br />$\\begin{aligned} & \\mathrm{H}_{\\mathrm{c}}=\\frac{\\mu_{\\mathrm{o}} \\mathrm{ni}}{\\mu_{\\mathrm{o}}} \\\\ & 5 \\times 10^3=\\frac{150}{30} \\times 100 \\times \\mathrm{i} \\\\ & \\frac{50}{5}=\\mathrm{i} \\\\ & \\mathrm{I}=10\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "66446732970e6e9ab542d11a",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (06 Apr Shift 2)",
+    "paper_year_short": "2024 (06 Apr Shift 2)",
+    "held_on": "2024-04-06T14:00:00.000Z",
+    "question_text": "Match List-I with List-II :\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/AVfZ9dJZ8cvFouzRvV9VY4ojs9YiM3RRIkRJwWHlXq4.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/9tzJ6Cf44ULG_ld4a-IqlimXBSHruDoNTQ_WtU6w1wk.original.fullsize.png\"><br />Choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "noQi6",
+        "text": "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+        "image": null
+      },
+      {
+        "id": "19Ofb",
+        "text": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+        "image": null
+      },
+      {
+        "id": "mOFJQ",
+        "text": "(A)-(III), (B)-(IV), (C)- (I), (D)-(II)",
+        "image": null
+      },
+      {
+        "id": "zYbyf",
+        "text": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+        "image": null
+      }
+    ],
+    "correct_answer": "zYbyf",
+    "solution_text": "(A) Graph between Magnetic susceptibility and magnetising field is :\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/w6v7neqFdR-CKY5QHXeMsuJNxzt_Ryb_-DT5Kf25Y6E.original.fullsize.png\"><br />(B) magnetic field due to a current carrying wire for $\\mathrm{x} < \\mathrm{a}$ :\n$\\mathrm{B}=\\frac{\\mu_0 \\mathrm{ir}}{2 \\pi \\mathrm{a}^2}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/DBbnMu1FS8YbdYjigrdXvHoiKf-CCbi5e4s2Je0eLcs.original.fullsize.png\"><br />(C) magnetic field due to a current carrying wire for $x>a$ :\n$\\mathrm{B}=\\frac{\\mu_0 \\mathrm{i}}{2 \\pi \\mathrm{a}}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/rxnQegHyDMRw8sORCOjfmJUPDJg3ujEHQBXAj9yeC1g.original.fullsize.png\"><br />(D) magnetic field inside solenoid varies as:<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/1IUO5wNN4u-DehvXVngWe4YIKVVikZ3G1MBjlrf-oCA.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "6644670b970e6e9ab542cfaf",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "outOfSyllabusButGoodToSolve",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (04 Apr Shift 2)",
+    "paper_year_short": "2024 (04 Apr Shift 2)",
+    "held_on": "2024-04-04T14:00:00.000Z",
+    "question_text": "The magnetic moment of a bar magnet is $0.5 \\mathrm{Am}^2$. It is suspended in a uniform magnetic field of $8 \\times 10^{-2} \\mathrm{~T}$. The work done in rotating it from its most stable to most unstable position is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "KrJyy",
+        "text": "$8 \\times 10^{-2} \\mathrm{~J}$",
+        "image": null
+      },
+      {
+        "id": "Ftij4",
+        "text": "$4 \\times 10^{-2} \\mathrm{~J}$",
+        "image": null
+      },
+      {
+        "id": "8guON",
+        "text": "Zero",
+        "image": null
+      },
+      {
+        "id": "oYUA4",
+        "text": "$16 \\times 10^{-2} \\mathrm{~J}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KrJyy",
+    "solution_text": "At stable equilibrium\n$\\mathrm{U}=-\\mathrm{mB} \\cos 0^{\\circ}=-\\mathrm{mB}$<br />At unstable equilibrium\n$\\begin{aligned}\n& \\mathrm{U}=-\\mathrm{mB} \\cos 180^{\\circ}=+\\mathrm{mB} \\\\\n& \\mathrm{W}=\\Delta \\mathrm{U} \\\\\n& \\text { W.D. }=2 \\mathrm{mB} \\\\\n& =2(0.5) 8 \\times 10^{-2}=8 \\times 10^{-2} \\mathrm{~J}\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d6859f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (11 Apr Shift 2)",
+    "paper_year_short": "2023 (11 Apr Shift 2)",
+    "held_on": "2023-04-11T14:00:00.000Z",
+    "question_text": "Given below are two statements: one is labelled as<br /><strong>Assertion&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math></strong>&nbsp;and the other is labelled as <strong>Reason <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math></strong><br /><strong>Assertion <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math>:</strong> A bar magnet dropped through a metallic cylindrical pipe takes more time to come down compared to a non-magnetic bar with same geometry and mass.<br /><strong>Reason <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math>:</strong> For the magnetic bar, Eddy currents are produced in the metallic pipe which oppose the motion of the magnetic bar.<br />In the light of the above statements, choose the correct answer from the options given below",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AuCgb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> is false but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is true",
+        "image": null
+      },
+      {
+        "id": "aoeUM",
+        "text": "Both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> and R are true and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is the correct explanation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math>",
+        "image": null
+      },
+      {
+        "id": "R9gEt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> is true but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is false",
+        "image": null
+      },
+      {
+        "id": "ncKtH",
+        "text": "Both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> are true and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> is NOT the correct explanation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">A</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "aoeUM",
+    "solution_text": "<p>Due to change in flux, eddy current is produced which opposes the motion in the metallic pipe for the bar magnet.</p><p>Eddy currents are&nbsp;loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday&#39;s law of induction. Eddy currents flow in closed loops within conductors, in planes perpendicular to the magnetic field.</p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math>&nbsp;is the correct explanation and both statements are true.</p>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d684f8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (10 Apr Shift 2)",
+    "paper_year_short": "2023 (10 Apr Shift 2)",
+    "held_on": "2023-04-10T14:00:00.000Z",
+    "question_text": "A bar magnet is released from rest along the axis of a very long vertical copper tube. After some time the magnet will",
+    "question_image": null,
+    "options": [
+      {
+        "id": "slau7",
+        "text": "Move down with an acceleration equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Kqvwi",
+        "text": "Oscillate inside the tube",
+        "image": null
+      },
+      {
+        "id": "RZeon",
+        "text": "Move down with almost constant speed",
+        "image": null
+      },
+      {
+        "id": "XxFYd",
+        "text": "Move down with an acceleration greater than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>&nbsp;",
+        "image": null
+      }
+    ],
+    "correct_answer": "RZeon",
+    "solution_text": "<blockquote><p>The flux connected to the copper tube will fluctuate when the magnet moves under the influence of gravity. Eddy currents will be created in the copper tube&#39;s body as a result,&nbsp;these induced currents oppose the collapse of the magnet, in accordance with Lenz&#39;s law.</p><p>A retarding force will consequently act on the magnet. This force will keep rising with the magnet&#39;s rising velocity until it equals the force of gravity. The net force acting on the magnet will then vanish. The magnet will therefore reach a steady speed.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d684a8",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (10 Apr Shift 1)",
+    "paper_year_short": "2023 (10 Apr Shift 1)",
+    "held_on": "2023-04-10T09:00:00.000Z",
+    "question_text": "The current required to be passed through a solenoid of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn><mo>&#160;</mo><mi>cm</mi></math> length and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn></math> turns in order to demagnetise a bar magnet of magnetic intensity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math> is ________ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<blockquote><p>The magnetic intensity is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mfrac><mi>B</mi><msub><mi>&#956;</mi><mn>0</mn></msub></mfrac><mo>-</mo><mi>M</mi></math></p><p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mo>=</mo><mn>0</mn></math>, it can be written</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mfenced><mfrac><mi>B</mi><msub><mi>&#956;</mi><mn>0</mn></msub></mfrac></mfenced><mo>=</mo><mi>n</mi><mi>i</mi></math></p><p>The data given is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mspace linebreak=\"newline\"></mspace><mi>l</mi><mo mathvariant=\"italic\">=</mo><mn>15</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mspace linebreak=\"newline\"></mspace><mi>N</mi><mo>=</mo><mn>60</mn></math></p><p>Using the relation,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mfrac><mi>N</mi><mi>l</mi></mfrac></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mi>n</mi><mi>i</mi></math>, the value of the current is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mi>H</mi><mi>n</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mo>&#215;</mo><mn>15</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></mrow><mn>60</mn></mfrac><mo>=</mo><mn>6</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d683eb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (08 Apr Shift 1)",
+    "paper_year_short": "2023 (08 Apr Shift 1)",
+    "held_on": "2023-04-08T09:00:00.000Z",
+    "question_text": "Certain galvanometers have a fixed core made of non magnetic metallic material. The function of this metallic material is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tGkCq",
+        "text": "to oscillate the coil in magnetic field for longer period of time",
+        "image": null
+      },
+      {
+        "id": "uUptI",
+        "text": "to bring the coil to rest quickly",
+        "image": null
+      },
+      {
+        "id": "6KvE6",
+        "text": "&nbsp;to produce large deflecting torque on the coil",
+        "image": null
+      },
+      {
+        "id": "NrZ0B",
+        "text": "to make the magnetic field radial",
+        "image": null
+      }
+    ],
+    "correct_answer": "uUptI",
+    "solution_text": "<blockquote><p>Certain galvanometers have a fixed core made of nonmagnetic metallic material. When the coil oscillates, the eddy currents generated in the core oppose the motion and bring the coil to rest quickly.&nbsp;Eddy currents are loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday&rsquo;s law of induction. Eddy currents flow in closed loops within conductors, in planes perpendicular to the magnetic field.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67794",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (24 Jun Shift 2)",
+    "paper_year_short": "2022 (24 Jun Shift 2)",
+    "held_on": "2022-06-24T14:00:00.000Z",
+    "question_text": "The soft-iron is a suitable material for making an electromagnet. This is because soft-iron has",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rMjwH",
+        "text": "low coercivity and high retentivity.",
+        "image": null
+      },
+      {
+        "id": "842nc",
+        "text": "low coercivity and low permeability.",
+        "image": null
+      },
+      {
+        "id": "RSNLA",
+        "text": "high permeability and low retentivity.",
+        "image": null
+      },
+      {
+        "id": "daf4s",
+        "text": "high permeability and high retentivity.",
+        "image": null
+      }
+    ],
+    "correct_answer": "RSNLA",
+    "solution_text": "Electromagnets are made of soft iron because of its high permeability and low retentivity. High permeability&nbsp;means that the core provides complete linkage of magnetic flux of the primary coil to the secondary coil.&nbsp;&nbsp;The determination of the magnetism left in the material after the removal of the magnetizing field is known as retentivity. The required condition for the operation of electromagnets is the fast reversal of polarity, so high retentivity is undesirable. So, soft iron core has high permeability and low retentivity.",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d675e8",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (27 Jul Shift 1)",
+    "paper_year_short": "2021 (27 Jul Shift 1)",
+    "held_on": "2021-07-27T09:00:00.000Z",
+    "question_text": "In a uniform magnetic field, the magnetic needle has a magnetic moment <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>85</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> and moment of inertia <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></mrow><mn>2</mn></msup><mo>.</mo></math> If it performs&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> complete oscillations in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> seconds then the magnitude of the magnetic field is ____<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mT</mi></math>&nbsp; [Take <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#960;</mi><mn>2</mn></msup></math>&nbsp;as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"\"><mrow><mn>9</mn><mo>.</mo><mn>85</mn></mrow></mfenced></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mn>2</mn><mi>&#960;</mi><msqrt><mfrac><mi mathvariant=\"normal\">I</mi><mrow><mi>M</mi><mi>B</mi></mrow></mfrac></msqrt></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mn>80</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>=</mo><mn>8</mn><mo>&#160;</mo><mi>mT</mi></math>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d6702b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (18 Mar Shift 2)",
+    "paper_year_short": "2021 (18 Mar Shift 2)",
+    "held_on": "2021-03-18T14:00:00.000Z",
+    "question_text": "<p>Which of the following statements are correct?<br />(A) Electric monopoles do not exist whereas magnetic monopoles exist.<br />(B) Magnetic field lines due to a solenoid at its ends and outside cannot be completely straight and confined.<br />(C) Magnetic field lines are completely confined within a toroid.<br />(D) Magnetic field lines inside a bar magnet are not parallel.<br />(E) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#967;</mi><mo>=</mo><mo>-</mo><mn>1</mn></math>&nbsp;is the condition for a perfect diamagnetic material, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#967;</mi></math> is its magnetic susceptibility.</p><p>Choose the correct answer from the options&nbsp;given below :</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YIffq",
+        "text": "(C) and&nbsp;(E) only",
+        "image": null
+      },
+      {
+        "id": "LNYxD",
+        "text": "(B) and&nbsp;(D) only",
+        "image": null
+      },
+      {
+        "id": "gDltm",
+        "text": "(A) and&nbsp;(B) only",
+        "image": null
+      },
+      {
+        "id": "GUsl9",
+        "text": "(B) and (C) only",
+        "image": null
+      }
+    ],
+    "correct_answer": "YIffq",
+    "solution_text": "<p>Statement (C) is correct because, the magnetic field outside the toroid is zero and they form closed loops inside the toroid itself.</p><p>Statement (E) is correct because we know that super conductors are materials inside which the net magnetic field is always zero and they are perfect diamagnetic.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#956;</mi><mi mathvariant=\"normal\">r</mi></msub><mo>=</mo><mn>1</mn><mo>+</mo><mi>&#967;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#967;</mi><mo>=</mo><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#956;</mi><mi mathvariant=\"normal\">r</mi></msub><mo>=</mo><mn>0</mn></math></p><p>For superconductors.</p>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66a8c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (04 Sep Shift 1)",
+    "paper_year_short": "2020 (04 Sep Shift 1)",
+    "held_on": "2020-09-04T09:00:00.000Z",
+    "question_text": "A small bar magnet is placed with its axis at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>30</mn><mi mathvariant=\"normal\">o</mi></msup></math> with an external magnetic field of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>06</mn><mo>&#160;</mo><mi mathvariant=\"normal\">T</mi></math> experiences a torque of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>018</mn><mo>&#160;</mo><mi>Nm</mi></math>. The minimum work required to rotate it from its stable to unstable equilibrium position is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZBfI7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mtext>J</mtext></math>",
+        "image": null
+      },
+      {
+        "id": "MWoM6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mtext>J</mtext></math>",
+        "image": null
+      },
+      {
+        "id": "vvqOc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mtext>J</mtext></math>",
+        "image": null
+      },
+      {
+        "id": "4Ajw3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mo>.</mo><mn>7</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mtext>J</mtext></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "vvqOc",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#964;</mi><mo>=</mo><mi>MBsin&#952;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>018</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.018</mo></mrow><mrow><mi mathvariant=\"normal\">B</mi><mo>&#160;</mo><mi>sin</mi><mo>&#160;</mo><mi mathvariant=\"normal\">&#952;</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.018</mo></mrow><mrow><mn>0</mn><mo>.06</mo><mo>&#215;</mo><mn>0</mn><mo>.5</mo></mrow></mfrac><mo>=</mo><mn>0</mn><mo>.64</mo><mo>&#160;</mo><mi>A</mi><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mi>&#916;U</mi><mo>=</mo><msub><mi mathvariant=\"normal\">U</mi><mi mathvariant=\"normal\">f</mi></msub><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">U</mi><mi mathvariant=\"normal\">i</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#8722;</mo><mi>MB</mi><mo>&#160;</mo><mi>cos</mi><mo>&#160;</mo><msup><mn>180</mn><mo>&#8728;</mo></msup><mo>&#8722;</mo><mfenced><mrow><mo>&#8722;</mo><mi>MB</mi><mo>&#160;</mo><mi>cos</mi><msup><mn>0</mn><mo>&#8728;</mo></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mi>MB</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>&#215;</mo><mn>0</mn><mo>.6</mo><mo>&#215;</mo><mn>0</mn><mo>.06</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>072</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math></p>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d667fc",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (12 Apr Shift 1)",
+    "paper_year_short": "2019 (12 Apr Shift 1)",
+    "held_on": "2019-04-12T09:00:00.000Z",
+    "question_text": "A magnetic compass needle oscillates <math><mn>30</mn></math> times per minute at a place where the dip is <math><mn>45</mn><mo>°</mo></math>&nbsp;and <math><mn>40</mn></math> times per minute where the dip is <math><mn>30</mn><mo>°</mo></math>. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mn>2</mn></msub></math> are the net magnetic fields due to the earth at the two places respectively, then the ratio <math><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>/</mo><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is approximately equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oh5gB",
+        "text": "<math><mn>3.6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "f3QhG",
+        "text": "<math><mn>1.8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "f6W4K",
+        "text": "<math><mn>1.2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "jLJI8",
+        "text": "<math><mn>0.7</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jLJI8",
+    "solution_text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>2</mn></msub></math> be the respective oscillation frequencies respectively for&nbsp;<math><mn>45</mn><mo>&#176;</mo></math> and <math><mn>30</mn><mo>&#176;</mo></math>&nbsp;dip. Then,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow></mfrac><msqrt><mfrac><mrow><mi>M</mi><msub><mi>B</mi><mn>1</mn></msub><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>45</mn><mo>&#176;</mo></mrow><mi>I</mi></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>2</mn></msub><mo>=</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow></mfrac><msqrt><mfrac><mrow><mi>M</mi><msub><mi>B</mi><mn>2</mn></msub><mi>cos</mi><mn>30</mn><mo>&#176;</mo></mrow><mi>I</mi></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>f</mi><mn>1</mn></msub><msub><mi>f</mi><mn>2</mn></msub></mfrac><mo>=</mo><msqrt><mfrac><mrow><msub><mi>B</mi><mn>1</mn></msub><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>45</mn><mo>&#176;</mo></mrow><mrow><msub><mi>B</mi><mn>2</mn></msub><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>30</mn><mo>&#176;</mo></mrow></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><msup><mn>30</mn><mn>2</mn></msup><msup><mn>40</mn><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><mrow><msub><mi>B</mi><mn>1</mn></msub><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>45</mn><mo>&#176;</mo></mrow><mrow><msub><mi>B</mi><mn>2</mn></msub><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>30</mn><mo>&#176;</mo></mrow></mfrac><mi mathvariant=\"normal\">&#160;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><msub><mi>B</mi><mn>1</mn></msub><msub><mi>B</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mrow><mn>900</mn><mo>&#215;</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>30</mn><mo>&#176;</mo></mrow><mrow><mn>1600</mn><mo>&#215;</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>45</mn><mo>&#176;</mo></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><msub><mi>B</mi><mn>1</mn></msub><msub><mi>B</mi><mn>2</mn></msub></mfrac><mo>=</mo><mn>0.688</mn><mo>&#8776;</mo><mn>0.7</mn></math></p>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d664e4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (09 Apr Shift 2)",
+    "paper_year_short": "2019 (09 Apr Shift 2)",
+    "held_on": "2019-04-09T14:00:00.000Z",
+    "question_text": "Two coils <math><mi>&#39;</mi><mi mathvariant=\"normal\">P</mi><mi>&#39;</mi></math> and <math><mi>&#39;</mi><mi mathvariant=\"normal\">Q</mi><mi>&#39;</mi></math> are separated by some distance. When a current of <math><mn>3</mn><mi>&#160;</mi><mi mathvariant=\"normal\">A</mi></math> flows through coil <math><mi>&#39;</mi><msup><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mo>,</mo></math> a magnetic flux of <math><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>&#160;</mi><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">b</mi></math> passes through <math><mi>&#39;</mi><msup><mrow><mi mathvariant=\"normal\">Q</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mo>.</mo></math> No current is passed through <math><mi>&#39;</mi><msup><mrow><mi mathvariant=\"normal\">Q</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mo>.</mo></math> When no current passes through <math><mi>&#39;</mi><mi mathvariant=\"normal\">P</mi><mi>&#39;</mi></math> and a current of <math><mn>2</mn><mi>&#160;</mi><mi mathvariant=\"normal\">A</mi></math> passes through <math><mi>&#39;</mi><msup><mrow><mi>Q</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mo>,</mo></math> the flux through <math><mi>&#39;</mi><mi mathvariant=\"normal\">P</mi><mi>&#39;</mi></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "D3Tvr",
+        "text": "<math><mn>3.67</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mtext>  </mtext><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">b</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Zd6ax",
+        "text": "<math><mn>6.67</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mtext>  </mtext><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">b</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Un31m",
+        "text": "<math><mn>3.67</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mtext>  </mtext><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">b</mi></math>",
+        "image": null
+      },
+      {
+        "id": "hxqfq",
+        "text": "<math><mn>6.67</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mtext>  </mtext><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">b</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Zd6ax",
+    "solution_text": "<p>Since the coils are co-axial, the&nbsp; flux through the coils can be written as the product of their surface area and the magnetic field produced by the coil along its axis.</p><p>Consider the flux passing through Q</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#981;</mi><mi>Q</mi></msub><mo>=</mo><mfrac><mrow><msub><mtext>&#956;</mtext><mn>0</mn></msub><msub><mi>i</mi><mn>1</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><msup><mfenced separators=\"|\"><mrow><msup><mi>R</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup></mrow></mfrac><mo>&#215;</mo><mtext>&#960;</mtext><msup><mi>R</mi><mn>2</mn></msup><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>Wb</mi></math></p><p>&nbsp;</p><p>And the flux passing through P:<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#981;</mi><mi>P</mi></msub><mo>=</mo><mfrac><mrow><msub><mtext>&#956;</mtext><mn>0</mn></msub><msub><mi>i</mi><mn>1</mn></msub><msup><mi>r</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><msup><mfenced separators=\"|\"><mrow><msup><mi>R</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup></mrow></mfrac><mo>&#215;</mo><mtext>&#960;</mtext><msup><mi>R</mi><mn>2</mn></msup></math></p><p>Taking the ratio<br /><math><mfrac><mrow><msub><mrow><mi>&#981;</mi></mrow><mrow><mi>P</mi></mrow></msub></mrow><mrow><msub><mrow><mi>&#981;</mi></mrow><mrow><mi>Q</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>i</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow></mfrac><mo>&#8658;</mo><mfrac><mrow><msub><mrow><mi>&#981;</mi></mrow><mrow><mi>P</mi></mrow></msub></mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>i</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math><br /><math><mo>&#8658;</mo><mfrac><mrow><msub><mrow><mi>&#981;</mi></mrow><mrow><mi>P</mi></mrow></msub></mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math><br /><math><mo>&#8756;</mo><msub><mrow><mi>&#981;</mi></mrow><mrow><mi>P</mi></mrow></msub><mo>=</mo><mn>6.67</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mtext>&#8201;</mtext><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">b</mi></math></p>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d66693",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (10 Jan Shift 1)",
+    "paper_year_short": "2019 (10 Jan Shift 1)",
+    "held_on": "2019-01-10T09:00:00.000Z",
+    "question_text": "A magnet of total magnetic moment <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math> is placed in a time varying magnetic field, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mover accent=\"true\"><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mfenced separators=\"|\"><mrow><mi>cos</mi><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math> where <math><mi>B</mi><mo>=</mo><mn>1</mn></math> Tesla and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>0.125</mn><mi>&#160;</mi><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. The work done for reversing the direction of the magnetic moment at <math><mi>t</mi><mo>=</mo><mn>1</mn></math> second, is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gTgpn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.007</mn><mi>&#160;</mi><mi mathvariant=\"normal\">J</mi></math>",
+        "image": null
+      },
+      {
+        "id": "yKTzN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.02</mn><mi>&#160;</mi><mi mathvariant=\"normal\">J</mi></math>",
+        "image": null
+      },
+      {
+        "id": "0BcfF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.014</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Ik8NO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.01</mn><mi>&#160;</mi><mi mathvariant=\"normal\">J</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "yKTzN",
+    "solution_text": "<blockquote><p>As we know that, work done in rotating a magnetic dipole in magnetic field is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mi>M</mi><mi>B</mi><mo>(</mo><mi>cos</mi><mfenced><msub><mi>&#952;</mi><mn>1</mn></msub></mfenced><mo>-</mo><mi>cos</mi><mfenced><msub><mi>&#952;</mi><mn>2</mn></msub></mfenced><mo>)</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo></math></p><p>Now in the above given question we have, Magnetic Moment&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>M</mi><mo>)</mo><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math>,Magnetic Field<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>B</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math>&nbsp;with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">T</mi></math>&nbsp;,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>125</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math></p><p>Let initial angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>&#952;</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><msup><mn>0</mn><mo>&#8728;</mo></msup></math>&nbsp;so on reversing the direction of magnetic moment final angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>&#952;</mi><mn>2</mn></msub><mo>)</mo><mo>=</mo><msup><mn>180</mn><mo>&#8728;</mo></msup></math></p><p>Now, substituting all the values in equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>)</mo></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>W</mi><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mo>(</mo><mn>1</mn><mo>)</mo><mi>cos</mi><mfenced><mrow><mn>0</mn><mo>.</mo><mn>125</mn><mo>&#215;</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>cos</mi><mfenced><msup><mn>0</mn><mo>&#8728;</mo></msup></mfenced><mo>-</mo><mi>cos</mi><mfenced><msup><mn>180</mn><mo>&#8728;</mo></msup></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>W</mi><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mi>cos</mi><mfenced><mrow><mn>0</mn><mo>.</mo><mn>125</mn></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>-</mo><mfenced><mrow><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>(</mo><mo>&#8757;</mo><mi>cos</mi><mfenced><msup><mn>0</mn><mo>&#8728;</mo></msup></mfenced><mo>=</mo><mn>1</mn><mo>&#160;</mo><mtext>and</mtext><mo>&#160;</mo><mi>cos</mi><mfenced><msup><mn>180</mn><mo>&#8728;</mo></msup></mfenced><mo>=</mo><mo>-</mo><mn>1</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>W</mi><mo>=</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>99</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>W</mi><mo>&#8776;</mo><mn>0</mn><mo>.</mo><mn>02</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math></p><p>Therefore, the work done in reversing the direction of the magnetic moment is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>02</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d66538",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (09 Jan Shift 1)",
+    "paper_year_short": "2019 (09 Jan Shift 1)",
+    "held_on": "2019-01-09T09:00:00.000Z",
+    "question_text": "A bar magnet is demagnetized by inserting it inside a solenoid of length <math><mn>0.2</mn><mi>&#160;</mi><mi>m</mi><mo>,</mo><mi>&#160;</mi><mn>100</mn></math> turns, and carrying a current of <math><mn>5.2</mn><mi>&#160;</mi><mi>A</mi><mo>.</mo></math> The coercivity of the bar magnet is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cWbVU",
+        "text": "<math><mn>285&nbsp;</mn><mrow><mrow><mi>A</mi></mrow><mo>/</mo><mrow><mi>m</mi></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "CVS9Z",
+        "text": "<math><mn>2600&nbsp;</mn><mrow><mrow><mi>A</mi></mrow><mo>/</mo><mrow><mi>m</mi></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "Rg6YQ",
+        "text": "<math><mn>520&nbsp;</mn><mrow><mrow><mi>A</mi></mrow><mo>/</mo><mrow><mi>m</mi></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "TS88y",
+        "text": "<math><mn>1200&nbsp;</mn><mrow><mrow><mi>A</mi></mrow><mo>/</mo><mrow><mi>m</mi></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "CVS9Z",
+    "solution_text": "Coercivity <math><mo>=</mo><mi>n</mi><mi>I</mi><mo>=</mo><mfrac><mrow><mn>100</mn></mrow><mrow><mn>0.2</mn></mrow></mfrac><mo>&#215;</mo><mn>5.2</mn><mi>&#160;</mi><mi>&#160;</mi><mrow><mrow><mi>A</mi></mrow><mo>/</mo><mrow><mi>m</mi></mrow></mrow></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2600</mn><mi>&#160;</mi><mi>A</mi><mo>/</mo><mi>m</mi></math>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65f8e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2015 (11 Apr Online)",
+    "paper_year_short": "2015 (11 Apr Online)",
+    "held_on": "2015-04-11T09:00:00.000Z",
+    "question_text": "<p>A short bar magnet is placed in the magnetic meridian of the earth with North Pole pointing north. Neutral points are found at a distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;from the magnet on the East-West line, drawn through the middle point of the magnet. The magnetic moment of the magnet in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Am</mi><mn>2</mn></msup></math> is close to:<br /><br />(Given <math><mfrac><mrow><msub><mrow><mi>&#956;</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn><mi>&#960;</mi></mrow></mfrac><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup></math> in SI units and <math><msub><mrow><mi>B</mi></mrow><mrow><mi>H</mi></mrow></msub><mo>=</mo></math> Horizontal component of earth&#39;s magnetic field <math><mo>=</mo><mn>3.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math> Tesla.)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6yQRD",
+        "text": "4.9",
+        "image": null
+      },
+      {
+        "id": "OFcBt",
+        "text": "14.6",
+        "image": null
+      },
+      {
+        "id": "nhXJS",
+        "text": "19.4",
+        "image": null
+      },
+      {
+        "id": "aiguI",
+        "text": "9.7",
+        "image": null
+      }
+    ],
+    "correct_answer": "aiguI",
+    "solution_text": "Horizontal component of earth&#39;s magnetic field is along geographical south its North.<br /><br /><math><mover accent=\"true\"><mrow><mi>M</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo></math> Magnetic dipole moment.<br /><br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/7ab4388b-2e7a-4607-a95b-173084de6d3d-image.png\" style=\"width: 300px; height: 201px;\" /><br /><br />At neutral point on the equatorial line the magnetic field <math><msup><mrow><mi>B</mi></mrow><mrow><mi>&#8242;</mi></mrow></msup></math> cancels <math><msub><mrow><mi>B</mi></mrow><mrow><mi>H</mi></mrow></msub></math><br /><br /><math><mo>&#8756;</mo><msup><mrow><mi>B</mi></mrow><mrow><mi>&#8242;</mi></mrow></msup><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mi>H</mi></mrow></msub></math><br /><br /><math><mo>&#8658;</mo><mfrac><mrow><msub><mrow><mi>&#956;</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn><mi>&#960;</mi></mrow></mfrac><mfrac><mrow><mi>M</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mi>H</mi></mrow></msub><mi>&#160;</mi></math><br /><br /><math><mo>&#8658;</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>&#215;</mo><mi>M</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>30</mn></mrow><mrow><mn>100</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>3.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math><br /><br /><math><mo>&#8658;</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mo>&#215;</mo><mi>M</mi></mrow><mrow><mn>27</mn></mrow></mfrac><mo>=</mo><mn>3.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></math><br /><br /><math><mi>M</mi><mo>=</mo><mfrac><mrow><mn>27</mn><mo>&#215;</mo><mn>3.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup></mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></mrow></mfrac></math><br /><br /><math><mi>M</mi><mo>=</mo><mn>27</mn><mo>&#215;</mo><mn>3.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br /><br /><math><mo>=</mo><mn>9.72</mn></math><br /><br /><math><mi>M</mi><mo>&#8776;</mo><mn>9.7</mn></math>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65f42",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2015 (10 Apr Online)",
+    "paper_year_short": "2015 (10 Apr Online)",
+    "held_on": "2015-04-10T09:00:00.000Z",
+    "question_text": "A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>&#160;</mo><mi>cm</mi></math> long solenoid has the radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>500</mn></math>&nbsp;turns. It carries a current of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math>. If it is equivalent to a magnet of the same size and magnetization <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover accent=\"true\"><mi>M</mi><mo>&#8594;</mo></mover><mi>&#160;</mi><mfenced separators=\"|\"><mfrac><mrow><mi>M</mi><mi>a</mi><mi>g</mi><mi>n</mi><mi>e</mi><mi>t</mi><mi>i</mi><mi>c</mi><mi>&#160;</mi><mi>m</mi><mi>o</mi><mi>m</mi><mi>e</mi><mi>n</mi><mi>t</mi></mrow><mrow><mi>v</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>m</mi><mi>e</mi></mrow></mfrac></mfenced><mo>,</mo></math>then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#160;</mi><mfenced open=\"|\" close=\"|\" separators=\"|\"><mover accent=\"true\"><mi mathvariant=\"normal\">M</mi><mo>&#8594;</mo></mover></mfenced></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "w5h5B",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi mathvariant=\"normal\">&#960;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "BXZx4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30000</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "ranZQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30000</mn><mi mathvariant=\"normal\">&#960;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "WELqx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "BXZx4",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/c27a4215-adf6-40ff-a161-889e6f5da30f-image.png\" style=\"width: 223px; height: 100px;\" /><br /><br /><math><mi>V</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>m</mi><mi>e</mi><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mi>A</mi><mi>l</mi></math><br /><br /><math><mi>M</mi><mi>a</mi><mi>g</mi><mi>n</mi><mi>e</mi><mi>t</mi><mi>i</mi><mi>z</mi><mi>a</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>M</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><mi>m</mi><mi>a</mi><mi>g</mi><mi>n</mi><mi>e</mi><mi>t</mi><mi>i</mi><mi>c</mi><mi>&#160;</mi><mi>m</mi><mi>o</mi><mi>n</mi><mi>e</mi><mi>n</mi><mi>t</mi><mi>&#160;</mi></mrow><mrow><mi>V</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>m</mi><mi>e</mi><mi>&#160;</mi></mrow></mfrac></math><br /><br /><math><mo>=</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><mi>N</mi><mi>o</mi><mo>.</mo><mi>&#160;</mi><mi>o</mi><mi>f</mi><mi>&#160;</mi><mi>t</mi><mi>u</mi><mi>r</mi><mi>n</mi><mi>s</mi></mrow></mfenced><mo>&#215;</mo><mfenced separators=\"|\"><mrow><mi>C</mi><mi>u</mi><mi>r</mi><mi>r</mi><mi>e</mi><mi>n</mi><mi>t</mi></mrow></mfenced><mo>&#215;</mo><mi>A</mi><mi>r</mi><mi>e</mi><mi>a</mi></mrow><mrow><mi>V</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>m</mi><mi>e</mi></mrow></mfrac></math><br /><br /><math><mo>=</mo><mfrac><mrow><mi>N</mi><mi>&#160;</mi><mi>I</mi><mi>&#160;</mi><mi>A</mi></mrow><mrow><mi>A</mi><mi mathvariant=\"script\">&#160;</mi><mi mathvariant=\"script\">l</mi></mrow></mfrac></math><br /><br /><math><mo>=</mo><mfrac><mrow><mi>N</mi><mi>I</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mi>&#160;</mi></math><br /><br /><math><mo>=</mo><mfrac><mrow><mn>500</mn><mo>&#215;</mo><mn>15</mn><mo>&#215;</mo><mn>100</mn></mrow><mrow><mn>25</mn></mrow></mfrac></math><br /><br /><math><mo>=</mo><mn>60</mn><mo>&#215;</mo><mn>500</mn></math><br /><br /><math><mo>=</mo><mn>30</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>30000</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a64417cc3fb48d65d6c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2014 (09 Apr Online)",
+    "paper_year_short": "2014 (09 Apr Online)",
+    "held_on": "2014-04-09T09:00:00.000Z",
+    "question_text": "The mid points of two small magnetic dipoles of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math> in end-on positions, are separated by a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>&#8811;</mo><mi>d</mi></mrow></mfenced></math>. The magnitude of force between them is proportional to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mrow><mo>&#8722;</mo><mi>n</mi></mrow></msup></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is :<br /><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/EM0025910_AnsExp_1.jpg\" style=\"width: 286px; height: 64px;\" />",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ur37G",
+        "text": "<math > <mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "eteGT",
+        "text": "<math> <mn>4</mn> </math>",
+        "image": null
+      },
+      {
+        "id": "FQuLy",
+        "text": "<math> <mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "7ugbp",
+        "text": "<math> <mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "eteGT",
+    "solution_text": "&nbsp;<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/EM0025910_AnsExp_1.jpg\" style=\"width: 286px; height: 64px;\" /><br /><br /><math> <mrow> <mtext>B</mtext> <mo>=</mo> <mfrac> <mrow> <msub> <mi>μ</mi> <mtext>o</mtext> </msub> </mrow> <mrow> <mn>4</mn> <mi>π</mi> </mrow> </mfrac> <mfrac> <mrow> <mn>2</mn> <mtext>M</mtext> </mrow> <mrow> <msup> <mtext>x</mtext> <mn>3</mn> </msup> </mrow> </mfrac> </mrow> </math>&nbsp;for end-on position<br /><br /><math> <mi>U</mi><mo>=</mo><mo>−</mo><mover accent=\"true\"> <mi>M</mi> <mo stretchy=\"true\">→</mo> </mover> <mo>.</mo><mover accent=\"true\"> <mi>B</mi> <mo stretchy=\"true\">→</mo> </mover> </math><br /><br /><math> <mo>=</mo><mfrac> <mrow> <mi>μ</mi><mi>o</mi></mrow> <mrow> <mn>4</mn><mi>π</mi></mrow> </mfrac> <mfrac> <mrow> <mn>2</mn><msup> <mi>M</mi> <mn>2</mn> </msup> </mrow> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> </mfrac> </math><br /><br /><math> <mi>F</mi><mo>=</mo><mo>−</mo><mfrac> <mrow> <mi>d</mi><mi>U</mi></mrow> <mrow> <mi>d</mi><mi>x</mi></mrow> </mfrac> <mo>=</mo><mfrac> <mrow> <mo>−</mo><mn>3</mn><mi>μ</mi><mi>o</mi></mrow> <mrow> <mn>4</mn><mi>π</mi></mrow> </mfrac> <mfrac> <mrow> <mn>2</mn><msup> <mi>M</mi> <mn>2</mn> </msup> </mrow> <mrow> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </mfrac> </math><br /><br />therefore force between them&nbsp;<math><mrow><mo>∝</mo> <msup> <mtext>x</mtext> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </msup> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65c18",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (22 Apr Online)",
+    "paper_year_short": "2013 (22 Apr Online)",
+    "held_on": "2013-04-22T09:00:00.000Z",
+    "question_text": "Choose the correct sketch of the magnetic field lines of a circular current loop shown by the dot\n$$\n\\text { and the cross } \\otimes \\text {. }\n$$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sNmVo",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/JymYEBFVByxPLC0DsJQVPN9k3YyY8U7lZAg3KOWlWH8.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "jQejG",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/RyE4oqQ1bzjHdI33B6Ax2aer1KH6ypFPTYvDRS35e7M.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "JTDSb",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/0DOL6lSHuw9VixnyCMCoH05MUu8bHuFLsrLuvnJ82uk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "5QCIu",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/rtl83mKH9lI7uih9jCT2w0BIcuVwd5mGDMnmGKqUUuE.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "sNmVo",
+    "solution_text": "If magnetic field is perpendicular and into the plane of the paper, it is represented by cross $\\otimes$ and if the direction of the magnetic field is perpendicular out of the plane of the paper it is represented by dot $\\odot$.",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65b6c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (07 Apr)",
+    "paper_year_short": "2013 (07 Apr)",
+    "held_on": "2013-04-07T09:00:00.000Z",
+    "question_text": "Two short bar magnets of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>cm</mo></math> each have magnetic moments <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.20</mo><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.00</mo><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math> respectively. They are placed on a horizontal table parallel to each other with their <math> <mrow> <mtext>N</mtext> </mrow> </math> poles pointing towards the south. They have a common magnetic equator and are separated by a distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>.0</mo><mo>&#160;</mo><mi>cm</mi></math>. The value of the resultant horizontal magnetic induction at the mid-point <math> <mrow> <mtext>O</mtext> </mrow> </math> of the line joining their centres is close to<br />( Horizontal component of earth&#39;s magnetic induction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.6</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mi>Wb</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GMsqB",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.50</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mi>Wb</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "sQmPN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.80</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mi>Wb</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "PWSF2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.6</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mi>Wb</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "lz2nS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.56</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mi>Wb</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lz2nS",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/EM0010402_AnsExp4_1.jpg\" /><br /><br /><math> <mrow> <msub> <mtext>B</mtext> <mtext>net</mtext> </msub> <mo>=</mo> <msub> <mtext>B</mtext> <mn>1</mn> </msub> <mo>+</mo> <msub> <mtext>B</mtext> <mn>2</mn> </msub> <mo>+</mo> <msub> <mtext>B</mtext> <mn>H</mn> </msub> </mrow> </math><br /><br /><math><mrow> <mo>=</mo> <mfrac> <mrow> <msub> <mi>μ</mi> <mn>0</mn> </msub> </mrow> <mrow> <mn>4</mn> <mi>π</mi> </mrow> </mfrac> <mfrac> <mrow> <msub> <mtext>M</mtext> <mn>1</mn> </msub> </mrow> <mrow> <msup> <mtext>x</mtext> <mn>3</mn> </msup> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msub> <mi>μ</mi> <mn>0</mn> </msub> </mrow> <mrow> <mn>4</mn> <mi>π</mi> </mrow> </mfrac> <mfrac> <mrow> <msub> <mtext>M</mtext> <mn>2</mn> </msub> </mrow> <mrow> <msup> <mtext>x</mtext> <mn>3</mn> </msup> </mrow> </mfrac> <mo>+</mo> <msub><mtext>B</mtext> <mtext>H</mtext> </msub></mrow></math><br /><br /><math> <mrow> <mo>=</mo><mfrac> <mrow> <mrow><mo>{</mo> <mrow> <msup> <mrow> <mn>10</mn></mrow> <mrow> <mo>−</mo><mn>7</mn></mrow> </msup> <mrow><mo>(</mo> <mrow> <mn>1.2</mn><mo>+</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> <mo>}</mo></mrow></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>0.1</mn></mrow> <mo>)</mo></mrow></mrow> <mn>3</mn> </msup> </mrow> </mfrac> <mo>+</mo><mn>3.6</mn><mo>×</mo><msup> <mrow> <mn>10</mn></mrow> <mrow> <mo>−</mo><mn>5</mn></mrow> </msup> </mrow> </math><br /><br /><math> <mrow> <mo>=</mo> <mtext>2.56</mtext> <mo>×</mo> <msup> <mtext>10</mtext> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </msup> <mtext>&nbsp;Wb</mtext> <mo>/</mo> <msup> <mtext>m</mtext> <mn>2</mn> </msup> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d659a2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2012 (07 May Online)",
+    "paper_year_short": "2012 (07 May Online)",
+    "held_on": "2012-05-07T09:00:00.000Z",
+    "question_text": "A bar magnet of length $6 \\mathrm{~cm}$ has a magnetic moment of $4 \\mathrm{~J} \\mathrm{~T}^{-1}$. Find the strength of magnetic field at a distance of $200 \\mathrm{~cm}$ from the centre of the magnet along its equatorial line.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jSDRl",
+        "text": "\n$4 \\times 10^{-8}$ tesla\n",
+        "image": null
+      },
+      {
+        "id": "dVJeH",
+        "text": "\n$3.5 \\times 10^{-8}$ tesla\n",
+        "image": null
+      },
+      {
+        "id": "J3vw0",
+        "text": "\n$5 \\times 10^{-8}$ tesla\n",
+        "image": null
+      },
+      {
+        "id": "RDfRq",
+        "text": "\n$3 \\times 10^{-8}$ tesla",
+        "image": null
+      }
+    ],
+    "correct_answer": "J3vw0",
+    "solution_text": "Along the equatorial line, magnetic field strength\n$$\n\\left.B=\\frac{\\mu_0}{4 \\pi} \\frac{M}{\\left(r^2+\\ell^2{ }^{3 / 2}\\right.}\\right)\n$$\nGiven: $M=4 \\mathrm{~J} T^{-1}$\n$$\nr=200 \\mathrm{~cm}=2 \\mathrm{~m}\n$$\n$\\ell=\\frac{6 \\mathrm{~cm}}{2}=3 \\mathrm{~cm}=3 \\times 10^{-2} \\mathrm{~m}$\n$$\n\\therefore B=\\frac{4 \\pi \\times 10^{-7}}{4 \\pi} \\times \\frac{4}{\\left[2^2+\\left(3 \\times 10^{-2}\\right)^2\\right]^{3 / 2}}\n$$\nSolving we get, $B=5 \\times 10^{-8}$ tesla",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65711",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Needles $\\mathrm{N}_1, \\mathrm{~N}_2$ and $\\mathrm{N}_3$ are made of a ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uUZgX",
+        "text": "\nattract all three of them\n",
+        "image": null
+      },
+      {
+        "id": "h4gav",
+        "text": "\nattract $\\mathrm{N}_1$ and $\\mathrm{N}_2$ strongly but repel $\\mathrm{N}_3$\n",
+        "image": null
+      },
+      {
+        "id": "xUnU6",
+        "text": "\nattract $\\mathrm{N}_1$ strongly, $\\mathrm{N}_2$ weakly and repel $\\mathrm{N}_3$ weakly\n",
+        "image": null
+      },
+      {
+        "id": "rtKwo",
+        "text": "\nattract $\\mathrm{N}_1$ strongly, but repel $\\mathrm{N}_2$ and $\\mathrm{N}_3$ weakly",
+        "image": null
+      }
+    ],
+    "correct_answer": "xUnU6",
+    "solution_text": "attracts $\\mathrm{N}_1$ strongly, $\\mathrm{N}_2$ weakly and Repel $\\mathrm{N}_3$ weakly",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65671",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2005",
+    "paper_year_short": "2005",
+    "held_on": "2005-04-30T09:00:00.000Z",
+    "question_text": "A magnetic needle is kept in a non-uniform magnetic field. It experiences",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vksb5",
+        "text": "\na torque but not a force \n",
+        "image": null
+      },
+      {
+        "id": "53IL2",
+        "text": "\nneither a force nor a torque\n",
+        "image": null
+      },
+      {
+        "id": "wlUWN",
+        "text": "\na force and a torque.\n",
+        "image": null
+      },
+      {
+        "id": "X5kBV",
+        "text": "\na force but not a torque.",
+        "image": null
+      }
+    ],
+    "correct_answer": "wlUWN",
+    "solution_text": "In non uniform magnetic field, dipole experiences both force and torque",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d6557f",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2004",
+    "paper_year_short": "2004",
+    "held_on": "2004-04-30T09:00:00.000Z",
+    "question_text": "The length of a magnet is large compared to its width and breadth. The time period of its width and breadth. The time period of its oscillation in a vibration magnetometer is $2 \\mathrm{~s}$. The magnet is cut along its length into three equal parts and three parts are then placed on each other with their like poles together. The time period of this combination will be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CYvT3",
+        "text": "\n$2 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "EFVlB",
+        "text": "\n$2 / 3 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "G0Rmj",
+        "text": "\n$2 \\sqrt{3} \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "0lfBL",
+        "text": "\n$2 / \\sqrt{ } 3 \\mathrm{~s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "EFVlB",
+    "solution_text": "Time period of vibration, $T=2 \\pi \\sqrt{\\frac{1}{M B}}$\nWhere $\\ell=$ moment of inertia of magnet, $\\mathrm{M}=$ magnetic moment $\\mathrm{I}=\\frac{\\mathrm{m} \\ell^2}{12}$ and $\\mathrm{M}=$ pole strength $\\times \\ell$\n$$\nI^{\\prime}=\\frac{1}{12}\\left(\\frac{m}{3}\\right)\\left(\\frac{\\ell}{3}\\right)^2 \\times 3=\\frac{\\mathrm{l}}{9}\n$$\nand $M^{\\prime}=$ pole strength (will remain the same) $\\times(\\ell / 3) \\times 3=M$.\n$$\n\\mathrm{T}^{\\prime}=\\frac{\\mathrm{T}}{\\sqrt{9}}=\\frac{2}{9} \\mathrm{~s} .\n$$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65469",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2003",
+    "paper_year_short": "2003",
+    "held_on": "2003-04-30T09:00:00.000Z",
+    "question_text": "The magnetic lines of force inside a bar magnet",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3SARa",
+        "text": "\nare from north-pole to south-pole of the magnet\n",
+        "image": null
+      },
+      {
+        "id": "BwmR6",
+        "text": "\ndo not exist\n",
+        "image": null
+      },
+      {
+        "id": "pN2Oy",
+        "text": "\ndepend upon the area of cross-section of the bar magnet\n",
+        "image": null
+      },
+      {
+        "id": "v7UYF",
+        "text": "\nare from south-pole to north-pole of the magnet",
+        "image": null
+      }
+    ],
+    "correct_answer": "v7UYF",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65468",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2003",
+    "paper_year_short": "2003",
+    "held_on": "2003-04-30T09:00:00.000Z",
+    "question_text": "A magnetic needle lying parallel to a magnetic field requires $\\mathrm{W}$ units of work to turn it through $60^{\\circ}$. The torque needed to maintain the needle in this position will be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ckWuy",
+        "text": "\n$\\sqrt{3} \\mathrm{~W}$\n",
+        "image": null
+      },
+      {
+        "id": "T6rEo",
+        "text": "\nW\n",
+        "image": null
+      },
+      {
+        "id": "lyUhy",
+        "text": "\n$\\frac{\\sqrt{3}}{2} \\mathrm{~W}$\n",
+        "image": null
+      },
+      {
+        "id": "pgrJw",
+        "text": "\n$2 \\mathrm{~W}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ckWuy",
+    "solution_text": "$\\tau=(\\mathrm{H}) \\tan 60^{\\circ} \\quad=\\mathrm{W} \\cdot \\sqrt{3}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65467",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2003",
+    "paper_year_short": "2003",
+    "held_on": "2003-04-30T09:00:00.000Z",
+    "question_text": "A thin rectangular magnet suspended freely has a period of oscillation equal to $T$. Now it is broken into two equal halves (each having half of the original length) and one piece is made to oscillate freely in the same field. If its period of oscillation is $T^{\\prime}$, the ratio $\\frac{T^{\\prime}}{T}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jQCmK",
+        "text": "\n$\\frac{1}{2 \\sqrt{2}}$\n",
+        "image": null
+      },
+      {
+        "id": "3xurZ",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "5Rdyb",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "W2FjA",
+        "text": "\n$\\frac{1}{4}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3xurZ",
+    "solution_text": "$\\mathrm{T} \\propto \\sqrt{1}$\n$\\frac{T_1}{T_2}=\\sqrt{\\frac{I_1}{I_2}} ; \\quad \\mathrm{I} \\propto \\mathrm{L}^2 \\quad\\left[\\Rightarrow \\frac{\\mathrm{I}_1}{\\mathrm{I}_2}=\\frac{\\mathrm{L}_1^2}{\\mathrm{~L}_2^2}=\\frac{\\left(2 \\mathrm{~L}_2\\right)^2}{\\mathrm{~L}_2^2}=4\\right] \\Rightarrow \\frac{\\mathrm{T}_1}{\\mathrm{~T}_2}=\\sqrt{4}=2$\n$\\Rightarrow \\mathrm{T}_2=\\frac{\\mathrm{T}_1}{2} \\Rightarrow \\frac{\\mathrm{T}_2}{\\mathrm{~T}_1}=\\frac{1}{2}$",
+    "solution_image": null,
+    "topic": "Magnetism and Properties of Magnet"
+  }
+]

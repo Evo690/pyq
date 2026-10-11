@@ -1,0 +1,949 @@
+[
+  {
+    "question_id": "685102c16bba689a3eb09c9f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $x_0$ be the real number such that $e^{x_0}+x_0=0$. For a given real number $\\alpha$, define $g(x)=\\frac{3 x e^x+3 x-\\alpha e^x-\\alpha x}{3\\left(e^x+1\\right)}$\nfor all real numbers $x$.\nThen which one of the following statements is TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JPmI3",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/h7sx77AU_0lY5AHjMVOUbifoU5blYfN0Um3hH05Ev7I.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "ZOoY7",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/DzcoIwGcoAKpHi3sMNOwWg0iPXfWO1N-ovzgdXGphMA.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "1CdZH",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qustdTazrmDDA5bVY1CYmelD3VlbdJJJqPIWlmM8-u4.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "tGWcx",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Voccczcm9oFiCjg8PrDyRN3keema4wpNfd6SQguCxX4.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1CdZH",
+    "solution_text": "$\\begin{aligned} & e^{x_0}+x_0=0 \\\\ & g(x)=\\frac{3 x e^x+3 x-\\alpha e^x-\\alpha x}{3\\left(e^x+1\\right)} \\\\ & g(x)=x-\\frac{\\alpha\\left(e^x+x\\right)}{3\\left(e^x+1\\right)}, g(x)+e^{x_0}=x+e^{x_0}-\\frac{\\alpha}{3}\\left(\\frac{e^x+x}{e^x+1}\\right) \\\\ & g(x)+e^{x_0}=\\left(x-x_0\\right)-\\frac{\\alpha}{3}\\left(\\frac{e^x+x}{e^x+1}\\right) \\\\ & \\Rightarrow \\text { As very clear } g\\left(x_0\\right)+x_0 \\Rightarrow 0\\end{aligned}$\n$\\begin{aligned} & \\lim _{x \\rightarrow x_0}\\left|\\frac{g(x)+e^{x_0}}{x-x_0}\\right| \\frac{0 \\uparrow}{0 \\uparrow}=\\lim _{x \\rightarrow x_0}\\left|\\frac{g^{\\prime}(x)}{1}\\right|=\\left|g^{\\prime}\\left(x_0\\right)\\right| \\\\ & g^{\\prime}(x)=1-\\frac{\\alpha}{3}\\left(\\frac{\\left(e^x+1\\right)\\left(e^x+1\\right)-\\left(e^x+x\\right) e^x}{\\left(e^x+1\\right)^2}\\right) \\\\ & g^{\\prime}\\left(x_0\\right)=1-\\frac{\\alpha}{3}\\left(\\frac{\\left(e^{x_0}+1\\right)^2}{\\left(e^{x_0}+1\\right)^2}\\right)=1-\\frac{\\alpha}{3} \\\\ & \\Rightarrow \\lim _{x \\rightarrow x_0}\\left|\\frac{g(x)+e^{x_0}}{x-x_0}\\right|=\\left|g^{\\prime}\\left(x_0\\right)\\right|=\\left|1-\\frac{\\alpha}{3}\\right|\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "685102bd6bba689a3eb09c79",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $\\alpha$ and $\\beta$ be the real numbers such that $\\lim _{x \\rightarrow 0} \\frac{1}{x^3}\\left(\\frac{\\alpha}{2} \\int_0^x \\frac{1}{1-t^2} d t+\\beta x \\cos x\\right)=2$. Then the value of $\\alpha+\\beta$ is _______",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.4",
+    "solution_text": "$\\lim _{x \\rightarrow 0} \\frac{\\frac{\\alpha}{2} \\int_0^x \\frac{1}{1-t^2} d t+\\beta x \\cos x}{x^3}$\n$\\begin{aligned} & =\\lim _{x \\rightarrow 0} \\frac{\\frac{\\alpha}{2}\\left(\\frac{1}{1-x^2}\\right)+\\beta \\cos x-\\beta x \\sin x}{3 x^2} \\\\ & =\\frac{\\frac{\\alpha}{2}\\left(1-x^2\\right)^{-1}+\\beta\\left(1-\\frac{x^2}{2!}+\\frac{x^4}{4!} \\ldots\\right)-\\beta x\\left(x-\\frac{x^3}{3!}+\\frac{x^5}{5!} \\ldots\\right)}{3 x^2} \\\\ & =\\frac{\\frac{\\alpha}{2}\\left(1+x^2+x^4 \\ldots\\right)+\\beta\\left(1-\\frac{x^2}{2!}+\\frac{x^4}{4!} \\ldots\\right)-\\beta\\left(x^2-\\frac{x^4}{3!} \\ldots\\right)}{3 x^2}\\end{aligned}$\n$\\begin{aligned} & =\\frac{\\left(\\frac{\\alpha}{2}+\\beta\\right)+\\mathrm{x}^2\\left(\\frac{\\alpha}{2}-\\frac{\\beta}{2}-\\beta\\right)+\\mathrm{x}^4() \\ldots}{3 \\mathrm{x}^2}=2(\\text { Given }) \\\\ & \\therefore \\frac{\\alpha}{2}+\\beta=0 \\text { and } \\frac{\\alpha-3 \\beta}{6}=2 \\\\ & \\Rightarrow \\alpha=-2 \\beta \\text { and } \\alpha=12+3 \\beta \\\\ & \\Rightarrow \\beta=-\\frac{12}{5} \\text { and } \\alpha=\\frac{24}{5}\\end{aligned}$\n$\\therefore \\alpha+\\beta=\\frac{12}{5}=2.40$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "66965df0d603121f43a46526",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Let the function $f:[1, \\infty) \\rightarrow \\mathbb{R}$ be defined by\n$f(t)=\\left\\{\\begin{array}{cc}(-1)^{n+1} 2, & \\text { if } t=2 n-1, n \\in \\mathbb{N}, \\\\ \\frac{(2 n+1-t)}{2} f(2 n-1)+\\frac{(t-(2 n-1))}{2} f(2 n+1), & \\text { if } 2 n-1 < t < 2 n+1, n \\in \\mathbb{N} .\\end{array}\\right.$\nDefine $g(x)=\\int_1^x f(t) d t, x \\in(1, \\infty)$. Let $\\alpha$ denote the number of solutions of the equation $g(x)=0$ in the interval $(1,8]$ and $\\beta=\\lim _{x \\rightarrow 1^+} \\frac{g(x)}{x-1}$. Then the value of $\\alpha+\\beta$ is equal to ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 5,
+    "solution_text": "$\\mathrm{f}(\\mathrm{t})=\\left\\{\\begin{array}{ccc}2 & ; & \\mathrm{t}=1 \\\\ 4-2 \\mathrm{t} & ; & 1 < \\mathrm{t} < 3 \\\\ -2 & ; & \\mathrm{t}=3 \\\\ -8-2 \\mathrm{t} & ; & 3 < \\mathrm{t} < 5 \\\\ 2 & ; & \\mathrm{t}=5 \\\\ 12-2 \\mathrm{t} & ; & 5 < \\mathrm{t} < 7 \\\\ -2 & ; & \\mathrm{t}=7 \\\\ -16+2 \\mathrm{t} & ; & 7 < \\mathrm{t} < 9\\end{array}\\right.$\n$g(x)=\\int_1^x f(t) d t \\Rightarrow g^{\\prime}(x)=f(x)$\nfor $x \\in(1,8]$\n$g(x)=0 \\Rightarrow x=3,5,7 \\therefore \\alpha=3$\n$\\beta=\\lim _{x \\rightarrow 1^{+}} \\frac{g(x)}{x-1}$\nApply L'Hospital's\n$\\begin{aligned} & =\\frac{g^{\\prime}\\left(1^{+}\\right)}{1}=f\\left(1^{+}\\right) \\\\ & \\beta=2 \\\\ & \\therefore \\alpha+\\beta=5\\end{aligned}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/I0sWyNMHg9B3JNA01Y5dAGJ51buGeJ1hbCxfMeea924.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "66965dc8d603121f43a3d2f6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Let $f(x)$ be a continuously differentiable function on the interval $(0, \\infty)$ such that $f(1)=2$ and $\\underset{t \\rightarrow x}{\\lim} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1$ for each $x>0$. Then, for all $x>0, f(x)$ is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fYbtK",
+        "text": "$\\frac{31}{11 x}-\\frac{9}{11} x^{10}$",
+        "image": null
+      },
+      {
+        "id": "02JZk",
+        "text": "$\\frac{9}{11 x}+\\frac{13}{11} x^{10}$",
+        "image": null
+      },
+      {
+        "id": "NG7ME",
+        "text": "$\\frac{-9}{11 x}+\\frac{31}{11} x^{10}$",
+        "image": null
+      },
+      {
+        "id": "SsbmD",
+        "text": "$\\frac{13}{11 x}+\\frac{9}{11} x^{10}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "02JZk",
+    "solution_text": "$\\begin{aligned} & \\lim _{t \\rightarrow x} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1 \\\\ & \\Rightarrow \\lim _{t \\rightarrow x} \\frac{10 t^9 f(x)-x^{10} f^{\\prime}(t)}{9 t^8}=1\\end{aligned}$\n$\\begin{aligned} & \\Rightarrow 10 x f(x)-x^2 f^{\\prime}(x)=9 \\\\ & \\Rightarrow x^2 f^{\\prime}(x)=10 x f(x)-9 \\\\ & \\Rightarrow f^{\\prime}(x)=\\frac{10 f(x)}{x}-\\frac{9}{x^2} \\\\ & \\Rightarrow \\frac{d y}{d x}-\\frac{10}{x} y=-\\frac{9}{x^2} \\\\ & \\Rightarrow y \\cdot \\frac{1}{x^{10}}=\\int-\\frac{9}{x^2} \\cdot \\frac{1}{x^{10}} d x \\\\ & \\Rightarrow \\frac{y}{x^{10}}=\\frac{9}{11 x^{11}}+c...(1)\\end{aligned}$\n$\\begin{aligned} & \\because \\mathrm{f}(1)=2 \\Rightarrow \\frac{2}{1}=\\frac{9}{11}+\\mathrm{c} \\Rightarrow \\mathrm{c}=\\frac{13}{11} \\\\ & \\therefore \\mathrm{f}(\\mathrm{x})=\\frac{9}{11 \\mathrm{x}}+\\frac{13}{11} \\mathrm{x}^{10}\\end{aligned}$\n$\\Rightarrow$ Option (2) is correct.",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16aa4f23ac7d519f9b645",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be the function defined as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msqrt><mi>n</mi></msqrt></math> if <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mo>[</mo><mfrac><mn>1</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>)</mo></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8469;</mi></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be a function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi><mo>&#60;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn><msqrt><mi>x</mi></msqrt></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math>. Then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#160;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zS8Ew",
+        "text": "Does NOT exist",
+        "image": null
+      },
+      {
+        "id": "HAx6c",
+        "text": "is equal to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "AtEf4",
+        "text": "is equal to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "LlPnI",
+        "text": "is equal to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "AtEf4",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be the function defined as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msqrt><mi>n</mi></msqrt></math> if <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mo>[</mo><mfrac><mn>1</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>)</mo></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8469;</mi></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be a function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi><mo>&#60;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn><msqrt><mi>x</mi></msqrt></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math>.&nbsp;</p><p>Now we need to solve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> sided limit here to get some answer, as&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>-</mo></msup></mrow></munder></math>&nbsp;doesn&rsquo;t exist here (not in domain)</p><p>As&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mo>&#160;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>&#8805;</mo><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>&#62;</mo><mo>&#160;</mo><mi>n</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>n</mi><mo>&#8805;</mo><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>-</mo><mn>1</mn><mo>&#8658;</mo><msqrt><mi>n</mi></msqrt><mo>&#8805;</mo><msqrt><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>-</mo><mn>1</mn></msqrt></math></p><p>So, let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msqrt><mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mo>-</mo><mn>1</mn></msqrt></math>&nbsp;where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mo>&#183;</mo></mfenced><mo>=</mo></math>&nbsp;least integer function</p><p>Now multiplying&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math>&nbsp;in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi><mo>&#60;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn><msqrt><mi>x</mi></msqrt></math>&nbsp;and taking limit we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi><mo>&#183;</mo><msqrt><mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mo>-</mo><mn>1</mn></msqrt><mo>&#8804;</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#183;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&#8804;</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><msqrt><mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mo>-</mo><mn>1</mn></msqrt><mo>&#215;</mo><mn>2</mn><msqrt><mi>x</mi></msqrt></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><msqrt><mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mo>-</mo><mn>1</mn></msqrt><mo>&#215;</mo><mn>2</mn><msqrt><mi>x</mi></msqrt><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mn>2</mn><msqrt><mi>x</mi></msqrt><msqrt><mfenced close=\"]\" open=\"[\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced></msqrt><mo>&#160;&#160;</mo><mfenced><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>&#8713;</mo><mi>Z</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mn>2</mn><msqrt><mi>x</mi><mfenced><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>-</mo><mfenced close=\"}\" open=\"{\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced></mrow></mfenced></msqrt><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mn>2</mn><msqrt><mn>1</mn><mo>-</mo><mi>x</mi><mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced></msqrt><mo>=</mo><mn>2</mn><mo>;</mo><mo>&#160;</mo><mfenced><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>&#8713;</mo><mi>Z</mi></mrow></mfenced></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi><mo>&#183;</mo><msqrt><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>-</mo><mfenced close=\"}\" open=\"{\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced></msqrt><mo>=</mo><mfrac><mrow><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi><mo>&#183;</mo><msqrt><mn>1</mn><mo>-</mo><mi>x</mi><mfenced close=\"}\" open=\"{\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced></msqrt></mrow><msqrt><mi>x</mi></msqrt></mfrac></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><mrow><msubsup><mo>&#8747;</mo><msup><mi>x</mi><mn>2</mn></msup><mi>x</mi></msubsup><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>t</mi></mrow><mi>t</mi></mfrac></msqrt><mi>d</mi><mi>t</mi></mrow><msqrt><mi>x</mi></msqrt></mfrac><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><mrow><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow><mi>x</mi></mfrac></msqrt><mo>-</mo><mn>2</mn><mi>x</mi><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac></msqrt></mrow><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></mfrac></mfrac></math></p><p>{Using L-hospital rule}</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mn>2</mn><msqrt><mn>1</mn><mo>-</mo><mi>x</mi></msqrt><mo>-</mo><mn>4</mn><msqrt><mi>x</mi></msqrt><mo>&#183;</mo><msqrt><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></msqrt><mo>=</mo><mn>2</mn></math></p><p>Similarly for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>&#8712;</mo><mi>Z</mi></math>&nbsp;is equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16a57f23ac7d519f9b388",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mi mathvariant=\"double-struck\">&#160;</mi><mo>:</mo><mi mathvariant=\"double-struck\">R</mi><mo>&#8594;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced></math> and <math><mi>g</mi><mi mathvariant=\"double-struck\">&#160;</mi><mo>:</mo><mi mathvariant=\"double-struck\">R</mi><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> be twice differentiable functions such that <math><msup> <mi>f</mi> <mo>&#8243;</mo></msup></math>&nbsp;and <math><msup> <mi>g</mi> <mo>&#8243;</mo> </msup></math>&nbsp;are continuous functions on <math><mi mathvariant=\"double-struck\">R</mi></math> . Suppose <math> <mrow> <msup> <mi>f</mi> <mo>&#8242;</mo> </msup><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>=</mo><mi>g</mi><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><msup> <mi>f</mi> <mo>&#8243;</mo></msup><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>&#8800;</mo><mn>0</mn></mrow></math> and <math><msup> <mi>g</mi> <mo>&#8242;</mo> </msup><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mi>&#160;</mi><mo>&#8800;</mo><mn>0.</mn><munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi><mo>&#8594;</mo><mn>2</mn> </mrow> </munder> <mfrac> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>&#160;</mi><mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <mrow> <msup> <mi>f</mi> <mo>&#8242;</mo> </msup><mi>&#160;</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>&#160;</mi><msup> <mi>g</mi> <mo>&#8242;</mo> </msup><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> </mfrac> <mo>=</mo><mn>1</mn><mo>,</mo> </math> then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OZ5cG",
+        "text": "<math><mi>f</mi></math> has a local minimum at <math><mi>x</mi><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "joLHe",
+        "text": "<math><mi>f</mi></math>  has a local maximum at  <math><mi>x</mi><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "xijKC",
+        "text": "<math><msup><mrow><mi>f</mi></mrow><mrow><mo>&#x2033;</mo></mrow></msup><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced><mo>&gt;</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "PxmLb",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>-</mo><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&nbsp;</mi><mn>0</mn></math> for at least one <math><mi>x</mi><mo>∈</mo><mi mathvariant=\"double-struck\">R</mi></math><br />&nbsp;",
+        "image": null
+      }
+    ],
+    "correct_answer": "PxmLb",
+    "solution_text": "Using L'Hospital Rule <math> <mrow> <mrow><mo>(</mo> <mrow> <mi>a</mi><mi>s</mi><mtext> </mtext><mtext> </mtext><mi>i</mi><mi>t</mi><mtext> </mtext><mtext> </mtext><mi>i</mi><mi>s</mi><mtext> </mtext><mtext> </mtext><mfrac> <mn>0</mn> <mn>0</mn> </mfrac> <mtext> </mtext><mtext> </mtext><mi>f</mi><mi>o</mi><mi>r</mi><mi>m</mi> </mrow> <mo>)</mo></mrow> </mrow> </math><br /><math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi><mo>→</mo><mn>2</mn> </mrow> </munder> <mfrac> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>&nbsp;</mi><mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>+</mo><mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>&nbsp;</mi><msup> <mi>g</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <mrow> <msup> <mi>f</mi> <mo>″</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>&nbsp;</mi><msup> <mi>g</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>+</mo><msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>&nbsp;</mi><msup> <mi>g</mi> <mo>″</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> </mfrac> <mo>=</mo><mn>1</mn> </mrow> </math><br /><math> <mrow> <mo>⇒</mo><mfrac> <mrow> <mi>f</mi><mi>&nbsp;</mi><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mi>&nbsp;</mi><msup> <mi>g</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow> </mrow> <mrow> <msup> <mi>f</mi> <mo>″</mo> </msup> <mi>&nbsp;</mi><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mi>&nbsp;</mi><msup> <mi>g</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow> </mrow> </mfrac> <mo>=</mo><mn>1</mn><mo>⇒</mo><msup> <mi>f</mi> <mo>″</mo> </msup> <mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn> </mrow> </math><br /><math> <mrow> <mi>A</mi><mi>l</mi><mi>s</mi><mi>o</mi><mtext>&nbsp;</mtext><msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>=</mo><mn>0</mn><mtext>&nbsp;and&nbsp;</mtext><msup> <mi>f</mi> <mo>″</mo> </msup> <mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn> </mrow> </math><br /><math><mo>∴</mo></math> <math><mi>x</mi><mo>=</mo><mn>2</mn></math> is local minima.",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16a4bf23ac7d519f9b319",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Let m and n be two positive integers greater than 1. If <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>&#945;</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mo>&#8289;</mo><mo>(</mo><msup><mrow><mi>&#945;</mi></mrow><mrow><mi>n</mi></mrow></msup><mi>&#160;</mi><mo>)</mo></mrow></msup><mo>-</mo><mi>e</mi></mrow><mrow><msup><mrow><mi>&#945;</mi></mrow><mrow><mi>m</mi></mrow></msup></mrow></mfrac></mrow></mfenced><mo>=</mo><mi>&#160;</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mrow></math> then the value of <math><mfrac><mrow><mi>m</mi></mrow><mrow><mi>n</mi></mrow></mfrac></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>α</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mi>α</mi></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mrow></msup><mo>-</mo><mi>e</mi></mrow><mrow><msup><mrow><mi>α</mi></mrow><mrow><mi>m</mi></mrow></msup></mrow></mfrac><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi></math>  Using L'Hospital's Rule<br ><br > <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>α</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>α</mi></mrow><mrow><mi>n</mi></mrow></msup></mrow></mfenced></mrow></mrow></mrow></msup><mo>&sdot;</mo><mi> </mi><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>α</mi></mrow><mrow><mi>n</mi></mrow></msup></mrow></mfenced></mrow></mrow><mi> </mi><mo>&sdot;</mo><mi>n</mi><msup><mrow><mi>α</mi></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mrow><mrow><mi>m</mi><mi> </mi><mo>&sdot;</mo><msup><mrow><mi>α</mi></mrow><mrow><mi>m</mi><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfrac></mrow></mrow><mo>=</mo><mi> </mi><mfrac><mrow><mo>-</mo><mi>e</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi> </mi><mfrac><mrow><mi>m</mi></mrow><mrow><mi>n</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math> .",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16a23f23ac7d519f9b1af",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Let $\\alpha(a)$ and $\\beta(a)$ be the roots of the equation $(\\sqrt[3]{1+a}-1) x^{2}+(\\sqrt{1+a}-1) x+(\\sqrt[6]{1+a}-1)=0$ where $a$ $>-1$. Then $\\lim _{a \\rightarrow 0^{+}} \\alpha(a)$ and $\\lim _{x \\rightarrow 0^{+}} \\beta(a)$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LBBhm",
+        "text": "$-\\frac{5}{2}$ and 1",
+        "image": null
+      },
+      {
+        "id": "RFzHP",
+        "text": "$-\\frac{1}{2}$ and $-1$",
+        "image": null
+      },
+      {
+        "id": "mdest",
+        "text": "$-\\frac{7}{2}$ and 2",
+        "image": null
+      },
+      {
+        "id": "MIlwS",
+        "text": "$-\\frac{9}{2}$ and 3",
+        "image": null
+      }
+    ],
+    "correct_answer": "RFzHP",
+    "solution_text": "$(\\sqrt[3]{1+a}-1) x^{2}+(\\sqrt{1+a}-1) x+(\\sqrt[6]{1+a}-1)=0$\r\n\r\nLet $a+1=y$, then equation reduces to $\\left(y^{1 / 3}-1\\right) x^{2}+\\left(y^{1 / 2}-1\\right) x+\\left(y^{1 / 6}-1\\right)=0$\r\n\r\nOn dividing both sides by $y-1$, we get $\\left(\\frac{y^{1 / 3}-1}{y-1}\\right) x^{2}+\\left(\\frac{y^{1 / 2}-1}{y-1}\\right) x+\\left(\\frac{y^{1 / 6}-1}{y-1}\\right)=0$\r\n\r\nOn taking limit as $y \\rightarrow 1$ i.e. $a \\rightarrow 0$ on both sides, we get $\\frac{1}{3} x^{2}+\\frac{1}{2} x+\\frac{1}{6}=0 \\Rightarrow 2 x^{2}+3 x+1=0$\r\n\r\n$\\Rightarrow x=-1,-\\frac{1}{2}$ (roots of the equation)\r\n\r\n$\\therefore \\quad \\lim _{a \\rightarrow 0^{+}} \\alpha(a)=-1, \\lim _{a \\rightarrow 0^{+}} \\beta(a)=-\\frac{1}{2}$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16a1cf23ac7d519f9b16e",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "If $\\lim _{x \\rightarrow \\infty}\\left(\\frac{x^{2}+x+1}{x+1}-a x-b\\right)=4$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RehYG",
+        "text": "$a=1, b=4$",
+        "image": null
+      },
+      {
+        "id": "SDNx2",
+        "text": "$a=1, b=-4$",
+        "image": null
+      },
+      {
+        "id": "8qll6",
+        "text": "$a=2, b=-3$",
+        "image": null
+      },
+      {
+        "id": "8BRea",
+        "text": "$a=2, b=3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SDNx2",
+    "solution_text": "Given: $\\lim _{x \\rightarrow \\infty}\\left(\\frac{x^{2}+x+1}{x+1}-a x-b\\right)=4$\r\n\r\n$\\begin{array}{l}\r\n\r\n\\Rightarrow \\lim _{x \\rightarrow \\infty} \\frac{x^{2}+x+1-a x^{2}-a x-b x-b}{x+1}=4 \\\\\r\n\r\n\\Rightarrow \\lim _{x \\rightarrow \\infty} \\frac{(1-a) x^{2}+(1-a-b) x+(1-b)}{x+1}=4\r\n\r\n\\end{array}$\r\n\r\nFor this limit to be finite $1-a=0 \\Rightarrow a=1$ then given limit reduces to\r\n\r\n$\\lim _{x \\rightarrow \\infty} \\frac{-b x+(1-b)}{x+1}=4 \\Rightarrow \\lim _{x \\rightarrow \\infty} \\frac{-b+\\frac{(1-b)}{x}}{1+\\frac{1}{x}}=4$\r\n\r\n$\\Rightarrow-b=4$ or $b=-4, \\therefore a=1, b=-4$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16a00f23ac7d519f9b071",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The value of $\\lim _{x \\rightarrow 0} \\frac{1}{x^3} \\int_0^x \\frac{t \\log (1+t)}{t^4+4} d t$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "38hA9",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "EubRA",
+        "text": "\n$\\frac{1}{12}$\n",
+        "image": null
+      },
+      {
+        "id": "QL2y8",
+        "text": "\n$\\frac{1}{24}$\n",
+        "image": null
+      },
+      {
+        "id": "3ESOh",
+        "text": "\n$\\frac{1}{64}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "EubRA",
+    "solution_text": "$\\lim _{x \\rightarrow 0} \\frac{1}{x^3} \\int_0^{x t} \\frac{\\log (1+t)}{4+t^4} d t$\nUsing L' Hospital's rule,\n$$\n\\begin{aligned}\n& =\\lim _{x \\rightarrow 0} \\frac{\\frac{x \\log (1+x)}{4+x^4}}{3 x^2} \\\\\n= & \\lim _{x \\rightarrow 0} \\frac{\\log (1+x)}{3 x} \\cdot \\frac{1}{4+x^4} \\\\\n= & \\frac{1}{3} \\cdot \\frac{1}{4}=\\frac{1}{12}\\left[\\text { using, } \\lim _{x \\rightarrow 0} \\frac{\\log (1+x)}{x}=1\\right]\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b169e4f23ac7d519f9af6e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Let $g(x)=\\frac{(x-1)^n}{\\log \\cos ^m(x-1)} ; 0 < x < 2, m$ and $n$ are integers, $m \\neq 0, n>0$ and let $p$ be the left hand derivative of $|x-1|$ at $x=1$. If $\\lim _{x \\rightarrow 1^{+}} g(x)=p$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9XcKN",
+        "text": "\n$n=1, m=1$\n",
+        "image": null
+      },
+      {
+        "id": "XumZb",
+        "text": "\n$n=1, m=-1$\n",
+        "image": null
+      },
+      {
+        "id": "ZrhMo",
+        "text": "\n$n=2, m=2$\n",
+        "image": null
+      },
+      {
+        "id": "ERJt1",
+        "text": "\n$n>2, m=n$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZrhMo",
+    "solution_text": "Given, $g(x)=\\frac{(x-1)^n}{\\log \\cos ^m(x-1)} ; 0 < x < 2, m \\neq 0, n$ are integers and $|x-1|=\\left\\{\\begin{array}{l}x-1 ; x \\geq 1 \\\\ 1-x ; x < 1\\end{array}\\right.$\nThe left hand derivative of $|x-1|$ at $x=1$ is $p=-1$.\nAlso,\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad \\lim _{h \\rightarrow 0} \\frac{(1+h-1)^n}{\\log \\cos ^m(1+h-1)}=-1 \\Rightarrow \\lim _{h \\rightarrow 0} \\frac{h^n}{\\log \\cos ^m h}=-1 \\\\\n& \\Rightarrow \\quad \\lim _{h \\rightarrow 0} \\frac{h^n}{m \\log \\cos h}=-1\n\\end{aligned}\n$$\n[Using L' Hospital rule]\n$$\n\\begin{array}{ll}\n\\Rightarrow & \\quad \\lim _{h \\rightarrow 0} \\frac{n \\cdot h^{n-1}}{m \\frac{1}{\\cos h}(-\\sin h)}=-1 \\\\\n\\Rightarrow \\quad & \\quad \\lim _{h \\rightarrow 0}\\left(-\\frac{n}{m}\\right) \\cdot \\frac{h^{n-2}}{\\left(\\frac{\\tan h}{h}\\right)}=-1 \\\\\n\\Rightarrow \\quad & \\quad\\left(\\frac{n}{m}\\right) \\lim _{h \\rightarrow 0} \\frac{h^{n-2}}{\\left(\\frac{\\tan h}{h}\\right)}=1 \\\\\n\\Rightarrow & n=2 \\text { and } \\frac{n}{m}=1 \\\\\n\\therefore & \\quad m=n=2\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b169d6f23ac7d519f9aeec",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "$\\lim _{x \\rightarrow \\frac{\\pi}{4}} \\frac{\\int_2^{\\sec ^2 x} f(t) d t}{x^2-\\frac{\\pi^2}{16}}$ equals",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qc4Mb",
+        "text": "\n$\\frac{8}{\\pi} f(2)$\n",
+        "image": null
+      },
+      {
+        "id": "jYZqu",
+        "text": "\n$\\frac{2}{\\pi} f(2)$\n",
+        "image": null
+      },
+      {
+        "id": "gAXjq",
+        "text": "\n$\\frac{2}{\\pi} f\\left(\\frac{1}{2}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "2luw5",
+        "text": "\n$4 f(2)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qc4Mb",
+    "solution_text": "$\\lim _{x \\rightarrow \\frac{x}{4}} \\frac{\\int_2^{\\sec ^2 x} f(t) d t}{x^2-\\frac{\\pi^2}{16}}$ $\\left[\\therefore \\frac{0}{0}\\right.$ form $]$\nLet\n$$\n\\begin{array}{ll}\n\\text { Let } & L=\\lim _{x \\rightarrow \\frac{x}{4}} \\frac{f\\left(\\sec ^2 x\\right) 2 \\sec x \\sec x \\tan x}{2 x} \\\\\n\\therefore & L=\\frac{2 f(2)}{\\pi / 4}=\\frac{8 f(2)}{\\pi}\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Algebraic and Rational Limits"
+  },
+  {
+    "question_id": "64b16a7af23ac7d519f9b4c7",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>F</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be a function. We say that <math><mi>f</mi></math> has:<br /><span style=\"display: none;\">&nbsp;</span>PROPERTY<strong> </strong><math><mn>1</mn></math><span style=\"display: none;\">&nbsp;</span> if <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>h</mi></mrow></mfenced><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced></mrow><mrow><msqrt><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced></msqrt></mrow></mfrac></mrow></mrow></math> exists and is finite, and&nbsp;<br />PROPERTY<strong> </strong><math><mn>2</mn></math><span style=\"display: none;\">&nbsp;</span> if <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>h</mi></mrow></mfenced><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow></math> exists and is finite.<br />Then which of the following options is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O1VJp",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>x</mi><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> has PROPERTY <math><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "g6Tge",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mrow><mrow><mn>2</mn></mrow><mo>/</mo><mrow><mn>3</mn></mrow></mrow></mrow></msup></math> has PROPERTY <math><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Hr8HY",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow></math> has PROPERTY <math><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "cVizN",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> has PROPERTY <math><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "cVizN",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  <br/><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced><mo>-</mo><mn>0</mn></mrow><mrow><msqrt><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced></msqrt></mrow></mfrac></mrow></mrow><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><msqrt><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced></msqrt><mo>=</mo><mn>0</mn></mrow></mrow></math>  <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></math>  <br/><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><msup><mrow><mi>h</mi></mrow><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mo>-</mo><mn>0</mn></mrow><mrow><msqrt><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced></msqrt></mrow></mfrac><mo>=</mo></mrow></mrow><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msup></mrow></mrow><mo>=</mo><mn>0</mn></math>  <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>x</mi><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  <br/><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>h</mi><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced><mo>-</mo><mn>0</mn></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>h</mi></mrow></mfenced></mrow><mrow><mi>h</mi></mrow></mfrac><mo>=</mo><mfenced open=\"{\" close=\"\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mn>1</mn><mo>,</mo><mi> </mi><mi>i</mi><mi>f</mi><mi> </mi><mi>h</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mo>-</mo><mn>1</mn><mo>,</mo><mi> </mi><mi>i</mi><mi>f</mi><mi> </mi><malignmark></malignmark><mi>h</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></mtd></mtr></mtable></mrow></mfenced></mrow></mrow></math>  <br/>Does not exist <br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow></math>  <br/><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>h</mi><mo>-</mo><mn>0</mn></mrow></mrow></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>h</mi></mrow></mfrac></mrow></mrow><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>h</mi></mrow></mrow></mrow><mrow><mi>h</mi></mrow></mfrac><mo>⇒</mo></math> does not exist",
+    "solution_image": null,
+    "topic": "Existance of Limit"
+  },
+  {
+    "question_id": "64b16a63f23ac7d519f9b3f9",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mi>x</mi><mo>(</mo><mn>1</mn><mo>+</mo><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mo>)</mo></mrow><mrow><mo>|</mo><mn>1</mn><mo>-</mo><mi>x</mi><mo>|</mo></mrow></mfrac><mi>cos</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfrac></mfenced><mi>&#160;</mi><mi>for</mi><mi>&#160;</mi><mi>x</mi><mo>&#8800;</mo><mn>1</mn><mo>,</mo></math> then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SXTr6",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> does not exist",
+        "image": null
+      },
+      {
+        "id": "DHYgt",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math>  does not exist",
+        "image": null
+      },
+      {
+        "id": "RZmrf",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "Lg7Ju",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "RZmrf",
+    "solution_text": "<p><math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&nbsp;</mi><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfrac><mo>,</mo></mrow></mrow></mtd><mtd><mi>x</mi><mo>&lt;</mo><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>x</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfrac><mo>,</mo></mrow></mrow></mtd><mtd><mi>x</mi><mo>&gt;</mo><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math></p><p><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><mi>does not exist</mi></math>; (as <math> <mrow> <mtext>cos</mtext><mtext>t</mtext> </mrow> </math> can take any value between -1 and 1, so oscillating.)</p><p>&nbsp;</p><p><math><mi>&nbsp;</mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><mn>0</mn></math>: (As <math > <mrow>  <mtext>cos</mtext><mtext>t</mtext> </mrow></math> term varies between -1 and 1 for any value of t and is multiplied with zero)",
+    "solution_image": null,
+    "topic": "Existance of Limit"
+  },
+  {
+    "question_id": "64b16a9ef23ac7d519f9b612",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><msup><mi>e</mi><msup><mi>x</mi><mn>3</mn></msup></msup><mo>-</mo><msup><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>3</mn></msup></mrow></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mo>+</mo><mfenced><mrow><msup><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mi>sin</mi><mi>x</mi></mrow><mrow><mi>x</mi><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi>&#946;</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><msup><mi>e</mi><msup><mi>x</mi><mn>3</mn></msup></msup><mo>-</mo><msup><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>3</mn></msup></mrow></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mo>+</mo><mfenced><mrow><msup><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mi>sin</mi><mi>x</mi></mrow><mrow><mi>x</mi><mo>&#183;</mo><mfrac><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>&#183;</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfenced><mfrac><mrow><mfenced><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mfrac><msup><mi>x</mi><mn>6</mn></msup><mrow><mn>2</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>&#8943;</mo></mrow></mfenced><mo>-</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mfenced><mrow><mo>-</mo><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></mfenced><msup><mi>x</mi><mn>6</mn></msup><mo>+</mo><mo>&#8943;</mo></mrow></mfenced><mo>+</mo><mfenced><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mo>&#8943;</mo></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>&#8943;</mo></mrow></mfenced></mrow><msup><mi>x</mi><mn>3</mn></msup></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><msup><mi>x</mi><mn>3</mn></msup><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></mrow><msup><mi>x</mi><mn>3</mn></msup></mfrac></math>&nbsp; (Neglecting higher powers of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></math>&nbsp;</p><p>i.e.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi>&#946;</mi><mo>=</mo><mn>5</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Exponential and logarithmic limits"
+  },
+  {
+    "question_id": "64b16a98f23ac7d519f9b5d9",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> be a positive real number. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mfenced><mrow><mi>&#945;</mi><mo>,</mo><mo>&#8734;</mo></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>&nbsp;be the functions defined by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>sin</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mn>2</mn><msub><mi>log</mi><mi>e</mi></msub><mfenced><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><msqrt><mi>&#945;</mi></msqrt></mrow></mfenced></mrow><mrow><msub><mi>log</mi><mi>e</mi></msub><mfenced><mrow><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup><mo>-</mo><msup><mi>e</mi><msqrt><mi>&#945;</mi></msqrt></msup></mrow></mfenced></mrow></mfrac></math>.<br />Then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math>&nbsp;is ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.5",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mfrac><mrow><mn>2</mn><msub><mi>log</mi><mi>e</mi></msub><mfenced><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><msqrt><mi>&#945;</mi></msqrt></mrow></mfenced></mrow><mrow><msub><mi>log</mi><mi>e</mi></msub><mfenced><mrow><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup><mo>-</mo><msup><mi>e</mi><msqrt><mi>&#945;</mi></msqrt></msup></mrow></mfenced></mrow></mfrac><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mfrac><mrow><mfrac><mn>2</mn><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><msqrt><mi>&#945;</mi></msqrt></mrow></mfrac><mfenced><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></mfrac></mfenced></mrow><mrow><mfrac><mn>1</mn><mrow><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup><mo>-</mo><msup><mi>e</mi><msqrt><mi>&#945;</mi></msqrt></msup></mrow></mfrac><mfenced><mrow><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></mfrac><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mfrac><mrow><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup><mo>-</mo><msup><mi>e</mi><msqrt><mi>&#945;</mi></msqrt></msup></mrow><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><msqrt><mi>&#945;</mi></msqrt></mrow></mfrac><mfrac><mn>1</mn><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup></mfrac><mo>&#183;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>2</mn><msup><mi>e</mi><msqrt><mi>&#945;</mi></msqrt></msup></mfrac><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mfrac><mrow><msup><mi>e</mi><msqrt><mi>x</mi></msqrt></msup><mo>&#183;</mo><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></mfrac></mrow><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></mfrac></mfrac><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mo>=</mo><mi>f</mi><mfenced><mrow><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mi>&#945;</mi><mo>+</mo></msup></mrow></munder><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>f</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><mi>sin</mi><mfrac><mi>&#960;</mi><mn>6</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>50</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Exponential and logarithmic limits"
+  },
+  {
+    "question_id": "64b16a38f23ac7d519f9b26f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "The largest value of the non - negative integer a for which <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><mn>1</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><msup><mrow><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mi>a</mi><mi>x</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mi>a</mi></mrow></mrow></mrow><mrow><mi>x</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mn>1</mn></mrow></mrow></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow><mrow><mn>1</mn><mo>-</mo><mi>&#160;</mi><msqrt><mi>x</mi></msqrt></mrow></mfrac></mrow></msup></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math> is _________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0",
+    "solution_text": "<math><msup><mrow><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><mn>1</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mi>a</mi><mi>x</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mi>a</mi></mrow></mrow></mrow><mrow><mi>x</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mn>1</mn></mrow></mrow></mrow></mfrac></mrow></mfenced></mrow></mrow></mrow><mrow><mfrac><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow><mrow><mn>1</mn><mo>-</mo><mi>&#160;</mi><msqrt><mi>x</mi></msqrt></mrow></mfrac></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math><br /><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><mn>1</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mrow></mrow><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>-</mo><mi>a</mi></mrow><mrow><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mrow></mrow><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mi> <mn>1</mn></mi></mrow></mfenced></mrow></mfrac><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>&#160;</mi><msqrt><mi>x</mi></msqrt></mrow></mfenced></mrow></msup></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math><br /><math><mo>&#8658;</mo></math> <math><mi>a</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#160;</mi><mi>a</mi><mo>=</mo><mn>2</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>a</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mfenced><mrow><mi>sin</mi><mi>c</mi><mi>e</mi><mo>&#160;</mo><mi>f</mi><mi>o</mi><mi>r</mi><mo>&#160;</mo><mi>a</mi><mo>&#160;</mo><mo>=</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi>b</mi><mi>a</mi><mi>s</mi><mi>e</mi><mo>&#160;</mo><mi>w</mi><mi>i</mi><mi>l</mi><mi>l</mi><mo>&#160;</mo><mi>b</mi><mi>e</mi><mi>c</mi><mi>o</mi><mi>m</mi><mi>e</mi><mo>&#160;</mo><mo>-</mo><mi>v</mi><mi>e</mi><mo>&#160;</mo></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Exponential and logarithmic limits"
+  },
+  {
+    "question_id": "64b169cdf23ac7d519f9ae98",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "For $x>0, \\lim _{x \\rightarrow 0}\\left((\\sin x)^{1 / x}+\\left(\\frac{1}{x}\\right)^{\\sin x}\\right)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "q4kvt",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "e57ek",
+        "text": "\n$-1$\n",
+        "image": null
+      },
+      {
+        "id": "MRvF9",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "X1Kfj",
+        "text": "\n2",
+        "image": null
+      }
+    ],
+    "correct_answer": "MRvF9",
+    "solution_text": "Here, $\\lim _{x \\rightarrow 0}(\\sin x)^{1 / x}+\\lim _{x \\rightarrow 0}\\left(\\frac{1}{x}\\right)^{\\sin x} \\Rightarrow 0+\\lim _{x \\rightarrow 0} e^{\\log \\left(\\frac{1}{x}\\right)^{\\sin x}} \\quad\\left\\{\\begin{array}{l}\\lim _{x \\rightarrow 0}(\\sin x)^{1 / x} \\rightarrow 0 \\\\ \\text { as, (decimal) })^x \\rightarrow 0\\end{array}\\right\\}$ $\\Rightarrow \\quad e^{\\lim _{x \\rightarrow 0} \\frac{\\log (1 / x)}{\\operatorname{cosec} x}}$\nOn applying L Hospital's Rule, we get\n$$\n\\Rightarrow \\quad e^{\\lim _{x \\rightarrow 0} \\frac{x\\left(-\\frac{1}{x^2}\\right)}{-\\operatorname{cosec} x \\cot x}}=e^{\\lim _{x \\rightarrow 0} \\frac{\\sin x}{x} \\tan x}=e^0=1\n$$",
+    "solution_image": null,
+    "topic": "Exponential and logarithmic limits"
+  },
+  {
+    "question_id": "64b16a81f23ac7d519f9b50b",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi>e</mi></math> denote the base of the natural logarithm. The value of the real number <math><mi>a</mi></math> for which the right-hand limit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><mrow><msup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mfrac><mn>1</mn><mi>&#967;</mi></mfrac></msup><mo>&#8722;</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow><msup><mi>x</mi><mi>a</mi></msup></mfrac></math> is equal to a non-zero real number, is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><msup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mstyle></msup><mrow><mi>a</mi><msup><mi>x</mi><mrow><mi>a</mi><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfrac><mfrac><mi>d</mi><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mfenced open=\"[\" close=\"]\"><mfrac><mrow><mi>ln</mi><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced></mrow><mi>x</mi></mfrac></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><msup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></msup><mrow><mi>a</mi><msup><mi>x</mi><mrow><mi>a</mi><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfrac><mfenced open=\"[\" close=\"]\"><mrow><mfrac><mn>1</mn><mrow><mfenced><mi>x</mi></mfenced><mfenced><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>&#8722;</mo><mfrac><mrow><mi>ln</mi><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><msup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mstyle></msup><mrow><mi>a</mi><msup><mi>x</mi><mrow><mi>a</mi><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfrac><mfenced open=\"[\" close=\"]\"><mfrac><mrow><mi>x</mi><mo>&#8722;</mo><mfenced><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mi>ln</mi><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced></mrow></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><mrow><msup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></msup><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>+</mo><mfenced><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>2</mn></mfrac><mo>+</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow></mfenced></mrow></mfenced></mrow><mrow><mo>&#8722;</mo><mi>a</mi><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><msup><mi>x</mi><mrow><mi>a</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><mrow><msup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></msup><mfenced open=\"{\" close=\"}\"><mrow><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>2</mn></mfrac><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mfenced><mo>+</mo><msup><mi>x</mi><mn>4</mn></msup><mfenced><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mo>+</mo><mo>&#8230;</mo></mrow></mfenced></mrow><mrow><mo>&#8722;</mo><mi>a</mi><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><msup><mi>x</mi><mrow><mi>a</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow></mfrac></math></p><p>Which is real number if and only if&nbsp;<math><mrow><mi>a</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>2</mn><mo>&#8658;</mo><mi>a</mi><mo>=</mo><mn>1</mn></mrow></math></p>",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16a7af23ac7d519f9b4c9",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "For <math><mi>a</mi><mo>&#8712;</mo><mi>R</mi><mo>,</mo><mi>&#160;</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>a</mi></mrow></mfenced><mo>&#62;</mo><mn>1</mn><mo>,</mo></math> let <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>&#8594;</mo><mi>&#8734;</mi></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mroot><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mroot><mrow><mi>n</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mrow><mrow><mn>7</mn></mrow><mo>/</mo><mrow><mn>3</mn></mrow></mrow></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mi>n</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mi>n</mi><mo>+</mo><mi>n</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>54</mn><mo>.</mo></mrow></mrow></math> Then the possible value(s) of <math><mi>a</mi></math> is/are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RsJYz",
+        "text": "<math><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "JCKkY",
+        "text": "<math><mo>-</mo><mn>9</mn></math>",
+        "image": null
+      },
+      {
+        "id": "GabOS",
+        "text": "<math><mo>-</mo><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "VTSxT",
+        "text": "<math><mn>7</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "JCKkY",
+    "solution_text": "Let <math><mi>S</mi><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><msup><mrow><mn>2</mn></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mo>+</mo><msup><mrow><mn>3</mn></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mo>+</mo><mo>…</mo><mo>+</mo><msup><mrow><mi>n</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mo>…</mo><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mi>n</mi><mo>+</mo><mi>n</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></mrow></mfrac></mrow></mfenced></mrow></mrow></math>  <br/><math><mo>⇒</mo><mi>S</mi><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msup><mrow><mi>r</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></mrow></mrow></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mi>a</mi><mo>+</mo><mi>r</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mfrac></mrow></mrow></math>  <br/><math><mi>S</mi><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mfenced separators=\"|\"><mrow><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mrow></mfenced><mo>×</mo><msup><mrow><mi>n</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mo>+</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mfrac></mrow></mrow></math>  <br/><math><mi>S</mi><mo>=</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup><mo>.</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mrow><mrow><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi><mo>+</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfrac></mrow></mrow></math>  <br/><math><mi>S</mi><mo>=</mo><mfrac><mrow><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><msup><mrow><mi>x</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></mrow></mrow><mi>d</mi><mi>x</mi></mrow><mrow><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>a</mi><mo>+</mo><mi>x</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow><mo>.</mo><mi>d</mi><mi>x</mi></mrow></mfrac></math>  <br/><math><mi>S</mi><mo>=</mo><mfrac><mrow><msubsup><mrow><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></mrow><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mi>a</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup></mrow></mfrac></math>  <br/><math><mi>S</mi><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mn>54</mn></math>  <br/><math><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi><mfenced separators=\"|\"><mrow><mi>a</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>72</mn></mrow></mfrac></math>  <br/><math><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>a</mi><mo>-</mo><mn>72</mn><mo>=</mo><mn>0</mn></math>  <br/><math><mi>a</mi><mo>=</mo><mn>8</mn></math> or <math><mi>a</mi><mo>=</mo><mo>-</mo><mn>9</mn></math>",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16a69f23ac7d519f9b42c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "For each positive integer <math><mi>n</mi></math>, let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>(</mo><mrow><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mo>(</mo><mi>n</mi><mo>+</mo><mn>2</mn><mo>)</mo></mrow><mn>...</mn><mrow><mo>(</mo><mi>n</mi><mo>+</mo><mi>n</mi><mo>)</mo></mrow><mo>)</mo></mrow><mfrac><mn>1</mn><mi>n</mi></mfrac></msup></math>.&nbsp;If <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>&#8594;</mo><mi>&#8734;</mi></mrow></munder></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>y</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mrow><mo>=</mo><mi>L</mi><mo>,</mo></math> then the value of <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>L</mi></mrow></mfenced></math>&nbsp;(where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi>x</mi></mfenced></math>&nbsp;is the&nbsp;greatest integer less than or equal to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>) is ____",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<math><msub><mrow><mi>y</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><msup><mrow><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced><mo>&#8230;</mo><mo>.</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>n</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></msup></math><br /><math><msub><mrow><mi>y</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mrow><munderover><mo stretchy=\"false\">&#8719;</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></msup></mrow></mrow></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><msub><mi>y</mi><mi>n</mi></msub></mfenced><mo>=</mo><mfrac><mn>1</mn><mi>n</mi></mfrac><munderover><mo>&#8721;</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mi>r</mi><mi>n</mi></mfrac></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><munder><mi>lim</mi><mrow><mi>n</mi><mo>&#8594;</mo><mi>&#8734;</mi></mrow></munder><mo>&#8289;</mo><mi>ln</mi><mo>&#8289;</mo><mo>(</mo><msub><mi>y</mi><mi>n</mi></msub><mo>)</mo><mo>=</mo><munder><mi>lim</mi><mrow><mi>n</mi><mo>&#8594;</mo><mi>&#8734;</mi></mrow></munder><mo>&#8289;</mo><munderover><mo>&#8721;</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><mfrac><mn>1</mn><mi>n</mi></mfrac><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mi>r</mi><mi>n</mi></mfrac></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#160;</mi><mi>ln</mi><mfenced><mi>L</mi></mfenced><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mn>1</mn></msubsup><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>x</mi></mrow></mfenced><mi>d</mi><mi>x</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#160;</mi><mi>ln</mi><mfenced><mi>L</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mfrac><mn>4</mn><mi>e</mi></mfrac></mfenced></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>L</mi><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mi>e</mi></mrow></mfrac></math><br /><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>L</mi></mrow></mfenced><mo>=</mo><mn>1</mn></math>",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16a57f23ac7d519f9b387",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&#160;</mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>&#8594;</mo><mi>&#8734;</mi></mrow></munder></mrow><mo>&#8289;</mo><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi>n</mi></mrow><mrow><mi>n</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mi>n</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mfrac><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>&#8230;</mo><mo>.</mo><mo>.</mo><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mfrac><mrow><mi>n</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>n</mi><mo>!</mo><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mfrac><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced><mo>&#8230;</mo><mo>.</mo><mo>.</mo><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mfrac><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></msup></mrow></mrow></math> , for all <math><mi>x</mi><mo>&#62;</mo><mn>0</mn></math> . Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xgjWQ",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>≥</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "UczkU",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mi>&nbsp;</mi><mo>≤</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "sF9ea",
+        "text": "<math><msup>  <mi>f</mi>  <mo>&#x2032;</mo> </msup><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced><mi>&nbsp;</mi><mo>≤</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "6b7iR",
+        "text": "<math><mfrac><mrow><msup>  <mi>f</mi>  <mo>&#x2032;</mo> </msup><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow></mfrac><mi>&nbsp;</mi><mo>≥</mo><mfrac><mrow><msup>  <mi>f</mi>  <mo>&#x2032;</mo> </msup><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "sF9ea",
+    "solution_text": "Taking log both side<br /><math><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&nbsp;</mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow><mi mathvariant=\"script\">&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mrow><munderover><mo stretchy=\"false\">∏</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow></mrow></mrow><mrow><mrow><munderover><mo stretchy=\"false\">∏</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mi>&nbsp;</mi></mrow></mrow></mrow></mfrac><mi>&nbsp;</mi><mfrac><mrow><mn>1</mn></mrow><mrow><mrow><munderover><mo stretchy=\"false\">∏</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow></mrow></mrow></mfrac></mrow></mfenced></math><br /><math><mo>=</mo><mi>x</mi><mi>&nbsp;</mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow><mi>&nbsp;</mi><mrow><munderover><mo stretchy=\"false\">∑</mo><mrow><mi>r</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mi mathvariant=\"script\">l</mi><mi>n</mi></mrow></mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>x</mi><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac><mo>+</mo><mn>1</mn></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mfrac><mrow><mi>r</mi></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></math><br />Express summation in definite integration using <math> <mrow> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> <mo>=</mo><mi>t&nbsp;</mi><mo>&amp;</mo><mfrac> <mn>1</mn> <mi>n</mi> </mfrac> <mo>=</mo><mi>d</mi><mi>t</mi> </mrow> </math><br /><math><mo>=</mo><mi>x</mi><mi>&nbsp;</mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><mi mathvariant=\"script\">l</mi><mi>n</mi></mrow></mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mi>t</mi><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mi>d</mi><mi>t</mi></math><br />Put <math><mi>t</mi><mi>x</mi><mo>=</mo><mi>z</mi></math><br /><math><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&nbsp;</mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mi>z</mi></mrow><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mi>d</mi><mi>z</mi></mrow></mrow></math><br /><math><mo>⇒</mo></math> <math><mfrac><mrow><mi>f</mi><mi>′</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></math> <math> <mrow> <mrow><mo>(</mo> <mrow> <mo>∵</mo><mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext><mtext> </mtext><mi>i</mi><mi>s</mi><mtext> </mtext><mtext> </mtext><mi>a</mi><mi>l</mi><mi>w</mi><mi>a</mi><mi>y</mi><mi>s</mi><mtext> </mtext><mtext> </mtext><mi>p</mi><mi>o</mi><mi>s</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>v</mi><mi>e</mi> </mrow> <mo>)</mo></mrow> </mrow> </math><br /><math> <mo>∀&nbsp;</mo><mi>x</mi><mo>∈</mo><mrow><mo>(</mo> <mrow> <mn>0</mn><mo>,</mo><mn>1</mn> </mrow> <mo>)</mo></mrow> </math><br /><math> <mi>ln</mi><mfrac> <mrow> <mn>1</mn><mo>+</mo><mi>x</mi> </mrow> <mrow> <mn>1</mn><mo>+</mo><msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> <mo>&gt;</mo><mn>0</mn> </math><br /><math> <mo>⇒</mo><mfrac> <mrow> <mi>f</mi><mo>'</mo><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> </mfrac> <mo>&gt;</mo><mn>0</mn><mtext> </mtext><mtext> </mtext><mo>∀&nbsp;&nbsp;</mo><mi>x</mi><mo>∈</mo> <mo>(</mo> <mrow> <mn>0</mn><mo>,</mo><mn>1</mn> </mrow> <mo>)</mo></math><br /><math> <mi>a</mi><mi>s</mi><mtext> </mtext><mtext> </mtext><mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>⇒</mo><mi>f</mi><mo>'</mo><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mtext> </mtext><mtext> </mtext><mo>∀&nbsp;&nbsp;</mo><mi>x</mi><mo>∈</mo><mrow><mo>(</mo> <mrow> <mn>0</mn><mo>,</mo><mn>1</mn> </mrow> <mo>)</mo></mrow> </math><br />So <math> <mtext> </mtext><mtext> </mtext><mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext></math>is increasing <math><mrow><mo>(</mo> <mrow> <mn>0</mn><mo>,</mo><mn>1</mn> </mrow> <mo>)</mo></mrow> </math> and <math> <msup> <mi>f</mi> <mo>′</mo> </msup><mrow><mo>(</mo> <mn>1</mn> <mo>)</mo></mrow><mo>=</mo><mn>0</mn> </math> &nbsp; &nbsp;<math><mo>(</mo> <mi>x</mi><mo>&gt;</mo><mn>1</mn><mo>⇒</mo><msup> <mi>f</mi> <mo>′</mo> </msup><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn> <mo>)</mo></math><br /><math><mo>⇒</mo></math> <math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>&lt;</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced><mo>,</mo><mi>&nbsp;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>&lt;</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>,</mo><mi>&nbsp;</mi> <msup> <mi>f</mi> <mo>′</mo> </msup><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced><mo>&lt;</mo><mn>0</mn></math><br />Also <math><mfrac><mrow><msup> <mi>f</mi> <mo>′</mo> </msup><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow><mrow><mi>f</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow></mfrac><mo>-</mo><mfrac><mrow><msup> <mi>f</mi> <mo>′</mo> </msup><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mi>f</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></mfenced><mo>-</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced><mi>&nbsp;</mi></math><br /><math><mo>=</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mfenced><mo>&lt;</mo><mn>0</mn><mi>&nbsp;</mi><mo>⇒</mo><mfrac><mrow><msup> <mi>f</mi> <mo>′</mo> </msup><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow><mrow><mi>f</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow></mfrac><mo>&lt;</mo><mfrac><mrow><msup> <mi>f</mi> <mo>′</mo> </msup><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mi>f</mi><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16a4af23ac7d519f9b313",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mi>&#160;</mi><mo>:</mo><mi mathvariant=\"double-struck\">R</mi><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi><mi mathvariant=\"double-struck\">&#160;</mi></math> be a continuous odd function, which vanishes exactly at one point and <math><mi>f</mi><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo></math> Suppose that <math><mi>F</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&#160;</mi><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>f</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mi>d</mi><mi>t</mi><mi>&#160;</mi></math> for all <math><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mn>2</mn></mrow></mfenced></math> and <math><mi>G</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&#160;</mi><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>t</mi><mo>|</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced></mrow></mfenced><mo>|</mo><mi>d</mi><mi>t</mi></mrow></mrow></math> for all <math><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mn>2</mn></mrow></mfenced><mo>.</mo></math> If <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><mn>1</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mi>F</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mrow><mi>G</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>14</mn></mrow></mfrac></mrow></mrow><mo>,</mo></math> then the value of <math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>;</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mi> </mi><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>;</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi> </mi><mi>a</mi><mi>d</mi><mi> </mi><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>  is zero only at one point<br > <math><mi>F</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mi>d</mi><mi>t</mi></mrow></mrow></math>  =    <math><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mi>d</mi><mi>t</mi></mrow></mrow><mi>x</mi><mo>∈</mo><mo>[</mo><mo>-</mo><mn>1</mn><mo>,</mo><mi> </mi><mn>2</mn><mo>]</mo></math>  as it is an odd function,<br > <math><msup><mrow><mi>F</mi></mrow><mrow><mi>&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> <br > <math><mi>G</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>t</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mo>(</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mo>)</mo></mrow></mfenced><mi> </mi><mi>d</mi><mi>t</mi></mrow></mrow></math>  =  <math><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>t</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mo>(</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mo>)</mo></mrow></mfenced><mi> </mi><mi>d</mi><mi>t</mi></mrow></mrow></math>  , as it is an odd function,<br >       <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><msup><mrow><mi>G</mi></mrow><mrow><mi>&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>x</mi><mi> </mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mo>(</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>)</mo></mrow></mfenced></math> <br > <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>F</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mrow><mi>G</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mi> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>F</mi><mi>&prime;</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mrow><mi>G</mi><mi>&prime;</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mi> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mrow><mi>x</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mo>(</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>)</mo></mrow></mfenced></mrow></mfrac></mrow></mrow></mrow></mrow></mrow></mrow></math>    [ As the limit is in the form of 0/0]<br > <math><mo>=</mo><mi> </mi><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>14</mn></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>7</mn></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>7</mn><mi> </mi><mi> </mi><mi>a</mi><mi>s</mi><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math>  can not be negative",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b169f3f23ac7d519f9aff3",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Let $L=\\lim _{x \\rightarrow 0} \\frac{a-\\sqrt{a^2-x^2}-\\frac{x^2}{4}}{x^4}$, $a>0$. If $L$ is finite, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PIlYX",
+        "text": "\n$a=2$\n",
+        "image": null
+      },
+      {
+        "id": "yN4IG",
+        "text": "\n$a=1$\n",
+        "image": null
+      },
+      {
+        "id": "bHN1M",
+        "text": "\n$L=\\frac{1}{64}$\n",
+        "image": null
+      },
+      {
+        "id": "NbcyC",
+        "text": "\n$L=\\frac{1}{32}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "bHN1M",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OppXIo5ahAMcXNcH9uV52GAIpIQkQcAKb8c0qNyv8nQ.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b169d5f23ac7d519f9aee7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Let $f(x)$ be differentiable on the interval $(0, \\infty)$ such that $f(1)=1$, and $\\lim _{t \\rightarrow x} \\frac{t^2 f(x)-x^2 f(t)}{t-x}=1$ for each $x>0$. Then, $f(x)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VgP3O",
+        "text": "\n$\\frac{1}{3 x}+\\frac{2 x^2}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "YpCrU",
+        "text": "\n$-\\frac{1}{3 x}+\\frac{4 x^2}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "8bYMf",
+        "text": "\n$-\\frac{1}{x}+\\frac{2}{x^2}$\n",
+        "image": null
+      },
+      {
+        "id": "RaNOj",
+        "text": "\n$\\frac{1}{x}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "VgP3O",
+    "solution_text": "$$\n\\text { } \\lim _{t \\rightarrow x} \\frac{t^2 f(x)-x^2 f(t)}{t-x}=1\n$$\n\n$$\n\\begin{aligned}\n& \\Rightarrow & x^2 f^{\\prime}(x)-2 x f(x)+1 & =0 \\\\\n& \\Rightarrow & \\frac{x^2 f^{\\prime}(x)-2 x f(x)}{\\left(x^2\\right)^2}+\\frac{1}{x^4} & =0 \\\\\n& \\Rightarrow & \\frac{d}{d x}\\left(\\frac{f(x)}{x^2}\\right) & =-\\frac{1}{x^4} \\\\\n\\Rightarrow & & f(x) & =c x^2+\\frac{1}{3 x} \\text { also } f(1)=1 \\Rightarrow c=\\frac{2}{3} . \\\\\n& \\text { Hence, } & f(x) & =\\frac{2}{3} x^2+\\frac{1}{3 x}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b169cff23ac7d519f9aea9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRead the following passage and answer the questions.\nFor every function $f(x)$ which is twice differentiable, these will be good approximation of $\\int_a^b f(x) d x \\cong\\left(\\frac{b-a}{2}\\right)\\{f(a)+f(b)\\}$. Now, if we take $c=\\frac{a+b}{2}$, then using above again, we get $\\int_a^b f(x) d x=\\int_a^c f(x) d x+\\int_c^b f(x) d x \\cong \\frac{b-a}{4}\\{f(a)+f(b)+2 f(c)\\}$ and so on.\nWe get approximation for value of $\\int_a^b f(x) d x$.<strong>Question:</strong>\nIf $\\lim _{t \\rightarrow a} \\frac{\\int_a^t f(x) d x-\\frac{(t-a)}{2}\\{f(t)+f(a)\\}}{(t-a)^3}=0$, then degree of polynomial function $f(x)$ at most is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ydvs5",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "XwsdD",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "q6kdW",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "Rf5Ul",
+        "text": "\n2",
+        "image": null
+      }
+    ],
+    "correct_answer": "XwsdD",
+    "solution_text": "$$\n\\begin{aligned}\n\\lim _{t \\rightarrow a} \\frac{\\int_a^t f(t) d t-\\frac{(t-a)}{2}(f(t)+f(a))}{(t-a)^3} & =0 \\\\\n\\Rightarrow \\quad \\lim _{h \\rightarrow 0} \\frac{\\int_a^{a+h} f(t) d t-\\frac{h}{2}(f(a+h)+f(a))}{h^3} & =0 \\\\\n\\Rightarrow \\quad \\lim _{h \\rightarrow 0} \\frac{f(a+h)-\\frac{1}{2}(f(a+h)+f(a))-\\frac{h}{2}\\left(f^{\\prime}(a+h)\\right)}{3 h^2} & =0\n\\end{aligned}\n$$\n$f^{\\prime}(a+h)-\\frac{1}{2} f^{\\prime}(a+h)$\n$\\Rightarrow \\quad \\lim _{h \\rightarrow 0} \\frac{-\\frac{1}{2} f^{\\prime}(a+h)-\\frac{h}{2} f^{\\prime \\prime}(a+h)}{6 h}=0$\n$\\Rightarrow \\quad \\lim _{h \\rightarrow 0} \\frac{-\\frac{h}{2} f^{\\prime}(a+h)}{6 h}=0$\n$\\Rightarrow \\quad f^{\\prime \\prime}(a)=0, \\forall a \\in R$\n$\\Rightarrow(x)$ must have maximum degree 1.",
+    "solution_image": null,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question_id": "64b16a16f23ac7d519f9b136",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "If $\\lim _{x \\rightarrow 0}\\left[1+x \\log \\left(1+b^2\\right)\\right]^{1 / x}=2 b \\sin ^2 \\theta b>0$ and $\\theta \\in(-\\pi, \\pi]$, then the value of $\\theta$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "d6wPk",
+        "text": "\n$\\pm \\frac{\\pi}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "OmGQZ",
+        "text": "\n$\\pm \\frac{\\pi}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "MffRw",
+        "text": "\n$\\pm \\frac{\\pi}{6}$\n",
+        "image": null
+      },
+      {
+        "id": "4JcrH",
+        "text": "\n$\\pm \\frac{\\pi}{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "4JcrH",
+    "solution_text": "Here, $\\lim _{x \\rightarrow 0}\\left\\{1+x \\log \\left(1+b^2\\right)\\right\\}^{1 / x}$\n$$\n\\begin{aligned}\n& \\text { Given, } \\quad\\left[1^{\\infty} \\text { from }\\right] \\\\\n& \\Rightarrow \\quad e^{\\lim _{x \\rightarrow 0}\\left\\{x \\log \\left(1+b^2\\right)\\right\\} \\cdot \\frac{1}{x}} \\\\\n& \\Rightarrow \\quad e^{\\log \\left(1+b^2\\right)}=(1+b)^2 \\\\\n& \\lim _{x \\rightarrow 0}\\left\\{1+x \\log \\left(1+b^2\\right)\\right\\}^{1 / x}=2 b \\sin ^2 \\theta \\\\\n& \\Rightarrow \\quad\\left(1+b^2\\right)=2 b \\sin ^2 \\theta \\\\\n& \\therefore \\quad \\sin ^2 \\theta=\\frac{1+b^2}{2 b} \\quad \\ldots \\text { (ii) }\n\\end{aligned}\n$$\nBy $A M \\geq G M$,\n$$\n\\frac{b+\\frac{1}{b}}{2} \\geq\\left(b \\cdot \\frac{1}{b}\\right)^{1 / 2} \\Rightarrow \\frac{b^2+1}{2 b} \\geq 1\n$$\nFrom Eqs. (ii) and (iii), we get $\\sin ^2 \\theta=1$\n$$\n\\Rightarrow \\quad \\theta=\\pm \\frac{\\pi}{2} \\text { as } \\theta \\in(-\\pi, \\pi]\n$$",
+    "solution_image": null,
+    "topic": "Special Forms"
+  },
+  {
+    "question_id": "66965debd603121f43a45272",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Let $S$ be the set of all $(\\alpha, \\beta) \\in \\mathbb{R} \\times \\mathbb{R}$ such that\n$\\lim _{x \\rightarrow \\infty} \\frac{\\sin \\left(x^2\\right)\\left(\\log _e x\\right)^\\alpha \\sin \\left(\\frac{1}{x^2}\\right)}{x^{\\alpha \\beta}\\left(\\log _e(1+x)\\right)^\\beta}=0$.\nThen which of the following is (are) correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GMXaq",
+        "text": "$(-1,3) \\in S$",
+        "image": null
+      },
+      {
+        "id": "Q8ssI",
+        "text": "$(-1,1) \\in S$",
+        "image": null
+      },
+      {
+        "id": "kLbfm",
+        "text": "$(1,-1) \\in S$",
+        "image": null
+      },
+      {
+        "id": "PEcEN",
+        "text": "$(1,-2) \\in S$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kLbfm",
+    "solution_text": "$\\begin{aligned} & \\lim _{x \\rightarrow \\infty} \\frac{\\sin x^2 \\cdot\\left(\\log _e x\\right)^\\alpha \\cdot \\sin \\frac{1}{x^2}}{x^{\\alpha \\beta} \\cdot\\left(\\log _e(1+x)\\right)^\\beta}=0 \\\\ & \\lim _{x \\rightarrow \\infty} \\frac{\\left(\\log _e x\\right)^\\alpha}{\\left(\\log _e(x+1)\\right)^\\beta \\cdot x^{\\alpha \\beta+2}}=0\\end{aligned}$\n$\\begin{aligned} & \\lim _{x \\rightarrow \\infty}\\left(\\frac{\\log _e x}{\\log _e(x+1)}\\right)^\\beta \\cdot \\frac{\\left(\\log _e x\\right)^{\\alpha-\\beta}}{x^{\\alpha \\beta+2}}=0 \\\\ & \\lim _{x \\rightarrow \\infty} \\frac{\\left(\\log _e x\\right)^{\\alpha-\\beta}}{x^{\\alpha \\beta+2}}=0 \\quad \\text { Put } \\log _e x=t \\\\ & \\lim _{t \\rightarrow \\infty} \\frac{t^{\\alpha-\\beta}}{\\left(e^t\\right)^{\\alpha \\beta+2}}=0\\end{aligned}$\nAs we know $\\lim _{x \\rightarrow \\infty} \\frac{x}{e^x}=0$\n$\\alpha \\beta+2>0 \\Rightarrow \\alpha \\beta>-2$",
+    "solution_image": null,
+    "topic": "Trigonometric and Inverse Trigonometric limits"
+  },
+  {
+    "question_id": "66965dead603121f43a44d27",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Let $k \\in \\mathbb{R}$. If $\\lim _{x \\rightarrow 0^+}(\\sin (\\sin k x)+\\cos x+x)^{\\frac{2}{x}}=e^6$, then the value of $k$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TsKFw",
+        "text": "$1$",
+        "image": null
+      },
+      {
+        "id": "hQwVm",
+        "text": "$2$",
+        "image": null
+      },
+      {
+        "id": "dlpVD",
+        "text": "$3$",
+        "image": null
+      },
+      {
+        "id": "LWcpv",
+        "text": "$4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hQwVm",
+    "solution_text": "\\(\\begin{aligned} & l=\\lim _{x \\rightarrow 0^{+}}(\\sin (\\sin k x)+\\cos x+x)^{\\frac{2}{x}}=e^6 \\\\ & \\Rightarrow \\ln l=\\lim _{x \\rightarrow 0^{+}} \\frac{2}{x}(\\sin (\\sin k x)+\\cos x+x-1) \\\\ & \\Rightarrow \\ln l=\\lim _{x \\rightarrow 0^{+}} 2\\left(\\frac{\\sin (\\sin k x)}{\\sin k x} \\cdot \\frac{\\sin k x}{k x} \\cdot \\frac{k x}{x}+1-\\frac{(1-\\cos x)}{x^2} \\cdot x\\right) \\\\ & \\Rightarrow \\ln l=2(k+1) \\\\ & \\Rightarrow l=e^{2(k+1)}=e^6 \\\\ & k+1=3 \\\\ & \\Rightarrow k=2\\end{aligned}\\)",
+    "solution_image": null,
+    "topic": "Trigonometric and Inverse Trigonometric limits"
+  },
+  {
+    "question_id": "64b16a86f23ac7d519f9b535",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>The value of the limit&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt><mfenced><mrow><mi>sin</mi><mn>3</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mi>x</mi></mrow></mfenced></mrow><mrow><mfenced><mrow><mn>2</mn><mi>sin</mi><mn>2</mn><mi>x</mi><mi>sin</mi><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>+</mo><mi>cos</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac></mrow></mfenced><mo>-</mo><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt><mi>cos</mi><mn>2</mn><mi>x</mi><mo>+</mo><mi>cos</mi><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>2</mn></mfrac></mrow></mfenced></mrow></mfrac></math>&nbsp;is _________</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>8</mn><msqrt><mn>2</mn><mo>&#160;</mo></msqrt><mi>sin</mi><mn>2</mn><mi>x</mi><mo>&#183;</mo><mi>cos</mi><mi>x</mi></mrow><mrow><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>-</mo><mi>cos</mi><mfrac><mrow><mn>7</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>+</mo><mi>cos</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>-</mo><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>&#183;</mo><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mi>cos</mi><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>2</mn></mfrac></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>8</mn><msqrt><mn>2</mn><mo>&#160;</mo></msqrt><mi>sin</mi><mn>2</mn><mi>x</mi><mo>&#183;</mo><mi>cos</mi><mi>x</mi></mrow><mrow><mfenced><mrow><mi>cos</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>-</mo><mi>cos</mi><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>2</mn></mfrac></mrow></mfenced><mo>+</mo><mfenced><mrow><mi>cos</mi><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>2</mn></mfrac><mo>-</mo><mi>cos</mi><mfrac><mrow><mn>7</mn><mi>x</mi></mrow><mn>2</mn></mfrac></mrow></mfenced><mo>-</mo><mfenced><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>16</mn><msqrt><mn>2</mn></msqrt><mi>sin</mi><mi>x</mi><mi>cos</mi><mi>x</mi><mo>&#183;</mo><mi>cos</mi><mi>x</mi></mrow><mrow><mn>2</mn><mi>sin</mi><mi>x</mi><mi>sin</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>+</mo><mn>2</mn><mi>sin</mi><mn>3</mn><mi>x</mi><mi>sin</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>-</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>16</mn><msqrt><mn>2</mn></msqrt><mi>sin</mi><mi>x</mi><mi>cos</mi><mi>x</mi><mo>&#183;</mo><mi>cos</mi><mi>x</mi></mrow><mrow><mn>2</mn><mi>sin</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>+</mo><mi>sin</mi><mn>3</mn><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>16</mn><msqrt><mn>2</mn></msqrt><mi>sin</mi><mi>x</mi><mo>&#160;</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow><mrow><mn>2</mn><mi>sin</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mfenced><mrow><mn>2</mn><mi>sin</mi><mn>2</mn><mi>x</mi><mo>&#183;</mo><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></munder><mfrac><mrow><mn>16</mn><msqrt><mn>2</mn></msqrt><mi>sin</mi><mi>x</mi></mrow><mrow><mn>2</mn><mi>sin</mi><mstyle displaystyle=\"true\"><mfrac><mi>x</mi><mn>2</mn></mfrac></mstyle><mo>.</mo><mn>4</mn><mi>sin</mi><mi>x</mi><mo>-</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>16</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>16</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>=</mo><mn>8</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Trigonometric and Inverse Trigonometric limits"
+  },
+  {
+    "question_id": "64b16a52f23ac7d519f9b35b",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>,</mo><mi>&#946;</mi><mo>&#8712;</mo><mi>R</mi></math> be such that <math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>&#946;</mi><mi>x</mi></mrow></mfenced></mrow></mrow></mrow><mrow><mi>&#945;</mi><mi>x</mi><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>x</mi></mrow></mrow></mrow></mfrac></mrow></mrow><mo>=</mo><mn>1</mn><mo>.</mo></math> Then <math><mn>6</mn><mfenced separators=\"|\"><mrow><mi>&#945;</mi><mo>+</mo><mi>&#946;</mi></mrow></mfenced></math> equals",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<p>If <math><mi>&#945;</mi><mo>&#8800;</mo><mn>1</mn><mo>,</mo></math> then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>x</mi><mi>sin</mi><mfenced><mrow><mi>&#946;</mi><mi>x</mi></mrow></mfenced></mrow><mfenced><mfrac><mrow><mi>&#945;</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mi>x</mi></mrow><mi>x</mi></mfrac></mfenced></mfrac><mo>=</mo><mn>0</mn></math><br /><math><mo>&#8756;</mo></math> <math><mi>&#945;</mi><mo>=</mo><mn>1</mn></math><br /><math><mo>&#8658;</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>&#946;</mi><msup><mi>x</mi><mn>3</mn></msup><mfenced><mfrac><mrow><mi>sin</mi><mfenced><mrow><mi>&#946;</mi><mi>x</mi></mrow></mfenced></mrow><mrow><mi>&#946;</mi><mi>x</mi></mrow></mfrac></mfenced></mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mfenced separators=\"|\"><mfrac><mrow><mi>x</mi><mo>-</mo><mi>sin</mi><mi>x</mi></mrow><msup><mi>x</mi><mn>3</mn></msup></mfrac></mfenced></mrow></mfrac><mo>=</mo><mfrac><mfrac><mi>&#946;</mi><mn>1</mn></mfrac><mn>6</mn></mfrac></math></p><p>Using,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi mathvariant=\"normal\">x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi mathvariant=\"normal\">x</mi><mo>-</mo><mi>sinx</mi></mrow><msup><mi mathvariant=\"normal\">x</mi><mn>3</mn></msup></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#160;&#38;</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mi mathvariant=\"italic\">sinx</mi><mi>x</mi></mfrac><mo>=</mo><mn>1</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>6</mn><mi>&#946;</mi><mo>=</mo><mn>1</mn><mo>&#8658;</mo><mi>&#946;</mi><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>6</mn><mfenced separators=\"|\"><mrow><mi>&#945;</mi><mo>+</mo><mi>&#946;</mi></mrow></mfenced><mo>=</mo><mn>7</mn></math></p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Trigonometric and Inverse Trigonometric limits"
+  }
+]

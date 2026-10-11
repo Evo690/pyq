@@ -1,0 +1,154 @@
+[
+  {
+    "question_id": "64b16a98f23ac7d519f9b5d5",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> contains compounds and LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>&nbsp;contains reactions</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Mg</mi><msub><mfenced><msub><mi>HCO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mo>+</mo><mi>Ca</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>&#8594;</mo></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Mg</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaO</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>&#8594;</mo></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>III</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCl</mi><mn>2</mn></msub></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ca</mi><mfenced><msub><mi>OH</mi><mn>2</mn></msub></mfenced><mn>2</mn><mo>+</mo><msub><mi>MgCl</mi><mn>2</mn></msub><mo>&#8594;</mo></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CaCO</mi><mn>3</mn></msub></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaO</mi><mn>2</mn></msub><mo>+</mo><mi>HCl</mi><mo>&#8594;</mo></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ca</mi><msub><mfenced><msub><mi>HCO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mo>+</mo><mi>Ca</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>&#8594;</mo></math></td>\t\t</tr>\t</tbody></table><p>Match each compound in LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math>&nbsp;with its formation reaction(s) in LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>, and choose the correct option</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qiB4f",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Bbrnn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">T</mi><mo>:</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>&#183;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>:</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "3VHok",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">T</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Yg6ku",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Yg6ku",
+    "solution_text": "<blockquote><p>In this method calculated amount of lime is added to hard water. It precipitates out calcium carbonate and magnesium hydroxide which can be filtered off<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>P</mi></mfenced><mo>&#160;</mo><mo>&#160;</mo><mi>Mg</mi><msub><mfenced><msub><mi>HCO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mo>+</mo><mn>2</mn><mi>Ca</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>&#10230;</mo><mn>2</mn><msub><mi>CaCO</mi><mn>3</mn></msub><mo>&#8595;</mo><mo>+</mo><mi>Mg</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>&#8595;</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">T</mi></mfenced><mo>&#160;</mo><mo>&#160;</mo><mi>Ca</mi><msub><mfenced><msub><mi>HCO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mo>+</mo><mi>Ca</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>&#10230;</mo><mn>2</mn><msub><mi>CaCO</mi><mn>3</mn></msub><mo>&#8595;</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>&#160;</mo><mo>&#160;</mo><mi>Ca</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>+</mo><msub><mi>MgCl</mi><mn>2</mn></msub><mo>&#10230;</mo><mi>Mg</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mo>+</mo><msub><mi>CaCl</mi><mn>2</mn></msub></math></p><p>Acidifying barium peroxide and removing excess water by evaporation under reduced pressure gives hydrogen peroxide</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>Q</mi></mfenced><mo>&#160;</mo><mo>&#160;</mo><msub><mi>BaO</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>&#10230;</mo><msub><mi>BaSO</mi><mn>4</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>&#160;</mo><mo>&#160;</mo><msub><mi>BaO</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><mi>HCl</mi><mo>&#10230;</mo><msub><mi>BaCl</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Chemical properties of hydrogen"
+  },
+  {
+    "question_id": "64b16a3bf23ac7d519f9b28e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "Hydrogen peroxide in its reaction with KIO<sub>4</sub> and NH<sub>2</sub>OH respectively, is acting as a",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0btpt",
+        "text": "reducing agent, oxidising agent",
+        "image": null
+      },
+      {
+        "id": "RXjlc",
+        "text": "reducing agent, reducing agent",
+        "image": null
+      },
+      {
+        "id": "KD6vf",
+        "text": "oxidising agent, oxidising agent",
+        "image": null
+      },
+      {
+        "id": "b9YwV",
+        "text": "oxidising agent, reducing agent",
+        "image": null
+      }
+    ],
+    "correct_answer": "0btpt",
+    "solution_text": "<math><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#8594;</mo><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>&nbsp;In this reaction<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math>&nbsp; act&nbsp;as reducing agent<br /><math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>+</mo><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#8594;</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math>&nbsp;In this reaction&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math>&nbsp;act as oxidising agent.",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Hydrogen Peroxide"
+  },
+  {
+    "question_id": "64b16a60f23ac7d519f9b3da",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "Which of the following combinations will produce <math><msub><mrow><mtext>H</mtext></mrow><mrow><mn>2</mn></mrow></msub></math> gas?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vCKRy",
+        "text": "Zn metal and <math><mtext>N</mtext><mtext>a</mtext><mtext>O</mtext><mtext>H</mtext><mfenced separators=\"|\"><mrow><mtext>a</mtext><mtext>q</mtext></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "3kMmL",
+        "text": "Au metal and  <math><mtext>N</mtext><mtext>a</mtext><mtext>C</mtext><mtext>N</mtext><mfenced separators=\"|\"><mrow><mtext>a</mtext><mtext>q</mtext></mrow></mfenced></math>  in the presence of air",
+        "image": null
+      },
+      {
+        "id": "SS7Vt",
+        "text": "Cu metal and conc.  <math><mtext>H</mtext><mtext>N</mtext><msub><mrow><mtext>O</mtext></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "PNwIv",
+        "text": "Fe metal and conc.  <math><mtext>H</mtext><mtext>N</mtext><msub><mrow><mtext>O</mtext></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "vCKRy",
+    "solution_text": "(i)&nbsp; <math><mtext>Z</mtext><mtext>n</mtext><mo>+</mo><mn>2</mn><mtext>N</mtext><mtext>a</mtext><mtext>O</mtext><mtext>H</mtext><mo>→</mo><mtext>N</mtext><msub><mrow><mtext>a</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext>Z</mtext><mtext>n</mtext><msub><mrow><mtext>O</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mtext>H</mtext></mrow><mrow><mn>2</mn></mrow></msub></math><br />(ii)&nbsp;<math><mn>4</mn><mtext>A</mtext><mtext>u</mtext><mo>+</mo><mn>8</mn><mtext>N</mtext><mtext>a</mtext><mtext>C</mtext><mtext>N</mtext><mo>+</mo><msub><mrow><mtext>O</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><msub><mrow><mtext>H</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext>O</mtext><mo>→</mo><mn>4</mn><mtext>N</mtext><mtext>a</mtext><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtext>A</mtext><mtext>u</mtext><msub><mrow><mfenced separators=\"|\"><mrow><mtext>C</mtext><mtext>N</mtext></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mo>+&nbsp;</mo><mn>4</mn><mtext>N</mtext><mtext>a</mtext><mtext>O</mtext><mtext>H</mtext></math><br />(iii)&nbsp; <math> <mrow> <mtable> <mtr> <mtd> <mtext>C</mtext><mo>⁡</mo> <mtext>u</mtext><mo>⁡</mo> </mtd> <mtd> <mo>+</mo> </mtd> <mtd> <mn>4</mn> <mtext>H</mtext><mo>⁡</mo> <mtext>N</mtext><mo>⁡</mo> <msub> <mrow> <mtext>O</mtext><mo>⁡</mo> </mrow> <mn>3</mn> </msub> </mtd> <mtd> <mo>→</mo> </mtd> <mtd> <mtext>C</mtext><mo>⁡</mo> <mtext>u</mtext><mo>⁡</mo> <msub> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>N</mtext><mo>⁡</mo> <msub> <mrow> <mtext>O</mtext><mo>⁡</mo> </mrow> <mn>3</mn> </msub> </mrow> </mfenced> </mrow> <mn>2</mn> </msub> </mtd> <mtd> <mo>+</mo> </mtd> <mtd> <mn>2</mn> <mtext>N</mtext><mo>⁡</mo> <msub> <mrow> <mtext>O</mtext><mo>⁡</mo> </mrow> <mn>2</mn> </msub> </mtd> <mtd> <mo>+</mo>&nbsp;<mn>&nbsp;2</mn> <msub> <mrow> <mtext>H</mtext><mo>⁡</mo> </mrow> <mn>2</mn> </msub> <mtext>O</mtext><mo>⁡</mo> </mtd> <mtd> </mtd> </mtr> <mtr> <mtd> </mtd> <mtd> </mtd> <mtd> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>conc.</mtext> </mrow> </mfenced> </mtd> <mtd> </mtd> <mtd> </mtd> <mtd> </mtd> <mtd> </mtd> <mtd> </mtd> <mtd> </mtd> </mtr> </mtable> </mrow> </math><br />(iv)&nbsp;Formation of passive layer of&nbsp;<math><mtext>F</mtext><msub><mrow><mtext>e</mtext></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mtext>O</mtext></mrow><mrow><mn>3</mn></mrow></msub></math>&nbsp;on the surface of Fe and&nbsp;<math><mtext>N</mtext><msub><mrow><mtext>O</mtext></mrow><mrow><mn>2</mn></mrow></msub></math>&nbsp;gas is evolved.<br /><math> <mrow> <mtext>F</mtext><mtext>e</mtext><mo>+</mo><mn>4</mn><mtext>H</mtext><mtext>N</mtext><msub> <mtext>O</mtext> <mn>3</mn> </msub> <mo>→</mo><mtext>F</mtext><mtext>e</mtext><msub> <mrow> <mrow><mo>(</mo> <mrow> <mtext>N</mtext><msub> <mtext>O</mtext> <mn>3</mn> </msub> </mrow> <mo>)</mo></mrow></mrow> <mn>3</mn> </msub> <mo>+</mo><mtext>N</mtext><msub> <mtext>O</mtext> <mn>2</mn> </msub> <mo>+</mo><mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <msub> <mtext>O</mtext> <mn>2</mn> </msub> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Hydrogen"
+  },
+  {
+    "question_id": "64b169fef23ac7d519f9b05d",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The reagent(s) used for softening the temporary hardness of water is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6TVLe",
+        "text": "\n$\\mathrm{Ca}_3\\left(\\mathrm{PO}_4\\right)_2$\n",
+        "image": null
+      },
+      {
+        "id": "TDbB5",
+        "text": "\n$\\mathrm{Ca}(\\mathrm{OH})_2$\n",
+        "image": null
+      },
+      {
+        "id": "CY9Al",
+        "text": "\n$\\mathrm{Na}_2 \\mathrm{CO}_3$\n",
+        "image": null
+      },
+      {
+        "id": "s9Ot6",
+        "text": "\n$\\mathrm{NaOCl}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "s9Ot6",
+    "solution_text": "Softening the temporary hardness of water means conversion of bicarbonate into calcium carbonate (precipitation)\n$$\n\\begin{gathered}\n\\mathrm{Ca}\\left(\\mathrm{HCO}_3\\right)_2+\\mathrm{Ca}(\\mathrm{OH})_2 \\longrightarrow \\\\\n2 \\mathrm{CaCO}_3 \\downarrow+2 \\mathrm{H}_2 \\mathrm{O} \\\\\n\\mathrm{Ca}\\left(\\mathrm{HCO}_3\\right)_2+\\mathrm{Na}_2 \\mathrm{CO}_3 \\longrightarrow \\\\\n\\mathrm{CaCO}_3 \\downarrow+2 \\mathrm{NaHCO}_3\n\\end{gathered}\n$$\nEven $\\mathrm{NaOCl}$ can be used, as in aqueous medium $\\overline{\\mathrm{O}} \\mathrm{Cl}$ gets hydrolysed and makes solution alkaline enough to cause precipitation of $\\mathrm{CaCO}_3$.\n$$\n\\begin{aligned}\n\\mathrm{NaOCl}+\\mathrm{H}_2 \\mathrm{O} & \\rightleftharpoons \\mathrm{HOCl}+\\mathrm{NaOH} \\\\\n\\mathrm{OH}^{-}+\\mathrm{HCO}_3^{-} & \\longrightarrow \\mathrm{CO}_3^{2-}+\\mathrm{H}_2 \\mathrm{O}\n\\end{aligned}\n$$\nRepresentative elements (Hydrogen and its compounds)\nConceptual\nII",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Water"
+  }
+]

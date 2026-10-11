@@ -1,0 +1,510 @@
+[
+  {
+    "question_id": "64b16a4af23ac7d519f9b311",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "When 100 mL of 1.0 M HCl was mixed with 100 mL of 1.0 M NaOH in an insulated beaker at constant pressure, a temperature increase of <math><msup><mrow><mn>5.7</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></math> was measured for the beaker and its contents (Expt.1). Because the enthalpy of neutralization of a strong acid with a strong base is a constant <math><mo>(</mo><mo>-</mo><mn>57.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>)</mo></math> , this experiment could be used to measure the calorimeter constant. In a second experiment (Expt. 2), 100 mL of 2.0 M acetic acid <math><mo>(</mo><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mo>=</mo><mn>2.0</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>)</mo></math> was mixed with 100 mL of 1.0 M NaOH (under identical conditions to Expt. 1) where a temperature rise of <math><msup><mrow><mn>5.6</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></math> was measured. (Consider heat capacity of all solutions as <math><mn>4.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and density of all solutions as <math><mn>1.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> )<br />The pH of the solution after Expt. 2 is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Q9dG5",
+        "text": "<math><mn>2.8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Brm7n",
+        "text": "<math><mn>4.7</mn></math>",
+        "image": null
+      },
+      {
+        "id": "1hiia",
+        "text": "<math><mn>5.0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "UtC2T",
+        "text": "<math><mn>7.0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Brm7n",
+    "solution_text": "Final solution contain 0.1 mole of <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></math> and <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">a</mi></math> each.<br />Hence it is a buffer solution.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">H</mi><mo>=</mo><mi mathvariant=\"normal\">p</mi><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>+</mo><mi>log</mi><mfrac><mrow><mo>[</mo><mi mathvariant=\"normal\">C</mi><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><msup><mi mathvariant=\"normal\">O</mi><mo>-</mo></msup><mo>]</mo></mrow><mrow><mo>[</mo><mi mathvariant=\"normal\">C</mi><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>]</mo></mrow></mfrac></math><br /><math><mo>=</mo><mn>5</mn><mo>-</mo><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">g</mi><mn>2</mn><mo>+</mo><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">g</mi><mfrac><mrow><mn>0.1</mn></mrow><mrow><mn>0.1</mn></mrow></mfrac><mo>=</mo><mn>4.7</mn></math>",
+    "solution_image": null,
+    "topic": "Buffer solutions"
+  },
+  {
+    "question_id": "64b169fef23ac7d519f9b05e",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Aqueous solutions of $\\mathrm{HNO}_3, \\mathrm{KOH}$, $\\mathrm{CH}_3 \\mathrm{COOH}$, and $\\mathrm{CH}_3 \\mathrm{COONa}$ of identical concentrations are provided. The pair(s) of solutions which form a buffer upon mixing is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SsRv8",
+        "text": "\n$\\mathrm{HNO}_3$ and $\\mathrm{CH}_3 \\mathrm{COOH}$\n",
+        "image": null
+      },
+      {
+        "id": "3IE5M",
+        "text": "\n$\\mathrm{KOH}$ and $\\mathrm{CH}_3 \\mathrm{COONa}$\n",
+        "image": null
+      },
+      {
+        "id": "o31BO",
+        "text": "\n$\\mathrm{HNO}_3$ and $\\mathrm{CH}_3 \\mathrm{COONa}$\n",
+        "image": null
+      },
+      {
+        "id": "QzNWY",
+        "text": "\n$\\mathrm{CH}_3 \\mathrm{COOH}$ and $\\mathrm{CH}_3 \\mathrm{COONa}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "QzNWY",
+    "solution_text": "$\\mathrm{HNO}_3$ and $\\mathrm{CH}_3 \\mathrm{COONa}$ can form buffer if the amount of $\\mathrm{HNO}_3$ is limited. However concentrations are same but the amount can differ with manipulation of volume.\nIonic equilibrium\nConceptual\nII",
+    "solution_image": null,
+    "topic": "Buffer solutions"
+  },
+  {
+    "question_id": "685102c06bba689a3eb09c97",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "At $25^{\\circ} \\mathrm{C}$, the concentration of $\\mathrm{H}^{+}$ions in $1.00 \\times 10^{-3} \\mathrm{M}$ aqueous solution of a weak monobasic acid having acid dissociation constant $\\left(K_a\\right)=4.00 \\times 10^{-11}$ is $\\boldsymbol{X} \\times 10^{-7} \\mathrm{M}$. The value of $\\boldsymbol{X}$ is _____ .\nUse: Ionic product of water $\\left(K_w\\right)=1.00 \\times 10^{-14}$ at $25^{\\circ} \\mathrm{C}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.23",
+    "solution_text": "Because concentration of $\\mathrm{H}+$ from weak acid is less we need to consider self ionization of $\\mathrm{H}_2 \\mathrm{O}$ also.\n$\\begin{array}{rl}\\mathrm{HX}(\\mathrm{aq}) \\rightleftharpoons & \\mathrm{H}^{+}+\\mathrm{X}^{-}(\\mathrm{aq}) \\\\ 10^{-3}-\\mathrm{x} \\quad & \\mathrm{x}+\\mathrm{y} \\quad \\mathrm{x} \\\\ \\mathrm{H}_2 \\mathrm{O}(l) \\rightleftharpoons & \\mathrm{H}^{+}(\\mathrm{aq})+\\mathrm{OH}^{-}(\\mathrm{aq}) \\\\ & \\mathrm{x}+\\mathrm{y} \\quad \\quad \\mathrm{y}\\end{array}$\nApproximation : $\\left(10^{-3}-\\mathrm{x}\\right) \\simeq 10^{-3}$\n$\\begin{aligned}\n& \\Rightarrow \\quad \\frac{x(x+y)}{10^{-3}}=K_a=4 \\times 10^{-11}....(1) \\\\\n& \\Rightarrow \\quad y(x+y)=K w=10^{-14}.....(2)\n\\end{aligned}$\n$\\begin{array}{ll}\n\\text { Add }(1)+(2) \\\\\n\\end{array}$\n$\\begin{array}{ll}\\Rightarrow & (\\mathrm{x}+\\mathrm{y})^2=5 \\times 10^{-14} \\\\ \\Rightarrow & \\mathrm{x}+\\mathrm{y}=\\left[\\mathrm{H}^{+}\\right]=\\sqrt{5} \\times 10^{-7} \\\\ \\Rightarrow & \\mathrm{x}=\\sqrt{5}=2.236\\end{array}$\nAnswer 2.23 or 2.24.",
+    "solution_image": null,
+    "topic": "PH of solutions"
+  },
+  {
+    "question_id": "64b16a96f23ac7d519f9b5c8",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "A solution is prepared by mixing <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn><mi>mol</mi></math>&nbsp;each of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub><mo>,</mo><msub><mi>NaHCO</mi><mn>3</mn></msub><mo>,</mo><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math>, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> in $100 \\mathrm{~mL}$ of water. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi></math> of the resulting solution is<br />[Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>pK</mi><msub><mi mathvariant=\"normal\">a</mi><mn>1</mn></msub></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>pK</mi><msub><mi mathvariant=\"normal\">a</mi><mn>2</mn></msub></msub></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math> are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>37</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>.</mo><mn>32</mn></math>, respectively.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>log</mi><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>30</mn></math>]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10.02",
+    "solution_text": "<blockquote><p>First acid base reaction between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> takes place.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></mrow><mrow><mn>0</mn><mo>.</mo><mn>01</mn><mi>mole</mi></mrow></munder><mo>+</mo><munder><mi>NaOH</mi><mrow><mn>0</mn><mo>.</mo><mn>01</mn><mi>mole</mi></mrow></munder><mo>&#10230;</mo><munder><munder><msub><mi>NaHCO</mi><mn>3</mn></msub><mo>-</mo></munder><mrow><mn>0</mn><mo>.</mo><mn>01</mn><mi>mole</mi></mrow></munder><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p>After the acid base reaction, we have <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>01</mn><mi>mole</mi><mo>&#160;</mo><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math>&nbsp; and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>02</mn></math>&nbsp;moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaHCO</mi><mn>3</mn></msub></math>. Here, This will form an acidic buffer&nbsp;of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaHCO</mi><mn>3</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>pH</mi><mo>=</mo><msub><mi>pK</mi><msub><mi mathvariant=\"normal\">a</mi><mn>2</mn></msub></msub><mo>+</mo><mi>log</mi><mfrac><mfenced open=\"[\" close=\"]\"><mi>Salt</mi></mfenced><mfenced open=\"[\" close=\"]\"><mi>Acid</mi></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>32</mn><mo>+</mo><mi>log</mi><mfrac><mfenced><mfrac><mrow><mn>0</mn><mo>.</mo><mn>01</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfrac></mfenced><mfenced><mfrac><mrow><mn>0</mn><mo>.</mo><mn>02</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfrac></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>32</mn><mo>+</mo><mi>log</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>32</mn><mo>-</mo><mi>log</mi><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>32</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mo>.</mo><mn>02</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>pH</mi><mo>=</mo><mn>10</mn><mo>.</mo><mn>02</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "PH of solutions"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b52a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "A solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo> </mo><mi mathvariant=\"normal\">M</mi></math> weak base <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math> is titrated with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo> </mo><mi mathvariant=\"normal\">M</mi></math> of a strong acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>HA</mi><mo>)</mo></math>. The variation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi></math> of the solution with the volume of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HA</mi></math> added is shown in the figure below. What is the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>pK</mi><mi mathvariant=\"normal\">b</mi></msub></math> of the base? The neutralization reaction is given by<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>+</mo><mi>HA</mi><mo>→</mo><msup><mi>BH</mi><mo>+</mo></msup><mo>+</mo><msup><mi mathvariant=\"normal\">A</mi><mo>-</mo></msup></math>.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/97585a9e-6cb0-4188-a402-afec2b895492-image.png\"/>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<p>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#160;</mo><mi>ml</mi><mo>&#160;</mo><mi>pH</mi></math> of solution is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>+</mo><mi>HA</mi><mo>&#8594;</mo><msup><mi>BH</mi><mo>+</mo></msup><mo>+</mo><msup><mi mathvariant=\"normal\">A</mi><mo>&#8722;</mo></msup></math></p><p>at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math> best buffer action is shown</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mi>OH</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">P</mi><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">b</mi></msub></msub><mo>=</mo><mn>3</mn></math>&nbsp;(As basic buffer is formed)</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">b</mi></msub></msub><mo>=</mo><mn>3</mn></math></p>",
+    "solution_image": null,
+    "topic": "PH of solutions"
+  },
+  {
+    "question_id": "64b16a6ef23ac7d519f9b457",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "The dilution processes of different aqueous solutions with water are given in LIST-I. The effects of dilution of the solutions on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>]</mo></math> are given in LIST-II.<br />(Note: The degree of dissociation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi mathvariant=\"normal\">&#945;</mi></mfenced></math> of&nbsp;a weak acid and a weak base is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#60;</mo><mo>&#60;</mo><mi>&#160;</mi><mn>1</mn><mo>;</mo></math>&nbsp;the degree of hydrolysis of salt is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#60;</mo><mo>&#60;</mo><mn>1</mn><mo>;</mo><mi mathvariant=\"normal\">&#160;</mi><mo>[</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>]</mo></math> represents the concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math> ions)<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST &ndash;I</td>\t\t\t<td style=\"text-align: justify;\">&nbsp;</td>\t\t\t<td style=\"text-align: justify;\">LIST -II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>.</mo><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">&#160;</mi><mi>NaOH</mi><mo>+</mo><mn>20</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>.1</mo><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">&#160;</mi></math>acetic acid&nbsp;diluted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi></math>.</td>\t\t\t<td>P)</td>\t\t\t<td>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>]</mo></math> does not change on dilution.</td>\t\t</tr>\t\t<tr>\t\t\t<td>B)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>.</mo><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">&#160;</mi><mi>NaOH</mi><mo>+</mo><mn>20</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mo>&#160;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi></math> acetic acid diluted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>80</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi></math>.</td>\t\t\t<td>Q)</td>\t\t\t<td>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mtext>[H</mtext><mo>+</mo></msup><mo>]</mo></math> changes to half of its initial value on dilution.</td>\t\t</tr>\t\t<tr>\t\t\t<td>C)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>.1</mo><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">&#160;</mi><mi>HCl</mi><mo>+</mo><mn>20</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mo>&#160;</mo><mn>0</mn><mo>.1</mo><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">&#160;</mi></math>ammonia solution&nbsp;diluted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>80</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi></math>.</td>\t\t\t<td>R)</td>\t\t\t<td>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>]</mo></math> changes to two times&nbsp;its initial value on dilution.</td>\t\t</tr>\t\t<tr>\t\t\t<td>D)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi mathvariant=\"normal\">&#160;</mi><mi>mL</mi></math> saturated solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi><msub><mfenced separators=\"|\"><mi>OH</mi></mfenced><mn>2</mn></msub></math> in equilibrium with excess of solid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi><msub><mfenced separators=\"|\"><mi>OH</mi></mfenced><mn>2</mn></msub></math> is diluted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#160;</mo><mi>mL</mi></math>&nbsp;(solid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi><msub><mfenced separators=\"|\"><mi>OH</mi></mfenced><mn>2</mn></msub></math> is still present after dilution).</td>\t\t\t<td>S)</td>\t\t\t<td>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>]</mo></math> changes to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt></msqrt></math> times its initial value on dilution.</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>T)</td>\t\t\t<td>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>]</mo></math> changes to <math><msqrt><mn>2</mn></msqrt></math> times&nbsp;its initial value on dilution.</td>\t\t</tr>\t</tbody></table><br />Match each process given in LIST-I with one or more effect(s) in LIST-II. The correct option is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OJCRv",
+        "text": "a-q;b-t;c-p;d-r;",
+        "image": null
+      },
+      {
+        "id": "stWUJ",
+        "text": "a-p;b-t;c-s;d-p;",
+        "image": null
+      },
+      {
+        "id": "th6SL",
+        "text": "a-s;b-t;c-p;d-r;",
+        "image": null
+      },
+      {
+        "id": "DQR8z",
+        "text": "a-s;b-q;c-p;d-t;",
+        "image": null
+      }
+    ],
+    "correct_answer": "stWUJ",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>)</mo></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ooxudeiqahmxeyjcnfzneplvzsgntqmxsgievjfyjzgepgmpag.jpeg\"/><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>=</mo><mi>pKa</mi><mo>⇒</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced></math> will not change on dilution.<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dzzpwjwfoqzdartsqtzdziejvvvjeyrncftbfflkparqrhnabt.jpeg\"/><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi>OH</mi><mo>-</mo></msup></mfenced><mo>=</mo><msqrt><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">H</mi></msub><mi mathvariant=\"normal\">C</mi></msqrt><mo>=</mo><msqrt><mfenced separators=\"|\"><mrow><mfrac><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">w</mi></msub><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mi mathvariant=\"normal\">C</mi></mrow></mfenced></msqrt></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>1</mn></msub><mo>=</mo><msqrt><mfrac><mrow><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">w</mi></msub><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">a</mi></msub></mrow><mi mathvariant=\"normal\">C</mi></mfrac></msqrt></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>2</mn></msub><msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>1</mn></msub></mfrac><mo>=</mo><msqrt><mfrac><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mrow><mn>0</mn><mo>.05</mo></mrow><mrow><mn>0</mn><mo>.025</mo></mrow></mfrac></msqrt><mo>=</mo><msqrt><mn>2</mn></msqrt></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yydrhsjxojftvakhhijoheucyrlcosggumziuxiwzsxmulncrn.jpeg\"/><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mo>=</mo><msqrt><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">H</mi></msub><mi mathvariant=\"normal\">C</mi></msqrt></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>2</mn></msub><msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>1</mn></msub></mfrac><mo>=</mo><msqrt><mfrac><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub></mfrac></msqrt><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">D</mi><mo>)</mo></math> Because of dilution, the solubility does not change. So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mo>=</mo><mi>constant</mi></math>.",
+    "solution_image": null,
+    "topic": "PH of solutions"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b066",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Amongst the following, the total number of compounds whose aqueous solution turns red litmus paper blue is\n$$\n\\begin{array}{llll}\n\\mathrm{KCN} & \\mathrm{K}_2 \\mathrm{SO}_4 & \\left(\\mathrm{NH}_4\\right)_2 \\mathrm{C}_2 \\mathrm{O}_4 & \\mathrm{NaCl} \\\\\n\\mathrm{Zn}\\left(\\mathrm{NO}_3\\right)_2 & \\mathrm{FeCl}_3 & \\mathrm{~K}_2 \\mathrm{CO}_3 & \\mathrm{NH}_4 \\mathrm{NO}_3 \\\\\n\\mathrm{LiCN} & & &\n\\end{array}\n$$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "The aqueous solution of $\\mathrm{KCN}, \\mathrm{K}_2 \\mathrm{CO}_3$ and LiCN turn red litmus blue because of alkaline nature.\nThe anionic hydrolysis turns the solution alkaline.\nIonic equilibrium\nConceptual\nIII",
+    "solution_image": null,
+    "topic": "PH of solutions"
+  },
+  {
+    "question_id": "64b169e1f23ac7d519f9af53",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "$2.5 \\mathrm{~mL}$ of $\\frac{2}{5} \\mathrm{M}$ weak monoacidic base $\\left(K_b=1 \\times 10^{-12}\\right.$ at $\\left.25^{\\circ} \\mathrm{C}\\right)$ is titrated with $\\frac{2}{15}$ $\\mathrm{M} \\mathrm{HCl}$ in water at $25^{\\circ} \\mathrm{C}$. The concentration of $\\mathrm{H}^{+}$at equivalence point is $\\left(K_w=1 \\times 10^{-14}\\right.$ at $\\left.25^{\\circ} \\mathrm{C}\\right)$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uNDCg",
+        "text": "\n$3.7 \\times 10^{-13} \\mathrm{M}$\n",
+        "image": null
+      },
+      {
+        "id": "lTSdf",
+        "text": "\n$3.2 \\times 10^{-7} \\mathrm{M}$\n",
+        "image": null
+      },
+      {
+        "id": "umeKo",
+        "text": "\n$3.2 \\times 10^{-2} \\mathrm{M}$\n",
+        "image": null
+      },
+      {
+        "id": "gbGGo",
+        "text": "\n$2.7 \\times 10^{-2} \\mathrm{M}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "gbGGo",
+    "solution_text": "Weak monoacidic base, e.g. $\\mathrm{BOH}$ is neutralised.\n$$\n\\mathrm{BOH}+\\mathrm{HCl} \\longrightarrow \\mathrm{BCl}+\\mathrm{H}_2 \\mathrm{O}\n$$\nAt equivalence point all $\\mathrm{BOH}$ gets converted into salt and remember! the concentration of $\\mathrm{H}^{+}$(or $\\mathrm{pH}$ of solution) is due to hydrolysis of resultant salt ( $\\mathrm{BCl}$, cationic hydrolysis here)\n$$\n\\underset{\\mathrm{C}(1-h)}{\\mathrm{B}^{+}}+\\mathrm{H}_2 \\mathrm{O} \\rightleftharpoons \\underset{\\mathrm{Ch}}{\\rightleftharpoons} \\mathrm{OH}+\\underset{\\mathrm{Ch}}{\\mathrm{H}^{+}}\n$$\nVolume of $\\mathrm{HCl}$ used up,\n$$\nV_a=\\frac{N_b V_b}{N_a}=\\frac{2.5 \\times 2 \\times 15}{2 \\times 5}=7.5 \\mathrm{~mL}\n$$\nConcentration of salt,\n$$\n\\begin{aligned}\n{[\\mathrm{BCl}] } & =\\frac{\\text { Concentration of base }}{\\text { Total volume }}=\\frac{2 \\times 25}{5(7.5+2.5)}=\\frac{1}{10}=0.1 \\\\\nK_h & =\\frac{C h^2}{1-h}=\\frac{K_w}{K_b}\n\\end{aligned}\n$$\n( $h$ should be estimated whether that can be neglected or not) on calculating $h=0.27$ (significant, not negligible)\n$$\n\\left[\\mathrm{H}^{+}\\right]=C h=0.1 \\times 0.27=2.7 \\times 10^{-2} \\mathrm{M}\n$$\nWhen $\\left[\\mathrm{H}^{+}\\right]$is asked to calculate in connection with neutralisation, it\nShould be calculated:\nBefore neutralisation Using Oslwald's dilution law\nDuring neutralisation $\\quad$ Considering buffer solution\nHalf neutralisation $\\mathrm{pH}=\\mathrm{p} K_a$ and $\\mathrm{p} K_b$\nAt the end of neutralisation $\\quad$ Considering hydrolysis of salt",
+    "solution_image": null,
+    "topic": "PH of solutions"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1dc",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "The initial rate of hydrolysis of methyl acetate<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mi mathvariant=\"normal\">M</mi></mrow></mfenced></math> by a weak acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>HA</mi><mo>,</mo><mo>&#160;</mo><mn>1</mn><mi mathvariant=\"normal\">M</mi><mo>)</mo></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>/</mo><msup><mn>100</mn><mi>th</mi></msup></math> of that by a strong acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>HX</mi><mo>,</mo><mo>&#160;</mo><mn>1</mn><mi mathvariant=\"normal\">M</mi></mrow></mfenced></math>, at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>&#176;</mo><mi mathvariant=\"normal\">C</mi></math>. The&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HA</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1d5eq",
+        "text": "<math> <mrow> <mn>1</mn> <mo>&times;</mo> <msup> <mtext>10</mtext> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "IjPlp",
+        "text": "<math> <mrow> <mn>1</mn> <mo>&times;</mo> <msup> <mtext>10</mtext> <mrow> <mo>-</mo> <mn>5</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "3mE3h",
+        "text": "<math> <mrow> <mn>1</mn> <mo>&times;</mo> <msup> <mtext>10</mtext> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "cCJu9",
+        "text": "<math> <mrow> <mn>1</mn> <mo>&times;</mo> <msup> <mtext>10</mtext> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1d5eq",
+    "solution_text": "<math> <mrow> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <msub> <mtext>COOCH</mtext> <mn>3</mn> </msub> <mo>+</mo> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mover> <mo>&#8594;</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msup> <mtext>H</mtext> <mo>+</mo> </msup> </mrow> </mfenced> </mover> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <mtext>COOH</mtext> <mo>+</mo> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <mtext>OH &#8203;</mtext></mrow></math><br /><math> <mrow> <mtext>Rate Law</mtext> <mo>&#8658;</mo> <mtext>k</mtext> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mtext>MA</mtext> </mrow> </mfenced> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msup> <mtext>H</mtext> <mo>+</mo> </msup> </mrow> </mfenced> </mrow> </math> (as water is present in large excess)<br /><math> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mtext>MA</mtext> </mrow> </mfenced> <mo>=</mo> <mtext>1 M</mtext> </mrow> </math> in both cases<br /><math> <mrow> <msub> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msup> <mtext>H</mtext> <mo>+</mo> </msup> </mrow> </mfenced> </mrow> <mtext>Strong</mtext> </msub> <mo>=</mo> <mtext>1 M</mtext> </mrow> </math> in presence of strong acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HX</mi></math>.<br /><math> <mrow> <msub> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msup> <mtext>H</mtext> <mo>+</mo> </msup> </mrow> </mfenced> </mrow> <mtext>weak</mtext> </msub> <mo>=</mo> <msqrt> <msub> <mtext>K</mtext> <mtext>a</mtext> </msub> <mtext>. c</mtext> </msqrt> <mo>=</mo> <msqrt> <msub> <mtext>K</mtext> <mtext>a</mtext> </msub> </msqrt> </mrow> </math> in the presence of weak acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HA</mi></math>.<br />Initial rate (weak acid) <math> <mrow> <mo>=</mo> <mtext>k</mtext> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mn>1</mn> </mrow> </mfenced> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msqrt> <msub> <mtext>K</mtext> <mtext>a</mtext> </msub> </msqrt> </mrow> </mfenced> <mo>...... (I)</mo> </mrow> </math><br />Initial rate (strong acid)&nbsp;<math> <mrow> <mo>&#160;=&#160;</mo> <mtext>k</mtext> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mn>1</mn> </mrow> </mfenced> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mn>1</mn> </mrow> </mfenced> <mo>...... (II)</mo> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mtext>I</mtext> </mrow> <mrow> <mtext>II</mtext> </mrow> </mfrac> <mo>=</mo> <msqrt> <msub> <mtext>K</mtext> <mtext>a</mtext> </msub> </msqrt> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>1</mn> <mn>0</mn> <mn>0</mn> </mrow> </mfrac> <mo>=</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> </math><br /><math> <mrow> <msub> <mtext>K</mtext> <mtext>a</mtext> </msub> <mo>=</mo> <mn>1</mn> <mo>&#215;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </msup> </mrow> </math>.",
+    "solution_image": null,
+    "topic": "Salt Hydrolysis"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b023",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The dissociation constant of a substituted benzoic acid at $25^{\\circ} \\mathrm{C}$ is $1.0 \\times 10^{-4}$. The $\\mathrm{pH}$ of $0.01 \\mathrm{M}$ solution of its sodium salt is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "$$\n\\text { The hydrolysis reaction of conjugate base of acid is }\n$$\n\n$$\n\\begin{gathered}\nA^{-}(a q)+\\mathrm{H}_2 \\mathrm{O} \\longrightarrow \\mathrm{HO}^{-}+\\mathrm{HA} \\\\\nK_h=\\frac{K_w}{K_a}=\\frac{10^{-14}}{10^{-4}}=10^{-10}\n\\end{gathered}\n$$\n\nSince, degree of hydrolysis is negligible;\n$$\n\\left[\\mathrm{OH}^{-}\\right]=\\sqrt{K_h C}=10^{-6} \\cdot p[\\mathrm{OH}]=6 \\text { and } \\mathrm{pH}=14-6=8\n$$",
+    "solution_image": null,
+    "topic": "Salt Hydrolysis"
+  },
+  {
+    "question_id": "685102c56bba689a3eb09cc8",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The solubility of barium iodate in an aqueous solution prepared by mixing 200 mL of 0.010 M barium nitrate with 100 mL of 0.10 M sodium iodate is $\\boldsymbol{X} \\times 10^{-6} \\mathrm{~mol} \\mathrm{dm}^{-3}$. The value of $\\boldsymbol{X}$ is $\\qquad$ .\nUse: Solubility product constant $\\left(K_{\\mathrm{sp}}\\right)$ of barium iodate $=1.58 \\times 10^{-9}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3.95",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eo129uOtan14MvseroMbLxVmzSKk8yqe5J34QK4bcX8.original.fullsize.png\"><br>$\\left[\\mathrm{NaIO}_3\\right]=\\frac{6}{300}=2 \\times 10^{-2} \\mathrm{M}$<br>$\\begin{aligned} \\mathrm{Ba}\\left(\\mathrm{IO}_3\\right)_2(\\mathrm{~s}) \\rightleftharpoons \\mathrm{Ba}^{2+}+ & 2 \\mathrm{IO}_3^{-} \\\\ \\mathrm{s} \\qquad & \\left(2 \\times 10^{-2}+2 \\mathrm{~s}\\right)\\end{aligned}$<br>$\\begin{aligned} & \\mathrm{K}_{\\mathrm{sp}}=\\left[\\mathrm{Ba}^{+2}\\right]\\left[\\mathrm{IO}_3^{-}\\right]^2 \\\\ & 1.58 \\times 10^{-9}=\\left[\\mathrm{Ba}^{+2}\\right] \\times\\left(2 \\times 10^{-2}\\right)^2 \\\\ & {\\left[\\mathrm{Ba}^{+2}\\right]=\\mathrm{s}=3.95 \\times 10^{-6} \\mathrm{M}} \\\\ & \\mathrm{X}=3.95\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16aa2f23ac7d519f9b636",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "On decreasing the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi></math> from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>, the solubility of a sparingly soluble salt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>MX</mi><mo>)</mo></math> of a weak acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>HX</mi><mo>)</mo></math> increased from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mi>mol</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">L</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mol</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">L</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. The <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>pK</mi><mi mathvariant=\"normal\">a</mi></msub></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HX</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SryDT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ZZdRR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "JsLHW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "lJs3x",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZZdRR",
+    "solution_text": "<blockquote><p>At&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>=</mo><mn>7</mn></math>, i.e., the solubility in water is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math>,</p><p>The solubility product,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub><mo>=</mo><msup><mi mathvariant=\"normal\">S</mi><mn>2</mn></msup><mo>&#160;</mo><mo>&#160;</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>&#62;</mo><mn>1</mn></math></p><p>Assume the solubility of sparingly soluble salt is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>at</mi><mo>&#160;</mo><mi>pH</mi><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MX</mi><mo>&#8652;</mo><msup><mi mathvariant=\"normal\">M</mi><mo>&#8853;</mo></msup><mo>+</mo><msup><mi mathvariant=\"normal\">X</mi><mo>&#8854;</mo></msup><mspace linebreak=\"newline\"></mspace><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>-</mo><mi mathvariant=\"normal\">x</mi></math></p><p>The weak dissociation reaction is as follows,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">X</mi><mo>&#8854;</mo></msup><mo>+</mo><msup><mi mathvariant=\"normal\">H</mi><mo>&#8853;</mo></msup><mo>&#8652;</mo><mi>HX</mi><mspace linebreak=\"newline\"></mspace><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>&#160;</mo><mo>&#160;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">x</mi></math></p><p>Assume the acid dissociation constant is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></math>.</p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mo>=</mo><mfrac><mfenced open=\"[\" close=\"]\"><mi>HX</mi></mfenced><mrow><mfenced open=\"[\" close=\"]\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mstyle displaystyle=\"true\"><mfenced open=\"[\" close=\"]\"><msup><mi mathvariant=\"normal\">X</mi><mo>-</mo></msup></mfenced></mstyle></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mfenced><mrow><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mrow><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>-</mo><mi mathvariant=\"normal\">x</mi></mstyle></mrow></mfrac></math>&nbsp;assume&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>&#8771;</mo><mi mathvariant=\"normal\">x</mi></math>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mo>=</mo><mfrac><msup><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mn>2</mn></msup><mrow><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub></mstyle></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msup><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mn>2</mn></msup><mo>&#160;</mo><mo>=</mo><mfrac><mrow><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub></mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>-</mo><mo>&#62;</mo><mn>2</mn></math></p><p>Now from 1 and 2,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><msub><mi mathvariant=\"normal\">S</mi><mn>1</mn></msub><mn>2</mn></msup><msup><mi mathvariant=\"normal\">S</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></mrow><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>pK</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mn>4</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a9cf23ac7d519f9b5fc",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>Concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math> in a solution is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">M</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">M</mi></math>, respectively. Molar solubility of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbSO</mi><mn>4</mn></msub></math>&nbsp;in the same solution is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mi mathvariant=\"normal\">Y</mi></mrow></msup><mi mathvariant=\"normal\">M</mi></math> (expressed in scientific notation). The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math> is<br />[Given: Solubility product of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbSO</mi><mn>4</mn></msub><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></math>. For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">K</mi><mrow><mi mathvariant=\"normal\">a</mi><mn>1</mn></mrow></msub></math> is very large and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mrow><mi mathvariant=\"normal\">a</mi><mn>2</mn></mrow></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>]</p><p>If the numerical value has more than two decimal places, truncate/round-off the value to TWO decimal places.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></mtd><mtd><munder><mo>&#8594;</mo><mrow></mrow></munder></mtd><mtd><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mtd><mtd><mo>+</mo></mtd><mtd><msubsup><mi>HSO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mtd></mtr><mtr><mtd></mtd><mtd></mtd><mtd><mn>1</mn><mi mathvariant=\"normal\">M</mi></mtd><mtd></mtd><mtd><mn>1</mn><mi mathvariant=\"normal\">M</mi></mtd></mtr></mtable></math>&nbsp;(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><msub><mi mathvariant=\"normal\">a</mi><mn>1</mn></msub></msub></math>&nbsp;is very large)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>HSO</mi><mn>4</mn><mo>-</mo></msubsup><mover><mo>&#8652;</mo><mrow></mrow></mover><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup><mo>&#160;&#160;</mo><msub><mi mathvariant=\"normal\">K</mi><msub><mi mathvariant=\"normal\">a</mi><mn>2</mn></msub></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mfenced></math> coming from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced close=\"]\" open=\"[\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mfenced><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced></mrow><mfenced close=\"]\" open=\"[\"><msubsup><mi>HSO</mi><mn>4</mn><mo>-</mo></msubsup></mfenced></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>1</mn></mrow><mn>1</mn></mfrac><mo>&#62;</mo><msub><mi mathvariant=\"normal\">K</mi><msub><mi mathvariant=\"normal\">a</mi><mn>2</mn></msub></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> Rather than dissociation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>HSO</mi><mn>4</mn><mo>-</mo></msubsup></math>&nbsp;into <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math>and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math> ions, association between already present <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math> will take place.</p><p>Assuming &#39;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math>&#39; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mol</mi><mo>/</mo><mi mathvariant=\"normal\">L</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math>combines to form <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>HSO</mi><mn>4</mn><mo>-</mo></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mfenced close=\"]\" open=\"[\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>-</mo><mi mathvariant=\"normal\">x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"\"><mtable columnalign=\"left\"><mtr><mtd><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mo>=</mo><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>&#8776;</mo><mn>1</mn></mtd></mtr><mtr><mtd><mfenced close=\"]\" open=\"[\"><msubsup><mi>HSO</mi><mn>4</mn><mo>-</mo></msubsup></mfenced><mo>=</mo><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">x</mi><mo>&#8776;</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math>&nbsp;(assuming&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>&#60;</mo><mo>&#60;</mo><mn>1</mn></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced><mrow><mn>1</mn><mo>.</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mn>1</mn></mrow><mn>1</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">M</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbSO</mi><mn>4</mn></msub><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>&#8652;</mo><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced><mi>aq</mi></mfenced><mo>+</mo><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup><mfenced><mi>aq</mi></mfenced></math></p><p>If solubility of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbSO</mi><mn>4</mn></msub><mo>=</mo><mi>sM</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mfenced close=\"]\" open=\"[\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></mfenced><mo>=</mo><mi mathvariant=\"normal\">s</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><msubsup><mi>SO</mi><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mfenced><mo>=</mo><mi mathvariant=\"normal\">s</mi><mo>+</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#8776;</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p>(assuming <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">s</mi><mo>&#8810;</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">s</mi><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>=</mo><mn>1</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">s</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>6</mn></mrow><mrow><mn>1</mn><mo>.</mo><mn>2</mn></mrow></mfrac><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>=</mo><mn>1</mn><mo>.</mo><mn>33</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></math></p><p>On comparing with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mi mathvariant=\"normal\">Y</mi></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi><mo>=</mo><mn>6</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b52f",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "An acidified solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi><mo>&#160;</mo><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> is saturated with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></math>. What is the minimum molar concentration <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">M</mi><mo>)</mo></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math> required to prevent the precipitation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ZnS</mi></math>? Use <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub><mo>(</mo><mi>ZnS</mi><mo>)</mo><mo>=</mo><mn>1</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>22</mn></mrow></msup></math> and&nbsp;overall dissociation constant of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">K</mi><mi>NET</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">K</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>21</mn></mrow></msup></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.2",
+    "solution_text": "<p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ZnS</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub><mo>(</mo><mi>ZnS</mi><mo>)</mo><mo>=</mo><mfenced open=\"[\" close=\"]\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></mfenced><mo>&#215;</mo><mfenced open=\"[\" close=\"]\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mn>2</mn><mo>-</mo></mrow></msup></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>22</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#215;</mo><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mn>2</mn><mo>-</mo></mrow></msup></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>22</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mn>2</mn><mo>-</mo></mrow></msup></mfenced><mo>=</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>22</mn></mrow></msup></math></p><p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><msub><mtext>H</mtext><mn>2</mn></msub><mtext>S</mtext></mrow><mrow><mn>0</mn><mo>.1</mo><mtext>&#8196;</mtext><mi mathvariant=\"normal\">M</mi></mrow></munder><mo>&#8652;</mo><mn>2</mn><msup><mtext>H</mtext><mo>+</mo></msup><mo>+</mo><munder><msup><mtext>S</mtext><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msup><mrow><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>22</mn></mrow></msup></mrow></munder></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>&#39;</mo></msup></mfenced><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mn>2</mn><mo>-</mo></mrow></msup></mfenced></mrow><mfenced close=\"]\" open=\"[\"><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi></mrow></mfenced></mfrac><mo>=</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>21</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><msup><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>2</mn></msup><mo>&#215;</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>22</mn></mrow></msup></mrow><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>21</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>25</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi></math></p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a73f23ac7d519f9b488",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "For the following reaction, the equilibrium constant <math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></math> at <math><mn>298</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi></math> is <math><mn>1.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>17</mn></mrow></msup><mo>.</mo></math><br /><math><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mo>&#8652;</mo><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">S</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi></mrow></mfenced></math><br />When equal volumes of <math><mn>0.06</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced></math> and <math><mn>0.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi><msup><mrow><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced></math> solutions are mixed, the equilibrium concentration of <math><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced></math> is found to be <math><mi mathvariant=\"normal\">Y</mi><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>17</mn></mrow></msup><mi mathvariant=\"normal\">M</mi><mo>.</mo></math> The value of <math><mi mathvariant=\"normal\">Y</mi></math> is __________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8.93",
+    "solution_text": "<math><msup><mrow><mtext>Fe</mtext></mrow><mrow><mtext>2+</mtext></mrow></msup><mo>+</mo><msup><mrow><mtext>S</mtext></mrow><mrow><mtext>2-</mtext></mrow></msup><mo>&#8652;</mo><mtext>Fe&#8201;</mtext><msub><mrow><mtext>S</mtext></mrow><mrow><mo>(</mo><mtext>s</mtext><mo>)</mo></mrow></msub></math> ..... <math><msub><mrow><mtext>K</mtext></mrow><mrow><mtext>c</mtext></mrow></msub><mo>=</mo><mn>1.6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>17</mn></mrow></msup></math><br /><math><mtext>t</mtext><mo>=</mo><mn>0</mn></math> : <math><mn>0.03</mn><mtext>&#8201;M&#160;</mtext><mfenced separators=\"|\"><mrow><mn>0.1</mn><mtext>&#8201;M</mtext></mrow></mfenced></math><br /><math><mtext>t</mtext><mo>=</mo><mtext>t;</mtext><mtext>&#160;</mtext><mfenced separators=\"|\"><mrow><mn>0.03</mn><mo>-</mo><mtext>H</mtext></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mrow><mn>0.1</mn><mtext>&#8201;H</mtext></mrow></mfenced></math><br />Since <math><msub><mrow><mtext>K</mtext></mrow><mrow><mtext>c</mtext></mrow></msub><mo>&#62;</mo><mo>&#62;</mo><mn>1</mn><mo>,</mo></math><br /><math><mi mathvariant=\"normal\">n</mi><mo>&#8771;</mo><mn>0.03</mn></math><br /><math><mo>&#8756;</mo><mtext>&#8201;</mtext><mo>[</mo><msup><mrow><mtext>S</mtext></mrow><mrow><mtext>2-</mtext></mrow></msup><mo>]</mo><mo>=</mo><mn>0.1</mn><mo>-</mo><mn>0.031</mn><mo>=</mo><mn>0.07</mn><mtext>&#8201;M</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>K</mtext><mtext>c</mtext></msub><mo>=</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><msup><mtext>Fe</mtext><mrow><mn>2</mn><mo>+</mo></mrow></msup></mfenced><mfenced open=\"[\" close=\"]\" separators=\"|\"><msup><mtext>S</mtext><mtext>2-</mtext></msup></mfenced><mo>=</mo><mfrac><mn>1</mn><mrow><mn>1.6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>17</mn></msup></mrow></mfrac></math><br /><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mtext>Fe</mtext></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1.6</mn><mo>&#215;</mo><mn>0.07</mn></mrow></mfrac><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>17</mn></mrow></msup></math><br /><math><mtext>y</mtext><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1.6</mn><mo>&#215;</mo><mn>0.07</mn></mrow></mfrac><mo>&#8771;</mo><mn>8.93</mn></math>",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a67f23ac7d519f9b41c",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "The solubility of a salt of weak acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi>AB</mi></mfenced><mi mathvariant=\"normal\">&#160;</mi><mi>at</mi><mi mathvariant=\"normal\">&#160;</mi><mi>pH</mi><mn>3</mn><mi mathvariant=\"normal\">&#160;</mi><mi>is</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">Y</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi>mol</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">L</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math>&nbsp;is ____. (Given that the value of solubility product of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AB</mi><mfenced separators=\"|\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub></mfenced><mo>=</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi></math>,&nbsp;and the value of ionization constant of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HB</mi><mfenced separators=\"|\"><mi>Ka</mi></mfenced><mo>=</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></math>)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4.47",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>=</mo><msqrt><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub><mfenced separators=\"|\"><mrow><mfrac><mfenced open=\"[\" close=\"]\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub></mfrac><mo>+</mo><mn>1</mn></mrow></mfenced></msqrt><mo>=</mo><msqrt><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></mfrac><mo>+</mo><mn>1</mn></mrow></mfenced></msqrt><mo>&#8771;</mo><msqrt><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup></msqrt></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>.47</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi mathvariant=\"normal\">M</mi></math>.",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a2ef23ac7d519f9b212",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>sp</mi></msub></math>&nbsp;of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>Ag</mtext><mn>2</mn></msub><msub><mtext>CrO</mtext><mn>4</mn></msub></math>&nbsp;is <math> <mrow> <mn>1</mn> <mo>.</mo> <mn>1</mn> <mo>&#215;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>1</mn> <mn>2</mn> </mrow> </msup> </mrow> </math>&nbsp;at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>. The solubility (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mol</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">L</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>Ag</mtext><mn>2</mn></msub><mi>CrO</mi><msub><mo>&#8289;</mo><mn>4</mn></msub></math>&nbsp;in a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi><mo>&#160;</mo><msub><mtext>AgNO</mtext><mn>3</mn></msub></math>&nbsp;solution is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eHAwu",
+        "text": "<math> <mrow> <mn>1</mn> <mtext>.</mtext> <mn>1</mn> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>1</mn> <mn>1</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "FwCLC",
+        "text": "<math> <mrow> <mn>1</mn> <mtext>.</mtext> <mn>1</mn> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>1</mn> <mn>0</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "3Hmnf",
+        "text": "<math> <mrow> <mn>1</mn> <mtext>.</mtext> <mn>1</mn> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>1</mn> <mn>2</mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "dMyMh",
+        "text": "<math> <mrow> <mn>1</mn> <mtext>.</mtext> <mn>1</mn> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>9</mn> <mn></mn> </mrow> </msup> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "FwCLC",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><msub><mtext>Ag</mtext><mn>2</mn></msub><msub><mtext>CrO</mtext><mn>4</mn></msub><mtext>&#160;</mtext><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mtd><mtd><mo>&#8652;</mo></mtd><mtd><mn>2</mn><msup><mtext>Ag</mtext><mo>+</mo></msup><mtext>&#160;</mtext><mfenced><mi>aq</mi></mfenced></mtd><mtd><mo>+</mo></mtd><mtd><msubsup><mtext>CrO</mtext><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mtd></mtr><mtr><mtd/><mtd/><mtd><mfenced><mrow><mn>2</mn><mtext>S</mtext></mrow></mfenced><mo>&#160;</mo><mtext>molar</mtext></mtd><mtd/><mtd><mfenced><mtext>S</mtext></mfenced><mo>&#160;</mo><mtext>molar</mtext></mtd></mtr></mtable></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><msub><mtext>AgNO</mtext><mn>3</mn></msub><mtext>&#160;</mtext><mfenced><mi>aq</mi></mfenced></mtd><mtd><mo>&#10230;</mo></mtd><mtd><msup><mtext>Ag</mtext><mo>+</mo></msup><mtext>&#160;</mtext><mfenced><mi>aq</mi></mfenced></mtd><mtd><mo>+</mo></mtd><mtd><msubsup><mtext>NO</mtext><mn>3</mn><mo>-</mo></msubsup><mtext>&#160;</mtext><mfenced><mi>aq</mi></mfenced></mtd></mtr><mtr><mtd/><mtd/><mtd><mfenced><mrow><mn>0</mn><mtext>.</mtext><mn>1</mn></mrow></mfenced><mo>&#160;</mo><mtext>molar</mtext></mtd><mtd/><mtd><mfenced><mrow><mn>0</mn><mtext>.</mtext><mn>1</mn></mrow></mfenced><mo>&#160;</mo><mtext>molar</mtext></mtd></mtr></mtable></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><msup><mi>Ag</mi><mo>+</mo></msup></mfenced><mo>=</mo><mfenced><mrow><mn>2</mn><mi mathvariant=\"normal\">S</mi><mo>+</mo><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfenced><mo>&#160;</mo><mi>molar</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"[\" close=\"]\"><msubsup><mtext>CrO</mtext><mn>4</mn><mrow><mn>2</mn><mo>-</mo></mrow></msubsup></mfenced><mo>=</mo><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mtext>&#160;molar</mtext></math><br />Here, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math> is the solubility of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Ag</mi><mn>2</mn></msub><msub><mi>CrO</mi><mn>4</mn></msub></math><sub> </sub>in aqueous&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>AgNO</mi><mn>3</mn></msub></math>.</p><p><math> <mrow> <mo>&#8658;</mo> </mrow> </math><math> <mrow> <msup> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msup> <mtext>Ag</mtext> <mo>+</mo> </msup> </mrow> </mfenced> </mrow> <mn>2&#160;</mn> </msup> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msubsup> <mtext>CrO</mtext> <mn>4</mn> <mrow> <mn>2</mn> <mo>-</mo> </mrow> </msubsup> </mrow> </mfenced> <mo>=</mo> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>S</mtext> <mo>+</mo> <mn>0</mn> <mtext>.</mtext> <mn>1</mn> </mrow> </mfenced> </mrow> <mn>2</mn> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>S</mtext> </mrow> </mfenced> <mo>=</mo> <mn>1</mn> <mtext>.</mtext> <mn>1</mn> <mo>&#215;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>1</mn> <mn>2</mn> </mrow> </msup> </mrow> </math><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math> <mrow> <mtext>S</mtext> <mo>&#8810;</mo> <mn>0</mn> <mtext>.</mtext> <mn>1</mn> </mrow> </math><br /><math> <mrow> <mo>&#8658;</mo> </mrow> </math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mfenced><mi mathvariant=\"normal\">S</mi></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>12</mn></mrow></msup><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mi mathvariant=\"normal\">S</mi><mspace linebreak=\"newline\"/><mi mathvariant=\"normal\">S</mi><mo>=</mo><mn>1</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi></math></p>",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a15f23ac7d519f9b12a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "In $1 \\mathrm{~L}$ saturated solution of $\\mathrm{AgCl}\\left[K_{\\mathrm{sp}} \\mathrm{AgCl}=1.6 \\times 10^{-10}\\right], 0.1$ mole of $\\mathrm{CuCl}\\left[K_{\\mathrm{sp}}(\\mathrm{CuCl})=1.0 \\times 10^{-6}\\right]$ is added. The resultant concentration of $\\mathrm{Ag}^{+}$in the solution is $1.6 \\times 10^{-x}$. The value of $x$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "It is a case of simultaneous solubility of salts with a common ion. Here solubility product of $\\mathrm{CuCl}$ is much greater than that of $\\mathrm{AgCl}$, it can be assumed that $\\mathrm{Cl}^{-}$in solution comes mainly from $\\mathrm{CuCl}$.\n$$\n\\Rightarrow \\quad\\left[\\mathrm{Cl}^{-}\\right]=\\sqrt{K_{s p}(\\mathrm{CuCl})}=10^{-3} \\mathrm{M}\n$$\nNow for $\\mathrm{AgCl}: K_{s p}=1.6 \\times 10^{-10}=\\left[\\mathrm{Ag}^{+}\\right]\\left[\\mathrm{Cl}^{-}\\right]=\\left[\\mathrm{Ag}^{+}\\right] \\times 10^{-3} \\Rightarrow\\left[\\mathrm{Ag}^{+}\\right]=1.6 \\times 10^{-7}$",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b169e9f23ac7d519f9af97",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Solubility product constant $\\left(K_{\\mathrm{sp}}\\right)$ of salts of types $M X, M X_2$ and $M_3 X$ at temperature ' $T$ ' are $4.0 \\times 10^{-8}, 3.2 \\times 10^{-14}$ and $2.7 \\times 10^{-15}$, respectively. Solubilities $\\left(\\mathrm{mol} \\mathrm{dm}^{-3}\\right)$ of the salts at temperature ' $T$ ' are in the order",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YNbSc",
+        "text": "\n$M X>M X_2>M_3 X$\n",
+        "image": null
+      },
+      {
+        "id": "cw9DJ",
+        "text": "\n$M_3 X>M X_2>M X$\n",
+        "image": null
+      },
+      {
+        "id": "eli8T",
+        "text": "\n$M X_2>M_3 X < M X$",
+        "image": null
+      },
+      {
+        "id": "tEcAn",
+        "text": "\n$M X>M_3 X>M X_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "tEcAn",
+    "solution_text": "$\\begin{array}{lcl}\\text { Salt } & \\text { Solubility product } & \\text { Solubility } \\\\ M X & S_1^2=4.0 \\times 10^{-8} & S_1=2 \\times 10^{-4} \\\\ M X_2 & 4 S_2^3=3.2 \\times 10^{-14} & S_2=2 \\times 10^{-5} \\\\ M_3 X & 27 S_3^4=2.7 \\times 10^{-15} & S_3=1 \\times 10^{-4}\\end{array}$\nThus, solubility order $=M X>M_3 X>M X_2$.",
+    "solution_image": null,
+    "topic": "Solubility"
+  },
+  {
+    "question_id": "64b16a06f23ac7d519f9b0a8",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "The total number of diprotic acids among the following is\n$\\begin{array}{lll}\\mathrm{H}_3 \\mathrm{PO}_4 & \\mathrm{H}_2 \\mathrm{SO}_4 & \\mathrm{H}_3 \\mathrm{PO}_3 \\\\ \\mathrm{H}_2 \\mathrm{CO}_3 & \\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_7 & \\mathrm{H}_3 \\mathrm{BO}_3 \\\\ \\mathrm{H}_3 \\mathrm{PO}_2 & \\mathrm{H}_2 \\mathrm{CrO}_4 & \\mathrm{H}_2 \\mathrm{SO}_3\\end{array}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "$\\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{H}_2 \\mathrm{CO}_3, \\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_7, \\mathrm{H}_2 \\mathrm{CrO}_4, \\mathrm{H}_3 \\mathrm{PO}_3, \\mathrm{H}_2 \\mathrm{SO}_3$\nAcid-base-salt\nBasic structural understanding II",
+    "solution_image": null,
+    "topic": "Theories of Acids and Bases"
+  }
+]

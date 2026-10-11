@@ -1,0 +1,188 @@
+[
+  {
+    "question_id": "64b16a1cf23ac7d519f9b16c",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The periodic table consists of 18 groups. An isotope of copper, on bombardment with protons, undergoes a nuclear reaction yielding element $X$ as shown below. To which group, element $X$ belongs in the periodic table?\r\n\r\n${ }_{29}^{63} \\mathrm{Cu}+{ }_{1}^{1} \\mathrm{H} \\rightarrow 6_{0}^{1} n+{ }_{2}^{4} \\alpha+2{ }_{1}^{1} \\mathrm{H}+\\mathrm{X}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "${ }_{29}^{63} \\mathrm{Cu}+{ }_{1}^{1} \\mathrm{H} \\rightarrow 6{ }_{0}^{1} n+{ }_{2}^{4} \\mathrm{He}+2{ }_{1}^{1} \\mathrm{H}+{ }_{Z}^{A} X$\r\n\r\nBalancing the atomic mass and atomic number\r\n\r\n$63+1=(6 \\times 1)+4+2+A \\Rightarrow A=52$\r\n\r\n$29+1=(6 \\times 0)+2+2+Z \\Rightarrow Z=26$\r\n\r\nThus ${ }_{Z}^{A} X={ }_{26}^{52} X$ or ${ }_{26}^{52} \\mathrm{Fe}$\r\n\r\nHence, $X$ belongs to group 8 in the periodic table.",
+    "solution_image": null,
+    "topic": "Modern periodic table"
+  },
+  {
+    "question_id": "6a0be51644d287c9361e5cd2",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "The correct statement(s) regarding the periodic properties of elements is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vQYA3",
+        "text": "Second ionization enthalpy of carbon atom is less than that of boron atom.",
+        "image": null
+      },
+      {
+        "id": "0LMkf",
+        "text": "Increasing order of ionic radii: $\\text{Al}^{3+} < \\text{Mg}^{2+} < \\text{Na}^+$",
+        "image": null
+      },
+      {
+        "id": "rmmfF",
+        "text": "Under identical conditions, in solid state, the density of potassium metal is more than density of sodium metal.",
+        "image": null
+      },
+      {
+        "id": "imG7v",
+        "text": "The H$-$H bond is weaker than F$-$F bond.",
+        "image": null
+      }
+    ],
+    "correct_answer": "0LMkf",
+    "solution_text": "For (A): The electronic configuration of $\\text{B}^+$ is $1s^2 2s^2$ and that of $\\text{C}^+$ is $1s^2 2s^2 2p^1$. Removing an electron from the fully filled, more penetrating $2s$ orbital of $\\text{B}^+$ requires more energy than removing a $2p$ electron from $\\text{C}^+$. Thus, the second ionization enthalpy of carbon is less than that of boron. Statement (A) is correct.<br><br>For (B): $\\text{Al}^{3+}$, $\\text{Mg}^{2+}$, and $\\text{Na}^+$ are isoelectronic species with $10$ electrons each. The nuclear charge increases in the order $\\text{Na}^+ (11) < \\text{Mg}^{2+} (12) < \\text{Al}^{3+} (13)$. Higher effective nuclear charge leads to a stronger pull on the electrons, resulting in a smaller ionic radius. Thus, the order of ionic radii is $\\text{Al}^{3+} < \\text{Mg}^{2+} < \\text{Na}^+$. Statement (B) is correct.<br><br>For (C): The density of potassium ($0.86 \\text{ g/cm}^3$) is less than that of sodium ($0.97 \\text{ g/cm}^3$) due to an abnormal increase in atomic volume caused by the presence of empty $3d$ orbitals in potassium. Statement (C) is incorrect.<br><br>For (D): The bond dissociation enthalpy of $\\text{H}-\\text{H}$ ($436 \\text{ kJ/mol}$) is much higher than that of $\\text{F}-\\text{F}$ ($159 \\text{ kJ/mol}$) due to strong interelectronic repulsions between the lone pairs on the small fluorine atoms. Statement (D) is incorrect.<br><br>Answer: Second ionization enthalpy of carbon atom is less than that of boron atom.; Increasing order of ionic radii: $\\text{Al}^{3+} < \\text{Mg}^{2+} < \\text{Na}^+$",
+    "solution_image": null,
+    "topic": "Periodic properties"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b51e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>The <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mi>st</mi></msup></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup></math> and the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>3</mn><mi>rd</mi></msup></math> ionization enthalpies, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>3</mn></msub></math>, of four atoms with atomic numbers&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>,</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn><mo>,</mo></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>&#60;</mo><mn>10</mn><mo>,</mo></math> are tabulated below. What is the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi></math>?</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 300px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\">Atomic&nbsp;number</td>\t\t\t<td colspan=\"3\" rowspan=\"1\" style=\"text-align: center;\">Ionization Enthalpy (kJ/mol)</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>3</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1681</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3374</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6050</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>1</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2081</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3952</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6122</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>496</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4562</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6910</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>738</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1451</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7733</mn></math></td>\t\t</tr>\t</tbody></table><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p>From given data <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>)</mo></math> atom is alkali metal which is sodium.</p><p>As&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>11</mn></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>9</mn></math></p>",
+    "solution_image": null,
+    "topic": "Periodic properties"
+  },
+  {
+    "question_id": "64b16a5af23ac7d519f9b3a8",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "The colour of the <math><msub><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msub></math> molecules of group 17 elements changes gradually from yellow to violet down the group. This is due to -",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ikiak",
+        "text": "Decrease <math><mi>i</mi><mi>n</mi><mi>&nbsp;</mi><mi>H</mi><mi>O</mi><mi>M</mi><mi>O</mi><mo>-</mo><mi>L</mi><mi>U</mi><mi>M</mi><mi>O</mi></math> gap down the group",
+        "image": null
+      },
+      {
+        "id": "jQ2Py",
+        "text": "Decrease in <math><msup><mrow><mi>π</mi></mrow><mrow><mi>*</mi></mrow></msup><mo>-</mo><msup><mrow><mi>σ</mi></mrow><mrow><mi>*</mi></mrow></msup></math> down the group",
+        "image": null
+      },
+      {
+        "id": "Q2WCj",
+        "text": "The physical state of <math><mi> </mi><msub><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  at room temperature changes from gas to solid down the group",
+        "image": null
+      },
+      {
+        "id": "YxSdG",
+        "text": "Decrease in ionization energy down the group",
+        "image": null
+      }
+    ],
+    "correct_answer": "jQ2Py",
+    "solution_text": "<p>Halogens are coloured due to HOMO-LUMO transition of electrons.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/23_solu_chem_pa1.jpg\"/></p><p>On moving down the group HOMO-LUMO energy gap decreases so transition of electrons become easier from  <math><msub><mrow><msup><mrow><mi mathvariant=\"normal\">Π</mi></mrow><mrow><mi mathvariant=\"normal\">*</mi></mrow></msup></mrow><mrow><mn>2</mn><msub><mrow><mi>p</mi></mrow><mrow><mi>x</mi></mrow></msub></mrow></msub></math> to <math><msub><mrow><msup><mrow><mi mathvariant=\"normal\">σ</mi></mrow><mrow><mi mathvariant=\"normal\">*</mi></mrow></msup></mrow><mrow><mn>2</mn><msub><mrow><mi>p</mi></mrow><mrow><mi>z</mi></mrow></msub></mrow></msub></math> therefore colour intensify.</p>",
+    "solution_image": null,
+    "topic": "Periodic properties"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b33a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The increasing order of atomic radii of the following group <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn></math> elements is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "j2CmM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Al</mi><mo>&#60;</mo><mi>Ga</mi><mo>&#60;</mo><mi>In</mi><mo>&#60;</mo><mi>Tl</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Gml2c",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ga</mi><mo>&#60;</mo><mi>Al</mi><mo>&#60;</mo><mi>In</mi><mo>&#60;</mo><mi>Tl</mi></math>",
+        "image": null
+      },
+      {
+        "id": "gzqey",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Al</mi><mo>&#60;</mo><mi>In</mi><mo>&#60;</mo><mi>Ga</mi><mo>&#60;</mo><mi>Tl</mi></math>",
+        "image": null
+      },
+      {
+        "id": "o2AF1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Al</mi><mo>&#60;</mo><mi>Ga</mi><mo>&#60;</mo><mi>Tl</mi><mo>&#60;</mo><mi>In</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Gml2c",
+    "solution_text": "The order of radius of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn><mi>th</mi></math> group elements is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ga</mi><mo>&#60;</mo><mi>Al</mi><mo>&#60;</mo><mi>In</mi><mo>&#60;</mo><mi>Tl</mi></math>.<br />Reason<math><mo>&#8658;</mo></math>Due to poor shielding effect of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">d</mi></math>-orbital, radius of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ga</mi></math> is smaller than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Al</mi></math>.",
+    "solution_image": null,
+    "topic": "Periodic properties"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af5c",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "$$\n\\text { The correct statement(s) concerning the structures } E, F \\text { and } G \\text { is are }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/E1DRlpw-v7S_epyvhb6ESOm6smSseP2oHONHZp5boiU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BGndE",
+        "text": "\n$E, F$ and $G$ are resonance structures\n",
+        "image": null
+      },
+      {
+        "id": "INsTH",
+        "text": "\n$E, F$ and $E, G$ are tautomers\n",
+        "image": null
+      },
+      {
+        "id": "Sygx7",
+        "text": "\n$F$ and $G$ are geometrical isomers\n",
+        "image": null
+      },
+      {
+        "id": "yPaVs",
+        "text": "\n$F$ and $G$ are diastereomers",
+        "image": null
+      }
+    ],
+    "correct_answer": "yPaVs",
+    "solution_text": "$E$ and $F$ possess different place of atoms, in addition to electron pair, can be isomers only and not the resonance structures. Geometrical isomers are stereoisomers but not enantiomers called diastereomers",
+    "solution_image": null,
+    "topic": "Periodic properties"
+  }
+]

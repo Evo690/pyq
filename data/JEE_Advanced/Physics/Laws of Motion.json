@@ -1,0 +1,974 @@
+[
+  {
+    "question_id": "685102bf6bba689a3eb09c86",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A person sitting inside an elevator performs a weighing experiment with an object of mass 50 kg . Suppose that the variation of the height $y$ (in m ) of the elevator, from the ground, with time $t$ (in s ) is given by $y=8\\left[1+\\sin \\left(\\frac{2 \\pi t}{T}\\right)\\right]$, where $T=40 \\pi \\mathrm{~s}$. Taking acceleration due to gravity, $g=10 \\mathrm{~m} / \\mathrm{s}^2$, the maximum variation of the object's weight (in N ) as observed in the experiment is _______ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "$y=8+8 \\sin \\frac{2 \\pi t}{T}$\nWith respect to elevator, variation in weight will be\n$\\begin{aligned} & \\Delta \\mathrm{W}=\\mathrm{m}(\\Delta \\mathrm{a})_{\\max } \\\\ & \\Delta \\mathrm{W}=\\mathrm{m} \\times 2 \\omega^2 \\mathrm{~A}\\end{aligned}$\nHere elevator is performing SHM\n$\\begin{aligned} & \\Delta \\mathrm{W}=2 \\mathrm{~m} \\times\\left(\\frac{2 \\pi}{\\mathrm{~T}}\\right)^2 \\times \\mathrm{A} \\mathrm{N} \\\\ & \\Delta \\mathrm{W}=2 \\times 50 \\times\\left(\\frac{2 \\pi}{40 \\pi}\\right)^2 \\times 8 \\mathrm{~N} \\\\ & \\Delta \\mathrm{~W}=2 \\times 50 \\times \\frac{1}{400} \\times 8 \\mathrm{~N} \\\\ & \\Delta \\mathrm{~W}=\\frac{800}{400} \\mathrm{~N}=2 \\mathrm{~N}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a7df23ac7d519f9b4e2",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Put a uniform meter scale horizontally on your extended index fingers with the left one at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>cm</mi></math> and the right one at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>cm</mi></math>. When you attempt to move both the fingers slowly towards the center, initially only the left finger slips with respect to the scale and the right finger does not. After some distance, the left finger stops and the right one starts slipping. Then the right finger stops at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mi>R</mi></msub></math> from the center <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>50</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>cm</mi><mo>)</mo></math> of the scale and the left one starts slipping again. This happens because of the difference in the frictional forces on the two fingers. If the coefficients of static and dynamic friction between the fingers and the scale are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>40</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>32</mn></math>, respectively, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mi>R</mi></msub></math> (in cm)&nbsp;is___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "25.6",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2d5ba451-858e-4626-972a-a865c3a7d5c9-image.png\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/598bc5d0-8b80-48c7-87f9-63fb2aa33c41-image.png\"/>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><msup><mi>x</mi><mo>'</mo></msup><mo>=</mo><mn>40</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mo>'</mo></msup><mo>=</mo><mfrac><mn>40</mn><mn>5</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mn>4</mn><msup><mi>x</mi><mo>'</mo></msup><mo>=</mo><mn>32</mn></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4475c855-db8b-4b4f-b566-f3701dd731df-image.png\"/>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><msup><mi>x</mi><mrow><mo>'</mo><mo>'</mo></mrow></msup><mo>=</mo><mn>32</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mrow><mo>'</mo><mo>'</mo></mrow></msup><mo>=</mo><mfrac><mn>32</mn><mn>5</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mn>4</mn><msup><mi>x</mi><mrow><mo>'</mo><mo>'</mo></mrow></msup><mo>=</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>×</mo><mn>32</mn><mo>=</mo><msub><mi>x</mi><mi>R</mi></msub></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mi>R</mi></msub><mo>=</mo><mn>25</mn><mo>.</mo><mn>6</mn></math>",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a71f23ac7d519f9b477",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>A block of weight <math><mn>100</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">N</mi></math> is suspended by copper and steel wires of same cross-sectional area <math><mn>0.5</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></math> and, length <math><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi></math> and <math><mn>1</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mo>,</mo></math> respectively. Their other ends are fixed on a ceiling as shown in figure. The angles subtended by copper and steel wires with ceiling are <math><msup><mrow><mn>30</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math> and <math><msup><mrow><mn>60</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mo>,</mo></math> respectively. If elongation in copper wire is <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">C</mi></mrow></msub></mrow></mfenced></math> and elongation in steel wire is <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">S</mi></mrow></msub></mrow></mfenced><mo>,</mo></math> then the ratio <math><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">C</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mi mathvariant=\"normal\">S</mi></mrow></msub></mrow></mfrac></math> is _____.<br >[Young's modulus for copper and steel are <math><mn>1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup><mtext> </mtext><mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow><mo>/</mo><mrow><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></math> and <math><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup><mtext> </mtext><mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow><mo>/</mo><mrow><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></math> respectively]<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gyxwosaxmrirdtdurwapxqqrjbtbawwhcawhhbilfedpvpwxqz.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p>2.00<br > <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qcdwmldqyugvqmtnqrccstdzaktcytoqvhjubtjpzvcnaansqs.png\"/> <br >Resolving in components<br > <math><mo>⇒</mo><mo>∑</mo><msub><mrow><mi>F</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mn>0</mn></math> <br > <math><mo>⇒</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>S</mi></mrow></msub><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>60</mn><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>⋅</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>30</mn></math> <br > <math><mo>⇒</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>S</mi></mrow></msub><mo>⋅</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>⋅</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br > <math><mo>⇒</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>S</mi></mrow></msub><mo>=</mo><msqrt><mn>3</mn></msqrt><mo>⋅</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>C</mi></mrow></msub></math> <br > <math><mfrac><mrow><mi>Δ</mi><msub><mrow><mi>l</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow><mrow><mi>Δ</mi><msub><mrow><mi>l</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>⋅</mo><msub><mrow><mi>l</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow><mrow><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mi>S</mi></mrow></msub><mo>⋅</mo><msub><mrow><mi>l</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow></mfrac></mrow></mfrac></mrow></mfenced></math> <br > <math><mo>⇒</mo><mfrac><mrow><mi>Δ</mi><msub><mrow><mi>l</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow><mrow><mi>Δ</mi><msub><mrow><mi>l</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>l</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow><mrow><msub><mrow><mi>l</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow></mfrac></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>1</mn></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup></mrow><mrow><mn>1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>2</mn></math></p>",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a4cf23ac7d519f9b328",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "A uniform wooden stick of mass 1.6 kg and length <math><mi mathvariant=\"script\">l</mi></math> rests in an inclined manner on a smooth, vertical wall of height h <math><mfenced separators=\"|\"><mrow><mo>&#60;</mo><mi mathvariant=\"script\">l</mi></mrow></mfenced></math> such that a small portion of the stick extends beyond the wall. The reaction force of the wall on the stick is perpendicular to the stick. The stick makes an angle of <math><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></math> with the wall and the bottom of the stick is on a rough floor. The reaction of the wall on the stick is equal in magnitude to the reaction of the floor on the stick. The ratio h/ <math><mi mathvariant=\"script\">l</mi></math> and the frictional force f at the bottom of the stick are: <math><mfenced separators=\"|\"><mrow><mi>g</mi><mo>=</mo><mn>10</mn><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></mrow></mfenced></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BuBGv",
+        "text": "<math><mfrac><mrow><mi>h</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mi> </mi><mi>f</mi><mo>=</mo><mfrac><mrow><mn>16</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mi>N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "D0XLn",
+        "text": "<math><mfrac><mrow><mi>h</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mi> </mi><mi>f</mi><mo>=</mo><mfrac><mrow><mn>16</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mi>N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "QJ4wW",
+        "text": "<math><mfrac><mrow><mi>h</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mi> </mi><mi>f</mi><mo>=</mo><mfrac><mrow><mn>8</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mi>N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "6zoji",
+        "text": "<math><mfrac><mrow><mi>h</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mi>f</mi><mo>=</mo><mfrac><mrow><mn>16</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mi>N</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "6zoji",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr1_3_Ans_.jpg\"/><br >Force equation in x-direction,<br ><math><msub><mrow><mi>N</mi></mrow><mrow><mn>1</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup><mo>-</mo><mi>f</mi><mo>=</mo><mn>0</mn></mrow></mrow><mi> </mi></math> ....(i)<br >Force equation in y-direction,<br ><math><msub><mrow><mi>N</mi></mrow><mrow><mn>1</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mrow><mo>+</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><mi>m</mi><mi>g</mi><mo>=</mo><mn>0</mn></math> ....(ii)<br >Torque equation about O,<br ><math><mi>m</mi><mi>g</mi><mfrac><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>60</mn></mrow><mrow><mi>o</mi></mrow></msup><mo>-</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>1</mn></mrow></msub><mfrac><mrow><mi>h</mi></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mrow></mrow></mfrac><mo>=</mo><mn>0</mn></mrow></mrow><mi> </mi></math> ...(iii)<br >Also, given <math><msub><mrow><mi>N</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> .....(iv)<br >[Note taking reaction from floor as normal reaction only]<br >Solving (i), (ii), (iii) and (iv) we have<br ><math><mfrac><mrow><mi>h</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>16</mn></mrow></mfrac></math> and <math><mi>f</mi><mo>=</mo><mfrac><mrow><mn>16</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a3af23ac7d519f9b285",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<p>A block of mass <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">g</mi></math> another mass <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">g</mi></math> , are placed together (see figure) on an inclined plane with angle of inclination <math><mi mathvariant=\"normal\">θ</mi></math> . Various values of <math><mi mathvariant=\"normal\">θ</mi></math> are given in List I. The coefficient of friction between the block <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and the plane is always zero. The coefficient of static and dynamic friction between the block <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and the plane are equal to <math><mi mathvariant=\"normal\">μ</mi><mo>=</mo><mn>0.3</mn></math> . In List II expressions for the friction on the block <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are given. Match the correct expression of the friction in List II with the angles given in List I, and choose the correct option. The acceleration due to gravity is denoted by g.<br >[Useful information: <math><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mn>5.5</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></mrow></mfenced><mo>≈</mo><mn>0.1</mn><mo>;</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mn>11.5</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></mrow></mfenced><mo>≈</mo><mn>0.2</mn><mo>;</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mn>16.5</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></mrow></mfenced><mo>≈</mo><mn>0.3</mn></mrow></mrow></mrow></mrow></mrow></mrow></math> ]<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image19-4c601489-7ed8-4d4e-8d55-e637537cc491.png\"/><br/> </p><table border=\"1\"><tbody><tr><td> </td><td>List I</td><td> </td><td>List II</td></tr><tr><td>A.</td><td><math><mi mathvariant=\"normal\">θ</mi><mo>=</mo><msup><mrow><mn>5</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math></td><td><math><mn>P</mn><mo>.</mo></math></td><td><math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math></td></tr><tr><td>B.</td><td><math><mi mathvariant=\"normal\">θ</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math></td><td><math><mn>Q</mn><mo>.</mo></math></td><td><math><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math></td></tr><tr><td>C.</td><td><math><mi mathvariant=\"normal\">θ</mi><mo>=</mo><msup><mrow><mn>15</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math></td><td><math><mn>R</mn><mo>.</mo></math></td><td><math><mi mathvariant=\"normal\">μ</mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math></td></tr><tr><td>D.</td><td><math><mi mathvariant=\"normal\">θ</mi><mo>=</mo><msup><mrow><mn>20</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup></math></td><td><math><mn>S</mn><mo>.</mo></math></td><td><math><mi mathvariant=\"normal\">μ</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math></td></tr></tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6gF4m",
+        "text": "a-q;b-q;c-r;d-r;",
+        "image": null
+      },
+      {
+        "id": "gE7zc",
+        "text": "a-q;b-s;c-p;d-r;",
+        "image": null
+      },
+      {
+        "id": "Vmusy",
+        "text": "a-q;b-p;c-s;d-r;",
+        "image": null
+      },
+      {
+        "id": "UDSAK",
+        "text": "a-r;b-p;c-s;d-q;",
+        "image": null
+      }
+    ],
+    "correct_answer": "6gF4m",
+    "solution_text": "<p>Condition for not sliding,<br ><math><msub><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">x</mi></mrow></msub><mo>></mo><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br ><math><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">N</mi><mo>></mo><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br ><math><mn>0.3</mn><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>≥</mo><mn>30</mn><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br ><math><mn>6</mn><mo>≥</mo><mn>30</mn><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br ><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>≥</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br ><math><mn>0.2</mn><mi mathvariant=\"normal\"> </mi><mo>≥</mo><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br ><math><mo>∴</mo></math> for P, Q<br ><math><mi mathvariant=\"normal\">f</mi><mo>=</mo><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math><br >For R and S<br ><math><mi mathvariant=\"normal\">F</mi><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">max</mi></mrow><mo>⁡</mo><mrow><mo>=</mo><mi mathvariant=\"normal\">μ</mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">g</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></mrow></mrow></mrow></msub></math><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image20-2973b33f-fe67-4952-9e6e-9a57a6fa6597.png\"/></p>",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a33f23ac7d519f9b23f",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>In the figure, a ladder of mass m is shown leaning against a wall. It is in static equilibrium making an angle <math><mi mathvariant=\"normal\">θ</mi></math> with the horizontal floor. The coefficient of friction between the wall and the ladder is <math><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and that between the floor and the ladder is <math><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . The normal reaction of the wall on the ladder is <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and that of the floor is <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> If the ladder is about to slip, then<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image5-db0e8d55-3424-4441-aa8f-7b932f90418c.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XBvJI",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>≠</mo><mn>0</mn></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "bD0Zr",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>≠</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>0</mn></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "UEdcY",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>≠</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>≠</mo><mn>0</mn></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>1</mn><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "gHgP1",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>≠</mo><mn>0</mn></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "gHgP1",
+    "solution_text": "Condition of translational equilibrium<br > <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">g</mi></math> <br >Solving  <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>1</mn><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>1</mn><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math> <br >Applying torque equation about corner (left) point on the floor<br > <math><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">g</mi><mfrac><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>1</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow></math> <br >Solving  <math><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">θ</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mn>2</mn><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a19f23ac7d519f9b153",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "A small block of mass of $0.1 \\mathrm{~kg}$ lies on a fixed inclined plane PQ which makes an angle $\\theta$ with the horizontal. A horizontal force of $1 \\mathrm{~N}$ acts on the block through its centre of mass as shown in the figure.\r\n\r\nThe block remains stationary if (take $g=10 \\mathrm{~m} / \\mathrm{s}^{2}$ )\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eyWmHlpMbKkU5KNCI11wped3TI_abWjiG9pQcOAesZI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xM3Pf",
+        "text": "$\\theta=45^{\\circ}$",
+        "image": null
+      },
+      {
+        "id": "dhLrK",
+        "text": "$\\theta>45^{\\circ}$ and a frictional force acts on the block towards P.",
+        "image": null
+      },
+      {
+        "id": "5cxmM",
+        "text": "$\\theta>45^{\\circ}$ and a frictional force acts on the block towards Q.",
+        "image": null
+      },
+      {
+        "id": "xgeBh",
+        "text": "$\\theta < 45^{\\circ}$ and a frictional force acts on the block towards Q.",
+        "image": null
+      }
+    ],
+    "correct_answer": "5cxmM",
+    "solution_text": "The various forces acting on the block are as shown in the figure.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aswDGCZDDEq0RtQdOpKwJtq4gJ_Yh9XUhPtzcG6z2p4.original.fullsize.png\"><br>\r\n\r\nWhen $\\theta=45^{\\circ}, \\sin \\theta=\\cos \\theta$\r\n\r\nThe block will remain stationary and the frictional force is zero.\r\n\r\nWhen $\\theta>45^{\\circ}, \\sin \\theta>\\cos \\theta$\r\n\r\nTherefore a frictional force acts towards $Q$.\r\n\r\nWhen $\\theta < 45^{\\circ}, \\cos \\theta>\\sin \\theta$\r\n\r\nTherefore a frictional force acts towards $P$.",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a18f23ac7d519f9b14b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Two large vertical and parallel metal plates having a separation of $1 \\mathrm{~cm}$ are connected to a DC voltage source of potential difference $X$. A proton is released at rest midway between the two plates. It is found to move at $45^{\\circ}$ to the vertical JUST after release. Then $X$ is nearly",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nCflU",
+        "text": "$1 \\times 10^{-5} \\mathrm{~V}$",
+        "image": null
+      },
+      {
+        "id": "i7Sww",
+        "text": "$1 \\times 10^{-7} V$",
+        "image": null
+      },
+      {
+        "id": "mrJ9h",
+        "text": "$1 \\times 10^{-9} V$",
+        "image": null
+      },
+      {
+        "id": "uOqiy",
+        "text": "$1 \\times 10^{-10} V$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mrJ9h",
+    "solution_text": "According to the question, a proton is released at rest mid-way between the two plates and is found to move at $45^{\\circ}$, so net force is at $45^{\\circ}$ from vertical and two forces acting on the proton just after the release are as shown in the figure.\r\n\r\n$q E=m g$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PA2626pPIkCW70kNiLtlWmKMaBUca5V-vIIUOz1ALI0.original.fullsize.png\"><br>\r\n\r\n$\\therefore \\quad V=\\frac{m g d}{q}=\\frac{1.67 \\times 10^{-27} \\times 10 \\times 10^{-2}}{1.6 \\times 10^{-19}}=10^{-9} \\mathrm{~V}$",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b169f4f23ac7d519f9b001",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "A piece of wire is bent in the shape of a parabola $y=k x^2$ (y-axis vertical) with a bead of mass $m$ on it. The bead can slide on the wire without friction. It stays at the lowest point of the parabola when the wire is at rest. The wire is now accelerated parallel to the $x$-axis with the constant acceleration $a$. The distance of the new equilibrium position of the bead, where the bead can stays at rest with respect to the wire, from the $y$-axis is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "prgrP",
+        "text": "\n$\\frac{a}{g k}$\n",
+        "image": null
+      },
+      {
+        "id": "NU5mL",
+        "text": "\n$\\frac{a}{2 g k}$\n",
+        "image": null
+      },
+      {
+        "id": "z1f6n",
+        "text": "\n$\\frac{2 a}{g k}$\n",
+        "image": null
+      },
+      {
+        "id": "m1U9I",
+        "text": "\n$\\frac{a}{4 g k}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "NU5mL",
+    "solution_text": "$N \\sin \\theta=m g$\n$$\n\\begin{aligned}\nN \\cos \\theta & =m a \\\\\n\\tan \\theta & =\\frac{g}{a} \\\\\n\\cot \\theta & =\\frac{a}{g}=\\tan \\left(90^{\\circ}-\\theta\\right)=\\frac{d y}{d x}=2 k x\n\\end{aligned}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kDkPeNyYC5fMi_8lwwdUnIYuwQGNAzZla9ZDheSXGmA.original.fullsize.png\"><br>\n$\\therefore \\quad x=\\frac{a}{2 k g}$",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b169d1f23ac7d519f9aebd",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Two particles of mass $m$ each are tied at the ends of a light string of length $2 a$. The whole system is kept on a frictionless horizontal surface with the string held tight so that each mass is at a distance $a$ from the centre $P$ (as shown in the figure). Now, the mid-point of the string is pulled vertically upwards with a small but constant force $F$. As a result, the particles move towards each other on the surface.\nThe magnitude of acceleration, when the separation between them becomes $2 x$, is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Q_K7C81tVdzEH0oCE0tZ6FId-Hb5SBLzFb6esDvD5mM.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yQOVu",
+        "text": "\n$\\frac{F}{2 m} \\frac{a}{\\sqrt{a^2-x^2}}$\n",
+        "image": null
+      },
+      {
+        "id": "SuRdQ",
+        "text": "\n$\\frac{F}{2 m} \\frac{x}{\\sqrt{a^2-x^2}}$\n",
+        "image": null
+      },
+      {
+        "id": "JDHRS",
+        "text": "\n$\\frac{F}{2 m} \\frac{x}{a}$\n",
+        "image": null
+      },
+      {
+        "id": "SAWJF",
+        "text": "\n$\\frac{F}{2 m} \\frac{\\sqrt{a^2-x^2}}{x}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SuRdQ",
+    "solution_text": "6.\n$$\n\\begin{aligned}\n& 2 T \\cos \\theta=F \\\\\n& \\therefore T=\\frac{F}{2} \\sec \\theta \\\\\n& \\text { Acceleration of particle }=\\frac{T \\sin \\theta}{m}=\\frac{F \\tan \\theta}{2 m}=\\frac{F}{2 m} \\frac{x}{\\sqrt{a^2-x^2}}\n\\end{aligned}\n$$\n\n$$\n\\therefore \\text { Option (b) is correct. }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/czDNFTSOTpo3yxad4winPks0pMRQkvnS2fZ-aupjRsk.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Equilibrium of Forces"
+  },
+  {
+    "question_id": "64b16a0bf23ac7d519f9b0d6",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A block is moving on an inclined plane making an angle $45^{\\circ}$ with the horizontal and the coefficient of friction is $\\mu$. The force required to just push it up the inclined plane is 3 times the force required to just prevent it from sliding down. If we define $N=10 \\mu$, then $N$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eySCplq6WaN-Uw5HFXL6SyXyNMZS2BoAPDicdUpjwso.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/A_tLk_dZ6J3lFdcrTO-XBum_JPxphlYFyCaGnc_1-iE.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n& F_1=m g \\sin \\theta+\\mu m g \\cos \\theta \\\\\n& F_2=m g \\sin \\theta-\\mu m g \\cos \\theta\n\\end{aligned}\n$$\nGiven that, $F_1=3 F_2$\nor $\\left(\\sin 45^{\\circ}+\\mu \\cos 45^{\\circ}\\right)$\n$$\n=3\\left(\\sin 45^{\\circ}-\\mu \\cos 45^{\\circ}\\right)\n$$\nOn solving, we get $\\mu=0.5$\n$$\n\\therefore \\quad N=10 \\mu=5\n$$\n$\\therefore$ Answer is 5 .\nAnalysis of Question\nQuestion is simple. Only one has to take care of direction and magnitude of friction.",
+    "solution_image": null,
+    "topic": "Frictional force"
+  },
+  {
+    "question_id": "64b169faf23ac7d519f9b039",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A block of mass $m$ is on an inclined plane of angle $\\theta$. The coefficient of friction between the block and the plane is $\\mu$ and $\\tan \\theta>\\mu$. The block is held stationary by applying a force $P$ parallel to the plane. The direction of force pointing up the plane is taken to be positive. As $P$ is varied from $P_1=m g(\\sin \\theta-\\mu \\cos \\theta) \\quad$ to $P_2=m g(\\sin \\theta+\\mu \\cos \\theta)$, the frictional force $f$ versus $P$ graph will look like\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/A1ojR6zLwSTbNLaw_xmpcC01mA0ISZdeJy8a7wgIg1I.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kjtLY",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3J8uASe6iZWz0DOcTxIPzedKr7ohmEX9FABVqk8QJ8o.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "9A5MX",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2_rTr0Fl2IAtefXZcHvyiFZZaGPSfcwbFS78QgVmZcQ.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "ixBWw",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5QaJVuKln-jR-hVq-AZYJMVL9aaTSqhWrWc_CSxYnWA.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "EmLm1",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/q8dV5585ipXNhs0oLdXFOr58RjnItmRWxkg1FY04Ups.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kjtLY",
+    "solution_text": "When\n$$\n\\begin{aligned}\nP & =m g(\\sin \\theta-\\mu \\cos \\theta) \\\\\nf & =\\mu m g \\cos \\theta \\quad \\text { (upwards) } \\\\\n\\text { when } \\quad P & =m g \\sin \\theta \\\\\nf & =0\n\\end{aligned}\n$$\nand when $P=m g(\\sin \\theta+\\mu \\cos \\theta)$\n$$\nf=\\mu m g \\cos \\theta \\text { (downwards) }\n$$\nHence friction is first positive, then zero and then negative.\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Frictional force"
+  },
+  {
+    "question_id": "64b169eef23ac7d519f9afca",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "A block of base $10 \\mathrm{~cm} \\times 10 \\mathrm{~cm}$ and height $15 \\mathrm{~cm}$ is kept on an inclined plane. The coefficient of friction between them is $\\sqrt{3}$. The inclination $\\theta$ of this inclined plane from the horizontal plane is gradually increased from $0^{\\circ}$. Then,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4eXNV",
+        "text": "\nat $\\theta=30^{\\circ}$, the block will start sliding down the plane\n",
+        "image": null
+      },
+      {
+        "id": "cIQ2C",
+        "text": "\nthe block will remain at rest on the plane up to certain $\\theta$ and then it will topple\n",
+        "image": null
+      },
+      {
+        "id": "gnT9h",
+        "text": "\nat $\\theta=60^{\\circ}$, the block will start sliding down the plane and continue to do so at higher angles\n",
+        "image": null
+      },
+      {
+        "id": "SMmhT",
+        "text": "\nat $\\theta=60^{\\circ}$, the block will start sliding down the plane and on further increasing $\\theta$, it will topple at certain $\\theta$",
+        "image": null
+      }
+    ],
+    "correct_answer": "cIQ2C",
+    "solution_text": "Condition of sliding is $m g \\sin \\theta>\\mu m g \\cos \\theta$\nor $\\tan \\theta>\\mu$\nor $\\quad \\tan \\theta>\\sqrt{3}$\nCondition of toppling is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cM4kLzRjOM5W0qj3dToc8zuVthq00TqewrB6onmam7I.original.fullsize.png\"><br>\nTorque of $m g \\sin \\theta$ about $0>$ torque of $m g \\cos \\theta$ about\n$\\therefore \\quad(m g \\sin \\theta)\\left(\\frac{15}{2}\\right)>(m g \\cos \\theta)\\left(\\frac{10}{2}\\right)$\nor $\\quad \\tan \\theta>\\frac{2}{3}$\nWith increase in value of $\\theta$, condition of sliding is satisfied first.",
+    "solution_image": null,
+    "topic": "Frictional force"
+  },
+  {
+    "question_id": "64b169c6f23ac7d519f9ae55",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A circular disc with a groove along its diameter is placed horizontally. A block of mass $1 \\mathrm{~kg}$ is placed as shown. The coefficient of friction between the block and all surfaces of groove in contact is $\\mu=2 / 5$. The disc has an acceleration of $25 \\mathrm{~m} / \\mathrm{s}^2$. Find the acceleration of the block with respect to disc.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/HKqQm79q-3Vu0FuEB78jPiwvRnJXqOICCd975832LI8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "Normal reaction in vertical direction $N_1=m g$\nNormal reaction from side to the groove $N_2=m a \\sin 37^{\\circ}$\nTherefore, acceleration of block with respect to discs\n$$\na_r=\\frac{m a \\cos 37^{\\circ}-\\mu N_1-\\mu N_2}{m}\n$$\nSubstituting the values we get, $\\quad a_r=10 \\mathrm{~m} / \\mathrm{s}^2$",
+    "solution_image": null,
+    "topic": "Frictional force"
+  },
+  {
+    "question_id": "64b16a8ef23ac7d519f9b57b",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<p>One end of a horizontal uniform beam of weight&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi></math> and length&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math>&nbsp;is hinged on a vertical wall at point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> and its other end is supported by a light inextensible rope. The other end of the rope is fixed at point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>, at a height&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math> above the hinge at point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>. A block of weight&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mi>W</mi></math> is attached at the point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> of the beam, as shown in the figure (not to scale). The rope can sustain a maximum tension of&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfenced><mi>W</mi></math>. Which of the following statement(s) is(are) correct?</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7a933026-8e1f-4a4f-99cb-f529a1abd116-image.png\" style=\"width: 300px; height: 240px;\" />&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hfOaE",
+        "text": "The vertical component of reaction force at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>&nbsp;does not depend on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "dgP4y",
+        "text": "The horizontal component of reaction force at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>&nbsp;is equal to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi></math>&nbsp;for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn></math>.",
+        "image": null
+      },
+      {
+        "id": "F4rz4",
+        "text": "The tension in the rope is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">W</mi></math>&nbsp;for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn></math>.",
+        "image": null
+      },
+      {
+        "id": "HyApj",
+        "text": "The rope breaks if&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>&#62;</mo><mn>1</mn><mo>.</mo><mn>5</mn></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "HyApj",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a08c0803-1477-434a-87da-a3342ffb71ba-image.png\" style=\"width: 300px; height: 253px;\" />&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo></math>&nbsp;Rod is in equilibrium, net torque on the rod about&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>&nbsp;will be zero.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mfenced><mfrac><mi>l</mi><mn>2</mn></mfrac></mfenced><mo>+</mo><mi>&#945;</mi><mi>W</mi><mfenced><mi>l</mi></mfenced><mo>=</mo><mfrac><mi>T</mi><msqrt><mn>2</mn></msqrt></mfrac><mi>l</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mi>W</mi><mn>2</mn></mfrac><mo>+</mo><mi>&#945;</mi><mi>W</mi><mo>=</mo><mfrac><mi>T</mi><msqrt><mn>2</mn></msqrt></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>T</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><mi>W</mi><mfenced><mrow><mi>&#945;</mi><mo>+</mo><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfenced><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>&nbsp;</p><p>Now checking options-</p><p>(A)</p><p>Force balance on rod,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mi>v</mi></msub><mo>+</mo><mfrac><mi>T</mi><msqrt><mn>2</mn></msqrt></mfrac><mo>=</mo><mi>W</mi><mo>+</mo><mi>&#945;</mi><mi>W</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>N</mi><mi>v</mi></msub><mo>=</mo><mfenced><mrow><mi>W</mi><mo>+</mo><mi>&#945;</mi><mi>W</mi></mrow></mfenced><mo>-</mo><mfenced><mrow><mfrac><mi>W</mi><mn>2</mn></mfrac><mo>+</mo><mi>&#945;</mi><mi>W</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>N</mi><mi>v</mi></msub><mo>=</mo><mfrac><mi>W</mi><mn>2</mn></mfrac></math></p><p>Hence, option (A) is correct.</p><p>(B) Write horizontal force equation,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mi>H</mi></msub><mo>=</mo><mfrac><mi>T</mi><msqrt><mn>2</mn></msqrt></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>N</mi><mi>H</mi></msub><mo>=</mo><mi>W</mi><mfenced><mrow><mi>&#945;</mi><mo>+</mo><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfenced></math></p><p>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn></math>,&nbsp;then,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mi>H</mi></msub><mo>=</mo><mi>W</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><mi>W</mi></math></p><p>Hence, option (B) is correct.</p><p>(D)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;Maximum Tension of string&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mi mathvariant=\"normal\">W</mi></math></p><p>So,&nbsp;to break.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>&#62;</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mi mathvariant=\"normal\">W</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msqrt><mn>2</mn></msqrt><mi mathvariant=\"normal\">W</mi><mfenced><mrow><mi mathvariant=\"normal\">&#945;</mi><mo>+</mo><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfenced><mo>&#62;</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mi mathvariant=\"normal\">W</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi mathvariant=\"normal\">&#945;</mi><mo>&#62;</mo><mn>1</mn><mo>.</mo><mn>5</mn></math></p><p>So, string will break.</p><p>option (D) correct.</p>",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a76f23ac7d519f9b4a5",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "<p>A block of mass <math><mn>2</mn><mi mathvariant=\"normal\">M</mi></math> is attached to a massless spring with spring-constant <math><mi mathvariant=\"normal\">k</mi><mo>.</mo></math> This block is connected to two other blocks of masses <math><mi mathvariant=\"normal\">M</mi></math> and <math><mn>2</mn><mi mathvariant=\"normal\">M</mi></math> using two massless pulleys and strings. The accelerations of the blocks are <math><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mtext> </mtext><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>3</mn></mrow></msub></math> as shown in figure. The system is released from rest with the spring in its unstretched state. The maximum extension of the spring is <math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>.</mo></math> Which of the following option(s) is/are correct?<br/>[ <math><mi mathvariant=\"normal\">g</mi></math> is the acceleration due to gravity. Neglect friction]<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a8f796a7-fd32-4111-9acf-8877e6c69118-image20.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VHEme",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">k</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "h2fX7",
+        "text": "When spring achieves an extension of <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></math> for the first time, the speed of the block connected to the spring is <math><mn>3</mn><mi mathvariant=\"normal\">g</mi><msqrt><mfrac><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>5</mn><mi mathvariant=\"normal\">k</mi></mrow></mfrac></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "VQ4Hb",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "OVsbj",
+        "text": "At an extension of <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac></math> of the spring, the magnitude of acceleration of the block connected to the spring is <math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>10</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "VQ4Hb",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/09b699d9-7e83-4187-8ccd-3ca9c9e42d6c-image21.png\"/> <br/>Using string constraint <br/><math><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br/><math><mo>⇒</mo><mn>2</mn><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></msub></math> <br/><math><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> is correct. <br/>for other options use <math><mi>m</mi></math> equivalent <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4dba6f90-2038-4380-ba6c-ceb2c2695efd-image22.png\"/> <br/>Equivalent mass <br/>Or Reduced mass <br/><math><msub><mrow><mi>m</mi></mrow><mrow><mi>e</mi><mi>q</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>×</mo><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math> (for a two-mass system) <br/><math><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mn>2</mn><mi>m</mi></mrow></mfenced><mo>×</mo><mi>m</mi></mrow><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mi>m</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn><mi>m</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math> <br/><math><mo>⇒</mo><mi>T</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn><mi>m</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>.</mo><mi>g</mi></math> <br/><math><mo>∴</mo><mn>2</mn><mi>T</mi><mo>=</mo><mn>2</mn><mo>.</mo><mfrac><mrow><mn>4</mn><mi>m</mi><mi>g</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>8</mn><mi>m</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mi>g</mi></math> <br/><math><mo>⇒</mo><msub><mrow><mi>m</mi></mrow><mrow><mi>e</mi><mi>q</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>8</mn><mi>m</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math> <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6ad10ded-dcf6-48f2-bf60-a13a548aa9e5-image23.png\"/> <br/><em>Using mechanical energy conservation</em> <br/><math><mo>⇒</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msubsup><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>8</mn><mi>m</mi><mi>g</mi></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></math> <br/><math><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>16</mn><mi>m</mi><mi>g</mi></mrow><mrow><mn>3</mn><mi>k</mi></mrow></mfrac><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> <em>is incorrect</em> <br/><em>Option</em> <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced><mo>⇒</mo><msub><mrow><mi>V</mi></mrow><mrow><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">x</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><mi>ω</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><msqrt><mfrac><mrow><mi>k</mi></mrow><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mfrac><mrow><mn>8</mn><mi>m</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><msqrt><mfrac><mrow><mn>3</mn><mi>k</mi></mrow><mrow><mn>14</mn><mi>m</mi></mrow></mfrac></msqrt><mo>=</mo><mi>g</mi><msqrt><mfrac><mrow><mn>32</mn></mrow><mrow><mn>21</mn><mi>k</mi></mrow></mfrac></msqrt></math> <br/>Option <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced><mo>⇒</mo><msub><mrow><mi>a</mi></mrow><mrow><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac><msup><mrow><mi>ω</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac><mfrac><mrow><mn>3</mn><mi>k</mi></mrow><mrow><mn>14</mn><mi>m</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi>k</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>42</mn><mi>m</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>8</mn><mi>g</mi></mrow><mrow><mn>21</mn></mrow></mfrac></math> <br/>For a simple harmonic motion <math><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⇒</mo></math> maximum displacement from extreme to extreme <br/><math><mo>⇒</mo><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>2</mn><mi>A</mi><mo>⇒</mo><mi>A</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br/>and <math><mi>ω</mi><mo>=</mo><msqrt><mfrac><mrow><mi>k</mi></mrow><mrow><mi>m</mi></mrow></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mrow><mn>3</mn><mi>k</mi></mrow><mrow><mn>14</mn><mi>m</mi></mrow></mfrac></msqrt></math> <br/><math><mo>∴</mo><msub><mrow><mi>v</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">x</mi></mrow></msub><mo>=</mo><mi>A</mi><mo>.</mo><mi>ω</mi></math> <br/>and <math><mi>a</mi><mo>=</mo><msup><mrow><mi>ω</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>.</mo><mi>x</mi></math>",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a6bf23ac7d519f9b43c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "A particle, of mass <math><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>&#160;kg</mi></math> and charge <math><mn>1.0</mn><mi>&#160;</mi><mn>C</mn></math>, is initially at rest. At time <math><mi>t</mi><mo>=</mo><mn>0</mn></math>, the particle comes under the influence of an electric field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>E</mi><mo>&#8594;</mo></mover><mfenced separators=\"|\"><mi>t</mi></mfenced><mo>=</mo><msub><mi>E</mi><mn>0</mn></msub><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mi>&#160;</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></math> where <math><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>1.0</mn><mi>&#160;N</mi><mi>&#160;</mi><msup><mrow><mn>C</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and <math><mi>&#969;</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mi>&#160;rad</mi><mi>&#160;</mi><msup><mrow><mn>s</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. Consider the effect of only the electrical force on the particle. Then the maximum speed, in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>m</mn><mo>&#160;</mo><msup><mn>s</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, attained by the particle at subsequent times is ____________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>&#160;kg</mi><mo>,</mo><mi>&#160;</mi><mi>&#160;</mi><mi>q</mi><mo>=</mo><mn>1&#160;</mn><mn>C</mn><mo>,</mo><mi>&#160;</mi><mi>t</mi><mo>=</mo><mn>0</mn></math><br />Force on particle will be<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>=</mo><mi>q</mi><mi>E</mi><mo>=</mo><mi>q</mi><msub><mi>E</mi><mn>0</mn></msub><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math><br />At <math><msub><mrow><mi>v</mi></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>,</mo><mi>&#160;</mi><mi>F</mi><mo>=</mo><mn>0</mn></math> <math><mo>&#8658;</mo><mi>q</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><msub> <mi>t</mi> <mi>o</mi> </msub> <mo>=</mo><mn>0</mn></mrow> </mrow></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#969;</mi><msub><mi>t</mi><mi>o</mi></msub><mo>=</mo><mi>&#960;</mi></math><br /><math><mi>F</mi><mo>=</mo><mi>q</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><mi>t</mi></mrow></mrow></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>d</mn><mi>v</mi></mrow><mrow><mn>d</mn><mi>t</mi></mrow></mfrac><mo>=</mo><mi>q</mi><mfrac><msub><mi>E</mi><mn>0</mn></msub><mi>m</mi></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mo>&#8747;</mo><mn>0</mn><mi>v</mi></msubsup><mn>d</mn><mi>v</mi><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mrow><mi>&#960;</mi><mo>&#8725;</mo><mi>&#969;</mi></mrow></msubsup><mfrac><mrow><mi>q</mi><msub><mi>E</mi><mn>0</mn></msub></mrow><mi>m</mi></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mo>&#160;</mo><mn>d</mn><mi>t</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>-</mo><mn>0</mn><mo>=</mo><mfrac><mrow><mi>q</mi><msub><mi>E</mi><mn>0</mn></msub></mrow><mrow><mi>m</mi><mi>&#969;</mi></mrow></mfrac><msubsup><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mo>-</mo><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></mrow></mfenced><mn>0</mn><mrow><mi>&#960;</mi><mo>&#8725;</mo><mi>&#969;</mi></mrow></msubsup><mi>&#160;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>-</mo><mn>0</mn><mo>=</mo><mfrac><mrow><mi>q</mi><msub><mi>E</mi><mn>0</mn></msub></mrow><mrow><mi>m</mi><mi>&#969;</mi></mrow></mfrac><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><mi>cos</mi><mfenced><mi>&#960;</mi></mfenced></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi>cos</mi><mfenced><mn>0</mn></mfenced></mrow></mfenced></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#215;</mo><mn>1</mn></mrow><mrow><mi>m</mi><mi>&#969;</mi></mrow></mfrac><mo>&#215;</mo><mn>2</mn><mo>=</mo><mn>2</mn><mo>&#160;m</mo><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a6af23ac7d519f9b43a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "A solid horizontal surface is covered with a thin layer of oil. A rectangular block of mass <math><mi>m</mi><mo>=</mo><mn>0.4</mn><mi>k</mi><mi>g</mi></math> is at rest on this surface. An impulse of <math><mn>1.0</mn><mi>&#160;</mi><mi>N</mi><mi>&#160;</mi><mi>s</mi></math> is applied to the block at time <math><mi>t</mi><mo>=</mo><mn>0</mn></math> so that it starts moving along the x-axis with a velocity <math><mi>v</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi></mrow><mrow><mi>&#964;</mi></mrow></mfrac></mrow></msup></math> , where <math><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub></math> is a constant and <math><mi>&#964;</mi><mo>=</mo><mn>4</mn></math> . The displacement of the block, in meter, at <math><mi>t</mi><mo>=</mo><mi>&#964;</mi></math> is __________. Take <math><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>0.37</mn></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6.3",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/306344.jpg\"/><br ><math><mi>v</mi><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi></mrow><mrow><mi>τ</mi></mrow></mfrac></mrow></msup></math><br ><math><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi>J</mi></mrow><mrow><mi>m</mi></mrow></mfrac><mo>=</mo><mn>2.5</mn><mi> </mi><mrow><mrow><mi>m</mi></mrow><mo>/</mo><mrow><mi>s</mi></mrow></mrow></math><br ><math><mi>v</mi><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi></mrow><mrow><mi>τ</mi></mrow></mfrac></mrow></msup></math><br ><math><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi></mrow><mrow><mi>τ</mi></mrow></mfrac></mrow></msup></math><br ><math><mrow><msubsup><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>d</mi><mi>x</mi></mrow></mrow><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mrow><msubsup><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>τ</mi></mrow></msubsup><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi></mrow><mrow><mi>τ</mi></mrow></mfrac></mrow></msup><mi>d</mi><mi>t</mi></mrow></mrow></math><br ><math><mrow><mo stretchy=\"false\">∫</mo><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>x</mi></mrow></msup><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>x</mi></mrow></msup></mrow><mrow><mo>-</mo><mn>1</mn></mrow></mfrac></mrow></mrow></math><br ><math><mi>x</mi><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><msubsup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi></mrow><mrow><mi>τ</mi></mrow></mfrac></mrow></msup></mrow><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>τ</mi></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>0</mn></mrow><mrow><mi>τ</mi></mrow></msubsup></math><br ><math><mi>x</mi><mo>=</mo><mn>2.5</mn><mfenced separators=\"|\"><mrow><mo>-</mo><mn>4</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>0</mn></mrow></msup></mrow></mfenced></math><br ><math><mi>x</mi><mo>=</mo><mn>25</mn><mfenced separators=\"|\"><mrow><mo>-</mo><mn>4</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>0.37</mn><mo>-</mo><mn>1</mn></mrow></mfenced></math><br ><math><mi>x</mi><mo>=</mo><mn>6.30</mn><mi> </mi></math>",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a6af23ac7d519f9b434",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "A particle of mass <math><mi>m</mi></math> is initially at rest at the origin. It is subjected to a force and starts moving along the x - axis. Its kinetic energy changes with time as <math><mrow><mrow><mi>d</mi><mi>K</mi></mrow><mo>/</mo><mrow><mi>d</mi><mi>t</mi></mrow></mrow><mo>=</mo><mi>&#947;</mi><mi>t</mi><mo>,</mo></math> where <math><mi>&#947;</mi></math> is a positive constant of appropriate dimensions. Which of the following statements is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HWqDq",
+        "text": "The force applied on the particle is constant",
+        "image": null
+      },
+      {
+        "id": "kBE1P",
+        "text": "The speed of the particle is proportional to time",
+        "image": null
+      },
+      {
+        "id": "BCJGp",
+        "text": "The distance of the particle from the origin increases linearly with time",
+        "image": null
+      },
+      {
+        "id": "g3AiF",
+        "text": "Since force is constant, it is conservative.",
+        "image": null
+      }
+    ],
+    "correct_answer": "g3AiF",
+    "solution_text": "<p>Given the change in kinetic energy<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>k</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>&#947;</mi><mi>t</mi></math>.</p><p>Kinetic energy is expressed as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></math>.<br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mfrac><mrow><mi>d</mi><mi>k</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>m</mi><mi>v</mi><mfrac><mrow><mi>d</mi><mi>v</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>&#947;</mi><mi>t</mi></math><br />Integrating the above relation,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><msubsup><mo>&#8747;</mo><mn>0</mn><mi>v</mi></msubsup><mi>v</mi><mi>d</mi><mi>v</mi><mo>=</mo><mi>&#947;</mi><msubsup><mo>&#8747;</mo><mn>0</mn><mi>t</mi></msubsup><mi>t</mi><mi>d</mi><mi>t</mi></math><br /><math><mfrac><mrow><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>&#947;</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac></math><br /><math><mi>v</mi><mo>=</mo><msqrt><mfrac><mrow><mi>&#947;</mi></mrow><mrow><mi>m</mi></mrow></mfrac></msqrt><mi>t</mi><mo>;</mo><mrow> <mi>&#965;</mi><mo>&#8733;</mo><mi>t</mi></mrow> </math> ... (i)<br /><math><mi>a</mi><mo>=</mo><mfrac><mrow><mi>d</mi><mi>v</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><msqrt><mfrac><mrow><mi>&#947;</mi></mrow><mrow><mi>m</mi></mrow></mfrac></msqrt><mo>=</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi></math><br />Since <math><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>F</mi><mo>=</mo><mi>m</mi><msqrt><mfrac><mrow><mi>&#947;</mi></mrow><mrow><mi>m</mi></mrow></mfrac></msqrt><mo>=</mo><msqrt><mi>&#947;</mi><mi>m</mi></msqrt><mo>=</mo><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi></math></p>",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a3af23ac7d519f9b282",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "A person in a lift is holding a water jar, which has a small hole at the lower end of its side. When the lift is at rest, the water jet coming out of the hole hits the floor of the lift at a distance d of 1.2 m from the person. In the following, state of the lift&#39;s motion is given in List I and the distance where the water jet hits the floor of the lift is given in List II. Match the statements from List I with those in List II and select the correct answer using the code given below the lists.<br />&nbsp;<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>List I</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>List II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A.</td>\t\t\t<td>Lift is accelerating vertically up.</td>\t\t\t<td><math><mo>P.</mo></math></td>\t\t\t<td><math><mi mathvariant=\"normal\">d</mi><mo>=</mo><mn>1.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B.</td>\t\t\t<td>Lift is accelerating vertically down with an acceleration less than the gravitational acceleration.</td>\t\t\t<td><math><mo>Q.</mo></math></td>\t\t\t<td><math><mi mathvariant=\"normal\">d</mi><mo>&#62;</mo><mn>1.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>C.</td>\t\t\t<td>Lift is moving vertically up with constant speed.</td>\t\t\t<td><math><mo>R.</mo></math></td>\t\t\t<td><math><mi mathvariant=\"normal\">d</mi><mo>&#60;</mo><mn>1.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>D.</td>\t\t\t<td>Lift is falling freely.</td>\t\t\t<td><math><mo>S.</mo></math></td>\t\t\t<td>No water leaks out of the jar</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Tjm2z",
+        "text": "a-s;b-r;c-q;d-p;",
+        "image": null
+      },
+      {
+        "id": "Hv6ae",
+        "text": "a-p;b-p;c-p;d-s;",
+        "image": null
+      },
+      {
+        "id": "RfSFY",
+        "text": "a-p;b-s;c-q;d-r;",
+        "image": null
+      },
+      {
+        "id": "1Rysg",
+        "text": "a-q;b-p;c-s;d-r;",
+        "image": null
+      }
+    ],
+    "correct_answer": "Hv6ae",
+    "solution_text": "In P, Q, R no horizontal velocity is imparted to falling water, so d remains same.<br />In S, since its free fall, <math><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">f</mi></mrow></msub><mo>=</mo><mn>0</mn></math><br /><math><mo>∴</mo></math> liquid won't fall with respect to lift.",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b205",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nA small block of mass $1 \\mathrm{~kg}$ is released from rest at the top of a rough track. The track is a circular arc of radius $40 \\mathrm{~m}$. The block slides along the track without toppling and a frictional force acts on it in the direction opposite to the instantaneous velocity. The work done in overcoming the friction up to the point $Q$, as shown in the figure below, is $150 \\mathrm{~J}$. (Take the acceleration due to gravity, $g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$ ).\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xCmT1TShnc_uiIeV9gqvna_7kg9LLn0UV7gHoW3oI3A.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe magnitude of the normal reaction that acts on the block at the point $Q$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JRu8r",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "hWWxV",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "QgeO5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "gu8gv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>225</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "JRu8r",
+    "solution_text": "From FBD<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>-</mo><mi>m</mi><mi>g</mi><mi>sin</mi><mn>30</mn><mo>&#176;</mo><mo>=</mo><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac><mspace linebreak=\"newline\"/><mo>&#8658;</mo><mi>N</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#215;</mo><msup><mfenced><mn>10</mn></mfenced><mn>2</mn></msup></mrow><mn>40</mn></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn><mo>&#215;</mo><mn>10</mn></mrow><mn>2</mn></mfrac><mspace linebreak=\"newline\"/><mo>&#8658;</mo><mi>N</mi><mo>=</mo><mn>7</mn><mo>.5&#160;</mo><mi mathvariant=\"normal\">N</mi></math>",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b169e7f23ac7d519f9af8c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Statement 1 It is easier to pull a heavy object than to push it on a level ground. \nand Statement 2 The magnitude of frictional force depends on the nature of the two surfaces in contact.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YE319",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "Er3PF",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "8Qu9Q",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "1d8Xj",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "Er3PF",
+    "solution_text": "Both statements are correct. But statement-2, does not explain correctly, statement- 1 . Correct explanation is : \"There is increase in nomal reaction when the object is pushed and there is decrease in normal reaction when the object is pulled (but strictly not horizontally).",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b169d9f23ac7d519f9af03",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I A cloth covers a table. Some dishes are kept on it. The cloth can be pulled out without dislodging the dishes from the table.\nStatement II For every action there is an equal and opposite reaction.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BeX8I",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement.\n",
+        "image": null
+      },
+      {
+        "id": "5HwWK",
+        "text": "\nStatement I is true, Statement II is true; Statement II is NOT a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "fNiUR",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "sFTFt",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "5HwWK",
+    "solution_text": "The cloth can be pulled out without dislodging the dishes from the table due to law of inertia, which is Newton's first law. While the Statement II is true, but it is Newton's third law.\n$\\therefore$ Correct option is (b).",
+    "solution_image": null,
+    "topic": "Newton's laws of motion"
+  },
+  {
+    "question_id": "64b16a82f23ac7d519f9b513",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "A student skates up a ramp that makes an angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mo>°</mo></math> with the horizontal. He/she starts (as shown in the figure) at the bottom of the ramp with speed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>0</mn></msub></math> and wants to turn around over a semicircular path <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi><mi>z</mi></math> of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> during which he/she reaches a maximum height <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi></math> (at point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>) from the ground as shown in the figure. Assume that the energy loss is negligible and the force required for this turn at the highest point is provided by his/her weight only. Then (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math> is the acceleration due to gravity)\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/66e08bba-d1f8-4734-be3d-a60359ebd566-image.png\"/>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3Cj4s",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup><mo>-</mo><mn>2</mn><mi>g</mi><mi>h</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "VnRAu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup><mo>-</mo><mn>2</mn><mi>g</mi><mi>h</mi><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mi>g</mi><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "c5quF",
+        "text": "the centripetal force required at points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi></math> is zero",
+        "image": null
+      },
+      {
+        "id": "HpAFU",
+        "text": "the centripetal force required is maximum at points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "HpAFU",
+    "solution_text": "<p>Speed at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi></math> is equal and also maximum in circular track.</p><p>From energy conversation,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup><mo>=</mo><mi>m</mi><mi>g</mi><mi>h</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></math>&nbsp; &nbsp; &nbsp; .......(1)</p><p>at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mtext>,</mtext><mo>&#160;</mo><mo mathvariant=\"italic\">mg</mo><mi>sin</mi><mn>30</mn><mo>&#176;</mo><mo>=</mo><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>v</mi><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mi>R</mi><mi>g</mi></mrow><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;From equation (1)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup><mo>-</mo><mn>2</mn><mi>g</mi><mi>h</mi><mo>=</mo><mfrac><mrow><mi>R</mi><mi>g</mi></mrow><mn>2</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Non-uniform Circular Motion"
+  },
+  {
+    "question_id": "64b16a64f23ac7d519f9b3fe",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "The potential energy of a particle of mass m at a distance r from a fixed point O is given by <math><mi>V</mi><mfenced separators=\"|\"><mrow><mi>r</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi>k</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>/</mo><mrow><mn>2</mn></mrow></mrow></math>, where k is a positive constant of appropriate dimensions. This particle is moving in a circular orbit of radius R about the point O. If v is the speed of the particle and L is the magnitude of its angular momentum about O, which of the following statements is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VJKV2",
+        "text": "<math><mi>v</mi><mo>=</mo><msqrt><mfrac><mrow><mi>k</mi></mrow><mrow><mn>2</mn><mi>m</mi></mrow></mfrac></msqrt><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "QApYl",
+        "text": "<math><mi>v</mi><mo>=</mo><msqrt><mfrac><mrow><mi>k</mi></mrow><mrow><mi>m</mi></mrow></mfrac></msqrt><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Qz3xQ",
+        "text": "<math><mi>L</mi><mo>=</mo><msqrt><mi>m</mi><mi>k</mi></msqrt><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "ifoLj",
+        "text": "<math><mi>L</mi><mo>=</mo><msqrt><mfrac><mrow><mi>m</mi><mi>k</mi></mrow><mrow><mn>2</mn></mrow></mfrac></msqrt><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Qz3xQ",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/lekulealzuuipcxqnbqcnlambcfsmdggrvfoxmsnlmnsalyshv.jpeg\"/><br ><math><mi>V</mi><mo>=</mo><mfrac><mrow><mi>k</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math> <mrow> <mi>L</mi><mo>=</mo><mi>m</mi><mi>v</mi><mi>R</mi></mrow> </math><br ><math> <mrow> <mo>=</mo><mi>m</mi><msqrt> <mrow> <mfrac> <mi>k</mi> <mi>m</mi> </mfrac> </mrow> </msqrt> <mo> </mo><mi>R</mi><mo>.</mo><mi>R</mi></mrow> </math><br ><math> <mrow> <mo>=</mo><msqrt> <mrow> <mi>m</mi><mi>k</mi></mrow> </msqrt> <mo> </mo><msup> <mi>R</mi> <mn>2</mn> </msup> </mrow> </math><br ><math><mi>L</mi><mo>=</mo><mroot><mrow><mfrac><mrow><mi>k</mi></mrow><mrow><mi>m</mi></mrow></mfrac><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>m</mi></mrow></mroot></math>",
+    "solution_image": null,
+    "topic": "Non-uniform Circular Motion"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b36b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nA frame of reference that is accelerated with respect to an inertial frame of reference is called a non-inertial frame of reference. A coordinate system fixed on a circular disc rotating about a fixed axis with a constant angular velocity $\\omega$ is an example of a non-inertial frame of reference.\r\n\r\nThe relationship between the force $\\vec{F}_{\\text {rot }}$ experienced by a particle of mass $m$ moving on the rotating disc and the force $\\vec{F}_{\\text {in }}$ experienced by the particle in an inertial frame of reference is\r\n\r\n$\\vec{F}_{\\mathrm{rot}}=\\vec{F}_{\\mathrm{in}}+2 m\\left(\\vec{v}_{\\mathrm{rot}} \\times \\vec{\\omega}\\right)+m(\\vec{\\omega} \\times \\vec{r}) \\times \\vec{\\omega}$,\r\n\r\nwhere $\\vec{v}_{\\text {rot }}$ is the velocity of the particle in the rotating frame of reference and $\\vec{r}$ is the position vector of the particle with respect to the centre of the disc.\r\n\r\nNow consider a smooth slot along a diameter of a disc of radius $R$ rotating counter-clockwise with a constant angular speed $\\omega$ about its vertical axis through its center. We assign a coordinate system with the origin at the center of the disc, the $x$-axis along the slot, the $y$-axis perpendicular to the slot and the $z$-axis along the rotation axis $(\\vec{\\omega}=\\omega \\hat{k}) .$ A small block of mass $m$ is gently placed in the slot at $\\vec{r}=(R / 2) \\hat{i}$ at $t=0$ and is constrained to move only along the slot.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GT8zr0-lHYO_8Q4y7JZTN-Xclylqnux5f6VlV-FpH-0.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe net reaction of the disc on the block is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PQMBc",
+        "text": "<math><mo>-</mo><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><mi>t</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>-</mo><mi>m</mi><mi>g</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "3OwzP",
+        "text": "<math><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><mi>t</mi><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>-</mo><mi>m</mi><mi>g</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "QNs5b",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>m</mi><mi>g</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "P0Tz1",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>m</mi><mi>g</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "QNs5b",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_16_Ans_.jpg\" style=\"width: 215px; height: 157px;\" /><br /><math><msub><mrow><mover accent=\"true\"><mrow><mi>N</mi></mrow><mo>&#8594;</mo></mover></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi>m</mi><mi>g</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math><br /><math><msub><mrow><mover accent=\"true\"><mrow><mi>N</mi></mrow><mo>^</mo></mover></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><mi>m</mi><mfenced separators=\"|\"><mrow><msubsup><mrow><mi>V</mi></mrow><mrow><mi>r</mi><mi>o</mi><mi>t</mi></mrow><mrow><mi>&#8242;</mi></mrow></msubsup><mo>&#215;</mo><mover accent=\"true\"><mrow><mi>&#969;</mi></mrow><mo>&#8594;</mo></mover></mrow></mfenced><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math><br /><math><mo>=</mo><mn>2</mn><mi>m</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mi>&#969;</mi><mi>R</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced></mrow></mfenced><mi>&#969;</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mi>&#160;</mi></math><br /><math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math><br />Total reaction on block <math><mo>=</mo><msub><mrow><mover accent=\"true\"><mrow><mi>N</mi></mrow><mo>&#8594;</mo></mover></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mover accent=\"true\"><mrow><mi>N</mi></mrow><mo>&#8594;</mo></mover></mrow><mrow><mn>2</mn></mrow></msub></math><br /><math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>m</mi><mi>g</mi><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math>",
+    "solution_image": null,
+    "topic": "Non-uniform Circular Motion"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b36a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nA frame of reference that is accelerated with respect to an inertial frame of reference is called a non-inertial frame of reference. A coordinate system fixed on a circular disc rotating about a fixed axis with a constant angular velocity $\\omega$ is an example of a non-inertial frame of reference.\r\n\r\nThe relationship between the force $\\vec{F}_{\\text {rot }}$ experienced by a particle of mass $m$ moving on the rotating disc and the force $\\vec{F}_{\\text {in }}$ experienced by the particle in an inertial frame of reference is\r\n\r\n$\\vec{F}_{\\mathrm{rot}}=\\vec{F}_{\\mathrm{in}}+2 m\\left(\\vec{v}_{\\mathrm{rot}} \\times \\vec{\\omega}\\right)+m(\\vec{\\omega} \\times \\vec{r}) \\times \\vec{\\omega}$,\r\n\r\nwhere $\\vec{v}_{\\text {rot }}$ is the velocity of the particle in the rotating frame of reference and $\\vec{r}$ is the position vector of the particle with respect to the centre of the disc.\r\n\r\nNow consider a smooth slot along a diameter of a disc of radius $R$ rotating counter-clockwise with a constant angular speed $\\omega$ about its vertical axis through its center. We assign a coordinate system with the origin at the center of the disc, the $x$-axis along the slot, the $y$-axis perpendicular to the slot and the $z$-axis along the rotation axis $(\\vec{\\omega}=\\omega \\hat{k}) .$ A small block of mass $m$ is gently placed in the slot at $\\vec{r}=(R / 2) \\hat{i}$ at $t=0$ and is constrained to move only along the slot.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GT8zr0-lHYO_8Q4y7JZTN-Xclylqnux5f6VlV-FpH-0.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe distance $r$ of the block at time $t$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "T55Dq",
+        "text": "<math><mfrac><mrow><mi>R</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>+</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "yMRod",
+        "text": "<math><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "DBZcr",
+        "text": "<math><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><mi>t</mi></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "82o9G",
+        "text": "<math><mfrac><mrow><mi>R</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>+</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "82o9G",
+    "solution_text": "Force on block along slot <math><mo>=</mo><mi>m</mi><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>r</mi><mo>=</mo><mi>m</mi><mi>a</mi><mo>=</mo><mi>m</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>v</mi><mi>d</mi><mi>v</mi></mrow><mrow><mi>d</mi><mi>r</mi></mrow></mfrac></mrow></mfenced></math><br /><math><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mn>0</mn></mrow><mrow><mi>v</mi></mrow></munderover><mrow><mi>v</mi><mi>d</mi><mi>v</mi></mrow></mrow><mo>=</mo><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mi>r</mi></mrow></munderover><mrow><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>r</mi><mi>d</mi><mi>r</mi></mrow></mrow></math><br /><math><mfrac><mrow><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mi>&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>v</mi><mo>=</mo><mi>&#969;</mi><msqrt><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mi>d</mi><mi>r</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mfrac><mrow><mi>R</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow><mrow><mi>r</mi></mrow></munderover><mrow><mfrac><mrow><mi>d</mi><mi>r</mi></mrow><mrow><msqrt><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></msqrt></mrow></mfrac></mrow></mrow><mo>=</mo><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mn>0</mn></mrow><mrow><mi>t</mi></mrow></munderover><mrow><mi>&#969;</mi><mi>d</mi><mi>t</mi></mrow></mrow></math><br /><math><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>r</mi><mo>+</mo><msqrt><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></msqrt></mrow><mrow><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac></mrow></mfenced><mo>-</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>+</mo><msqrt><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></msqrt></mrow><mrow><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac></mrow></mfenced><mo>=</mo><mi>&#969;</mi><mi>t</mi></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>r</mi><mo>+</mo><msqrt><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>e</mi><mo>^</mo><mi>&#969;</mi><mi>t</mi></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac><mi>&#160;</mi><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>+</mo><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn><mi>r</mi><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>r</mi><mo>=</mo><mfrac><mrow><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>+</mo><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac></mrow><mrow><mi>R</mi><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>&#969;</mi><mi>t</mi></mrow></msup><mo>+</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#969;</mi><mi>t</mi></mrow></msup></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Non-uniform Circular Motion"
+  },
+  {
+    "question_id": "64b16a39f23ac7d519f9b278",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<p>A wire, which passes through the hole in a small bead, is bent in the form of quarter of a circle. The wire is fixed vertically on ground as shown in the figure. The bead is released from near the top of the wire and it slides along the wire without friction. As the bead moves from A to B, the force it applies on the wire is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image8-f4ee3169-20e1-41a2-958d-24ba5a6df481.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yZVYr",
+        "text": "always radially outwards.",
+        "image": null
+      },
+      {
+        "id": "jTma4",
+        "text": "always radially inwards.",
+        "image": null
+      },
+      {
+        "id": "1oaEr",
+        "text": "radially outwards initially and radially inwards later.",
+        "image": null
+      },
+      {
+        "id": "JeZ35",
+        "text": "radially inwards initially and radially outwards later.",
+        "image": null
+      }
+    ],
+    "correct_answer": "JeZ35",
+    "solution_text": "Initially bead is applying radially inward normal force.   <br >During motion at an instant, N = 0, after that N will act radially outward.",
+    "solution_image": null,
+    "topic": "Non-uniform Circular Motion"
+  },
+  {
+    "question_id": "64b16a26f23ac7d519f9b1cd",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A bob of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>, suspended by a string of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>1</mn></msub></math>, is given a minimum velocity required to complete a full circle in the vertical plane. At the highest point, it collides elastically with another bob of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>,&nbsp;suspended by a string of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>2</mn></msub></math>, which is initially at rest. Both the strings are mass-less and inextensible. If the second bob, after collision acquires the minimum speed required to complete a full circle in the vertical plane, the ratio&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>l</mi><mn>1</mn></msub><msub><mi>l</mi><mn>2</mn></msub></mfrac></math>&nbsp;is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p style=\"text-align: justify;\"><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012552_AnsExp1_1..jpg\"/><br/>As shown in the figure shown above, the minimum speed required by the bob of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> attached to the string of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>1</mn></msub></math> in order to complete the full circle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>5</mn><mi>g</mi><msub><mi>l</mi><mn>1</mn></msub></msqrt></math>.<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012552_AnsExp1_2..jpg\"/><br/>When the bob goes to the highest point, its speed becomes <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>g</mi><msub><mi>l</mi><mn>1</mn></msub></msqrt></math>. Here, it strikes with the identical mass, which is tied to the string of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>2</mn></msub></math>. The speed delivered to the object is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>g</mi><msub><mi>l</mi><mn>1</mn></msub></msqrt></math>. This should be equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>5</mn><mi>g</mi><msub><mi>l</mi><mn>2</mn></msub></msqrt></math> so that this bob could complete a full circle.   <br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>g</mi><msub><mi>l</mi><mn>1</mn></msub></msqrt><mo>=</mo><msqrt><mn>5</mn><mi>g</mi><msub><mi>l</mi><mn>2</mn></msub></msqrt></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>g</mi><msub><mi>l</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn><mi>g</mi><msub><mi>l</mi><mn>2</mn></msub></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><msub><mi>l</mi><mn>1</mn></msub><msub><mi>l</mi><mn>2</mn></msub></mfrac><mo>=</mo><mn>5</mn></math></p>",
+    "solution_image": null,
+    "topic": "Non-uniform Circular Motion"
+  },
+  {
+    "question_id": "64b169c3f23ac7d519f9ae41",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "System shown in figure is in equilibrium and at rest. The spring and string are massless, now the string is cut. The acceleration of mass $2 m$ and $m$ just after the string is cut will be\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/F_gWz2vcxbWlp6GGjRBL5jHFqffW0hYXVd6i_8l9-YM.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5dELI",
+        "text": "\n$g / 2$ upwards, $g$ downwards\n",
+        "image": null
+      },
+      {
+        "id": "nD0md",
+        "text": "\n$g$ upwards, $g / 2$ downwards\n",
+        "image": null
+      },
+      {
+        "id": "oiXJR",
+        "text": "\n$g$ upwards, $2 g$ downwards\n",
+        "image": null
+      },
+      {
+        "id": "8DvWf",
+        "text": "\n$2 g$ upwards, $g$ downwards",
+        "image": null
+      }
+    ],
+    "correct_answer": "5dELI",
+    "solution_text": "Initially under equilibrium of mass ' $m$ '\n$$\nT=m g\n$$\nNow, the string is cut. Therefore, $T=m g$ force is decreased on mass $m$ upwards and downwards on mass $2 m$.\n$$\na_m=\\frac{m g}{m}=g \\text { (downwards) and }\n$$\n$$\na_{2 m}=\\frac{m g}{2 m}=\\frac{g}{2} \\text { (upwards) }\n$$",
+    "solution_image": null,
+    "topic": "Spring force"
+  }
+]

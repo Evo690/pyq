@@ -1,0 +1,163 @@
+[
+  {
+    "question_id": "6a0be50d44d287c9361e5c80",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Let $S = \\{1, 2, 3, \\ldots, 10\\}$. Consider the set<br>$X = \\{R : R$ is an equivalence relation on the set $S$ such that $R$ has exactly $42$ elements$\\}$.<br><br>Then the number of elements in $X$ is _____________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2520",
+    "solution_text": "An equivalence relation on a set $S$ corresponds to a partition of $S$ into disjoint equivalence classes. Let the sizes of these equivalence classes be $a_1, a_2, \\ldots, a_k$.<br><br>The number of elements in the equivalence relation $R$ is given by the sum of the squares of the sizes of its equivalence classes:<br>$\\sum_{i=1}^k a_i^2 = 42$<br><br>Since the total number of elements in $S$ is $10$, we also have:<br>$\\sum_{i=1}^k a_i = 10$<br><br>We need to find all possible partitions of $10$ such that the sum of their squares is $42$. Let's check the possible sizes of the largest equivalence class, $a_1$:<br><br>Case 1: $a_1 = 6$<br>$a_1^2 = 36$. The remaining sum of squares is $42 - 36 = 6$, and the remaining sum of elements is $10 - 6 = 4$.<br>The only way to partition $4$ such that the sum of squares is $6$ is $2, 1, 1$ (since $2^2 + 1^2 + 1^2 = 6$).<br>Thus, one valid partition is $\\{6, 2, 1, 1\\}$.<br><br>Case 2: $a_1 = 5$<br>$a_1^2 = 25$. The remaining sum of squares is $42 - 25 = 17$, and the remaining sum of elements is $10 - 5 = 5$.<br>The only way to partition $5$ such that the sum of squares is $17$ is $4, 1$ (since $4^2 + 1^2 = 17$).<br>Thus, another valid partition is $\\{5, 4, 1\\}$.<br><br>Case 3: $a_1 \\le 4$<br>The maximum possible sum of squares would be for the partition $\\{4, 4, 2\\}$, which gives $4^2 + 4^2 + 2^2 = 36 < 42$. No other partitions can yield a sum of $42$.<br><br>Now, we calculate the number of ways to form these partitions from the $10$ elements of $S$.<br><br>For the partition $\\{6, 2, 1, 1\\}$:<br>The number of ways to divide $10$ elements into groups of sizes $6, 2, 1, 1$ is:<br>$\\dfrac{10!}{6! \\times 2! \\times 1! \\times 1! \\times 2!} = \\dfrac{3628800}{720 \\times 2 \\times 1 \\times 1 \\times 2} = \\dfrac{3628800}{2880} = 1260$<br>(Note: We divide by $2!$ because there are two groups of identical size $1$).<br><br>For the partition $\\{5, 4, 1\\}$:<br>The number of ways to divide $10$ elements into groups of sizes $5, 4, 1$ is:<br>$\\dfrac{10!}{5! \\times 4! \\times 1!} = \\dfrac{3628800}{120 \\times 24 \\times 1} = \\dfrac{3628800}{2880} = 1260$<br><br>Total number of equivalence relations in $X$ is:<br>$1260 + 1260 = 2520$<br><br>Answer: $2520$",
+    "solution_image": null,
+    "topic": "Questions on number of relations and sets"
+  },
+  {
+    "question_id": "685102bd6bba689a3eb09c76",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let the set of all relations $R$ on the set $\\{a, b, c, d, e, f\\}$, such that $R$ is reflexive and symmetric, and $R$ contains exactly 10 elements, be denoted by $S$. Then the number of elements in $S$ is ______",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "105",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dotJ_FKh6L4BVL2nbdGcgwQqrQArjgv3o2UyULbVZCs.original.fullsize.png\"><br>For relation to be reflexive all the diagonal elements must be taken and out of remaining 30 elements there are 15 pairs and we need 2 pairs such that R contains exactly 10 elements and is both reflexive and symmetric.\n$\\therefore$ number of ways $={ }^{15} \\mathrm{C}_2=105$",
+    "solution_image": null,
+    "topic": "Questions on number of relations and sets"
+  },
+  {
+    "question_id": "66965df1d603121f43a468e6",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "If the value of $n(Y)+n(Z)$ is $k^2$, then $|k|$ is\nLet \\(S=\\{1,2,3,4,5,6\\}\\) and \\(X\\) be the set of all relations \\(R\\) from \\(S\\) to \\(S\\) that satisfy both the following properties:\r\ni. \\(R\\) has exactly 6 elements.\r\nii. For each \\((a, b) \\in R\\), we have \\(|a-b| \\geq 2\\).\r\nLet \\(Y=\\{R \\in X\\) : The range of \\(R\\) has exactly one element \\(\\}\\) and \\(Z=\\{R \\in X: R\\) is a function from \\(S\\) to \\(S\\}\\).\r\nLet \\(n(A)\\) denote the number of elements in a set \\(A\\).",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 36,
+    "solution_text": "given $|a-b| \\geq 2$ so if\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hn7i07O6ZaG7UvnOx0EtvNsr1x2V_GouFl2skzjeIFQ.original.fullsize.png\">\ni.e. Total elements in $\\mathrm{X}$ is ${ }^{20} \\mathrm{C}_6$\nNow for $\\mathrm{n}(\\mathrm{Y})$,\nrange of $\\mathrm{R}$ has exactly one element i.e. second elements must be constant in $\\mathrm{R}$ and since $\\mathrm{R}$ must have 6 element so it is not possible to satisfy both condition so $\\mathrm{n}(\\mathrm{Y})=0$.\n$\\begin{aligned} & \\text { for } \\quad n(z) \\\\ & 1 \\rightarrow 3,4,5,6 \\\\ & 2 \\rightarrow 4,5,6 \\\\ & 3 \\rightarrow 1,5,6 \\\\ & 4 \\rightarrow 1,2,6 \\\\ & 5 \\rightarrow 1,2,3 \\\\ & 6 \\rightarrow 1,2,3,4 \\\\ & \\end{aligned}$\nno. of relation that are function will be $\\quad={ }^4 \\mathrm{C}_1 \\times{ }^3 \\mathrm{C}_1 \\times{ }^3 \\mathrm{C}_1 \\times{ }^3 \\mathrm{C}_1 \\times{ }^3 \\mathrm{C}_1 \\times{ }^4 \\mathrm{C}_1$\n$\\begin{aligned} & =(4 \\times 3 \\times 3)^2=k^2 \\\\ & \\text { i.e. } \\mathrm{k}=36\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Questions on number of relations and sets"
+  },
+  {
+    "question_id": "66965df1d603121f43a4676f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/on97X5TCK54arKma2zxcmrlZp_wpNv-ZITyDmpt8iQk.original.fullsize.png\">\nIf $n(X)={ }^m C_6$, then the value of $m$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 20,
+    "solution_text": "\\(S=\\{1,2,3,4,5,6\\} \\quad R: S \\rightarrow S\\)\r\nNumber of elements in \\(R=6\\)\r\nand for each \\((a, b) \\in R ;|a-b| \\geq 2\\)\r\n\\(X \\rightarrow\\) set of all relation \\(R: S \\rightarrow S\\)\r\nIf \\(a=1, b=3,4,5,6 \\rightarrow(4)\\)\r\n\\(a=2, b=4,5,6 \\rightarrow(3)\\)\r\n\\(a=3, b=1,5,6 \\rightarrow(3)\\)\r\n\\(a=4, b=1,2,6 \\rightarrow(3)\\)\r\n\\(a=5, b=1,2,3 \\rightarrow(3)\\)\r\n\\(a=6, b=1,2,3,4 \\rightarrow(4)\\)\r\nTotal number of ordered pairs \\((a, b)\\)\r\ns.t. \\(|a-b| \\geq 2 =20\\)\r\n\\(\\therefore n(X)=\\) number of elements in \\(\\mathrm{X}={ }^{20} C_6\\)\r\n\\(\\therefore m=20\\)",
+    "solution_image": null,
+    "topic": "Questions on number of relations and sets"
+  },
+  {
+    "question_id": "64b16a62f23ac7d519f9b3ed",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mn>1,2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>&#8230;</mo><mo>.</mo><mn>9</mn></mrow></mfenced></math>. For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mo>=</mo><mn>1,2</mn><mo>,</mo><mo>&#8230;</mo><mn>5</mn><mo>,</mo></math> let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mi>k</mi></msub></math> be the number of subsets of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math>, each containing five elements out of which exactly <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi></math> are odd. Then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mn>1</mn></msub><mo>+</mo><msub><mi>N</mi><mn>2</mn></msub><mo>+</mo><msub><mi>N</mi><mn>3</mn></msub><mo>+</mo><msub><mi>N</mi><mn>4</mn></msub><mo>+</mo><msub><mi>N</mi><mn>5</mn></msub><mo>=</mo></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wMXGv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>125</mn></math>",
+        "image": null
+      },
+      {
+        "id": "a5oh7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>252</mn></math>",
+        "image": null
+      },
+      {
+        "id": "fTR8a",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>210</mn></math>",
+        "image": null
+      },
+      {
+        "id": "LwnZz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>126</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LwnZz",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mn>1</mn></msub><mo>+</mo><msub><mi>N</mi><mn>2</mn></msub><mo>+</mo><msub><mi>N</mi><mn>3</mn></msub><mo>+</mo><msub><mi>N</mi><mn>4</mn></msub><mo>+</mo><msub><mi>N</mi><mn>5</mn></msub><mo>=</mo></math>&nbsp;Total ways &ndash; {when no odd}</p><p>Total ways&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mo>=</mo><mn>9</mn></msup><msub><mi>C</mi><mn>5</mn></msub></math></p><p>Number of ways when no odd, is zero&nbsp;&nbsp;&nbsp;&nbsp; (<math><mo>&#8757;</mo></math>&nbsp;only available even are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>,</mo><mo>&#160;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mn>6</mn><mo>,</mo><mo>&#160;</mo><mn>8</mn></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><msup><mo>&#160;</mo><mn>9</mn></msup><msub><mi>C</mi><mn>5</mn></msub><mo>-</mo><mi>zero</mi><mo>=</mo><mn>126</mn></math></p>",
+    "solution_image": null,
+    "topic": "Questions on number of relations and sets"
+  },
+  {
+    "question_id": "64b16a08f23ac7d519f9b0b2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Let $S=\\{1,2,3,4\\}$. The total number of unordered pairs of disjoint subsets of $S$ is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9GQJr",
+        "text": "\n25\n",
+        "image": null
+      },
+      {
+        "id": "G5Yez",
+        "text": "\n34\n",
+        "image": null
+      },
+      {
+        "id": "jLJZP",
+        "text": "\n42\n",
+        "image": null
+      },
+      {
+        "id": "QCokI",
+        "text": "\n41",
+        "image": null
+      }
+    ],
+    "correct_answer": "QCokI",
+    "solution_text": "Let $A \\cap B=\\phi, A, B \\subset S$\n$$\n\\begin{aligned}\n& 3^4=\\frac{81+1}{2}=41 \\\\\n\\Rightarrow \\quad & \\frac{3^4+1}{2}=41\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Questions on number of relations and sets"
+  },
+  {
+    "question_id": "64b16a98f23ac7d519f9b5da",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>In a study about a pandemic, data of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>900</mn></math> persons was collected. It was found that</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>190</mn></math>&nbsp;persons had symptom of fever,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>220</mn></math>&nbsp;persons had symptom of cough,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>220</mn></math>&nbsp;persons had symptom of breathing problem,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>330</mn></math>&nbsp;persons had symptom of fever or cough or both,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>350</mn></math>&nbsp;persons had symptom of cough or breathing problem or both,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>340</mn></math>&nbsp;persons had symptom of fever or breathing problem or both,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math>&nbsp;persons had all three symptoms (fever, cough and breathing problem).</p><p>If a person is chosen randomly from these <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>900</mn></math>&nbsp;persons, then the probability that the person has at most one symptom is ______.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.8",
+    "solution_text": "<blockquote><p>We denote the set of people having symptoms of fever, cough and breathing problem by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>,</mo><mi>C</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;respectively</p><p>Given that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mi>F</mi></mfenced><mo>=</mo><mn>190</mn><mo>,</mo><mo>&#160;</mo><mi>n</mi><mfenced><mi>B</mi></mfenced><mo>=</mo><mn>220</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mi>C</mi></mfenced><mo>=</mo><mn>220</mn></math></p><p>Also given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8746;</mo><mi>C</mi></mrow></mfenced><mo>=</mo><mn>330</mn><mo>,</mo><mo>&#160;</mo><mi>n</mi><mfenced><mrow><mi>B</mi><mo>&#8746;</mo><mi>C</mi></mrow></mfenced><mo>=</mo><mn>350</mn><mo>,</mo></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8746;</mo><mi>B</mi></mrow></mfenced><mo>=</mo><mn>340</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8745;</mo><mi>C</mi><mo>&#8745;</mo><mi>B</mi></mrow></mfenced><mo>=</mo><mn>30</mn></math></p><p>So&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8745;</mo><mi>C</mi></mrow></mfenced><mo>=</mo><mi>n</mi><mfenced><mi>F</mi></mfenced><mo>+</mo><mi>n</mi><mfenced><mi>C</mi></mfenced><mo>-</mo><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8746;</mo><mi>C</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>80</mn></math></p><p>Similarly,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8745;</mo><mi>B</mi></mrow></mfenced><mo>=</mo><mi>n</mi><mfenced><mi>F</mi></mfenced><mo>+</mo><mi>n</mi><mfenced><mi>B</mi></mfenced><mo>-</mo><mi>n</mi><mfenced><mrow><mi>F</mi><mo>&#8746;</mo><mi>B</mi></mrow></mfenced><mo>=</mo><mn>70</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>C</mi><mo>&#8745;</mo><mi>B</mi></mrow></mfenced><mo>=</mo><mi>n</mi><mfenced><mi>C</mi></mfenced><mo>+</mo><mi>n</mi><mfenced><mi>B</mi></mfenced><mo>-</mo><mi>n</mi><mfenced><mrow><mi>B</mi><mo>&#8746;</mo><mi>C</mi></mrow></mfenced><mo>=</mo><mn>90</mn></math></p><p>Putting the data in Venn diagram</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8c726c26-fc51-4114-be2b-5f90329b9a38-image.png\" style=\"width: 220px; height: 181px;\" /></p><p>Number of people having at most one symptom<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math>Number of people having zero&nbsp;symptom or one symptom</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>70</mn><mo>+</mo><mn>80</mn><mo>+</mo><mn>90</mn><mo>+</mo><mn>480</mn><mo>=</mo><mn>720</mn></math></p><p>Required probability&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>720</mn><mn>900</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Questions on Venn Diagram"
+  }
+]

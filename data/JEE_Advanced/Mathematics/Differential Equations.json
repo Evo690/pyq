@@ -1,0 +1,957 @@
+[
+  {
+    "question_id": "64b16a6ef23ac7d519f9b45d",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mo>:</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> be a twice differentiable function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>t</mi><mo>&#8594;</mo><mi>x</mi></mrow></munder><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>sin</mi><mi>t</mi><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mi>t</mi></mfenced><mi>sin</mi><mi>x</mi></mrow><mrow><mi>t</mi><mo>-</mo><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mi>&#160;</mi></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi></mrow></mfenced></math>. If <math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mo>-</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>12</mn></mrow></mfrac></math>, then which of the following statement(s) is (are) TRUE ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AJHMD",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn><msqrt><mn>2</mn><mi> </mi></msqrt></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "affxd",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#60;</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><mn>6</mn></mrow></mfrac><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#960;</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "dkWK8",
+        "text": "There exists <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#960;</mi></mrow></mfenced></math> such that <math><msup><mrow><mi>f</mi></mrow><mrow><mi>&#8242;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>&#945;</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "eM9LY",
+        "text": "<math><msup><mrow><mi>f</mi></mrow><mrow><mo>\"</mo></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>+</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "eM9LY",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>t</mi><mo>→</mo><mi>x</mi></mrow></munder><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>sin</mi><mi>t</mi><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mi>t</mi></mfenced><mi>sin</mi><mi>x</mi></mrow><mrow><mi>t</mi><mo>-</mo><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math><br >By using L'Hopital rule<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>t</mi><mo>→</mo><mi>x</mi></mrow></munder><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>cos</mi><mi>t</mi><mo>-</mo><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>t</mi></mfenced><mi>sin</mi><mi>x</mi></mrow><mn>1</mn></mfrac><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>cos</mi><mi>x</mi><mo>-</mo><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>sin</mi><mi>x</mi><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo>-</mo><mfenced separators=\"|\"><mfrac><mrow><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>sin</mi><mi>x</mi><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mi>cos</mi><mi>x</mi></mrow><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi></mrow></mfrac></mfenced><mo>=</mo><mn>1</mn></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo>-</mo><mfrac><mrow><mo>d</mo><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></mrow><mrow><mi>sin</mi><mi>x</mi></mrow></mfrac></mrow><mrow><mo>d</mo><mi>x</mi></mrow></mfrac><mo>=</mo><mn>1</mn></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></mrow><mrow><mi>sin</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mi>x</mi><mo>+</mo><mi>c</mi></math><br >Put <math><mi>x</mi><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></math> and <math><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mo>-</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>12</mn></mrow></mfrac></math><br ><math><mo>∴</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mo>=</mo><mn>0</mn><mo>⇒</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mi>x</mi><mi>sin</mi><mi>x</mi></math><br ><math><mfenced separators=\"|\"><mrow><mi>A</mi></mrow></mfenced></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mfrac><mi>π</mi><mn>4</mn></mfrac></mfenced><mo>=</mo><mo>-</mo><mfrac><mi>π</mi><mn>4</mn></mfrac><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></math><br ><math><mfenced separators=\"|\"><mrow><mi>B</mi></mrow></mfenced></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mi>x</mi><mi>sin</mi><mi>x</mi></math><br >As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mi>x</mi><mo>></mo><mi>x</mi><mo>-</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>6</mn></mfrac></math> , <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi>x</mi><mi>sin</mi><mi>x</mi><mo><</mo><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><msup><mi>x</mi><mn>4</mn></msup><mn>6</mn></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo><</mo><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><msup><mi>x</mi><mn>4</mn></msup><mn>6</mn></mfrac><mo> </mo><mo>∀</mo><mo> </mo><mi>x</mi><mo>∈</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>π</mi></mrow></mfenced></math><br ><math><mfenced separators=\"|\"><mrow><mi>C</mi></mrow></mfenced></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mi>sin</mi><mi>x</mi><mo>-</mo><mi>x</mi><mi>cos</mi><mi>x</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>0</mn><mo>⇒</mo><mi>tan</mi><mi>x</mi><mo>=</mo><mo>-</mo><mi>x</mi><mo>⇒</mo></math> there exist <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>α</mi><mo>∈</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>π</mi></mrow></mfenced></math> for which <math><msup><mrow><mi>f</mi></mrow><mrow><mi>′</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>α</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ylgngbuhicsntzwnezavuzepmhsrlwdbqomquypxpwgywmxgiz.png\"/><br ><math><mfenced separators=\"|\"><mrow><mi>D</mi></mrow></mfenced></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>\"</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mn>2</mn><mi>cos</mi><mi>x</mi><mo>+</mo><mi>x</mi><mi>sin</mi><mi>x</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>\"</mo></msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></mfenced><mo>=</mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac><mo>,</mo><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></mfenced><mo>=</mo><mo>-</mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>\"</mo></msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></mfenced><mo>+</mo><mi>f</mi><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></mfenced><mo>=</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Exact Forms"
+  },
+  {
+    "question_id": "64b16a51f23ac7d519f9b34f",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "A solution curve of differential equation <math><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>4</mn></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>-</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>x</mi><mo>&#62;</mo><mn>0&#160;</mn></math>&nbsp;passes through the point (1, 3). Then the solution curve -",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xvUQr",
+        "text": "Intersects <math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></math> exactly at one point",
+        "image": null
+      },
+      {
+        "id": "WoTYO",
+        "text": "Intersects  <math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></math>  exactly at two points",
+        "image": null
+      },
+      {
+        "id": "lIHl0",
+        "text": "Intersects  <math><mi>y</mi><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "WUlQZ",
+        "text": "Does NOT intersect <math><mi>y</mi><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "WUlQZ",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>4</mn></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>-</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>0</mn></math><br /><mo>⇒</mo><math><mfenced separators=\"|\"><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>y</mi><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br />Let <math><mi>x</mi><mo>+</mo><mn>2</mn><mo>=</mo><mi>X</mi><mo>,</mo><mi>&nbsp;</mi><mi>y</mi><mo>=</mo><mi>Y</mi></math><br />⇒<math><mfenced separators=\"|\"><mrow><mi>X</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mi>X</mi><mo>+</mo><mi>Y</mi></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>Y</mi></mrow><mrow><mi>d</mi><mi>X</mi></mrow></mfrac><mo>=</mo><msup><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br />⇒<math><mo>-</mo><msup><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>d</mi><mi>Y</mi><mo>=</mo><mi>X</mi><mi>Y</mi><mi>d</mi><mi>Y</mi><mo>-</mo><msup><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>d</mi><mi>X</mi></math><br />⇒<math><mo>-</mo><msup><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>d</mi><mi>Y</mi><mo>=</mo><mi>Y</mi><mfenced separators=\"|\"><mrow><mi>X</mi><mi>d</mi><mi>Y</mi><mo>-</mo><mi>Y</mi><mi>d</mi><mi>X</mi></mrow></mfenced></math><br />⇒<math><mo>-</mo><mfrac><mrow><mi>d</mi><mi>Y</mi></mrow><mrow><mi>Y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>X</mi><mi>d</mi><mi>Y</mi><mo>-</mo><mi>Y</mi><mi>d</mi><mi>X</mi></mrow><mrow><msup><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br />Integrate both sides<br />⇒&nbsp;<math><mo>-</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>Y</mi></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>Y</mi></mrow><mrow><mi>X</mi></mrow></mfrac></mrow></mfenced><mo>+</mo><mi>C</mi></math><br />Putting back X, Y in x, y terms<br />⇒<math><mo>-</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>y</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>y</mi></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi>C</mi></math><br /><math><mo>∵</mo></math> it is passing through (1, 3) , <math><mo>-</mo><mi mathvariant=\"script\">&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>3</mn><mo>=</mo><mn>1</mn><mo>+</mo><mi>C</mi></math><br /><math><mi>C</mi><mo>=</mo><mi>&nbsp;</mi><mo>-</mo><mn>1</mn><mo>-</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>3</mn></math><br /><math><mo>∴</mo></math> curve equation is <math><mfrac><mrow><mi>y</mi></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi mathvariant=\"script\">&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>y</mi></mrow></mfenced><mo>-</mo><mn>1</mn><mo>-</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>3</mn><mo>=</mo><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mi>x</mi><mo>&gt;</mo><mn>0</mn></math> .....(i)<br />Put <math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></math> in equation (i)<br />then <math><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi mathvariant=\"script\">&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mo>-</mo><mn>1</mn><mo>-</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mi>&nbsp;</mi><mn>3</mn><mo>=</mo><mn>0</mn></math><br /><math><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>&nbsp;</mi><mo>-</mo><mn>5</mn></math> (reject as given <math> <mrow> <mi>x</mi><mo>&gt;</mo><mn>0</mn> </mrow> </math> )<br /><math><mo>∴</mo></math> curve intersect <math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></math> at point (1, 3),(Only one point); put <math><mi>y</mi><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math> , we will get <math><mi>x</mi><mo>+</mo><mn>2</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"script\">l</mi><mi>n</mi><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>1</mn><mo>+</mo><mi>&nbsp;</mi><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>3</mn></math><br />Clearly left hand side is an increasing function. Hence, it is always greater than <math><mn>2</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>2</mn></math> (By Putting X = 0)<br />Therefore no solution <math><mi>y</mi><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math> put <math><mi>y</mi><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math> in equation (i)<br /><math><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn><mo>-</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>3</mn><mo>=</mo><mn>0</mn></math><br /><math><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math><br /><math><mo>∵</mo></math> <math><mi>x</mi><mo>&gt;</mo><mn>0</mn><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>x</mi><mo>+</mo><mn>3</mn><mo>&gt;</mo><mi>x</mi><mo>+</mo><mn>2</mn></math> and <math><mi>x</mi><mo>+</mo><mn>3</mn><mo>&gt;</mo><mn>3</mn></math><br />So <math><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mfrac><mo>&gt;</mo><mn>1</mn></math><br /><math><mo>∴</mo></math> <math><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math> has no solution<br /><math><mo>⇒</mo></math> curve <math><mi>y</mi><mi>&nbsp;</mi><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math> does not intersect",
+    "solution_image": null,
+    "topic": "Exact Forms"
+  },
+  {
+    "question_id": "64b16a45f23ac7d519f9b2e4",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Consider the family of all circles whose centers lie on the straight line <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>.</mo></math> If this family of circles is represented by the differential equation <math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">y</mi><mo>&#34;</mo><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">Q</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">&#8242;</mi><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi></math> where <math><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">Q</mi></math> are functions of <math><mi mathvariant=\"normal\">x</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">&#8242;</mi></math> <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&#8242;</mi></mrow></msup><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></mrow></mfrac><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">y</mi><mo>&#34;</mo><mi mathvariant=\"normal\">&#160;</mi><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></math> , then which of the following statements is (are) true ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZBWCK",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mo>=</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><mi mathvariant=\"normal\">x</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ZZu8u",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mo>=</mo><mi mathvariant=\"normal\">y</mi><mo>-</mo><mi mathvariant=\"normal\">x</mi></math>",
+        "image": null
+      },
+      {
+        "id": "hL5df",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mo>+</mo><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "X6FAa",
+        "text": "<math><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "hL5df",
+    "solution_text": "Let required circle be<br > <math><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi></mrow></mfenced><mo>+</mo><mi mathvariant=\"normal\">c</mi><mo>=</mo><mn>0</mn></math> <br >Differentiation<br > <math><mn>2</mn><mi mathvariant=\"normal\">x</mi><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math>        ...(i)<br >Again differentiation<br > <math><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">y</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math>     ...(ii)<br >Putting value of g in equation (ii),<br > <math><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfrac></mrow></mfenced><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>=</mo><mn>0</mn></math> <br >So,  <math><mi mathvariant=\"normal\">P</mi><mo>=</mo><mi mathvariant=\"normal\">y</mi><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math> <br >i.e.,  <math><mi mathvariant=\"normal\">P</mi><mo>+</mo><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Formation of Differential Equation"
+  },
+  {
+    "question_id": "64b16a2af23ac7d519f9b1ec",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#8289;</mo><mtext>&#160;:&#160;</mtext><mspace width=\"0.5em\"></mspace><mfenced close=\"]\" open=\"[\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>1</mn></mfenced><mo>&#10230;</mo><mi>R</mi></math>&nbsp;(the set of all real numbers) be a positive, non-constant and differentiable function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn><mi>f</mi><mo>&#8289;</mo><mfenced><mi>x</mi></mfenced></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#8289;</mo><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mo>=</mo><mn>1</mn></math>.&nbsp;Then the value of <math> <mrow> <munderover> <mo>&#8747;</mo> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> <mn>1</mn> </munderover> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>f</mi><mo>&#8289;</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mi>x</mi> </mrow> </mfenced> <mtext mathvariant=\"italic\">dx</mtext> </mrow> </math>&nbsp;lies in the interval:</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hou45",
+        "text": "<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mi></mi><mi></mi><mi>e</mi><mo>⁡</mo> <mo>-</mo> <mn>1</mn> </mrow> <mrow> <mn>2</mn> <mi></mi><mi></mi><mi>e</mi><mo>⁡</mo> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "4lYuX",
+        "text": "<math><mrow>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <mi>e</mi><mo>&ApplyFunction;</mo>      <mo>-</mo>      <mn>1</mn>    </mrow>    <mrow>      <mn>2</mn>      <mi>e</mi><mo>&ApplyFunction;</mo>      <mo>-</mo>      <mn>1</mn>    </mrow>  </mfenced></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "k3dhT",
+        "text": "<math><mrow>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <mfrac>        <mrow>          <mi>e</mi><mo>&ApplyFunction;</mo>          <mo>-</mo>          <mn>1</mn>        </mrow>        <mrow>          <mn>2</mn>        </mrow>      </mfrac>    </mrow>    <mrow>      <mi>e</mi><mo>&ApplyFunction;</mo>      <mo>-</mo>      <mn>1</mn>    </mrow>  </mfenced></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "9qhUi",
+        "text": "<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>0</mn> <mtext>,</mtext> <mfrac> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi>e</mi><mo>⁡</mo> <mo>-</mo> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9qhUi",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn><mi>f</mi><mfenced><mi>x</mi></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#8658;</mtext><mfrac><mrow><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfrac><mo>&#60;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msubsup><mo>&#8747;</mo><mfrac bevelled=\"true\"><mn>1</mn><mn>2</mn></mfrac><mi>x</mi></msubsup><mfrac><mrow><mi>f</mi><mo>'</mo><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfrac><mi>d</mi><mi>x</mi><mo>=</mo><msubsup><mo>&#8747;</mo><mfrac bevelled=\"true\"><mn>1</mn><mn>2</mn></mfrac><mi>x</mi></msubsup><mn>2</mn><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#60;</mo><msup><mi>e</mi><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow></msup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mspace width=\"0.5em\"></mspace><mn>0</mn><mo>&#60;</mo><msubsup><mo>&#8747;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>1</mn></msubsup><mi>f</mi><mfenced><mi>x</mi></mfenced><mi>d</mi><mi>x</mi><mo>&#60;</mo><msubsup><mo>&#8747;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>1</mn></msubsup><msup><mi>e</mi><mfenced><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>0</mn><mo>&#60;</mo><msubsup><mo>&#8747;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>1</mn></msubsup><mi>f</mi><mfenced><mi>x</mi></mfenced><mi>d</mi><mi>x</mi><mo>&#60;</mo><msubsup><mfenced close=\"]\" open=\"[\"><mfrac><msup><mi>e</mi><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow></msup><mn>2</mn></mfrac></mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>1</mn></msubsup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mspace width=\"0.5em\"></mspace><mn>0</mn><mo>&#60;</mo><msubsup><mo>&#8747;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>1</mn></msubsup><mi>f</mi><mfenced><mi>x</mi></mfenced><mi>d</mi><mi>x</mi><mo>&#60;</mo><mfrac><mrow><mi>e</mi><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Formation of Differential Equation"
+  },
+  {
+    "question_id": "685102c26bba689a3eb09ca7",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $y(x)$ be the solution of the differential equation\n$x^2 \\frac{d y}{d x}+x y=x^2+y^2, x>\\frac{1}{e}$\nsatisfying $y(1)=0$. Then the value of $2 \\frac{(y(e))^2}{y\\left(e^2\\right)}$ is _____ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.75",
+    "solution_text": "Put $\\mathrm{y}=\\mathrm{vx} \\Rightarrow \\frac{d y}{d x}=v+x \\frac{d v}{d x}$\nD.E.\n$\\begin{aligned}\n& \\mathrm{x}^2\\left(v+\\mathrm{x} \\frac{\\mathrm{~d} v}{\\mathrm{dx}}\\right)+\\mathrm{x}^2 v=\\mathrm{x}^2\\left(1+v^2\\right) \\\\\n& \\Rightarrow v+x \\frac{d v}{d x}+v=1+v^2 \\\\\n& \\Rightarrow x \\frac{d v}{d x}=1+v^2-2 v \\\\\n& \\Rightarrow \\int \\frac{d v}{(v-1)^2}=\\int \\frac{d x}{x} \\\\\n& \\Rightarrow-\\frac{1}{v-1}=\\ln |x|+\\mathrm{C}\n\\end{aligned}$\n$\\Rightarrow \\frac{\\mathrm{x}}{\\mathrm{x}-\\mathrm{y}}=\\ln |x|+\\mathrm{C}=\\ln \\mathrm{x}+\\mathrm{C} \\quad\\left(\\right.$ Since $\\left.\\mathrm{x}>\\frac{1}{\\mathrm{e}}\\right)$\nGiven $y(1)=0$\n$\\Rightarrow C=1$\nSo $\\frac{x}{x-y}=\\ln (e x)$\nNow $y(e)=\\frac{e}{2}$ and $y\\left(e^2\\right)=\\frac{2 e^2}{3}$\n$\\therefore \\frac{2(y(e))^2}{y\\left(e^2\\right)}=\\frac{2 \\cdot \\frac{e^2}{4}}{\\frac{2 e^2}{3}}=\\frac{3}{4}=0.75$",
+    "solution_image": null,
+    "topic": "Homogeneous DE"
+  },
+  {
+    "question_id": "64b16a2af23ac7d519f9b1ef",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A curve passes through the point&nbsp;<math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>1</mn> <mo>,</mo> <mfrac> <mrow> <mi>&#960;</mi> </mrow> <mrow> <mn>6</mn> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math>. Let the slope of the curve at each point <math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>x</mtext> <mo>,</mo> <mtext>y</mtext> </mrow> </mfenced> </mrow> </math> be <math> <mrow> <mfrac> <mrow> <mtext>y</mtext> </mrow> <mrow> <mtext>x</mtext> </mrow> </mfrac> <mo>+</mo> <mtext>sec</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mtext>y</mtext> </mrow> <mrow> <mtext>x</mtext> </mrow> </mfrac> </mrow> </mfenced> <mo>, x</mo> <mo>&#160;&#62;&#160;</mo> <mn>0</mn> </mrow> </math>. Then the equation of the curve is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mzG1z",
+        "text": "<math> <mrow> <mtext>sin</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mtext>y</mtext> </mrow> <mrow> <mtext>x</mtext> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mtext>log x</mtext> <mo>+</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "eDF5w",
+        "text": "<math> <mrow> <mtext>cosec&nbsp;</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mtext>y</mtext> </mrow> <mrow> <mtext>x</mtext> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mtext>log x</mtext> <mo>+</mo> <mn>2</mn> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "p8lDq",
+        "text": "<math> <mrow> <mtext>sec&nbsp;</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mtext>2y</mtext> </mrow> <mrow> <mtext>x</mtext> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mtext>log x</mtext> <mo>+</mo> <mn>2</mn> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "MGb8S",
+        "text": "<math> <mrow> <mtext>cos&nbsp;</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mtext>2y</mtext> </mrow> <mrow> <mtext>x</mtext> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mtext>log x</mtext> <mo>+</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mzG1z",
+    "solution_text": "<p>Given slope at (x, y) is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mtext>dy</mtext><mtext>dx</mtext></mfrac><mo>=</mo><mfrac><mtext>y</mtext><mtext>x</mtext></mfrac><mo>+</mo><mtext>sec</mtext><mfenced><mfrac><mi>y</mi><mi>x</mi></mfrac></mfenced></math>......<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced></math><br />let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mtext>y</mtext><mtext>x</mtext></mfrac><mo>=</mo><mtext>t</mtext><mo>&#8658;</mo><mtext>y</mtext><mo>=</mo><mtext>xt</mtext></math>&nbsp;</p><p>Differentiating this wrt&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mspace width=\"0.5em\"/><mo>&#8658;</mo><mspace width=\"0.5em\"/><mspace width=\"0.5em\"/><mfrac><mtext>dy</mtext><mtext>dx</mtext></mfrac><mo>=</mo><mtext>t</mtext><mo>+</mo><mtext>x</mtext><mfrac><mtext>dt</mtext><mtext>dx</mtext></mfrac></math>......<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>Now using equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math>, we have<br /><math> <mrow> <mtext>t</mtext> <mo>+</mo> <mtext>x</mtext> <mfrac> <mrow> <mtext>dt</mtext> </mrow> <mrow> <mtext>dx</mtext> </mrow> </mfrac> <mo>=</mo> <mtext>t</mtext> <mo>+</mo> <mtext>sec</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>t</mtext> </mrow> </mfenced> </mrow> </math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>d</mi><mi>t</mi></mrow><mrow><mi>sec</mi><mfenced><mi>t</mi></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mi>x</mi></mfrac></math></p><p>Integrating both sides.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8747;</mo><mi>cos</mi><mfenced><mi>t</mi></mfenced><mtext>dt</mtext><mo>=</mo><mo>&#8747;</mo><mfrac><mn>1</mn><mtext>x</mtext></mfrac><mtext>dx</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mtext>c</mtext></math>&nbsp;</p><p>Now Put value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi></math> in above equation.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>sin</mtext><mfenced><mfrac><mi>y</mi><mi>x</mi></mfrac></mfenced><mo>=</mo><mi>ln</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mtext>c</mtext></math>.....<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math><br />Given that curve passes through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mtext>,&#160;</mtext><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>6</mn></mfrac></mrow></mfenced></math>&nbsp;so put in above equation.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>sin</mtext><mfenced><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>6</mn></mfrac></mfenced><mo>=</mo><mi>ln</mi><mfenced><mn>1</mn></mfenced><mo>+</mo><mtext>c</mtext><mo>&#8658;</mo><mtext>c</mtext><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>Now, put the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math>&nbsp;in equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>sin</mtext><mfenced><mfrac><mi>y</mi><mi>x</mi></mfrac></mfenced><mo>=</mo><mi>ln</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Homogeneous DE"
+  },
+  {
+    "question_id": "64b16a1df23ac7d519f9b17a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "If $y(x)$ satisfies the differential equation $y^{\\prime}-y \\tan x$ $=2 x \\sec x$ and $y(0)=0$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qq7kg",
+        "text": "$y\\left(\\frac{\\pi}{4}\\right)=\\frac{\\pi^{2}}{8 \\sqrt{2}}$",
+        "image": null
+      },
+      {
+        "id": "4Bqtv",
+        "text": "$y^{\\prime}\\left(\\frac{\\pi}{4}\\right)=\\frac{\\pi^{2}}{18}$",
+        "image": null
+      },
+      {
+        "id": "V1jAJ",
+        "text": "$y\\left(\\frac{\\pi}{3}\\right)=\\frac{\\pi^{2}}{9}$",
+        "image": null
+      },
+      {
+        "id": "B0hkj",
+        "text": "$y^{\\prime}\\left(\\frac{\\pi}{3}\\right)=\\frac{4 \\pi}{3}+\\frac{2 \\pi^{2}}{3 \\sqrt{3}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "B0hkj",
+    "solution_text": "$\\frac{d y}{d x}-y \\tan x=2 x \\sec x$\r\n\r\nI.F. $=e^{-\\int \\tan x d x}=\\cos x$\r\n\r\n$\\therefore \\quad y \\cdot \\cos x=\\int 2 x d x=x^{2}+c$\r\n\r\nNow, $y(0)=0 \\Rightarrow c=0, \\therefore y=x^{2} \\sec x$\r\n\r\n$\\Rightarrow y^{\\prime}=2 x \\sec x+x^{2} \\sec x \\tan x$\r\n\r\nNow, $y\\left(\\frac{\\pi}{4}\\right)=\\frac{\\pi^{2}}{16} \\times \\sqrt{2}=\\frac{\\pi^{2}}{8 \\sqrt{2}}$\r\n\r\n$y\\left(\\frac{\\pi}{3}\\right)=\\frac{\\pi^{2}}{9} \\times 2=\\frac{2 \\pi^{2}}{9}$\r\n\r\n$y^{\\prime}\\left(\\frac{\\pi}{4}\\right)=\\frac{2 \\pi}{4} \\times \\sqrt{2}+\\frac{\\pi^{2}}{8 \\sqrt{2}} \\times 1=\\frac{\\pi^{2}}{8 \\sqrt{2}}+\\frac{\\pi}{\\sqrt{2}}$\r\n\r\n$y^{\\prime}\\left(\\frac{\\pi}{3}\\right)=\\frac{2 \\pi}{3} \\times 2+\\frac{2 \\pi^{2}}{9} \\times \\sqrt{3}=\\frac{2 \\pi^{2}}{3 \\sqrt{3}}+\\frac{4 \\pi}{3}$",
+    "solution_image": null,
+    "topic": "Homogeneous DE"
+  },
+  {
+    "question_id": "6a0be51244d287c9361e5caf",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Let $y = f(x)$ be the real valued function defined on the interval $(0, \\infty)$, satisfying $y(1) = 0$ and the differential equation<br>$x\\dfrac{dy}{dx} = y - x^3$.<br>Then which of the following statements is (are) TRUE ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mHars",
+        "text": "The function $f$ has a local minimum at $x = \\dfrac{1}{\\sqrt{3}}$",
+        "image": null
+      },
+      {
+        "id": "8xrhz",
+        "text": "The function $f$ has a local maximum at $x = \\dfrac{1}{\\sqrt{3}}$",
+        "image": null
+      },
+      {
+        "id": "aQ5Kw",
+        "text": "The function $f$ is increasing in the interval $(1, 2)$",
+        "image": null
+      },
+      {
+        "id": "MZWNk",
+        "text": "If $g(x) = 4x^3 - 5x^2 + \\dfrac{3}{2}x$ for $x > 0$, then the number of elements in the set $\\{x \\in (0, \\infty) : f(x) = g(x)\\}$ is $2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "MZWNk",
+    "solution_text": "The given differential equation is $x\\dfrac{dy}{dx} = y - x^3$.<br><br>Dividing by $x$, we get:<br>$\\dfrac{dy}{dx} - \\dfrac{1}{x}y = -x^2$<br><br>This is a linear differential equation of the form $\\dfrac{dy}{dx} + P(x)y = Q(x)$, where $P(x) = -\\dfrac{1}{x}$ and $Q(x) = -x^2$.<br><br>Integrating Factor (IF) = $e^{\\int -\\dfrac{1}{x} dx} = e^{-\\ln x} = \\dfrac{1}{x}$.<br><br>Multiplying the differential equation by the IF:<br>$\\dfrac{d}{dx} \\left( y \\cdot \\dfrac{1}{x} \\right) = -x$<br><br>Integrating both sides with respect to $x$:<br>$\\dfrac{y}{x} = -\\dfrac{x^2}{2} + C$<br>$y = -\\dfrac{x^3}{2} + Cx$<br><br>Given $y(1) = 0$:<br>$0 = -\\dfrac{1}{2} + C \\Rightarrow C = \\dfrac{1}{2}$<br><br>Thus, $f(x) = \\dfrac{x}{2} - \\dfrac{x^3}{2}$.<br><br>To find local extrema, we find $f'(x)$:<br>$f'(x) = \\dfrac{1}{2} - \\dfrac{3x^2}{2}$<br><br>Setting $f'(x) = 0$ gives $3x^2 = 1 \\Rightarrow x = \\dfrac{1}{\\sqrt{3}}$ (since $x > 0$).<br><br>Now, $f''(x) = -3x$. At $x = \\dfrac{1}{\\sqrt{3}}$, $f''\\left(\\dfrac{1}{\\sqrt{3}}\\right) = -\\sqrt{3} < 0$.<br>So, $f(x)$ has a local maximum at $x = \\dfrac{1}{\\sqrt{3}}$.<br><br>For $x \\in (1, 2)$, $x^2 > 1$, so $f'(x) = \\dfrac{1 - 3x^2}{2} < 0$. Thus, $f(x)$ is decreasing in $(1, 2)$.<br><br>For the intersection of $f(x)$ and $g(x)$:<br>$\\dfrac{x}{2} - \\dfrac{x^3}{2} = 4x^3 - 5x^2 + \\dfrac{3}{2}x$<br>$x - x^3 = 8x^3 - 10x^2 + 3x$<br>$9x^3 - 10x^2 + 2x = 0$<br>$x(9x^2 - 10x + 2) = 0$<br><br>Since $x \\in (0, \\infty)$, $x \\neq 0$. We solve $9x^2 - 10x + 2 = 0$.<br>Discriminant $\\Delta = (-10)^2 - 4(9)(2) = 100 - 72 = 28 > 0$.<br>Sum of roots $= \\dfrac{10}{9} > 0$ and Product of roots $= \\dfrac{2}{9} > 0$.<br>Both roots are real and positive. Therefore, there are exactly $2$ elements in the set.<br><br>Answer: The function $f$ has a local maximum at $x = \\dfrac{1}{\\sqrt{3}}$; If $g(x) = 4x^3 - 5x^2 + \\dfrac{3}{2}x$ for $x > 0$, then the number of elements in the set $\\{x \\in (0, \\infty) : f(x) = g(x)\\}$ is $2$",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16aaaf23ac7d519f9b67f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>, let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math>&nbsp;be a solution of the differential equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>-</mo><mn>2</mn><mi>x</mi><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>x</mi><msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced><mn>2</mn></msup></math> such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><mn>7</mn></math>.&nbsp;Then the maximum value of the function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math>&nbsp;is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "16",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>-</mo><mn>2</mn><mi>x</mi><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>x</mi><msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mfenced><mfrac><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfrac></mfenced><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>x</mi><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced></math></p><p>Which is a linear differential equation,</p><p>So, integrating factor,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#160;I.F.</mtext><mo>=</mo><msup><mi>e</mi><mrow><mo>&#8747;</mo><mfrac><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfrac><mi>d</mi><mi>x</mi></mrow></msup><mo>=</mo><mfrac><mn>1</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow></mfenced></mfrac></math></p><p>Now solution of differential equation is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>&#8901;</mo><mfrac><mn>1</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow></mfenced></mfrac><mo>=</mo><mo>&#8747;</mo><mo>&#8722;</mo><mn>2</mn><mi>x</mi><mo>&#8901;</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow></mfenced></mfrac><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mfrac><mi>y</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow></mfenced></mfrac><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>5</mn></mrow></mfenced></mfrac><mfenced separators=\"|\"><mrow><mo>&#8722;</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo>+</mo><mi>C</mi></math></p><p>Now using the given value,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>(</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>7</mn><mo>&#8658;</mo><mi>C</mi><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced><mo>+</mo><mn>3</mn><mfenced close=\"|\" open=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>&nbsp;is even function</p><p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#60;</mo><mi>x</mi><mo>&#60;</mo><msqrt><mn>5</mn></msqrt><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mo>-</mo><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mo>-</mo><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn></math></p><p>For increasing function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mn>4</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#60;</mo><mn>1</mn></math><br />If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#62;</mo><msqrt><mn>5</mn></msqrt><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mo>-</mo><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>15</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mo>-</mo><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>15</mn></math><br />For increasing function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mn>4</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>16</mn><mi>x</mi><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>4</mn><mi>x</mi><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow></mfenced><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>4</mn><mi>x</mi><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow></mfenced><mo>&#60;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#8746;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math>&nbsp;but&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#62;</mo><msqrt><mn>5</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mi>&#981;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> is increasing over&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></math></p><p>Now plotting the graph we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9a840e0c-bf90-4bda-a907-fbfa95f33dd1.png\" style=\"width: 400px; height: 231px;\" /></p><p>Hence, maximum value of the function is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mi>f</mi><mo>(</mo><mi>x</mi><msub><mo>)</mo><mo>max</mo></msub><mo>=</mo><mn>16</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16aa9f23ac7d519f9b677",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mo>[</mo><mn>1</mn><mo>.</mo><mo>&#8734;</mo><mo>)</mo><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be a differentiable function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msubsup><mo>&#8747;</mo><mn>1</mn><mi>x</mi></msubsup><mi>f</mi><mfenced><mi>t</mi></mfenced><mi>d</mi><mi>t</mi><mo>=</mo><mi>x</mi><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>-</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac><mo>,</mo><mi>x</mi><mo>&#8712;</mo><mo>[</mo><mn>1</mn><mo>,</mo><mo>&#8734;</mo><mo>)</mo></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>e</mi></math>&nbsp;denote the base of the natural logarithm. Then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>e</mi></mfenced></math>&nbsp;is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ujsad",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>e</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "TWBee",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>log</mi><mi>e</mi></msub><mn>4</mn><mo>+</mo><mi>e</mi></mrow><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "UbvOf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>4</mn><msup><mi>e</mi><mn>2</mn></msup></mrow><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "2CKY5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>e</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow><mn>3</mn></mfrac></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "UbvOf",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msubsup><mo>&#8747;</mo><mn>1</mn><mi>x</mi></msubsup><mi>f</mi><mfenced><mi>t</mi></mfenced><mi>d</mi><mi>t</mi><mo>=</mo><mi>x</mi><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>-</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac></math></p><p>Now differentiating both side we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mn>3</mn><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mi>x</mi><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>&#8722;</mo><msup><mi>x</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mi>x</mi><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>&#8722;</mo><mn>2</mn><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>&#8722;</mo><mfrac><mn>2</mn><mi>x</mi></mfrac><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>x</mi></math></p><p>Which is a linear differential equation,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mi>I</mi><mo>.</mo><mi>F</mi><mo>.</mo><mo>=</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mfrac><mn>2</mn><mi>x</mi></mfrac><mi>d</mi><mi>x</mi></mrow></msup><mo>=</mo><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac></math></p><p>Now solution is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mi>y</mi><mfenced separators=\"|\"><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac></mfenced><mo>=</mo><mo>&#8747;</mo><mi>x</mi><mo>&#215;</mo><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac><mi>d</mi><mi>x</mi><mo>=</mo><mi>ln</mi><mo>&#8289;</mo><mi>x</mi><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>(</mo><mi>ln</mi><mo>&#8289;</mo><mi>x</mi><mo>+</mo><mi>C</mi><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>(</mo><mi>ln</mi><mi>x</mi><mo>+</mo><mi>C</mi><mo>)</mo></math></p><p>Now using given value,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>0</mn><mo>+</mo><mi>C</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#8658;</mo><mi>C</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mfenced><mrow><mi>ln</mi><mi>x</mi><mo>+</mo><mi>C</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>e</mi></mfenced><mo>=</mo><msup><mi>e</mi><mn>2</mn></msup><mfenced><mrow><mi>ln</mi><mi>e</mi><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>e</mi></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mi>e</mi><mn>2</mn></msup></mrow><mn>3</mn></mfrac></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a9ff23ac7d519f9b61b",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>, let the function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math> be the solution of the differential equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mn>12</mn><mi>y</mi><mo>=</mo><mi>cos</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>12</mn></mfrac><mi>x</mi></mrow></mfenced><mo>,</mo><mi>y</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>0</mn><mo>.</mo></math>&nbsp;Then, which of the following statements is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LxaUP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math> is an increasing function",
+        "image": null
+      },
+      {
+        "id": "jNaBC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math> is a decreasing function",
+        "image": null
+      },
+      {
+        "id": "mJOIO",
+        "text": "There exists a real number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> such that the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>&#946;</mi></math> intersects the curve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>y</mi><mfenced><mi>x</mi></mfenced></math> at infinitely many points",
+        "image": null
+      },
+      {
+        "id": "hwQxg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math> is a periodic function",
+        "image": null
+      }
+    ],
+    "correct_answer": "mJOIO",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mn>12</mn><mi>y</mi><mo>=</mo><mi>cos</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>.</mo><mi>F</mi><mo>=</mo><msup><mi>e</mi><mrow><mn>12</mn><mi>x</mi></mrow></msup></math></p><p>Now solution of the differential equation is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>&#183;</mo><msup><mi>e</mi><mrow><mn>12</mn><mi>x</mi></mrow></msup><mo>=</mo><mo>&#8747;</mo><msup><mi>e</mi><mrow><mn>12</mn><mi>x</mi></mrow></msup><mo>&#183;</mo><mi>cos</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced><mi>d</mi><mi>x</mi><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>&#183;</mo><msup><mi>e</mi><mrow><mn>12</mn><mi>x</mi></mrow></msup><mo>=</mo><mfrac><msup><mi>e</mi><mrow><mn>12</mn><mi>x</mi></mrow></msup><mrow><msup><mn>12</mn><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mn>12</mn><mi>cos</mi><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac><mo>+</mo><mfrac><mi>&#960;</mi><mn>12</mn></mfrac><mi>sin</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced></mrow></mfenced><mo>+</mo><mi>C</mi></math></p><p>Now given curve is passing through&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>C</mi><mo>=</mo><mo>-</mo><mfrac><mn>12</mn><mrow><msup><mn>12</mn><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfrac></math></p><p>So <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mi>&#955;</mi></mfrac><mfenced close=\"]\" open=\"[\"><mrow><munder><munder><mrow><mn>12</mn><mi>cos</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced><mo>+</mo><mfrac><mi>&#960;</mi><mn>12</mn></mfrac><mi>sin</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced></mrow><mo>&#9183;</mo></munder><mrow><msub><mi>f</mi><mn>1</mn></msub><mfenced><mi>x</mi></mfenced></mrow></munder><mo>-</mo><mn>12</mn><msup><mi>e</mi><mrow><mo>-</mo><mn>12</mn><mi>x</mi></mrow></msup></mrow></mfenced></math></p><p>{Where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mo>=</mo><mfrac><mn>1</mn><mrow><msup><mn>12</mn><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfrac></math> }</p><p>Now on differentiating we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><msup><mi>&#955;</mi><mo>&#39;</mo></msup></mfrac><mfenced close=\"]\" open=\"[\"><mrow><munder><munder><mrow><mo>-</mo><mi>&#960;</mi><mi>sin</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced><mo>+</mo><mfrac><msup><mi>&#960;</mi><mn>2</mn></msup><msup><mn>12</mn><mn>2</mn></msup></mfrac><mi>cos</mi><mfenced><mfrac><mrow><mi>&#960;</mi><mi>x</mi></mrow><mn>12</mn></mfrac></mfenced></mrow><mo>&#9183;</mo></munder><mrow><msub><mi>f</mi><mn>2</mn></msub><mfenced><mi>x</mi></mfenced></mrow></munder><mo>+</mo><mn>12</mn><msup><mi>e</mi><mrow><mo>-</mo><mn>12</mn><mi>x</mi></mrow></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\"><mrow><mtext>where</mtext><mo>&#160;</mo><msup><mi>&#955;</mi><mo>&#39;</mo></msup><mo>=</mo><mfrac><mn>12</mn><mrow><msup><mn>12</mn><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfrac></mrow></mfenced></math></p><p>Now when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> is large then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><msup><mi>e</mi><mrow><mo>-</mo><mn>12</mn><mi>x</mi></mrow></msup></math> tends to zero.</p><p>But <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>2</mn></msub><mfenced><mi>x</mi></mfenced></math> varies in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mo>-</mo><msqrt><msup><mi>&#960;</mi><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mn>4</mn></msup></msqrt><mo>&#160;</mo><mo>,</mo><mo>&#160;</mo><msqrt><msup><mi>&#960;</mi><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mi>&#960;</mi><mn>12</mn></mfrac></mfenced><mn>4</mn></msup></msqrt></mrow></mfenced></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\"><mrow><mtext>by&#160;using&#160;</mtext><mo>-</mo><msqrt><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></msqrt><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msqrt><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></msqrt></mrow></mfenced></math></p><p>Hence <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac></math> is changing its sign.</p><p>So <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math> is non monotonic for all real number.<br />Also when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> is very large then again <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>12</mn><msup><mi>e</mi><mrow><mo>-</mo><mn>12</mn><mi>x</mi></mrow></msup></math> is almost zero but <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>1</mn></msub><mfenced><mi>x</mi></mfenced></math> is periodic, so there exist some <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> for which <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>&#946;</mi></math> intersect <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>y</mi><mfenced><mi>x</mi></mfenced></math> at infinitely many points.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b5a4",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<p>For any real numbers&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math>, let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mrow><mi>&#945;</mi><mo>,</mo><mi>&#946;</mi></mrow></msub><mfenced><mi>x</mi></mfenced><mo>,</mo><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math>, be the solution of the differential equation</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mi>&#945;</mi><mi>y</mi><mo>=</mo><mi>x</mi><msup><mi>e</mi><mrow><mi>&#946;</mi><mi>x</mi></mrow></msup><mo>,</mo><mi>y</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mn>1</mn></math></p><p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><msub><mi>y</mi><mrow><mi>&#945;</mi><mo>,</mo><mi>&#946;</mi></mrow></msub><mfenced><mi>x</mi></mfenced><mo>&#160;</mo><mo>:</mo><mi>&#945;</mi><mo>,</mo><mi>&#946;</mi><mo>&#8712;</mo><mi>R</mi></mrow></mfenced></math>. Then which of the following functions belong(s) to the set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math>?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9zOOE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>2</mn></mfrac><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mo>+</mo><mfenced><mrow><mi>e</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "EZr5K",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>2</mn></mfrac><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mo>+</mo><mfenced><mrow><mi>e</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "bePW3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mi>e</mi><mi>x</mi></msup><mn>2</mn></mfrac><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>+</mo><mfenced><mrow><mi>e</mi><mo>-</mo><mfrac><msup><mi>e</mi><mn>2</mn></msup><mn>4</mn></mfrac></mrow></mfenced><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "gTGtL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mi>e</mi><mi>x</mi></msup><mn>2</mn></mfrac><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced><mo>+</mo><mfenced><mrow><mi>e</mi><mo>+</mo><mfrac><msup><mi>e</mi><mn>2</mn></msup><mn>4</mn></mfrac></mrow></mfenced><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "bePW3",
+    "solution_text": "\\(\\frac{d y}{d x}+a y=x e^{\\beta x}\\)\r\nIntegrating factor (I.F.) \\(=\\mathrm{e}^{\\mathrm{adx}}=\\mathrm{e}^{\\mathrm{ax}}\\)\r\nSo, the solution is \\(y \\cdot e^{a x}=\\int x e^{\\beta x} \\cdot e^{a x} d x\\)\r\n\\(\\Rightarrow y e^{a x}=\\int x e^{(\\alpha+\\beta) x} d x\\)\r\nIf \\(\\alpha+\\beta \\neq 0\\)\r\n\\(\\Rightarrow y e^{a x}=x \\frac{e^{(\\alpha+\\beta) x}}{(\\alpha+\\beta)}-\\frac{e^{(\\alpha+\\beta) x}}{(\\alpha+\\beta)^2}+C\\)\r\n\\(\\Rightarrow y=\\frac{x e^{\\beta x}}{(\\alpha+\\beta)}-\\frac{e^{\\beta x}}{(\\alpha+\\beta)^2}+C e^{-a x}\\)\r\n\\(\\Rightarrow y=\\frac{e^{\\beta x}}{(\\alpha+\\beta)}\\left(x-\\frac{1}{a+\\beta}\\right)+C e^{-\\alpha x}\\)\r\nPut \\(\\alpha=\\beta=1\\) in (1)\r\n\\(y=\\frac{e^x}{2}\\left(x-\\frac{1}{2}\\right)+C e^{-x}\\)\r\n\\(y(1)=1\\)\r\n\\(1=\\frac{e}{2} \\times \\frac{1}{2}+\\frac{C}{e} \\Rightarrow c=e-\\frac{e^2}{4}\\)\r\nSo, \\(y=\\frac{e^x}{2}\\left(x-\\frac{1}{2}\\right)+\\left(e-\\frac{e^2}{4}\\right) e^{-x}\\)\r\nIf \\(\\alpha+\\beta=0 \\& \\alpha=1\\)\r\n\\(\\begin{aligned}\r\n&\\frac{d y}{d x}+y=x e^{-x} \\\\\r\n&\\text { I.F. }=e^x\r\n\\end{aligned}\\)\r\nSolution is \\(y e^x=\\int x d x\\)\r\n\\(\\Rightarrow y e^x=\\frac{x^2}{2}+C\\)\r\n\\(y=\\frac{x^2}{2} e^{-x}+C e^{-x}\\)\r\n\\(y(1)=1\\)\r\n\\(1=\\frac{1}{2 e}+\\frac{C}{e} \\Rightarrow C=e-\\frac{1}{2}\\)\r\n\\(y=\\frac{x^2}{2} e^{-x}+\\left(e-\\frac{1}{2}\\right) e^{-x}\\)",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a68f23ac7d519f9b427",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced open=\"[\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced><mo>&#8594;</mo><mi>R</mi></math> be a continuous function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>1</mn><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mi>x</mi></msubsup><msup><mi>e</mi><mrow><mi>x</mi><mo>-</mo><mi>t</mi></mrow></msup><mi>f</mi><mfenced separators=\"|\"><mi>t</mi></mfenced><mi>d</mi><mi>t</mi></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced open=\"[\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#8734;</mi></mrow></mfenced><mo>.</mo></math> Then, which of the following statement(s) is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VT2rR",
+        "text": "The curve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></math> pass&nbsp;through the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "56IhE",
+        "text": "The curve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></math> passes through the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "FJ1oi",
+        "text": "The area of the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mn>0,1</mn></mfenced><mo>&#215;</mo><mi>R</mi><mo>:</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>&#8804;</mo><mi>y</mi><mo>&#8804;</mo><msqrt><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></msqrt></mrow></mfenced><mi>&#160;</mi><mi>i</mi><mi>s</mi><mfrac><mrow><mi>&#960;</mi><mo>-</mo><mn>2</mn></mrow><mn>4</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "h6hcl",
+        "text": "The area of the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mn>0,1</mn></mfenced><mo>&#215;</mo><mi>R</mi><mo>:</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>&#8804;</mo><mi>y</mi><mo>&#8804;</mo><msqrt><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></msqrt></mrow></mfenced><mi>&#160;</mi><mi>i</mi><mi>s</mi><mfrac><mrow><mi>&#960;</mi><mo>-</mo><mn>1</mn></mrow><mn>4</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "FJ1oi",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fdf1cbac-2b99-435e-9eab-2e27046b36bb-image.png\"/>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>1</mn><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><msubsup><mo>∫</mo><mn>0</mn><mi>x</mi></msubsup><msup><mi>e</mi><mrow><mi>x</mi><mo>-</mo><mi>t</mi></mrow></msup><mi>f</mi><mfenced separators=\"|\"><mi>t</mi></mfenced><mi>d</mi><mi>t</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi> </mi><mi> </mi><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>x</mi></mrow></mfenced><mo>+</mo><msubsup><mo>∫</mo><mn>0</mn><mi>x</mi></msubsup><msup><mi>e</mi><mrow><mo>-</mo><mi>t</mi></mrow></msup><mi>f</mi><mfenced separators=\"|\"><mi>t</mi></mfenced><mi>d</mi><mi>t</mi></math>\r\n\r\nDifferentiate w.r.t. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>+</mo><msup><mi>e</mi><mrow><mo>+</mo><mi>x</mi></mrow></msup><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mrow><mo>-</mo><mi>e</mi></mrow><mrow><mo>-</mo><mi>x</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>x</mi></mrow></mfenced><mo>+</mo><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn></mrow></mfenced><mo>+</mo><msup><mi>e</mi><mrow><mo>-</mo><mi>x</mi></mrow></msup><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi> </mi><mo>-</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>+</mo><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><mo>+</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi> </mi><mi> </mi><msup><mi>f</mi><mi>′</mi></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>-</mo><mn>2</mn><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></math>\r\n\r\nIntegrating factor <math><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>.</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mo>=</mo><mo>∫</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mi>d</mi><mi>x</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>∫</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mi>d</mi><mi>x</mi><mo>-</mo><mo>∫</mo><mfenced separators=\"|\"><mrow><mfenced separators=\"|\"><mn>2</mn></mfenced><mo>∫</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mi>d</mi><mi>x</mi></mrow></mfenced><mi>d</mi><mi>x</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi> </mi><mfrac><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><msup><mi>e</mi><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup></mrow><mrow><mo>-</mo><mn>2</mn></mrow></mfrac><mo>-</mo><mi> </mi><mfrac><msup><mi>e</mi><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mn>2</mn></mfrac><mo>+</mo><mi>c</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mrow><mo>-</mo><mn>2</mn></mrow></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><msup><mi>e</mi><mrow><mn>2</mn><mi>x</mi></mrow></msup></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><mo>=</mo><mn>1</mn><mo>⇒</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mi> </mi><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>1</mn><mo>-</mo><mi>x</mi></math>\r\n\r\nArea <math><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>π</mi><mo>-</mo><mn>2</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a63f23ac7d519f9b3f4",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "If <math><mi>f</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> is a differentiable function such that <math><msup><mrow><mi>f</mi></mrow><mrow><mi>&#8242;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>2</mn><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> for all <math><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math> and <math><mi>f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math> then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XNoFZ",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&gt;</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup><mi>&nbsp;</mi><mi>i</mi><mi>n</mi><mi>&nbsp;</mi><mo>(</mo><mn>0</mn><mo>,</mo><mi>∞</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "luhXR",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi> </mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi> </mi><mo>(</mo><mn>0</mn><mo>,</mo><mi>∞</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "R30eo",
+        "text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi>&nbsp;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>&nbsp;</mi><mo>(</mo><mn>0</mn><mo>,</mo><mi>∞</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "x5gLy",
+        "text": "<math> <mrow>  <mi>f</mi><mi>&#x0020;</mi><mo>&#x0027;</mo><mrow><mo>(</mo>   <mi>x</mi>  <mo>)</mo></mrow><mo>&#x003C;</mo><msup>   <mi>e</mi>   <mrow>    <mn>2</mn><mi>x</mi>   </mrow>  </msup>  <mi>&#x00A0;</mi><mtext>in</mtext><mi>&#x00A0;</mi><mo stretchy='false'>(</mo><mn>0</mn><mo>,</mo><mi>&#x221E;</mi><mo stretchy='false'>)</mo> </mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "R30eo",
+    "solution_text": "<p>Given that,</p><p><math><msup><mrow><mi>f</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>2</mn><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msup><mrow><mi>f</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>0</mn><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfenced><mo>&#62;</mo><mn>0</mn><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mfrac><mrow><mi>d</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfenced><mo>&#62;</mo><mn>0</mn><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p>Let&nbsp; <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math></p><p>Now,&nbsp; <math><msup><mrow><mi>g</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>0</mn><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>&nbsp;is strictly increasing&nbsp;<math><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p>Also&nbsp; <math><mi>g</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mi>g</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>2</mn><mi>x</mi></mrow></msup><mo>.</mo><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>1</mn><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup><mi>&#160;</mi><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced></math></p><p>As,&nbsp; <math><msup><mrow><mi>f</mi></mrow><mrow><mi>&#39;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>2</mn><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>&#62;</mo><mn>2</mn><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup><mo>&#62;</mo><mn>2</mn><mo>&#8704;</mo><mi>&#160;</mi><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced></math></p><p><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>&nbsp; is strictly increasing on&nbsp;<math><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a51f23ac7d519f9b355",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mo>&#160;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced><mo>&#8594;</mo><mi>R</mi></math> be a differentiable function such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mo>-</mo><mfrac><mrow><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></mrow><mi>x</mi></mfrac><mo>&#8704;</mo><mi>x</mi><mo>&#8712;</mo><mo>(</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mo>&#8734;</mo><mo>)</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mn>1</mn></mfenced><mo>&#8800;</mo><mn>1</mn></math>. Then,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YIKqU",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>&#8289;</mo><mrow><msup> <mi>f</mi> <mo>&#8242;</mo> </msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "JPBQL",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>&#8289;</mo><mrow><mi>x</mi><mi>f</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ZuK9B",
+        "text": "<math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>&#8594;</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>&#8289;</mo><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup> <mi>f</mi> <mo>&#8242;</mo> </msup><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "jfvs2",
+        "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfenced><mo>&#8804;</mo><mn>2</mn></math> for all <math><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "YIKqU",
+    "solution_text": "<p>Let <math><mi>y</mi><mo>=</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math><br /><math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>y</mi></mrow><mrow><mi>x</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math> (linear first order differential equation)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>.</mo><mi mathvariant=\"normal\">F</mi><mo>.</mo><mo>=</mo><msup><mi>e</mi><mrow><mi mathvariant=\"normal\">&#8747;</mi><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mi>x</mi></mfrac></mrow></msup><mo>=</mo><msup><mi>e</mi><mrow><msub><mi>log</mi><mi>e</mi></msub><mfenced><mi>x</mi></mfenced></mrow></msup><mo>=</mo><mi>x</mi></math>,&nbsp;(I.F.=Integrating factor)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>y</mi><mo>&#183;</mo><mi>x</mi><mo>=</mo><mn>2</mn><mo>&#8747;</mo><mi>x</mi><mi>d</mi><mi>x</mi><mo>+</mo><mi>c</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>y</mi><mi>x</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>c</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mi>x</mi><mo>+</mo><mfrac><mi>c</mi><mi>x</mi></mfrac><mo>;</mo></math><br />As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mn>1</mn></mfenced><mo>&#8800;</mo><mn>1</mn><mo>&#160;</mo><mo>&#8658;</mo><mi>c</mi><mo>&#8800;</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>1</mn><mo>-</mo><mfrac><mi>c</mi><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>,</mo><mi>&#160;</mi><mi>c</mi><mi>&#160;</mi><mo>&#8800;</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced separators=\"|\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>c</mi><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>1</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><mi>x</mi><mi>f</mi><mfenced separators=\"|\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><mi>x</mi><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mi>c</mi><mi>x</mi></mrow></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>c</mi><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>1</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><msup><mi>x</mi><mn>2</mn></msup><msup><mi>f</mi><mo mathvariant=\"italic\">'</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><msup><mi>x</mi><mn>2</mn></msup><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mfrac><mi>c</mi><msup><mi>x</mi><mn>2</mn></msup></mfrac></mrow></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>c</mi></mrow></mfenced><mo>=</mo><mo>-</mo><mi>c</mi><mo>&#8800;</mo><mn>0</mn></math> as&nbsp;<math><mi>c</mi><mo>&#8800;</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mi>x</mi><mo>+</mo><mfrac><mi>c</mi><mi>x</mi></mfrac><mo>,</mo><mi>&#160;</mi><mi>c</mi><mo>&#8800;</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mo>&#8289;</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#8734;</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>function is not bounded in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>2</mn></mrow></mfenced></math>.</p>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a45f23ac7d519f9b2e3",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi mathvariant=\"normal\">y</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>)</mo></math> be a solution of the differential equation <math><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&#8242;</mi></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>=</mo><mn>1</mn><mo>.</mo></math> If <math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>2</mn></math> , then which of the following statements is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "h32Nj",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mn>4</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "YcGRO",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "MrxcC",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>)</mo></math>  has a critical point in the interval (-1, 0)",
+        "image": null
+      },
+      {
+        "id": "WdC52",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>)</mo></math>  has no critical point in the interval (-1, 0)",
+        "image": null
+      }
+    ],
+    "correct_answer": "MrxcC",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">y</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi><mo>=</mo><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></math> <br > <math><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">y</mi><mo>+</mo><mi mathvariant=\"normal\">d</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>.</mo><mi mathvariant=\"normal\">y</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></math> <br > <math><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>-</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><mi mathvariant=\"normal\">c</mi></math> <br >Now,  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>2</mn></math> <br > <math><mn>2</mn><mo>.</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>0</mn></mrow></msup><mo>=</mo><mn>0</mn><mo>-</mo><mn>2</mn><mo>+</mo><mi mathvariant=\"normal\">c</mi></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">c</mi><mo>=</mo><mn>4</mn></math> <br >Now,  <math><mi mathvariant=\"normal\">y</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>-</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><mn>4</mn></math> <br > <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mn>4</mn></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac></math> <br >Now,  <math><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mn>4</mn></mrow></mfenced><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac></math> <br > <math><mo>=</mo><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>+</mo><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">x</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>-</mo><mn>4</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">x</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>-</mo><mn>3</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac></math> <br > <math><msup><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi></math> <br > <math><msup><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">e</mi><mo>-</mo><mn>3</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mo>+</mo><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi></math> <br >Critical point in  <math><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mn>0</mn></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b2a0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "The function <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></math> is the solution of the differential equation <math><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">y</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">x</mi></mrow><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac></math> in (- 1 , 1) satisfying <math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>0</mn><mo>.</mo></math> Then <math><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></munderover><mrow><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></mrow></mrow></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gvliO",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "YoQFo",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mi mathvariant=\"normal\"> </mi><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "uC8nj",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>6</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "JdnWw",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>6</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "YoQFo",
+    "solution_text": "<math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>x</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfrac><mi>y</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>x</mi></mrow><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac></math>  <br >This is a linear differential equation<br >I.F.  <math><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo stretchy=\"false\">∫</mo><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfrac><mi> </mi><mi>d</mi><mi>x</mi></mrow></mrow></mrow></msup><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi> </mi><mi>I</mi><mi>n</mi><mi> </mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><mi> </mi><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>s</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi> </mi><mi>i</mi><mi>s</mi></math>  <br > <math><mi>y</mi><mi> </mi><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mrow><mo stretchy=\"false\">∫</mo><mrow><mfrac><mrow><mi>x</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac></mrow></mrow><mi> </mi><mo>.</mo><mi> </mi><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mi> </mi><mi>d</mi><mi>x</mi></math>  <br >Or  <math><mi>y</mi><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mrow><mo stretchy=\"false\">∫</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>x</mi></mrow></mfenced><mi> </mi><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>5</mn></mrow></mfrac><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>c</mi></mrow></mrow></math> <br > <math><mi>f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>0</mn><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>c</mi><mo>=</mo><mn>0</mn></math>  <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi> </mi><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>5</mn></mrow></mfrac><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math>  <br >Now,  <math><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></munderover><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi>d</mi><mi>x</mi><mo>=</mo></mrow></mrow><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac><mi> </mi><mi>d</mi><mi>x</mi></mrow></mrow></math>  (Using property)<br > <math><mo>=</mo><mn>2</mn><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac><mi> </mi><mi>d</mi><mi>x</mi></mrow></mrow><mo>=</mo><mn>2</mn><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></munderover><mrow><mfrac><mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mi>d</mi><mi>θ</mi></mrow></mrow><mi> </mi></math>  (Taking  <math><mi>x</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></math> ) <br > <math><mo>=</mo><mn>2</mn><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></munderover><mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mi>θ</mi><mi>d</mi><mi>θ</mi><mo>=</mo><mn>2</mn><msup><mrow><msub><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mi>θ</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mrow><mrow><mi mathvariant=\"italic\">sin</mi><mn>2</mn></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></msup></mrow></mrow></mrow></mrow><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mfenced><mo>-</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>8</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a17f23ac7d519f9b13e",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Let $y^{\\prime}(x)+y(x) g^{\\prime}(x)=g(x) g^{\\prime}(x) y(0)=0, x \\in R$, where $f^{\\prime}(x)$ denotes $\\frac{d f(x)}{d x}$ and $g(x)$ is a given non-constant differentiable function on $R$ with $g(0)=g(2)=0$. Then, the value of $y$ (2) is...",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0",
+    "solution_text": "$\\frac{d y}{d x}+y \\cdot g^{\\prime}(x)=g(x) g^{\\prime}(x)$\n$$\n\\mathrm{IF}=e^{\\int g^{\\prime}(x) d x}=e^{g(x)}\n$$\n$\\therefore$ Solution is\n\n$$\ny\\left(e^{g(x)}\\right)=\\int g(x) \\cdot g^{\\prime}(x) \\cdot e^{g(x)} d x+C\n$$\nPut $g(x)=t, g^{\\prime}(x) d x=d t$\n$$\n\\begin{aligned}\n& y\\left(e^{g(x)}\\right)=\\int t \\cdot e^t d t+C \\\\\n= & t \\cdot e^t-\\int 1 \\cdot e^t d t+C=t \\cdot e^t-e^t+C \\\\\n& y e^{g(x)}=(g(x)-1) e^{g(x)}+C \\quad \\ldots(\\mathrm{i})\n\\end{aligned}\n$$\nGiven, $y(0)=0, g(0)=g(2)=0$\n\n$\\therefore$ Eq. (i) becomes,\n$$\n\\begin{aligned}\n& \\quad y(0) \\cdot e^{g(0)}=(g(0)-1) \\cdot e^{g(0)}+C \\\\\n& \\Rightarrow \\quad 0=(-1) \\cdot 1+C \\Rightarrow C=1 \\\\\n& \\therefore \\quad y(x) \\cdot e^{g(x)}=(g(x)-1) e^{g(x)}+1 \\\\\n& \\Rightarrow \\quad y(2) \\cdot e^{g(2)}=(g(2)-1) e^{g(2)}+1 \\\\\n& \\text { where, } \\quad g(2)=0 \\\\\n& \\Rightarrow \\quad y(2) \\cdot 1=(-1) \\cdot 1+1 \\Rightarrow y(2)=0\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "64b16a03f23ac7d519f9b085",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Let $f$ be a real-valued differentiable function on $R$ (the set of all real numbers) such that $f(1)=1$. If the $y$-intercept of the tangent at any point $P(x, y)$ on the curve $y=f(x)$ is equal to the cube of the abscissa of $P$, then the value of $f(-3)$ is equal to",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "The equation of the tangent at $(x, y)$ to the given curve $y=f(x)$ is\n$$\n\\begin{gathered}\nY-y=\\frac{d y}{d x}(X-x) \\\\\nY \\text {-intercept }=y-x \\frac{d y}{d x}\n\\end{gathered}\n$$\nAccording to the question\n$$\nx^3=y-x \\frac{d y}{d x}\n$$\n\n$$\n\\Rightarrow \\quad \\frac{d y}{d x}-\\frac{y}{x}=-x^2\n$$\nwhich is linear in $x$.\n$$\n\\text { IF }=e^{\\int \\frac{-1}{x} d x}=\\frac{1}{x}\n$$\n$\\therefore$ Required solution is\n$$\n\\begin{aligned}\n& y \\cdot \\frac{1}{x}=\\int-x^2 \\cdot \\frac{1}{x} d x \\\\\n& \\Rightarrow \\quad \\frac{y}{x}=\\frac{-x^2}{2}+c \\\\\n& \\Rightarrow \\quad y=\\frac{-x^3}{2}+c x \\\\\n& \\text { At } x=1, y=1 \\text {, } \\\\\n& 1=\\frac{-1}{2}+c \\\\\n& \\Rightarrow \\quad c=\\frac{3}{2} \\\\\n&\n\\end{aligned}\n$$\nNow, $\\begin{aligned} f(-3) & =\\frac{27}{2}+\\frac{3}{2}(-3) \\\\ & =\\frac{27-9}{2}=9\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Linear Differential Equation"
+  },
+  {
+    "question_id": "6a0be51144d287c9361e5caa",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Let $y : (-\\infty, \\infty) \\rightarrow (0, \\infty)$ be the solution of the differential equation<br>$\\dfrac{dy}{dx} = \\dfrac{e^{5x} y^3 + y^3}{e^x + e^x y^4}$,<br>satisfying $y(0) = \\dfrac{1}{\\sqrt{2}}$. Then the value of $y(\\log_e 2)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bhEpL",
+        "text": "$\\sqrt{\\dfrac{5 + \\sqrt{35}}{2}}$",
+        "image": null
+      },
+      {
+        "id": "jdnXg",
+        "text": "$\\sqrt{\\dfrac{7 + \\sqrt{53}}{2}}$",
+        "image": null
+      },
+      {
+        "id": "Pq7kz",
+        "text": "$\\dfrac{7 + \\sqrt{53}}{2}$",
+        "image": null
+      },
+      {
+        "id": "39CFZ",
+        "text": "$\\dfrac{5 + \\sqrt{35}}{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "jdnXg",
+    "solution_text": "The given differential equation is<br><br>$\\dfrac{dy}{dx} = \\dfrac{e^{5x} y^3 + y^3}{e^x + e^x y^4}$<br><br>Factoring the numerator and denominator, we get<br><br>$\\dfrac{dy}{dx} = \\dfrac{y^3 (e^{5x} + 1)}{e^x (1 + y^4)}$<br><br>Separating the variables $x$ and $y$, we obtain<br><br>$\\dfrac{1 + y^4}{y^3} dy = \\dfrac{e^{5x} + 1}{e^x} dx$<br><br>$\\left( \\dfrac{1}{y^3} + y \\right) dy = (e^{4x} + e^{-x}) dx$<br><br>Integrating both sides yields<br><br>$\\int \\left( y^{-3} + y \\right) dy = \\int (e^{4x} + e^{-x}) dx$<br><br>$-\\dfrac{1}{2y^2} + \\dfrac{y^2}{2} = \\dfrac{e^{4x}}{4} - e^{-x} + C$<br><br>Multiplying by $2$, we get<br><br>$y^2 - \\dfrac{1}{y^2} = \\dfrac{e^{4x}}{2} - 2e^{-x} + 2C$<br><br>Using the initial condition $y(0) = \\dfrac{1}{\\sqrt{2}}$, we substitute $x = 0$ and $y = \\dfrac{1}{\\sqrt{2}}$:<br><br>$\\left(\\dfrac{1}{\\sqrt{2}}\\right)^2 - \\dfrac{1}{\\left(\\dfrac{1}{\\sqrt{2}}\\right)^2} = \\dfrac{e^0}{2} - 2e^0 + 2C$<br><br>$\\dfrac{1}{2} - 2 = \\dfrac{1}{2} - 2 + 2C$<br><br>This gives $2C = 0$, so $C = 0$. The equation becomes<br><br>$y^2 - \\dfrac{1}{y^2} = \\dfrac{e^{4x}}{2} - 2e^{-x}$<br><br>To find $y(\\log_e 2)$, we substitute $x = \\log_e 2$ into the equation. We have $e^{4x} = e^{4 \\log_e 2} = 16$ and $e^{-x} = e^{-\\log_e 2} = \\dfrac{1}{2}$.<br><br>$y^2 - \\dfrac{1}{y^2} = \\dfrac{16}{2} - 2\\left(\\dfrac{1}{2}\\right)$<br><br>$y^2 - \\dfrac{1}{y^2} = 8 - 1 = 7$<br><br>Let $y^2 = t$. Since $y \\in (0, \\infty)$, $t > 0$.<br><br>$t - \\dfrac{1}{t} = 7$<br><br>$t^2 - 7t - 1 = 0$<br><br>Solving for $t$ using the quadratic formula gives<br><br>$t = \\dfrac{7 \\pm \\sqrt{49 - 4(1)(-1)}}{2} = \\dfrac{7 \\pm \\sqrt{53}}{2}$<br><br>Since $t = y^2 > 0$, we must choose the positive root:<br><br>$y^2 = \\dfrac{7 + \\sqrt{53}}{2}$<br><br>Taking the positive square root since $y > 0$, we get<br><br>$y = \\sqrt{\\dfrac{7 + \\sqrt{53}}{2}}$",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "685102be6bba689a3eb09c7b",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "For all $x>0$, let $y_1(x), y_2(x)$, and $y_3(x)$ be the functions satisfying\n$\\begin{aligned} & \\frac{d y_1}{d x}-(\\sin x)^2 y_1=0, y_1(1)=5 \\\\ & \\frac{d y_2}{d x}-(\\cos x)^2 y_2=0, y_2(1)=\\frac{1}{3} \\\\ & \\frac{d y_3}{d x}-\\left(\\frac{2-x^3}{x^3}\\right) y_3=0, y_3(1)=\\frac{3}{5 e}\\end{aligned}$\nrespectively. Then $\\lim _{x \\rightarrow 0^{+}} \\frac{y_1(x) y_2(x) y_3(x)+2 x}{e^{3 x} \\sin x}$ is equal to _____",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "$\\begin{aligned} & \\frac{d y_1}{y_1}+\\frac{d y_2}{y_2}+\\frac{d y_3}{y_3}=\\left(\\sin ^2 x+\\cos ^2 x+\\frac{2-x^3}{x^3}\\right) d x \\\\ & \\ln \\left(y_1 y_2 y_3\\right)=\\frac{-1}{x^2}+C \\\\ & \\ln \\left(y_1(x) y_2(x) y_3(x)\\right)=\\frac{-1}{x^2}+C \\\\ & \\ln \\left(5 \\cdot \\frac{1}{3} \\cdot \\frac{3}{5 e}\\right)=\\frac{-1}{x^2}+C \\\\ & \\therefore C=0\\end{aligned}$\n$\\begin{aligned} & y_1(x) y_2(x) y_3(x)=e^{\\frac{-1}{x^2}} \\\\ & \\lim _{x \\rightarrow 0} \\frac{e^{\\frac{-1}{x^2}}+2 x}{e^{3 x} \\sin x} \\\\ & \\lim _{x \\rightarrow 0} \\frac{1}{e^{3 x+\\frac{1}{x^2}} \\sin x}+\\lim _{x \\rightarrow 0} \\frac{2 x}{e^{3 x} \\sin x}\\end{aligned}$\n$\\lim _{x \\rightarrow 0} \\frac{1}{e^{3 x} \\cdot \\frac{\\sin x}{x} \\cdot \\frac{e^{\\frac{1}{x^2}}}{\\frac{1}{x}}}+2$\n$=0+2 \\quad\\left\\{\\lim _{\\mathrm{y} \\rightarrow \\infty} \\frac{\\mathrm{e}^{\\mathrm{y}^2}}{\\mathrm{y}}=\\frac{\\mathrm{e}^{\\mathrm{y}^2} \\cdot 2 \\mathrm{y}}{1}=\\infty\\right\\}$\n$=2$",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b16a9ef23ac7d519f9b60f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mi>x</mi></mfenced></math> is the solution of the differential equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>d</mi><mi>y</mi><mo>-</mo><mfenced><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>y</mi></mrow></mfenced><mi>d</mi><mi>x</mi><mo>=</mo><mn>0</mn></math>&nbsp;for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#62;</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>y</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mn>2</mn></math>, and the slope of the curve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>y</mi><mfenced><mi>x</mi></mfenced></math> is never zero, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>y</mi><mfenced><msqrt><mn>2</mn></msqrt></mfenced></math> is _____ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<blockquote><p>Given differential equation is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mi>x</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mfenced><mrow><mfrac><mn>1</mn><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></mfenced><mi>d</mi><mi>y</mi><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mi>x</mi></mfrac></math></p><p>Integrating both sides, we get,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>ln</mi><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow><mi>y</mi></mfrac></mfenced><mo>=</mo><mi>ln</mi><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mo>+</mo><mi>c</mi></math></p><p>Given, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mn>2</mn></math></p><p>i.e.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mo>=</mo><mn>0</mn></math></p><p>So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow><mi>y</mi></mfrac><mo>=</mo><mo>&#177;</mo><msup><mi>x</mi><mn>4</mn></msup></math>&nbsp;or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mrow><mn>1</mn><mo>&#177;</mo><msup><mi>x</mi><mn>4</mn></msup></mrow></mfrac></math></p><p>Considering <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>4</mn></msup></mrow></mfrac></math></p><p>So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>y</mi><mfenced><msqrt><mn>2</mn></msqrt></mfenced><mo>=</mo><mn>10</mn><mfenced><mfrac><mn>4</mn><mrow><mn>1</mn><mo>+</mo><mn>4</mn></mrow></mfrac></mfenced><mo>=</mo><mn>8</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b16a86f23ac7d519f9b536",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi></math> be a nonzero real number. Suppose&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> is a differentiable function such that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn></math>. If the derivative <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> satisfies the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac></math>&nbsp;for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>,</mo></math> then which of the following statements is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RfIl4",
+        "text": "If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi><mo>&#62;</mo><mn>0</mn><mo>,</mo></math> then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is an increasing function",
+        "image": null
+      },
+      {
+        "id": "d6MD6",
+        "text": "If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi><mo>&#60;</mo><mn>0</mn><mo>,</mo></math>&nbsp;then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is a decreasing function",
+        "image": null
+      },
+      {
+        "id": "ZhSyg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#160;</mo><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mn>1</mn></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "aqJfM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>-</mo><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math> for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZhSyg",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&#8658;</mo><mfrac><mrow><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>l</mi><mi>n</mi><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mn>1</mn><mi>b</mi></mfrac><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfrac><mi>x</mi><mi>b</mi></mfrac><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8756;</mo><mn>0</mn><mo>=</mo><mn>0</mn><mo>+</mo><mi>C</mi><mo>&#8658;</mo><mi>C</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>l</mi><mi>n</mi><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mn>1</mn><mi>b</mi></mfrac><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfrac><mi>x</mi><mi>b</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mrow><mfrac><mn>1</mn><mi>b</mi></mfrac><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfrac><mi>x</mi><mi>b</mi></mfrac></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mrow><mfrac><mn>1</mn><mi>b</mi></mfrac><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfrac><mi>x</mi><mi>b</mi></mfrac></mrow></msup><mo>.</mo><mfrac><mn>1</mn><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&#62;</mo><mn>0</mn></math>&nbsp;for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></math> is increasing for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>.</mo><mi>f</mi><mfenced><mrow><mo>-</mo><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mi>e</mi><mrow><mfrac><mn>1</mn><mi>b</mi></mfrac><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfrac><mi>x</mi><mi>b</mi></mfrac></mrow></msup><mo>&#183;</mo><msup><mi>e</mi><mrow><mo>-</mo><mfrac><mn>1</mn><mi>b</mi></mfrac><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfrac><mi>x</mi><mi>b</mi></mfrac></mrow></msup><mo>=</mo><msup><mi>e</mi><mn>0</mn></msup><mo>=</mo><mn>1</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b16a75f23ac7d519f9b498",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi mathvariant=\"normal\">T</mi></math> denote a curve <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></math> which is in the first quadrant and let the point <math><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn></mrow></mfenced></math> lie on it. Let the tangent to <math><mi mathvariant=\"normal\">T</mi></math> at a point <math><mi mathvariant=\"normal\">P</mi></math> intersect the y-axis at <math><msub><mrow><mi mathvariant=\"normal\">Y</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><mo>.</mo></math> If <math><mi mathvariant=\"normal\">P</mi><msub><mrow><mi mathvariant=\"normal\">Y</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></math> has length <math><mn>1</mn></math> for each point <math><mi mathvariant=\"normal\">P</mi></math> on <math><mi mathvariant=\"normal\">T</mi><mo>,</mo></math> then which of the following is options is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "q0NhX",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfrac></mrow></mfenced><mo>-</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "fIiX2",
+        "text": "<math><mi mathvariant=\"normal\">x</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>-</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "2FxkW",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfrac></mrow></mfenced><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "QVKyT",
+        "text": "<math><mi mathvariant=\"normal\">x</mi><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "QVKyT",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/twlqmgfamhgrhtmxmvrheldzhoslkcoixnvdhxguujkkbruowq.png\"/><br >Let point <math><mi mathvariant=\"normal\">P</mi></math> is <math><mo>(</mo><mi mathvariant=\"normal\">h</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">k</mi><mo>)</mo></math><br >Now, equation of tangent at <math><mi mathvariant=\"normal\">P</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>y</mi><mo>-</mo><mi>k</mi><mo>)</mo><mo>=</mo><msub><mi>m</mi><mi>T</mi></msub><mi> </mi><mo>(</mo><mi>x</mi><mo>-</mo><mi> </mi><mi>h</mi><mo>)</mo></math> ...(i) ( <math><msub><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow></msub><mo>=</mo></math> slope of tangent at <math><mi mathvariant=\"normal\">P</mi></math> )<br >For <math><msub><mrow><mi>Y</mi></mrow><mrow><mi>P</mi></mrow></msub></math> , put <math><mi>x</mi><mo>=</mo><mn>0</mn></math> in.....(i)<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Y</mi><mi>P</mi></msub><mi> </mi><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi> </mi><mi>k</mi><mo>-</mo><mi> </mi><mi>h</mi><msub><mi>m</mi><mi>T</mi></msub></mrow></mfenced></math><br >Now, as given <math><mi>P</mi><msub><mrow><mi>Y</mi></mrow><mrow><mi>P</mi></mrow></msub><mo>=</mo><mn>1</mn></math><br ><math><msqrt><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup><msubsup><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msubsup></msqrt><mo>=</mo><mn>1</mn></math><br ><math><msqrt><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msubsup><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfenced></msqrt><mo>=</mo><mn>1</mn></math><br ><math><mn>1</mn><mo>+</mo><msubsup><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br ><math><msubsup><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mn>1</mn></math><br ><math><msubsup><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br ><math><msub><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow></msub><mo>=</mo><mo>±</mo><mfrac><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi>h</mi></mrow></mfrac></math><br >Put <math><msub><mrow><mi>m</mi></mrow><mrow><mi>T</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mtext> </mtext><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mtext> </mtext><mi>h</mi><mo>=</mo><mi>x</mi></math><br ><math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mo>±</mo><mfrac><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi>x</mi></mrow></mfrac><mtext> </mtext></math> ...(i)<br ><math><mi>y</mi><mo>=</mo><mo>±</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfenced></math><br >As the curve lies in <math><msup><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> quadrant y must be positive. Hence,<br ><math><mi>y</mi><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>-</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math><br >Also from equation (i) only negative sign will give the correct equation of centre.<br >Hence,<br ><math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow><mrow><mi>x</mi></mrow></mfrac></math><br ><math><mi>x</mi><msup><mrow><mi>y</mi></mrow><mrow><mi>′</mi></mrow></msup><mo>+</mo><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b16a6ff23ac7d519f9b461",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be a differentiable function with <math><mi>f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math>. If <math><mi>y</mi><mo>=</mo><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> satisfies the differential equation <math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>y</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>5</mn><mi>y</mi><mo>-</mo><mn>2</mn></mrow></mfenced></math>, then the value of&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mo>-</mo><mi>&#8734;</mi></mrow></munder><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></math>&nbsp;is&nbsp;",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.4",
+    "solution_text": "<math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mn>25</mn><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>4</mn></math><br />So&nbsp;&nbsp;<math><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mn>25</mn><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>4</mn></mrow></mfrac><mo>=</mo><mi>d</mi><mi>x</mi></math><br />Integrating&nbsp;&nbsp;<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><mo>×</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mi>y</mi><mo>-</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow><mrow><mi>y</mi><mo>+</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mi>c</mi></math><br /><math><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>5</mn><mi>y</mi><mo>-</mo><mn>2</mn></mrow><mrow><mn>5</mn><mi>y</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mn>20</mn><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></math><br />Now,&nbsp;&nbsp;<math><mi>c</mi><mo>=</mo><mn>0</mn></math>&nbsp;as&nbsp;<math><mi>f</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math><br />Hence,&nbsp;<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>5</mn><mi>y</mi><mo>-</mo><mn>2</mn></mrow><mrow><mn>5</mn><mi>y</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>20</mn><mi>x</mi></mrow></mfenced></mrow></msup></math><br /><math><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>5</mn><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn><mi>&nbsp;</mi></mrow><mrow><mn>5</mn><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mi>&nbsp;</mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mi>∞</mi></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>20</mn><mi>x</mi></mrow></mfenced></mrow></msup></mrow></mrow></math><br />Now,&nbsp;&nbsp;<br /><math > <mrow>  <mi>R</mi><mi>H</mi><mi>S</mi><mo>=</mo><mn>0</mn><mo>&#x21D2;</mo><munder>   <mrow>    <mi>lim</mi></mrow>   <mrow>    <mi>x</mi><mo>&#x2192;</mo><mo>&#x2212;</mo><mi>&#x221E;</mi></mrow>  </munder>  <mrow><mo>(</mo>   <mrow>    <mn>5</mn><mi>f</mi><mrow><mo>(</mo>     <mi>x</mi>    <mo>)</mo></mrow><mo>&#x2212;</mo><mn>2</mn></mrow>  <mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></math><br /><math><mo>⇒</mo><math> <mrow>  <munder>   <mrow>    <mi>lim</mi></mrow>   <mrow>    <mi>x</mi><mo>&#x2192;</mo><mo>&#x2212;</mo><mi>&#x221E;</mi></mrow>  </munder>  <mi>f</mi><mrow><mo>(</mo>   <mi>x</mi>  <mo>)</mo></mrow><mo>=</mo><mfrac>   <mn>2</mn>   <mn>5</mn>  </mfrac>  </mrow></math>",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b16a62f23ac7d519f9b3ef",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>y</mi><mfenced separators=\"|\"><mi>x</mi></mfenced></math> satisfies the differential equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><msqrt><mi>x</mi></msqrt><mfenced separators=\"|\"><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt></mfenced><mi>d</mi><mi>y</mi><mo>=</mo><msup><mfenced separators=\"|\"><msqrt><mn>4</mn><mo>+</mo><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt></msqrt></mfenced><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>d</mi><mi>x</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#62;</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>y</mi><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><msqrt><mn>7</mn></msqrt><mo>,</mo></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mfenced separators=\"|\"><mn>256</mn></mfenced><mo>=</mo></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZJdEG",
+        "text": "<math><mn>80</mn></math>",
+        "image": null
+      },
+      {
+        "id": "yAqDh",
+        "text": "<math><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "d6ky3",
+        "text": "<math><mn>16</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ArOD4",
+        "text": "<math><mn>9</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "yAqDh",
+    "solution_text": "<p><math><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mi>&#160;</mi><mrow><mo stretchy=\"false\">&#8747;</mo><mrow><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><msqrt><mn>4</mn><mo>+</mo><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt><mi>&#160;</mi><mo>.</mo><mi>&#160;</mi><msqrt><mi>x</mi></msqrt><mi>&#160;</mi><mo>.</mo><mi>&#160;</mi><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt></msqrt></mrow></mfrac></mrow></mrow></math></p><p>Put&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt><mo>=</mo><mi>t</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><msqrt><mi>x</mi></msqrt><mi>&#160;</mi><mo>.</mo><mi>&#160;</mi><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt></mrow></mfrac><mo>=</mo><mn>4</mn><mi>d</mi><mi>t</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>&#160;</mi><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mn>8</mn></mfrac><mi>&#160;</mi><mo>&#8747;</mo><mfrac><mrow><mi>d</mi><mi>t</mi></mrow><msqrt><mn>4</mn><mo>+</mo><mi>t</mi></msqrt></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mi>&#160;</mi><msqrt><mn>4</mn><mo>+</mo><mi>t</mi></msqrt><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mi>&#160;</mi><msqrt><mn>4</mn><mo>+</mo><msqrt><mn>9</mn><mo>+</mo><msqrt><mi>x</mi></msqrt></msqrt></msqrt><mo>+</mo><mi>C</mi></math></p><p>At&nbsp;&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>:</mo><mi>y</mi><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><mi>&#160;</mi><msqrt><mn>7</mn></msqrt><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>C</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>&#160;</mi><mi>y</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mi>&#160;</mi><msqrt><mn>4</mn><mo>+</mo><msqrt><mn>9</mn><mo>+</mo><mi>&#160;</mi><msqrt><mi>x</mi></msqrt></msqrt></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mfenced separators=\"|\"><mn>256</mn></mfenced><mo>=</mo><mn>3</mn></math></p>",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b16a3ef23ac7d519f9b2a1",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>&#8594;</mo><mi>R</mi></math> be a function which is continuous on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math> and is differentiable on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>&#160;</mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn></math>.&nbsp;Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><munderover><mo>&#8747;</mo><mn>0</mn><msup><mi>x</mi><mn>2</mn></msup></munderover><mi>f</mi><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><msqrt><mi>t</mi></msqrt></mfenced><mi>d</mi><mi>t</mi></math>&nbsp;for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>.</mo></math> If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>F</mi><mo>'</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mi>f</mi><mo>'</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced></math>&nbsp;for all&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>,</mo></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced separators=\"|\"><mn>2</mn></mfenced></math> equals",
+    "question_image": null,
+    "options": [
+      {
+        "id": "i6VNi",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">e</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "L27X8",
+        "text": "<math><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "A3nCY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">e</mi><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "SYf0b",
+        "text": "<math><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>4</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "L27X8",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>F</mi><mo>&#39;</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mi>x</mi><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced separators=\"|\"><mi>x</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>c</mi></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><msup><mi>x</mi><mn>2</mn></msup></msup><mi>&#160;</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mo>&#8757;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>f</mi><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><munderover><mo>&#8747;</mo><mn>0</mn><msup><mi>x</mi><mn>2</mn></msup></munderover><msup><mi>e</mi><mi>x</mi></msup><mi>&#160;</mi><mi>d</mi><mi>x</mi><mi>&#160;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><msup><mi>x</mi><mn>2</mn></msup></msup><mo>-</mo><mn>1</mn><mi>&#160;</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mo>&#8757;</mo><mi>&#160;</mi><mi>F</mi><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><mn>0</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#160;</mi><mi>F</mi><mfenced separators=\"|\"><mn>2</mn></mfenced><mo>=</mo><msup><mi>e</mi><mn>4</mn></msup><mo>-</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b169ecf23ac7d519f9afb9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Let a solution $y=y(x)$ of the differential equation $x \\sqrt{x^2-1} d y-y \\sqrt{y^2-1} d x=0$ satisfy $y(2)=\\frac{2}{\\sqrt{3}}$\nStatement $1 y(x)=\\sec \\left(\\sec ^{-1} x-\\frac{\\pi}{6}\\right)$\nStatement $2 y(x)$ is given by $\\frac{1}{y}=\\frac{2 \\sqrt{3}}{x}-\\sqrt{1-\\frac{1}{x^2}}$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TPjtD",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "9R3kA",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "aSrUC",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "6QoQ4",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "aSrUC",
+    "solution_text": "$\\because \\frac{d y}{d x}=\\frac{y \\sqrt{y^2-1}}{x \\sqrt{x^2-1}} \\Rightarrow \\int \\frac{d y}{y \\sqrt{y^2-1}}=\\int \\frac{d x}{x \\sqrt{x^2-1}}$ $\\Rightarrow \\quad \\sec ^{-1} y=\\sec ^{-1} x+C$ At $\\quad x=2, y=\\frac{2}{\\sqrt{3}}$ $$ \\frac{\\pi}{6}=\\frac{\\pi}{3}+C \\Rightarrow C=-\\frac{\\pi}{6} $$\nNow, $y=\\sec \\left(\\sec ^{-1} x-\\frac{\\pi}{6}\\right)$\n\n$$\n\\begin{aligned}\n& =\\cos \\left[\\cos ^{-1} \\frac{1}{x}-\\cos ^{-1} \\frac{\\sqrt{3}}{2}\\right] \\\\\n& =\\cos \\left[\\cos ^{-1}\\left(\\frac{\\sqrt{3}}{2 x}+\\sqrt{1-\\frac{1}{x^2}} \\sqrt{1-\\frac{3}{4}}\\right)\\right] \\\\\n\\Rightarrow \\quad \\frac{1}{y} & =\\frac{\\sqrt{3}}{2 x}+\\frac{1}{2} \\sqrt{1-\\frac{1}{x^2}} \\\\",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  },
+  {
+    "question_id": "64b169ddf23ac7d519f9af2d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "The differential equation $\\frac{d y}{d x}=\\frac{\\sqrt{1-y^2}}{y}$ determines a family of circles with",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LvwJK",
+        "text": "\nvariable radii and a fixed centre at $(0,1)$\n",
+        "image": null
+      },
+      {
+        "id": "jJEv2",
+        "text": "\nvariable radii and a fixed centre at $(0,-1)$\n",
+        "image": null
+      },
+      {
+        "id": "jLqUc",
+        "text": "\nfixed radius 1 and variable centres along the $\\mathrm{X}$-axis\n",
+        "image": null
+      },
+      {
+        "id": "UEYgR",
+        "text": "\nfixed radius 1 and variable centres along the $\\mathrm{Y}$-axis",
+        "image": null
+      }
+    ],
+    "correct_answer": "jLqUc",
+    "solution_text": "$$\n\\begin{aligned}\n& \\frac{d y}{d x}=\\frac{\\sqrt{1-y^2}}{y} \\\\\n& \\Rightarrow \\quad \\int \\frac{y}{\\sqrt{1-y^2}} d y=\\int d x \\\\\n& \\Rightarrow \\quad-\\sqrt{1-y^2}=x+C \\\\\n& \\Rightarrow \\quad(x+c)^2+y^2=1 \\\\\n&\n\\end{aligned}\n$$\nCentre $(-C, 0)$ and radius $=1$.",
+    "solution_image": null,
+    "topic": "Variable Separable Form"
+  }
+]

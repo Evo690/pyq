@@ -1,0 +1,1059 @@
+[
+  {
+    "question_id": "685102c56bba689a3eb09ccc",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "An electrochemical cell is fueled by the combustion of butane at 1 bar and 298 K . Its cell potential is $\\frac{\\boldsymbol{X}}{\\boldsymbol{F}} \\times 10^3$ volts, where $\\boldsymbol{F}$ is the Faraday constant. The value of $\\boldsymbol{X}$ is $\\qquad$ .<br>Use : Standard Gibbs energies of formation at 298 K are : $\\Delta_f G_{\\mathrm{CO}_2}^{\\circ}=-394 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$;\n$\\Delta_f G_{\\text {water }}^{\\circ}=-237 \\mathrm{~kJ} \\mathrm{~mol}^{-1} ; \\Delta_f G_{\\text {butane }}^{\\circ}=-18 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "105.5",
+    "solution_text": "$\\begin{aligned} & \\mathrm{C}_4 \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_2(\\mathrm{~g}) \\rightarrow 4 \\mathrm{CO}_2(\\mathrm{~g})+5 \\mathrm{H}_2 \\mathrm{O}(l) \\\\ & \\Delta_{\\mathrm{r}} \\mathrm{G}^{\\circ}=4 \\Delta_{\\mathrm{f}} \\mathrm{G}_{\\mathrm{CO}_2}^{\\circ}+5 \\Delta_{\\mathrm{f}} \\mathrm{G}_{\\mathrm{H}_2 \\mathrm{O}}^{\\circ}-\\Delta_{\\mathrm{f}} \\mathrm{G}_{\\mathrm{C}_4 \\mathrm{H}_{10}}^{\\circ} \\\\ & =4 \\times(-394)+5(-237)+18 \\\\ & =-2743 \\mathrm{~kJ} / \\mathrm{mol} \\\\ & \\Delta_{\\mathrm{r}} \\mathrm{G}^{\\circ}=-\\mathrm{nFE}^{\\circ} \\\\ & -2743 \\times 1000=-26 \\times \\mathrm{FE}^{\\circ} \\\\ & \\mathrm{E}^{\\circ}=\\frac{105.5}{\\mathrm{~F}} \\times 10^3=105.50\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "685102c06bba689a3eb09c96",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "In an electrochemicalcell, dichromate ions in aqueous acidic medium are reduced to $\\mathrm{Cr}^{3+}$. The current (in amperes) that flows through the cell for 48.25 minutes to produce 1 mole of $\\mathrm{Cr}^{3+}$ is _____ .\nUse: 1 Faraday $=96500 \\mathrm{C} \\mathrm{mol}^{-1}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "100",
+    "solution_text": "For reduction of dichromate, balanced reaction is :\n$\\mathrm{Cr}_2 \\mathrm{O}_7^{-2}(\\mathrm{aq})+6 \\mathrm{e}^{-}+14 \\mathrm{H}^{+}(\\mathrm{aq}) \\rightarrow 2 \\mathrm{Cr}^{3+}(\\mathrm{aq})+7 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{l})$\n$\\qquad \\qquad \\qquad3 Mole$ $\\qquad \\qquad \\qquad \\qquad 1 Mole$\nNumber of Farads required $=3 \\mathrm{~mol}$\nLet current $=\\mathrm{I}$ amperes\n$\\begin{aligned}\n& \\Rightarrow \\frac{I \\times 48.25 \\times 60}{96500}=3 \\\\\n& I=100 \\mathrm{~A}\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "66965de0d603121f43a42d0e",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "An aqueous solution of hydrazine $\\left(\\mathrm{N}_2 \\mathrm{H}_4\\right)$ is electrochemically oxidized by $\\mathrm{O}_2$, thereby releasing chemical energy in the form of electrical energy. One of the products generated from the electrochemical reaction is $\\mathrm{N}_2(\\mathrm{~g})$.\nChoose the correct statement(s) about the above process :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BW4Vf",
+        "text": "$\\mathrm{OH}^{-}$ions react with $\\mathrm{N}_2 \\mathrm{H}_4$ at the anode to form $\\mathrm{N}_2(\\mathrm{~g})$ and water, releasing 4 electrons to the anode.",
+        "image": null
+      },
+      {
+        "id": "MnEz3",
+        "text": "At the cathode, $\\mathrm{N}_2 \\mathrm{H}_4$ breaks to $\\mathrm{N}_2(\\mathrm{~g})$ and nascent hydrogen released at the electrode reacts with oxygen to form water.",
+        "image": null
+      },
+      {
+        "id": "OdoUA",
+        "text": "At the cathode, molecular oxygen gets converted to $\\mathrm{OH}^{-}$.",
+        "image": null
+      },
+      {
+        "id": "YHKNG",
+        "text": "Oxides of nitrogen are major by-products of the electrochemical process.",
+        "image": null
+      }
+    ],
+    "correct_answer": "OdoUA",
+    "solution_text": "\\(\\underset{\\substack{\\text { Oxidation } \\\\ \\text { (Anode) }}}{\\stackrel{-2\\qquad}{N_2H_4}}+\\underset{\\substack{\\text { Reduction } \\\\ \\text { (Cathode) }}}{\\stackrel{0}{O_2}} \\longrightarrow \\stackrel{0}{N_2}+\\mathrm{H}_2 \\mathrm{O}^{-2}\\)\r\nAt anode:\r\n\\(\\mathrm{N}_2 \\mathrm{H}_4+4 \\mathrm{OH}^{-} \\longrightarrow \\mathrm{N}_2+4 \\mathrm{H}_2 \\mathrm{O}+4 e^{-}\\)\r\nAt cathode:\r\n\\(\\mathrm{O}_2+2 \\mathrm{H}_2 \\mathrm{O}+4 e^{-} \\longrightarrow 4 \\mathrm{OH}^{-}\\)\r\nComplete reaction:\r\n\\(\\mathrm{N}_2 \\mathrm{H}_4+\\mathrm{O}_2 \\longrightarrow \\mathrm{N}_2+2 \\mathrm{H}_2 \\mathrm{O}\\)\r\nStatements (A) and (C) are correct.",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a96f23ac7d519f9b5c7",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>The reduction potential <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"\"><msup><mi mathvariant=\"normal\">E</mi><mn>0</mn></msup></mfenced></math>, in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"\"><mi mathvariant=\"normal\">V</mi></mfenced></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>MnO</mi><mn>4</mn><mo>-</mo></msubsup><mfenced><mi>aq</mi></mfenced><mo>/</mo><mi>Mn</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math> is</p><p>[Given:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi mathvariant=\"normal\">E</mi><mfenced><mrow><msubsup><mi>MnO</mi><mn>4</mn><mo>-</mo></msubsup><mfenced><mi>aq</mi></mfenced><mo>/</mo><msub><mi>MnO</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mrow></mfenced><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mn>1</mn><mo>.</mo><mn>68</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi><mo>;</mo><mo>&#160;</mo><msubsup><mi mathvariant=\"normal\">E</mi><mfenced><mrow><msub><mi>MnO</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>/</mo><msup><mi>Mn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced><mi>aq</mi></mfenced></mrow></mfenced><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mn>1</mn><mo>.</mo><mn>21</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi><mo>;</mo><mo>&#160;</mo><mo>&#160;</mo><msubsup><mi mathvariant=\"normal\">E</mi><mfenced><mrow><msup><mi>Mn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced><mi>aq</mi></mfenced><mo>/</mo><mi>Mn</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mrow></mfenced><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mo>-</mo><mn>1</mn><mo>.</mo><mn>03</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>]</p><p>Truncate/round-off the value to TWO decimal places.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.77",
+    "solution_text": "<blockquote><p>Given</p><p>(1) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>MnO</mi><mn>4</mn><mo>-</mo></msubsup><mfenced><mi>aq</mi></mfenced><mo>+</mo><mn>4</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">e</mi><mo>&#10230;</mo><msub><mi>MnO</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">E</mi><mo>&#176;</mo><mo>=</mo><mn>1</mn><mo>.</mo><mn>68</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;G</mi><mn>1</mn></msub><mo>&#176;</mo><mo>=</mo><mo>-</mo><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi><mfenced><mrow><mn>1</mn><mo>.</mo><mn>68</mn></mrow></mfenced><mo>=</mo><mo>-</mo><mn>5</mn><mo>.</mo><mn>04</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi></math></p><p>(2) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MnO</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>+</mo><mn>4</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">e</mi><mo>&#10230;</mo><msub><msup><mi>Mn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mrow><mo>(</mo><mi>aq</mi><mo>)</mo></mrow></msub><mo>&#160;</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">E</mi><mo>&#176;</mo><mo>=</mo><mn>1</mn><mo>.</mo><mn>21</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;G</mi><mn>2</mn></msub><mo>&#176;</mo><mo>=</mo><mo>-</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi><mfenced><mrow><mn>1</mn><mo>.</mo><mn>21</mn></mrow></mfenced><mo>=</mo><mo>-</mo><mn>2</mn><mo>.</mo><mn>42</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi></math></p><p>(3) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Mn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced><mi>aq</mi></mfenced><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">e</mi><mo>&#10230;</mo><mi>Mn</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math>;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">E</mi><mo>&#176;</mo><mo>=</mo><mo>-</mo><mn>1</mn><mo>.</mo><mn>03</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;G</mi><mn>3</mn></msub><mo>&#176;</mo><mo>=</mo><mo>-</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi><mfenced><mrow><mo>-</mo><mn>1</mn><mo>.</mo><mn>03</mn></mrow></mfenced><mo>=</mo><mo>+</mo><mn>2</mn><mo>.</mo><mn>06</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi></math></p><p>Adding&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>,</mo><mfenced><mn>2</mn></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>MnO</mi><mn>4</mn><mo>-</mo></msubsup><mfenced><mi>aq</mi></mfenced><mo>+</mo><mn>8</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><mn>7</mn><mi mathvariant=\"normal\">e</mi><mo>&#10230;</mo><mi>Mn</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>+</mo><mn>4</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><msub><mi>&#916;G</mi><mn>1</mn></msub><mo>&#176;</mo><mo>+</mo><msub><mi>&#916;G</mi><mn>2</mn></msub><mo>&#176;</mo><mo>+</mo><msub><mi>&#916;G</mi><mn>3</mn></msub><mo>&#176;</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mo>-</mo><mn>5</mn><mo>.</mo><mn>04</mn><mo>-</mo><mn>2</mn><mo>.</mo><mn>42</mn><mo>+</mo><mn>2</mn><mo>.</mo><mn>06</mn></mrow></mfenced><mi mathvariant=\"normal\">F</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>7</mn><mo>&#160;</mo><mi>FE</mi><mo>&#176;</mo><mo>=</mo><mo>-</mo><mn>5</mn><mo>.</mo><mn>40</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">E</mi><mo>&#176;</mo><mo>=</mo><mn>0</mn><mo>.</mo><mn>77</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a90f23ac7d519f9b591",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Some standard electrode potentials at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> are given below:<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"left\"><mtr><mtd><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>/</mo><mi>Pb</mi></mtd><mtd><mo>-</mo><mn>0</mn><mo>.</mo><mn>13</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"left\"><mtr><mtd><msup><mi>Ni</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>/</mo><mi>Ni</mi></mtd><mtd><mo>-</mo><mn>0</mn><mo>.</mo><mn>24</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"left\"><mtr><mtd><msup><mi>Cd</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>/</mo><mi>Cd</mi></mtd><mtd><mo>-</mo><mn>0</mn><mo>.</mo><mn>40</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"left\"><mtr><mtd><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>/</mo><mi>Fe</mi></mtd><mtd><mo>-</mo><mn>0</mn><mo>.</mo><mn>44</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></mtd></mtr></mtable></math></p><p>To a solution containing <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>001</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"bold\">X</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"bold\">Y</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>, the metal rods <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">X</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">Y</mi></math> are inserted <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo></math>at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>)</mo></math> and connected by a conducting wire. This resulted in dissolution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">X</mi></math>. The correct combination(s) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">X</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">Y</mi></math>, respectively, is(are)</p><p>(Given: Gas constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>8</mn><mo>.</mo><mn>314</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><msup><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mrow><mo>&#160;</mo><mi>mol</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, Faraday constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>96500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0MDaT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ilx31",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Fe</mi></math>",
+        "image": null
+      },
+      {
+        "id": "3yQCx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi></math>",
+        "image": null
+      },
+      {
+        "id": "bpJZj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Fe</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3yQCx",
+    "solution_text": "<p>Since&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>&nbsp;is getting dissolved, so reaction is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mtable columnalign=\"left\"><mtr><mtd><mi mathvariant=\"normal\">X</mi><mo>&#8594;</mo><msup><mi mathvariant=\"normal\">X</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi mathvariant=\"normal\">e</mi><mo>-</mo></msup><mo>&#160;</mo><mo>&#160;</mo><mfenced close=\"]\" open=\"[\"><mi>Anode</mi></mfenced></mtd></mtr><mtr><mtd><msup><mi mathvariant=\"normal\">Y</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi mathvariant=\"normal\">e</mi><mo>-</mo></msup><mo>&#8594;</mo><mi mathvariant=\"normal\">Y</mi><mo>&#160;</mo><mo>&#160;</mo><mfenced close=\"]\" open=\"[\"><mi>cathode</mi></mfenced></mtd></mtr></mtable><mrow><msup><mi mathvariant=\"normal\">Y</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">X</mi><mo>&#8594;</mo><msup><mi mathvariant=\"normal\">X</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">Y</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>=</mo><msubsup><mi mathvariant=\"normal\">E</mi><mi>cell</mi><mo>&#176;</mo></msubsup><mo>-</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>06</mn></mrow><mn>2</mn></mfrac><mi>log</mi><mfrac><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mn>10</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>=</mo><msubsup><mi mathvariant=\"normal\">E</mi><mi>cell</mi><mo>&#176;</mo></msubsup><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn></math></p><p>(A)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>Ni</mi></math></p>\r\n\\(=0.16+0.05912 \\times 2\\)\r\n\\(=.16+0.0591\\)\r\n\\(=0.21(+\\mathrm{ve})\\)\r\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>&#60;</mo><mn>0</mn></math>&nbsp;(Non-spontaneous)</p><p>(B)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cd</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>Fe</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>=</mo><mo>&#8722;</mo><mn>0</mn><mo>.044</mo><mo>&#8722;</mo><mfenced><mrow><mo>&#8722;</mo><mn>0</mn><mo>.40</mo></mrow></mfenced><mo>+</mo><mn>0</mn><mo>.06</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>04</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>02</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>&#62;</mo><mn>0</mn></math>&nbsp;(Spontaneous)</p><p>(C)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>Pb</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>=</mo><mfenced><mrow><mo>&#8722;</mo><mn>0</mn><mo>.13</mo><mo>&#8722;</mo><mfenced><mrow><mo>&#8722;</mo><mn>0</mn><mo>.24</mo></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>0</mn><mo>.06</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>11</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>17</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>&#62;</mo><mn>0</mn></math>&nbsp;(spontaneous)</p><p>(D)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ni</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>Fe</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>=</mo><mfenced><mrow><mo>&#8722;</mo><mn>0</mn><mo>.44</mo><mo>&#8722;</mo><mfenced><mrow><mo>&#8722;</mo><mn>0</mn><mo>.24</mo></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>0</mn><mo>.06</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>20</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>06</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>14</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mi>cell</mi></msub><mo>&#60;</mo><mn>0</mn></math>&nbsp;(Non-Spontaneous)</p>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a7ff23ac7d519f9b4f6",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>Consider a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>70</mn><mo>%</mo></math> efficient hydrogen-oxygen fuel cell working under standard conditions at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> bar and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>. Its cell reaction is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>(</mo><mi mathvariant=\"normal\">l</mi><mo>)</mo></math></p><p>The work derived from the cell on the consumption of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>0</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn><mo>&#160;</mo></mrow></msup><mi>mol</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math> is used to compress <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>mol</mi></math> of a monoatomic ideal gas in a thermally insulated container. What is the change in the temperature (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> ) of the ideal gas?</p><p>The standard reduction potentials for the two half-cells are given below.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>+</mo><mn>4</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>(</mo><mi>aq</mi><mo>)</mo><mo>+</mo><mn>4</mn><msup><mi mathvariant=\"normal\">e</mi><mo>-</mo></msup><mo>&#8594;</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>(</mo><mi mathvariant=\"normal\">l</mi><mo>)</mo><mo>,</mo><mo>&#160;&#160;</mo><msup><mi mathvariant=\"normal\">E</mi><mn>0</mn></msup><mo>=</mo><mn>1</mn><mo>.</mo><mn>23</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>(</mo><mi>aq</mi><mo>)</mo><mo>+</mo><mn>2</mn><msup><mi mathvariant=\"normal\">e</mi><mo>-</mo></msup><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>,</mo><mo>&#160;&#160;</mo><msup><mi mathvariant=\"normal\">E</mi><mn>0</mn></msup><mo>=</mo><mn>0</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p>Use <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>96500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>8</mn><mo>.</mo><mn>314</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "13.32",
+    "solution_text": "<p>For given reaction&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mover><mo>&#10230;</mo><mrow><mn>2</mn><msup><mi mathvariant=\"normal\">e</mi><mo>-</mo></msup></mrow></mover><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mfenced><mi mathvariant=\"normal\">l</mi></mfenced></math>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">E</mi><mo>&#176;</mo><mo>=</mo><mn>1</mn><mo>.</mo><mn>23</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;G</mi><mo>&#176;</mo></msup><mo>=</mo><mo>-</mo><msub><mi>nFE</mi><mtext>cell&#160;</mtext></msub><mo>&#176;</mo><mo>=</mo><mo>[</mo><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>96500</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>23</mn><mo>]</mo><mo>&#160;</mo><mn>1</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>7</mn><mo>=</mo><mo>-</mo><mn>166</mn><mo>.</mo><mn>173</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">W</mi><mo>=</mo><mn>166</mn><mo>.</mo><mn>173</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">W</mi><mo>=</mo><mtable columnalign=\"left\"><mtr><mtd><mi>nR&#916;T</mi></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">&#947;</mi><mo>-</mo><mn>1</mn></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>166</mn><mo>.</mo><mn>173</mn><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#215;</mo><mn>8</mn><mo>.</mo><mn>314</mn><mo>&#215;</mo><mi>&#916;T</mi></mrow><mfenced><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced></mfrac><mo>=</mo><mfrac><mrow><mn>8</mn><mo>.</mo><mn>314</mn><mo>&#215;</mo><mn>3</mn></mrow><mn>2</mn></mfrac><mi>&#916;T</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;T</mi><mo>=</mo><mfrac><mrow><mn>166</mn><mo>.</mo><mn>173</mn><mo>&#215;</mo><mn>2</mn></mrow><mrow><mn>8</mn><mo>.</mo><mn>314</mn><mo>&#215;</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mn>13</mn><mo>.</mo><mn>32</mn></math></p>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a6df23ac7d519f9b453",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Consider an electrochemical cell: <math> <mrow> <mtext>A</mtext><mfenced> <mtext>s</mtext> </mfenced><mtext>&#160;</mtext><mfenced close=\"|\" open=\"|\"> <mrow> <msup> <mrow> <mtext>&#160;A</mtext></mrow> <mrow> <mtext>n+</mtext></mrow> </msup> <mtext>&#160;</mtext><mfenced> <mrow> <mtext>aq,&#160;2&#160;M</mtext></mrow> </mfenced><mtext>&#160;</mtext></mrow> </mfenced><mfenced close=\"|\" open=\"|\"> <mrow> <msup> <mrow> <mtext>&#160;B</mtext></mrow> <mrow> <mtext>2n+</mtext></mrow> </msup> <mfenced> <mrow> <mtext>aq,&#160;1&#160;M</mtext></mrow> </mfenced><mtext>&#160;</mtext></mrow> </mfenced><mtext>&#160;B</mtext><mfenced> <mtext>s</mtext> </mfenced></mrow> </math>. The value of <math> <mrow> <msup> <mrow> <mtext>&#916;H</mtext></mrow> <mtext>o</mtext> </msup> </mrow> </math> for the cell reaction is twice that of <math> <mrow> <msup> <mrow> <mtext>&#916;G</mtext></mrow> <mtext>o</mtext> </msup> </mrow> </math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>300&#160;K</mtext><mtext>.</mtext></math> If the emf of the cell is zero, the magnitude of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><msup><mtext>S</mtext><mo>o</mo></msup></math> <math> <mrow> <mfenced> <mrow> <mtext>in</mtext><mo>&#160;</mo><msup> <mtext>J</mtext> <mrow> <mo>&#8722;</mo><mn>1</mn></mrow> </msup> <msup> <mtext>K</mtext> <mrow> <mo>&#8722;</mo><mn>1</mn></mrow> </msup> <mo>&#160;</mo><msup> <mrow> <mtext>mol</mtext></mrow> <mrow> <mo>&#8722;</mo><mn>1</mn></mrow> </msup> </mrow> </mfenced></mrow></math> of the cell reaction per mole of <math> <mtext>B</mtext> </math> formed at <math> <mrow> <mtext>300</mtext><mtext>&#8196;</mtext><mtext>K</mtext></mrow> </math> is ____<br />(Given: R&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>=</mtext><mtext>&#8196;</mtext><mtext>8</mtext><mtext>.3</mtext><mtext>&#8196;</mtext><msup><mtext>JK</mtext><mrow><mo>&#8722;</mo><mtext>1</mtext></mrow></msup><msup><mtext>mol</mtext><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup><mo>.</mo></math> <math> <mrow> <mtext>H,</mtext><mtext>&#8196;</mtext><mtext>S</mtext></mrow> </math> and <math> <mtext>G</mtext> </math> are enthalpy, entropy and Gibbs energy, respectively.)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "-11.62",
+    "solution_text": "<math> <mrow> <mtext>A(s)</mtext><mtext>&#8196;</mtext><mtext>|</mtext><mtext>&#8196;</mtext><msup> <mtext>A</mtext> <mrow> <mtext>+n</mtext></mrow> </msup> <mtext>(aq</mtext><mtext>.</mtext><mtext>&#8196;</mtext><mtext>2</mtext><mtext>&#8196;</mtext><mtext>M)</mtext><mtext>&#8196;</mtext><mtext>||</mtext><mtext>&#8196;</mtext><msup> <mtext>B</mtext> <mrow> <mtext>+2n</mtext></mrow> </msup> <mtext>(aq</mtext><mtext>.</mtext><mtext>&#8196;</mtext><mtext>1</mtext><mtext>&#8196;</mtext><mtext>M)</mtext><mtext>&#8196;</mtext><mtext>|</mtext><mtext>&#8196;</mtext><mtext>B(s)</mtext></mrow> </math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mtext>&#916;H</mtext><mtext>o</mtext></msup><mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><msup><mtext>2&#916;G</mtext><mtext>o</mtext></msup><msub><mtext>&#160;&#160;&#160;&#160;E</mtext><mtext>cell</mtext></msub><mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mtext>0</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>Cell</mtext><mtext>&#8196;</mtext><mtext>Reaction&#8196;</mtext><mtext>&#8196;</mtext><mtext>&#8196;</mtext><mtext>&#8196;</mtext><mtext>A</mtext><mo>&#8594;</mo><msup><mtext>A</mtext><mtext>+n</mtext></msup><mo>+</mo><msup><mtext>ne</mtext><mo>&#8722;</mo></msup><mtext>&#8196;</mtext><mo>&#215;</mo><mtext>&#8196;</mtext><mn>2</mn></math><br /><math> <mrow> <msup> <mtext>B</mtext> <mrow> <mtext>+2n</mtext></mrow> </msup> <mo>+</mo><mtext>2</mtext><mtext>&#8196;</mtext><msup> <mrow> <mtext>ne</mtext></mrow> <mo>&#8722;</mo> </msup> <mo>&#8594;</mo><mtext>B(s)</mtext></mrow> </math><br /><math> <mrow> <mtext>2</mtext><mtext>&#8196;</mtext><mtext>A(s)</mtext><mo>+</mo><munder> <mrow> <msup> <mtext>B</mtext> <mrow> <mtext>+2n</mtext></mrow> </msup> </mrow> <mrow> <mn>1</mn><mtext>&#8196;</mtext><mtext>M</mtext></mrow> </munder> <mtext>(aq)</mtext><mo>&#8594;</mo><munder> <mrow> <mtext>2</mtext><mtext>&#8196;</mtext><msup> <mtext>A</mtext> <mrow> <mtext>+n</mtext></mrow> </msup> </mrow> <mrow> <mtext>2</mtext><mtext>&#8196;</mtext><mtext>M</mtext></mrow> </munder> <mtext>(aq)</mtext><mo>+</mo><mtext>B(s)</mtext></mrow> </math><br /><math> <mrow> <mtext>&#916;G</mtext><mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><msup> <mrow> <mtext>&#916;G</mtext></mrow> <mi>o</mi> </msup> <mtext>&#8196;</mtext><mtext>+</mtext><mtext>&#8196;</mtext><mtext>RT</mtext><mtext>&#8196;</mtext><mtext>ln</mtext><mtext>&#8196;</mtext><mfrac> <mrow> <msup> <mrow> <mfenced close=\"]\" open=\"[\"> <mrow> <msup> <mtext>A</mtext> <mrow> <mtext>+n</mtext></mrow> </msup> </mrow> </mfenced></mrow> <mtext>2</mtext> </msup> <mtext>&#160;</mtext></mrow> <mrow> <mfenced close=\"]\" open=\"[\"> <mrow> <msup> <mtext>B</mtext> <mrow> <mtext>+2n</mtext></mrow> </msup> </mrow> </mfenced></mrow> </mfrac> </mrow> </math><br /><math> <mrow> <msup> <mrow> <mtext>&#916;G</mtext></mrow> <mtext>o</mtext> </msup> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mo>&#8722;</mo><mtext>RT</mtext><mtext>&#8196;</mtext><mtext>ln</mtext><mfrac> <mrow> <msup> <mrow> <mfenced close=\"]\" open=\"[\"> <mrow> <msup> <mtext>A</mtext> <mrow> <mtext>+n</mtext></mrow> </msup> </mrow> </mfenced></mrow> <mtext>2</mtext> </msup> <mtext>&#160;</mtext></mrow> <mrow> <mfenced close=\"]\" open=\"[\"> <mrow> <msup> <mtext>B</mtext> <mrow> <mtext>+2n</mtext></mrow> </msup> </mrow> </mfenced></mrow> </mfrac> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mo>&#8722;</mo><mtext>RT</mtext><mtext>&#8196;</mtext><mtext>&#215;</mtext><mtext>&#8196;</mtext><mtext>ln</mtext><mfrac> <mrow> <msup> <mtext>2</mtext> <mtext>2</mtext> </msup> </mrow> <mtext>1</mtext> </mfrac> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mo>&#8722;</mo><mtext>RT</mtext><mtext>ln4</mtext></mrow> </math><br /><math> <mrow> <msup> <mrow> <mtext>&#916;G</mtext></mrow> <mtext>o</mtext> </msup> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><msup> <mrow> <mtext>&#916;H</mtext></mrow> <mtext>o</mtext> </msup> <mo>&#8722;</mo><msup> <mrow> <mtext>T&#916;S</mtext></mrow> <mtext>o</mtext> </msup> </mrow> </math><br /><math> <mrow> <msup> <mrow> <mtext>&#916;G</mtext></mrow> <mtext>o</mtext> </msup> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><msup> <mrow> <mtext>2&#916;G</mtext></mrow> <mtext>o</mtext> </msup> <mo>&#8722;</mo><msup> <mrow> <mtext>T&#916;S</mtext></mrow> <mtext>o</mtext> </msup> </mrow> </math><br /><math> <mrow> <msup> <mrow> <mtext>&#916;S</mtext></mrow> <mtext>o</mtext> </msup> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mfrac> <mrow> <msup> <mrow> <mtext>&#916;G</mtext></mrow> <mtext>o</mtext> </msup> </mrow> <mtext>T</mtext> </mfrac> <mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mo>&#8722;</mo><mfrac> <mrow> <mtext>RT</mtext><mtext>&#8196;</mtext><mtext>ln4</mtext></mrow> <mtext>T</mtext> </mfrac> </mrow> </math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>=</mtext><mtext>&#8196;</mtext><mo>&#8722;</mo><mtext>8</mtext><mtext>.3</mtext><mtext>&#8196;</mtext><mtext>&#215;</mtext><mtext>&#8196;</mtext><mtext>2</mtext><mtext>&#8196;</mtext><mtext>&#215;</mtext><mtext>&#8196;</mtext><mtext>0</mtext><mtext>.7</mtext><mtext>&#8196;</mtext><mtext>=</mtext><mtext>&#8196;</mtext><mo>-</mo><mtext>11</mtext><mtext>.62&#8196;</mtext><mtext>J/K</mtext><mtext>&#8196;</mtext><msup><mtext>mol</mtext><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a67f23ac7d519f9b419",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "For the electrochemical cell, <math> <mrow> <mtext>Mg(s)</mtext><mfenced close=\"|\" open=\"|\"> <mrow> <msup> <mrow> <mtext>Mg</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> <mfenced> <mrow> <mtext>aq,1</mtext><mtext> </mtext><mtext>M</mtext></mrow> </mfenced></mrow> </mfenced><mfenced close=\"|\" open=\"|\"> <mrow> <msup> <mrow> <mtext>Cu</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> <mfenced> <mrow> <mtext>aq,1</mtext><mtext> </mtext><mtext>M</mtext></mrow> </mfenced></mrow> </mfenced><mtext>Cu&nbsp;</mtext><mfenced> <mtext>s</mtext> </mfenced></mrow> </math> the standard emf of the cell is <math> <mrow> <mtext>2</mtext><mtext>.70&nbsp;V</mtext></mrow> </math> at <math> <mrow> <mtext>300&nbsp;K</mtext><mtext>.</mtext></mrow> </math> When the concentration of <math> <mrow> <msup> <mrow> <mtext>Mg</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> </mrow> </math> is changed to <math> <mrow> <mtext>x&nbsp;M,</mtext></mrow> </math> the cell potential changes to <math> <mrow> <mtext>2</mtext><mtext>.67&nbsp;V</mtext></mrow> </math> at <math> <mrow> <mtext>300&nbsp;K</mtext><mtext>.</mtext></mrow> </math> The value of <math> <mtext>x</mtext> </math> is ________.<br />\r\n\r\n<br />\r\n\r\n(given, <math> <mrow> <mfrac> <mtext>F</mtext> <mtext>R</mtext> </mfrac> <msup> <mrow> <mtext>=11500&nbsp;K&nbsp;V</mtext></mrow> <mrow> <mo>−</mo><mtext>1</mtext></mrow> </msup> <mtext>,</mtext></mrow> </math> where <math> <mtext>F</mtext> </math> is the Faraday constant and <math> <mtext>R</mtext> </math> is the gas constants, <math> <mrow> <mtext>ln</mtext><mfenced> <mrow> <mtext>10</mtext></mrow> </mfenced><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>2</mtext><mtext>.30</mtext></mrow> </math> )",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "<math> <mrow> <mtext>Mg</mtext><mfenced> <mtext>s</mtext> </mfenced><mtext> </mtext><mtext>+</mtext><mtext> </mtext><msup> <mrow> <mtext>Cu</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> <mfenced> <mrow> <mtext>aq</mtext></mrow> </mfenced><mo>→</mo><msup> <mrow> <mtext>Mg</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> <mfenced> <mrow> <mtext>aq</mtext></mrow> </mfenced><mtext> </mtext><mtext>+</mtext><mtext> </mtext><mtext>Cu</mtext><mfenced> <mtext>s</mtext> </mfenced></mrow> </math><br /><math> <mrow> <msubsup> <mtext>E</mtext> <mrow> <mtext>cell</mtext></mrow> <mtext>o</mtext> </msubsup> <mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>2</mtext><msub> <mrow> <mtext>.70,&nbsp;E</mtext></mrow> <mrow> <mtext>cell</mtext></mrow> </msub> <mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>2</mtext><msup> <mrow> <mtext>.67,&nbsp;Mg</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> <mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>xM,</mtext><mtext> </mtext><msup> <mrow> <mtext>Cu</mtext></mrow> <mrow> <mtext>2+</mtext></mrow> </msup> <mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>1</mtext><mtext> </mtext><mtext>M</mtext></mrow> </math><br /><math> <mrow> <msub> <mtext>E</mtext> <mrow> <mtext>cell</mtext></mrow> </msub> <mtext> </mtext><mtext>=</mtext><mtext> </mtext><msubsup> <mtext>E</mtext> <mrow> <mtext>cell</mtext></mrow> <mtext>o</mtext> </msubsup> <mtext> </mtext><mo>−</mo><mtext> </mtext><mfrac> <mrow> <mtext>RT</mtext></mrow> <mrow> <mtext>nF</mtext></mrow> </mfrac> <mtext>ln</mtext><mtext> </mtext><mtext>x&nbsp;</mtext></mrow> </math><br /><math> <mrow> <mtext>2</mtext><mtext>.67</mtext><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>2</mtext><mtext>.70</mtext><mtext> </mtext><mo>−</mo><mtext> </mtext><mfrac> <mrow> <mtext>RT</mtext></mrow> <mrow> <mtext>2F</mtext></mrow> </mfrac> <mtext>ln</mtext><mtext> </mtext><mtext>x</mtext></mrow> </math><br /><math> <mrow> <mo>−</mo><mtext>0</mtext><mtext>.03</mtext><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mo>−</mo><mtext> </mtext><mfrac> <mrow> <mtext>R</mtext><mtext> </mtext><mtext>×</mtext><mtext> </mtext><mtext>300</mtext></mrow> <mrow> <mtext>2F</mtext></mrow> </mfrac> <mtext> </mtext><mtext>×</mtext><mtext> </mtext><mtext>ln</mtext><mtext> </mtext><mtext>x</mtext></mrow> </math><br /><math> <mrow> <mtext>ln</mtext><mtext> </mtext><mtext>x</mtext><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mfrac> <mrow> <mtext>0</mtext><mtext>.03</mtext><mtext> </mtext><mtext>×</mtext><mtext> </mtext><mtext>2</mtext></mrow> <mrow> <mtext>300</mtext></mrow> </mfrac> <mtext> </mtext><mtext>×</mtext><mtext> </mtext><mfrac> <mtext>F</mtext> <mtext>R</mtext> </mfrac> </mrow> </math><br /><math> <mrow> <mtext>=&nbsp;</mtext><mfrac> <mrow> <mtext>0</mtext><mtext>.03</mtext><mtext> </mtext><mtext>×</mtext><mtext> </mtext><mtext>2</mtext><mtext> </mtext><mtext>×</mtext><mtext> </mtext><mtext>11500</mtext></mrow> <mrow> <mtext>300</mtext><mtext> </mtext><mtext>×</mtext><mtext> </mtext><mtext>1</mtext></mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mtext>ln</mtext><mtext> </mtext><mtext>x</mtext><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>2</mtext><mtext>.30</mtext><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>ln</mtext><mfenced> <mrow> <mtext>10</mtext></mrow> </mfenced></mrow> </math><br /><math> <mrow> <mtext>x</mtext><mtext> </mtext><mtext>=</mtext><mtext> </mtext><mtext>10</mtext></mrow> </math>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e0",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>For the cell&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Zn</mi><mo>&#160;</mo><mfenced separators=\"|\"><mi mathvariant=\"normal\">s</mi></mfenced><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mi>ZnSO</mi><mn>4</mn></msub><mo>&#160;</mo><mfenced separators=\"|\"><mi>aq</mi></mfenced></mrow></mfenced><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mi>CuSO</mi><mn>4</mn></msub><mo>&#160;</mo><mfenced separators=\"|\"><mi>aq</mi></mfenced></mrow></mfenced><mi>Cu</mi><mo>&#160;</mo><mfenced separators=\"|\"><mi mathvariant=\"normal\">s</mi></mfenced></math>,&nbsp;when the concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Zn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> times the concentration of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Cu</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>, the expression for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;G</mi><mo>&#160;</mo><mfenced separators=\"|\"><mrow><mi>in</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced></math>&nbsp;is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi mathvariant=\"normal\">F</mi><mo>=</mo></math>Faraday&#39;s constant,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo></math>universal gas constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>=</mo></math>temperature,&nbsp;<math><msup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">cell</mi><mo>=</mo><mn>1.1</mn><mi mathvariant=\"normal\"> V</mi><mo>]</mo></math></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9ykhR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.303</mo><mo>&#215;</mo><mi>RT</mi><mo>+</mo><mn>1</mn><mo>.1</mo><mi mathvariant=\"normal\">F</mi></math>",
+        "image": null
+      },
+      {
+        "id": "3JEKd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.303</mo><mo>&#215;</mo><mi>RT</mi><mo>-</mo><mn>2</mn><mo>.2</mo><mi mathvariant=\"normal\">F</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Ozuci",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.1</mo><mi mathvariant=\"normal\">F</mi></math>",
+        "image": null
+      },
+      {
+        "id": "iry3K",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn><mo>.2</mo><mi mathvariant=\"normal\">F</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3JEKd",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;G</mi><mo>=</mo><mi>&#916;G</mi><mo>&#176;</mo><mo>+</mo><mn>2</mn><mo>.303</mo><mo>&#215;</mo><mi>RT</mi><mo>&#215;</mo><mi>log</mi><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;G</mi><mo>=</mo><mo>-</mo><mi>nFE</mi><mo>&#176;</mo><mo>+</mo><mn>2</mn><mo>.303</mo><mo>&#215;</mo><mi>RT</mi><mo>&#215;</mo><mi>log</mi><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi></math>.</p><p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">E</mi><mo>&#176;</mo><mo>=</mo><mn>1</mn><mo>.1</mo><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;G</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>1</mn><mo>.1</mo><mo>&#215;</mo><mi mathvariant=\"normal\">F</mi></mrow></mfenced><mo>+</mo><mn>2</mn><mo>.303</mo><mo>&#215;</mo><mi>RT</mi><mo>&#215;</mo><mi>log</mi><mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi>Zn</mi><mrow><mo>+</mo><mn>2</mn></mrow></msup></mfenced><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi>Cu</mi><mrow><mo>+</mo><mn>2</mn></mrow></msup></mfenced></mfrac></math>,</p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;G</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>.2</mo><mi mathvariant=\"normal\">F</mi><mo>+</mo><mn>2</mn><mo>.303</mo><mo>&#215;</mo><mi>RT</mi></math>.",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b370",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "For the following electrochemical cell at <math> <mrow> <mtext>289&#160;K,</mtext></mrow> </math><br /><math> <mrow> <mtext>Pt</mtext><mrow><mo>(</mo> <mtext>s</mtext> <mo>)</mo></mrow><mrow><mo>|</mo> <mrow> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mrow><mo>(</mo><mrow><mtext>g</mtext><mo>,</mo><mn>1</mn><mtext>&#160;bar</mtext></mrow><mo>)</mo></mrow>&#160;</mrow><mo>|</mo></mrow><msup> <mtext>H</mtext> <mo>+</mo> </msup><mrow><mo>(</mo><mrow><mtext>aq</mtext><mo>,</mo><mn>1</mn><mtext>M</mtext></mrow><mo>)</mo></mrow><mo>|</mo><mo>|</mo><msup><mrow><mtext>&#160;M</mtext> </mrow> <mrow> <mn>4</mn><mo>+</mo> </mrow></msup><mrow><mo>(</mo><mrow><mtext>aq</mtext><mo>.</mo></mrow><mo>)</mo></mrow><msup><mrow><mtext>,&#160;M</mtext> </mrow> <mrow> <mtext>2+</mtext> </mrow> </msup> <mo stretchy=\"false\">(</mo><mtext>aq</mtext><mo>.</mo><mo stretchy=\"false\">)</mo><mo>|</mo><mtext>&#160;Pt</mtext><mo stretchy=\"false\">(</mo><mtext>s</mtext><mo stretchy=\"false\">)</mo> </mrow> </math><br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">l</mi></mrow></msub><mo>=</mo><mn>0.092</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">V</mi></math> when <math><mfrac><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi><mo>.</mo></mrow></mfenced></mrow></mfenced></mrow><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi><mo>.</mo></mrow></mfenced></mrow></mfenced></mrow></mfrac><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></math><br />Given: <math><msubsup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow></mrow></mrow><mrow><mn>0</mn></mrow></msubsup><mo>=</mo><mn>0.151</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">&#160;</mi><mo>;</mo><mn>2.303</mn><mfrac><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">F</mi></mrow></mfrac><mo>=</mo><mn>0.059</mn></math><br />The value of <math> <mtext>x</mtext> </math> is -",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O6NB3",
+        "text": "-2",
+        "image": null
+      },
+      {
+        "id": "vJx2h",
+        "text": "-1",
+        "image": null
+      },
+      {
+        "id": "l9RTp",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "FdL2i",
+        "text": "2",
+        "image": null
+      }
+    ],
+    "correct_answer": "FdL2i",
+    "solution_text": "At anode : <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>⇌</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo></mrow></msup></math><br />At cathode : <math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo></mrow></msup><mo>⇌</mo><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mi mathvariant=\"normal\">&nbsp;</mi></math><br />Net cell reaction : <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mo>⇌</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi></mrow></mfenced><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>(</mo><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">q</mi><mo>)</mo></math><br /><math> <mrow> <msub> <mi>E</mi> <mrow> <mi>c</mi><mi>e</mi><mi>l</mi><mi>l</mi> </mrow> </msub> <mo>=</mo><msubsup> <mi>E</mi> <mrow> <mi>c</mi><mi>e</mi><mi>l</mi><mi>l</mi> </mrow> <mn>0</mn> </msubsup> <mo>−</mo><mfrac> <mrow> <mn>0.059</mn> </mrow> <mn>2</mn> </mfrac> <mi>log</mi><mfrac> <mrow> <mo stretchy=\"false\">[</mo><msup> <mi>M</mi> <mrow> <mn>2</mn><mo>+</mo> </mrow> </msup> <mo stretchy=\"false\">]</mo><msup> <mrow> <mo stretchy=\"false\">[</mo><msup> <mi>H</mi> <mo>+</mo> </msup> <mo stretchy=\"false\">]</mo> </mrow> <mn>2</mn> </msup> </mrow> <mrow> <mo stretchy=\"false\">[</mo><msup> <mi>M</mi> <mrow> <mn>4</mn><mo>+</mo> </mrow> </msup> <mo stretchy=\"false\">]</mo><mo stretchy=\"false\">(</mo><msub> <mi>P</mi> <mrow> <msub> <mi>H</mi> <mn>2</mn> </msub> </mrow> </msub> <mo stretchy=\"false\">)</mo> </mrow> </mfrac> </mrow> </math><br />Now, <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">l</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><msubsup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow></mrow></mrow><mrow><mn>0</mn></mrow></msubsup><mo>-</mo><msubsup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow><mo>/</mo><mrow><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow></mrow><mrow><mn>0</mn></mrow></msubsup></mrow></mfenced><mo>-</mo><mfrac><mrow><mn>0.059</mn></mrow><mrow><mi mathvariant=\"normal\">n</mi></mrow></mfrac><mo>.</mo><mrow><mrow><mi mathvariant=\"normal\">log</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">&nbsp;</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow></mfenced></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></msub><mo>.</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup></mrow></mfenced></mrow></mfrac></mrow></mrow></math><br /><math><mn>0.092</mn><mo>=</mo><mfenced separators=\"|\"><mrow><mn>0.151</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mo>-</mo><mfrac><mrow><mn>0.059</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo><mrow><mrow><mi mathvariant=\"normal\">log</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><msup><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>×</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow></mfenced></mrow><mrow><mn>1</mn><mo>×</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup></mrow></mfenced></mrow></mfrac></mrow></mrow></math><br /><math><mo>∴</mo><mfrac><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></mrow></mfenced></mrow><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>4</mn><mo>+</mo></mrow></msup></mrow></mfenced></mrow></mfrac><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>⇒</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a42f23ac7d519f9b2c8",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "All the energy released from the reaction <math><mi mathvariant=\"normal\">X</mi><mo>&#10230;</mo><mi mathvariant=\"normal\">Y</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">&#916;</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi></mrow></msub><msup><mrow><mi mathvariant=\"normal\">G</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mo>=</mo><mo>-</mo><mn>193</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> is used for oxidizing <math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mo>+</mo></mrow></msup></math> as <math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mo>+</mo></mrow></msup><mo>&#10230;</mo><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mo>-</mo><mn>0.25</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">V</mi></math><br />Under standard conditions, the number of moles of <math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mo>+</mo></mrow></msup></math> oxidized when one mole of X is converted to Y is<br /><math><mo>[</mo><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>96500</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>]</mo></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mo>+</mo></mrow></msup><mo>&#8594;</mo><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo></mrow></msup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">F</mi><msup><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">o</mi></msup></math> for 1 mole of <math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mo>+</mo></mrow></msup></math><br /><math><mo>&#8710;</mo><msup><mrow><mi mathvariant=\"normal\">G</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mo>=</mo><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>96500</mn><mo>&#215;</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>0.25</mn></mrow></mfenced><mi mathvariant=\"normal\">J</mi></math><br /><math><mo>=</mo><mo>+</mo><mn>48250</mn></math> J/mole<br /><math><mo>=</mo><mn>48.25</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">J</mi></math> /mole<br />Energy released by conversion of 1 mole of<br /><math><mi mathvariant=\"normal\">X</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Y</mi></math><br /><math><mo>&#8710;</mo><mi mathvariant=\"normal\">G</mi><mo>=</mo><mo>-</mo><mn>193</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">J</mi></math><br />Hence mole of <math><msup><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mo>+</mo></mrow></msup></math> convert<br /><math><mfrac><mrow><mn>193</mn></mrow><mrow><mn>48.25</mn></mrow></mfrac><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">&#160;</mi></math>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a34f23ac7d519f9b24d",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "In a galvanic cell, the salt bridge",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7ytZL",
+        "text": "Does not participate chemically in the cell reaction.",
+        "image": null
+      },
+      {
+        "id": "eJroL",
+        "text": "Stops the diffusion of ions from one electrode to another.",
+        "image": null
+      },
+      {
+        "id": "TZMpZ",
+        "text": "Is necessary for the occurrence of the cell reaction.",
+        "image": null
+      },
+      {
+        "id": "ynMT6",
+        "text": "Ensures mixing of the two electrolytic solutions.",
+        "image": null
+      }
+    ],
+    "correct_answer": "7ytZL",
+    "solution_text": "Salt bridge is introduced to keep the solutions of two electrodes separate, such that the ions in electrode donot mix freely with each other. But it cannot stop the process of diffusion.It does not participate in the chemical reaction. However, it is not necessary for occurence of cell reaction, aswe know that designs like lead accumulator, there was no salt bridge, but still reactions takes place.",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a2ff23ac7d519f9b220",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The standard reduction potential data at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>&#176;</mo><mi>C</mi></math>&nbsp;is given below.<br /><math> <mrow> <mstyle mathvariant=\"italic\"><mtable> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext mathvariant=\"italic\">Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <msup> <mtext mathvariant=\"italic\">Fe</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> </mfenced> <mo>=</mo> <mo>+</mo> <mn>0</mn> <mo>&#183;</mo> <mn>7</mn> <mn>7</mn> <mspace width=\"0.5em\"></mspace> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>V</mi><mo>&#8289;</mo> <mtext>;</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mrow> <mi mathvariant=\"italic\">Fe</mi><mo>&#8289;</mo> </mrow> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <mi mathvariant=\"italic\">Fe</mi><mo>&#8289;</mo> </mrow> </mfenced> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mo>&#183;</mo> <mn>4</mn> <mn>4</mn> <mspace width=\"0.5em\"></mspace> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>V</mi><mo>&#8289;</mo> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mrow> <mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\">Cu</mi><mo>&#8289;</mo> </mrow> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <mtext mathvariant=\"italic\">Cu</mtext> </mrow> </mfenced> <mo>=</mo> <mo>+</mo> <mn>0</mn> <mo>&#183;</mo> <mn>3</mn> <mn>4</mn> <mspace width=\"0.5em\"></mspace> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>V</mi><mo>&#8289;</mo> <mtext>;</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext mathvariant=\"italic\">Cu</mtext> <mo>+</mo> </msup> </mrow> <mrow> <mtext mathvariant=\"italic\">Cu</mtext> </mrow> </mfenced> <mo>=</mo> <mo>+</mo> <mn>0</mn> <mo>&#183;</mo> <mn>5</mn> <mn>2</mn> <mspace width=\"0.5em\"></mspace> <mn>V</mn> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msub> <mtext>O</mtext> <mn>2</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>g</mi><mo>&#8289;</mo> </mrow> </mfenced> <mo>+</mo> <mn>4</mn> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>H</mi><mo>&#8289;</mo> </mrow> <mo>+</mo> </msup> <mo>+</mo> <mn>4</mn> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>e</mi><mo>&#8289;</mo> </mrow> <mo>-</mo> </msup> <mo>&#8594;</mo> <mn>2</mn> <msub> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>H</mi><mo>&#8289;</mo> </mrow> <mn>2</mn> </msub> <mtext>O</mtext> </mrow> </mfenced> <mo>=</mo> <mo>+</mo> <mn>1</mn> <mo>&#183;</mo> <mn>2</mn> <mn>3</mn> <mspace width=\"0.5em\"></mspace> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>V</mi><mo>&#8289;</mo> <mtext>;</mtext> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msub> <mtext>O</mtext> <mn>2</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>g</mtext> </mrow> </mfenced> <mo>+</mo> <mn>2</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mo>+</mo> <mn>4</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <mn>4</mn> <msup> <mtext>OH</mtext> <mo>-</mo> </msup> </mrow> </mfenced> <mo>=</mo> <mo>+</mo> <mn>0</mn> <mo>&#183;</mo> <mn>4</mn> <mn>0</mn> <mspace width=\"0.5em\"></mspace> <mn>V</mn> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext mathvariant=\"italic\">Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <mtext mathvariant=\"italic\">Cr</mtext> </mrow> </mfenced> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mo>&#183;</mo> <mn>7</mn> <mn>4</mn> <mspace width=\"0.5em\"></mspace> <mtext>V</mtext> <mtext>;</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> <mtr> <mtd> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <mtext>Cr</mtext> </mrow> </mfenced> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mo>&#183;</mo> <mn>9</mn> <mn>1</mn> <mspace width=\"0.5em\"></mspace> <mtext>V</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> </mtd> </mtr> </mtable></mstyle> </mrow> </math><br />Match E<sup>o</sup> of the redox pair in List I with the values given in List II and select the correct answer using the code given below the lists :<br />&nbsp;<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>List I</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>List II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A.</td>\t\t\t<td><math> <mrow> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext mathvariant=\"italic\">Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <mtext mathvariant=\"italic\">Fe</mtext> </mrow> </mfenced> </mrow> </math></td>\t\t\t<td>P.</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>0</mn><mo>.</mo><mn>18</mn><mi>V</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B.</td>\t\t\t<td><math> <mrow> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>4</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mo>&#8652;</mo> <mn>4</mn> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>H</mi><mo>&#8289;</mo> </mrow> <mo>+</mo> </msup> <mo>+</mo> <mn>4</mn> <msup> <mtext mathvariant=\"italic\">OH</mtext> <mo>-</mo> </msup> </mrow> </mfenced> </mrow> </math></td>\t\t\t<td>Q.</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>0</mn><mo>.</mo><mn>4</mn><mi>V</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>C</td>\t\t\t<td><math> <mrow> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext mathvariant=\"italic\">Cu</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mtext mathvariant=\"italic\">Cu</mtext> <mo>&#8594;</mo> <mn>2</mn> <msup> <mrow> <mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\"></mi><mi mathvariant=\"italic\">Cu</mi><mo>&#8289;</mo> </mrow> <mo>+</mo> </msup> </mrow> </mfenced> </mrow> </math></td>\t\t\t<td>R.</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>0</mn><mo>.</mo><mn>04</mn><mi>V</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>D.</td>\t\t\t<td><math> <mrow> <msup> <mrow> <mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi>E</mi><mo>&#8289;</mo> </mrow> <mi>&#959;</mi> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext mathvariant=\"italic\">Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> </mrow> <mrow> <msup> <mtext mathvariant=\"italic\">Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> </mfenced> </mrow> </math></td>\t\t\t<td>S.</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>0</mn><mo>.</mo><mn>83</mn><mi>V</mi></math></td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nJBtJ",
+        "text": "a-r;b-q;c-s;d-p;",
+        "image": null
+      },
+      {
+        "id": "Ny9mu",
+        "text": "a-q;b-p;c-r;d-s;",
+        "image": null
+      },
+      {
+        "id": "AvjXc",
+        "text": "a-s;b-p;c-r;d-q;",
+        "image": null
+      },
+      {
+        "id": "JLHBt",
+        "text": "a-r;b-s;c-p;d-q;",
+        "image": null
+      }
+    ],
+    "correct_answer": "JLHBt",
+    "solution_text": "P.) &nbsp;<br /><math> <mrow> <mtable> <mtr> <mtd> </mtd> <mtd> <msup> <mtext>Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <msup> <mtext>Fe</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> <mo>&#916;</mo> <msubsup> <mtext>G</mtext> <mtext>I</mtext> <mtext>o</mtext> </msubsup> <mo>=</mo> <mo>-</mo> <mn>1</mn> <mtext>F</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>0</mn> <mtext>.</mtext> <mn>7</mn> <mn>7</mn> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> </mtd> <mtd> <msup> <mtext>Fe</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mn>2</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <mtext>Fe</mtext> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> <mo>&#916;</mo> <msubsup> <mtext>G</mtext> <mtext>II</mtext> <mtext>o</mtext> </msubsup> <mo>=</mo> <mo>-</mo> <mn>2</mn> <mtext>F</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>4</mn> <mn>4</mn> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> </mtd> <mtd> <mtext>----------------------------------</mtext> </mtd> <mtd> </mtd> <mtd> </mtd> </mtr> <mtr> <mtd> <mtext>Add</mtext> </mtd> <mtd> <msup> <mtext>Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mn>3</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <mtext>Fe</mtext> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> <mo>&#916;</mo> <msubsup> <mtext>G</mtext> <mtext>III</mtext> <mtext>o</mtext> </msubsup> <mo>=</mo> <mo>-</mo> <mn>3</mn> <mtext>F</mtext> <msub> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>E</mtext> <mtext>o</mtext> </msup> </mrow> </mfenced> </mrow> <mrow> <msup> <mtext>Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <mtext>Fe</mtext> </mrow> </msub> </mtd> </mtr> </mtable> </mrow> </math><br /><math> <mrow> <mo>-</mo> <mn>3</mn> <mtext>F</mtext> <msub> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>E</mtext> <mtext>o</mtext> </msup> </mrow> </mfenced> </mrow> <mrow> <msup> <mtext>Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <mtext>Fe</mtext> </mrow> </msub> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>7</mn> <mn>7</mn> <mtext>F</mtext> <mo>+</mo> <mn>0</mn> <mtext>.</mtext> <mn>8</mn> <mn>8&#160;</mn> <mtext>F</mtext> </mrow> </math><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>11</mn><mi>F</mi></math>&nbsp;<br /><math> <mrow> <msubsup> <mtext>E</mtext> <mrow> <msup> <mtext>Fe</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <mtext>Fe</mtext> </mrow> <mtext>o</mtext> </msubsup> <mo>=</mo> <mo>-</mo> <mfrac> <mrow> <mn>0</mn> <mtext>.</mtext> <mn>1</mn> <mn>1</mn> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>0</mn> <mn>3</mn> <mn>7</mn> <mo>&#8773;</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>0</mn> <mn>4&#160;</mn> <mtext>V</mtext> </mrow> </math><br />Q.) &nbsp; <math> <mrow> <mn>2</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mo>&#10230;</mo> <msub> <mtext>O</mtext> <mrow> <mn>2</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>g</mtext> </mrow> </mfenced> </mrow> </msub> <mo>+</mo> <mn>4</mn> <msubsup> <mtext>H</mtext> <mtext>(aq)</mtext> <mo>+</mo> </msubsup> <mo>+</mo> <mn>4</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> </mrow> </math>&nbsp; (Oxidation half reaction)<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>E</mi><mo>&#176;</mo></msup><mo>=</mo><mo>-</mo><mn>1</mn><mo>.</mo><mn>23</mn><mo>&#160;</mo><mi>V</mi></math><br /><math> <mrow> <msub> <mtext>O</mtext> <mrow> <mn>2</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>g</mtext> </mrow> </mfenced> </mrow> </msub> <mo>+</mo> <mn>2</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mo>+</mo> <mn>4</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <mn>4</mn> <msubsup> <mtext>OH</mtext> <mtext>(aq)</mtext> <mo>-</mo> </msubsup> </mrow> </math>&nbsp;(reduction half reaction)<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>E</mi><mo>&#176;</mo></msup><mo>=</mo><mo>&#160;</mo><mo>+</mo><mn>0</mn><mo>.</mo><mn>40</mn><mi>V</mi></math><br />It&#39;s an electrochemical cell, adding<br /><math> <mrow> <mn>4</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mo>&#8652;</mo> <mn>4</mn> <msup> <mtext>H</mtext> <mo>+</mo> </msup> <mo>+</mo> <mn>4</mn> <mn>0</mn> <msup> <mtext>H</mtext> <mo>-</mo> </msup> </mrow> </math>&nbsp; at equilibrium<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math> <mrow> <msubsup> <mtext>E</mtext> <mtext>cell</mtext> <mtext>o</mtext> </msubsup> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>8</mn> <mn>3</mn> <mtext>&#160;V</mtext> </mrow> </math><br />R.) &nbsp;<br /><math>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <mrow> <mtable> <mtr> <mtd> <mn>2</mn> <msub> <mtext>Cu</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>s</mtext> </mrow> </mfenced> </msub> <mo>&#10230;</mo> <mn>2</mn> <msup> <mtext>Cu</mtext> <mo>+</mo> </msup> <mo>+</mo> <mn>2</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> </mtd> <mtd> <msup> <mtext>E</mtext> <mn>0</mn> </msup> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>5</mn> <mn>2</mn> <mtext>V</mtext> </mtd> </mtr> <mtr> <mtd> <msup> <mtext>Cu</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mn>2</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <msub> <mtext>Cu</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>s</mtext> </mrow> </mfenced> </msub> </mtd> <mtd> <msup> <mtext>E</mtext> <mn>0</mn> </msup> <mo>=</mo> <mn>0</mn> <mtext>.</mtext> <mn>3</mn> <mn>4</mn> <mtext>V</mtext> </mtd> </mtr> </mtable> </mrow> </math><br />Adding&nbsp;&nbsp;&nbsp; <math> <mrow> <mtable> <mtr> <mtd> <msup> <mtext>Cu</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <msub> <mtext>Cu</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>s</mtext> </mrow> </mfenced> </msub> <mo>&#10230;</mo> <mn>2</mn> <msup> <mtext>Cu</mtext> <mo>+</mo> </msup> </mtd> <mtd> <msubsup> <mtext>E</mtext> <mtext>cell</mtext> <mn>0</mn> </msubsup> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>1</mn> <mn>8</mn> <mtext>&#160;V</mtext> </mtd> </mtr> </mtable> </mrow> </math><br />S<br /><math> <mrow> <mtable> <mtr> <mtd> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mn>3</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <mtext>Cr</mtext> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> <mo>&#916;</mo> <msubsup> <mtext>G</mtext> <mtext>I</mtext> <mn>0</mn> </msubsup> <mo>=</mo> <mo>-</mo> <mn>3</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>F</mtext> </mrow> </mfenced> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>7</mn> <mn>4</mn> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <mn>2</mn> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <mtext>Cr</mtext> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> <mo>&#916;</mo> <msubsup> <mtext>G</mtext> <mtext>II</mtext> <mn>0</mn> </msubsup> <mo>=</mo> <mo>-</mo> <mn>2</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>F</mtext> </mrow> </mfenced> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>9</mn> <mn>1</mn> </mrow> </mfenced> </mtd> </mtr> </mtable> </mrow> </math><br /><br />Subtracting<br /><math> <mrow> <mtable> <mtr> <mtd> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>-</mo> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> <mo>&#10230;</mo> <mn>0</mn> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> </mtd> </mtr> <mtr> <mtd> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>+</mo> <msup> <mtext>e</mtext> <mo>-</mo> </msup> <mo>&#10230;</mo> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mtd> <mtd> <mtext>;</mtext> </mtd> <mtd> <mo>&#916;</mo> <msup> <mtext>G</mtext> <mn>0</mn> </msup> <mo>=</mo> <mo>-</mo> <mn>1</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>F</mtext> </mrow> </mfenced> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msubsup> <mtext>E</mtext> <mrow> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> <mn>0</mn> </msubsup> </mrow> </mfenced> </mtd> </mtr> </mtable> </mrow> </math><br /><math> <mrow> <mo>-</mo> <msubsup> <mtext>F E</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> </mfenced> <mn>0</mn> </msubsup> <mo>=</mo> <mtext>F</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>3</mn> <mo>&#215;</mo> <mn>0</mn> <mtext>.</mtext> <mn>7</mn> <mn>4</mn> <mo>-</mo> <mn>2</mn> <mo>&#215;</mo> <mn>0</mn> <mtext>.</mtext> <mn>9</mn> <mn>1</mn> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <mo>-</mo> <msubsup> <mtext>E</mtext> <mrow> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> <mn>0</mn> </msubsup> <mo>=</mo> <mtext>F</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>.</mtext> <mn>2</mn> <mn>2</mn> <mo>-</mo> <mn>1</mn> <mtext>.</mtext> <mn>8</mn> <mn>2</mn> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <msubsup> <mtext>E</mtext> <mrow> <msup> <mtext>Cr</mtext> <mrow> <mn>3</mn> <mo>+</mo> </mrow> </msup> <mo>/</mo> <msup> <mtext>Cr</mtext> <mrow> <mn>2</mn> <mo>+</mo> </mrow> </msup> </mrow> <mn>0</mn> </msubsup> <mo>=</mo> <mo>-</mo> <mn>0</mn> <mtext>.</mtext> <mn>4</mn> <mn>0&#160;</mn> <mtext>V</mtext> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The electrochemical cell shown below is a concentration cell. $\\mathrm{M} \\mid \\mathrm{M}^{2+}$ (saturated solution of a sparingly soluble salt, $\\left.\\mathrm{MX}_{2}\\right) \\| \\mathrm{M}^{2 \\perp}\\left(0.001 \\mathrm{~mol} \\mathrm{dm}^{-3}\\right) \\mid \\mathrm{M}$.\r\n\r\nThe emf of the cell depends on the difference in concentrations of $\\mathrm{M}^{2+}$ ions at the two electrodes. The emf of the cell at $298 \\mathrm{~K}$ is $0.059 \\mathrm{~V}$.\r\n\r\n<strong> Question:</strong> The solubility product $\\left(\\mathrm{K}_{s p} ; \\mathrm{mol}^{3} \\mathrm{dm}^{-9}\\right)$ of $\\mathrm{MX}_{2}$ at $298 \\mathrm{~K}$ based on the information available for the given concentration cell is (take $2.303 \\times \\mathrm{R} \\times 298 / \\mathrm{F}=0.059 \\mathrm{~V}$ )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "m3Iok",
+        "text": "$1 \\times 10^{-15}$",
+        "image": null
+      },
+      {
+        "id": "PIrza",
+        "text": "$4 \\times 10^{-15}$",
+        "image": null
+      },
+      {
+        "id": "PrBZw",
+        "text": "$1 \\times 10^{-12}$",
+        "image": null
+      },
+      {
+        "id": "br4Be",
+        "text": "$4 \\times 10^{-12}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "PIrza",
+    "solution_text": "$M \\mid M^{2+}$ (aq) $\\| M^{2+}$ (aq) $\\mid M$\r\n\r\n$0.001 \\mathrm{M}$\r\n\r\nAnode : $\\quad M \\longrightarrow M^{2+}(\\mathrm{aq})+2 e^{-}$\r\n\r\nCathode : $M^{2+}(\\mathrm{aq})+2 e^{-} \\longrightarrow M$\r\n\r\n$M^{2+}(\\mathrm{aq})_{c} \\rightleftharpoons M^{2+}(\\mathrm{aq})_{a}$\r\n\r\n$\\begin{array}{c}\r\n\r\nE_{\\text {cell }}=0-\\frac{0.059}{2} \\log \\left\\{\\frac{M^{2+}(\\mathrm{aq})_{a}}{10^{-3}}\\right\\} \\\\\r\n\r\n\\Rightarrow 0.059=-\\frac{0.059}{2} \\log \\left\\{\\frac{M^{2+}(\\mathrm{aq})_{a}}{10^{-3}}\\right\\} \\\\\r\n\r\n-2=\\log \\left\\{\\frac{M^{2+}(\\mathrm{aq})_{a}}{10^{-3}}\\right\\}\r\n\r\n\\end{array}$\r\n\r\n$\\Rightarrow \\quad 10^{-2} \\times 10^{-3}=\\mathrm{M}^{2+}(\\mathrm{aq})_{a}=$ solubility $=s$\r\n\r\n$\\quad M X_{2} \\rightleftharpoons M^{2+}+2 X^{-}$\r\n\r\n$K_{s p}=S .(2 S)^{2} \\quad 2 S$\r\n\r\n$\\Rightarrow \\quad K_{s p}=4 s^{3}=4 \\times\\left(10^{-5}\\right)^{3}=4 \\times 10^{-15}$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a21f23ac7d519f9b1a0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The electrochemical cell shown below is a concentration cell. $\\mathrm{M} \\mid \\mathrm{M}^{2+}$ (saturated solution of a sparingly soluble salt, $\\left.\\mathrm{MX}_{2}\\right) \\| \\mathrm{M}^{2 \\perp}\\left(0.001 \\mathrm{~mol} \\mathrm{dm}^{-3}\\right) \\mid \\mathrm{M}$.\r\n\r\nThe emf of the cell depends on the difference in concentrations of $\\mathrm{M}^{2+}$ ions at the two electrodes. The emf of the cell at $298 \\mathrm{~K}$ is $0.059 \\mathrm{~V}$.\r\n\r\n<strong> Question:</strong> The value of $\\Delta \\mathrm{G}\\left(\\mathrm{kJ} \\mathrm{mol}^{-1}\\right)$ for the given cell is (take 1 $\\mathrm{F}=96500 \\mathrm{Cmol}^{-1}$ )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GIdz1",
+        "text": "$-5.7$",
+        "image": null
+      },
+      {
+        "id": "694KR",
+        "text": "$5.7$",
+        "image": null
+      },
+      {
+        "id": "MCDj1",
+        "text": "$11.4$",
+        "image": null
+      },
+      {
+        "id": "Y1Pea",
+        "text": "$-11.4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Y1Pea",
+    "solution_text": "At anode : $M(\\mathrm{~s})+2 X^{-}(\\mathrm{aq}) \\longrightarrow M X_{2}(\\mathrm{aq})+2 \\mathrm{e}^{-}$\r\n\r\nAt cathode $: M^{+2}(\\mathrm{aq})+2 \\mathrm{e}^{-} \\longrightarrow M(\\mathrm{~s})$\r\n\r\nThus, here $n=2$\r\n\r\n$\\Delta G=-n F E_{\\text {cell }}$\r\n\r\n$=-2 \\times 96500 \\times 0.059 \\times 10^{-3} \\mathrm{~kJ} / \\mathrm{mole}=-11.4 \\mathrm{~kJ} / \\mathrm{mole}$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b16a14f23ac7d519f9b123",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Consider the following cell reaction,\n$$\n\\begin{array}{cc} \n& 2 \\mathrm{Fe}(\\mathrm{s})+\\mathrm{O}_2(g)+4 \\mathrm{H}^{+}(a q) \\longrightarrow \\\\\n& 2 \\mathrm{Fe}^{2+}(a q)+2 \\mathrm{H}_2 \\mathrm{O}(l), E^{\\circ}=1.67 \\mathrm{~V} \\\\\n\\text { At } & {\\left[\\mathrm{Fe}^{2+}\\right]=10^{-3} \\mathrm{M}, \\mathrm{P}\\left(\\mathrm{O}_2\\right)=0.1 \\mathrm{~atm}}\n\\end{array}\n$$\nand $\\mathrm{pH}=3$, the cell potential at $25^{\\circ} \\mathrm{C}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IiJPj",
+        "text": "\n$1.47 \\mathrm{~V}$\n",
+        "image": null
+      },
+      {
+        "id": "p03r7",
+        "text": "\n$1.77 \\mathrm{~V}$\n",
+        "image": null
+      },
+      {
+        "id": "SX6VF",
+        "text": "\n$1.87 \\mathrm{~V}$\n",
+        "image": null
+      },
+      {
+        "id": "7U8M5",
+        "text": "\n$1.57 \\mathrm{~V}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "7U8M5",
+    "solution_text": "The half reactions are $\\mathrm{Fe}(s) \\longrightarrow \\mathrm{Fe}^{2+}(\\mathrm{aq})+2 e^{-} \\times 2$\n$$\n\\begin{array}{r}\n\\mathrm{O}_2(g)+4 \\mathrm{H}^{+}+4 e^{-} \\longrightarrow 2 \\mathrm{H}_2 \\mathrm{O}+2 \\mathrm{Fe}(s) \\\\\n+\\mathrm{O}_2(g)+4 \\mathrm{H}^{+} \\longrightarrow 2 \\mathrm{Fe}^{2+}(a q)+2 \\mathrm{H}{ }_2 \\mathrm{O}(l) \\\\\nE=E^{\\circ}-\\frac{0.059}{4} \\log \\frac{\\left(10^{-3}\\right)^2}{\\left(10^{-3}\\right)^4(0.1)}=1.57 \\mathrm{~V}\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b065",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe concentration of potassium ions inside a biological cell is at least twenty times higher than the outside. The resulting potential difference across the cell is important in several processes such as transmission of nerve impulses and maintaining the ion balance. A simple model for such a concentration cell involving a metal $\\mathrm{M}$ is :\n$$\nM(s) \\mid M^{+}(\\alpha q ; 0.05 \\text { molar }) \\| M^{+}(a q ; 1 \\text { molar }) \\mid M(s)\n$$\nFor the above electrolytic cell the magnitude of the cell potential $\\left|E_{\\text {cell }}\\right|=70 \\mathrm{mV}$.<strong>Question:</strong>\nIf the $0.05$ molar solution of $M^{+}$is replaced by a $0.0025$ molar $M^{+}$ solution, then the magnitude of the cell potential would be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0Y9Oq",
+        "text": "\n$35 \\mathrm{mV}$\n",
+        "image": null
+      },
+      {
+        "id": "pJ7Km",
+        "text": "\n$70 \\mathrm{mV}$\n",
+        "image": null
+      },
+      {
+        "id": "z9yqT",
+        "text": "\n$140 \\mathrm{mV}$\n",
+        "image": null
+      },
+      {
+        "id": "y1gdY",
+        "text": "\n$700 \\mathrm{mV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "z9yqT",
+    "solution_text": "$E_{\\text {cell }}=E_{\\text {cell }}^{\\circ}-\\frac{0.0591}{1} \\log \\frac{0.0025}{1}$ $E_{\\text {cell }}=140 \\mathrm{mV}$ Electrochemistry Straight conceptual III",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b064",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe concentration of potassium ions inside a biological cell is at least twenty times higher than the outside. The resulting potential difference across the cell is important in several processes such as transmission of nerve impulses and maintaining the ion balance. A simple model for such a concentration cell involving a metal $\\mathrm{M}$ is :\n$$\nM(s) \\mid M^{+}(\\alpha q ; 0.05 \\text { molar }) \\| M^{+}(a q ; 1 \\text { molar }) \\mid M(s)\n$$\nFor the above electrolytic cell the magnitude of the cell potential $\\left|E_{\\text {cell }}\\right|=70 \\mathrm{mV}$.<strong>Question:</strong>\nFor the above cell",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7D7O6",
+        "text": "\n$E_{\\text {cell }} < 0 ; \\Delta G>0$",
+        "image": null
+      },
+      {
+        "id": "O50UW",
+        "text": "\n$E_{\\text {cell }}>0 ; \\Delta G < 0$",
+        "image": null
+      },
+      {
+        "id": "czzb3",
+        "text": "\n$E_{\\text {cell }} < 0 ; \\Delta G^{\\circ}>0$",
+        "image": null
+      },
+      {
+        "id": "KmxUR",
+        "text": "\n$E_{\\text {cell }}>0 ; \\Delta G^{\\circ} < 0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "O50UW",
+    "solution_text": "The given cell is electrolytic concentration cell, So $E_{\\text {cell }}^{\\circ}=0$\nAnode :\n$$\n\\begin{gathered}\nM(s) \\longrightarrow M^{+}(a q)+e^{-} \\\\\n\\text {Cathode }: \\quad M^{+}(a q)+e^{-} \\longrightarrow M(s) \\\\\n\\hline M^{+}(a q) \\text { cathode } \\rightleftharpoons M^{+}(a q) \\text { anode } \\\\\nE_{\\text {cell }}=E_{\\text {cell }}^{\\circ}-\\frac{0.0591}{1} \\log \\frac{\\left[M^{+}\\right]_{\\text {anodic }}}{\\left[M^{+}\\right]_{\\text {cathodic }}} \\\\\n=0-\\frac{0.0591}{1} \\log \\frac{0.05}{1} \\\\\nE_{\\text {cell }}=70 \\mathrm{mV}(+\\text { ve }) \\\\\n\\text { Hence, } \\Delta G=-n F E_{\\text {cell }}=-\\text { ve }\n\\end{gathered}\n$$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b018",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "For the reduction of $\\mathrm{NO}_3^{-}$ion in an aqueous solution $E^{\\circ}$ is $+0.96 \\mathrm{~V}$. Values of $E^{\\circ}$ for some metal ions are given below.\n$$\n\\begin{aligned}\n& \\mathrm{V}^{2+}(a q)+2 e^{-} \\longrightarrow \\mathrm{V} ; E^{\\circ}=-1.19 \\mathrm{~V} \\\\\n& \\mathrm{Fe}^{3+}(a q)+3 e^{-} \\longrightarrow \\mathrm{Fe} ; \\mathrm{E}^{\\circ}=-0.04 \\mathrm{~V} \\\\\n& \\mathrm{Au}^{3+}(a q)+3 e^{-} \\longrightarrow \\mathrm{Au} ; E^{\\circ}=+1.40 \\mathrm{~V}\n\\end{aligned}\n$$\n$$\n\\mathrm{Hg}^{2+}(a q)+2 e^{-} \\longrightarrow \\mathrm{Hg} ; E^{\\circ}=+0.86 \\mathrm{~V}\n$$\nThe pair(s) of metals that is (are) oxidised by $\\mathrm{NO}_3^{-}$in aqueous solution is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pFPNi",
+        "text": "\n$\\mathrm{V}$ and $\\mathrm{Hg}$\n",
+        "image": null
+      },
+      {
+        "id": "lWMFC",
+        "text": "\n$\\mathrm{Hg}$ and $\\mathrm{Fe}$\n",
+        "image": null
+      },
+      {
+        "id": "Voelv",
+        "text": "\nFe and Au\n",
+        "image": null
+      },
+      {
+        "id": "TQruM",
+        "text": "\n$\\mathrm{Fe}$ and $\\mathrm{V}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "TQruM",
+    "solution_text": "The species having less reduction potential with respect to $\\mathrm{NO}_3^{-}\\left(E^{\\circ}=0.96 \\mathrm{~V}\\right)$ will be oxidised by $\\mathrm{NO}_3^{-}$; These species are $\\mathrm{V}, \\mathrm{Fe}, \\mathrm{Hg}$.",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169e9f23ac7d519f9af98",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Electrolysis of dilute aq. $\\mathrm{NaCl}$ solution was carried out by passing $10 \\mathrm{~mA}$ current. The time required to liberate $0.01$ mole of $\\mathrm{H}_2$ gas at the cathode is (1 Faraday $=96500 \\mathrm{C} \\mathrm{mol}^{-1}$ )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dM2oq",
+        "text": "\n$9.65 \\times 10^4 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "GjDdI",
+        "text": "\n$19.3 \\times 10^4 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "KfL1h",
+        "text": "\n$28.95 \\times 10^4 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "GAziE",
+        "text": "\n$38.6 \\times 10^4 \\mathrm{~s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "GjDdI",
+    "solution_text": "$2 \\mathrm{H}_2 \\mathrm{O}+2 e^{-} \\longrightarrow \\mathrm{H}_2+2 \\mathrm{OH}^{-}$\nFor $0.01$ mole of $\\mathrm{H}_2, 0.02$ mole of electrons are consumed Charge required $=0.02 \\times 96500 \\mathrm{C}=i \\times t$\n$$\n\\text { Time required }=\\frac{0.02 \\times 96500}{10 \\times 10^{-3}}=19.3 \\times 10^4 \\mathrm{~s}\n$$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169d5f23ac7d519f9aee0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nChemical reactions involve interaction of atoms and molecules. A large number of atoms/molecules (approximately $6.023 \\times 10^{23}$ ) are present in a few grams of any chemical compound varying with their atomic/molecular masses. To handle such large numbers conveniently, the mole concept was introduced. This concept has implications in diverse areas such as analytical chemistry, biochemistry, electrochemistry and radiochemistry. The following example illustrates a typical case, involving chemical/electrochemical reaction, which requires a clear understanding of the mole concept.\nA $4.0$ molar aqueous solution of $\\mathrm{NaCl}$ is prepared and $500 \\mathrm{~mL}$ of this solution is electrolysed. This leads to the evolution of chlorine gas at one of electrodes (atomic mass: $\\mathrm{Na}=23, \\mathrm{Hg}=200 ; 1$ faraday $=96500$ coulombs).<strong>Question:</strong>\nThe total charge (coulombs) required for complete electrolysis is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vtQTS",
+        "text": "\n24125\n",
+        "image": null
+      },
+      {
+        "id": "OJa3Q",
+        "text": "\n48250\n",
+        "image": null
+      },
+      {
+        "id": "pqygB",
+        "text": "\n96500\n",
+        "image": null
+      },
+      {
+        "id": "E62hi",
+        "text": "\n193000",
+        "image": null
+      }
+    ],
+    "correct_answer": "E62hi",
+    "solution_text": "$2 \\mathrm{Cl}^{-} \\longrightarrow \\mathrm{Cl}_2+2 e^{-}$\nTotal charge $=2 \\times 96500$ Coulamb $=193000$ coulomb",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae87",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTollen's reagent is used for the detection of aldehyde when a solution of $\\mathrm{AgNO}_3$ is added to glucose with $\\mathrm{NH}_4 \\mathrm{OH}$ then gluconic acid is formed\n$\\begin{array}{rr}\\mathrm{Ag}^{+}+e^{-} \\rightarrow \\mathrm{Ag} & E_{\\text {red }}^{\\circ}=0.8 \\mathrm{~V} \\\\ \\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+\\mathrm{H}_2 \\mathrm{O} \\rightarrow \\text { Gluconic acid }\\left(\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_7\\right)+2 \\mathrm{H}^{+}+2 e^{-} ; & -E_{\\mathrm{red}}^{\\circ}=-0.05 \\mathrm{~V} \\\\ \\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2^{+}+e^{-} \\rightarrow \\mathrm{Ag}(s)+2 \\mathrm{NH}_3 ; & E_{\\mathrm{red}}^{\\circ}=0.337 \\mathrm{~V}\\end{array}$\n[Use $2.303 \\times \\frac{R T}{F}=0.0592$ and $\\frac{F}{R T}=38.92$ at $298 \\mathrm{~K}$ ]<strong>Question:</strong>\nAmmonia is always added in this reaction. Which of the following must be incorrect?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eKxSy",
+        "text": "\n$\\mathrm{NH}_3$ combines with $\\mathrm{Ag}^{+}$to form a complex\n",
+        "image": null
+      },
+      {
+        "id": "VCWIy",
+        "text": "\n$\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2^{+}$is a stronger oxidising reagent than $\\mathrm{Ag}^{+}$.\n",
+        "image": null
+      },
+      {
+        "id": "wr9Vb",
+        "text": "\nIn absence of $\\mathrm{NH}_3$ silver salt of gluconic acid is formed.\n",
+        "image": null
+      },
+      {
+        "id": "Y5dhW",
+        "text": "\n$\\mathrm{NH}_3$ has affected the standard reduction potential of glucose/gluconic acid electrode.",
+        "image": null
+      }
+    ],
+    "correct_answer": "Y5dhW",
+    "solution_text": "Ammonia has no effect on the standard reduction potential.",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae86",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTollen's reagent is used for the detection of aldehyde when a solution of $\\mathrm{AgNO}_3$ is added to glucose with $\\mathrm{NH}_4 \\mathrm{OH}$ then gluconic acid is formed\n$\\begin{array}{rr}\\mathrm{Ag}^{+}+e^{-} \\rightarrow \\mathrm{Ag} & E_{\\text {red }}^{\\circ}=0.8 \\mathrm{~V} \\\\ \\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+\\mathrm{H}_2 \\mathrm{O} \\rightarrow \\text { Gluconic acid }\\left(\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_7\\right)+2 \\mathrm{H}^{+}+2 e^{-} ; & -E_{\\mathrm{red}}^{\\circ}=-0.05 \\mathrm{~V} \\\\ \\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2^{+}+e^{-} \\rightarrow \\mathrm{Ag}(s)+2 \\mathrm{NH}_3 ; & E_{\\mathrm{red}}^{\\circ}=0.337 \\mathrm{~V}\\end{array}$\n[Use $2.303 \\times \\frac{R T}{F}=0.0592$ and $\\frac{F}{R T}=38.92$ at $298 \\mathrm{~K}$ ]<strong>Question:</strong>\nWhen ammonia is added to the solution, $\\mathrm{pH}$ is raised to 11 . Which half-cell reaction is affected by $\\mathrm{pH}$ and by how much?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QD4fY",
+        "text": "\n$E_{\\text {oxd }}$ will increase by a factor of $0.65$ from $E_{\\text {oxd }}^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "GTHQd",
+        "text": "\n$E_{\\text {oxd }}$ will decrease by a factor of $0.65$ from $E_{\\text {oxd }}^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "z1tmL",
+        "text": "\n$E_{\\text {red }}$ will increase by a factor of $0.65$ from $E_{\\text {red }}^{\\circ}$\n",
+        "image": null
+      },
+      {
+        "id": "fYGBc",
+        "text": "\n$E_{\\text {red }}$ will decrease by a factor of $0.65$ from $E_{\\text {red }}^{\\circ}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "z1tmL",
+    "solution_text": "On increasing concentration of $\\mathrm{NH}_3$, the concentration of $\\mathrm{H}^{+}$ion decreases, therefore\n$$\n\\begin{aligned}\nE_{\\mathrm{red}} & =E_{\\mathrm{red}}^{\\circ}-\\frac{0.0592}{n} \\log _{10}\\left[\\mathrm{H}^{+}\\right]^2 \\\\\n& =0-\\frac{0.0592}{2} \\times 2 \\log _{10} 10^{-11} \\quad\\left(\\because \\mathrm{pH}=11 ; \\therefore\\left[\\mathrm{H}^{+}\\right]=10^{-11} \\mathrm{M}\\right) \\\\\n& =-0.0592 \\times 11=0.6512 \\mathrm{~V}=0.65 \\mathrm{~V}\n\\end{aligned}\n$$\n$E_{\\text {red }}$ increased by a factor of $0.65$ from $E_{\\text {red }}^{\\circ}$.",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae85",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTollen's reagent is used for the detection of aldehyde when a solution of $\\mathrm{AgNO}_3$ is added to glucose with $\\mathrm{NH}_4 \\mathrm{OH}$ then gluconic acid is formed\n$\\begin{array}{rr}\\mathrm{Ag}^{+}+e^{-} \\rightarrow \\mathrm{Ag} & E_{\\text {red }}^{\\circ}=0.8 \\mathrm{~V} \\\\ \\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+\\mathrm{H}_2 \\mathrm{O} \\rightarrow \\text { Gluconic acid }\\left(\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_7\\right)+2 \\mathrm{H}^{+}+2 e^{-} ; & -E_{\\mathrm{red}}^{\\circ}=-0.05 \\mathrm{~V} \\\\ \\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2^{+}+e^{-} \\rightarrow \\mathrm{Ag}(s)+2 \\mathrm{NH}_3 ; & E_{\\mathrm{red}}^{\\circ}=0.337 \\mathrm{~V}\\end{array}$\n[Use $2.303 \\times \\frac{R T}{F}=0.0592$ and $\\frac{F}{R T}=38.92$ at $298 \\mathrm{~K}$ ]<strong>Question:</strong>\n$2 \\mathrm{Ag}^{+}+\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+\\mathrm{H}_2 \\mathrm{O} \\rightarrow 2 \\mathrm{Ag}(\\mathrm{s})+\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_4+2 \\mathrm{H}^{+}$. Find $\\ln \\mathrm{K}$ of this reaction.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "g5HMI",
+        "text": "\n$66.13$\n",
+        "image": null
+      },
+      {
+        "id": "wFpbx",
+        "text": "\n$58.38$\n",
+        "image": null
+      },
+      {
+        "id": "YiBnc",
+        "text": "\n$28.30$\n",
+        "image": null
+      },
+      {
+        "id": "QdYPr",
+        "text": "\n$46.29$",
+        "image": null
+      }
+    ],
+    "correct_answer": "wFpbx",
+    "solution_text": "Cell reaction,\n(i) $\\mathrm{Ag}^{+}+e^{-} \\longrightarrow \\mathrm{Ag}(\\mathrm{s}), E_{\\mathrm{red}}^{\\circ}=0.8 \\mathrm{~V}$\n(ii) $\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+\\mathrm{H}_2 \\mathrm{O} \\longrightarrow \\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_7+2 \\mathrm{H}^{+}+2 e^{-}, E_{\\text {oxid }}=-0.05 \\mathrm{~V}$\nHence, for reaction\n$$\n\\begin{aligned}\n2 \\mathrm{Ag}^{+}+\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+\\mathrm{H}_2 \\mathrm{O} & \\longrightarrow 2 \\mathrm{Ag}(s)+\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O} 7+2 \\mathrm{H}^{+} \\\\\nE_{\\text {cell }}^{\\circ} & =(0.8-0.05)=0.75 \\mathrm{~V} \\\\\nE_{\\text {cell }}^{\\circ} & =E_{\\text {anode }}^{\\circ}-E_{\\text {cathode }}^{\\circ}=[-0.05-(-0.8)]_{\\mathrm{V}}\n\\end{aligned}\n$$\nOn the basis of oxidised electrode potential $=0.75 \\mathrm{~V}$\nBy Nernst equation, $E_{\\text {cell }}=E_{\\text {cell }}^{\\circ}-\\frac{2.303 R T}{n F} \\log _{10} K$\nAt equilibrium, $E_{\\text {cell }}=0$\n\n$$\n\\begin{aligned}\nE_{\\text {cell }}^{\\circ} & =\\frac{2.303 R T}{n F} \\log _{10} K \\\\\n0.75 & =\\frac{0.0592}{2} \\log _{10} K \\\\\n\\log _{10} K & =\\frac{2 \\times 0.75}{0.0592}=25.33\n\\end{aligned}\n$$\nor In $K=2.303 \\times \\log _{10} K=2.303 \\times 25.33=58.35$",
+    "solution_image": null,
+    "topic": "Cells and Electrode Potential, Nernst Equation"
+  },
+  {
+    "question_id": "6a0be51544d287c9361e5ccc",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "At $300$ K, the molar conductivities of the aqueous solutions of three salts at two different concentrations are given below:<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">Salt</th><th style=\"border: 1px solid black; padding: 10px;\">Concentration (M)</th><th style=\"border: 1px solid black; padding: 10px;\">Molar conductivity (S cm$^2$ mol$^{-1}$)</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\" rowspan=\"2\">$\\text{NaNO}_3$</td><td style=\"border: 1px solid black; padding: 10px;\">$0.01$</td><td style=\"border: 1px solid black; padding: 10px;\">$111$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">$0.04$</td><td style=\"border: 1px solid black; padding: 10px;\">$101$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\" rowspan=\"2\">$\\text{NaCl}$</td><td style=\"border: 1px solid black; padding: 10px;\">$0.01$</td><td style=\"border: 1px solid black; padding: 10px;\">$117$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">$0.04$</td><td style=\"border: 1px solid black; padding: 10px;\">$107$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\" rowspan=\"2\">$\\text{AgNO}_3$</td><td style=\"border: 1px solid black; padding: 10px;\">$0.01$</td><td style=\"border: 1px solid black; padding: 10px;\">$125$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">$0.04$</td><td style=\"border: 1px solid black; padding: 10px;\">$116$</td></tr></table><br>The conductivity of a saturated aqueous solution of AgCl is $1.40 \\times 10^{-6}$ S cm$^{-1}$ at $300$ K. If the solubility of AgCl in water at $300$ K is $X$ mol L$^{-1}$, then $\\log_{10}(X^{-1})$ is<br>(Assume that AgCl dissolved in water ionizes completely and that the molar conductivity of saturated AgCl solution is equal to its limiting molar conductivity.)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "921nw",
+        "text": "$3$",
+        "image": null
+      },
+      {
+        "id": "nMuR4",
+        "text": "$4$",
+        "image": null
+      },
+      {
+        "id": "yK17y",
+        "text": "$5$",
+        "image": null
+      },
+      {
+        "id": "9ePyE",
+        "text": "$6$",
+        "image": null
+      }
+    ],
+    "correct_answer": "yK17y",
+    "solution_text": "Using the Debye-Hückel-Onsager equation, $\\Lambda_m = \\Lambda^\\circ_m - b\\sqrt{C}$, we can find the limiting molar conductivity ($\\Lambda^\\circ_m$) for each salt.<br><br>For $\\text{NaNO}_3$:<br>$\\Lambda^\\circ_m - b\\sqrt{0.01} = 111 \\Rightarrow \\Lambda^\\circ_m - 0.1b = 111$<br>$\\Lambda^\\circ_m - b\\sqrt{0.04} = 101 \\Rightarrow \\Lambda^\\circ_m - 0.2b = 101$<br>Subtracting the two equations gives $0.1b = 10 \\Rightarrow b = 100$.<br>$\\Lambda^\\circ_m(\\text{NaNO}_3) = 111 + 100(0.1) = 121 \\text{ S cm}^2\\text{ mol}^{-1}$.<br><br>For $\\text{NaCl}$:<br>$\\Lambda^\\circ_m - 0.1b = 117$<br>$\\Lambda^\\circ_m - 0.2b = 107$<br>Subtracting gives $0.1b = 10 \\Rightarrow b = 100$.<br>$\\Lambda^\\circ_m(\\text{NaCl}) = 117 + 100(0.1) = 127 \\text{ S cm}^2\\text{ mol}^{-1}$.<br><br>For $\\text{AgNO}_3$:<br>$\\Lambda^\\circ_m - 0.1b = 125$<br>$\\Lambda^\\circ_m - 0.2b = 116$<br>Subtracting gives $0.1b = 9 \\Rightarrow b = 90$.<br>$\\Lambda^\\circ_m(\\text{AgNO}_3) = 125 + 90(0.1) = 134 \\text{ S cm}^2\\text{ mol}^{-1}$.<br><br>According to Kohlrausch's law of independent migration of ions:<br>$\\Lambda^\\circ_m(\\text{AgCl}) = \\Lambda^\\circ_m(\\text{AgNO}_3) + \\Lambda^\\circ_m(\\text{NaCl}) - \\Lambda^\\circ_m(\\text{NaNO}_3)$<br>$\\Lambda^\\circ_m(\\text{AgCl}) = 134 + 127 - 121 = 140 \\text{ S cm}^2\\text{ mol}^{-1}$.<br><br>The molar conductivity of the saturated $\\text{AgCl}$ solution is equal to its limiting molar conductivity, so $\\Lambda_m(\\text{AgCl}) = 140 \\text{ S cm}^2\\text{ mol}^{-1}$.<br><br>The relationship between molar conductivity, conductivity ($\\kappa$), and solubility ($X$ in $\\text{mol L}^{-1}$) is:<br>$\\Lambda_m = \\dfrac{\\kappa \\times 1000}{X}$<br><br>Substituting the given values:<br>$140 = \\dfrac{1.40 \\times 10^{-6} \\times 1000}{X}$<br>$140 = \\dfrac{1.40 \\times 10^{-3}}{X}$<br>$X = \\dfrac{1.40 \\times 10^{-3}}{140} = 10^{-5} \\text{ mol L}^{-1}$.<br><br>We need to find $\\log_{10}(X^{-1})$:<br>$X^{-1} = \\dfrac{1}{10^{-5}} = 10^5$<br>$\\log_{10}(X^{-1}) = \\log_{10}(10^5) = 5$.<br><br>Answer: $5$",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "66965dc5d603121f43a3ca27",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "In a conductometric titration, small volume of titrant of higher concentration is added stepwise to a larger volume of titrate of much lower concentration, and the conductance is measured after each addition.\nThe limiting ionic conductivity $\\left(\\Lambda_0\\right)$ values (in $\\mathrm{mS} \\mathrm{m}^2 \\mathrm{~mol}^{-1}$) for different ions in aqueous solutions are given below:\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/n4XfWZ_FiAyS_V2QzdumgTB-Y43XRVhjbCdgNqWarsU.original.fullsize.png\"><br>For different combinations of titrates and titrants given in List-I, the graphs of 'conductance' versus 'volume of titrant' are given in List-II.\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jClIogwmkY-EJ5eYUVU-mkR3ErR6ZlJ452YCnlRrvfc.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7GK1c",
+        "text": "$\\mathrm{P}-4, \\mathrm{Q}-3, \\mathrm{R}-2, \\mathrm{~S}-5$",
+        "image": null
+      },
+      {
+        "id": "xh9HP",
+        "text": "$\\mathrm{P}-2, \\mathrm{Q}-4, \\mathrm{R}-3, \\mathrm{~S}-1$",
+        "image": null
+      },
+      {
+        "id": "bgKiB",
+        "text": "$\\mathrm{P}-3, \\mathrm{Q}-4, \\mathrm{R}-2, \\mathrm{~S}-5$",
+        "image": null
+      },
+      {
+        "id": "omw9z",
+        "text": "$\\mathrm{P}-4, \\mathrm{Q}-3, \\mathrm{R}-2, \\mathrm{~S}-1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "bgKiB",
+    "solution_text": "Option (P) :\nOn adding $\\mathrm{AgNO}_3$ solution to $\\mathrm{KCl}$ solution precipitation of $\\mathrm{AgCl}$ will occur due to which $\\mathrm{Cl}^{-}$already present will be replaced by $\\mathrm{NO}_3^{-}$ions. So conductance of solution will decrease till equivalence point. After complete precipitation of $\\mathrm{AgCl}$, further added $\\mathrm{AgNO}_3$ will increase the number of ions in resulting solution so conductance will increase.\nOption $(\\mathbf{Q})$ :\nOn adding $\\mathrm{KCl}$ solution to $\\mathrm{AgNO}_3$ solution precipitation of $\\mathrm{AgCl}$ will occur due to which already present $\\mathrm{Ag}^{+}$ions will be replaced by $\\mathrm{K}^{+}$ions in solution. So conductance of solution will increase. After complete precipitation of $\\mathrm{AgCl}$ further added $\\mathrm{KCl}$ will increase the number of ions in resulting solution so conductance will increase further.\nOption (R) :\nOn adding $\\mathrm{HCl}$ solution to $\\mathrm{NaOH}$ solution, $\\mathrm{OH}^{-}$will be replaced by $\\mathrm{Cl}^{-}$ions so conductance of solution decreases. After complete neutralisation further added $\\mathrm{HCl}$ will increase number of ions in the solution. So conductance will increase further.\nOption (S) :\nOn adding $\\mathrm{CH}_3 \\mathrm{COOH}$ solution to $\\mathrm{NaOH}$ solution $\\mathrm{OH}^{-}$will be replaced by $\\mathrm{CH}_3 \\mathrm{COO}^{-}$ions, so conductance of solution decreases. After complete neutralisation further added $\\mathrm{CH}_3 \\mathrm{COOH}$ will remain undissociated because it is a weak acid and there is also common ion effect on acetate ions. So number of ions in solution will remain almost constant therefore conductance of solution will remain constant.",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16aa2f23ac7d519f9b635",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Plotting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>/</mo><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></math> against <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>c&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></math> for aqueous solutions of a monobasic weak acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>HX</mi><mo>)</mo></math> resulted in a straight line with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">y</mi><mo>-</mo></math>axis intercept of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> and slope of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math>. The ratio <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>/</mo><mi mathvariant=\"normal\">S</mi></math>&nbsp;is<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"\" open=\"[\" separators=\"|\"><mrow><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>=</mo></mrow></mfenced><mtext>&#160;molar conductivity&#160;</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mo>&#160;</mo><mi>limiting</mi><mo>&#160;</mo><mi>molar</mi><mo>conductivity</mo><mspace linebreak=\"newline\"/><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">c</mi><mo>=</mo><mo>&#160;</mo><mi>molar</mi><mo>concentration</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"\" separators=\"|\"><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mtext>&#160;dissociation constant of&#160;</mtext><mi>HX</mi></mrow></mfenced></math></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4lNYj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></math>",
+        "image": null
+      },
+      {
+        "id": "xytUu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mo>/</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "SeVlF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></math>",
+        "image": null
+      },
+      {
+        "id": "hexrg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>/</mo><mfenced><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4lNYj",
+    "solution_text": "<blockquote><p>The degree of dissociation is the ratio of molar conductivity to the limiting molar conductivity.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#945;</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mfrac></math></p><p>The equilibrium reaction is given below,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>HX</mi><mover><mo>&#8652;</mo><mrow></mrow></mover><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>+</mo><msup><mi mathvariant=\"normal\">X</mi><mo>-</mo></msup><mspace linebreak=\"newline\"></mspace><mi>initial</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">c</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mspace linebreak=\"newline\"></mspace><mi>At</mi><mo>&#160;</mo><mi>equilibrium</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi>c&#945;</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>c&#945;</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>c&#945;</mi></math></p><p>The acid dissociation constant,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><msup><mi>c&#945;</mi><mn>2</mn></msup><mrow><mn>1</mn><mo>&#8722;</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">c</mi><msup><mfenced separators=\"|\"><mrow><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>/</mo><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mrow></mfenced><mn>2</mn></msup></mrow><mrow><mn>1</mn><mo>&#8722;</mo><mfenced separators=\"|\"><mrow><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>/</mo><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><msubsup><mi>c&#923;</mi><mi mathvariant=\"normal\">m</mi><mn>2</mn></msubsup><mrow><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mfenced separators=\"|\"><mrow><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msup><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mn>2</mn></msup><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>=</mo><msubsup><mi>c&#923;</mi><mi mathvariant=\"normal\">m</mi><mn>2</mn></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msup><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mn>2</mn></msup></mrow><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></mfrac><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><msub><mi>C&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msup><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mn>2</mn></msup></mrow><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></mfrac><mo>=</mo><msub><mi>c&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>+</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi></msub></mfrac><mo>=</mo><mfenced separators=\"|\"><mfrac><msub><mi>c&#923;</mi><mi mathvariant=\"normal\">m</mi></msub><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msup><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mn>2</mn></msup></mrow></mfrac></mfenced><mo>+</mo><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mfrac></math></p><p>From the above line equation, slope and y-intercept can be written as follows,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>=</mo><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>=</mo><mfrac><mn>1</mn><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msup><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mn>2</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">S</mi></mfrac><mo>=</mo><mfenced separators=\"|\"><mfrac><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></mfrac><mfrac><mn>1</mn><mrow><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msup><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup><mn>2</mn></msup></mrow></mfrac></mfrac></mfenced><mo>=</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><msubsup><mi mathvariant=\"normal\">&#923;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi></msubsup></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a9cf23ac7d519f9b5fe",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>Consider the strong electrolytes <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">U</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">Y</mi><mi mathvariant=\"normal\">p</mi></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></math>. Limiting molar conductivity&nbsp;of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">U</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">Y</mi><mi mathvariant=\"normal\">p</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></math> are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>440</mn><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#160;</mo><msup><mi>cm</mi><mn>2</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, respectively. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi mathvariant=\"normal\">m</mi><mo>+</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"normal\">p</mi></mrow></mfenced></math> is</p><p>Given:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>Ion</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">Z</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>+</mo></mrow></msup></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">U</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>+</mo></mrow></msup></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">V</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>+</mo></mrow></msup></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">X</mi><mrow><mi mathvariant=\"normal\">m</mi><mo>-</mo></mrow></msup></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">Y</mi><mrow><mi mathvariant=\"normal\">m</mi><mo>-</mo></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#955;</mi><mn>0</mn></msup><mfenced><mrow><mi mathvariant=\"normal\">S</mi><mo>&#160;</mo><mi>cm</mi><mmultiscripts><mo>&#160;</mo><mprescripts></mprescripts><none></none><mn>2</mn></mmultiscripts><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>.</mo><mn>0</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>.</mo><mn>0</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>.</mo><mn>0</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>80</mn><mo>.</mo><mn>0</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>.</mo><mn>0</mn></math></td>\t\t</tr>\t</tbody></table><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#955;</mi><mn>0</mn></msup></math>&nbsp;is the limiting molar conductivity of ions</p><p>The plot of molar conductivity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>&#923;</mi></mfenced></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></math> vs <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">c</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></msup></math> is given below.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8f22ac03-49c6-47b4-86b9-9e69736b0508-image.png\" style=\"width: 303px; height: 270px;\" /></p><p>If the numerical value has more than two decimal places, truncate/round-off the value to TWO decimal places.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>=</mo><msubsup><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi><mo>&#176;</mo></msubsup><mo>-</mo><mi mathvariant=\"normal\">A</mi><msqrt><mi mathvariant=\"normal\">C</mi></msqrt></math></p><p>For electrolyte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></math>&nbsp;and from given curve</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi></msub><mfenced><mrow><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></mrow></mfenced><mo>=</mo><msubsup><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi><mn>0</mn></msubsup><mfenced><mrow><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">A</mi><msqrt><mi mathvariant=\"normal\">C</mi></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi mathvariant=\"normal\">A</mi><mo>=</mo><mfrac><mrow><mn>336</mn><mo>-</mo><mn>339</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>04</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>01</mn></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mrow><mn>0</mn><mo>.</mo><mn>03</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi mathvariant=\"normal\">A</mi><mo>=</mo><mn>100</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi mathvariant=\"normal\">m</mi></msub><mo>=</mo><mn>336</mn><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#160;</mo><msup><mi>cm</mi><mn>2</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>336</mn><mo>=</mo><msubsup><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi><mn>0</mn></msubsup><mfenced><mrow><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub></mrow></mfenced><mo>-</mo><mn>100</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>04</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#955;</mi><mi mathvariant=\"normal\">m</mi><mn>0</mn></msubsup><mo>=</mo><mn>336</mn><mo>+</mo><mn>4</mn><mo>=</mo><mn>340</mn><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#160;</mo><msup><mi>cm</mi><mn>2</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub><mo>&#10230;</mo><msup><mi>mZ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>+</mo></mrow></msup><mo>+</mo><msup><mi>nX</mi><mrow><mi mathvariant=\"normal\">m</mi><mo>-</mo></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mn>50</mn><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>80</mn><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>340</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>5</mn><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>8</mn><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>34</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">U</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">Y</mi><mi mathvariant=\"normal\">p</mi></msub><mo>&#10230;</mo><msup><mi>mU</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>+</mo></mrow></msup><mo>+</mo><msup><mi>pY</mi><mrow><mi mathvariant=\"normal\">m</mi><mo>-</mo></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mn>25</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>100</mn><mi mathvariant=\"normal\">p</mi><mo>=</mo><msubsup><mi>&#955;</mi><mi mathvariant=\"normal\">m</mi><mn>0</mn></msubsup><mfenced><mrow><msub><mi mathvariant=\"normal\">U</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">Y</mi><mi mathvariant=\"normal\">p</mi></msub></mrow></mfenced><mo>=</mo><mn>250</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">p</mi><mo>=</mo><mn>10</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>ii</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">m</mi></msub><msub><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">n</mi></msub><mo>&#10230;</mo><msup><mi>mV</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>+</mo></mrow></msup><mo>+</mo><msup><mi>nX</mi><mrow><mi mathvariant=\"normal\">m</mi><mo>-</mo></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mn>100</mn><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>80</mn><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>440</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>5</mn><mi mathvariant=\"normal\">m</mi><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>22</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>iii</mi></mfenced></math></p><p>From equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>iii</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">m</mi><mo>=</mo><mn>2</mn></math></p><p>From equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>ii</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">p</mi><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>+</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"normal\">p</mi><mo>=</mo><mn>2</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>7</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a91f23ac7d519f9b595",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "At $298 \\mathrm{~K}$, the limiting molar conductivity of a weak monobasic acid is $4 \\times 10^{2} \\mathrm{~S} \\mathrm{~cm}^{2} \\mathrm{~mol}^{-1}$. At $298 \\mathrm{~K}$, for an aqueous solution of the acid the degree of dissociation is $\\boldsymbol{\\alpha}$ and the molar conductivity is $\\mathbf{y} \\times 10^{2} \\mathrm{~S} \\mathrm{~cm}^{2} \\mathrm{~mol}^{-1}$. At $298 \\mathrm{~K}$, upon 20 times dilution with water, the molar conductivity of the solution becomes $3 \\mathbf{y} \\times 10^{2} \\mathrm{~S} \\mathrm{~cm}^{2} \\mathrm{~mol}^{-1}$<br>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">y</mi></math> is _________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.86",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#945;</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi></msub><msubsup><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi><mo>&#8728;</mo></msubsup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">y</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>+</mo><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mi mathvariant=\"normal\">y</mi><mn>4</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup></mrow><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>2</mn></mfenced></math></p><p>After&nbsp;dilution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow><mrow><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi></mrow><mn>4</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>3</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup></mrow><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>4</mn></mfenced></math></p><p>eq.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>/</mo><mfenced><mn>3</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mfrac><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p>eq&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced><mo>/</mo><mfenced><mn>4</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mn>1</mn><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mrow><mrow><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mrow><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><mo>=</mo><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><mo>&#160;</mo><mn>20</mn><mi mathvariant=\"normal\">y</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mrow><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>20</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>20</mn><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup></mrow><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mfrac><mo>=</mo><mfrac><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>20</mn><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mfrac><mo>=</mo><mfrac><mn>9</mn><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mn>3</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#8722;</mo><mn>60</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><mo>=</mo><mn>9</mn><mo>&#8722;</mo><mn>9</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mo>=</mo><mn>51</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#945;</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>11</mn><mn>51</mn></mfrac><mo>=</mo><mn>0.22</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>4</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><mo>=</mo><mn>4</mn><mo>&#215;</mo><mfrac><mn>11</mn><mn>51</mn></mfrac><mo>=</mo><mn>0</mn><mo>.86</mo></math></p>",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a91f23ac7d519f9b594",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "At $298 \\mathrm{~K}$, the limiting molar conductivity of a weak monobasic acid is $4 \\times 10^{2} \\mathrm{~S} \\mathrm{~cm}^{2} \\mathrm{~mol}^{-1}$. At $298 \\mathrm{~K}$, for an aqueous solution of the acid the degree of dissociation is $\\boldsymbol{\\alpha}$ and the molar conductivity is $\\mathbf{y} \\times 10^{2} \\mathrm{~S} \\mathrm{~cm}^{2} \\mathrm{~mol}^{-1}$. At $298 \\mathrm{~K}$, upon 20 times dilution with water, the molar conductivity of the solution becomes $3 \\mathbf{y} \\times 10^{2} \\mathrm{~S} \\mathrm{~cm}^{2} \\mathrm{~mol}^{-1}$<br>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#945;</mi></math> is _______ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.22",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#945;</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi></msub><msubsup><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">m</mi><mo>&#8728;</mo></msubsup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">y</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>+</mo><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mi mathvariant=\"normal\">y</mi><mn>4</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup></mrow><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>2</mn></mfenced></math></p><p>After&nbsp;dilution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow><mrow><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi></mrow><mn>4</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>3</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup></mrow><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>4</mn></mfenced></math></p><p>eq.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>/</mo><mfenced><mn>3</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mfrac><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p>eq&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced><mo>/</mo><mfenced><mn>4</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mn>1</mn><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mrow><mrow><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mrow><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub><mo>=</mo><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><mo>&#160;</mo><mn>20</mn><mi mathvariant=\"normal\">y</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>1</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mrow><mrow><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>20</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>20</mn><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn><mn>2</mn></msubsup></mrow><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mfrac><mo>=</mo><mfrac><msubsup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>20</mn><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></mrow></mfenced></mfrac><mo>=</mo><mfrac><mn>9</mn><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msub></mrow></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#8722;</mo><mn>60</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><mo>=</mo><mn>9</mn><mo>&#8722;</mo><mn>9</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mo>=</mo><mn>51</mn><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#945;</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>11</mn><mn>51</mn></mfrac><mo>=</mo><mn>0</mn><mo>.22</mo></math></p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a5bf23ac7d519f9b3ac",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "The conductance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.0015</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi></math> aqueous solution of a weak monobasic acid was determined by using a conductivity cell consisting of platinized <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pt</mi><mo>&#160;</mo></math>electrodes. The distance between the electrodes is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>120</mn><mi mathvariant=\"normal\">&#160;</mi><mi>cm</mi></math> with an area of cross-section of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><msup><mi>cm</mi><mn>2</mn></msup></math>. The conductance of this solution was found to be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup><mi mathvariant=\"normal\">S</mi></math> . The <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>pH</mi><mo>&#160;</mo></math>of the solution is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>. The value of limiting molar conductivity of this weak monobasic acid in aqueous solution is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">&#160;</mi><mo>&#215;</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mn>10</mn><mn>2</mn></msup><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>cm</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math> The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi><mo>&#160;</mo></math>is.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>For weak acid,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\" separators=\"|\"><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mfenced><mo>=</mo><mi>c&#945;</mi><mo>=</mo><mi mathvariant=\"normal\">c</mi><mo>&#215;</mo><mfrac><msubsup><mo>&#8743;</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">c</mi></msubsup><msubsup><mo>&#8743;</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&#8734;</mi></msubsup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi mathvariant=\"normal\">c</mi><mo>&#215;</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mo>&#215;</mo><mfrac><mn>1000</mn><mi mathvariant=\"normal\">c</mi></mfrac></mrow><msubsup><mo>&#8743;</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&#8734;</mi></msubsup></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">k</mi><mo>&#215;</mo><mn>1000</mn></mrow><msubsup><mo>&#8743;</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&#8734;</mi></msubsup></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mo>&#215;</mo><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">a</mi></mfrac></mfenced><mo>&#215;</mo><mn>1000</mn></mrow><msubsup><mo>&#8743;</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&#8734;</mi></msubsup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup><mfenced separators=\"|\"><mfrac><mn>120</mn><mn>1</mn></mfrac></mfenced><mo>&#215;</mo><mn>1000</mn></mrow><mrow><mi mathvariant=\"normal\">Z</mi><mo>&#215;</mo><msup><mn>10</mn><mn>2</mn></msup></mrow></mfrac><mi mathvariant=\"normal\">&#160;</mi><mo>&#8658;</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">Z</mi><mo>=</mo><mn>6</mn></math></p>",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a48f23ac7d519f9b2fe",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "The molar conductivity of a solution of a weak acid HX (0.01 M) is 10 times smaller than the molar conductivity of a solution of a weak acid HY (0.10 M). If <math><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mo>-</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup><mo>&#8776;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">Y</mi></mrow><mrow><mo>-</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup></math> , the difference in their <math><mi mathvariant=\"normal\">p</mi><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></math> values, <math><mi mathvariant=\"normal\">p</mi><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">p</mi><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mo>(</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi><mo>)</mo></math> , is (Consider degree of ionization of both acids to &lt;&lt; 1)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<math><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mo>-</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup><mo>&#8776;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">Y</mi></mrow><mrow><mo>-</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup></math><br /><math><mo>&#8658;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup><mo>+</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mo>-</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup><mi mathvariant=\"normal\">&#160;</mi><mo>&#8776;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup><mo>+</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">Y</mi></mrow><mrow><mo>-</mo></mrow></msup></mrow><mrow><mn>0</mn></mrow></msubsup></math><br /><math><mo>&#8658;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>0</mn></mrow></msubsup><mo>&#8776;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi></mrow><mrow><mn>0</mn></mrow></msubsup></math> ...... (i)<br />Also, <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub></mrow><mrow><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>0</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">&#945;</mi></math> ,<br />So <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>0</mn></mrow></msubsup><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>0</mn></mrow></msubsup><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>2</mn></mrow></msub></math><br />(Where <math><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are degree of dissociation of HX and HY respectively)<br />Now, given that<br /><math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi></mrow></mfenced><mo>=</mo><mn>10</mn><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi></mrow></mfenced></math><br /><math><mo>&#8658;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>0</mn></mrow></msubsup><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>10</mn><mo>&#215;</mo><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>0</mn></mrow></msubsup><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br /><math><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>10</mn><msub><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>1</mn></mrow></msub></math> ...... (ii)<br /><math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></mfrac></math> , But <math><mi mathvariant=\"normal\">&#945;</mi><mo>&#8810;</mo><mn>1</mn></math> , therefore <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">a</mi></msub><mo>=</mo><mi mathvariant=\"normal\">C</mi><msup><mi mathvariant=\"normal\">&#945;</mi><mn>2</mn></msup></math><br /><math><mo>&#8658;</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mo>(</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi><mo>)</mo></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mo>(</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.01</mn><msubsup><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>0.1</mn><msubsup><mrow><mi mathvariant=\"normal\">&#945;</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>0.01</mn></mrow><mrow><mn>0.1</mn></mrow></mfrac><mo>&#215;</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1000</mn></mrow></mfrac></math><br /><math><mo>&#8658;</mo><mrow><mrow><mo>[</mo><mi mathvariant=\"normal\">log</mi></mrow><mo>&#8289;</mo><mrow><mo>(</mo><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi></mrow></mfenced><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">log</mi></mrow><mo>&#8289;</mo><mrow><mfenced close=\"]\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi></mrow></mfenced></mrow></mfenced><mo>=</mo><mo>-</mo><mn>3</mn></mrow></mrow></mrow></mrow></math><br /><math><mo>&#8658;</mo><mi mathvariant=\"normal\">p</mi><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">X</mi></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">p</mi><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">Y</mi></mrow></mfenced><mo>=</mo><mn>3</mn></math>",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a30f23ac7d519f9b221",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "An aqueous solution of X is added slowly to an aqueous solution of Y as shown in List I. The variation in conductivity of these reactions is given in List II. Match List I with List II and select the correct using answer the code given below the lists :<br />&nbsp;<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>List I</strong></td>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>List II</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>a.&nbsp;</td>\t\t\t<td><math> <mrow> <mtable> <mtr> <mtd> <msub> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msub> <mtext>C</mtext> <mn>2</mn> </msub> <msub> <mtext>H</mtext> <mn>5</mn> </msub> </mrow> </mfenced> </mrow> <mn>3</mn> </msub> <mtext>N</mtext> <mo>+</mo> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <mtext>COOH</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>X</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mtable> <mtr> <mtd> <mtext>Y</mtext> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </mrow> </math></td>\t\t\t<td>p.&nbsp;</td>\t\t\t<td>Conductivity decreases and then&nbsp;<br />\t\t\tincreases&nbsp;</td>\t\t</tr>\t\t<tr>\t\t\t<td>b.&nbsp;</td>\t\t\t<td><math> <mrow> <mtable> <mtr> <mtd> <mtext>KI</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>0</mn> <mtext>.</mtext> <mn>1</mn> <mtext>M</mtext> </mrow> </mfenced> <mo>+</mo> <msub> <mtext>AgNO</mtext> <mn>3</mn> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>0</mn> <mtext>.</mtext> <mn>0</mn> <mn>1</mn> <mtext>M</mtext> </mrow> </mfenced> </mtd> </mtr> <mtr> <mtd> <mtext>X</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mtable> <mtr> <mtd> <mtext>Y</mtext> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </mrow> </math></td>\t\t\t<td>q.&nbsp;</td>\t\t\t<td>Conductivity decreases and then<br />\t\t\tdoes not change much&nbsp;</td>\t\t</tr>\t\t<tr>\t\t\t<td>c.&nbsp;</td>\t\t\t<td><math> <mrow> <mtable> <mtr> <mtd> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <mtext>COOH</mtext> <mo>+</mo> <mtext>KOH</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>X</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mtable> <mtr> <mtd> <mtext>Y</mtext> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </mrow> </math></td>\t\t\t<td>r.&nbsp;</td>\t\t\t<td>Conductivity increases and then<br />\t\t\tdoes not change much</td>\t\t</tr>\t\t<tr>\t\t\t<td>d.&nbsp;</td>\t\t\t<td><math> <mrow> <mtable> <mtr> <mtd> <mtext>NaOH</mtext> <mo>+</mo> <mtext>HI</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>X</mtext> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mtable> <mtr> <mtd> <mtext>Y</mtext> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </mrow> </math></td>\t\t\t<td>s.&nbsp;</td>\t\t\t<td>Conductivity does not change much and&nbsp;<br />\t\t\tthen increases</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "a8cig",
+        "text": "a-r;b-s;c-q;d-p;",
+        "image": null
+      },
+      {
+        "id": "YDqTZ",
+        "text": "a-q;b-s;c-r;d-p;",
+        "image": null
+      },
+      {
+        "id": "a7cKB",
+        "text": "a-p;b-r;c-s;d-q;",
+        "image": null
+      },
+      {
+        "id": "W3JKT",
+        "text": "a-p;b-s;c-q;d-r;",
+        "image": null
+      }
+    ],
+    "correct_answer": "a8cig",
+    "solution_text": "p)&nbsp; (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub> N added to CH<sub>3</sub>COOH<br />(C<sub>2</sub>H<sub>5</sub>)<sub>3</sub> NH<sup>+</sup> and CH<sub>3</sub>COO<sup>-</sup> ions generated in solution, conductivity increases &amp; then remains constant as (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub> N is not dissociated when in excess.<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0bd481aa-0e29-40bf-965d-cfe2b1836f5e-image.png\" style=\"width: 300px; height: 176px;\" /><br />q)&nbsp; KI<sub>eq</sub> added to AgNO<sub>3</sub><br /><math> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msubsup> <mtext>Ag</mtext> <mtext>(aq)</mtext> <mo>+</mo> </msubsup> <mo>+</mo> <msubsup> <mtext>NO</mtext> <mrow> <mn>3</mn> <mtext>(aq)</mtext> </mrow> <mo>-</mo> </msubsup> </mrow> </mfenced> <mo>+</mo> <mtext>KI</mtext> <mo>&#10230;</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msubsup> <mtext>K</mtext> <mtext>(aq)</mtext> <mo>+</mo> </msubsup> <mo>+</mo> <msubsup> <mtext>NO</mtext> <mrow> <mn>3</mn> <mtext>(aq)</mtext> </mrow> <mo>-</mo> </msubsup> </mrow> </mfenced> <mo>+</mo> <mtext>AgI</mtext> </mrow> </math><br /><math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>Ag</mtext> <mo>+</mo> </msup> <mo>&#38;</mo> <msubsup> <mtext>NO</mtext> <mn>3</mn> <mo>-</mo> </msubsup> </mrow> </mfenced> </mrow> </math>&nbsp; ions replaced by <math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msubsup> <mtext>K</mtext> <mtext>(aq)</mtext> <mo>+</mo> </msubsup> <mo>&#38;</mo> <msubsup> <mtext>NO</mtext> <mrow> <mn>3</mn> <mtext>(aq)</mtext> </mrow> <mo>-</mo> </msubsup> </mrow> </mfenced> </mrow> </math><br />conductivity does not change till complete precipitation but later on with additional KI<sub>(aq)</sub> added conductivity will increase.<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/35b64711-ffb4-4e10-b51e-ebebe5f75645-image.png\" style=\"width: 300px; height: 164px;\" /><br />r)&nbsp; On addition of acetic acid to KOH. KOH fully dissociated replaced by<br /><math> <mrow> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <mtext>COOH</mtext> <mo>+</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>K</mtext> <mo>+</mo> </msup> <mo>+</mo> <msup> <mtext>OH</mtext> <mo>-</mo> </msup> </mrow> </mfenced> <mo>&#10230;</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msub> <mtext>CH</mtext> <mn>3</mn> </msub> <msup> <mtext>COO</mtext> <mo>-</mo> </msup> <mo>+</mo> <msup> <mtext>K</mtext> <mo>+</mo> </msup> </mrow> </mfenced> <mo>+</mo> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> </mrow> </math><br />The net result is replacement of OH<sup>-</sup> by CH<sub>3</sub>COO<sup>-</sup> ions whose ionic mobility is less so conductivity will decrease first and then will not change much due to addition of CH<sub>3</sub>COOH(in excess) which will not be dissociated<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/85de8e9d-c815-4419-9072-1e4079233d4c-image.png\" style=\"width: 300px; height: 173px;\" />&nbsp;<br />s)&nbsp; On addition of NaOH to HI <math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msubsup> <mtext>H</mtext> <mtext>(aq)</mtext> <mo>+</mo> </msubsup> <mo>+</mo> <msubsup> <mtext>I</mtext> <mtext>(aq)</mtext> <mo>-</mo> </msubsup> </mrow> </mfenced> <mo>+</mo> <mtext>NaOH</mtext> <mo>&#10230;</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mtext>Na</mtext> <mo>+</mo> </msup> <mo>+</mo> <msup> <mtext>I</mtext> <mo>-</mo> </msup> </mrow> </mfenced> <mo>+</mo> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> </mrow> </math><br />there will be replacement of H<sup>+</sup> by Na<sup>+</sup> whose mobility is less than H<sup>+</sup> which means conductivity will decrease first &amp; then due to adding NaOH which is a strong electrolyte which fully dissociates, so conductivity will increase.<br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/df925f64-e431-44d8-9161-3d1be01c950c-image.png\" style=\"width: 300px; height: 166px;\" />",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b16a0cf23ac7d519f9b0dd",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "$\\mathrm{AgNO}_3(a q)$ was added to an aqueous $\\mathrm{KCl}$ solution gradually and the conductivity of the solution was measured. The plot of conductance $(\\Lambda)$ versus the volume of $\\mathrm{AgNO}_3$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/x4Pn93AWrdiTkVBRs6YPrh21nwy2nt14bs0_b-LZpos.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aEzWQ",
+        "text": "\n$P$\n",
+        "image": null
+      },
+      {
+        "id": "VaRJ6",
+        "text": "\n$Q$\n",
+        "image": null
+      },
+      {
+        "id": "alGcV",
+        "text": "\n$R$\n",
+        "image": null
+      },
+      {
+        "id": "x89QX",
+        "text": "\n$S$",
+        "image": null
+      }
+    ],
+    "correct_answer": "x89QX",
+    "solution_text": "As $\\mathrm{AgNO}_3$ is added to solution, $\\mathrm{KCl}$ will be displaced accrding to following reaction\n$$\n\\mathrm{AgNO}_3(a q)+\\mathrm{KCl}(a q) \\longrightarrow \\operatorname{AgCl}(s)+\\mathrm{KNO}_3(a q)\n$$\nFor every mole of $\\mathrm{KCl}$ displaced from solution, one mole of $\\mathrm{KNO}_3$ comes in solution resulting in almost constant conductivity. As the end point is reached, added $\\mathrm{AgNO}_3$ remain in solution increasing ionic concentration, hence conductivity increases.",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae8a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "We have taken a saturated solution of $\\mathrm{AgBr}, K_{\\mathrm{sp}}$ is $12 \\times 10^{-14}$. If $10^{-7}$ mole of $\\mathrm{AgNO}_3$ are added to 1 litre of this solution, find conductivity (specific conductance) of this solution in terms of $10^{-7} \\mathrm{Sm}^{-1}$ units.\n$$\n\\text { Given, } \\begin{aligned}\n\\lambda_{\\left(\\mathrm{Ag}^{+}\\right)}^{\\circ} & =6 \\times 10^{-3} \\mathrm{Sm}^2 \\mathrm{~mol}^{-1}, \\lambda_{\\left(\\mathrm{Br}^{-}\\right)}^{\\circ}=8 \\times 10^{-3} \\mathrm{Sm}^2 \\mathrm{~mol}^{-1}, \\\\\n\\lambda_{\\left(\\mathrm{NO}_3^{-}\\right)} & =7 \\times 10^{-3} \\mathrm{Sm}^2 \\mathrm{~mol}^{-1},\n\\end{aligned}\n$$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "55",
+    "solution_text": "Suppose the solubility of $\\mathrm{AgBr}$ in $10^{-7} \\mathrm{MAgNO}_3$ is $\\mathrm{mol} / \\mathrm{L}$\n$$\n\\begin{aligned}\n& \\underset{s \\mathrm{~mol} / \\mathrm{L}}{\\mathrm{AgBr}} \\rightleftharpoons \\mathrm{Ag}^{+}+\\mathrm{Br}^{-} \\\\\n& \\mathrm{AgNO}_3 \\rightleftharpoons \\mathrm{Ag}^{+}+\\mathrm{NO}_3^{-} \\\\\n& 10^{-7} \\mathrm{M} \\quad 10^{-7} \\mathrm{M} \\times 10^{-7} \\mathrm{M} \\\\\n& \\text { Total }\\left[\\mathrm{Ag}^{+}\\right]=\\left(s+10^{-7}\\right) \\mathrm{M} \\\\\n& K_{\\mathrm{sp}} \\text { of } \\mathrm{AgBr}=\\left[\\mathrm{Ag}^{+}\\right]\\left[\\mathrm{Br}^{-}\\right] \\\\\n& 12 \\times 10^{-14}=\\left(s+10^{-7}\\right)(s)=s^2+10^{-7} s \\\\\n& s^2+10^{-7} s-12 \\times 10^{-14}=0 \\\\\n&\n\\end{aligned}\n$$\nOn solving $s=3 \\times 10^{-7} \\mathrm{M}$\nHence, $\\left[\\mathrm{Br}^{-}\\right]=3 \\times 10^{-7} \\mathrm{M}=3 \\times 10^{-7} \\times 10^3 \\mathrm{~m}^3=3 \\times 10^{-4} \\mathrm{~m}^3$\n$$\n\\left[\\mathrm{Ag}^{+}\\right]=\\left(3 \\times 10^{-7}+10^{-7}\\right) \\mathrm{M}=4 \\times 10^{-7} \\times 10^3 \\mathrm{~m}^3=4 \\times 10^{-4} \\mathrm{~m}^3\n$$\n$$\n\\left[\\mathrm{NO}_3^{-}\\right]=10^{-7} \\mathrm{M}=10^{-7} \\times 10^{+3}=1 \\times 10^{-4} \\mathrm{~m}^3\n$$\n$$\n\\because \\quad \\lambda=\\frac{k}{C} \\text { or } k=\\lambda \\times C\n$$\n\n$$\n\\begin{aligned}\n\\therefore \\quad k_{\\mathrm{Br}^{-}} & =3 \\times 10^{-4} \\times 8 \\times 10^{-3} \\mathrm{Sm}^{-1}=24 \\times 10^{-7} \\mathrm{Sm}^{-1} \\\\\nk_{\\mathrm{Ag}^{+}} & =4 \\times 10^{-4} \\times 6 \\times 10^{-3} \\mathrm{Sm}^{-1}=24 \\times 10^{-7} \\mathrm{Sm}^{-1} \\\\\nk_{\\mathrm{NO}_3^{-}} & =1 \\times 10^{-4} \\times 7 \\times 10^{-3}=7 \\times 10^{-7} \\mathrm{Sm}^{-1} \\\\\nk_{\\text {Total }} & =k_{\\mathrm{Br}^{-}}+k_{\\mathrm{Ag}^{+}}+k_{\\mathrm{NO}_3^{-}} \\\\\n& =\\left(24 \\times 10^{-7}+24 \\times 10^{-7}+7 \\times 10^{-7} \\mathrm{Sm}^{-1}\\right. \\text { ) } \\\\\n& =55 \\times 10^{-7} \\mathrm{Sm}^{-1} \\\\\n& \\left.=\\mathbf{5 5} \\mathbf{S m}^{-1} \\text { (in term of } 10^{-7} \\mathrm{Sm}^{-1}\\right)\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Conductance and Conductivity"
+  }
+]

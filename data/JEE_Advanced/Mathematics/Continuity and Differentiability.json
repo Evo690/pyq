@@ -1,0 +1,754 @@
+[
+  {
+    "question_id": "6a0be51244d287c9361e5cb5",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "For a real number $\\alpha$, let $[\\alpha]$ denote the greatest integer less than or equal to $\\alpha$. For a finite set $S$, let $|S|$ denote the number of elements in the set $S$.<br>Consider the functions $f : (-3, 3) \\rightarrow (-\\infty, \\infty)$ and $g : (-3, 3) \\rightarrow (-\\infty, \\infty)$ defined by<br>$f(x) = [x^3]\\log_e(1 + \\sin^2(\\pi(x - [x])))$<br>and<br>$g(x) = x^3 \\sin^2(\\pi \\log_e(1 + x - [x]))$.<br>Let<br>$A = \\{x \\in (-3, 3) : f \\text{ is discontinuous at } x\\}$<br>and<br>$B = \\{x \\in (-3, 3) : g \\text{ is discontinuous at } x\\}$.<br>Then the value of $|A| + 2|B| - |A \\cap B|$ is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "56",
+    "solution_text": "For the function $f(x) = [x^3]\\log_e(1 + \\sin^2(\\pi(x - [x])))$, we can simplify the argument of the sine function. Since $[x]$ is an integer, $\\sin(\\pi(x - [x])) = \\sin(\\pi x - \\pi[x]) = \\pm \\sin(\\pi x)$. Thus, $\\sin^2(\\pi(x - [x])) = \\sin^2(\\pi x)$.<br><br>The function $f(x)$ can be rewritten as $f(x) = [x^3]\\log_e(1 + \\sin^2(\\pi x))$.<br>The term $\\log_e(1 + \\sin^2(\\pi x))$ is continuous everywhere. The term $[x^3]$ has jump discontinuities where $x^3$ is an integer. For $x \\in (-3, 3)$, $x^3 \\in (-27, 27)$. The integer values of $x^3$ in this interval are $k \\in \\{-26, -25, \\dots, 26\\}$, which gives $53$ points of the form $x = k^{1/3}$.<br><br>At these points, $[x^3]$ is discontinuous. For $f(x)$ to be continuous at $x = k^{1/3}$, the continuous factor must be zero:<br>$\\log_e(1 + \\sin^2(\\pi x)) = 0 \\implies \\sin^2(\\pi x) = 0 \\implies x$ is an integer.<br>The integers in $(-3, 3)$ are $-2, -1, 0, 1, 2$. Their cubes are $-8, -1, 0, 1, 8$, which are $5$ values among the $53$ points. At these $5$ points, $f(x)$ is continuous. At the remaining $53 - 5 = 48$ points, $f(x)$ is discontinuous.<br>Thus, $|A| = 48$.<br><br>For the function $g(x) = x^3 \\sin^2(\\pi \\log_e(1 + x - [x]))$, we can write $x - [x] = \\{x\\}$, which is the fractional part of $x$.<br>The function $g(x) = x^3 \\sin^2(\\pi \\log_e(1 + \\{x\\}))$ is continuous everywhere except possibly at the integers, where $\\{x\\}$ is discontinuous.<br>The integers in $(-3, 3)$ are $c \\in \\{-2, -1, 0, 1, 2\\}$.<br>Let's check the continuity at $x = c$:<br>Right-hand limit ($x \\to c^+$): $\\{x\\} \\to 0$, so $g(x) \\to c^3 \\sin^2(\\pi \\log_e 1) = 0$.<br>Left-hand limit ($x \\to c^-$): $\\{x\\} \\to 1$, so $g(x) \\to c^3 \\sin^2(\\pi \\log_e 2)$.<br><br>For $g(x)$ to be continuous at $x = c$, we must have $c^3 \\sin^2(\\pi \\log_e 2) = 0$. Since $\\log_e 2 \\approx 0.693$, $\\pi \\log_e 2$ is not an integer multiple of $\\pi$, meaning $\\sin^2(\\pi \\log_e 2) \\neq 0$. Therefore, we must have $c^3 = 0 \\implies c = 0$.<br>So, $g(x)$ is continuous at $x = 0$ and discontinuous at $x \\in \\{-2, -1, 1, 2\\}$.<br>Thus, $B = \\{-2, -1, 1, 2\\}$ and $|B| = 4$.<br><br>Since $A$ contains no integers and $B$ contains only integers, $A \\cap B = \\emptyset$, which means $|A \\cap B| = 0$.<br><br>Finally, we calculate the required value:<br>$|A| + 2|B| - |A \\cap B| = 48 + 2(4) - 0 = 48 + 8 = 56$.<br><br>Answer: $56$",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "6a0be50d44d287c9361e5c81",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Consider the function $f : \\left(-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right) \\rightarrow (-\\infty, \\infty)$ defined by<br><br>$f(x) = (|x| + |x - 1|) \\sin x + [x \\sin x]$,<br><br>where $[x \\sin x]$ is the greatest integer less than or equal to $x \\sin x$.<br><br>Let $\\alpha$ be the total number of points in the interval $\\left(-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right)$ at which $f$ is NOT continuous, and let $\\beta$ be the total number of points in the interval $\\left(-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right)$ at which $f$ is NOT differentiable.<br><br>Then the value of $\\alpha + \\beta$ is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "Let $f(x) = g(x) + h(x)$, where $g(x) = (|x| + |x - 1|) \\sin x$ and $h(x) = [x \\sin x]$.<br><br>First, we analyze $h(x) = [x \\sin x]$ on the interval $\\left(-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right)$.<br>The function $y = x \\sin x$ is an even function. For $x \\in \\left[0, \\dfrac{\\pi}{2}\\right)$, $x \\sin x$ is strictly increasing. <br>At $x = 0$, $x \\sin x = 0$.<br>As $x \\to \\dfrac{\\pi}{2}$, $x \\sin x \\to \\dfrac{\\pi}{2} \\approx 1.57$.<br>Thus, $x \\sin x \\in [0, 1.57)$ for $x \\in \\left(-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right)$.<br>The value of $[x \\sin x]$ will be $0$ when $0 \\le x \\sin x < 1$, and $1$ when $1 \\le x \\sin x < \\dfrac{\\pi}{2}$.<br>Let $x_1 \\in \\left(0, \\dfrac{\\pi}{2}\\right)$ be the unique point where $x_1 \\sin x_1 = 1$. By symmetry, $-x_1$ is the unique point in $\\left(-\\dfrac{\\pi}{2}, 0\\right)$ where $(-x_1) \\sin(-x_1) = 1$.<br>Therefore, $h(x)$ has jump discontinuities at exactly two points: $x = x_1$ and $x = -x_1$.<br>At $x = 0$, $x \\sin x = 0$ and is non-negative in its neighborhood, so $[x \\sin x] = 0$ around $x = 0$, making $h(x)$ continuous and differentiable at $x = 0$.<br><br>Next, we analyze $g(x) = (|x| + |x - 1|) \\sin x$.<br>The absolute value functions have critical points at $x = 0$ and $x = 1$.<br>For $x$ in a small neighborhood of $0$ (specifically $x \\in (-1, 1)$):<br>If $x \\in [0, 1)$, $g(x) = (x - (x - 1)) \\sin x = \\sin x \\Rightarrow g'(0^+) = \\cos 0 = 1$.<br>If $x \\in (-1, 0)$, $g(x) = (-x - (x - 1)) \\sin x = (1 - 2x) \\sin x \\Rightarrow g'(0^-) = -2 \\sin 0 + 1 \\cdot \\cos 0 = 1$.<br>Since $g'(0^+) = g'(0^-)$, $g(x)$ is differentiable at $x = 0$.<br><br>For $x$ in a small neighborhood of $1$:<br>If $x \\in (0, 1]$, $g(x) = \\sin x \\Rightarrow g'(1^-) = \\cos 1$.<br>If $x \\in \\left(1, \\dfrac{\\pi}{2}\\right)$, $g(x) = (x + (x - 1)) \\sin x = (2x - 1) \\sin x \\Rightarrow g'(1^+) = 2 \\sin 1 + 1 \\cdot \\cos 1$.<br>Since $g'(1^-) \\neq g'(1^+)$, $g(x)$ is not differentiable at $x = 1$.<br><br>Now, combining the results for $f(x) = g(x) + h(x)$:<br>1. Discontinuities: $g(x)$ is continuous everywhere. $h(x)$ is discontinuous at $x_1$ and $-x_1$. Thus, $f(x)$ is discontinuous at $2$ points. $\\Rightarrow \\alpha = 2$.<br>2. Non-differentiability: $f(x)$ is not differentiable where it is discontinuous ($x_1$ and $-x_1$). Additionally, at $x = 1$, $h(x)$ is constant ($0$) because $1 \\cdot \\sin 1 \\approx 0.84 < 1$, meaning $h(x)$ is differentiable at $x = 1$. However, $g(x)$ is not differentiable at $x = 1$. Thus, $f(x)$ is not differentiable at $x = 1$.<br>This gives $3$ points of non-differentiability: $-x_1, 1, x_1$. $\\Rightarrow \\beta = 3$.<br><br>Finally, $\\alpha + \\beta = 2 + 3 = 5$.<br><br>Answer: $5$",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "6a0be50c44d287c9361e5c7e",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $f : \\mathbb{R} \\rightarrow \\mathbb{R}$ be an arbitrary function and let $g : \\mathbb{R} \\rightarrow \\mathbb{R}$ be the function defined by<br><br>$g(x) = x f(x)$, for all $x \\in \\mathbb{R}$.<br><br>Then which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Olfx4",
+        "text": "The function $g$ is always continuous at $x = 0$",
+        "image": null
+      },
+      {
+        "id": "ArxZt",
+        "text": "If $f$ is continuous at $x = 0$, then $g$ is differentiable at $x = 0$",
+        "image": null
+      },
+      {
+        "id": "xrNf4",
+        "text": "If $g$ is differentiable at $x = 0$, then $f$ is continuous at $x = 0$",
+        "image": null
+      },
+      {
+        "id": "szjwo",
+        "text": "If $g$ is differentiable at $x = 0$, then $\\lim_{x \\to 0} f(x)$ exists",
+        "image": null
+      }
+    ],
+    "correct_answer": "szjwo",
+    "solution_text": "Given $g(x) = x f(x)$ for all $x \\in \\mathbb{R}$.<br><br>For option A:<br>Let $f(x) = \\dfrac{1}{x}$ for $x \\neq 0$ and $f(0) = 0$.<br>Then $g(x) = 1$ for $x \\neq 0$ and $g(0) = 0$.<br>$\\lim_{x \\to 0} g(x) = 1 \\neq g(0)$.<br>Thus, $g$ is not necessarily continuous at $x = 0$. Option A is false.<br><br>For option B:<br>The derivative of $g$ at $x = 0$ is given by:<br>$g'(0) = \\lim_{x \\to 0} \\dfrac{g(x) - g(0)}{x - 0} = \\lim_{x \\to 0} \\dfrac{x f(x) - 0}{x} = \\lim_{x \\to 0} f(x)$.<br>If $f$ is continuous at $x = 0$, then $\\lim_{x \\to 0} f(x) = f(0)$.<br>Since $f(0)$ is a finite real number, $g'(0)$ exists and $g$ is differentiable at $x = 0$. Option B is true.<br><br>For option C:<br>Let $f(x) = 0$ for $x \\neq 0$ and $f(0) = 1$.<br>Then $g(x) = 0$ for all $x \\in \\mathbb{R}$.<br>Here, $g$ is differentiable at $x = 0$ with $g'(0) = 0$.<br>However, $\\lim_{x \\to 0} f(x) = 0 \\neq f(0)$, so $f$ is not continuous at $x = 0$. Option C is false.<br><br>For option D:<br>If $g$ is differentiable at $x = 0$, then $g'(0)$ exists.<br>Since $g'(0) = \\lim_{x \\to 0} \\dfrac{g(x) - g(0)}{x} = \\lim_{x \\to 0} f(x)$, the limit $\\lim_{x \\to 0} f(x)$ must exist. Option D is true.<br><br>Answer: If $f$ is continuous at $x = 0$, then $g$ is differentiable at $x = 0$; If $g$ is differentiable at $x = 0$, then $\\lim_{x \\to 0} f(x)$ exists",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "64b16aaaf23ac7d519f9b67c",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be the function defined as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced open=\"[\" close=\"]\"><mrow><mn>4</mn><mi>x</mi></mrow></mfenced><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>x</mi><mo>]</mo></math>&nbsp;denotes the greatest integer less than or equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>. Then which of the following is(are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "krMpB",
+        "text": "The function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math>&nbsp;is discontinuous exactly at one point in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "i4Elh",
+        "text": "There is exactly one point in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>&nbsp;at which the function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math>&nbsp;is continuous but NOT differentiable",
+        "image": null
+      },
+      {
+        "id": "s0N6f",
+        "text": "The function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math>&nbsp;is NOT differentiable at more than three points in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "Y4oXz",
+        "text": "The minimum value of the function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mn>1</mn><mn>512</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "i4Elh",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>4</mn><mi>x</mi></mrow></mfenced><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math></p><p>We know that,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mn>4</mn><mi>x</mi></mrow></mfenced></math>&nbsp;will be discontinuous function at integer points,</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>critical point&#160;</mtext><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>&nbsp;as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p>And function will be discontinuous&nbsp;at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>&nbsp;because for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup></math>&nbsp;will make the function continuos</p><p>Hence, the function is discontinuous exactly at one point in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>, so option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>A</mi></mfenced></math>&nbsp;is correct,</p><p>Now,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable><mtr><mtd><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn><mo>&#60;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mtd></mtr><mtr><mtd><mn>1</mn><mo>&#183;</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mn>2</mn><mo>&#183;</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mtd></mtr><mtr><mtd><mn>3</mn><mo>&#183;</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math></p><p>Now differentiating the above function we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>'</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced open=\"{\" close=\"\"><mtable><mtr><mtd><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>0</mn><mo>&#60;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mtd></mtr><mtr><mtd><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mn>4</mn><mo>&#183;</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>+</mo><mn>2</mn><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mtd></mtr><mtr><mtd><mn>3</mn><mo>&#183;</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>6</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math></p><p>Now from above function we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>-</mo></msup></mfenced><mo>=</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo></msup></mfenced><mo>=</mo><mn>0</mn></math>&nbsp;so function is differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>-</mo></msup></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>16</mn></mfrac><mo>&#38;</mo><mo>&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo></msup></mfenced><mo>=</mo><mn>2</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>16</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></math>&nbsp;so function is non-differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>, hence option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>B</mi></mfenced></math>&nbsp;is correct,</p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>-</mo></msup></mfenced><mo>=</mo><mn>4</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mn>2</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo></msup></mfenced><mo>=</mo><mn>3</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mn>6</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math></p><p>Hence, the function is not differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p>So, function non-differentiable at two points so option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>C</mi></mfenced></math>&nbsp;is not correct.</p><p>Now plotting the graph from the above value we get,</p><p><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/61a98865-8d84-478f-b0b9-4c2166748046.png\" style=\"width: 304px; height: 172px;\" /></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math>&nbsp;will be minimum between&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mfenced><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></mfenced></math></p><p>Now critical points will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#160;</mo><mtext>or</mtext><mo>&#160;</mo><mi>x</mi><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math></p><p>Now putting the value in first derivative we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>5</mn><mn>12</mn></mfrac><mo>-</mo></msup></mfenced><mo>&#60;</mo><mn>0</mn><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><msup><mfrac><mn>5</mn><mn>12</mn></mfrac><mo>+</mo></msup></mfenced><mo>&#62;</mo><mn>0</mn></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math>&nbsp;is point of minima,</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><msub><mfenced><mfrac><mn>5</mn><mn>12</mn></mfrac></mfenced><mrow><mi>m</mi><mi>i</mi><mi>n</mi></mrow></msub><mo>=</mo><msup><mfenced><mrow><mfrac><mn>5</mn><mn>12</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mfrac><mn>5</mn><mn>12</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>432</mn></mfrac></math></p><p>Hence, option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced></math>&nbsp;is wrong.</p>",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "64b16a5cf23ac7d519f9b3b9",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> be the greatest integer less than or equals to <math><mi>x</mi></math>.&nbsp;Then, at which of the following point(s) the function <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>&#960;</mi><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfenced></mrow></mfenced></mrow></mrow></math>&nbsp;is discontinuous?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9JEwE",
+        "text": "<math><mi>x</mi><mo>=</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "p4YcJ",
+        "text": "<math><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "aU1We",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "EwWSJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "EwWSJ",
+    "solution_text": "<p><math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mi>&#960;</mi><mi>x</mi><mo>+</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi>&#960;</mi></mrow></mfenced></mrow></mrow></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><msup><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced close=\"]\" open=\"[\" separators=\"|\"><mi>x</mi></mfenced></msup><mi>x</mi><mi>cos</mi><mfenced><mrow><mi>&#960;</mi><mi>x</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>x</mi><mo>]</mo></math> is discontinuous at all integers and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>cos</mi><mi>&#960;</mi><mi>x</mi></math> is continuous everywhere.</p><p>At&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>0</mn></math>, so it&#39;s continuous.</p><p>At other integral points,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>&nbsp;is discontinuous.</p>",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "64b16a37f23ac7d519f9b266",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mo>:</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>a</mi><mo>,</mo><mi>&#160;</mi><mi>b</mi></mrow></mfenced><mo>&#8594;</mo><mfenced open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi>&#160;</mi><mi>&#8734;</mi></mrow></mfenced></math> be a continuous function and let <math><mi>g</mi><mi>&#160;</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be defined as<br /><math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&#160;</mi><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mi>i</mi><mi>f</mi></mtd><mtd><mi>x</mi><mo>&#60;</mo><mi>a</mi><mo>,</mo></mtd></mtr><mtr><mtd><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mi>a</mi></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mi>d</mi><mi>t</mi></mrow></mrow></mtd><mtd><mi>i</mi><mi>f</mi></mtd><mtd><mi>a</mi><mi>&#160;</mi><mo>&#8804;</mo><mi>x</mi><mi>&#160;</mi><mo>&#8804;</mo><mi>b</mi><mo>,</mo></mtd></mtr><mtr><mtd><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mi>a</mi></mrow><mrow><mi>b</mi></mrow></munderover><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mi>d</mi><mi>t</mi></mrow></mrow></mtd><mtd><mi>i</mi><mi>f</mi></mtd><mtd><mi>x</mi><mo>&#62;</mo><mi>b</mi></mtd></mtr></mtable></mrow></mfenced></math> . Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EStar",
+        "text": "<math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  is continuous but not differentiable at a",
+        "image": null
+      },
+      {
+        "id": "mfR9p",
+        "text": "<math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  is differentiable on R",
+        "image": null
+      },
+      {
+        "id": "dqnyt",
+        "text": "<math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  is continuous but not differentiable at b",
+        "image": null
+      },
+      {
+        "id": "CXfLT",
+        "text": "<math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  is continuous and differentiable at either a or b but not both",
+        "image": null
+      }
+    ],
+    "correct_answer": "dqnyt",
+    "solution_text": "Since  <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi> </mi><mo>≥</mo><mn>1</mn><mi> </mi><mo>∀</mo><mi> </mi><mi>x</mi><mi> </mi><mo>∈</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>a</mi><mo>,</mo><mi> </mi><mi>b</mi></mrow></mfenced></math>  for  <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> <br >LHD at  <math><mi>x</mi><mo>=</mo><mi>a</mi></math>  is zero<br >And RHD at  <math><mfenced separators=\"|\"><mrow><mi>x</mi><mo>=</mo><mi>a</mi></mrow></mfenced><mo>=</mo><mi> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mi>a</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mfrac><mrow><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mi>a</mi></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mi>d</mi><mi>t</mi><mo>-</mo><mn>0</mn></mrow></mrow></mrow><mrow><mi>x</mi><mo>-</mo><mi>a</mi></mrow></mfrac></mrow></mrow><mo>=</mo><mi> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mi>a</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi> </mi><mo>≥</mo><mn>1</mn></mrow></mrow></math> <br >Hence  <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  is not differentiable at  <math><mi>x</mi><mo>=</mo><mi>a</mi></math> <br >Similarly LHD at  <math><mi>x</mi><mo>=</mo><mi>b</mi></math>  is greater than 1<br > <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math>  is not differentiable at  <math><mi>x</mi><mo>=</mo><mi>b</mi></math>",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "64b16a24f23ac7d519f9b1b8",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "For every integer $n$, let $a_{n}$ and $b_{n}$ be real numbers. Let function $f: I R \\rightarrow I R$ be given by\r\n\r\n$f(x)=\\left\\{\\begin{array}{lll}\r\n\r\na_{n}+\\sin \\pi x, & \\text { for } & x \\in[2 n, 2 n+1] \\\\\r\n\r\nb_{n}+\\cos \\pi x, & \\text { for } & x \\in(2 n-1,2 n)\r\n\r\n\\end{array}\\right.$\r\n\r\nfor all integers $n$. If $f$ is continuous, then which of the following hold $(s)$ for all $n$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nnPM1",
+        "text": "$a_{n-1}-b_{n-1}=0$",
+        "image": null
+      },
+      {
+        "id": "XOdFZ",
+        "text": "$a_{n}-b_{n}=1$",
+        "image": null
+      },
+      {
+        "id": "J0qAo",
+        "text": "$a_{n}-b_{n+1}=1$",
+        "image": null
+      },
+      {
+        "id": "2WcJP",
+        "text": "$a_{n-1}-b_{n}=-1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "2WcJP",
+    "solution_text": "Given : $f(x)=\\left\\{\\begin{array}{ll}a_{n}+\\sin \\pi x, & x \\in[2 n, 2 n+1] \\\\ b_{n}+\\cos \\pi x, & x \\in(2 n-1,2 n)\\end{array}\\right.$\r\n\r\n$\\because f$ is continuous for all $n$\r\n\r\n$\\therefore$ At $x=2 n, \\mathrm{LHL}=\\mathrm{RHL}=f(2 n)$\r\n\r\n$\\Rightarrow b_{n}+\\cos 2 \\pi n=a_{n}+\\sin 2 \\pi n=a_{n}+\\sin 2 \\pi n$\r\n\r\n$\\Rightarrow b_{n}+1=a_{n} \\Rightarrow a_{n}-b_{n}=1, \\therefore$ option (b) is correct.\r\n\r\nAlso at $x=2 n+1, \\mathrm{LHL}=\\mathrm{RHL}=f(2 n+1)$\r\n\r\n$\\Rightarrow \\lim _{h \\rightarrow 0} a_{n}+\\sin \\pi(2 n+1-h)$\r\n\r\n$=\\lim _{h \\rightarrow 0} b_{n+1}+\\cos \\pi(2 n+1-h)=a_{n}+\\sin (2 n+1) \\pi$\r\n\r\n$\\Rightarrow a_{n}=b_{n+1}-1=a_{n} \\Rightarrow a_{n}-b_{n+1}=-1$\r\n\r\n$\\therefore$ option (c) is incorrect.\r\n\r\n$\\Rightarrow a_{n-1}-b_{n}=-1, \\therefore$ option (d) is correct.",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "64b16a1df23ac7d519f9b174",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Let $\\int(x)=\\left\\{\\begin{array}{r}x^{2}\\left|\\cos \\frac{\\pi}{x}\\right|, \\quad x \\neq 0 \\\\ 0, \\quad x=0\\end{array}, x \\in R\\right.$ then $\\int$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "N5Xjs",
+        "text": "differentiable both at $x=0$ and at $x=2$",
+        "image": null
+      },
+      {
+        "id": "WAILP",
+        "text": "differentiable at $x=0$ but not differentiable at $x=2$",
+        "image": null
+      },
+      {
+        "id": "3bRvT",
+        "text": "not differentiable at $x=0$ but differentiable at $x=2$",
+        "image": null
+      },
+      {
+        "id": "DOHjT",
+        "text": "differentiable neither at $x=0$ nor at $x=2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "WAILP",
+    "solution_text": "$f^{\\prime}\\left(0^{+}\\right)=\\lim _{h \\rightarrow 0} \\frac{f(0+h)-f(0)}{h}$\r\n\r\n$\\begin{aligned}\r\n\r\n=\\lim _{h \\rightarrow 0} \\frac{h^{2}\\left|\\cos \\frac{\\pi}{h}\\right|}{h} &=\\lim _{h \\rightarrow 0} h\\left|\\cos \\frac{\\pi}{h}\\right| \\\\\r\n\r\n&=0 \\times \\text { some finite value }=0\r\n\r\n\\end{aligned}$\r\n\r\n$\\begin{array}{c}\r\n\r\n=0 \\times \\text { some finite value }=0 \\\\\r\n\r\n\\text { and } f^{\\prime}\\left(0^{-}\\right)=\\lim _{h \\rightarrow 0} \\frac{f(0-h)-f(0)}{-h}=\\lim _{h \\rightarrow 0} \\frac{h^{2}\\left|\\cos \\frac{\\pi}{-h}\\right|}{-h} \\\\\r\n\r\n=\\lim _{h \\rightarrow 0}-h\\left|\\cos \\frac{\\pi}{h}\\right|=0 \\times \\text { some finite value }=0\r\n\r\n\\end{array}$\r\n\r\n$\\begin{array}{l}\r\n\r\n\\because f^{\\prime}\\left(0^{+}\\right)=f^{\\prime}\\left(0^{-}\\right) \\therefore f \\text { is differentiable at } x=0 \\\\\r\n\r\n\\text { Now } f^{\\prime}\\left(2^{+}\\right)=\\lim _{h \\rightarrow 0} \\frac{f(2+h)-f(2)}{h} \\\\\r\n\r\n\\quad=\\lim _{h \\rightarrow 0} \\frac{(2+h)^{2}\\left|\\cos \\frac{\\pi}{2+h}\\right|-4\\left|\\cos \\frac{\\pi}{2}\\right|}{h}\r\n\r\n\\end{array}$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2+h)^{2}\\left(\\cos \\frac{\\pi}{2+h}\\right)}{h}$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2+h)^{2}}{h} \\sin \\left(\\frac{\\pi}{2}-\\frac{\\pi}{2+h}\\right)$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2+h)^{2}}{h} \\sin \\left(\\frac{\\pi h}{2(2+h)}\\right)$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2+h)^{2}}{h} \\times \\frac{\\sin \\left(\\frac{\\pi h}{2(2+h)}\\right)}{\\left(\\frac{\\pi h}{2(2+h)}\\right)} \\times \\frac{\\pi h}{2(2+h)}=\\pi$\r\n\r\nand $f^{\\prime}\\left(2^{-}\\right)=\\lim _{h \\rightarrow 0} \\frac{f(2-h)-f(2)}{-h}$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2-h)^{2}\\left|\\cos \\left(\\frac{\\pi}{2-h}\\right)\\right|-0}{-h}$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{-(2-h)^{2} \\cos \\left(\\frac{\\pi}{2-h}\\right)}{-h}$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2-h)^{2} \\sin \\left(\\frac{\\pi}{2}-\\frac{\\pi}{2-h}\\right)}{h}$\r\n\r\n$=\\lim _{h \\rightarrow 0} \\frac{(2-h)^{2}}{h} \\times \\frac{\\sin \\left(\\frac{-\\pi h}{2(2-h)}\\right)}{\\left(\\frac{-\\pi h}{2(2-h)}\\right)} \\times\\left(\\frac{-\\pi h}{2(2-h)}\\right)=-\\pi$\r\n\r\n$\\because f^{\\prime}\\left(2^{+}\\right) \\neq f^{\\prime}\\left(2^{-}\\right), \\therefore f$ is not differentiable at $x=2 .$",
+    "solution_image": null,
+    "topic": "Continuity"
+  },
+  {
+    "question_id": "64b16a86f23ac7d519f9b538",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be functions satisfying&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mi>f</mi><mfenced><mi>y</mi></mfenced><mtext>&#160;and&#160;</mtext><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>x</mi><mi>g</mi><mfenced><mi>x</mi></mfenced></math>&nbsp;for all <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>,</mo><mi>y</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>.</mo></math> If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>1</mn><mo>,</mo></math> then which of the following statements is/are TRUE?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Vasx2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is differentiable at every <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "tEIjx",
+        "text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn><mo>,</mo></math> then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math>&nbsp;is differentiable at every<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ljecL",
+        "text": "The derivative <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>'</mo></msup><mfenced><mn>1</mn></mfenced></math> is equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "kfRqs",
+        "text": "The derivative <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>'</mo></msup><mfenced><mn>0</mn></mfenced></math> is equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kfRqs",
+    "solution_text": "<p>Given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mi>f</mi><mfenced><mi>y</mi></mfenced></math><br />Put&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mi>y</mi><mo>=</mo><mn>0</mn></math> in given relation.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>+</mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>+</mo><msup><mi>f</mi><mn>2</mn></msup><mfenced><mn>0</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>0</mn></math> or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;&#160;</mo><mi>f</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#183;</mo><mi>f</mi><mfenced><mi>y</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mfrac><mrow><mi>f</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mo>-</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mi>y</mi></mfrac><mo>=</mo><mfrac><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></mrow><mi>y</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><munder><mi>lim</mi><mrow><mi>y</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfenced><mfrac><mrow><mi>f</mi><mo>(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>)</mo><mo>-</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mi>y</mi></mfrac></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>y</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfenced><mrow><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mo>&#183;</mo><mfrac><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced></mrow><mi>y</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;&#160;</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mo>&#160;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mi>x</mi></mfrac><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mn>0</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn><mo>+</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn></math></p><p>Again <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced></mrow><mrow><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfrac><mo>=</mo><mn>1</mn><mo>&#8658;</mo><mo>&#8747;</mo><mfrac><mrow><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mi>d</mi><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfrac><mi>d</mi><mi>x</mi><mo>=</mo><mo>&#8747;</mo><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>l</mi><mi>n</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mo>=</mo><mi>x</mi><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>l</mi><mi>n</mi><mo>&#160;</mo><mfenced open=\"[\" close=\"]\"><mrow><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mo>=</mo><mi>x</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mfenced><mrow><mo>&#8757;</mo><mi>C</mi><mo>=</mo><mn>0</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>+</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mi>x</mi></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mi>x</mi></msup><mo>-</mo><mn>1</mn><mo>&#160;</mo><mo>&#8658;</mo><mo>&#160;</mo><msup><mi>f</mi><mo>'</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mi>x</mi></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi mathvariant=\"normal\">f</mi><mo>'</mo></msup><mfenced><mn>1</mn></mfenced><mo>=</mo><mi mathvariant=\"normal\">e</mi></math></p><p>Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math>&nbsp;is differentiable for every&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mi>x</mi></mfrac><mo>=</mo><mfrac><mrow><msup><mi>e</mi><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><mi>x</mi></mfrac><mo>&#160;&#160;</mo><msup><mi>y</mi><mo>&#39;</mo></msup><mfenced><msup><mn>0</mn><mo>+</mo></msup></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>g</mi><mfenced><mrow><mn>0</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>-</mo><mi>g</mi><mfenced><mn>0</mn></mfenced></mrow><mi>h</mi></mfrac></math></p><p>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>1</mn></math> then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>g</mi><mo>&#39;</mo></msup><mfenced><msup><mn>0</mn><mo>+</mo></msup></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mfrac><mrow><msup><mi>e</mi><mi>h</mi></msup><mo>-</mo><mn>1</mn></mrow><mi>h</mi></mfrac><mo>-</mo><mn>1</mn></mrow><mi>h</mi></mfrac><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><msup><mi>e</mi><mi>h</mi></msup><mo>-</mo><mn>1</mn><mo>-</mo><mi>h</mi></mrow><msup><mi>h</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>g</mi><mo>&#39;</mo></msup><mfenced><msup><mn>0</mn><mo>-</mo></msup></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>g</mi><mfenced><mrow><mn>0</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mo>-</mo><mi>g</mi><mfenced><mn>0</mn></mfenced></mrow><mrow><mo>-</mo><mi>h</mi></mrow></mfrac><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><msup><mi>e</mi><mrow><mo>-</mo><mi>h</mi></mrow></msup><mo>-</mo><mn>1</mn></mrow><mfrac><mrow><mo>-</mo><mi>h</mi></mrow><mrow><mo>-</mo><mi>h</mi></mrow></mfrac></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><msup><mi>e</mi><mrow><mo>-</mo><mi>h</mi></mrow></msup><mo>-</mo><mn>1</mn><mo>+</mo><mi>h</mi></mrow><msup><mi>h</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi><mfenced><mi mathvariant=\"normal\">x</mi></mfenced></math> is differentiable for every&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mi>R</mi></math>.</p>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a86f23ac7d519f9b534",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>Let the functions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>&nbsp;and&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math> be defined by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>&#160;</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>x</mi><mo>-</mo><mfenced close=\"]\" open=\"[\"><mi>x</mi></mfenced></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mi>x</mi></mfenced></math> denotes the greatest integer less than or equal to<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi>x</mi></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#8728;</mo><mi>g</mi><mo>:</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math>&nbsp;be the composite function defined by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>f</mi><mo>&#8728;</mo><mi>g</mi></mrow></mfenced><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math>. Suppose <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math>&nbsp;is&nbsp;the number of points in the interval&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>&nbsp;at which&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#8728;</mo><mi>g</mi></math>&nbsp;is&nbsp;not continuous, and suppose <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>&nbsp;is the number of points in the interval&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math>&nbsp;at which&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#8728;</mo><mi>g</mi></math>&nbsp;is&nbsp;not<strong>&nbsp;</strong>differentiable. Then the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mo>+</mo><mi>d</mi></math> is _____________</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable><mtr><mtd><mo>-</mo><mn>4</mn><mi>x</mi></mtd><mtd><mo>,</mo></mtd><mtd><mi>x</mi><mo><</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mo>,</mo></mtd><mtd><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>≤</mo><mi>x</mi><mo>≤</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mn>4</mn><mi>x</mi></mtd><mtd><mo>,</mo></mtd><mtd><mi>x</mi><mo>></mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr></mtable></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"}\" open=\"{\"><mi>x</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"right\"><mtr><mtd><mo>-</mo><mn>4</mn><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>,</mo></mtd><mtd><mi>g</mi><mfenced><mi>x</mi></mfenced><mo><</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mo>,</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>≤</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>≤</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mn>4</mn><mi>g</mi><mfenced><mi>x</mi></mfenced></mtd><mtd><mo>  </mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>></mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr></mtable></mfenced></math></p><p>Graph of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced></math> is</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/21bbae00-f37c-428f-8f3a-344dcb0aed0b-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mo>,</mo><mi>x</mi><mo>∈</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>∪</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></mtd></mtr><mtr><mtd><mn>4</mn><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mtd><mtd><mi>x</mi><mo>∈</mo><mfenced><mrow><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>0</mn></mrow></mfenced></mtd></mtr><mtr><mtd><mn>4</mn><mi>x</mi></mtd><mtd><mi>x</mi><mo>∈</mo><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>1</mn></mrow></mfenced></mtd></mtr></mtable></mfenced></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f8cb19a2-48b5-41cf-870c-3fad98f5d9ae-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mo>=</mo><mn>1</mn></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mn>3</mn></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mo> </mo><mn>0</mn><mo>,</mo><mo> </mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mi>c</mi><mo>+</mo><mi>d</mi><mo>=</mo><mn>4</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a80f23ac7d519f9b500",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Let the function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be defined by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>&#8722;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfenced><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mi>sin</mi><mi>x</mi></math> and let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be an arbitrary function. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mi>g</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be the product function defined by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>f</mi><mi>g</mi></mrow></mfenced><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mi>g</mi><mfenced><mi>x</mi></mfenced></math>. Then which of the following statements is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rraJK",
+        "text": "If <math> <mi>g</mi></math> is continuous at <math> <mrow>  <mi>x</mi><mo>=</mo><mn>1</mn></mrow></math>, then <math> <mrow>  <mi>f</mi><mi>g</mi></mrow></math> is differentiable at <math> <mrow>  <mi>x</mi><mo>=</mo><mn>1</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "OPV4m",
+        "text": "If <math> <mrow>  <mi>f</mi><mi>g</mi></mrow></math> is differentiable at <math> <mrow>  <mi>x</mi><mo>=</mo><mn>1</mn></mrow></math>, then <math> <mi>g</mi></math> is continuous at <math> <mrow>  <mi>x</mi><mo>=</mo><mn>1</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "6EWxM",
+        "text": "If <math> <mi>g</mi> </math> is differentiable at <math> <mrow> <mi>x</mi><mo>=</mo><mn>1</mn></mrow> </math>,&nbsp;then <math> <mrow> <mi>f</mi><mi>g</mi></mrow> </math> is differentiable at <math> <mrow> <mi>x</mi><mo>=</mo><mn>1</mn></mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "lTr2A",
+        "text": "If <math> <mrow>  <mi>f</mi><mi>g</mi></mrow></math> is differentiable at <math> <mrow>  <mi>x</mi><mo>=</mo><mn>1</mn></mrow></math>, then <math> <mi>g</mi></math> is differentiable at <math> <mrow>  <mi>x</mi><mo>=</mo><mn>1</mn></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "6EWxM",
+    "solution_text": "<p>Differentiability of <math> <mrow> <mi>f</mi><mi>g</mi></mrow> </math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math></p><p>Left-hand derivative :</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mi>f</mi><mi>g</mi></mrow></mfenced><mo>&#39;</mo></msup><mfenced><msup><mn>1</mn><mo>-</mo></msup></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>f</mi><mi>g</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mo>&#8722;</mo><mi>f</mi><mi>g</mi><mfenced><mn>1</mn></mfenced></mrow><mrow><mo>-</mo><mi>h</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mn>3</mn></msup><mo>-</mo><msup><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mi>h</mi><mi>sin</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced></mrow></mfenced><mi>g</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mo>&#8722;</mo><mn>0</mn></mrow><mrow><mo>-</mo><mi>h</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mi>sin</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced></mrow></mfenced><mi>g</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>i</mi></mfenced></math></p><p>Right-hand derivative :</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mi>f</mi><mi>g</mi></mrow></mfenced><mo>&#39;</mo></msup><mfenced><msup><mn>1</mn><mo>+</mo></msup></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>f</mi><mi>g</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>&#8722;</mo><mi>f</mi><mi>g</mi><mfenced><mn>1</mn></mfenced></mrow><mi>h</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mn>3</mn></msup><mo>-</mo><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mi>h</mi><mi>sin</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced></mrow></mfenced><mi>g</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>&#8722;</mo><mn>0</mn></mrow><mi>h</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mi>sin</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced></mrow></mfenced><mi>g</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math> is continuous at <math> <mrow> <mi>x</mi><mo>=</mo><mn>1</mn></mrow> </math>, then</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mi>g</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mi>g</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mo>=</mo><mi>g</mi><mfenced><mn>1</mn></mfenced><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>From equations&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><msup><mfenced><mrow><mi>f</mi><mi>g</mi></mrow></mfenced><mo>&#39;</mo></msup><mfenced><msup><mn>1</mn><mo>+</mo></msup></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>h</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><msup><mfenced><mrow><mi>f</mi><mi>g</mi></mrow></mfenced><mo>&#39;</mo></msup><mfenced><msup><mn>1</mn><mo>-</mo></msup></mfenced><mo>=</mo><mfenced><mrow><mn>1</mn><mo>+</mo><mi>sin</mi><mn>1</mn></mrow></mfenced><mi>g</mi><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>f</mi><mi>g</mi></math>&nbsp;is differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>.</p><p>So, option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>A</mi></mfenced></math>&nbsp;is correct.</p><p>Now, from equations&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math>, we can say&nbsp;that for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mi>g</mi></math>&nbsp;to be differentiable, we need only <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>=</mo><mi>g</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced></math>.</p><p>But for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math>&nbsp;to be continuous, we need&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mrow><mn>1</mn><mo>+</mo><mi>h</mi></mrow></mfenced><mo>=</mo><mi>g</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>h</mi></mrow></mfenced><mo>=</mo><mi>g</mi><mfenced><mn>1</mn></mfenced></math>.</p><p>So, option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>B</mi></mfenced></math>&nbsp;is incorrect.</p><p>Now, if&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math>&nbsp;is differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math>&nbsp;is already differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>&nbsp;as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>'</mo></msup><mfenced><msup><mn>1</mn><mo>-</mo></msup></mfenced><mo>=</mo><msup><mi>f</mi><mo>'</mo></msup><mfenced><msup><mn>1</mn><mo>+</mo></msup></mfenced><mo>=</mo><mn>1</mn><mo>+</mo><mi>sin</mi><mn>1</mn></math>, so product of two differentiable functions is also differentiable.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>f</mi><mi>g</mi></math>&nbsp;is differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>.</p><p>So, option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>C</mi></mfenced></math>&nbsp;is correct.</p><p>Now, from option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>B</mi></mfenced></math>, if&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mi>g</mi></math>&nbsp;is differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>, we cannot guarantee&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math>&nbsp;to be continuous at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>.</p><p>So, we also cannot guarantee&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi></math>&nbsp;to be differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>.</p><p>So, option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced></math>&nbsp;is incorrect.</p>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a70f23ac7d519f9b469",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Let <math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><mi>&#160;</mi><mi mathvariant=\"double-struck\">R</mi><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>&#160;</mi></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>:</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>4</mn></msub><mo>:</mo><mi>&#160;</mi><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi><mi>&#160;</mi></math> be functions defined by<br />(i) <math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>1</mn><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></msqrt></mrow></mfenced></mrow></mrow></math><br />(ii) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>2</mn></msub><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\" columnspacing=\"1.4ex\"><mtr><mtd><mfrac><mfenced close=\"|\" open=\"|\"><mrow><mi>sin</mi><mi>x</mi></mrow></mfenced><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow></mfrac></mtd><mtd><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8800;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>1</mn></mtd><mtd><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mfenced></math> , where the inverse trigonometric function <math> <mrow> <msup> <mrow> <mi>tan</mi></mrow> <mrow> <mo>&#8722;</mo><mn>1</mn></mrow> </msup> <mi>x</mi></mrow> </math> assumes values in <math> <mrow> <mrow><mo>(</mo> <mrow> <mo>&#8722;</mo><mfrac> <mi>&#960;</mi> <mn>2</mn> </mfrac> <mo>,</mo><mfrac> <mi>&#960;</mi> <mn>2</mn> </mfrac> </mrow> <mo>)</mo></mrow></mrow> </math><br />(iii) <math> <mrow> <msub> <mi>f</mi> <mn>3</mn> </msub> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mrow><mo>[</mo> <mrow> <mi>sin</mi><mrow><mo>(</mo> <mrow> <msub> <mrow> <mi>log</mi></mrow> <mtext>e</mtext> </msub> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>)</mo></mrow></mrow> <mo>)</mo></mrow></mrow> <mo>]</mo></mrow></mrow> </math> , where, for <math> <mrow> <mi>t</mi><mo>&#8712;</mo><mi>R</mi><mo>,</mo><mo>&#160;</mo><mrow><mo>[</mo> <mi>t</mi> <mo>]</mo></mrow></mrow> </math> denotes the greatest integer less than or equal to <math> <mi>t</mi> </math> ,<br />(iv) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>4</mn></msub><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mtable><mtr><mtd><msup><mi>x</mi><mn>2</mn></msup><mi>sin</mi><mfenced separators=\"|\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced><mi>&#160;</mi><mi>&#160;</mi></mtd><mtd><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8800;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn><mi>&#160;</mi></mtd><mtd><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mfenced></math><table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>LIST-I</td>\t\t\t<td>LIST-II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A. the function <math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub></math> is</td>\t\t\t<td>P. NOT continuous at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B.&nbsp;The function <math><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is</td>\t\t\t<td>Q. continuous at <math><mi>x</mi><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mn>0</mn></math> and NOT differentiable at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>C. The function <math><msub><mrow><mi>f</mi></mrow><mrow><mn>3</mn></mrow></msub></math> is</td>\t\t\t<td>R. differentiable at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math> and its derivative is NOT continuous at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>D. The function <math><msub><mrow><mi>f</mi></mrow><mrow><mn>4</mn></mrow></msub></math> is</td>\t\t\t<td>S. differentiable at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math> and its derivative is continuous at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t</tbody></table>The correct option is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wlMAp",
+        "text": "a-r;b-s;c-q;d-p;",
+        "image": null
+      },
+      {
+        "id": "hFEvi",
+        "text": "a-s;b-q;c-p;d-r;",
+        "image": null
+      },
+      {
+        "id": "QZ0h7",
+        "text": "a-q;b-p;c-s;d-r;",
+        "image": null
+      },
+      {
+        "id": "flL7P",
+        "text": "a-q;b-s;c-r;d-p;",
+        "image": null
+      }
+    ],
+    "correct_answer": "QZ0h7",
+    "solution_text": "<p>(i) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>1</mn></msub><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mi>sin</mi><msqrt><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></msqrt></math>. Clearly <math> <mrow> <msub> <mi>f</mi> <mn>1</mn> </msub> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </math> is continuous at <math> <mrow> <mi>x</mi><mo>=</mo><mn>0</mn></mrow> </math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>f</mi><mn>1</mn><mi>&#8242;</mi></msubsup><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>sin</mi><msqrt><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></msqrt></mrow><msqrt><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></msqrt></mfrac><mo>&#183;</mo><msqrt><mfrac><mrow><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac></msqrt><mo>&#183;</mo><mfrac><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mi>x</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>&#183;</mo><mn>1</mn><mo>&#183;</mo><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><mfrac><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mi>x</mi></mfrac></math>, which does not exist. So it is&nbsp;not differentiable at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math>.<br />So, <math><mi>P</mi><mo>&#8594;</mo><mn>2</mn></math><br />(ii) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>2</mn></msub><mfenced separators=\"|\"><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mtable><mtr><mtd><mfrac><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>sin</mi><mi>x</mi></mrow></mfenced><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>x</mi></mrow></mfrac><mo>,</mo></mtd><mtd><mi>x</mi><mo>&#8800;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mi>x</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><mrow><mi>sin</mi><mi>x</mi></mrow><mi>x</mi></mfrac><mfrac><mi>x</mi><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>x</mi></mrow></mfrac><mo>=</mo><mn>1</mn></math> and <math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>&#8594;</mo><msup> <mn>0</mn> <mo>&#8722;</mo> </msup> </mrow> </munder> <mo>&#8722;</mo><mfrac> <mrow> <mi>sin</mi><mi>x</mi></mrow> <mi>x</mi> </mfrac> <mo>&#215;</mo><mfrac> <mi>x</mi> <mrow> <msup> <mrow> <mi>tan</mi></mrow> <mrow> <mo>&#8722;</mo><mn>1</mn></mrow> </msup> <mi>x</mi></mrow> </mfrac> <mo>=</mo><mo>&#8722;</mo><mn>1</mn></mrow> </math><br /><math><mo>&#8658;</mo></math> <math><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> is not continuous at <math><mi>x</mi><mo>=</mo><mn>0</mn></math><br />So <math><mi>Q</mi><mo>&#8594;</mo><mn>1</mn></math><br />(iii) In the close neighborhood of <math> <mrow> <mi>x</mi><mo>=</mo><mn>0</mn></mrow> </math> given function <math> <mrow> <msub> <mi>f</mi> <mn>3</mn> </msub> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow> </math> hence <math> <mrow> <msub> <msup> <mi>f</mi> <mo>&#8242;</mo> </msup> <mn>3</mn> </msub> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow> </math> also <math> <mrow> <msub> <msup> <mi>f</mi> <mo>&#8242;</mo> </msup> <mn>3</mn> </msub> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </math> is continuous at <math> <mrow> <mi>x</mi><mo>=</mo><mn>0</mn></mrow> </math><br />So, <math><mi>R</mi><mo>&#8594;</mo><mn>4</mn></math><br />(iv) <math><msub><mrow><mi>f</mi></mrow><mrow><mn>4</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mrow><mo>,</mo></mtd><mtd><mi>x</mi><mo>&#8800;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn><mo>,</mo></mtd><mtd><mi>x</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math></p><p>Although&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>4</mn></msub><mo>&#39;</mo><mfenced separators=\"|\"><mn>0</mn></mfenced><mo>=</mo><mn>0</mn></math>&nbsp;due to sandwich theorem, but&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>&#8594;</mo><mn>0</mn></mrow></munder><msub><mi>f</mi><mn>4</mn></msub><mo>&#39;</mo><mfenced separators=\"|\"><mi>x</mi></mfenced></math>&nbsp;does not exist because&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced><mfrac><mn>1</mn><mi>x</mi></mfrac></mfenced></math>&nbsp;oscillates infinitely many times near&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math>.<br />So <math><mi>S</mi><mo>&#8594;</mo><mn>3</mn></math></p>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a57f23ac7d519f9b38d",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mi>&#160;</mi><mo>:</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>2</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> and <math><mi>g</mi><mo>:</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mn>2</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> be functions defined by <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>3</mn></mrow></mfenced></math> and <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>7</mn></mrow></mfenced><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> , where <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>y</mi></mrow></mfenced></math> denotes the greatest integer less than or equal to <math><mi>y</mi></math>&nbsp;for <math><mi>y</mi><mo>&#8712;</mo><mi mathvariant=\"double-struck\">R</mi></math> . Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ocYVh",
+        "text": "<math><mi>f</mi></math> is discontinuous exactly at three points in <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mtext>&nbsp;</mtext><mn>2</mn></mrow></mfenced></math><br />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "kUddF",
+        "text": "<math><mi>f</mi></math> is discontinuous exactly at four points in <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mtext>&nbsp;</mtext><mn>2</mn></mrow></mfenced></math><br />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "eBD8t",
+        "text": "<math><mi>g</mi></math> is NOT differentiable exactly at four points in <math><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "2Z7mq",
+        "text": "<math><mi>g</mi></math>  is NOT differentiable exactly at five points in  <math><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi> </mi><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "eBD8t",
+    "solution_text": "<math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>-</mo><mn>3</mn></math><br /><math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>7</mn></mrow></mfenced></mrow></mfenced><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>-</mo><mn>3</mn></mrow></mfenced></math><br /><math><mo>∵</mo></math> <math><mi>f</mi></math> is discontinuous at (when x<sup>2</sup>&nbsp;is an integer)<br /><math><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>2</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>3</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><mn>2</mn><mi>&nbsp;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&nbsp;</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mn>2</mn></mrow></mfenced></math><br />and <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>7</mn></mrow></mfenced><mo>≠</mo><mn>0</mn></math> at <math><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>2</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>3</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><mn>2</mn></math><br /><math><mo>⇒</mo></math> <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> is discontinuous at <math><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>2</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>3</mn></msqrt><mi>&nbsp;</mi></math> in <math><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mn>2</mn></mrow></mfenced></math><br /><math><mi>In</mi></math> <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>-</mo><mi>δ</mi><mo>,</mo><mi>&nbsp;</mi><mn>0</mn><mo>+</mo><mi>δ</mi></mrow></mfenced></math> <math> <mrow> <mrow> </mrow> </mrow></math> &nbsp; &nbsp; &nbsp; (<math> <mi>δ</mi> </math> is very small)<br /><math><mi>⇒&nbsp;g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>+</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>7</mn></mrow></mfenced></mrow></mfenced><mo>.</mo><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mn>3</mn></mrow></mfenced></math><br /><math><mo>⇒</mo></math> 'g' is non derivable at <math><mi>x</mi><mo>=</mo><mn>0</mn></math> .as <math> <mrow><mo>|</mo> <mi>x</mi> <mo>|</mo></mrow> </math>is there which is not diff. at <math> <mi>x</mi><mo>=</mo><mn>0</mn> </math><br /><math><mi>In</mi></math> <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>-</mo><mi>δ</mi><mo>,</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>+</mo><mi>δ</mi></mrow></mfenced></math><br /><math><mi>⇒&nbsp;g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math> as <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math><br /><math><mo>⇒</mo></math> Derivable at <math><mi>x</mi><mo>=</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math><br /><math><mo>∴</mo></math> 'g' is non - derivable at <math><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mn>1</mn><mo>,</mo><mi>&nbsp;</mi><msqrt><mn>2</mn></msqrt><mo>,</mo><mrow><msqrt><mn>3</mn></msqrt></mrow></math>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a57f23ac7d519f9b386",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let <math><mi>a</mi><mo>,</mo><mi>&#160;</mi><mi>b</mi><mo>&#8712;</mo><mi mathvariant=\"double-struck\">R</mi></math> and <math><mi>f</mi><mi mathvariant=\"double-struck\">&#160;</mi><mo>:</mo><mi mathvariant=\"double-struck\">&#160;</mi><mi mathvariant=\"double-struck\">R</mi><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> be defined by <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>a</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi></mrow></mfenced></mrow></mfenced></mrow></mrow><mo>+</mo><mi>b</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mi>x</mi></mrow></mfenced></mrow></mfenced></mrow></mrow></math> . Then <math><mi>f</mi></math> is -",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GFXmC",
+        "text": "Differentiable at <math><mi>x</mi><mo>=</mo><mn>0</mn></math> if <math><mi>a</mi><mo>=</mo><mn>0</mn></math> and <math><mi>b</mi><mo>=</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ST0zo",
+        "text": "Differentiable at <math><mi>x</mi><mo>=</mo><mn>1</mn></math> if <math><mi>a</mi><mo>=</mo><mn>1</mn></math> and <math><mi>b</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Bawmc",
+        "text": "NOT differentiable at  <math><mi>x</mi><mo>=</mo><mn>0</mn></math>  if  <math><mi>a</mi><mo>=</mo><mn>1</mn></math>  and  <math><mi>b</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "6mEU2",
+        "text": "NOT differentiable at  <math><mi>x</mi><mo>=</mo><mn>1</mn></math>  if  <math><mi>a</mi><mo>=</mo><mn>1</mn></math>  and  <math><mi>b</mi><mo>=</mo><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ST0zo",
+    "solution_text": "If <math><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi><mi>&nbsp;</mi><mo>≥</mo><mn>0</mn><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi></mrow></mfenced></mrow></mrow></math><br /><math><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi><mo>&lt;</mo><mn>0</mn><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi></mrow></mfenced></mrow></mrow></math><br />Similarly <math><mi>b</mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mi>x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><mi>b</mi><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mi>x</mi></mrow></mfenced></mrow></mrow></math> for all <math><mi>x</mi><mo>∈</mo><mi>R</mi></math><br /><math><mo>∴</mo></math> <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>a</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>-</mo><mi>x</mi></mrow></mfenced></mrow></mrow><mo>+</mo><mi>b</mi><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mi>x</mi></mrow></mfenced></mrow></mrow></math><br />Which is composition and sum of differentiable functions therefore always continuous and differentiable.",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a45f23ac7d519f9b2e5",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">&#160;</mi><mo>:</mo><mi mathvariant=\"double-struck\">R</mi><mo>&#8594;</mo><mi mathvariant=\"double-struck\">R</mi></math> be a differentiable function with <math><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&#8242;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>0</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math> and <math><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&#8242;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mo>&#8800;</mo><mn>0</mn><mo>.</mo><mi mathvariant=\"normal\">&#160;</mi></math> Let <math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mfrac><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mo>|</mo><mi mathvariant=\"normal\">x</mi><mo>|</mo></mrow></mfrac><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>,</mo></mtd><mtd><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">&#160;</mi><mo>&#8800;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn><mo>,</mo></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> and <math><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>|</mo><mi mathvariant=\"normal\">x</mi><mo>|</mo></mrow></msup></math> for all <math><mi mathvariant=\"normal\">x</mi><mo>&#8712;</mo><mi mathvariant=\"double-struck\">R</mi><mo>.</mo></math> Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi>foh</mi></mfenced><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>)</mo></math> denote <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mi mathvariant=\"normal\">x</mi></mfenced></mrow></mfenced><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>hof</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi></math>denote <math><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced></math> .Then which of the following is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oeKZS",
+        "text": "<math><mi mathvariant=\"normal\">f</mi></math>  is differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "EuWBM",
+        "text": "<math><mi mathvariant=\"normal\">h</mi></math>  is differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "qNvxy",
+        "text": "<math><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mo>₀</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">h</mi></math>  is differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "kkGG0",
+        "text": "<math><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\"> </mi><mo>₀</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">f</mi></math>  is differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kkGG0",
+    "solution_text": "<math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>&gt;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo>-</mo><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>&lt;</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced></mrow></mrow><mo>=</mo><mo>-</mo><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><mo>-</mo><mn>0</mn><mo>=</mo><mn>0</mn></mrow></mrow></math> <br > <math><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mrow><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math> <br >Hence  <math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></math>  is differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math> <br > <math><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></msup><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>≥</mo><mn>0</mn></mtd></mtr><mtr><mtd><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></msup></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>&lt;</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced><mo>=</mo><mo>-</mo><mn>1</mn></mrow></mrow></math> <br > <math><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>1</mn></mrow></mrow></math> <br >Hence  <math><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></math>  is not differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math> <br > <math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></msup></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></msup></mrow></mfenced></mrow></mfrac></mrow></mfenced><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></msup></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>≥</mo><mn>0</mn></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>&lt;</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced><mo>×</mo><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">x</mi></mrow></msup><mi mathvariant=\"normal\"> </mi></mrow></mrow><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced><mo>×</mo><mo>-</mo><mn>1</mn><mo>=</mo><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup></mrow></mfenced><mo>×</mo></mrow></mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msup><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></math> <br >Hence foh is non-differentiable at  <math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></math> <br > <math><mi mathvariant=\"normal\">h</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfrac><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced></mrow></msup></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>≠</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> <br > <math><mo>=</mo><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced></mrow></msup></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>≠</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced></mrow></msup></mrow></mrow><mo>×</mo><mo>±</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></mfenced></mrow></mfenced></mrow></msup><mo>×</mo><mo>±</mo><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><msup><mrow><mn>0</mn></mrow><mrow><mo>-</mo></mrow></msup></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>0</mn></math> <br > <math><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">D</mi><mo>:</mo><mi mathvariant=\"normal\"> </mi><mrow><mrow><munder><mrow><mi mathvariant=\"normal\">lim</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder></mrow><mo>⁡</mo><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced></mrow></mfenced></mrow></msup></mrow></mrow><mo>×</mo><mo>±</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi><mfenced separators=\"|\"><mrow><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></mfenced></mrow></mfenced></mrow></msup><mo>×</mo><mo>±</mo><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">&prime;</mi></mrow></msup><mfenced separators=\"|\"><mrow><msup><mrow><mn>0</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a38f23ac7d519f9b26a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi>f</mi><mi>&#160;</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> and <math><mi>g</mi><mi>&#160;</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be respectively given by <math><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>+</mo><mn>1</mn></math> and <math><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>.</mo></math> Define <math><mi>h</mi><mi>&#160;</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> by <math><mi>h</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi>&#160;</mi><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><mrow><mi mathvariant=\"normal\">max</mi></mrow><mo>&#8289;</mo><mrow><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>,</mo><mi>&#160;</mi><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfenced></mrow></mrow></mtd><mtd><mi>i</mi><mi>f</mi></mtd><mtd><mi>x</mi><mi>&#160;</mi><mo>&#8804;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mrow><mrow><mi mathvariant=\"normal\">min</mi></mrow><mo>&#8289;</mo><mrow><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mi>f</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>,</mo><mi>&#160;</mi><mi>g</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></mrow></mfenced></mrow></mrow></mtd><mtd><mi>i</mi><mi>f</mi></mtd><mtd><mi>x</mi><mo>&#62;</mo><mn>0</mn></mtd></mtr></mtable></mrow></mfenced></math><br />Then number of points at which <math><mi>h</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced></math> is not differentiable is_________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<math><mi>h</mi><mfenced separators=\"|\"><mrow><mi>x</mi></mrow></mfenced><mo>=</mo><mi> </mi><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup/><mtable><mtr><mtd><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>,</mo></mtd><mtd><mi>x</mi><mi> </mi><mo>∈</mo><mfenced close=\"]\" separators=\"|\"><mrow><mo>-</mo><mi>∞</mi><mo>,</mo><mi> </mi><mo>-</mo><mn>1</mn></mrow></mfenced></mtd></mtr><mtr><mtd><mo>-</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mtd><mtd><mi>x</mi><mi> </mi><mo>∈</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mi> </mi><mn>0</mn></mrow></mfenced></mtd></mtr><mtr><mtd><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>,</mo></mtd><mtd><mi>x</mi><mi> </mi><mo>∈</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi> </mi><mn>1</mn></mrow></mfenced></mtd></mtr></mtable></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup/><mtable><mtr><mtd><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo><mi> </mi></mtd><mtd><mi>x</mi><mi> </mi><mo>∈</mo><mfenced open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi> </mi><mi>∞</mi></mrow></mfenced></mtd></mtr></mtable></mrow></mtd></mtr></mtable></mrow></mfenced></math> <br >Hence, not differentiable at  <math><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn><mo>,</mo><mi> </mi><mn>0</mn><mo>,</mo><mi> </mi><mn>1</mn></math>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a16f23ac7d519f9b13a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "If $f(x)=\\left\\{\\begin{array}{cc}-x-\\frac{\\pi}{2}, & x \\leq-\\frac{\\pi}{2} \\\\ -\\cos x, & -\\frac{\\pi}{2} < x \\leq 0 \\\\ x-1, & 0 < x \\leq 1 \\\\ \\log x, & x>1\\end{array}\\right.$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CNva0",
+        "text": "\n$f(x)$ is continuous at $x=-\\frac{\\pi}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "D9WRP",
+        "text": "\n$f(x)$ is not differentiable at $x=0$\n",
+        "image": null
+      },
+      {
+        "id": "W6thn",
+        "text": "\n$f(x)$ is differentiable at $x=1$\n",
+        "image": null
+      },
+      {
+        "id": "cl2aJ",
+        "text": "\n$f(x)$ is differentiable at $x=-\\frac{3}{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "cl2aJ",
+    "solution_text": "$f(x)=\\left\\{\\begin{array}{cc}-x-\\frac{\\pi}{2}, & x \\leq-\\frac{\\pi}{2} \\\\ -\\cos x, & -\\frac{\\pi}{2} < x \\leq 0 \\\\ x-1, & 0 < x \\leq 1 \\\\ \\log x, & x>1\\end{array}\\right.$\nContinuity at $x=-\\frac{\\pi}{2}$,\n$$\n\\begin{aligned}\n& f\\left(-\\frac{\\pi}{2}\\right)=-\\left(-\\frac{\\pi}{2}\\right)-\\frac{\\pi}{2}=0 \\\\\n& \\mathrm{RHL} \\Rightarrow \\lim _{h \\rightarrow 0}-\\cos \\left(-\\frac{\\pi}{2}+h\\right)=0\n\\end{aligned}\n$$\n\n$\\therefore$ Continuous at $x=0$\nContinuity at $x=0 \\Rightarrow f(0)=-1$ $\\mathrm{RHL} \\Rightarrow \\lim _{h \\rightarrow 0}(0+h)-1=-1$\n$\\therefore$ Continuous at $x=0$\nContinuity at $x=1 ; f(1)=0$ $\\mathrm{RHL} \\Rightarrow \\lim _{h \\rightarrow 0} \\log (1+h)=0$\n$\\therefore$ Continuous at $x=1$\nHere, $f^{\\prime}(x)=\\left\\{\\begin{array}{cc}-1, & x \\leq-\\frac{\\pi}{2} \\\\ \\sin x, & -\\frac{\\pi}{2} < x \\leq 0 \\\\ 1, & 0 < x \\leq 1 \\\\ \\frac{1}{x}, & x>1\\end{array}\\right.$\nDifferentiable at $x=0$, $\\mathrm{LHD}=0, \\mathrm{RHD}=1$\n$\\therefore \\quad$ Not differentiable at $x=0$\n\nDifferentiable at $x=1$, $\\mathrm{LHD}=1, \\mathrm{RHD}=1$\n$\\therefore$ Differentiable at $x=1$\nAlso, for $x=-\\frac{3}{2} \\Rightarrow f(x)=-x-\\frac{3}{2}$\n$\\therefore$ Differentiable at $x=-\\frac{3}{2}$",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a10f23ac7d519f9b0fd",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Let $f: R \\rightarrow R$ be a function such that $f(x+y)=f(x)+f(y), \\forall x, y \\in R$. If $f(x)$ is differentiable at $x=0$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PZqEx",
+        "text": "\n$f(x)$ is differentiable only in a finite interval containing zero\n",
+        "image": null
+      },
+      {
+        "id": "vTTcd",
+        "text": "\n$f(x)$ is continuous, $\\forall x \\in R$\n",
+        "image": null
+      },
+      {
+        "id": "EMwQ9",
+        "text": "\n$f^{\\prime}(x)$ is constant, $\\forall x \\in R$\n",
+        "image": null
+      },
+      {
+        "id": "kNczA",
+        "text": "\n$f(x)$ is differentiable except at finitely many points",
+        "image": null
+      }
+    ],
+    "correct_answer": "EMwQ9",
+    "solution_text": "$f(x+y)=f(x)+f(y)$, as $f(x)$ is differentiable at $x=0$.\n$$\n\\begin{aligned}\n\\Rightarrow & f^{\\prime}(0)=k \\\\\n\\text { Now, } f^{\\prime}(x) & =\\lim _{h \\rightarrow 0} \\frac{f(x+h)-f(x)}{h} \\\\\n& =\\lim _{h \\rightarrow 0} \\frac{f(x)+f(h)-f(x)}{h} \\\\\n& =\\lim _{h \\rightarrow 0} \\frac{f(h)}{h} \\quad\\left[\\frac{0}{0} \\text { from }\\right]\n\\end{aligned}\n$$\nGiven, $f(x+y)=f(x)+f(y), \\forall x, y$\n$$\n\\begin{aligned}\n& \\therefore & f(0) & =f(0)+f(0), \\\\\n& \\text { when } & x & =y=0 \\Rightarrow f(0)=0\n\\end{aligned}\n$$\nUsing L'Hospital's rule,\n$$\n\\lim _{h \\rightarrow 0} \\frac{f^{\\prime}(h)}{1}=f^{\\prime}(0)=k\n$$\n$\\Rightarrow f^{\\prime}(x)=k$, on integrating both sides, $f(x)=k x+C$, as $f(0)=0 \\Rightarrow C=0$\nSo, $f(x)=k x$\n$\\therefore f(x)$ is continuous for all $x \\in R$ and $f^{\\prime}(x)=k$, i.e. constant for all $x \\in R$.\nHence, both (b) and (c) are correct.\nSolutions (Q. Nos. 12-13)\n$$\n\\left.\\left(\\begin{array}{l}\n3 \\mathrm{~W} \\\\\n2 \\mathrm{R}\n\\end{array}\\right)(\\underbrace{1 \\mathrm{~W}}_{u_1})\\right\\} \\text { Initial }\n$$\nHead appears.\n$\\left(\\begin{array}{l}2 \\mathrm{~W} \\\\ 2 \\mathrm{R}\\end{array}\\right) \\underset{u_1}{\\mathrm{wW}}(\\underbrace{2 \\mathrm{~W}}_{u_2})$\nor $\\left.\\left(\\begin{array}{l}3 \\mathrm{~W} \\\\ 1 \\mathrm{R}\\end{array}\\right) \\underset{u_1}{\\stackrel{1 \\mathrm{R}}{u_1}}\\left(\\begin{array}{c}1 \\mathrm{~W} \\\\ 1 \\mathrm{R}\\end{array}\\right)\\right)_{u_2}^{u_2}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GBdGyDD_0UwU3UqT52VW0IalBzIUtwdpq7GUfZVxGHE.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b16a01f23ac7d519f9b07a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Let $f$ be a real-valued function defined on the interval $(0, \\infty)$, by $f(x)=\\ln x+\\int_0^x \\sqrt{1+\\sin t} d t$. Then which of the following statement(s) is (are) true ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zbd5O",
+        "text": "\n$f^{\\prime \\prime}(x)$ exists for all $x \\in(0, \\infty)$\n",
+        "image": null
+      },
+      {
+        "id": "ww3gP",
+        "text": "\n$f^{\\prime}(x)$ exists for all $x \\in(0, \\infty)$ and $f^{\\prime}$ is continuous on $(0, \\infty)$, but not differentiable on $(0, \\infty)$\n",
+        "image": null
+      },
+      {
+        "id": "qSzxn",
+        "text": "\nthere exists $\\alpha>1$ such that $\\left|f^{\\prime}(x)\\right| < |f(x)|$ for all $x \\in(\\alpha, \\infty)$",
+        "image": null
+      },
+      {
+        "id": "NW5uW",
+        "text": "\nthere exists $\\beta>0$ such that $|f(x)|+\\left|f^{\\prime}(x)\\right| \\leq \\beta \\quad$ from all $x \\in(0, \\infty)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qSzxn",
+    "solution_text": "Here, $f^{\\prime}(x)=\\frac{1}{x}+\\sqrt{1+\\sin x}, x>0$ but $f(x)$ is not differentiable in $(0, \\infty)$ as $\\sin x$ may be $-1$ and then $f^{\\prime \\prime}(x)=-\\frac{1}{x^2}+\\frac{\\cos x}{2 \\sqrt{1+\\sin x}}$ will not exists.\n$\\Rightarrow f^{\\prime}(x)$ is continuous for all $x \\in(0, \\infty)$ but $f^{\\prime}(x)$ is not differentiable on $(0, \\infty)$.\n$\\therefore$ Option (b) is true.\nAlso, $\\quad f^{\\prime}(x) \\leq 3$, if $x>1$ and $\\quad f(x)>3$, if $x>e^3$\n$\\therefore$ Let $\\alpha=e^3$\n$\\Rightarrow$ Option (c) is true.\n(d) is not possible as $f(x) \\rightarrow \\infty$ when $x \\rightarrow \\infty$.\nHence, (b, c) is the correct option.",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b169e5f23ac7d519f9af74",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Let $f$ and $g$ be real valued functions defined on interval $(-1,1)$ such that $g^{\\prime \\prime}(x)$ is continuous, $g(0) \\neq 0, g^{\\prime}(0)=0, g^{\\prime \\prime}(0) \\neq 0$ and $f(x)=g(x) \\sin x$.\nStatement $1 \\lim _{x \\rightarrow 0}[g(x) \\cos x-g(0) \\operatorname{cosec} x]=f^{\\prime \\prime}(0)$.\nStatement $2 f^{\\prime}(0)=g(0)$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "irnYJ",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "kNnuk",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "aqInn",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "jgvE7",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "kNnuk",
+    "solution_text": "We have,\n$$\n\\begin{aligned}\n& \\lim _{x \\rightarrow 0} \\frac{g(x) \\cos x-g(0)}{\\sin x} \\\\\n& =\\lim _{x \\rightarrow 0} \\frac{g^{\\prime}(x) \\cos x-g(x) \\sin x}{\\cos x}=0\n\\end{aligned}\n$$\nSince, $f(x)=g(x) \\sin x$\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad f^{\\prime}(x)=g^{\\prime}(x) \\sin x+g(x) \\cos x \\\\\n& \\Rightarrow \\quad f^{\\prime \\prime}(x)=g^{\\prime \\prime}(x) \\sin x+2 g^{\\prime}(x) \\cos x-g(x) \\sin x \\\\\n& \\Rightarrow \\quad f^{\\prime \\prime}(0)=0\n\\end{aligned}\n$$\nThus, $\\lim _{x \\rightarrow 0}[g(x) \\cos x-g(0) \\operatorname{cosec} x]=0=f^{\\prime \\prime}(0)$\n$\\Rightarrow$ Statement 1 is true.\nStatement 2. $f^{\\prime}(x)=g^{\\prime}(x) \\sin x+g(x) \\cos x$\n$$\n\\Rightarrow \\quad f^{\\prime}(0)=g(0)\n$$\nStatement 2 is not a correct explanation of Statement 1.",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "In the following $[x]$ denotes the greatest integer less than or equal to $x$. Match the functions in Column I with the properties Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZOJzgUXgnR79Tqmkejx4TZv8JzPFeZlpF6VMfpG-z9A.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WvFY3",
+        "text": "\nA-p, r; B-p, q, s; C-p; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "l74SM",
+        "text": "\nA-p, s; B-p, r, s; C-p, s; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "4O6Iz",
+        "text": "\nA-p, q, r; B-p, s; C-r, s; D-p, q\n",
+        "image": null
+      },
+      {
+        "id": "gYbwK",
+        "text": "\nA-r, s; B-q; C-p; D-p, q, s",
+        "image": null
+      }
+    ],
+    "correct_answer": "4O6Iz",
+    "solution_text": "(A) $x|x|$ is continuous, differentiable and strictly increasing in $(-1,1)$.\n(B) $\\sqrt{|x|}$ is continuous in $(-1,1)$ and not differentiable at $x=0$.\n(C) $x+[x]$ is strictly increasing in $(-1,1)$ and discontinuous at $x=0$ $\\Rightarrow$ not differentiable at $x=0$.\n(D) $|x-1|+|x+1|=2$ in $(-1,1)$\nThe function is continuous and differentiable in $(-1,1)$.",
+    "solution_image": null,
+    "topic": "Differentiability"
+  },
+  {
+    "question_id": "64b169cef23ac7d519f9aea0",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If $f(x)=\\min \\left\\{1, x^2, x^3\\right\\}$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NiIRx",
+        "text": "\n$f(x)$ is continuous everywhere\n",
+        "image": null
+      },
+      {
+        "id": "SgT8Q",
+        "text": "\n$f(x)$ is continuous and differentiable everywhere\n",
+        "image": null
+      },
+      {
+        "id": "7xLHN",
+        "text": "\n$f(x)$ is not differentiable at two points\n",
+        "image": null
+      },
+      {
+        "id": "p2SOy",
+        "text": "\n$f(x)$ is not differentiable at one point",
+        "image": null
+      }
+    ],
+    "correct_answer": "p2SOy",
+    "solution_text": "Here, $f(x)=\\min .\\left\\{1, x^2, x^3\\right\\}$ which could be graphically shown as\n$$\n\\therefore \\quad f(x)=\\left\\{\\begin{array}{c}\n1, x \\geq 1 \\\\\nx^3, x < 1\n\\end{array}\\right.\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aMjTHolEozuYG-SqnJHOZWv-BUVKNUy9PvmW4-6Za-k.original.fullsize.png\"><br>\n$$\n\\Rightarrow f(x) \\text { is continuous for } x \\in R \\text { and not differentiable at } x=1 \\text { due to sharp edge. }\n$$",
+    "solution_image": null,
+    "topic": "Differentiability"
+  }
+]
