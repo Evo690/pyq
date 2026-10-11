@@ -1,0 +1,1384 @@
+[
+  {
+    "question_id": "64b16a32f23ac7d519f9b236",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "A student is performing an experiment using a resonance column and a tuning fork of frequency <math><mn>244</mn><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. He is told that the air in the tube has been replaced by another gas (assume that the column remains filled with the gas). If the minimum height at which resonance occurs is <math><mo>(</mo><mn>0.350</mn><mo>&#177;</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0.005</mn><mo>)</mo><mi mathvariant=\"normal\">m</mi></math> , the gas in the tube is (Useful information: <math><msqrt><mn>167</mn><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></msqrt><mo>=</mo><mn>640</mn><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">J</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>;</mo><msqrt><mn>140</mn><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></msqrt><mo>=</mo><mn>590</mn><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">J</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></math> . The molar masses M in grams are given in the options. Take the values of <math><msqrt><mfrac><mrow><mn>10</mn></mrow><mrow><mi mathvariant=\"normal\">M</mi></mrow></mfrac></msqrt></math> for each gas as given there.)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SJKHv",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">M</mi><mo>=</mo><mn>20</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><msqrt><mfrac><mrow><mn>10</mn></mrow><mrow><mn>20</mn></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "47SOK",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">M</mi><mo>=</mo><mn>28</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><msqrt><mfrac><mrow><mn>10</mn></mrow><mrow><mn>28</mn></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "B3Kgd",
+        "text": "<math><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">M</mi><mo>=</mo><mn>32</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><msqrt><mfrac><mrow><mn>10</mn></mrow><mrow><mn>32</mn></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "LxrVz",
+        "text": "<math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">M</mi><mo>=</mo><mn>36</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><msqrt><mfrac><mrow><mn>10</mn></mrow><mrow><mn>36</mn></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>17</mn></mrow><mrow><mn>32</mn></mrow></mfrac></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LxrVz",
+    "solution_text": "<p><math><mi>v</mi><mo>=</mo><mn>0.35</mn><mi>&#160;</mi><mo>,</mo><mi>&#160;</mi><mi>&#955;</mi><mo>=</mo><mn>4</mn><mi>&#947;</mi></math></p><p><math><mi>v</mi><mo>=</mo><mi>&#955;</mi><mi>f</mi><mo>=</mo><mn>0.35</mn><mi>&#160;</mi><mo>&#215;</mo><mn>4</mn><mi>&#160;</mi><mo>&#215;</mo><mn>244</mn><mi>&#160;</mi><mo>&#8773;</mo><mn>340</mn><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup></math></p><p><math><mi>v</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn><mi>&#947;</mi></mrow></mfrac><mi>&#160;</mi><mi>&#160;</mi><msqrt><mfrac><mrow><mi>&#947;</mi><mi>R</mi><mi>T</mi></mrow><mrow><mi>M</mi></mrow></mfrac></msqrt></math></p><p><math><mi>v</mi><mo>=</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mi>&#947;</mi><mi>R</mi><mi>T</mi></mrow><mrow><mi>M</mi></mrow></mfrac></msqrt><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>M</mi><mo>=</mo><mfrac><mrow><mi>&#947;</mi><mi>R</mi><mi>T</mi></mrow><mrow><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p><p>For monoatomic gas : &nbsp; <math><mi>&#947;</mi><mo>=</mo><mn>1.67</mn><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>M</mi><mo>=</mo><mfrac><mrow><msup><mrow><mn>640</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>100</mn></mrow></mfrac><mi>&#160;</mi><mo>&#215;</mo><mfrac><mrow><mn>1000</mn></mrow><mrow><msup><mrow><mn>340</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p><p><math><mo>&#8776;</mo><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>M</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>17</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math></p><p><math><mo>&#8776;</mo><mn>36</mn></math></p><p><math><mi>M</mi><mo>=</mo><mn>36</mn></math></p>",
+    "solution_image": null,
+    "topic": "Basics of Mechanical Waves"
+  },
+  {
+    "question_id": "64b16a0bf23ac7d519f9b0d1",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing fixed positive ions surrounded by free electrons can be treated as neutral plasma. Let $N$ be the number density of free electrons, each of mass $m$. When the electrons are subjected to an electric field, they are displaced relatively away from the heavy positive ions.If the electric field becomes zero, the electrons being to oscillate about the positive ions with a natural angular frequency $\\omega_p$, which is called the plasma frequency. To sustain the oscillations, a time varying electric field needs to be applied that has an angular frequency $\\omega$, where a part of the energy is absorbed and a part of it is reflected. As $\\omega$ approaches $\\omega_p$, all the free electrons are set to resonance together and all the energy is reflected. This is the explanation of high reflectivity of metals.<strong>Question:</strong>\nEstimate the wavelength at which plasma reflection will occur for a metal having the density of electrons $N \\approx 4 \\times 10^{27} \\mathrm{~m}^{-1}$. Take $\\varepsilon_0=10^{-11}$ and $m=10^{-30}$, where these quantities are in proper SI units.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fNLvY",
+        "text": "\n$800 \\mathrm{~nm}$\n",
+        "image": null
+      },
+      {
+        "id": "HZdXa",
+        "text": "\n$600 \\mathrm{~nm}$\n",
+        "image": null
+      },
+      {
+        "id": "fC7o5",
+        "text": "\n$300 \\mathrm{~nm}$\n",
+        "image": null
+      },
+      {
+        "id": "YC7Zb",
+        "text": "\n$200 \\mathrm{~nm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "HZdXa",
+    "solution_text": "$$\n\\begin{gathered}\n\\omega=2 \\pi f=\\frac{2 \\pi c}{\\lambda} \\\\\n\\therefore \\quad \\lambda=\\frac{2 \\pi c}{\\omega}=\\frac{2 \\pi c}{\\sqrt{N e^2 / m \\varepsilon_0}}\n\\end{gathered}\n$$\nSubstituting the values, we get\n$$\n\\lambda=600 \\mathrm{~nm}\n$$\n$\\therefore$ Correct option is (b).\nAnalysis of Question\n(i) Paragraph does not make the solution very clear.\n(ii) Solution is simple but based on error and trial method.",
+    "solution_image": null,
+    "topic": "Basics of Mechanical Waves"
+  },
+  {
+    "question_id": "64b169c6f23ac7d519f9ae59",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTwo plane harmonic sound waves are expressed by the equations.\n$$\n\\begin{aligned}\n& y_1(x, t)=A \\cos (0.5 \\pi x-100 \\pi t) \\\\\n& y_2(x, t)=A \\cos (0.46 \\pi x-92 \\pi t)\n\\end{aligned}\n$$\n(All parameters are in MKS)<strong>Question:</strong>\nWhat is the speed of the sound?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6uE6n",
+        "text": "\n$200 \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "CHIv4",
+        "text": "\n$180 \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "jBiZr",
+        "text": "\n$192 \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "xKJ89",
+        "text": "\n$96 \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "6uE6n",
+    "solution_text": "Speed of wave $v=\\frac{\\omega}{R}$ or $\\quad v=\\frac{100 \\pi}{0.5 \\pi}$ or $\\frac{92 \\pi}{0.46 \\pi}=200 \\mathrm{~m} / \\mathrm{s}$",
+    "solution_image": null,
+    "topic": "Basics of Mechanical Waves"
+  },
+  {
+    "question_id": "64b16a4df23ac7d519f9b332",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "Two loudspeakers M and N are located 20m apart and emit sound at frequencies 118 Hz and 121 Hz, respectively. A car is initially at a point P, 1800 m away from the midpoint Q of the line MN and moves towards Q constantly at 60 km/hr along the perpendicular bisector of MN. It crosses Q and eventually reaches a point R, 1800 m away from Q. Let <math><mi>&#965;</mi><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced></math> represent the beat frequency measured by a person sitting in the car at time t. Let <math><msub><mrow><mi>&#957;</mi></mrow><mrow><mi>p</mi></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>&#957;</mi></mrow><mrow><mi>Q</mi></mrow></msub><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>&#957;</mi></mrow><mrow><mi>R</mi></mrow></msub></math> be the beat frequencies measured at locations P, Q and R, respectively. The speed of sound in air is <math><mn>330</mn><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math> Which of the following statement(s) is(are) true regarding the sound heard by the person ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qVbFu",
+        "text": "<p>The plot below represents schematically the variation of beat frequency with time<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_13_A_.jpg\"/></p>",
+        "image": null
+      },
+      {
+        "id": "amYJh",
+        "text": "<p>The plot below represents schematically the variations of beat frequency with time<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_13_B_.jpg\"/></p>",
+        "image": null
+      },
+      {
+        "id": "YVZxb",
+        "text": "The rate of change in beat frequency is maximum when the car passes through Q",
+        "image": null
+      },
+      {
+        "id": "DW0PP",
+        "text": "<math><msub><mrow><mi>&nu;</mi></mrow><mrow><mi>P</mi></mrow></msub><mo>+</mo><msub><mrow><mi>&nu;</mi></mrow><mrow><mi>R</mi></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>&nu;</mi></mrow><mrow><mi>Q</mi></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "DW0PP",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_13_ANS_.jpg\"/><br ><math><msub><mrow><mi>f</mi></mrow><mrow><mi>M</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>C</mi><mo>+</mo><mi>V</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mi>C</mi></mrow></mfrac><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br ><math><msub><mrow><mi>f</mi></mrow><mrow><mi>N</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>C</mi><mo>+</mo><mi>V</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mi>C</mi></mrow></mfrac><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub></math><br ><math><mi mathvariant=\"normal\">Δ</mi><mi>f</mi><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mi>N</mi></mrow></msub><mo>-</mo><msub><mrow><mi>f</mi></mrow><mrow><mi>M</mi></mrow></msub></math><br ><math><mo>=</mo><mfrac><mrow><mi>C</mi><mo>+</mo><mi>V</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mi>C</mi></mrow></mfrac><mi> </mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math><br ><math><mfrac><mrow><mi>d</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><mi>f</mi></mrow></mfenced></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mi>C</mi></mrow></mfrac><mi> </mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow><mi> </mi><mfrac><mrow><mi>d</mi><mi>θ</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math><br ><math><mo>∴</mo></math> and <math><mfrac><mrow><mi>d</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><mi>f</mi></mrow></mfenced></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math> is maximum when <math><mi>θ</mi><mo>=</mo><msup><mrow><mn>90</mn></mrow><mrow><mi>o</mi></mrow></msup></math><br ><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>∴</mo><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced><mi> </mi><mi>i</mi><mi>s</mi><mi> </mi><mi>c</mi><mi>o</mi><mi>r</mi><mi>r</mi><mi>e</mi><mi>c</mi><mi>t</mi></mrow></mfenced></math><br ><math><msub><mrow><mi>v</mi></mrow><mrow><mi>P</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mi>C</mi></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfenced><mi mathvariant=\"normal\">Δ</mi><mi>f</mi></math><br ><math><msub><mrow><mi>v</mi></mrow><mrow><mi>Q</mi></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><mi>f</mi></math><br ><math><msub><mrow><mi>v</mi></mrow><mrow><mi>R</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mi>C</mi></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfenced><mi mathvariant=\"normal\">Δ</mi><mi>f</mi></math><br ><math><mo>∴</mo></math> <math><msub><mrow><mi>v</mi></mrow><mrow><mi>P</mi></mrow></msub><mo>+</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>r</mi></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>v</mi></mrow><mrow><mi>Q</mi></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Beats"
+  },
+  {
+    "question_id": "64b169c6f23ac7d519f9ae58",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTwo plane harmonic sound waves are expressed by the equations.\n$$\n\\begin{aligned}\n& y_1(x, t)=A \\cos (0.5 \\pi x-100 \\pi t) \\\\\n& y_2(x, t)=A \\cos (0.46 \\pi x-92 \\pi t)\n\\end{aligned}\n$$\n(All parameters are in MKS)<strong>Question:</strong>\nHow many times does an observer hear maximum intensity in one second?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "os1MP",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "yAfnl",
+        "text": "\n10\n",
+        "image": null
+      },
+      {
+        "id": "mByZB",
+        "text": "\n6\n",
+        "image": null
+      },
+      {
+        "id": "OSlhR",
+        "text": "\n8",
+        "image": null
+      }
+    ],
+    "correct_answer": "os1MP",
+    "solution_text": "In one second number of maximas is called the beat frequency. Hence,\n$$\nf_b=f_1-f_2=\\frac{100 \\pi}{2 \\pi}-\\frac{92 \\pi}{2 \\pi}=4 \\mathrm{~Hz}\n$$",
+    "solution_image": null,
+    "topic": "Beats"
+  },
+  {
+    "question_id": "6696579d623b9ed1d463746f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "A source (S) of sound has frequency $240 \\mathrm{~Hz}$. When the observer $(\\mathrm{O})$ and the source move towards each other at a speed $v$ with respect to the ground (as shown in Case 1 in the figure), the observer measures the frequency of the sound to be $288 \\mathrm{~Hz}$. However, when the observer and the source move away from each other at the same speed $v$ with respect to the ground (as shown in Case 2 in the figure), the observer measures the frequency of sound to be $n \\mathrm{~Hz}$. The value of $n$ is ______\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZKDErnGghgPmAaQqZREWpW5yPUGLkccTdXbtWMkhTbA.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 200,
+    "solution_text": "Frequency received by observer $f_0=\\left(\\frac{C \\pm V_0}{C \\pm V_S}\\right) f_{\\mathrm{s}}$, C is speed of sound\nCase-1:\n$\\begin{aligned} & \\mathrm{f}_1=\\left(\\frac{\\mathrm{C}+\\mathrm{V}}{\\mathrm{C}-\\mathrm{V}}\\right) \\mathrm{f}_{\\mathrm{s}} \\\\ & 288=\\left(\\frac{\\mathrm{C}+\\mathrm{V}}{\\mathrm{C}-\\mathrm{V}}\\right) 240\\end{aligned}$\nCase-2:\n$f_2=\\left(\\frac{C-V}{C+V}\\right) f_S$\n$\\mathrm{n}=\\left(\\frac{\\mathrm{C}-\\mathrm{V}}{\\mathrm{C}+\\mathrm{V}}\\right) 240$\nmultiply the two equations, we get.\n$\\begin{aligned} & (288)(\\mathrm{n})=(240)(240) \\\\ & \\mathrm{n}=200\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16aa7f23ac7d519f9b663",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are two identical sound sources of frequency <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>656</mn><mo>&#160;</mo><mi>Hz</mi></math>. The source&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;is located at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math> moves anti-clockwise with a uniform speed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msqrt><mn>2</mn></msqrt><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>&nbsp;on a circular path around <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>, as shown in the figure. There are three points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mo>&#160;</mo><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> on this path such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> are diametrically opposite while <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> is equidistant from them. A sound&nbsp;detector is placed at point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>. The source <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math> can move along direction <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>P</mi></math>.</p>\n\n<p>[Given: The speed of sound in air is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>324</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>]</p>\n\n<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2ccb586b-f0a0-4329-b62a-091f10e6cc9f.png\" style=\"width: 200px; height: 226px;\" /></p>\n<br>Consider both sources emitting sound. When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;is at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;approaches the detector with a speed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>,&nbsp;the beat frequency measured by the detector is _____&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Hz</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8.2",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1729a4c3-65cb-44fe-aa8f-31f796efe0a3.png\" style=\"width: 200px; height: 223px;\" /></p><p>Given:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>0</mn></msub><mo>=</mo><mn>656</mn><mo>&#160;</mo><mi>Hz</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>324</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>Frequency heard due to movement of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>S</mi><mn>1</mn></msub><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><mfenced><mfrac><mi>v</mi><mrow><mi>v</mi><mo>-</mo><msub><mi>u</mi><mi>s</mi></msub></mrow></mfrac></mfenced><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>324</mn><mrow><mn>324</mn><mo>-</mo><mn>4</mn></mrow></mfrac><mo>&#215;</mo><mn>656</mn><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mn>324</mn><mn>320</mn></mfrac><mo>&#215;</mo><mn>656</mn></math></p><p>And frequency heard due to movement of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>S</mi><mn>2</mn></msub><mo>)</mo></math>&nbsp;would be same as that of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>0</mn></msub></math>, because the direction of velocity at position&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is perpendicular to the line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>R</mi></math>, so there is no relative change in position at that moment.&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>2</mn></msub><mo>=</mo><mn>656</mn><mo>&#160;</mo><mi>Hz</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;Beat frequency&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>f</mi><mo>=</mo><msub><mi>f</mi><mn>1</mn></msub><mo>-</mo><msub><mi>f</mi><mn>2</mn></msub><mo>=</mo><mn>656</mn><mfenced><mrow><mfrac><mn>324</mn><mn>320</mn></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#8710;</mo><mi>f</mi><mo>=</mo><mn>8</mn><mo>.</mo><mn>2</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16aa7f23ac7d519f9b662",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are two identical sound sources of frequency <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>656</mn><mo>&#160;</mo><mi>Hz</mi></math>. The source&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;is located at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math> moves anti-clockwise with a uniform speed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msqrt><mn>2</mn></msqrt><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>&nbsp;on a circular path around <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>, as shown in the figure. There are three points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mo>&#160;</mo><mi>Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> on this path such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> are diametrically opposite while <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> is equidistant from them. A sound&nbsp;detector is placed at point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>. The source <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math> can move along direction <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>P</mi></math>.</p>\n\n<p>[Given: The speed of sound in air is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>324</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>]</p>\n\n<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2ccb586b-f0a0-4329-b62a-091f10e6cc9f.png\" style=\"width: 200px; height: 226px;\" /></p>\n<br>When only <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math> is emitting sound and it is at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>, the frequency of sound measured by the detector in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Hz</mi></math> is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "648",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5cb2cf53-3ac7-42a1-8ec0-b30bbe403f1e.png\" style=\"width: 200px; height: 213px;\" /></p><p>Given: Source frequency,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>0</mn></msub><mo>=</mo><mn>656</mn><mo>&#160;</mo><mi>Hz</mi></math>.</p><p>Velocity of sound</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>324</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p><p>Velocity component of the source moving away from detector along like&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mi>s</mi></msub><mo>=</mo><mn>4</mn><msqrt><mn>2</mn></msqrt><mi>cos</mi><msup><mn>45</mn><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p><p>Therefore, apparent frequency,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>=</mo><mfenced><mfrac><mi>v</mi><mrow><mi>v</mi><mo>+</mo><msub><mi>v</mi><mi>s</mi></msub></mrow></mfrac></mfenced><msub><mi>f</mi><mn>0</mn></msub><mo>=</mo><mfenced><mfrac><mn>324</mn><mrow><mn>324</mn><mo>+</mo><mn>4</mn></mrow></mfrac></mfenced><mn>656</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>f</mi><mo>=</mo><mn>648</mn><mo>&#160;</mo><mi>Hz</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16a7df23ac7d519f9b4e6",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "A stationary tuning fork is in resonance with an air column in a pipe. If the tuning fork is moved with a speed of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> in front of the open end of the pipe and parallel to it, the length of the pipe should be changed for the resonance to occur with the moving tuning fork. If the speed of sound in air is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>320</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo></math> the smallest value of the percentage change required in the length of the pipe is ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.62",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>=</mo><mfrac><mi>v</mi><mrow><mn>4</mn><msub><mi>L</mi><mn>1</mn></msub></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mfrac><mrow><mn>320</mn><mo>+</mo><mn>0</mn></mrow><mrow><mn>320</mn><mo>-</mo><mn>2</mn></mrow></mfrac></mfenced><mo>=</mo><mfrac><mi>v</mi><mrow><mn>4</mn><msub><mi>L</mi><mn>2</mn></msub></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><msub><mi>L</mi><mn>2</mn></msub><msub><mi>L</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><mn>318</mn><mn>320</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><msub><mi>L</mi><mn>1</mn></msub><mo>-</mo><msub><mi>L</mi><mn>2</mn></msub></mrow><msub><mi>L</mi><mn>1</mn></msub></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mfrac><mn>318</mn><mn>320</mn></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>320</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>&#916;</mi><mi>L</mi></mrow><mi>L</mi></mfrac><mo>&#215;</mo><mn>100</mn><mo>%</mo><mo>=</mo><mfrac><mn>20</mn><mn>32</mn></mfrac><mo>%</mo><mo>=</mo><mn>0</mn><mo>.</mo><mn>62</mn><mo>%</mo></math></p>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16a71f23ac7d519f9b47a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>A train <math><mi mathvariant=\"normal\">S</mi><mn>1</mn><mo>,</mo></math> moving with a uniform velocity of <math><mn>108</mn><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">m</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">h</mi><mo>,</mo></mrow></mrow></math> approaches another train <math><mi mathvariant=\"normal\">S</mi><mn>2</mn></math> standing on a platform. An observer <math><mi mathvariant=\"normal\">O</mi></math> moves with a uniform velocity of <math><mn>36</mn><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">m</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">h</mi></mrow></mrow></math> towards <math><mi mathvariant=\"normal\">S</mi><mn>2</mn><mo>,</mo></math> as shown in figure. Both the trains are blowing whistles of same frequency <math><mn>120</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">z</mi><mo>.</mo></math> When <math><mi mathvariant=\"normal\">O</mi></math> is <math><mn>600</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi></math> away from <math><mi mathvariant=\"normal\">S</mi><mn>2</mn></math> and distance between <math><mi mathvariant=\"normal\">S</mi><mn>1</mn></math> and <math><mi mathvariant=\"normal\">S</mi><mn>2</mn></math> is <math><mn>800</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mo>,</mo></math> the number of beats heard by <math><mi mathvariant=\"normal\">O</mi></math> is____<br >[Speed of the sound <math><mo>=</mo><mn>330</mn><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">m</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">s</mi></mrow></mrow><mo>]</mo></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jrsfbwonvkihjljzxvhvzobverzcjngrtuiuvlamgpmpmhuwhw.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8.128",
+    "solution_text": "<p>Speed of sound= <math><mn>300</mn><mfrac><mrow><mi>m</mi></mrow><mrow><mi>s</mi></mrow></mfrac></math><br >Calculate beat <math><msub><mrow><mi>f</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">q</mi></mrow></msub></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/atftfmxxgspmmqtatyctxtuxhzwnhfkhzxovdhgspojrzoaiko.png\"/><br ><math><msub><mrow><mi>f</mi></mrow><mrow><mi>b</mi></mrow></msub><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math><br >Where, <math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are the apparent frequencies of train <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> observed by observer.<br ><math><mo>∴</mo></math> Using Doppler's effect,<br ><math><mo>⇒</mo><msub><mrow><mi>f</mi></mrow><mrow><mi>b</mi></mrow></msub><mo>=</mo><mn>120</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>330</mn><mo>+</mo><mn>10</mn><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>53</mn><mo>°</mo></mrow><mrow><mn>330</mn><mo>-</mo><mn>30</mn><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">s</mi><mn>37</mn><mo>°</mo></mrow></mfrac></mrow></mfenced><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>330</mn><mo>+</mo><mn>10</mn></mrow><mrow><mn>330</mn></mrow></mfrac></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>120</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>336</mn></mrow><mrow><mn>306</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>34</mn></mrow><mrow><mn>33</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>8.128</mn><mtext> </mtext><mi>H</mi><mi>z</mi></math></p>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16a65f23ac7d519f9b405",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "Two men are walking along a horizontal straight line in the same direction. The man in front walks at a speed <math><mn>1.0</mn><mi>&#160;</mi><mi>m</mi><mi>&#160;</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and the man behind walks at a speed <math><mn>2.0</mn><mi>&#160;</mi><mi>m</mi><mi>&#160;</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . A third man is standing at a height <math><mn>12</mn><mi>&#160;</mi><mi>m</mi></math> above the same horizontal line such that all three men are in a vertical plane. The two walking men are blowing identical whistles which emit a sound of frequency <math><mn>1430</mn><mi>&#160;</mi><mi>H</mi><mi>z</mi></math> . The speed of sound in air is <math><mn>330</mn><mi>&#160;</mi><mi>m</mi><mi>&#160;</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math> At the instant, when the moving men are <math><mn>10</mn><mi>&#160;</mi><mi>m</mi></math> apart, the stationary man is equidistant from them. The frequency of beats in <math><mi>H</mi><mi>z</mi></math> , heard by the stationary man at this instant, is __________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8_solu_phys123.jpg\"/> <br ><math><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>13</mn></mrow></mfrac></math><br ><math><msub><mrow><mi>f</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mn>1430</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>330</mn></mrow><mrow><mn>330</mn><mo>-</mo><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>1430</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>330</mn></mrow></mfrac></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>1430</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>330</mn></mrow></mfrac></mrow></mfenced></math> (By binomial expansion)<br ><math><msub><mrow><mi>f</mi></mrow><mrow><mi>B</mi></mrow></msub><mo>=</mo><mn>1430</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>330</mn></mrow><mrow><mn>330</mn><mo>+</mo><mn>1</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>1430</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>330</mn></mrow></mfrac></mrow></mfenced></math><br ><math><mo>∆</mo><mi>f</mi><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>-</mo><msub><mrow><mi>f</mi></mrow><mrow><mi>B</mi></mrow></msub><mo>=</mo><mn>1430</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>330</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>13</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></math><br ><math><mo>=</mo><mi> </mi><mi> </mi><mn>13</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>13</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>5.00</mn><mi>H</mi><mi>z</mi></math>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b39d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "A stationary source emits sound of frequency <math><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>492</mn><mi>&#160;</mi><mi>H</mi><mi>z</mi></math> . The sound is reflected by a large car approaching the source with a speed of <math><mn>2</mn><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . The reflected signal is received by the source and superposed with the original. What will be the beat frequency of the resulting signal in Hz? (Given that the speed of sound in air is 330 <math><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and the car reflects the sound at the frequency it has received).",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>Frequency of sound as received by large car approaching the source.</p><p><math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi>C</mi><mo>+</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>C</mi></mrow></mfrac><mi>&nbsp;</mi><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>330</mn><mo>+</mo><mn>2</mn></mrow><mrow><mn>330</mn></mrow></mfrac></mrow></mfenced><mn>492</mn><mi>&nbsp;</mi><mi>H</mi><mi>z</mi><mo>.</mo></math></p><p>This car now acts as source for reflected sound wave</p><p><math><mo>&there4;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>f</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">d</mi></mrow></msub><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub></math></p><p>Frequency of sound received by source,</p><p><math><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>C</mi></mrow><mrow><mi>C</mi><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mfenced><mi>&nbsp;</mi><msub><mrow><mi>f</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">d</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>330</mn></mrow><mrow><mn>330</mn><mo>-</mo><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>&times;</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>330</mn></mrow><mrow><mn>328</mn></mrow></mfrac><mo>&times;</mo><mfrac><mrow><mn>332</mn></mrow><mrow><mn>330</mn></mrow></mfrac><mo>&times;</mo><mn>492</mn><mi>H</mi><mi>z</mi></math></p><p><math><mo>&there4;</mo><mi>&nbsp;</mi></math>&nbsp;&nbsp;Beat frequency&nbsp;<math><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>332</mn></mrow><mrow><mn>328</mn></mrow></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced><mo>&times;</mo><mn>492</mn><mi>&nbsp;</mi><mi>H</mi><mi>z</mi></math></p><p><math><mo>=</mo><mn>6</mn><mi>&nbsp;</mi><mi>H</mi><mi>z</mi></math></p>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b1ff",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "Two vehicles, each moving with speed u on&nbsp; the same horizontal straight road, are approaching each other. Wind blows along the road with velocity w. One of these vehicles blows a whistle of frequency f<sub>1</sub>. An observer in the other vehicle hears the frequency of the whistle to be f<sub>2</sub>. The speed of sound in still air is V. The correct statement (s) is (are) :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aaRJG",
+        "text": "If the wind blows from the observer to the source, f<sub>2</sub> &gt; f<sub>1</sub>.",
+        "image": null
+      },
+      {
+        "id": "wuk50",
+        "text": "If the wind blows from the source to the observer, f<sub>2</sub> &gt; f<sub>1</sub>.",
+        "image": null
+      },
+      {
+        "id": "ESBGS",
+        "text": "If the wind blows from the observer to the source, f<sub>2</sub> &lt; f<sub>1</sub>.",
+        "image": null
+      },
+      {
+        "id": "vJ2jq",
+        "text": "If the wind blows from the source to the observer, f<sub>2</sub> &lt; f<sub>1</sub>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "wuk50",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012660_AnsExp2_1.jpg\" style=\"width: 418px; height: 128px;\" /><br /><br />If wind blows from source to observer<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <math> <mrow> <msub> <mtext>f</mtext> <mn>2</mn> </msub> <mo>=</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>v</mtext> <mo>+</mo> <mtext>w</mtext> </mrow> </mfenced> <mo>+</mo> <mtext>u</mtext> </mrow> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>v</mtext> <mo>+</mo> <mtext>w</mtext> </mrow> </mfenced> <mo>-</mo> <mtext>u</mtext> </mrow> </mfrac> </mrow> </mfenced> <msub> <mtext>&nbsp;f</mtext> <mn>1</mn> </msub> </mrow> </math><br /><math> <mrow> <mo>&rArr;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</mo> <msub> <mtext>f</mtext> <mn>2</mn> </msub> <mo>&gt;</mo> <msub> <mtext>f</mtext> <mn>1</mn> </msub> </mrow> </math><br />If wind blows from observer to source<br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012660_AnsExp2_2.jpg\" style=\"width: 401px; height: 136px;\" /><br /><math> <mrow> <msub> <mtext>f</mtext> <mn>2</mn> </msub> <mo>=</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>v</mtext> <mo>-</mo> <mtext>w</mtext> </mrow> </mfenced> <mo>+</mo> <mtext>u</mtext> </mrow> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>v</mtext> <mo>-</mo> <mtext>w</mtext> </mrow> </mfenced> <mo>-</mo> <mtext>u</mtext> </mrow> </mfrac> </mrow> </mfenced> <msub> <mtext>&nbsp;f</mtext> <mn>1</mn> </msub> </mrow> </math><br /><math> <mrow> <mo>&rArr;&nbsp;</mo> <msub> <mtext>f</mtext> <mn>2</mn> </msub> <mo>&gt;</mo> <msub> <mtext>f</mtext> <mn>1</mn> </msub> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b16a0af23ac7d519f9b0c9",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A police car with a siren of frequency $8 \\mathrm{kHz}$ is moving with uniform velocity $36 \\mathrm{~km} / \\mathrm{h}$ towards a tall building which reflects the sound waves. The speed of sound in air is $320 \\mathrm{~m} / \\mathrm{s}$. The frequency of the siren heard by the car driver is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eMz6T",
+        "text": "\n$8.50 \\mathrm{kHz}$\n",
+        "image": null
+      },
+      {
+        "id": "6IdxO",
+        "text": "\n$8.25 \\mathrm{kHz}$\n",
+        "image": null
+      },
+      {
+        "id": "I4ENZ",
+        "text": "\n$7.75 \\mathrm{kHz}$\n",
+        "image": null
+      },
+      {
+        "id": "guAYx",
+        "text": "\n$7.50 \\mathrm{kHz}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "eMz6T",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/N3B2m51q3dVOLcZ5J59iF2tGdvIQA5PNpL1HMwO7NI0.original.fullsize.png\"><br>\nApparent frequency of sound heard by car driver (observer) reflected from the building will be\n$$\n\\begin{aligned}\nf^{\\prime} & =f\\left(\\frac{v+v_0}{v-v_s}\\right) \\\\\n& =8\\left(\\frac{320+10}{320-10}\\right) \\\\\n& =8.5 \\mathrm{kHz}\n\\end{aligned}\n$$\n$\\therefore$ Correct option is (a).\nAnalysis of Question\n(i) Question is simple.\n(ii) Driver will listen two sounds, direct and reflected. Direct sound will be of $8 \\mathrm{kHz}$ as driver has no relative motion with the car. But reflected sound is of increased frequency because driver and image of car both are approaching towards each other.",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b04a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A stationary source is emitting sound at a fixed frequency $f_0$, which is reflected by two cars approaching the source. The difference between the frequencies of sound reflected from the cars is $1.2 \\%$ of $f_0$. What is the difference in the speeds of the cars (in km per hour) to the nearest integer ? The cars are moving at constant speeds much smaller than the speed of sound which is $330 \\mathrm{~ms}^{-1}$.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "Firstly, car will be treated as an observer which is approaching the source. Then, it will be treated as a source, which is moving in the direction of sound.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/D31ONv5MKojv2wN20KPcx_S2EmT-1I0UavavMug4QkI.original.fullsize.png\"><br>\nHence, $\\quad f_1=f_0\\left(\\frac{v+v_1}{v-v_1}\\right)$\n$$\n\\begin{aligned}\nf_2 & =f_0\\left(\\frac{v+v_2}{v-v_2}\\right) \\\\\n\\therefore \\quad f_1-f_2 & =\\left(\\frac{1.2}{100}\\right) f_0 \\\\\n& =f_0\\left[\\frac{v+v_1}{v-v_1}-\\frac{v+v_2}{v-v_2}\\right] \\\\\n\\text { or }\\left(\\frac{1.2}{100}\\right) f_0 & =\\frac{2 v\\left(v_1-v_2\\right)}{\\left(v-v_1\\right)\\left(v-v_2\\right)} f_0\n\\end{aligned}\n$$\nAs $v_1$ and $v_2$ are very very less than $v$. We can write, $\\left(v-v_1\\right)$ or $\\left(v-v_2\\right) \\approx v$\n$$\n\\therefore \\quad\\left(\\frac{1.2}{100}\\right) f_0=\\frac{2\\left(v_1-v_2\\right)}{v} f_0\n$$\nor $\\left(v_1-v_2\\right)=\\frac{v \\times 1.2}{200}$\n$$\n\\begin{aligned}\n& =\\frac{330 \\times 1.2}{200}=1.98 \\mathrm{~ms}^{-1} \\\\\n& =7.128 \\mathrm{kmh}^{-1}\n\\end{aligned}\n$$\n$\\therefore$ The nearest integer is 7 .\nHence, $\\quad f_1=f_0\\left(\\frac{v+v_1}{v-v_1}\\right)$\n$$\n\\begin{aligned}\nf_2 & =f_0\\left(\\frac{v+v_2}{v-v_2}\\right) \\\\\n\\therefore \\quad f_1-f_2 & =\\left(\\frac{1.2}{100}\\right) f_0 \\\\\n& =f_0\\left[\\frac{v+v_1}{v-v_1}-\\frac{v+v_2}{v-v_2}\\right] \\\\\n\\text { or }\\left(\\frac{1.2}{100}\\right) f_0 & =\\frac{2 v\\left(v_1-v_2\\right)}{\\left(v-v_1\\right)\\left(v-v_2\\right)} f_0\n\\end{aligned}\n$$\nAs $v_1$ and $v_2$ are very very less than $v$. We can write, $\\left(v-v_1\\right)$ or $\\left(v-v_2\\right) \\approx v$\n$$\n\\therefore \\quad\\left(\\frac{1.2}{100}\\right) f_0=\\frac{2\\left(v_1-v_2\\right)}{v} f_0\n$$\nor $\\left(v_1-v_2\\right)=\\frac{v \\times 1.2}{200}$\n$$\n\\begin{aligned}\n& =\\frac{330 \\times 1.2}{200}=1.98 \\mathrm{~ms}^{-1} \\\\\n& =7.128 \\mathrm{kmh}^{-1}\n\\end{aligned}\n$$\n$\\therefore$ The nearest integer is 7 .",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b169d9f23ac7d519f9af09",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTwo trains $A$ and $B$ are moving with speeds $20 \\mathrm{~m} / \\mathrm{s}$ and $30 \\mathrm{~m} / \\mathrm{s}$, respectively in the same direction on the same straight track, with $B$ ahead of $A$. The engines are at the front ends. The engine of train $A$ blows a long whistle.\nAssume that the sound of the whistle is composed of components varying in frequency from $f_1=800 \\mathrm{~Hz}$ to $f_2=1120 \\mathrm{~Hz}$, as shown in the figure. The spread in the frequency (highest frequency - lowest frequency) is thus $320 \\mathrm{~Hz}$. The speed of sound in still air is $340 \\mathrm{~m} / \\mathrm{s}$.<strong>Question:</strong>\nThe spread of frequency as observed by the passengers in train $B$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AymNJ",
+        "text": "\n$310 \\mathrm{~Hz}$\n",
+        "image": null
+      },
+      {
+        "id": "86u01",
+        "text": "\n$330 \\mathrm{~Hz}$\n",
+        "image": null
+      },
+      {
+        "id": "YAyj6",
+        "text": "\n$350 \\mathrm{~Hz}$\n",
+        "image": null
+      },
+      {
+        "id": "UoErS",
+        "text": "\n$290 \\mathrm{~Hz}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "AymNJ",
+    "solution_text": "For the passengers in train $B$, observer is receding with velocity $30 \\mathrm{~m} / \\mathrm{s}$ and source is approaching with velocity $20 \\mathrm{~m} / \\mathrm{s}$.\n$$\n\\begin{array}{ll}\n\\therefore & f_1^{\\prime}=800\\left(\\frac{340-30}{340-20}\\right)=775 \\mathrm{~Hz} \\\\\n\\text { and } & f_2^{\\prime}=1120\\left(\\frac{340-30}{340-20}\\right)=1085 \\mathrm{~Hz}\n\\end{array}\n$$\n$\\therefore$ Spread of frequency $=f_2^{\\prime}-f_1^{\\prime}=310 \\mathrm{~Hz}$\n$\\therefore$ The correct option is (a).",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b169d9f23ac7d519f9af08",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTwo trains $A$ and $B$ are moving with speeds $20 \\mathrm{~m} / \\mathrm{s}$ and $30 \\mathrm{~m} / \\mathrm{s}$, respectively in the same direction on the same straight track, with $B$ ahead of $A$. The engines are at the front ends. The engine of train $A$ blows a long whistle.\nAssume that the sound of the whistle is composed of components varying in frequency from $f_1=800 \\mathrm{~Hz}$ to $f_2=1120 \\mathrm{~Hz}$, as shown in the figure. The spread in the frequency (highest frequency - lowest frequency) is thus $320 \\mathrm{~Hz}$. The speed of sound in still air is $340 \\mathrm{~m} / \\mathrm{s}$.<strong>Question:</strong>\nThe distribution of the sound intensity of the whistle as observed by the passengers in train $A$ is best represented by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2nyfs",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wuRCJ2p_bfYdDJSOFw6Xk5oB-j7w1f8xArEYG8U5Uu4.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "RYOmC",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ktxPSlK8a2B-ksEERi-lD0bu5uxiJe879x73_NGcvEM.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "eab3U",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/DnDjD3b9B_OXJDBIUUi6oUxY0Zg3nn-sBM89IXlnNVk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "PLKbi",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/E-mFj8r40_dvAtzRiOOOAim0H1RWUHeOZYo95ZfPIjE.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2nyfs",
+    "solution_text": "For the passengers in train $A$, there is no relative motion between source and observe, as both are moving with velocity $20 \\mathrm{~m} / \\mathrm{s}$. Therefore, there is no change in observed frequencies and correspondingly there is no change in their intensities. Therefore, the correct option is (a).",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "64b169d9f23ac7d519f9af07",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTwo trains $A$ and $B$ are moving with speeds $20 \\mathrm{~m} / \\mathrm{s}$ and $30 \\mathrm{~m} / \\mathrm{s}$, respectively in the same direction on the same straight track, with $B$ ahead of $A$. The engines are at the front ends. The engine of train $A$ blows a long whistle.\nAssume that the sound of the whistle is composed of components varying in frequency from $f_1=800 \\mathrm{~Hz}$ to $f_2=1120 \\mathrm{~Hz}$, as shown in the figure. The spread in the frequency (highest frequency - lowest frequency) is thus $320 \\mathrm{~Hz}$. The speed of sound in still air is $340 \\mathrm{~m} / \\mathrm{s}$.<strong>Question:</strong>\nThe speed of sound of the whistle is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "R1hkA",
+        "text": "\n$340 \\mathrm{~m} / \\mathrm{s}$ for passengers in $A$ and $310 \\mathrm{~m} / \\mathrm{s}$ for passengers in $B$\n",
+        "image": null
+      },
+      {
+        "id": "sCQgO",
+        "text": "\n$360 \\mathrm{~m} / \\mathrm{s}$ for passengers in $A$ and $310 \\mathrm{~m} / \\mathrm{s}$ for passengers in $B$\n",
+        "image": null
+      },
+      {
+        "id": "kvD7Y",
+        "text": "\n$310 \\mathrm{~m} / \\mathrm{s}$ for passengers in $A$ and $360 \\mathrm{~m} / \\mathrm{s}$ for passengers in $B$\n",
+        "image": null
+      },
+      {
+        "id": "d9TKD",
+        "text": "\n$340 \\mathrm{~m} / \\mathrm{s}$ for passengers in both the trains",
+        "image": null
+      }
+    ],
+    "correct_answer": "sCQgO",
+    "solution_text": "$v_{S A}=340+20=360 \\mathrm{~m} / \\mathrm{s}$ $v_{S B}=340-30=310 \\mathrm{~m} / \\mathrm{s}$\nTherefore, correct option is (b).",
+    "solution_image": null,
+    "topic": "Doppler's Effect"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cbe",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "An audio transmitter $(T)$ and a receiver $(R)$ are hung vertically from two identical massless strings of length 8 m with their pivots well separated along the $X$ axis. They are pulled from the equilibrium position in opposite directions along the $X$ axis by a small angular amplitude $\\theta_0=\\cos ^{-1}(0.9)$ and released simultaneously. If the natural frequency of the transmitter is 660 Hz and the speed of sound in air is $330 \\mathrm{~m} / \\mathrm{s}$, the maximum variation in the frequency (in Hz ) as measured by the receiver (Take the acceleration due to gravity $g=10 \\mathrm{~m} / \\mathrm{s}^2$ ) is $\\qquad$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GSok0tMYmCecwkVyYs6Xl7h362pzV8hMq6iU6CfsNv4.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "31.19",
+    "solution_text": "$\\begin{aligned} & \\cos \\theta_0=1-\\frac{\\theta_0^2}{2}=0.9 \\\\ & \\frac{\\theta_0^2}{2}=0.1 \\Rightarrow \\theta_0=10.2=\\frac{1}{\\sqrt{5}}\\end{aligned}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/XWhDKhHZDd8Rao_yfQCqEYxQsfG2F56Z3EPKnaNCANs.original.fullsize.png\"><br>$\\begin{aligned} & f_{\\max }=\\frac{v+v^{\\prime}}{v-v^{\\prime}} f \\\\ & f_{\\min }=\\frac{v-v^{\\prime}}{v+v^{\\prime}} f \\\\ & \\Delta f_{\\max }=f_{\\max }-f_{\\min }=\\frac{v+v^{\\prime}}{v-v^{\\prime}} f-\\frac{v-v^{\\prime}}{v+v^{\\prime}} f \\\\ & =\\frac{\\left(v+v^{\\prime}\\right)^2-\\left(v-v^{\\prime}\\right)^2}{v^2-v^{\\prime 2}} f\\end{aligned}$\n$\\Delta f_{\\max }=\\frac{4 v v^{\\prime}}{v^2-v^{\\prime 2}} f \\qquad ....(i)$\nHere, $\\mathrm{v}^{\\prime}=\\ell \\Omega_{\\max }$\n$=\\ell \\cdot \\theta_0 \\cdot \\omega \\quad(\\omega=\\text { angular frequency })$\n$\\begin{aligned} & =\\ell \\theta_0 \\sqrt{\\frac{\\mathrm{~g}}{\\ell}} \\\\ & \\mathrm{v}^{\\prime}=\\theta_0 \\sqrt{\\mathrm{~g} \\ell} \\\\ & \\mathrm{v}^{\\prime}=\\frac{1}{\\sqrt{5}} \\sqrt{10 \\times 8} \\\\ & \\mathrm{v}^{\\prime}=4\\end{aligned}$\nPut in equation (i)\n$\\begin{aligned} & \\Delta \\mathrm{f}_{\\max }=\\frac{4 \\times 330 \\times 4 \\times 660}{330^2-4^2} \\\\ & \\approx \\frac{16 \\times 330 \\times 660}{330} \\approx 32\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Doppler’s Effect"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c94",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "List-I shows four configurations made of straight and semi-circular narrow tubes containing air. A sound wave of wavelength $\\lambda = 0.29$ m enters these structures at the point $S$ and a sound detector is placed at $D$. Between the points $S$ and $D$, the sound travels only through the tubes. List-II contains the possible smallest values of $l$ (refer to the figures) for which the detector $D$ records maximum amplitude. Ignore effects of sharp corners. [Given $\\cos(15^\\circ) = 0.97$]<br>Choose the option that best describes the match between the entries in List-I to those in List-II.<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">List-I</th><th style=\"border: 1px solid black; padding: 10px;\">List-II</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(P) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q29_d1.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(1) $1.32$ m</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(Q) <img style=\"width: 220px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q29_d2.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(2) $1.19$ m</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(R) <img style=\"width: 190px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q29_d3.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(3) $0.51$ m</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(S) <img style=\"width: 220px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q29_d4.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(4) $0.29$ m</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\"></td><td style=\"border: 1px solid black; padding: 10px;\">(5) $0.13$ m</td></tr></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "m7iFg",
+        "text": "P$\\rightarrow$4, Q$\\rightarrow$3, R$\\rightarrow$5, S$\\rightarrow$1",
+        "image": null
+      },
+      {
+        "id": "GqrmD",
+        "text": "P$\\rightarrow$4, Q$\\rightarrow$3, R$\\rightarrow$1, S$\\rightarrow$5",
+        "image": null
+      },
+      {
+        "id": "1nJWi",
+        "text": "P$\\rightarrow$3, Q$\\rightarrow$4, R$\\rightarrow$1, S$\\rightarrow$2",
+        "image": null
+      },
+      {
+        "id": "jJDTe",
+        "text": "P$\\rightarrow$3, Q$\\rightarrow$4, R$\\rightarrow$5, S$\\rightarrow$2",
+        "image": null
+      }
+    ],
+    "correct_answer": "jJDTe",
+    "solution_text": "For maximum amplitude at the detector $D$, the path difference $\\Delta x$ between the two paths must be an integer multiple of the wavelength $\\lambda$. For the smallest value of $l$, we take $\\Delta x = \\lambda = 0.29$ m.<br><br>For configuration (P):<br>The sound travels through a straight tube of length $l$ and a semi-circular tube of diameter $l$.<br>Path difference $\\Delta x = \\dfrac{\\pi l}{2} - l = l\\left(\\dfrac{\\pi}{2} - 1\\right)$.<br>Equating to $\\lambda$: $l\\left(\\dfrac{3.1416}{2} - 1\\right) = 0.29 \\Rightarrow l(0.5708) = 0.29 \\Rightarrow l \\approx 0.51$ m.<br>Thus, P $\\rightarrow$ 3.<br><br>For configuration (Q):<br>The sound travels through a straight tube of length $l$ and a rectangular path of length $0.5l + l + 0.5l = 2l$.<br>Path difference $\\Delta x = 2l - l = l$.<br>Equating to $\\lambda$: $l = 0.29$ m.<br>Thus, Q $\\rightarrow$ 4.<br><br>For configuration (R):<br>The sound travels through a straight horizontal tube of length $l$ and a path consisting of a vertical tube of length $l$ followed by a semi-circular tube.<br>The diameter of the semi-circle is the hypotenuse of the right triangle formed by the tubes, which is $\\sqrt{l^2 + l^2} = l\\sqrt{2}$.<br>The length of the semi-circular part is $\\dfrac{\\pi (l\\sqrt{2})}{2} = \\dfrac{\\pi l}{\\sqrt{2}}$.<br>Path difference $\\Delta x = \\left(l + \\dfrac{\\pi l}{\\sqrt{2}}\\right) - l = \\dfrac{\\pi l}{\\sqrt{2}}$.<br>Equating to $\\lambda$: $\\dfrac{\\pi l}{\\sqrt{2}} = 0.29 \\Rightarrow l = \\dfrac{0.29 \\sqrt{2}}{\\pi} \\approx \\dfrac{0.29 \\times 1.414}{3.1416} \\approx 0.13$ m.<br>Thus, R $\\rightarrow$ 5.<br><br>For configuration (S):<br>The sound travels through a straight tube of length $l$ and a triangular path.<br>The angles of the triangle are $45^\\circ$, $105^\\circ$, and $180^\\circ - (45^\\circ + 105^\\circ) = 30^\\circ$.<br>Using the sine rule, the lengths of the other two sides are $l \\dfrac{\\sin 30^\\circ}{\\sin 105^\\circ}$ and $l \\dfrac{\\sin 45^\\circ}{\\sin 105^\\circ}$.<br>Path difference $\\Delta x = l \\dfrac{\\sin 30^\\circ + \\sin 45^\\circ}{\\sin 105^\\circ} - l$.<br>Given $\\sin 105^\\circ = \\cos 15^\\circ = 0.97$.<br>$\\Delta x = l \\left( \\dfrac{0.5 + 1/\\sqrt{2}}{0.97} - 1 \\right) \\approx l \\left( \\dfrac{0.5 + 0.707}{0.97} - 1 \\right) = l \\left( \\dfrac{1.207}{0.97} - 1 \\right) \\approx 0.244 l$.<br>Equating to $\\lambda$: $0.244 l = 0.29 \\Rightarrow l \\approx 1.19$ m.<br>Thus, S $\\rightarrow$ 2.<br><br>Matching the results, we get P $\\rightarrow$ 3, Q $\\rightarrow$ 4, R $\\rightarrow$ 5, S $\\rightarrow$ 2.<br><br>Answer: P$\\rightarrow$3, Q$\\rightarrow$4, R$\\rightarrow$5, S$\\rightarrow$2",
+    "solution_image": null,
+    "topic": "Interference and Superposition of Waves"
+  },
+  {
+    "question_id": "685102bf6bba689a3eb09c85",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Consider a system of three connected strings, $S_1, S_2$ and $S_3$ with uniform linear mass densities $\\mu \\mathrm{kg} / \\mathrm{m}$, $4 \\mu \\mathrm{~kg} / \\mathrm{m}$ and $16 \\mu \\mathrm{~kg} / \\mathrm{m}$, respectively, as shown in the figure. $S_1$ and $S_2$ are connected at the point $P$, whereas $S_2$ and $S_3$ are connected at the point $Q$, and the other end of $S_3$ is connected to a wall. A wave generator O is connected to the free end of $S_1$. The wave from the generator is represented by $y=y_0$ $\\cos (\\omega t-k x) \\mathrm{cm}$, where $y_0, \\omega$ and $k$ are constants of appropriate dimensions. Which of the following statements is/are correct:<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ihs842YMV7nAG7hW_4Cs6H3hG_M7bn0_DDdbMJ--Zo8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zQi8w",
+        "text": "When the wave reflects from $P$ for the first time, the reflected wave is represented by $y=\\alpha_1 \\mathrm{y}_0 \\cos (\\omega t+k x+\\pi) \\mathrm{cm}$, where $\\alpha_1$ is a positive constant.",
+        "image": null
+      },
+      {
+        "id": "qz5Ar",
+        "text": "When the wave transmits through $P$ for the first time, the transmitted wave is represented by $y=\\alpha_2 \\mathrm{y}_0 \\cos (\\omega t-k x) \\mathrm{cm}$, where $\\alpha_2$ is a positive constant.",
+        "image": null
+      },
+      {
+        "id": "Jx8Or",
+        "text": "When the wave reflects from $Q$ for the first time, the reflected wave is represented by $y=\\alpha_3 y_0 \\cos (\\omega t-k x+\\pi) \\mathrm{cm}$, where $\\alpha_3$ is a positive constant.",
+        "image": null
+      },
+      {
+        "id": "moVd2",
+        "text": "When the wave transmits through $Q$ for the first time, the transmitted wave is represented by $y=\\alpha_4 y_0 \\cos (\\omega t-4 k x) \\mathrm{cm}$, where $\\alpha_4$ is a positive constant.",
+        "image": null
+      }
+    ],
+    "correct_answer": "moVd2",
+    "solution_text": "(A) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sEXL2-B9yMD1lNgkx4oTOpHCLlozP9e-O9mnZDclg0o.original.fullsize.png\"><br>$y_1=y_0 \\cos (\\omega t-k x)$\nwhen wave going from Rarer to Denser,\n$\\begin{aligned} & y_r=A_r \\cos (\\omega t+k x+\\pi) \\\\ & y_r=a_1 y_0 \\cos (\\omega t+k x+\\pi)\\end{aligned}$\noption (A) correct\n(B) For transmitted from point P\n$\\begin{aligned} & \\mathrm{y}_{\\mathrm{t}}=\\mathrm{A}_{\\mathrm{t}} \\cos \\left[\\omega \\mathrm{t}-\\mathrm{k}_1 \\mathrm{x}\\right] \\\\ & \\frac{\\mathrm{k}_1}{\\mathrm{k}}=\\sqrt{\\frac{\\mu_1}{\\mu}}=\\frac{\\mathrm{k}_1}{\\mathrm{k}}=\\sqrt{\\frac{4 \\mu}{\\mu}} \\\\ & \\mathrm{k}_1=2 \\mathrm{k} \\\\ & \\mathrm{y}_{\\mathrm{t}}=\\mathrm{a}_2 \\mathrm{y}_0 \\cos [\\omega \\mathrm{t}-2 \\mathrm{kx}]\\end{aligned}$\noption (B) incorrect\n(C) when reflected from Q\n$\\begin{aligned} & y_i=a_2 y_0 \\cos [\\omega t-2 k x] \\\\ & y_r=a_3 y_0 \\cos [\\omega t+2 k x+\\pi]\\end{aligned}$\noption (C) incorrect\n(D) when transmitted from Q\n$\\begin{aligned} & y_{\\mathrm{t}}=a_4 y_0 \\cos \\left[\\omega \\mathrm{t}=k_2 \\mathrm{x}\\right] \\\\ & \\frac{k_2}{2 \\mathrm{k}}=\\sqrt{\\frac{16 \\mu}{4 \\mu}} \\Rightarrow k_2=4 \\mathrm{k} \\\\ & y_{\\mathrm{t}}=a_4 y_0 \\cos [\\omega \\mathrm{t}-4 \\mathrm{kx}]\\end{aligned}$\noption (D) correct",
+    "solution_image": null,
+    "topic": "Interference and Superposition of Waves"
+  },
+  {
+    "question_id": "64b16a6af23ac7d519f9b439",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "In an experiment to measure the speed of sound by a resonating air column, a tuning fork of frequency <math><mn>500</mn><mi>&#160;</mi><mi>H</mi><mi>z</mi></math> is used. The length of the air column is varied by changing the level of water in the resonance tube. Two successive resonances are heard at air columns of length <math><mn>50.7</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mn>83.9</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi></math> . Which of the following statements is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wLC0A",
+        "text": "The speed of sound determined from this experiment is  <math><mn>332</mn><mi> </mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "OybnR",
+        "text": "The end correction in this experiment is  <math><mn>0.9</mn><mi> </mi><mi>c</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "vaYbb",
+        "text": "The wavelength of the sound wave is  <math><mn>66.4</mn><mi>c</mi><mi>m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "H03Ix",
+        "text": "The resonance at  <math><mn>50.7</mn><mi>c</mi><mi>m</mi></math>  corresponds to the fundamental harmonic",
+        "image": null
+      }
+    ],
+    "correct_answer": "vaYbb",
+    "solution_text": "Let <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub></math> harmonic is corresponding to <math><mn>50.7</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub></math> harmonic is corresponding <math><mn>83.9</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi></math> . since both one consecutive harmonics.<br /><math><mo>&#8756;</mo><mi>&#160;</mi></math> There difference <math><mo>=</mo><mfrac><mrow><mi>&#955;</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mfrac><mrow><mi>&#955;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfenced separators=\"|\"><mrow><mn>83.9</mn><mo>-</mo><mn>50.7</mn></mrow></mfenced><mi>c</mi><mi>m</mi></math><br /><math><mfrac><mrow><mi>&#955;</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mn>33.2</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi></math><br /><math><mi>&#955;</mi><mo>=</mo><mn>66.4</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mfrac><mrow><mi>&#955;</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mn>16.6</mn><mi>c</mi><mi>m</mi></math><br />length corresponding to fundamental mode must be close to <math><mfrac><mrow><mi>&#955;</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mn>50.7</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi></math> must be an odd multiple of this length <math><mn>16.6</mn><mi>&#160;</mi><mo>&#215;</mo><mi>&#160;</mi><mn>3</mn><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mn>49.8</mn><mi>&#160;</mi><mi>c</mi><mi>m</mi></math> . therefore <math><mi>&#160;</mi><mn>50.7</mn><mi>&#160;</mi><mi>i</mi><mi>s</mi><mi>&#160;</mi><msup><mrow><mn>3</mn></mrow><mrow><mi>r</mi><mi>d</mi></mrow></msup></math> harmonic<br />If end correction is e, then<br /><math><mi>e</mi><mo>+</mo><mn>50.7</mn><mo>=</mo><mfrac><mrow><mn>3</mn><mi>&#955;</mi></mrow><mrow><mn>4</mn></mrow></mfrac></math><br /><math><mi>e</mi><mo>=</mo><mn>49.8</mn><mo>-</mo><mn>50.7</mn><mo>=</mo><mn>0.9</mn><mi>c</mi><mi>m</mi></math><br />Speed of sound, <math><mi>c</mi><mo>=</mo><mi>f</mi><mi>&#955;</mi></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>v</mi><mo>=</mo><mn>500</mn><mo>&#215;</mo><mn>66.4</mn><mrow><mrow><mi>c</mi><mi>m</mi></mrow><mo>/</mo><mrow><mi>s</mi><mi>e</mi><mi>c</mi></mrow></mrow><mo>=</mo><mn>332.000</mn><mrow><mrow><mi>m</mi></mrow><mo>/</mo><mrow><mi>s</mi><mi>e</mi><mi>c</mi></mrow></mrow></math>",
+    "solution_image": null,
+    "topic": "Interference and Superposition of Waves"
+  },
+  {
+    "question_id": "64b16a46f23ac7d519f9b2ef",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Four harmonic waves of equal frequencies and equal intensities <math><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>0</mn></mrow></msub></math> have phase angles <math><mn>0</mn><mo>,</mo><mfrac><mrow><mi mathvariant=\"normal\">&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math> and <math><mi mathvariant=\"normal\">&#960;</mi></math> . When they are superposed, the intensity of the resulting wave is <math><mi mathvariant=\"normal\">n</mi><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>0</mn></mrow></msub></math> . The value of <math><mi mathvariant=\"normal\">n</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<p>Let amplitude of individual wave is A<br >Then by using phasor method<br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image8-e8ca7198-dd34-45d2-9c44-f21b1fbdca50.jpg\"/> <br >So resultant amplitude <math><msubsup><mrow><mi>A</mi></mrow><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mn>60</mn></mrow></mrow></math> <br > <math><mo>∴</mo><msubsup><mrow><mi>A</mi></mrow><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mn>3</mn><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br > <math><mo>∴</mo><msub><mrow><mi>I</mi></mrow><mrow><mi>r</mi></mrow></msub><mo>=</mo><mn>3</mn><msub><mrow><mi>I</mi></mrow><mrow><mn>0</mn></mrow></msub></math></p>",
+    "solution_image": null,
+    "topic": "Interference and Superposition of Waves"
+  },
+  {
+    "question_id": "64b169c6f23ac7d519f9ae5a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTwo plane harmonic sound waves are expressed by the equations.\n$$\n\\begin{aligned}\n& y_1(x, t)=A \\cos (0.5 \\pi x-100 \\pi t) \\\\\n& y_2(x, t)=A \\cos (0.46 \\pi x-92 \\pi t)\n\\end{aligned}\n$$\n(All parameters are in MKS)<strong>Question:</strong>\nAt $x=0$ how many times the amplitude of $y_1+y_2$ is zero in one second at $x=0$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7UXqP",
+        "text": "\n192\n",
+        "image": null
+      },
+      {
+        "id": "5a4g2",
+        "text": "\n48\n",
+        "image": null
+      },
+      {
+        "id": "8aX7e",
+        "text": "\n100\n",
+        "image": null
+      },
+      {
+        "id": "xSaFZ",
+        "text": "\n96",
+        "image": null
+      }
+    ],
+    "correct_answer": "xSaFZ",
+    "solution_text": "At $x=0, y=y_1+y_2=2 A \\cos 96 \\pi t \\cos 4 \\pi t$\nFrequency of $\\cos (96 \\pi t)$ function is $48 \\mathrm{~Hz}$ and that of $\\cos (4 \\pi t)$ function is $2 \\mathrm{~Hz}$. In one second cos function becomes zero at $2 f$ times, where $f$ is the frequency. Therefore, first function will become zero at 96 times and the second at 4 times. But second overlaps with first. Hence, net $y$ will become zero 96 times in 1 second.",
+    "solution_image": null,
+    "topic": "Interference and Superposition of Waves"
+  },
+  {
+    "question_id": "64b16a8ef23ac7d519f9b57c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "A source, approaching with speed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi></math>&nbsp;towards the open end of a stationary pipe of length&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math>, is emitting a sound of frequency&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub></math>. The farther end of the pipe is closed. The speed of sound in air is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>0</mn></msub></math>&nbsp;is the fundamental frequency of the pipe. For which of the following combination(s) of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub></math>, will the sound reaching the pipe lead to a resonance?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "symBP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi mathvariant=\"normal\">v</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><msub><mi>f</mi><mn>0</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "UwNc4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi mathvariant=\"normal\">v</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mn>2</mn><msub><mi>f</mi><mn>0</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "DbRMx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi mathvariant=\"normal\">v</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><msub><mi>f</mi><mn>0</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "4iM5g",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mi mathvariant=\"normal\">v</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><msub><mi>f</mi><mn>0</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4iM5g",
+    "solution_text": "<p>Consider a tuning fork as a source of sound which is moving towards the stationary pipe with velocity&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/33e35970-8758-4511-b60c-d272a2d25402-image.png\" style=\"width: 300px; height: 108px;\" /></p><p>According to the Doppler effect ,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#39;</mo><mo>=</mo><msub><mi>f</mi><mi>s</mi></msub><mfenced><mfrac><mrow><mi>v</mi><mo>-</mo><msub><mi>v</mi><mi>o</mi></msub></mrow><mrow><mi>v</mi><mo>-</mo><msub><mi>v</mi><mi>s</mi></msub></mrow></mfrac></mfenced></math></p><p>Where,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo></math>is speed of sound</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>s</mi></msub><mo>=</mo></math>is velocity of source</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>o</mi></msub><mo>=</mo></math>is velocity of observer</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mo>=</mo></math>is appeared frequency</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo></math>is actual frequency</p><p>So the appeared frequency of the sound will be,</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>&#39;</mo><mo>=</mo><msub><mi>f</mi><mi>s</mi></msub><mfenced><mfrac><mrow><mi>v</mi><mo>-</mo><mn>0</mn></mrow><mrow><mi>v</mi><mo>-</mo><mi>u</mi></mrow></mfrac></mfenced></math></p><p>Since pipe is closed at one end so it will be like a close organ pipe and we know that close organ pipe has only odd harmonics.</p><p>And for resonance, appeared frequency&nbsp;should match with any of the natural frequency of the closed organ pipe.If fundamental&nbsp;frequency of the closed&nbsp;organ pipe is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>0</mn></msub></math>, then its natural frequencies will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mn>0</mn></msub><mo>,</mo><mn>3</mn><msub><mi>f</mi><mn>0</mn></msub><mo>,</mo><mn>5</mn><msub><mi>f</mi><mn>0</mn></msub><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><msub><mi>f</mi><mn>0</mn></msub></math>&nbsp;</p><p>So for resonance,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mfenced><mfrac><mi>v</mi><mrow><mi>v</mi><mo>-</mo><mi>u</mi></mrow></mfrac></mfenced><mo>=</mo><mfenced><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mi>u</mi><mi>v</mi></mfrac></mrow></mfenced><mfenced><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><msub><mi>f</mi><mn>0</mn></msub></math></p><p>Now from options<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>A</mi><mo>,</mo><mi>B</mi><mo>,</mo><mi>C</mi></mrow></mfenced><mo>&#160;</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mi>u</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi mathvariant=\"normal\">v</mi></math></p><p>So,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>8</mn></mrow></mfenced><mfenced><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow><mn>5</mn></mfrac><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><msub><mi>f</mi><mn>0</mn></msub><mn>5</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>5</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>3</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>5</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>5</mn></mfrac><mo>=</mo><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>4</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>7</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>5</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>5</mn><mo>,</mo><mo>&#160;</mo><mo>&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>9</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>5</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>6</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>11</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>5</mn></mfrac></math></p><p>So option (A) is correct, (B) and (C) are incorrect</p><p>Now from option<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mo>&#8757;</mo><mi>u</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mi mathvariant=\"normal\">v</mi></math></p><p>So,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfenced><mfenced><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfenced><mfrac><mrow><mn>2</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac></mfenced><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><msub><mi>f</mi><mn>0</mn></msub><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo>&#160;&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>2</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>5</mn><msub><mi>f</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mo>&#160;</mo><msub><mi>f</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>5</mn><msub><mi>f</mi><mn>0</mn></msub></mrow><mn>2</mn></mfrac></math></p><p>Hence option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced></math>&nbsp;is correct.</p>",
+    "solution_image": null,
+    "topic": "Organ Pipe (Vibration of Air Column)"
+  },
+  {
+    "question_id": "64b16a1ff23ac7d519f9b189",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "A student is performing the experiment of resonance column. The diameter of the column tube is $4 \\mathrm{~cm}$. The frequency of the tuning fork is $512 \\mathrm{~Hz}$. The air temperature is $38^{\\circ} \\mathrm{C}$ in which the speed of sound is $336 \\mathrm{~m} / \\mathrm{s}$. The zero of the meter scale coincides with the top end of the resonance column tube. When the first resonance occurs, the reading of the water level in the column is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gzxSi",
+        "text": "$14.0 \\mathrm{~cm}$",
+        "image": null
+      },
+      {
+        "id": "rHF13",
+        "text": "$15.2 \\mathrm{~cm}$",
+        "image": null
+      },
+      {
+        "id": "5GI2w",
+        "text": "$16.4 \\mathrm{~cm}$",
+        "image": null
+      },
+      {
+        "id": "KaoL0",
+        "text": "$17.6 \\mathrm{~cm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "rHF13",
+    "solution_text": "Considering the end correction $[e=0.3 D$ where $\\mathrm{D}=$ diameter $]$\r\n\r\n$f=n\\left[\\frac{v}{4(l+e)}\\right]$ For first resonance, $n=1$\r\n\r\n$\\therefore f=\\frac{v}{4(l+0.3 D)} \\Rightarrow l=\\frac{v}{4 f}-0.3 D$\r\n\r\nor, $l=\\left(\\frac{336 \\times 100}{4 \\times 512}\\right)-0.3 \\times 4=15.2 \\mathrm{~cm}$",
+    "solution_image": null,
+    "topic": "Organ Pipe (Vibration of Air Column)"
+  },
+  {
+    "question_id": "64b16a13f23ac7d519f9b11d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Column I showns four systems, each of the same length $L$, for producing standing waves. The lowest possible natural frequency of a system is called its fundamental frequency, whose wavelength is denoted as $\\lambda_f$. Match each system with statements given in Column II describing the nature and wave length of the standing waves.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EUOQt3ki7T6dLYxfsmw5td75JLfbZKiLRorgXFDB8DU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZfkXj",
+        "text": "\n(A) p,t, (B) p,s, (C) q,s, (D) q,r\n",
+        "image": null
+      },
+      {
+        "id": "Fo6UZ",
+        "text": "\n(A) p,q,t, (B) p,r, (C) q,r, (D) q,s\n",
+        "image": null
+      },
+      {
+        "id": "tNINZ",
+        "text": "\n(A) p,s, (B) p,r, (C) q,s, (D) q,r\n",
+        "image": null
+      },
+      {
+        "id": "x85TI",
+        "text": "\n(A) p,q,r,t, (B) p,s, (C) q,r, (D) q,s",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZfkXj",
+    "solution_text": "In organ pipes, longitudinal waves are formed. In string, transverse waves are formed. Open end of pipe is displacement antinode and closed end is displacement node. In case of string fixed end of a string is node.\nFurther, least distance between a node and an antinode is $\\frac{\\lambda}{4}$ and between two nodes is $\\frac{\\lambda}{2}$. Keeping these points in mind answer to this question is as under;\n$(\\mathrm{A}) \\rightarrow(\\mathrm{p}, \\mathrm{t})$\n(B) $\\rightarrow(\\mathrm{p}, \\mathrm{s})$\n$(\\mathrm{C}) \\rightarrow(\\mathrm{q}, \\mathrm{s})$\n(D) $\\rightarrow$ (q, r)\nAnalysis of Question\n(i) Unlike the previous years's few match the column problems, this question seems to be more logical. If you know the subject, you can select correct matching without confusion.\n(ii) In option (d) of column I, string is fixed from centre, therefore at lowest frequency two loops will be formed as shown below.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rnGnEFAsnZpkoHbpmxp9dlFR16LVSlCab_-rSfbpjs4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Organ Pipe (Vibration of Air Column)"
+  },
+  {
+    "question_id": "64b16a19f23ac7d519f9b152",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "A person blows into open-end of a long pipe. As a result, a high pressure pulse of air travels down the pipe.\r\n\r\nWhen this pulse reaches the other end of the pipe,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "x2Gry",
+        "text": "a high-pressure pulse starts travelling up the pipe, if the other end of the pipe is open.",
+        "image": null
+      },
+      {
+        "id": "Jx031",
+        "text": "a low-pressure pulse starts travelling up the pipe, if the other end of the pipe is open.",
+        "image": null
+      },
+      {
+        "id": "RYJa3",
+        "text": "a low-pressure pulse starts travelling up the pipe, if the other end of the pipe is closed.",
+        "image": null
+      },
+      {
+        "id": "9Tfma",
+        "text": "a high-pressure pulse starts travelling up the pipe, if the other end of the pipe is closed.",
+        "image": null
+      }
+    ],
+    "correct_answer": "9Tfma",
+    "solution_text": "When a sound pulse is reflected from open end of a pipe, phase changes by $180^{\\circ}$. A high pressure pulse i.e., compression is reflected as a low pressure pulse i.e., rarefaction. When sound pulse is reflected through a rigid boundary (closed end of a pipe), no phase change occurs so a high pressure pulse is reflected as a high pressure pulse.",
+    "solution_image": null,
+    "topic": "Properties of Sound Waves"
+  },
+  {
+    "question_id": "64b16aa6f23ac7d519f9b658",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>. The internal energy of one mole of the gas is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mi>n</mi></msub></math>&nbsp;and the speed of sound in the gas is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>n</mi></msub></math>.&nbsp;At a fixed temperature and pressure, which of the following is the correct option?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vjoyf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>3</mn></msub><mo>&#60;</mo><msub><mi>v</mi><mn>6</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mn>3</mn></msub><mo>&#62;</mo><msub><mi>U</mi><mn>6</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "TE9N2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>5</mn></msub><mo>&#62;</mo><msub><mi>v</mi><mn>3</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mn>3</mn></msub><mo>&#62;</mo><msub><mi>U</mi><mn>5</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "jvaQW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>5</mn></msub><mo>&#62;</mo><msub><mi>v</mi><mn>7</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mn>5</mn></msub><mo>&#60;</mo><msub><mi>U</mi><mn>7</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Cd7CI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>6</mn></msub><mo>&#60;</mo><msub><mi>v</mi><mn>7</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mn>6</mn></msub><mo>&#60;</mo><msub><mi>U</mi><mn>7</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jvaQW",
+    "solution_text": "<blockquote><p>As we know,&nbsp;internal energy of one mole of the gas&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><mi>n</mi><mi>R</mi><mi>T</mi></mrow><mn>2</mn></mfrac></math>.</p><p>Clearly,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mi>n</mi></msub><mo>&#8733;</mo><mi>n</mi></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;is degree of freedom. Therefore, as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;increases,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mi>n</mi></msub></math>&nbsp;also increases.</p><p>Now, speed of sound in gas</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>n</mi></msub><mo>=</mo><msqrt><mfrac><mrow><mi>&#947;</mi><mi>R</mi><mi>T</mi></mrow><mi>M</mi></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mrow><mfenced><mrow><mn>1</mn><mo>+</mo><mstyle displaystyle=\"true\"><mfrac><mn>2</mn><mi>n</mi></mfrac></mstyle></mrow></mfenced><mi>R</mi><mi>T</mi></mrow><mi>M</mi></mfrac></msqrt></math></p><p>Clearly, as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;increases and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>n</mi></msub></math>&nbsp;decreases.</p><p>Hence,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mn>7</mn></msub><mo>&#62;</mo><msub><mi>U</mi><mn>5</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mn>7</mn></msub><mo>&#62;</mo><msub><mi>U</mi><mn>6</mn></msub></math></p><p>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>5</mn></msub><mo>&#62;</mo><msub><mi>v</mi><mn>7</mn></msub></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Speed of Sound Waves"
+  },
+  {
+    "question_id": "64b169f5f23ac7d519f9b006",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "A student performed the experiment to measure the speed of sound in air using resonance air-column method. Two resonances in the air-column were obtained by lowering the water level. The resonance with the shorter air-column is the first resonance and that with the longer air column is the second resonance. Then,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bB3yv",
+        "text": "\nthe intensity of the sound heard at the first resonance was more than that at the second resonance\n",
+        "image": null
+      },
+      {
+        "id": "137tD",
+        "text": "\nthe prongs of the tuning fork were kept in a horizontal place above the resonance tube\n",
+        "image": null
+      },
+      {
+        "id": "buT7X",
+        "text": "\nthe amplitude of vibration of the ends of the prongs is typically around $1 \\mathrm{~cm}$\n",
+        "image": null
+      },
+      {
+        "id": "ASIGo",
+        "text": "\nthe length of the air-column at the first resonance was somewhat shorter than $1 / 4$ th of the wavelength of the sound in air",
+        "image": null
+      }
+    ],
+    "correct_answer": "ASIGo",
+    "solution_text": "$1 < \\frac{\\lambda}{4}$\nFurther, larger the length of air column, feebler is the intensity.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0_QzsCyIrBeMEzEd77BCqJOEofh6_Ukn13vWiVWjlOw.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Speed of Sound Waves"
+  },
+  {
+    "question_id": "64b169d8f23ac7d519f9aefc",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "In the experiment to determine the speed of sound using a resonance column:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Rzptj",
+        "text": "\nProngs of the tuning fork are kept in a vertical plane\n",
+        "image": null
+      },
+      {
+        "id": "AeR8R",
+        "text": "\nProngs of the tuning fork are kept in a horizontal plane\n",
+        "image": null
+      },
+      {
+        "id": "7Mhhq",
+        "text": "\nIn one of the two resonances observed, the length of the resonating air column is close to the wavelength of sound in air\n",
+        "image": null
+      },
+      {
+        "id": "Ecwzh",
+        "text": "\nIn one of the two resonances observed, the length of the resonating air column is close to half of the wavelength of sound in air",
+        "image": null
+      }
+    ],
+    "correct_answer": "Rzptj",
+    "solution_text": "Length of air column in resonance is odd integer multiple of $\\frac{\\lambda}{4}$. Correct option is (a).",
+    "solution_image": null,
+    "topic": "Speed of Sound Waves"
+  },
+  {
+    "question_id": "64b16a32f23ac7d519f9b239",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "One end of a taut string of length 3m along the x axis is fixed at x = 0. The speed of the waves in the string is <math><mn>100</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . The other end of the string is vibrating in the y direction so that stationary waves are set up in the string. The possible waveform(s) of these stationary waves is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZL8Gm",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">A</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>50</mn><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">t</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "nrLRi",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>100</mn><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">t</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "HGdAA",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">A</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>5</mn><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>250</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">t</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "JfjOM",
+        "text": "<math><mi mathvariant=\"normal\">y</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">A</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mn>5</mn><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mn>250</mn><mi mathvariant=\"normal\"> </mi></mrow></mrow><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\">t</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "JfjOM",
+    "solution_text": "Taking   <math><mi mathvariant=\"normal\">y</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mi mathvariant=\"normal\"> </mi><mo>=</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">f</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>)</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">g</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></math>   & Applying the conditions:  <br >1;  here  <math><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\"> </mi><mo>=</mo><mi mathvariant=\"normal\"> </mi><mn>3</mn><mi mathvariant=\"normal\">m</mi></math>  is antinode  &  <math><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\"> </mi><mo>=</mo><mi mathvariant=\"normal\"> </mi><mn>0</mn></math>  is node  <br >2; possible frequencies are odd multiple of fundamental frequency.<br >Where,  <math><msub><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">l</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">l</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>25</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">z</mi></math> <br >The correct option are A, C, D.",
+    "solution_image": null,
+    "topic": "Stationary waves"
+  },
+  {
+    "question_id": "64b16a26f23ac7d519f9b1ca",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A horizontal stretched string, fixed at two ends, is vibrating in its fifth harmonic according to the equation,&nbsp;<math> <mrow> <mtext>y</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>x</mtext> <mo>,</mo> <mtext>t</mtext> </mrow> </mfenced> <mo>=</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>0.01 m</mtext> </mrow> </mfenced> <mo>sin</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mo>62.8 m</mo> <mn>-1</mn> </msup> </mrow> </mfenced> <mo>x</mo> </mrow> </mfenced> <mo>cos</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mo>628 s</mo> <mn>-1</mn> </msup> </mrow> </mfenced> <mo>t</mo> </mrow> </mfenced> </mrow> </math>. Assuming <math> <mrow> <mi>&#960;</mi> <mo>=</mo> <mtext>3.14</mtext> </mrow> </math>, the correct statement(s) is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "V44Al",
+        "text": "The number of nodes is 5.",
+        "image": null
+      },
+      {
+        "id": "cfIBx",
+        "text": "The length of the string is 0.25 m.",
+        "image": null
+      },
+      {
+        "id": "xoHda",
+        "text": "The maximum displacement of the midpoint of the string, from its equilibrium position is 0.01 m.",
+        "image": null
+      },
+      {
+        "id": "FCzla",
+        "text": "The fundamental frequency is 100 Hz.",
+        "image": null
+      }
+    ],
+    "correct_answer": "xoHda",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012546_AnsExp_1.jpg\"/>​<br ><math> <mrow> <mtext>Nodes</mtext> <mo>=</mo> <mn>6 ​</mn></mrow></math><br ><math> <mrow> <mi>λ</mi> <mo>=</mo> <mtext>0.1</mtext> </mrow> </math><br ><math> <mrow> <mo>∴   </mo> <msup> <mn>5</mn> <mtext>th</mtext> </msup> <mo>harmonic</mo> <mo>, </mo> <mn>5</mn> <mfrac> <mrow> <mi>λ</mi> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mo>=</mo> <mtext>L</mtext> </mrow> </math><br ><math> <mrow> <mtext>L</mtext> <mo>=</mo> <mtext>0.25</mtext> </mrow> </math><br ><math> <mrow> <mtext>At</mtext> <mfrac> <mrow> <mtext>L</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math><br ><math> <mrow> <msub> <mtext>y</mtext> <mtext>max</mtext> </msub> <mo>=</mo> <mtext>0.01 sin in </mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>62.8</mtext> <mo>×</mo> <mfrac> <mrow> <mtext>0.25</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math><br >          <math> <mrow> <mo>=</mo> <mtext>0.01</mtext> </mrow> </math><br ><math> <mrow> <mtext>Interfering wave velocity</mtext> <mo>=</mo> <mfrac> <mrow> <mtext>w</mtext> </mrow> <mrow> <mtext>k</mtext> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>6</mn> <mn>2</mn> <mn>8</mn> </mrow> <mrow> <mtext>62.8</mtext> </mrow> </mfrac> <mo>=</mo> <mn>1</mn> <mn>0</mn> </mrow> </math><br ><math> <mrow> <mo>∴    </mo> <mtext>fundamental frequency</mtext> <mo>=</mo> <mfrac> <mrow> <mi>ν</mi> </mrow> <mrow> <mn>2</mn> <mtext>L</mtext> </mrow> </mfrac> <mo>=</mo> <mn>2</mn> <mn>0</mn> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Stationary waves"
+  },
+  {
+    "question_id": "64b16a77f23ac7d519f9b4af",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Answer the following by appropriately matching the lists based on the information given in the paragraph.<br />A musical instrument is made using four different metal strings, <math><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>3</mn></math> and <math><mn>4</mn></math> with mass per unit length <math><mi mathvariant=\"normal\">&#956;</mi><mo>,</mo><mtext>&#8201;</mtext><mn>2</mn><mi mathvariant=\"normal\">&#956;</mi><mo>,</mo><mtext>&#8201;</mtext><mn>3</mn><mi mathvariant=\"normal\">&#956;</mi></math> and <math><mn>4</mn><mi mathvariant=\"normal\">&#956;</mi></math> respectively. The instrument is played by vibrating the strings by varying the free length in between the range <math><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></math> and <math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>.</mo></math> It is found that in string- <math><mn>1</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math> at free length <math><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></math> and tension <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></math> the fundamental mode frequency is <math><msub><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>.</mo></math><br />List-I gives the above four strings while list-II lists the magnitude of some quantity.<br />&nbsp;<table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th>&nbsp;</th>\t\t\t<th><strong style=\"text-align: center;\">List I</strong></th>\t\t\t<th>&nbsp;</th>\t\t\t<th><strong style=\"text-align: center;\">List II</strong></th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">p</mi><mo>)</mo></math></td>\t\t\t<td><math><mn>1</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>2</mn><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">q</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>3</mn><mfenced separators=\"|\"><mrow><mn>3</mn><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">r</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>4</mn><mfenced separators=\"|\"><mrow><mn>4</mn><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>3</mn></mrow><mrow><mn>16</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">u</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></math></td>\t\t</tr>\t</tbody></table><br />The length of the strings <math><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>3</mn></math> and <math><mn>4</mn></math> are kept fixed at <math><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mtext>&#8201;</mtext><mfrac><mrow><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mtext>&#8201;</mtext><mfrac><mrow><mn>5</mn><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac></math> and <math><mfrac><mrow><mn>7</mn><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac><mo>,</mo></math> respectively. Strings <math><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>3</mn></math> and <math><mn>4</mn></math> are vibrated at their <math><msup><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mn>3</mn></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">d</mi></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mn>5</mn></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> and <math><msup><mrow><mn>14</mn></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> harmonics, respectively such that all the strings have same frequency. The correct match for the tension in the four strings in the units of <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></math> will be.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VxHkO",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">t</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">u</mi></math>",
+        "image": null
+      },
+      {
+        "id": "9oD4X",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">t</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">u</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Log9G",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">t</mi></math>",
+        "image": null
+      },
+      {
+        "id": "8rRQo",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">t</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">u</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "VxHkO",
+    "solution_text": "Case <math><mn>1</mn><mo>.</mo><mi> </mi><mi>L</mi><mo>=</mo><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mi> </mi><mi>T</mi><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mi> </mi><mi>f</mi><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></math>  <br/><math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mi> </mi><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></math> (fundamental frequency of vibration in string fixed at both ends) <br/>Case <math><mn>2</mn><mo>.</mo><mi> </mi><mi>L</mi><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi> </mi><mi>T</mi><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></math>  <br/><math><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn><mo>×</mo><mfrac><mrow><mn>3</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>2</mn><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt><mo>⇒</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></math>  <br/>Case <math><mn>3</mn><mo>.</mo><mi> </mi><mi>L</mi><mo>=</mo><mfrac><mrow><mn>5</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac><mo>,</mo><mi> </mi><mi>T</mi><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></math>  <br/><math><msub><mrow><mi>f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn><mo>×</mo><mfrac><mrow><mn>5</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow><mrow><mn>3</mn><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><msqrt><mn>3</mn></msqrt><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt><mo>⇒</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>16</mn></mrow></mfrac></math>  <br/>Case <math><mn>4</mn><mo>.</mo><mi> </mi><mi>L</mi><mo>=</mo><mfrac><mrow><mn>7</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac><mo>⇒</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>2</mn><mo>×</mo><mfrac><mrow><mn>7</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow><mrow><mn>4</mn><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt><mo>⇒</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>16</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Travelling Waves"
+  },
+  {
+    "question_id": "64b16a77f23ac7d519f9b4ae",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Answer the following by appropriately matching the lists based on the information given in the paragraph.<br />A musical instrument is made using four different metal strings, <math><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>3</mn></math> and <math><mn>4</mn></math> with mass per unit length <math><mi mathvariant=\"normal\">&#956;</mi><mo>,</mo><mtext>&#8201;</mtext><mn>2</mn><mi mathvariant=\"normal\">&#956;</mi><mo>,</mo><mtext>&#8201;</mtext><mn>3</mn><mi mathvariant=\"normal\">&#956;</mi></math> and <math><mn>4</mn><mi mathvariant=\"normal\">&#956;</mi></math> respectively. The instrument is played by vibrating the strings by varying the free length in between the range <math><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></math> and <math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>.</mo></math> It is found that in string- <math><mn>1</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math> at free length <math><msub><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mn>0</mn></mrow></msub></math> and tension <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></math> the fundamental mode frequency is <math><msub><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>.</mo></math><br />List-I gives the above four strings while list-II lists the magnitude of some quantity.<br />&nbsp;<table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th>&nbsp;</th>\t\t\t<th><strong style=\"text-align: center;\">List I</strong></th>\t\t\t<th>&nbsp;</th>\t\t\t<th><strong style=\"text-align: center;\">List II</strong></th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">p</mi><mo>)</mo></math></td>\t\t\t<td><math><mn>1</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>2</mn><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">q</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>3</mn><mfenced separators=\"|\"><mrow><mn>3</mn><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">r</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo></math></td>\t\t\t<td>String <math><mo>-</mo><mn>4</mn><mfenced separators=\"|\"><mrow><mn>4</mn><mi mathvariant=\"normal\">&#956;</mi></mrow></mfenced></math></td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>3</mn></mrow><mrow><mn>16</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">u</mi><mo>)</mo></math></td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></math></td>\t\t</tr>\t</tbody></table><br />If the tension in each string is <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo></math> the correct match for the highest fundamental frequency in <math><msub><mrow><mi mathvariant=\"normal\">f</mi></mrow><mrow><mn>0</mn></mrow></msub></math> units will be,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7xb1P",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Zq3xD",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">t</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">s</mi></math>",
+        "image": null
+      },
+      {
+        "id": "g75oT",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi></math>",
+        "image": null
+      },
+      {
+        "id": "f8uEZ",
+        "text": "<math><mi mathvariant=\"normal\">a</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">b</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mo>-</mo><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">d</mi><mo>-</mo><mi mathvariant=\"normal\">t</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "7xb1P",
+    "solution_text": "Fundamental frequency is maximum when length is minimum i.e. <math><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo></math>  <br/>Case <math><mn>1</mn><mo>.</mo><mi> </mi><mi>L</mi><mo>=</mo><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mi> </mi><mi>T</mi><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mi> </mi><mi>f</mi><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>;</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></math> (fundamental frequency of vibration in string fixed at both ends) <br/>Case <math><mn>2</mn><mo>.</mo><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>2</mn><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math>  <br/>Case <math><mn>3</mn><mo>.</mo><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>3</mn><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math>  <br/>Case <math><mn>4</mn><mo>.</mo><mi> </mi><msub><mrow><mi>f</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><msqrt><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>4</mn><mi>μ</mi></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Travelling Waves"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b397",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>A block <math><mi>M</mi></math> hangs vertically at the bottom end of a uniform rope of constant mass per unit length. The top end of the rope is attached to a fixed rigid support at O. A transverse wave pulse (Pulse 1) of wavelength <math><msub><mrow><mi>λ</mi></mrow><mrow><mn>0</mn></mrow></msub></math> is produced at point O on the rope. The pulse takes time <math><msub><mrow><mi>T</mi></mrow><mrow><mi>O</mi><mi>A</mi></mrow></msub></math> to reach point A. If the wave pulse of wavelength <math><msub><mrow><mi>λ</mi></mrow><mrow><mn>0</mn></mrow></msub></math> is produced at point A (Pulse 2) without disturbing the position of M it takes time <math><msub><mrow><mi>T</mi></mrow><mrow><mi>O</mi><mi>A</mi></mrow></msub></math> to reach point O. Which of the following options is/are correct?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/trwmfmvwmrggubfecgvxcxsgnizlumszgeecyksacypozubxdg.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NZab1",
+        "text": "The velocity of any pulse along the rope is independent of its frequency and wavelength",
+        "image": null
+      },
+      {
+        "id": "24LyY",
+        "text": "The velocities of two pulses are the same at the midpoint of rope",
+        "image": null
+      },
+      {
+        "id": "jkTc4",
+        "text": "The wavelength of pulse 1 becomes longer when it reaches point A",
+        "image": null
+      },
+      {
+        "id": "UIgJT",
+        "text": "The time <math><msub><mrow><mi>T</mi></mrow><mrow><mi>A</mi><mi>O</mi></mrow></msub><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mi>O</mi><mi>A</mi></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UIgJT",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4_solu_phys_pa1.jpg\"/></p><p>(i)  Speed of wave is property of medium so time taken to cross the string will be equal</p><p>(ii)  Speeds are same but velocity is vector, has opposite directions</p><p>(iii)  Wavelength <math><mi>λ</mi><mo>=</mo><mfrac><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>f</mi></mrow></mfrac><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt></math> and <math><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>></mo><msub><mrow><mi>T</mi></mrow><mrow><mi>A</mi></mrow></msub></math></p><p>(iv)   Velocity of any pulse is <math><mi>v</mi><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><mi>μ</mi></mrow></mfrac></msqrt></math> and it is property of medium.</p>",
+    "solution_image": null,
+    "topic": "Travelling Waves"
+  },
+  {
+    "question_id": "64b169e7f23ac7d519f9af85",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "A transverse sinusoidal wave moves along a string in the positive $x$-direction at a speed of $10 \\mathrm{~cm} / \\mathrm{s}$. The wavelength of the wave is $0.5 \\mathrm{~m}$ and its amplitude is $10 \\mathrm{~cm}$. At a particular time $t$, the snap-shot of the wave is shown in figure. The velocity of point $P$ when its displacement is $5 \\mathrm{~cm}$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mhi0oq-_KYK-esNT29R9yjrzmdQ4wioIwrP6eQjavKg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LsVQZ",
+        "text": "\n$\\frac{\\sqrt{3} \\pi}{50} \\hat{\\mathbf{j}} \\mathrm{m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "LXepi",
+        "text": "\n$-\\frac{\\sqrt{3} \\pi}{50} \\hat{j} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "YtgE5",
+        "text": "\n$\\frac{\\sqrt{3} \\pi}{50} \\hat{\\mathbf{i}} \\mathrm{m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "G3a3t",
+        "text": "\n$-\\frac{\\sqrt{3} \\pi}{50} \\hat{\\mathbf{i}} \\mathrm{m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "LsVQZ",
+    "solution_text": "Particle velocity $v_p=-v$ (slope of $y-x$ graph)\nHere,$v=+v e$, as the wave is travelling in positive $x$-direction.\nSlope at $P$ is negative.\n$\\therefore$ Velocity of particle is in positive $y(+\\overrightarrow{\\mathbf{j}})$ direction.\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Travelling Waves"
+  },
+  {
+    "question_id": "6696579c623b9ed1d463746a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Two uniform strings of mass per unit length $\\mu$ and $4 \\mu$, and length $L$ and $2 L$, respectively, are joined at point $\\mathrm{O}$, and tied at two fixed ends $\\mathrm{P}$ and $\\mathrm{Q}$, as shown in the figure. The strings are under a uniform tension $T$. If we define the frequency $v_0=\\frac{1}{2 L} \\sqrt{\\frac{T}{\\mu}}$, which of the following statement(s) is(are) correct?\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/agUVHF3Qq_M6cGzF9e7HUBb2tRvmU050V9rrz91mN7M.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "I3i3J",
+        "text": "With a node at $\\mathrm{O}$, the minimum frequency of vibration of the composite string is $v_0$.",
+        "image": null
+      },
+      {
+        "id": "www9u",
+        "text": "With an antinode at $\\mathrm{O}$, the minimum frequency of vibration of the composite string is $2 v_0$.",
+        "image": null
+      },
+      {
+        "id": "Q3zr0",
+        "text": "When the composite string vibrates at the minimum frequency with a node at $\\mathrm{O}$, it has 6 nodes, including the end nodes.",
+        "image": null
+      },
+      {
+        "id": "E6UEj",
+        "text": "No vibrational mode with an antinode at $\\mathrm{O}$ is possible for the composite string.",
+        "image": null
+      }
+    ],
+    "correct_answer": "E6UEj",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rz9OTyzY1lewhKX8Z8OqFb_QYFr14Pm4zTe2GuDl3jI.original.fullsize.png\">\n$\\mathrm{C}_1=\\sqrt{\\frac{\\mathrm{T}}{\\mu}}, \\mathrm{C}_2=\\sqrt{\\frac{\\mathrm{T}}{4 \\mu}}=\\frac{\\mathrm{C}_1}{2}$\n$\\underline{\\text { For node at } \\mathrm{O} \\text { : }}$\n$\\mathrm{L}=\\frac{\\mathrm{n} \\lambda_1}{2}, 2 \\mathrm{~L}=\\frac{\\mathrm{m} \\lambda_2}{2}$ ( $\\mathrm{n}, \\mathrm{m}$ are integers)\n$\\begin{aligned} & \\lambda_1=\\frac{2 \\mathrm{~L}}{\\mathrm{n}}, \\lambda_2=\\frac{4 \\mathrm{~L}}{\\mathrm{~m}} \\\\ & \\frac{\\mathrm{C}_1}{\\lambda_1}=\\frac{\\mathrm{C}_2}{\\lambda_2} \\\\ & \\Rightarrow \\frac{\\mathrm{C}_1}{\\frac{2 \\mathrm{~L}}{n}}=\\frac{\\frac{\\mathrm{C}_1}{2}}{\\frac{4 \\mathrm{~L}}{m}} \\\\ & \\Rightarrow 4 \\mathrm{n}=\\mathrm{m}\\end{aligned}$\nFor minimum frequency, $\\mathrm{n}=1, \\mathrm{~m}=4$\n$\\therefore v_{\\min }=\\frac{\\mathrm{C}_1 \\times 1}{2 \\mathrm{~L}}=\\frac{1}{2 \\mathrm{~L}} \\sqrt{\\frac{\\mathrm{T}}{\\mu}}=v_0$\nThe string will look like<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tTRqXXZYNmJKta5Q8o0SVYhrnyXhsNVzIKk_1-p3V6w.original.fullsize.png\">\nTotal no. of nodes $=6$ including the end nodes $\\underline{\\text { For antinode at } \\mathrm{O} \\text { : }}$\n$\\begin{aligned} & \\mathrm{L}=(2 \\mathrm{n}+1) \\frac{\\lambda_1}{4} ; 2 \\mathrm{~L}=(2 \\mathrm{n}+1) \\frac{\\lambda_2}{4} \\quad \\text { (n, m are integers) } \\\\ & \\lambda_1=\\frac{4 \\mathrm{~L}}{(2 \\mathrm{n}+1)} ; \\lambda_2=\\frac{8 \\mathrm{~L}}{(2 \\mathrm{~m}+1)} \\\\ & \\frac{\\mathrm{C}_1}{\\lambda_1}=\\frac{\\mathrm{C}_2}{\\lambda_2} \\\\ & \\frac{\\mathrm{C}_1}{\\mathrm{C}_2}=\\frac{\\lambda_1}{\\lambda_2} \\\\ & 2=\\frac{\\frac{4 \\mathrm{~L}}{(2 \\mathrm{n}+1)}}{\\frac{8 \\mathrm{~L}}{(2 \\mathrm{~m}+1)}} \\\\ & 4=\\frac{(2 \\mathrm{~m}+1)}{(2 \\mathrm{n}+1)} \\Rightarrow \\text { even }=\\frac{\\text { odd }}{\\text { odd }} \\Rightarrow \\text { This node is not possible }\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Vibration of String"
+  },
+  {
+    "question_id": "64b16aa7f23ac7d519f9b65e",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "A string of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math> and mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>5</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi></math>&nbsp;is under tension <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>. When the string vibrates, two successive harmonics are found to occur at frequencies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>750</mn><mo>&#160;</mo><mi>Hz</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1000</mn><mo>&#160;</mo><mi>Hz</mi></math>. The value of tension <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math> is _____ newton.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<blockquote><p>Given:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>,</mo><mo>&#160;</mo><mi>m</mi><mo>=</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8211;</mo><mn>5</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi></math>.</p><p>As successive harmonics are being given, so it is the case of both ends fixed.</p><p>Now,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>-</mo><msub><mi>f</mi><mi>n</mi></msub><mo>=</mo><mn>1000</mn><mo>-</mo><mn>750</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mfenced><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mrow><mn>2</mn><mi>l</mi></mrow></mfrac><msqrt><mfrac><mi>T</mi><mi>&#956;</mi></mfrac></msqrt><mo>-</mo><mfrac><mi>n</mi><mrow><mn>2</mn><mi>l</mi></mrow></mfrac><msqrt><mfrac><mi>T</mi><mi>&#956;</mi></mfrac></msqrt><mo>=</mo><mn>250</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>l</mi></mrow></mfrac><msqrt><mfrac><mi>T</mi><mi>&#956;</mi></mfrac></msqrt><mo>=</mo><mn>250</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><mfrac><mi>T</mi><mrow><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup></mrow></mfrac></msqrt><mo>=</mo><mn>250</mn><mo>&#215;</mo><mn>2</mn><mo>&#215;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mi>T</mi><mrow><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>5</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mn>4</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>T</mi><mo>=</mo><mn>50</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>T</mi><mo>=</mo><mn>5</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Vibration of String"
+  },
+  {
+    "question_id": "64b16a04f23ac7d519f9b091",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "A hollow pipe of length $0.8 \\mathrm{~m}$ is closed at one end. At its open end a $0.5 \\mathrm{~m}$ long uniform string is vibrating in its second harmonic and it resonates with the fundamental frequency of the pipe. If the tension in the wire is $50 \\mathrm{~N}$ and the speed of sound is $320 \\mathrm{~ms}^{-1}$, the mass of the string is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PyYYw",
+        "text": "\n$5 \\mathrm{~g}$\n",
+        "image": null
+      },
+      {
+        "id": "Dxo1Z",
+        "text": "\n$10 \\mathrm{~g}$\n",
+        "image": null
+      },
+      {
+        "id": "h87vj",
+        "text": "\n$20 \\mathrm{~g}$\n",
+        "image": null
+      },
+      {
+        "id": "1lONC",
+        "text": "\n$40 \\mathrm{~g}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Dxo1Z",
+    "solution_text": "$2\\left(\\frac{v_1}{2 l_1}\\right)=\\frac{v_2}{4 l_2}$ $\\therefore \\quad \\frac{\\sqrt{T / \\mu}}{l_1}=\\frac{320}{4 l_2}$\n( $\\mu=$ mass per unit length of wire)\nor $\\frac{\\sqrt{50 / \\mu}}{0.5}=\\frac{320}{4 \\times 0.8}$\nSolving we get $\\mu=0.02 \\frac{\\mathrm{kg}}{\\mathrm{m}}=20 \\frac{\\mathrm{g}}{\\mathrm{m}}$\n$\\therefore$ Mass of string\n$$\n=\\left(20 \\frac{\\mathrm{g}}{\\mathrm{m}}\\right)(0.5 \\mathrm{~m})=10 \\mathrm{~g}\n$$\n$\\therefore$ The correct option is (b).",
+    "solution_image": null,
+    "topic": "Vibration of String"
+  },
+  {
+    "question_id": "64b169f6f23ac7d519f9b00f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "A $20 \\mathrm{~cm}$ long string, having a mass of $1.0 \\mathrm{~g}$, is fixed at both the ends. The tension in the string is $0.5 \\mathrm{~N}$. The string is set into vibration using an external vibrator of frequency 100 $\\mathrm{Hz}$. Find the separation (in $\\mathrm{cm}$ ) between the successive nodes on the string.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "Distance between the successive nodes,\n$$\n\\begin{aligned}\nd & =\\frac{\\lambda}{2}=\\frac{v}{2 f} \\\\\n& =\\frac{\\sqrt{T / \\mu}}{2 f}\n\\end{aligned}\n$$\nSubstituting the values we get\n$$\nd=5 \\mathrm{~cm}\n$$",
+    "solution_image": null,
+    "topic": "Vibration of String"
+  },
+  {
+    "question_id": "64b169e7f23ac7d519f9af87",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "A vibrating string of certain length $l$ under a tension $T$ resonates with a mode corresponding to the first overtone (third harmonic) of an air column of length $75 \\mathrm{~cm}$ inside a tube closed at one end. The string also generates 4 beat/s when excited along with a tuning fork of frequency $n$. Now when the tension of the string is slightly increased the number of beats reduces to 2 per second. Assuming the velocity of sound in air to be $340 \\mathrm{~m} / \\mathrm{s}$, the frequency $n$ of the tuning fork (in $\\mathrm{Hz}$ ) is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hoJ65",
+        "text": "\n344\n",
+        "image": null
+      },
+      {
+        "id": "shpJV",
+        "text": "\n336\n",
+        "image": null
+      },
+      {
+        "id": "1VtcR",
+        "text": "\n$117.3$\n",
+        "image": null
+      },
+      {
+        "id": "noF1S",
+        "text": "\n$109.3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hoJ65",
+    "solution_text": "With increase in tension, frequency of vibrating string will increase. Since number of beats are decreasing. Therefore, frequency of vibrating string or third harmonic frequency of closed pipe should be less than the frequency of tuning fork by 4 .\n$\\therefore$ Frequency of tuning fork $=$ Third harmonic frequency of closed pipe $+4$\n$$\n=3\\left(\\frac{v}{4 l}\\right)+4=3\\left(\\frac{340}{4 \\times 0.75}\\right)+4=344 \\mathrm{~Hz} .\n$$\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Vibration of String"
+  },
+  {
+    "question_id": "64b169c4f23ac7d519f9ae42",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A massless rod $B D$ is suspended by two identical massless strings $A B$ and $C D$ of equal lengths. A block of mass ' $m$ ' is suspended point $P$ such that $B P$ is equal to ' $x$ ', if the fundamental frequency of the left wire is twice the fundamental frequency of right wire, then the value of $x$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kFubdTzCAp7Sxepzvw02bmX6QUSOvEenKMtjcCm52SA.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IbzTO",
+        "text": "\n$1 / 5$\n",
+        "image": null
+      },
+      {
+        "id": "ETXJK",
+        "text": "\n$1 / 4$\n",
+        "image": null
+      },
+      {
+        "id": "Ebe6Y",
+        "text": "\n$41 / 5$\n",
+        "image": null
+      },
+      {
+        "id": "ZoFYG",
+        "text": "\n$31 / 4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "IbzTO",
+    "solution_text": "$f \\propto v \\propto \\sqrt{T}$\nFurther $\\Sigma \\tau_p=0$\nor\nor\n$$\nf_{A B}=2 f_{C D} \\Rightarrow T_{A B}=4 T_{C D}\n$$\n$$\n\\begin{aligned}\nT_{A B}(x) & =T_{C D}(l-x) \\\\\n4 x & =l-x\\left(\\text { as } T_{A B}-4 T_{C D}\\right) \\\\\nx & =\\frac{l}{5}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Vibration of String"
+  }
+]

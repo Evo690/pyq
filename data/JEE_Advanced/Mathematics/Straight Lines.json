@@ -1,0 +1,712 @@
+[
+  {
+    "question_id": "66965dcbd603121f43a3e058",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Let $\\mathbb{R}^2$ denote $\\mathbb{R} \\times \\mathbb{R}$. Let $S=\\left\\{(a, b, c): a, b, c \\in \\mathbb{R} \\text { and } a x^2+2 b x y+c y^2>0 \\text { for all }(x, y) \\in \\mathbb{R}^2-\\{(0,0)\\}\\right\\} .$\nThen which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gIXi8",
+        "text": "$\\left(2, \\frac{7}{2}, 6\\right) \\in S$",
+        "image": null
+      },
+      {
+        "id": "IaWql",
+        "text": "If $\\left(3, b, \\frac{1}{12}\\right) \\in S$, then $|2 b| < 1$.",
+        "image": null
+      },
+      {
+        "id": "hHjxG",
+        "text": "For any given $(a, b, c) \\in S$, the system of linear equations\n$\\begin{aligned}& a x+b y=1 \\\\& b x+c y=-1\\end{aligned}$ \nhas a unique solution.",
+        "image": null
+      },
+      {
+        "id": "6Om87",
+        "text": "For any given $(a, b, c) \\in S$, the system of linear equations\n$\\begin{aligned}& (a+1) x+b y=0 \\\\& b x+(c+1) y=0\\end{aligned}$\nhas a unique solution.",
+        "image": null
+      }
+    ],
+    "correct_answer": "6Om87",
+    "solution_text": "\\(\\begin{aligned}\r\n& a x^2+2 b x y+c y^2>0 \\\\\r\n& y, x \\in \\mathbb{R}-\\{(0,0)\\} \\\\\r\n& \\Rightarrow c\\left(\\frac{y}{x}\\right)^2+2 b\\left(\\frac{y}{x}\\right)+a>0 \\\\\r\n& 4 b^2-4 a c<0 \\\\\r\n& \\Rightarrow b^2<a c\r\n\\end{aligned}\\)\r\n(A) \\(\\left(2, \\frac{7}{2}, 6\\right)\\)\r\n\\(\\left(\\frac{7}{2}\\right)^2>2 \\times 6\\)\r\n\\(\\therefore\\) option A is incorrect\r\n\\(\\begin{aligned}\r\n& \\text {(B) if }\\left(3, b, \\frac{1}{12}\\right) \\in S \\\\\r\n& \\Rightarrow b^2<3 \\cdot \\frac{1}{12} \\\\\r\n& \\Rightarrow b^2<\\frac{1}{4} \\\\\r\n& \\Rightarrow 4 b^2<1 \\\\\r\n& \\Rightarrow|2 b|<1 \\text { option } B \\text { is correct }\r\n\\end{aligned}\\)\r\n\\(\\begin{aligned}\r\n& \\text {(C) } a x+b y=1 \\\\\r\n& b x+c y=-1 \\\\\r\n& D=\\left|\\begin{array}{ll}\r\na & b \\\\\r\nb & c\r\n\\end{array}\\right|=a c-b^2 \\neq 0\r\n\\end{aligned}\\)\r\n\\(\\therefore\\) unique solution option C is correct.\r\n\\(\\begin{aligned}\r\n& \\text {(D) }(a+1) \\mathrm{x}+\\mathrm{by}=0 \\\\\r\n& \\mathrm{bx}+(\\mathrm{c}+1) \\mathrm{y}=0 \\\\\r\n& D=\\left|\\begin{array}{cc}\r\n(a+1) & b \\\\\r\nb & (c+1)\r\n\\end{array}\\right| \\\\\r\n& =(a+1)(c+1)-b^2 \\\\\r\n& \\Rightarrow a c-b^2+a+c+1 \\\\\r\n& b^2<a c \\Rightarrow a c \\text { is +ve } \\\\\r\n& \\Rightarrow a \\text { and care positive then }\\left(a c-b^2\\right)+a+c+1>0\r\n\\end{aligned}\\)\r\n\\(\\therefore\\) unique solution\r\n\\(\\therefore\\) option D is correct.",
+    "solution_image": null,
+    "topic": "Angle between Lines"
+  },
+  {
+    "question_id": "64b169def23ac7d519f9af31",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Lines $L_1: y-x=0$ and $L_2: 2 x+y=0$ intersect the line $L_3: y+2=0$ at $P$ and $Q$, respectively. The bisector of the acute angle between $L_1$ and $L_2$ intersects $L_3$ at $R$.\nStatement I The ratio $P R: R Q$ equals $2 \\sqrt{2}: \\sqrt{5}$.\nStatement II In any triangle, bisector of an angle divides the triangle into two similar triangles.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fgZuO",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "M4iZv",
+        "text": "\nStatement I is true, Statement II is true; Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "DLVeq",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "s6a0I",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "M4iZv",
+    "solution_text": "In $\\triangle O P Q$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/39h5Z-uPmRqp6qXFqjROF92ujcwMsaH5BCQ92r-Xcbk.original.fullsize.png\"><br>\nClearly,\n$$\n\\frac{P R}{R Q}=\\frac{O P}{O Q}=\\frac{2 \\sqrt{2}}{\\sqrt{5}}\n$$",
+    "solution_image": null,
+    "topic": "Angle bisector"
+  },
+  {
+    "question_id": "64b16a43f23ac7d519f9b2d7",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>Let the curve C be the mirror image of the parabola <math><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2&#160;</mn></mrow></msup></math><math><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">x</mi></math> with respect to the line <math><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn><mo>.</mo></math> If A and B are the points of intersection of C with the line <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mo>-</mo><mn>5</mn><mo>,</mo></math> then the distance between A and B is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image64-0a5e3225-2674-4cee-92f5-450226bb04d9.png\"/><br >Equation of <math> <mrow> <msup> <mtext>AA</mtext> <mo>′</mo> </msup> </mrow> </math> is<br ><math><mi mathvariant=\"normal\">y</mi><mo>+</mo><mn>5</mn><mo>=</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>-</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></math><br ><math><mo>⇒</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>-</mo><mi mathvariant=\"normal\">α</mi><mo>-</mo><mn>5</mn></math><br ><math><mi mathvariant=\"normal\">y</mi><mo>-</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">α</mi><mo>-</mo><mn>5</mn></math> ...(i)<br >Also<br ><math><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mo>-</mo><mn>4</mn></math><br ><math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mo>-</mo><mn>9</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><mn>2</mn><mi mathvariant=\"normal\">x</mi><mo>=</mo><mi mathvariant=\"normal\">α</mi><mo>+</mo><mn>1</mn></math><br ><math><mo>⇒</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">α</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><mi mathvariant=\"normal\">M</mi><mo>≡</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">α</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mo>-</mo><mi mathvariant=\"normal\">α</mi><mo>-</mo><mn>9</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math><br ><math><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">′</mi></mrow></msup><mo>=</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">α</mi><mo>-</mo><mn>4</mn></mrow></mfenced></math><br ><math><msup><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">′</mi></mrow></msup></math> lies on parabola<br >Now,<br ><math><msup><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>16</mn><mo>+</mo><mn>8</mn><mi mathvariant=\"normal\">α</mi><mo>=</mo><mn>4</mn></math><br ><math><mo>⇒</mo><msup><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>8</mn><mi mathvariant=\"normal\">α</mi><mo>+</mo><mn>12</mn><mo>=</mo><mn>0</mn></math><br ><math><mo>⇒</mo><mi mathvariant=\"normal\">α</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mo>-</mo><mn>6</mn></math><br >AB = distance = 4 units",
+    "solution_image": null,
+    "topic": "Basic Forms of Straight Line"
+  },
+  {
+    "question_id": "64b16a0ff23ac7d519f9b0f5",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A straight line $L$ through the point $(3,-2)$ is inclined at an angle $60^{\\circ}$ to the line $\\sqrt{3} x+y=1$. If $L$ also intersects the $X$-axis, then the equation of $L$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EL2hq",
+        "text": "\n$y+\\sqrt{3} x+2-3 \\sqrt{3}=0$\n",
+        "image": null
+      },
+      {
+        "id": "durEP",
+        "text": "\n$y-\\sqrt{3} x+2+3 \\sqrt{3}=0$\n",
+        "image": null
+      },
+      {
+        "id": "5Zj6s",
+        "text": "\n$\\sqrt{3} y-x+3+2 \\sqrt{3}=0$\n",
+        "image": null
+      },
+      {
+        "id": "hdMiC",
+        "text": "\n$\\sqrt{3} y+x-3+2 \\sqrt{3}=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "durEP",
+    "solution_text": "A straight line passing through $P$ and making an angle of $\\alpha=60^{\\circ}$, is given by $\\frac{y-y_1}{x-x_1}=\\tan (\\theta \\pm \\alpha)$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/BbwFhwlBUeWDKh1kwXK76q7lwHtU9fgCoUCgBopRkvA.original.fullsize.png\"><br>\nwhere, $\\quad \\sqrt{3} x+y=1$\n$$\n\\Rightarrow \\quad y=-\\sqrt{3} x+1\n$$\nThen, $\\quad \\tan \\theta=-\\sqrt{3}$\n$$\n\\begin{array}{ll}\n\\Rightarrow & \\frac{y+2}{x-3}=\\frac{\\tan \\theta \\pm \\tan \\alpha}{1 \\mp \\tan \\theta \\tan \\alpha} \\\\\n\\Rightarrow & \\frac{y+2}{x-3}=\\frac{-\\sqrt{3}+\\sqrt{3}}{1-(-\\sqrt{3})(\\sqrt{3})} \\\\\n\\text { and } & \\frac{y+2}{x-3}=\\frac{-\\sqrt{3}-\\sqrt{3}}{1+(-\\sqrt{3})(\\sqrt{3})}\n\\end{array}\n$$\n\n$$\n\\begin{array}{ll}\n\\Rightarrow & y+2=0 \\\\\n\\text { and } & \\frac{y+2}{x-3}=\\frac{-2 \\sqrt{3}}{1-3}=\\sqrt{3} \\\\\n\\Rightarrow & y+2=\\sqrt{3} x-3 \\sqrt{3}\n\\end{array}\n$$\nNeglecting, $y+2=0$ as it does not intersect $Y$-axis.",
+    "solution_image": null,
+    "topic": "Basic Forms of Straight Line"
+  },
+  {
+    "question_id": "64b169e5f23ac7d519f9af7a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA circle $C$ of radius 1 is inscribed in an equilateral $\\triangle P Q R$. The points of contact of $C$ with the sides $P Q, Q R, R P$ are $D, E, F$ respectively. The line $P Q$ is given by the equation\n$\\sqrt{3} x+y-6=0$ and the point $D$ is $\\left(\\frac{3 \\sqrt{3}}{2}, \\frac{3}{2}\\right)$. Further, it is given that the origin and the centre of $C$ are on the same side of the line $P Q$.<strong>Question:</strong>\nEquations of the sides $Q R, R P$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wboGj",
+        "text": "\n$y=\\frac{2}{\\sqrt{3}} x+1, y=-\\frac{2}{\\sqrt{3}} x-1$\n",
+        "image": null
+      },
+      {
+        "id": "snzn6",
+        "text": "\n$y=\\frac{1}{\\sqrt{3}} x, y=0$\n",
+        "image": null
+      },
+      {
+        "id": "K1dr5",
+        "text": "\n$y=\\frac{\\sqrt{3}}{2} x+1, y=-\\frac{\\sqrt{3}}{2} x-1$\n",
+        "image": null
+      },
+      {
+        "id": "Uahjc",
+        "text": "\n$y=\\sqrt{3} x, y=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Uahjc",
+    "solution_text": "Clearly, point $E$ and $F$ satisfy the equations given in option (d).",
+    "solution_image": null,
+    "topic": "Basic Forms of Straight Line"
+  },
+  {
+    "question_id": "64b169e5f23ac7d519f9af79",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA circle $C$ of radius 1 is inscribed in an equilateral $\\triangle P Q R$. The points of contact of $C$ with the sides $P Q, Q R, R P$ are $D, E, F$ respectively. The line $P Q$ is given by the equation\n$\\sqrt{3} x+y-6=0$ and the point $D$ is $\\left(\\frac{3 \\sqrt{3}}{2}, \\frac{3}{2}\\right)$. Further, it is given that the origin and the centre of $C$ are on the same side of the line $P Q$.<strong>Question:</strong>\nPoints $E$ and $F$ are given by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dtVv5",
+        "text": "\n$\\left(\\frac{\\sqrt{3}}{2}, \\frac{3}{2}\\right),(\\sqrt{3}, 0)$\n",
+        "image": null
+      },
+      {
+        "id": "PBsAL",
+        "text": "\n$\\left(\\frac{\\sqrt{3}}{2}, \\frac{1}{2}\\right),(\\sqrt{3}, 0)$\n",
+        "image": null
+      },
+      {
+        "id": "O4VQX",
+        "text": "\n$\\left(\\frac{\\sqrt{3}}{2}, \\frac{3}{2}\\right),\\left(\\frac{\\sqrt{3}}{2}, \\frac{1}{2}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "pzATm",
+        "text": "\n$\\left(\\frac{3}{2}, \\frac{\\sqrt{3}}{2}\\right),\\left(\\frac{\\sqrt{3}}{2}, \\frac{1}{2}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "dtVv5",
+    "solution_text": "Slope of line joining centre of circle to point $D$\n$$\n=\\frac{\\frac{3}{2}-1}{\\frac{3 \\sqrt{3}}{2}-\\sqrt{3}}=\\frac{1}{\\sqrt{3}}\n$$\n[makes an angle $30^{\\circ}$ with $X$-axis]\n$\\therefore$ Points $E$ and $F$ will make angle $150^{\\circ}$ and $-90^{\\circ}$ with $X$-axis.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2MYFwgi_qwiPsepKX_pQpeeqlpaR5ZpeLruv5nwHpbo.original.fullsize.png\"><br>\n$\\therefore E$ and $F$ are given by and\n$\\therefore$\n$$\n\\begin{aligned}\n\\frac{x-\\sqrt{3}}{\\cos 150^{\\circ}} & =\\frac{y-1}{\\sin 150^{\\circ}}=1 \\\\\n\\frac{x-\\sqrt{3}}{\\cos \\left(-90^{\\circ}\\right)} & =\\frac{y-1}{\\sin \\left(-90^{\\circ}\\right)}=1 \\\\\nE & =\\left(\\frac{\\sqrt{3}}{2}, \\frac{3}{2}\\right) \\\\\nand\nF & =(\\sqrt{3}, 0)\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Basic Forms of Straight Line"
+  },
+  {
+    "question_id": "64b16a29f23ac7d519f9b1e7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>For a &gt; b &gt; c &gt; 0, the distance between (1, 1) and the point of intersection of the lines ax + by + c = 0 and bx + ay + c = 0 is less than <math> <mrow> <mn>2</mn> <msqrt> <mn>2</mn> </msqrt> </mrow> </math>.Then</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tYPpv",
+        "text": "<math> <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> <mo>-</mo> <mi>c</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "JigcP",
+        "text": "<math> <mrow> <mi>a</mi> <mo>-</mo> <mi>b</mi> <mo>+</mo> <mi>c</mi> <mo>&lt;</mo> <mn>0</mn> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "BBPYo",
+        "text": "<math><mrow>  <mi>a</mi>  <mo>-</mo>  <mi>b</mi>  <mo>+</mo>  <mi>c</mi>  <mo>&gt;</mo>  <mn>0</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "CKYDY",
+        "text": "<math><mrow>  <mi>a</mi>  <mo>+</mo>  <mi>b</mi>  <mo>-</mo>  <mi>c</mi>  <mo>&lt;</mo>  <mn>0</mn></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tYPpv",
+    "solution_text": "<p><math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>a</mtext> <mo>-</mo> <mtext>b</mtext> </mrow> </mfenced> <mtext>x</mtext> <mo>+</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>b</mtext> <mo>-</mo> <mtext>a</mtext> </mrow> </mfenced> <mtext>y</mtext> <mo>=</mo> <mn>0</mn> </mrow> </math><br /><math> <mrow> <mo>&#8658;</mo> <mtext>x</mtext> <mo>=</mo> <mtext>y</mtext> </mrow> </math><br /><math> <mrow> <mo>&#8658;</mo> <mtext>Point of intersection</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mo>-</mo> <mtext>c</mtext> </mrow> <mrow> <mtext>a</mtext> <mo>+</mo> <mtext>b</mtext> </mrow> </mfrac> <mtext>,</mtext> <mfrac> <mrow> <mo>-</mo> <mtext>c</mtext> </mrow> <mrow> <mtext>a</mtext> <mo>+</mo> <mtext>b</mtext> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math><br />Now using distance formula between two points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><msqrt><msup><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>-</mo><msub><mi>x</mi><mn>2</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><msub><mi>y</mi><mn>1</mn></msub><mo>-</mo><msub><mi>y</mi><mn>2</mn></msub></mrow></mfenced><mn>2</mn></msup></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mtext>c</mtext><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext></mrow></mfrac></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mtext>c</mtext><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext></mrow></mfrac></mrow></mfenced><mn>2</mn></msup></msqrt><mo>&#60;</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><mn>2</mn></msqrt><mfenced><mfenced open=\"|\" close=\"|\"><mfrac><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext><mo>+</mo><mtext>c</mtext></mrow><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext></mrow></mfrac></mfenced></mfenced><mo>&#60;</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mfrac><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext><mo>+</mo><mtext>c</mtext></mrow><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext></mrow></mfrac></mfenced><mo>&#60;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#8658;a</mtext><mo>+</mo><mtext>b</mtext><mo>+</mo><mtext>c</mtext><mo>&#60;</mo><mn>2</mn><mfenced><mrow><mtext>a</mtext><mo>+</mo><mtext>b</mtext></mrow></mfenced></math><br /><math> <mrow> <mo>&#8658;</mo> <mtext>a</mtext> <mo>+</mo> <mtext>b</mtext> <mo>-</mo> <mtext>c</mtext> <mo>&#62;</mo> <mn>0</mn> </mrow> </math></p>",
+    "solution_image": null,
+    "topic": "Concurrency & Family of Lines"
+  },
+  {
+    "question_id": "64b16a8cf23ac7d519f9b568",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Consider a triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi></math> whose two sides lie on the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis and the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>. If the orthocenter of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi></math> is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>, then the equation of the circle passing through the vertices of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "A9rju",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "2GjZp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "WVf92",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "cqo1F",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2GjZp",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2120c36b-11a4-4eee-839b-3985cda2a943-4f6e13e1-aee9-452e-9ca8-808f94adb63d-bc32892b-c4ea-4469-9ae1-3a69e141bc0a-image.png\" style=\"width: 265px; height: 261px;\" />\r\n\r\nLet&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is the point of intersection of the given lines&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>\r\n\r\nTheir point of intersection&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math>\r\n\r\nLet&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;is the other point on the line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>,\r\n\r\nNow, the perpendicular from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;on the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis will pass through the orthocenter.\r\n\r\nSo, the equation of perpendicular from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;on the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn></math>\r\n\r\nThus, the coordinates of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mo>-</mo><mn>2</mn></mrow></mfenced></math>\r\n\r\nLet the third vertex is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>h</mi><mo>,</mo><mi>k</mi></mrow></mfenced></math>\r\n\r\nSlope of the line perpendicular to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>\r\n\r\nSo, the perpendicular from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>h</mi><mo>,</mo><mi>k</mi></mrow></mfenced></math>&nbsp;to line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>&nbsp;has slope&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp;and passes through the orthocenter&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>\r\n\r\nThus, its equation is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>x</mi></math>\r\n\r\nNow,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>x</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis intersects at the origin.\r\n\r\nHence, the vertices of the triangle are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo><mo>,</mo><mo>&#160;</mo><mo>(</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>2</mn><mo>)</mo><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mo>(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>)</mo></math>\r\n\r\nLet the equation of the circle is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>g</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>f</mi><mi>y</mi><mo>=</mo><mn>0</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>)</mo><mo>&#8594;</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo><mo>&#8594;</mo><mn>1</mn><mo>-</mo><mn>2</mn><mi>g</mi><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>g</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>2</mn><mo>)</mo><mo>&#8594;</mo><mn>5</mn><mo>+</mo><mn>1</mn><mo>-</mo><mn>4</mn><mi>f</mi><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>f</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math>\r\n\r\nHence, the equation of the&nbsp;circumcircle is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math>.\r\n\r\n<strong>Aliter</strong>\r\n\r\nWe know, the image of the orthocentre about the sides of a triangle lies on circumcircle.\r\n\r\nThe&nbsp;image of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mn>1</mn><mo>)</mo></math> about <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>0</mn></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>)</mo></math>\r\n\r\nThe image of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>&nbsp;about <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>2</mn><mo>)</mo></math>\r\n\r\n&amp; intersection of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo><mo>.</mo><mo>&#160;</mo></math>\r\n\r\nLet the equation of circle is&nbsp;\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>g</mi><mi>x</mi><mo>+</mo><mn>2</mn><mi>f</mi><mi>y</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>\r\n\r\nAll the three points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>)</mo><mo>,</mo><mo>&#160;</mo><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math>&nbsp;lies on this circle\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>)</mo><mo>&#8594;</mo><mn>2</mn><mo>+</mo><mn>2</mn><mi>g</mi><mo>-</mo><mn>2</mn><mi>f</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>i</mi></mfenced></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo><mo>&#8594;</mo><mn>1</mn><mo>-</mo><mn>2</mn><mi>g</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>2</mn><mo>)</mo><mo>&#8594;</mo><mn>8</mn><mo>-</mo><mn>4</mn><mi>g</mi><mo>-</mo><mn>4</mn><mi>f</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math>\r\n\r\nBy using the equations&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced><mo>,</mo><mo>&#160;</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math>, we get\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mo>&#160;</mo><mi>f</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mo>&#160;</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>\r\n\r\nHence, the equation of the circle is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b16a58f23ac7d519f9b390",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $F_{1}\\left(x_{1}, 0\\right)$ and $F_{2}\\left(x_{2}, 0\\right)$, for $x_{1}<0$ and $x_{2}>0$, be the foci of the ellipse $\\frac{x^{2}}{9}+\\frac{y^{2}}{8}=1 .$ Suppose a parabola having vertex at the origin and focus at $F_{2}$ intersects the ellipse at point $M$ in the first quadrant and at point $N$ in the fourth quadrant.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe orthocentre of the triangle $F_{1} M N$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Y6Rjt",
+        "text": "<math><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "50472",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "iolN6",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "5XF3S",
+        "text": "<math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><msqrt><mn>6</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Y6Rjt",
+    "solution_text": "<img alt=\"\" height=\"145\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/maths_53_solu.jpg\" width=\"204\" /><br /><math><mfrac><mrow><msup><mi>x</mi> <mn>2</mn> </msup> </mrow> <mn>9</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mn>8</mn> </mfrac> <mo>=</mo><mn>1</mn> </math><br /><math> <msub> <mi>F</mi> <mn>1</mn> </msub> <mrow><mo>(</mo> <mrow> <mo>&#8722;</mo><mn>1</mn><mo>,</mo><mn>0</mn> </mrow> <mo>)</mo></mrow><mo>,</mo><msub> <mi>F</mi> <mn>2</mn> </msub> <mrow><mo>(</mo> <mrow> <mn>1</mn><mo>,</mo><mn>0</mn> </mrow> <mo>)</mo></mrow> </math><br /><math> <mo>&#8658;</mo> </math> Parabola is <math> <msup> <mi>y</mi> <mn>2</mn> </msup> <mo>=</mo><mn>4</mn><mi>x</mi> </math><br />The intersection of ellipse &amp; parabola is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>N</mi></math><br /><math> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mn>9</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>4</mn><mi>x</mi> </mrow> <mn>8</mn> </mfrac> <mo>=</mo><mn>1</mn><mo>&#8658;</mo><mi>M</mi><mrow><mo>(</mo> <mrow> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> <mo>,</mo><msqrt> <mn>6</mn> </msqrt> </mrow> <mo>)</mo></mrow><mtext>&#8201;</mtext><mo>&#38;</mo><mtext>&#8201;</mtext><mtext>&#8201;</mtext><mi>N</mi><mrow><mo>(</mo> <mrow> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> <mo>,</mo><mo>&#8722;</mo><msqrt> <mn>6</mn> </msqrt> </mrow> <mo>)</mo></mrow> </math><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4a8500a8-110d-4852-9445-186d041fbe22-im27.PNG\" style=\"width: 300px; height: 280px;\" /><br />Equation of altitude through <math><mi>M</mi><mi>&#160;</mi><mo>:</mo><mi>y</mi><mo>-</mo><mi>&#160;</mi><msqrt><mn>6</mn></msqrt><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn><msqrt><mn>6</mn></msqrt></mrow></mfrac><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></math><br />Equation of altitude through <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>:</mo><mi>y</mi><mo>=</mo><mn>0</mn></math><br />Solving, we get orthocentre <math><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mn>9</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b16a38f23ac7d519f9b271",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "For a point P in the plane, let <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></math> and <math><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></math> be the distances of the point P from the lines <math><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>0</mn></math> and <math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>0</mn></math> respectively. The area of the region R consisting of all points P lying in the first quadrant of the plane and satisfying <math><mn>2</mn><mi>&#160;</mi><mo>&#8804;</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced><mo>+</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced><mi>&#160;</mi><mo>&#8804;</mo><mn>4</mn><mo>,</mo></math> is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image3-83cafb89-c590-465f-bec8-51c2b5479050.jpg\"/> <br > <math><mn>2</mn><mi> </mi><mo>≤</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>p</mi></mrow></mfenced><mo>+</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>p</mi></mrow></mfenced><mo>≤</mo><mn>4</mn></math> <br >For  <math><mi>P</mi><mfenced separators=\"|\"><mrow><mi>α</mi><mo>,</mo><mi> </mi><mi>β</mi></mrow></mfenced><mo>,</mo><mi> </mi><mi>α</mi><mo>></mo><mi>β</mi></math> <br > <math><mo>⇒</mo></math> <math><mn>2</mn><msqrt><mn>2</mn></msqrt><mi> </mi><mo>≤</mo><mn>2</mn><mi>α</mi><mi> </mi><mo>≤</mo><mn>4</mn><msqrt><mn>2</mn></msqrt></math> <br > <math><msqrt><mn>2</mn></msqrt><mi> </mi><mo>≤</mo><mi>α</mi><mi> </mi><mo>≤</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></math> <br > <math><mo>⇒</mo></math>     Area of region  <math><mo>=</mo><mfenced separators=\"|\"><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>2</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></math> <br > <math><mo>=</mo><mn>8</mn><mo>-</mo><mn>2</mn><mo>=</mo><mn>6</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">q</mi><mo>.</mo><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">s</mi></math>",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b16a31f23ac7d519f9b22b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $S=S_{1} \\cap S_{2} \\cap S_{3}$, where\r\n\r\n$S_{1}=\\{z \\in \\mathbb{C}:|z|<4\\}, \\quad S_{2}=\\left\\{z \\in \\mathbb{C}: \\operatorname{Im}\\left[\\frac{z-1+\\sqrt{3} i}{1-\\sqrt{3} i}\\right]>0\\right\\}$ and $S_{3}=\\{z \\in \\mathbb{C}: \\operatorname{Re} z>0\\}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\n$\\min _{z \\in S}|1-3 i-\\mathrm{z}|=$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CJT68",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> <mo>-</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "qSee5",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> <mo>+</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "bEPbY",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>3</mn> <mo>-</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "k9YvZ",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>3</mn> <mo>+</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "bEPbY",
+    "solution_text": "<math> <mrow> <munder> <mtext>min</mtext> <mrow> <mtext>z</mtext> <mo>&#8712;</mo> <mtext>s</mtext> </mrow> </munder> <mfenced close=\"|\" open=\"|\" separators=\",\"> <mrow> <mn>1</mn> <mo>-</mo> <mn>3</mn> <mtext>i</mtext> <mo>-</mo> <mtext>z</mtext> </mrow> </mfenced> </mrow> </math> perpendicular length of point (1, -3) from line <math> <mrow> <msqrt> <mn>3</mn> </msqrt> <mtext>x</mtext> <mo>+</mo> &#160;<mtext>y</mtext> <mo>=</mo> <mn>0</mn> </mrow> </math><br /><math> <mrow> <mfenced close=\"|\" open=\"|\" separators=\",\"> <mrow> <mfrac> <mrow> <msqrt> <mn>3</mn> </msqrt> <mo>-</mo> <mn>3</mn> </mrow> <mrow> <msqrt> <mn>3</mn> <mo>+</mo> <mn>1</mn> </msqrt> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mfenced close=\"|\" open=\"|\" separators=\",\"> <mrow> <mfrac> <mrow> <msqrt> <mn>3</mn> </msqrt> <mo>-</mo> <mn>3</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mo>-</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b16a31f23ac7d519f9b22a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $S=S_{1} \\cap S_{2} \\cap S_{3}$, where\r\n\r\n$S_{1}=\\{z \\in \\mathbb{C}:|z|<4\\}, \\quad S_{2}=\\left\\{z \\in \\mathbb{C}: \\operatorname{Im}\\left[\\frac{z-1+\\sqrt{3} i}{1-\\sqrt{3} i}\\right]>0\\right\\}$ and $S_{3}=\\{z \\in \\mathbb{C}: \\operatorname{Re} z>0\\}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nArea of $S=$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CU7Co",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>1</mn> <mn>0</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "Ptc1m",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> <mn>0</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "YxxWi",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>1</mn> <mn>6</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "U2J9m",
+        "text": "​<math> <mrow> <mfrac> <mrow> <mn>3</mn> <mn>2</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ptc1m",
+    "solution_text": "S<sub>1</sub> : x<sup>2</sup> + y<sup>2</sup> &lt; 16<br /><math> <mrow> <msub> <mtext>S</mtext> <mn>2</mn> </msub> <mtext>&#160;:&#160;</mtext> <mfrac> <mrow> <mtext>z</mtext> <mo>-</mo> <mn>1</mn> <mo>+</mo> <msqrt> <mn>3</mn> <mtext>i</mtext> </msqrt> </mrow> <mrow> <mn>1</mn> <mo>-</mo> <mtext>i</mtext> <msqrt> <mn>3</mn> </msqrt> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>x</mtext> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> <mo>+</mo> <mtext>i&#160;</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>y</mtext> <mo>+</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> </mfenced> </mrow> <mrow> <mn>1</mn> <mo>-</mo> <msqrt> <mn>3</mn> </msqrt> <mtext>i</mtext> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mo>=</mo> <mfrac> <mrow> <mfenced close=\"}\" open=\"{\" separators=\",\"> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>x</mtext> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> <mo>+</mo> <mtext>i&#160;</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>y</mtext> <mo>+</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> </mfenced> </mrow> </mfenced> &#160;<mfenced close=\"}\" open=\"{\" separators=\",\"> <mrow> <mn>1</mn> <mo>+</mo> <msqrt> <mn>3</mn>&#160; </msqrt> <mtext>i</mtext> </mrow> </mfenced> </mrow> <mrow> <mn>1</mn> <mo>+</mo> <mn>3</mn> </mrow> </mfrac> </mrow> </math><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012623_AnsExp_1.jpg\" style=\"width: 270px; height: 240px;\" /><br /><br /><math> <mrow> <msub> <mtext>S</mtext> <mn>2</mn> </msub> <mtext>&#160;:&#160;</mtext> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>x</mtext> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> <msqrt> <mn>3</mn> </msqrt> <mo>+</mo> <mtext>y</mtext> <mo>+</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow> <mn>9</mn> </mrow> </mfrac> <mo>&#62;</mo> <mn>0</mn> </mrow> </math><br /><math> <mrow> <msub> <mtext>S</mtext> <mn>2</mn> </msub> <mtext>&#160;:&#160;</mtext> <msqrt> <mn>3</mn> </msqrt> <mtext>x</mtext> <mo>+</mo> <mtext>y</mtext> <mo>&#62;</mo> <mn>0</mn> <mo>&#160;&#38;&#160;</mo> <msub> <mtext>S</mtext> <mn>3</mn> </msub> <mtext>&#160;:&#160;</mtext> <mtext>x</mtext> <mo>&#62;</mo> <mn>0</mn> </mrow> </math><br /><math> <mrow> <mtext>A</mtext> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <msup> <mtext>r</mtext> <mn>2</mn> </msup> <mi>&#952;</mi> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mo>&#215;</mo> <mn>1</mn> <mn>6</mn> <mo>&#215;</mo> <mfrac> <mrow> <mn>5</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>6</mn> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>4</mn> <mn>0</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>6</mn> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <mn>0</mn> <mi>&#960;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b16a09f23ac7d519f9b0c1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nTangents are drawn from the point $P(3,4)$ to the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$ touching the ellipse at points $A$ and $B$.<strong>Question:</strong>\nThe orthocentre of the triangle $P A B$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JAptZ",
+        "text": "\n$\\left(5, \\frac{8}{7}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "OhFKT",
+        "text": "\n$\\left(\\frac{7}{5}, \\frac{25}{8}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "3o990",
+        "text": "\n$\\left(\\frac{11}{5}, \\frac{8}{5}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "UekaQ",
+        "text": "\n$\\left(\\frac{8}{25}, \\frac{7}{5}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3o990",
+    "solution_text": "$$\n\\text { Equation of } A B \\text { is }\n$$\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vGNDL6PX8Om2ubizKilLEdDE0M3SMgzemqgZ4ITooP0.original.fullsize.png\"><br>\n\n$$\n\\begin{aligned}\ny-0 & =\\frac{\\frac{8}{5}}{-\\frac{9}{5}-3}(x-3)=\\frac{8}{-24}(x-3) \\\\\n\\Rightarrow \\quad y & =-\\frac{1}{3}(x-3) \\\\\n\\Rightarrow \\quad x & +3 y=3\n\\end{aligned}\n$$\nEquation of the straight line perpendicular to $A B$ through $P$ is $3 x-y=5$.\nEquation of $P A$ is $x-3=0$.\nThe equation of straight line perpendicular to $P A$ through $B\\left(\\frac{-9}{5}, \\frac{8}{5}\\right)$. is $y=\\frac{8}{5}$.\nHence, the orthocentre is $\\left(\\frac{11}{5}, \\frac{8}{5}\\right)$.",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b169ecf23ac7d519f9afb1",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Consider three points $P=(-\\sin (\\beta-\\alpha),-\\cos \\beta), Q=(\\cos (\\beta-\\alpha), \\sin \\beta)$ and $R=(\\cos (\\beta-\\alpha+\\theta), \\sin (\\beta-\\theta)$, where $0 < \\alpha, \\beta, \\theta < \\frac{\\pi}{4}$. Then,",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PZct6",
+        "text": "\n$P$ lies on the line segment $R Q$\n",
+        "image": null
+      },
+      {
+        "id": "IwMTp",
+        "text": "\n$Q$ lies on the line segment $P R$\n",
+        "image": null
+      },
+      {
+        "id": "3xfhr",
+        "text": "\n$R$ lies on the line segment $Q P$\n",
+        "image": null
+      },
+      {
+        "id": "E8mEs",
+        "text": "\n$P, Q, R$ are non- collinear",
+        "image": null
+      }
+    ],
+    "correct_answer": "E8mEs",
+    "solution_text": "For collinear points\n$$\n\\Delta=\\left|\\begin{array}{ccc}\n-\\sin (\\beta-\\alpha) & -\\cos \\beta & 1 \\\\\n\\cos (\\beta-\\alpha) & \\sin \\beta & 1 \\\\\n\\cos (\\beta-\\alpha+\\theta) & \\sin (\\beta-\\theta) & 1\n\\end{array}\\right|\n$$\nClearly, $\\Delta \\neq 0$ for any value of $\\alpha, \\beta, \\theta$, hence points are non-collinear.",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b169e4f23ac7d519f9af70",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "A straight line through the vertex $P$ of a $\\triangle P Q R$ intersects the side $Q R$ at the point $S$ and the circumcircle of the $\\triangle P Q R$ at the point $T$. If $S$ is not the centre of the circumcircle, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5BVbf",
+        "text": "\n$\\frac{1}{P S}+\\frac{1}{S T} < \\frac{2}{\\sqrt{Q S \\cdot S R}}$",
+        "image": null
+      },
+      {
+        "id": "1EzkI",
+        "text": "\n$\\frac{1}{P S}+\\frac{1}{S T}>\\frac{2}{\\sqrt{Q S \\cdot S R}}$\n",
+        "image": null
+      },
+      {
+        "id": "i7j68",
+        "text": "\n$\\frac{1}{P S}+\\frac{1}{S T} < \\frac{4}{Q R}$",
+        "image": null
+      },
+      {
+        "id": "KDLBR",
+        "text": "\n$\\frac{1}{P S}+\\frac{1}{S T}>\\frac{4}{Q R}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KDLBR",
+    "solution_text": "Let a straight line through the vertex $P$ of a given $\\triangle P Q R$ intersects the side $Q R$ at the point $S$ and the circumcircle of $\\triangle P Q R$ at the point $T$.\nPoints $P, Q, R, T$ are concyclic, hence\n$$\n\\begin{array}{rlrl}\nP S \\cdot S T & =Q S \\cdot S R & & \\\\\n\\Rightarrow \\quad P_1 & \\geq 2 \\sqrt{P S \\cdot S T} & \\\\\n& \\text { Now, } \\frac{P S+S T}{2} & \\geq \\sqrt{P S \\cdot S T} & {[\\because \\mathrm{AM} \\geq \\mathrm{GM}]}\n\\end{array}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vrafhqNxAoheGeJLHlvdpbhAM3nv4TAWfk7gv8-lXXs.original.fullsize.png\"><br>\nand $\\quad \\frac{1}{P S}+\\frac{1}{S T} \\geq \\frac{2}{\\sqrt{P S \\cdot S T}}=\\frac{2}{\\sqrt{Q S \\cdot S R}}$\nAlso, $\\quad \\frac{S Q+Q R}{2} \\geq \\sqrt{S Q \\cdot S R}$\n$\\Rightarrow \\quad \\frac{Q R}{2} \\geq \\sqrt{S Q \\cdot S R}$\n\n$$\n\\begin{array}{ll}\n\\Rightarrow & \\frac{1}{\\sqrt{S Q \\cdot S R}} \\geq \\frac{2}{Q R} \\Rightarrow \\frac{2}{\\sqrt{S Q \\cdot S R}} \\geq \\frac{4}{Q R} \\\\\n\\text { Hence, } & \\frac{1}{P S}+\\frac{1}{S T} \\geq \\frac{2}{\\sqrt{Q S \\cdot S R}} \\geq \\frac{4}{Q R} .\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Coordinate System"
+  },
+  {
+    "question_id": "64b16a9ff23ac7d519f9b616",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mi>R</mi><mi>S</mi></math> be a quadrilateral in a plane, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mi>R</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#8736;</mo><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><mo>&#8736;</mo><mi>Q</mi><mi>R</mi><mi>S</mi><mo>=</mo><mn>70</mn><mo>&#176;</mo><mo>,</mo><mo>&#8736;</mo><mi>P</mi><mi>Q</mi><mi>S</mi><mo>=</mo><mn>15</mn><mo>&#176;</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8736;</mo><mi>P</mi><mi>R</mi><mi>S</mi><mo>=</mo><mn>40</mn><mo>&#176;</mo></math>. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8736;</mo><mi>R</mi><mi>P</mi><mi>S</mi><mo>=</mo><mi>&#952;</mi><mo>&#176;</mo><mo>,</mo><mi>P</mi><mi>Q</mi><mo>=</mo><mi>&#945;</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>S</mi><mo>=</mo><mi>&#946;</mi></math>, then the interval(s) that contain(s) the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#945;</mi><mi>&#946;</mi><mi>sin</mi><mi>&#952;</mi><mo>&#176;</mo></math> is/are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "e5m7z",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><msqrt><mn>2</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "AQV8f",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "36wPw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>,</mo><mn>3</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "9Bga5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt><mo>,</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "AQV8f",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mi>R</mi><mi>S</mi></math> be a quadrilateral in a plane, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mi>R</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#8736;</mo><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><mo>&#8736;</mo><mi>Q</mi><mi>R</mi><mi>S</mi><mo>=</mo><mn>70</mn><mo>&#176;</mo><mo>,</mo><mo>&#8736;</mo><mi>P</mi><mi>Q</mi><mi>S</mi><mo>=</mo><mn>15</mn><mo>&#176;</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8736;</mo><mi>P</mi><mi>R</mi><mi>S</mi><mo>=</mo><mn>40</mn><mo>&#176;</mo></math>. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8736;</mo><mi>R</mi><mi>P</mi><mi>S</mi><mo>=</mo><mi>&#952;</mi><mo>&#176;</mo><mo>,</mo><mi>P</mi><mi>Q</mi><mo>=</mo><mi>&#945;</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>S</mi><mo>=</mo><mi>&#946;</mi></math>,&nbsp;</p><p>Now plotting the diagram of given values we get,</p><p>&nbsp;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/03901e73-a6c0-4b83-ba03-28c70b38d525-image.png\" style=\"width: 281px; height: 250px;\" /></p><p>Applying sine rule in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>P</mi><mi>Q</mi><mi>R</mi></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#945;</mi><mrow><mi>sin</mi><mn>30</mn><mo>&#176;</mo></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mi>sin</mi><mn>80</mn><mo>&#176;</mo></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#945;</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>sin</mi><mn>80</mn><mo>&#176;</mo></mrow></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math></p><p>Applying sine rule in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>P</mi><mi>R</mi><mi>S</mi></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#946;</mi><mrow><mi>sin</mi><msup><mn>40</mn><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mi>sin</mi><mi>&#952;</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#946;</mi><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mi>sin</mi><mn>40</mn><mo>&#176;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>ii</mi></mfenced></math></p><p>From (i) &amp; (ii),</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#945;</mi><mi>&#946;</mi><mi>sin</mi><mi>&#952;</mi><mo>=</mo><mn>4</mn><mo>&#183;</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>sin</mi><mn>80</mn><mo>&#176;</mo></mrow></mfrac><mo>&#183;</mo><mi>sin</mi><mn>40</mn><mo>&#176;</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mi>cos</mi><mn>40</mn><mo>&#176;</mo></mrow></mfrac></math></p><p>Using <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mn>0</mn><mo>&#176;</mo><mo>=</mo><mn>1</mn><mo>,</mo><mi>cos</mi><mn>30</mn><mo>&#176;</mo><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mo>,</mo><mi>cos</mi><mn>45</mn><mo>&#176;</mo><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mn>60</mn><mo>&#176;</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>Only Options (A) and (B) are correct.</p>",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b16a8df23ac7d519f9b571",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Consider the lines $L_{1}$ and $L_{2}$ defined by<br>$$<br>L_{1}: x \\sqrt{2}+y-1=0 \\text { and } L_{2}: x \\sqrt{2}-y+1=0<br>$$<br>For a fixed constant $\\lambda$, let $C$ be the locus of a point $P$ such that the product of the distance of $P$ from $L_{1}$ and the distance of $P$ from $L_{2}$ is $\\lambda^{2}$. The line $y=2 x+1$ meets $C$ at two points $R$ and $S$, where the distance between $R$ and $S$ is $\\sqrt{270}$.<br>Let the perpendicular bisector of $R S$ meet $C$ at two distinct points $R^{\\prime}$ and $S^{\\prime}$. Let $D$ be the square of the distance between $R^{\\prime}$ and $S^{\\prime}$.<br><p>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi></math> is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "77.14",
+    "solution_text": "<p>From the first question</p><p>The equation of the locus is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>27</mn></math></p><p>The line is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><mi>x</mi></math></p><p>By substituting&nbsp;the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>&nbsp;in the equation of the curve&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>27</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mn>2</mn><mi>x</mi><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>27</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>27</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>x</mi><mo>=</mo><mo>&#177;</mo><mn>3</mn><msqrt><mfrac><mn>3</mn><mn>2</mn></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mo>&#177;</mo><mn>3</mn><msqrt><mfrac><mn>3</mn><mn>2</mn></mfrac></msqrt></math></p><p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>&nbsp;be the mid-point of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>R</mi><mo>&#39;</mo></msup><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msup><mi>S</mi><mo>&#39;</mo></msup></math></p><p>So, the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;coordinate of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub></mrow><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></math></p><p>It lies on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math></p><p>So, the coordinates of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>&nbsp;are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p>Slope of the line perpendicular to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac></math></p><p>So, the equation of perpendicular bisector is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mfenced><mrow><mi>x</mi><mo>-</mo><mn>0</mn></mrow></mfenced></math></p><p>Or,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>2</mn></math></p><p>Let coordinate of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>R</mi><mo>&#39;</mo></msup><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msup><mi>S</mi><mo>&#39;</mo></msup></math>&nbsp;are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>p</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mfenced><mrow><msub><mi>p</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>q</mi><mn>2</mn></msub></mrow></mfenced></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>=</mo><msup><mfenced><mrow><msub><mi>p</mi><mn>2</mn></msub><mo>-</mo><msub><mi>p</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><msub><mi>q</mi><mn>2</mn></msub><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup></math></p><p>Since both the points satisfy the equation of the line, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>=</mo><msup><mfenced close=\"]\" open=\"[\"><mrow><mn>2</mn><mfenced><mrow><msub><mi>q</mi><mn>2</mn></msub><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><msub><mi>q</mi><mn>2</mn></msub><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>=</mo><mn>5</mn><msup><mfenced><mrow><msub><mi>q</mi><mn>2</mn></msub><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup></math></p><p>Solving,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>2</mn></math>&nbsp;with&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>27</mn></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mfenced><mrow><mn>2</mn><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>27</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>7</mn><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>27</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>-</mo><mn>1</mn><mo>=</mo><mo>&#177;</mo><mn>3</mn><msqrt><mfrac><mn>3</mn><mn>7</mn></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mn>1</mn><mo>&#177;</mo><mn>3</mn><msqrt><mfrac><mn>3</mn><mn>7</mn></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>q</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>q</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo>&#177;</mo><mn>3</mn><msqrt><mfrac><mn>3</mn><mn>7</mn></mfrac></msqrt></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><msub><mi>q</mi><mn>2</mn></msub><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>=</mo><msup><mfenced><mrow><mn>6</mn><msqrt><mfrac><mn>3</mn><mn>7</mn></mfrac></msqrt></mrow></mfenced><mn>2</mn></msup></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>=</mo><mn>5</mn><msup><mfenced><mrow><msub><mi>q</mi><mn>2</mn></msub><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>5</mn><mo>&#215;</mo><msup><mfenced><mrow><mn>6</mn><msqrt><mfrac><mn>3</mn><mn>7</mn></mfrac></msqrt></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>77</mn><mo>.</mo><mn>14</mn></math></p>",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b16a8df23ac7d519f9b570",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Consider the lines $L_{1}$ and $L_{2}$ defined by<br>$$<br>L_{1}: x \\sqrt{2}+y-1=0 \\text { and } L_{2}: x \\sqrt{2}-y+1=0<br>$$<br>For a fixed constant $\\lambda$, let $C$ be the locus of a point $P$ such that the product of the distance of $P$ from $L_{1}$ and the distance of $P$ from $L_{2}$ is $\\lambda^{2}$. The line $y=2 x+1$ meets $C$ at two points $R$ and $S$, where the distance between $R$ and $S$ is $\\sqrt{270}$.<br>Let the perpendicular bisector of $R S$ meet $C$ at two distinct points $R^{\\prime}$ and $S^{\\prime}$. Let $D$ be the square of the distance between $R^{\\prime}$ and $S^{\\prime}$.<br><p>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#955;</mi><mn>2</mn></msup></math> is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p>Let the point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>h</mi><mo>,</mo><mi>k</mi></mrow></mfenced></math></p><p>Distance of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>+</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow><msqrt><mo>(</mo><msqrt><mn>2</mn></msqrt><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mn>1</mn><mn>2</mn></msup></msqrt></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>+</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow><msqrt><mn>3</mn></msqrt></mfrac></mfenced></math></p><p>Distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>-</mo><mi>k</mi><mo>+</mo><mn>1</mn></mrow><msqrt><mo>(</mo><msqrt><mn>2</mn></msqrt><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mn>1</mn><mn>2</mn></msup></msqrt></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>-</mo><mi>k</mi><mo>+</mo><mn>1</mn></mrow><msqrt><mn>3</mn></msqrt></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;The&nbsp;equation of the locus of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>+</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow><msqrt><mn>3</mn></msqrt></mfrac></mfenced><mo>&#215;</mo><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>-</mo><mi>k</mi><mo>+</mo><mn>1</mn></mrow><msqrt><mn>3</mn></msqrt></mfrac></mfenced><mo>=</mo><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><mfenced><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>+</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow><msqrt><mn>3</mn></msqrt></mfrac></mfenced><mfenced><mfrac><mrow><mi>h</mi><msqrt><mn>2</mn></msqrt><mo>-</mo><mi>k</mi><mo>+</mo><mn>1</mn></mrow><msqrt><mn>3</mn></msqrt></mfrac></mfenced></mrow></mfenced><mo>=</mo><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>h</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>k</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>3</mn><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p>Hence, the equation of the locus is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>3</mn><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p>The line is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><mi>x</mi></math></p><p>By substituting&nbsp;the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>&nbsp;in the equation of the curve&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mi>y</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>3</mn><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo>(</mo><mn>2</mn><mi>x</mi><msup><mo>)</mo><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>3</mn><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn><msup><mi>&#955;</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>x</mi><mo>=</mo><mo>&#177;</mo><msqrt><mfrac><mn>3</mn><mn>2</mn></mfrac></msqrt><mi>&#955;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>x</mi><mn>2</mn></msub><mo>-</mo><msub><mi>x</mi><mn>1</mn></msub><mo>=</mo><mo>|</mo><msqrt><mn>6</mn></msqrt><mi>&#955;</mi><mo>|</mo></math></p><p>Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>y</mi><mn>2</mn></msub><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><msub><mi>x</mi><mn>2</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mn>1</mn></msub><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><msub><mi>x</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>y</mi><mn>2</mn></msub><mo>-</mo><msub><mi>y</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><mfenced><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>-</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>y</mi><mn>2</mn></msub><mo>-</mo><msub><mi>y</mi><mn>1</mn></msub><mo>=</mo><mo>|</mo><mn>2</mn><msqrt><mn>6</mn></msqrt><mi>&#955;</mi><mo>|</mo></math></p><p>Given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>S</mi><mo>=</mo><msqrt><mn>270</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><msup><mfenced><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>-</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><msub><mi>y</mi><mn>2</mn></msub><mo>-</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced><mn>2</mn></msup></msqrt><mo>=</mo><msqrt><mn>270</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><msqrt><mn>6</mn></msqrt><mi>&#955;</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>2</mn><msqrt><mn>6</mn></msqrt><mi>&#955;</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>270</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><msup><mi>&#955;</mi><mn>2</mn></msup><mo>=</mo><mn>270</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#955;</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></math></p>",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b026",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The locus of the orthocentre of the triangle formed by the lines $(1+p) x-p y+p(1+p)=0$, $(1+q) x-q y+q(1+q)=0$ and $y=0$, where $p \\neq q$, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FANBX",
+        "text": "\na hyperbola\n",
+        "image": null
+      },
+      {
+        "id": "rF0Ji",
+        "text": "\na parabola\n",
+        "image": null
+      },
+      {
+        "id": "nBRtr",
+        "text": "\nan ellipse\n",
+        "image": null
+      },
+      {
+        "id": "XbuGL",
+        "text": "\na straight line",
+        "image": null
+      }
+    ],
+    "correct_answer": "XbuGL",
+    "solution_text": "Given, lines are\n$$\n(1+p) x-p y+p(1+p)=0\n$$\nand $(1+q) x-q y+q(1+q)=0$\nOn solving Eqs. (i) and (ii), we get\n$$\nC\\{p q,(1+p)(1+q)\\}\n$$\n\n$\\therefore$ Equation of altitude $C M$ passing through $C$ and perpendicular to $A B$ is\n$$\nx=p q\n$$\n$\\because$ Slope of line (ii) is $\\left(\\frac{1+q}{q}\\right)$.\n$\\therefore$ Slope of altitude $B N$ (as shown in figure) is $\\frac{-q}{1+q}$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/KuYdPR9jmFax0y6klYaQcg1EstIIJR540LdVt85WdZk.original.fullsize.png\"><br>\n$\\therefore$ Equation of $B N$ is $y-0=\\frac{-q}{1+q}(x+p)$\n$$\n\\Rightarrow \\quad y=\\frac{-q}{(1+q)}(x+p)\n$$\nLet orthocentre of triangle be $H(h, k)$, which is the point of intersection of Eqs. (iii) and (iv)\nOn solving Eqs. (iii) and (iv), we get $x=p q$ and $y=-p q \\Rightarrow h=p q$ and $k=-p q \\Rightarrow h+k=0$\n$\\therefore$ Locus of $H(h, k)$ is $x+y=0$.",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b16a86f23ac7d519f9b532",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> be the center of the circle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup><mo>,</mo></math>&nbsp;where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#62;</mo><mfrac><msqrt><mn>5</mn></msqrt><mn>2</mn></mfrac><mo>.</mo></math> Suppose <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math>&nbsp;is a chord of this circle and the equation of the line passing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;is&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>5</mn></math>. If the center of the circumcircle of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>P</mi><mi>Q</mi></math> lies on the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>4</mn><mo>,</mo></math> then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> is ______",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3c6072f5-5234-480e-9e12-e7c941075602-image.png\"/></p><p>Circumcenter <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>O</mi><mi>P</mi><mi>Q</mi></math> lies on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>4</mn></math></p><p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mo>≡</mo><mfenced><mrow><mn>4</mn><mo>-</mo><mn>2</mn><mi>α</mi><mo>,</mo><mi>α</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∵</mo><mo> </mo><mo> </mo><mi>O</mi><mi>C</mi><mo>⊥</mo><mi>P</mi><mi>Q</mi><mo>  </mo><mo>⇒</mo><mo>  </mo><mfenced><mrow><mi>s</mi><mi>l</mi><mi>o</mi><mi>p</mi><mi>e</mi><mo> </mo><mi>o</mi><mi>f</mi><mo> </mo><mi>O</mi><mi>C</mi></mrow></mfenced><mo>·</mo><mfenced><mrow><mi>s</mi><mi>l</mi><mi>o</mi><mi>p</mi><mi>e</mi><mo> </mo><mi>o</mi><mi>f</mi><mo> </mo><mi>P</mi><mi>Q</mi></mrow></mfenced><mo>=</mo><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo>  </mo><mfenced><mfrac><mi>α</mi><mrow><mn>4</mn><mo>-</mo><mn>2</mn><mi>α</mi></mrow></mfrac></mfenced><mfenced><mrow><mo>-</mo><mfrac><mn>2</mn><mn>4</mn></mfrac></mrow></mfenced><mo>=</mo><mo>-</mo><mn>1</mn><mo>  </mo><mo>⇒</mo><mo>  </mo><mi>α</mi><mo>=</mo><mfrac><mn>8</mn><mn>5</mn></mfrac><mo>  </mo><mo>⇒</mo><mo>  </mo><mi>C</mi><mfenced><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>,</mo><mfrac><mn>8</mn><mn>5</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>M</mi><mo>=</mo><mfrac><mrow><mo>|</mo><mn>0</mn><mo>+</mo><mn>0</mn><mo>-</mo><mn>5</mn><mo>|</mo></mrow><msqrt><msup><mn>2</mn><mn>2</mn></msup><mo>+</mo><msup><mn>4</mn><mn>2</mn></msup></msqrt></mfrac><mo>=</mo><mfrac><msqrt><mn>5</mn></msqrt><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>M</mi><mo>=</mo><mfrac><mfenced close=\"|\" open=\"|\"><mrow><mn>2</mn><mfenced><mfrac><mn>4</mn><mn>5</mn></mfrac></mfenced><mo>+</mo><mn>4</mn><mfenced><mfrac><mn>8</mn><mn>5</mn></mfrac></mfenced><mo>-</mo><mn>5</mn></mrow></mfenced><msqrt><msup><mn>2</mn><mn>2</mn></msup><mo>+</mo><msup><mn>4</mn><mn>2</mn></msup></msqrt></mfrac><mo>=</mo><mfrac><mn>3</mn><mrow><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>C</mi><mo>=</mo><mi>P</mi><mi>C</mi><mo>=</mo><msqrt><msup><mfenced><mfrac><mn>4</mn><mn>5</mn></mfrac></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mn>8</mn><mn>5</mn></mfrac></mfenced><mn>2</mn></msup></msqrt><mo>=</mo><mfrac><mn>4</mn><msqrt><mn>5</mn></msqrt></mfrac></math></p><p>Now, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msup><mi>M</mi><mn>2</mn></msup><mo>=</mo><mi>O</mi><msup><mi>P</mi><mn>2</mn></msup><mo>-</mo><mi>O</mi><msup><mi>M</mi><mn>2</mn></msup><mo>=</mo><mi>P</mi><msup><mi>C</mi><mn>2</mn></msup><mo>-</mo><mi>C</mi><msup><mi>M</mi><mn>2</mn></msup><mo>⇒</mo><msup><mi>r</mi><mn>2</mn></msup><mo>-</mo><mfrac><mn>5</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>16</mn><mn>5</mn></mfrac><mo>-</mo><mfrac><mn>9</mn><mn>20</mn></mfrac><mo>⇒</mo><mi>r</mi><mo>=</mo><mn>2</mn></math></p>",
+    "solution_image": null,
+    "topic": "Point and Line"
+  },
+  {
+    "question_id": "64b16a75f23ac7d519f9b49d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Let the point <math><mi mathvariant=\"normal\">B</mi></math> be the reflection of the point <math><mi mathvariant=\"normal\">A</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>3</mn></mrow></mfenced></math> with respect to the line <math><mn>8</mn><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>6</mn><mi mathvariant=\"normal\">y</mi><mo>-</mo><mn>23</mn><mo>=</mo><mn>0</mn><mo>.</mo></math> Let <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></math> be circle of radii <math><mn>2</mn></math> and <math><mn>1</mn></math> with centres <math><mi mathvariant=\"normal\">A</mi></math> and <math><mi mathvariant=\"normal\">B</mi></math> respectively. Let <math><mi mathvariant=\"normal\">T</mi></math> be a common tangent to the circle <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></math> such that both the circle are on the same side of <math><mi mathvariant=\"normal\">T</mi><mo>.</mo></math> If <math><mi mathvariant=\"normal\">C</mi></math> is the point of intersection of <math><mi mathvariant=\"normal\">T</mi></math> and the line passing through <math><mi mathvariant=\"normal\">A</mi></math> and <math><mi mathvariant=\"normal\">B</mi><mo>,</mo></math> then the length of the line segment <math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">C</mi></math> is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d5f16d8b-c690-488e-b095-5613a41aa466-WhatsAppImage2020-09-18at12.33.23PM.jpeg\"/><br >Clearly,<math><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">P</mi></math> and <math><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">Q</mi></math> are similar triangles.<br >Hence,<br ><math><mfrac><mrow><mi>A</mi><mi>C</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>r</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math><br ><math><mfrac><mrow><mi>A</mi><mi>C</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math><br ><math><mi>A</mi><mi>C</mi><mo>=</mo><mn>2</mn><mi>B</mi><mi>C</mi></math> ...(i)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tparjhnvvshijznhoxhwvgobdmjwnqadvikszyyhfroongtugl.png\"/><br >Now, since <math><mi>B</mi></math> , is image of <math><mi>A</mi></math> in line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>x</mi><mo>-</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>23</mn></math><br ><math><mi>A</mi><mi>D</mi><mo>=</mo><mi>B</mi><mi>D</mi></math><br ><math><mi>A</mi><mi>B</mi><mo>=</mo><mn>2</mn><mi>A</mi><mi>D</mi></math> ...(ii)<br ><math><mi>A</mi><mi>D</mi><mo>=</mo></math> distance of <math><mi>A</mi></math> from line<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>x</mi><mo>-</mo><mi> </mi><mn>6</mn><mi>y</mi><mo>=</mo><mn>23</mn></math><br ><math><mi>A</mi><mi>D</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>16</mn><mo>-</mo><mn>16</mn><mo>-</mo><mn>23</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br >Now as <math><mi>A</mi><mi>C</mi><mo>=</mo><mn>2</mn><mi>B</mi><mi>C</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>A</mi><mi>C</mi><mo>=</mo><mn>2</mn><mo>(</mo><mi>A</mi><mi>C</mi><mo>-</mo><mi>A</mi><mi>B</mi><mo>)</mo></math><br ><math><mo>⇒</mo><mi>A</mi><mi>C</mi><mo>=</mo><mn>2</mn><mi>A</mi><mi>B</mi></math><br ><math><mo>⇒</mo><mi>A</mi><mi>C</mi><mo>=</mo><mn>4</mn><mi>A</mi><mi>D</mi></math> (from (ii))<br ><math><mi>A</mi><mi>C</mi><mo>=</mo><mn>4</mn><mo>×</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><mi>A</mi><mi>C</mi><mo>=</mo><mn>10</mn></math>",
+    "solution_image": null,
+    "topic": "Point and Line"
+  },
+  {
+    "question_id": "64b169ecf23ac7d519f9afb8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Consider $L_1: 2 x+3 y+p-3=0 ; L_2: 2 x+3 y+p+3=0$ where $p$ is a real number and $C: x^2+y^2+6 x-10 y+30=0$.\nStatement 1 If line $L_1$ is a chord of circle $C$, then line $L_2$ is not always a diameter of circle $C$.\nStatement 2 If line $L_1$ is a diameter of circle $C$, then line $L_2$ is not a chord of circle $C$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DAOFv",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "0FpK5",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "aaJYB",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "3oIms",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "aaJYB",
+    "solution_text": "Equation of circle $C$ is\n$$\n\\begin{aligned}\n(x+3)^2+(y-5)^2 & =9+25-30=4 \\\\\n\\Rightarrow \\quad \\quad(x+3)^2+(y-5)^2 & =2^2 \\\\\n\\text { Centre } & =(3,-5)\n\\end{aligned}\n$$\n\nIf $L_1$ is diameter, then $2(3)+3(-5)+p-3=0 \\Rightarrow p=12$\n$\\therefore \\quad L_1$ is $2 x+3 y+9=0$\nand\n$L_2$ is $2 x+3 y+15=0$\nDistance of centre of circle from $L_2=\\left|\\frac{2(3)+3(-5)+15}{\\sqrt{2^2+3^2}}\\right|=\\frac{6}{\\sqrt{13}} < 2 \\quad$ [radius of circle]\n$\\therefore L_2$ is a chord of circle $C$.\nStatement 2 is false.",
+    "solution_image": null,
+    "topic": "Point and Line"
+  }
+]

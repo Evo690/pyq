@@ -1,0 +1,129 @@
+[
+  {
+    "question_id": "64b16a83f23ac7d519f9b51b",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "A cubical solid aluminum <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>bulk</mi><mo>&#160;</mo><mi>modulus</mi><mo>=</mo><mo>-</mo><mi>V</mi><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>P</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi>V</mi></mrow></mfrac><mo>=</mo><mn>70</mn><mo>&#160;</mo><mi>GPa</mi></mrow></mfenced></math>&nbsp;block has an edge length of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math> on the surface of the earth. It is kept on the floor of a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#160;</mo><mi>km</mi></math>&nbsp;deep ocean. Taking the average density of water and the acceleration due to gravity to be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>3</mn></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>, respectively, the change in the edge length of the block in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mm</mi></math> is ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.24",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfrac><mi>P</mi><mfenced><mrow><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>V</mi></mrow><mi>V</mi></mfrac></mrow></mfenced></mfrac><mo>&#160;</mo><mo>&#8658;</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>V</mi></mrow><mi>V</mi></mfrac><mo>=</mo><mo>-</mo><mfrac><mi>P</mi><mi>B</mi></mfrac><mo>&#160;</mo><mo>&#8658;</mo><mn>3</mn><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>&#8467;</mi></mrow><mi>&#8467;</mi></mfrac><mo>=</mo><mfrac><mi>P</mi><mi>B</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">d</mi><mi>&#8467;</mi><mo>=</mo><mfenced><mfrac><mrow><mo>-</mo><mi mathvariant=\"normal\">P</mi></mrow><mi mathvariant=\"normal\">B</mi></mfrac></mfenced><mfrac><mi>&#8467;</mi><mn>3</mn></mfrac><mo>=</mo><mfrac><mrow><msup><mn>10</mn><mn>3</mn></msup><mfrac><mi>kg</mi><msup><mi mathvariant=\"normal\">m</mi><mn>3</mn></msup></mfrac><mo>&#215;</mo><mfrac><mrow><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></mrow><msup><mi mathvariant=\"normal\">s</mi><mn>2</mn></msup></mfrac><mo>&#215;</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup></mrow><mrow><mn>70</mn><mo>&#215;</mo><msup><mn>10</mn><mn>9</mn></msup></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></mrow><mn>3</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">d</mi><mi>&#8467;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>238</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi mathvariant=\"normal\">d</mi><mi>&#8467;</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>238</mn><mo>&#160;</mo><mi>mm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>24</mn></math></p>",
+    "solution_image": null,
+    "topic": "Bulk Modulus"
+  },
+  {
+    "question_id": "64b16a25f23ac7d519f9b1be",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "One end of a horizontal thick copper wire of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">L</mi><mo>&#160;</mo></math>and radius&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">R</mi></math>&nbsp;is&nbsp;welded to an end of another horizontal thin copper wire of length<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></math> and radius<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi></math>.&nbsp;When the arrangement stretched by applying forces at two ends, the ratio of the elongation in the thin wire to that in the thick wire is&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1A0XV",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>25</mn></math>",
+        "image": null
+      },
+      {
+        "id": "gLxHj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>50</mn></math>",
+        "image": null
+      },
+      {
+        "id": "rX5fM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>00</mn></math>",
+        "image": null
+      },
+      {
+        "id": "wZTqZ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>00</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "rX5fM",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7de68416-a5f5-4438-831d-f66cbfc1e9f0-image.png\"/> </p><p>As the two rods are in series, the force at the connecting surface will be same.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">F</mi><mn>1</mn></msub><mo>=</mo><msub><mi mathvariant=\"normal\">F</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">Y</mi><mo>×</mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></mrow><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></mfrac><mo>×</mo><msub><mi mathvariant=\"normal\">A</mi><mn>1</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Y</mi><mo>×</mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mrow><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mfrac><mo>×</mo><msub><mi mathvariant=\"normal\">A</mi><mn>2</mn></msub></math></p><p>Where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Y</mi></math> is Young's modulus, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></math> is increase in length, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></math> are lengths, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">A</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">A</mi><mn>2</mn></msub></math> are areas, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">R</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math> are radii of thick and thin wires respectively.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mtext>∵ F</mtext><mo>=</mo><mtext>Y</mtext><mo>×</mo><mtext>strain</mtext><mo>×</mo><mtext>Area</mtext></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></mrow><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></mfrac><mo>×</mo><msub><mi mathvariant=\"normal\">A</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mrow><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mfrac><mo>×</mo><msub><mi mathvariant=\"normal\">A</mi><mn>2</mn></msub></math></p><p>Here, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">A</mi><mn>1</mn></msub><mo>=</mo><mi mathvariant=\"normal\">π</mi><msup><mfenced><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfenced><mn>2</mn></msup><mo>,</mo><mo> </mo><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">L</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">A</mi><mn>2</mn></msub><mo>=</mo><msup><mi>πR</mi><mn>2</mn></msup><mo>,</mo><mo> </mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub><mo>=</mo><mi mathvariant=\"normal\">L</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo>  </mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">L</mi></mrow></mfrac><mo>×</mo><mi mathvariant=\"normal\">π</mi><msup><mfenced><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mrow><mi mathvariant=\"normal\">L</mi></mfrac><mo>×</mo><msup><mi>πR</mi><mn>2</mn></msup></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo> </mo><mfrac><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mrow><mrow><mo>∆</mo><msub><mi mathvariant=\"normal\">l</mi><mn>1</mn></msub></mrow></mfrac><mo>=</mo><mn>2</mn></math></p>",
+    "solution_image": null,
+    "topic": "Elasticity"
+  },
+  {
+    "question_id": "64b16a6bf23ac7d519f9b43e",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "A steel wire of diameter <math><mn>0.5</mn><mi>m</mi><mi>m</mi></math> and Young&#39;s modulus <math><mn>2</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup><mi>&#160;</mi><mi>N</mi><msup><mrow><mi>m</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> carries a load of mass M. The length of the wire with the load is 1.0 m. A vernier scale with 10 divisions is attached to the end of this wire. Next to the steel wire is a reference wire to which a main scale, of least count 1.0 mm, is attached. The 10 divisions of the vernier scale correspond to 9 divisions of the main scale. Initially, the zero of vernier scale coincides with the zero of main scale. If the load on the steel wire is increased by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1.2</mn><mo>&#160;</mo><mi>k</mi><mi>g</mi></math> , the vernier scale division which coincides with a main scale division is __________. Take <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>=</mo><mn>10</mn><mi>&#160;</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mo>&#160;</mo><mi mathvariant=\"normal\">&#960;</mi><mo>=</mo><mi>&#160;</mi><mn>3.2</mn><mi>&#160;</mi><mo>.</mo></math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<math><mi>d</mi><mo>=</mo><mn>0.5</mn><mi>&#160;</mi><mi>m</mi><mi>m</mi></math><br /><math><mi>Y</mi><mo>=</mo><mn>2</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>1</mn><mi>m</mi></math><br /><math><mo>&#8710;</mo><mi>l</mi><mo>=</mo><mfrac><mrow><mi>F</mi><mi mathvariant=\"script\">l</mi></mrow><mrow><mi>A</mi><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>m</mi><mi>g</mi><mi mathvariant=\"script\">l</mi></mrow><mrow><mfrac><mrow><mi>&#960;</mi><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn></mrow></mfrac><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1.2</mn><mo>&#215;</mo><mn>10</mn><mo>&#215;</mo><mn>1</mn></mrow><mrow><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>&#215;</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>5</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>2</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup></mrow></mfrac></math><br /><math><mo>&#8710;</mo><mi mathvariant=\"script\">l</mi><mo>=</mo><mfrac><mrow><mn>1.2</mn><mo>&#215;</mo><mn>10</mn></mrow><mrow><mfrac><mrow><mn>3.2</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>&#215;</mo><mn>25</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>&#215;</mo><mn>2</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></msup></mrow></mfrac></math><br /><math><mo>=</mo><mi>&#160;</mi><mfrac><mrow><mn>12</mn></mrow><mrow><mn>1.6</mn><mo>&#215;</mo><mn>25</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>12</mn></mrow><mrow><mn>40</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>0.03</mn><mi>m</mi><mi>m</mi></math><br />So 3<sup>rd</sup> division of vernier scale will coincicle with main scale",
+    "solution_image": null,
+    "topic": "Young's Modulus and Breaking Stres"
+  },
+  {
+    "question_id": "64b16a47f23ac7d519f9b2f8",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<p>In plotting stress versus strain curves for two materials <math><mi>P</mi></math> and <math><mi>Q</mi></math> , a student by mistake puts strain on the <math><mi>y</mi></math> -axis and stress on the <math><mi>x</mi></math> - axis as shown in the figure. Then the correct statement(s) is(are)<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image20-c0028362-b78e-4302-8e8f-bc17d47dc439.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Am1aH",
+        "text": "<math><mi>P</mi></math>  has more tensile strength than  <math><mi>Q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "MMDzc",
+        "text": "<math><mi>P</mi></math>  is more ductile than  <math><mi>Q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "dWNCZ",
+        "text": "<math><mi>P</mi></math>  is more brittle than  <math><mi>Q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "F15GM",
+        "text": "The Young's modulus of  <math><mi>P</mi></math>  is more than that of  <math><mi>Q</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MMDzc",
+    "solution_text": "Slope of this graph represents the reciprocal of Young's modulus.<br >Since slope of <math><mi>P</mi><mo>&gt;</mo><mi mathvariant=\"normal\"> </mi></math>  slope of Q<br >Hence Y of  <math><mi>P</mi><mo>&lt;</mo><mi>Y</mi></math>  of Q",
+    "solution_image": null,
+    "topic": "Young's Modulus and Breaking Stres"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b050",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A $0.1 \\mathrm{~kg}$ mass is suspended from a wire of negligible mass. The length of the wire is $1 \\mathrm{~m}$ and its cross-sectional area is $4.9 \\times 10^{-7} \\mathrm{~m}^2$. If the mass is pulled a little in the vertically downward direction and released, it performs simple harmonic motion of angular frequency $140 \\mathrm{rad} \\mathrm{s}^{-1}$. If the Young's modulus of the material of the wire is $n \\times 10^9 \\mathrm{Nm}^{-2}$, the value of $n$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "$\\omega=\\sqrt{\\frac{K}{m}}=\\sqrt{\\frac{Y A}{l m}}=\\sqrt{\\frac{\\left(n \\times 10^9\\right)\\left(4.9 \\times 10^{-7}\\right)}{1 \\times 0.1}}$\nPutting, $\\omega=140 \\operatorname{rad} \\mathrm{s}^{-1}$ in above equation we get,\n$$\nn=4\n$$\n$\\therefore$ Answer is 4 .",
+    "solution_image": null,
+    "topic": "Young's Modulus and Breaking Stres"
+  }
+]

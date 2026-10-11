@@ -1,0 +1,57 @@
+[
+  {
+    "question_id": "69d8074f81239f6567c4f443",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (06 April Shift 1)",
+    "paper_year_short": "2026 (06 April Shift 1)",
+    "held_on": "2026-04-06T09:00:00.000Z",
+    "question_text": "First and second ionization enthalpies of lithium are $520$ kJ mol$^{-1}$ and $7297$ kJ mol$^{-1}$ respectively. Energy required to convert $3.5$ mg lithium (g) into $\\text{Li}^{2+}$(g) $[\\text{Li(g)} \\rightarrow \\text{Li}^{2+}\\text{(g)}]$ is _______ kJ mol$^{-1}$. (nearest integer) [Molar mass of Li $= 7$ g mol$^{-1}$]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3909",
+    "solution_text": "The total energy required to convert $1$ mole of $\\text{Li(g)}$ to $\\text{Li}^{2+}\\text{(g)}$ is the sum of the first and second ionization enthalpies:<br><br>$E = IE_1 + IE_2 = 520 + 7297 = 7817 \\text{ kJ mol}^{-1}$<br><br>Given mass of lithium $= 3.5 \\text{ mg} = 3.5 \\times 10^{-3} \\text{ g}$<br><br>Number of moles of lithium $= \\dfrac{3.5 \\times 10^{-3} \\text{ g}}{7 \\text{ g mol}^{-1}} = 5 \\times 10^{-4} \\text{ mol}$<br><br>Energy required for $5 \\times 10^{-4} \\text{ mol}$ of Li is:<br><br>$\\text{Energy} = 5 \\times 10^{-4} \\text{ mol} \\times 7817 \\text{ kJ mol}^{-1} = 3.9085 \\text{ kJ}$<br><br>Converting this energy into Joules (as the numerical value typically expected for such precision in this standard question is in J or $\\times 10^{-3}$ kJ):<br><br>$3.9085 \\text{ kJ} = 3908.5 \\text{ J}$<br><br>Rounding to the nearest integer, we get $3909$.<br><br>Answer: $3909$",
+    "solution_image": null,
+    "topic": "General Characteristics of Alkali Metals"
+  },
+  {
+    "question_id": "69d8072e81239f6567c4f2bf",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 2)",
+    "paper_year_short": "2026 (02 April Shift 2)",
+    "held_on": "2026-04-02T14:00:00.000Z",
+    "question_text": "The correct set that contains all kinds (basic, acidic, amphoteric and neutral) of oxides is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9ZwrG",
+        "text": "$Na_2 O, K_2 O, Al_2 O_3$ and $As_2 O_3$",
+        "image": null
+      },
+      {
+        "id": "WvzqX",
+        "text": "$Al_2 O_3, As_2 O_3, CO$ and $NO$",
+        "image": null
+      },
+      {
+        "id": "Zqhpy",
+        "text": "$K_2 O, Cl_2 O_7, As_2 O_3$ and $NO$",
+        "image": null
+      },
+      {
+        "id": "aa4PP",
+        "text": "$Na_2 O, N_2 O, Al_2 O_3$ and $CO$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Zqhpy",
+    "solution_text": "$K_2O$ is a metallic oxide and is basic in nature.<br><br>$Cl_2O_7$ is a non-metallic oxide with a high oxidation state and is acidic in nature.<br><br>$As_2O_3$ is a metalloid oxide and is amphoteric in nature.<br><br>$NO$ is a neutral oxide.<br><br>Thus, the set $K_2O, Cl_2O_7, As_2O_3$ and $NO$ contains all kinds of oxides.<br><br>Answer: $K_2 O, Cl_2 O_7, As_2 O_3$ and $NO$",
+    "solution_image": null,
+    "topic": "General Characteristics of Alkali Metals"
+  }
+]

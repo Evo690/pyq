@@ -1,0 +1,78 @@
+[
+  {
+    "question_id": "64b169e4f23ac7d519f9af6d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Let $a$ and $b$ be non-zero and real numbers. Then, the equation $\\left(a x^2+b y^2+c\\right)\\left(x^2-5 x y+6 y^2\\right)=0$ represents",
+    "question_image": null,
+    "options": [
+      {
+        "id": "81h78",
+        "text": "\nFour straight lines, when $c=0$ and $a, b$ are of the same sign\n",
+        "image": null
+      },
+      {
+        "id": "qzY8t",
+        "text": "\nTwo straight lines and a circle, when $a=b$ and $c$ is of sign opposite to that of $a$\n",
+        "image": null
+      },
+      {
+        "id": "wpLhy",
+        "text": "\nTwo straight lines and a hyperbola, when $a$ and $b$ are of the same sign and $c$ is of sign opposite to that of $a$\n",
+        "image": null
+      },
+      {
+        "id": "NXEj0",
+        "text": "\nA circle and an ellipse, when $a$ and $b$ are of the same sign and $c$ is of sign opposite to that of $a$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qzY8t",
+    "solution_text": "Let $a$ and $b$ be non- zero real numbers.\nTherefore, the given equation $\\left(a x^2+b y^2+c\\right)\\left(x^2-5 x y+6 y^2\\right)=0$ implies either\n$$\n\\begin{array}{rc} \n& x^2-5 x y+6 y^2=0 \\\\\n\\Rightarrow & (x-2 y)(x-3 y)=0 \\\\\n\\Rightarrow & x=2 y \\text { and } x=3 y\n\\end{array}\n$$\nrepresent two straight lines passing through origin.\nOr $\\quad a x^2+b y^2+c=0$\nWhen $c=0$ and $a$ and $b$ are of same signs, then\n$$\n\\begin{aligned}\n& a x^2+b y^2+c=0 \\\\\n\\Rightarrow & x=0 \\text { and } y=0\n\\end{aligned}\n$$\nwhich is a point specified as the origin.\nWhen $a=b$ and $c$ is of sign opposite to that of $a, a x^2+b y^2+c=0$ represents a circle.\nHence, the given equation $\\left(a x^2+b y^2+c\\right)\\left(x^2-5 x y+6 y^2\\right)=0$\nmay represent two straight lines and a circle.",
+    "solution_image": null,
+    "topic": "Condition for 2nd degree equationto represent pair of straight lines"
+  },
+  {
+    "question_id": "685102c16bba689a3eb09ca2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $S$ denote the locus of the point of intersection of the pair of lines\n$4 x-3 y=12 \\alpha$\n$4 \\alpha x+3 \\alpha y=12$\nwhere $\\alpha$ varies over the set of non-zero real numbers. Let $T$ be the tangent to $S$ passing through the points $(p, 0)$ and $(0, q), q>0$, and parallel to the line $4 x-\\frac{3}{\\sqrt{2}} y=0$.<br>Then the value of $p q$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "znvoz",
+        "text": "$-6 \\sqrt{2}$",
+        "image": null
+      },
+      {
+        "id": "aUov6",
+        "text": "$-3 \\sqrt{2}$",
+        "image": null
+      },
+      {
+        "id": "0ZQhv",
+        "text": "$-9 \\sqrt{2}$",
+        "image": null
+      },
+      {
+        "id": "T546J",
+        "text": "$-12 \\sqrt{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "znvoz",
+    "solution_text": "$\\left.\\begin{array}{l}4 x-3 y=12 \\alpha \\\\ 4 x+3 y=\\frac{12}{\\alpha}\\end{array}\\right\\} \\rightarrow 16 x^2-9 y^2=144$\n$\\begin{aligned} & \\frac{x^2}{9}-\\frac{y^2}{16}=1 \\rightarrow \\text { Curve :S } \\\\ & T: y=m x \\pm \\sqrt{9 m^2-16} \\\\ & m=\\frac{4 \\sqrt{2}}{3} \\\\ & y=\\frac{4 \\sqrt{2} x}{3} \\pm \\sqrt{32-16} \\\\ & 3 y=4 \\sqrt{2} x \\pm 12 \\\\ & \\text { as } q>0 \\\\ & 3 y=4 \\sqrt{2} x+12 \\\\ & p=-\\frac{3}{\\sqrt{2}} \\& q=4 \\\\ & p q=-6 \\sqrt{2}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "general equation of second degree"
+  }
+]

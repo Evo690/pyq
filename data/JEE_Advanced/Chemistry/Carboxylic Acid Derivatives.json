@@ -1,0 +1,644 @@
+[
+  {
+    "question_id": "66965dc4d603121f43a3c5b1",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "In the following reaction sequence, the major product $\\mathbf{P}$ is formed.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/65VJZ6IJy8c-o86buKSkQTtePbf-UUSpW1Eyd2PytE8.original.fullsize.png\">\nGlycerol reacts completely with excess $\\mathbf{P}$ in the presence of an acid catalyst to form $\\mathbf{Q}$. Reaction of $\\mathbf{Q}$ with excess $\\mathrm{NaOH}$ followed by the treatment with $\\mathrm{CaCl}_2$ yields Ca-soap $\\mathbf{R}$, quantitatively. Starting with one mole of $\\mathbf{Q}$, the amount of $\\mathbf{R}$ produced in gram is ________.\n[Given, atomic weight: $\\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{Na}=23, \\mathrm{Cl}=35, \\mathrm{Ca}=40$ ]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 909,
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/FU-LArOFMNrHyc3DDcQnVLpDwqlq5F_MME0WmISMut0.original.fullsize.png\">\n$\\frac{3}{2}$ mole soap. $=\\frac{3}{2} \\times 606 \\mathrm{gm}=909 \\mathrm{gm}$",
+    "solution_image": null,
+    "topic": "Abnormal Behaviour of Formic Acid"
+  },
+  {
+    "question_id": "64b16aa8f23ac7d519f9b66c",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>In the following reactions, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">P</mi><mo>,</mo><mi mathvariant=\"bold\">Q</mi><mo>,</mo><mi mathvariant=\"bold\">R</mi></math>, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">S</mi></math> are the major products.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a269bb02-9884-4024-964d-22a1c1145cb0.png\" style=\"width: 400px; height: 110px;\" /></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a9b909d7-d90e-47c2-bec5-44781080da22.png\" style=\"width: 400px; height: 80px;\" /></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0d775c2e-aba1-490e-b8c1-74a5e393036c.png\" style=\"width: 400px; height: 144px;\" /></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d2b88317-9735-49a0-bd61-238cc9863345.png\" style=\"width: 400px; height: 107px;\" /></p><p>The correct statement(s) about <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">P</mi><mo>,</mo><mi mathvariant=\"bold\">Q</mi><mo>,</mo><mi mathvariant=\"bold\">R</mi></math>, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">S</mi></math> is(are)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cQVm8",
+        "text": "P and Q are monomers of polymers dacron and glyptal, respectively.",
+        "image": null
+      },
+      {
+        "id": "BWvB7",
+        "text": "P, Q, and R are dicarboxylic acids.",
+        "image": null
+      },
+      {
+        "id": "0mr2j",
+        "text": "Compounds <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">Q</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi></math> are the same.",
+        "image": null
+      },
+      {
+        "id": "4UYZU",
+        "text": "<strong>R</strong> does not undergo aldol condensation and <strong>S</strong> does not undergo Cannizzaro reaction.",
+        "image": null
+      }
+    ],
+    "correct_answer": "4UYZU",
+    "solution_text": "<p>Toluene part of the reactant in the first reaction&nbsp;undergoes oxidation with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub></math>, forms benzoic acid. In this conversion, alkyl part of toluene converts into carboxylic group. So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>&nbsp;is a monocarboxylic acid.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9a0809ac-3caf-46c2-bd12-9e6d32fea27e.png\" style=\"width: 589px; height: 153px;\" /></p><p>Both ester and acid halides undergo hydrolysis to give carboxylic acid. Hence, the product&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>&nbsp;is the dicarboxylic acid. And it is known as isophthalic acid.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7c15c884-db08-4875-bf1c-c5e3bc16be1a.png\" style=\"width: 530px; height: 156px;\" /></p><p>In the third reaction, ester undergo hydrolysis in the first step, which results beta keto acid. Beta keto acids are unstable. They liberate carbon dioxide on heating. The alpha methyl ketone formed undergo oxidation with chromic acid give carboxylic acid. Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math>&nbsp;is also isophthalic acid.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7832a67c-385f-42ec-9604-242ea1375764.png\" style=\"width: 618px; height: 514px;\" /></p><p>In the fourth reaction, the bromo part reacts with magnesium metal to give Grignard reagent. Grignard reagent give carboxylic acid upon reaction with carbon dioxide. Now during the hydrolysis of previous step acetal cleavage takes place and gives aldehyde functional group. This aldehyde converts to carboxylic acid with Tollen&#39;s reagent. This results the terephthalic acid.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c41496f5-e447-4c7a-849e-c96437945f0d.png\" style=\"width: 671px; height: 417px;\" /></p><p>The products&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>&#160;</mo><mi>and</mi><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></math>&nbsp;are dicarboxylic acids and does not undergo Aldol condensation reaction or Cannizzaro&#39;s reaction.</p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Acid Derivatives"
+  },
+  {
+    "question_id": "64b16aa3f23ac7d519f9b63e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>List-I</strong></td>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>List-II</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>(P)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8594;</mo></math></td>\t\t\t<td>(1)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>(</mo><mi mathvariant=\"normal\">O</mi><mo>)</mo><mfenced><msub><mi>OCH</mi><mn>3</mn></msub></mfenced><msub><mi>Cl</mi><mn>2</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(Q)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><mo>+</mo><mn>3</mn><mi>NaOH</mi><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8594;</mo></math></td>\t\t\t<td>(2)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(R)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PCl</mi><mn>5</mn></msub><mo>+</mo><msub><mi>CH</mi><mn>3</mn></msub><mi>COOH</mi><mo>&#8594;</mo></math></td>\t\t\t<td>(3)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PH</mi><mn>3</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(S)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><mn>4</mn><msub><mi>AgNO</mi><mn>3</mn></msub><mo>&#8594;</mo></math></td>\t\t\t<td>(4)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>POCl</mi><mn>3</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>(5)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub></math></td>\t\t</tr>\t</tbody></table><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "S89Z3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>2</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>1</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "AlQrx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>5</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>4</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Z9ghH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>5</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>2</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>1</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "sNRWE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>2</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>4</mn><mo>;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "sNRWE",
+    "solution_text": "<blockquote><p>Phosphorus trioxide reacts with water to form phosphorous acid,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8594;</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>3</mn></msub></math></p><p>When acetic acid is heated with phosphorus pentachloride, acetyl chloride is obtained. In this reaction, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo><mi>COOH</mi></math> group is converted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo><mi>COCl</mi></math> group. The side products are phosphorus oxychloride and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PCl</mi><mn>5</mn></msub><mo>+</mo><msub><mi>CH</mi><mn>3</mn></msub><mi>COOH</mi><mo>&#8594;</mo><msub><mi>CH</mi><mn>3</mn></msub><mi>COCl</mi><mo>+</mo><msub><mi>POCl</mi><mn>3</mn></msub><mo>+</mo><mi>HCl</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub></math>&nbsp;undergo disproportionation reaction with sodium hydroxide.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>4</mn></msub><mo>+</mo><mn>3</mn><mi>NaOH</mi><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#160;</mo><mover><mo>&#8594;</mo><mrow/></mover><msub><mi>PH</mi><mn>3</mn></msub><mo>+</mo><mn>3</mn><msub><mi>NaH</mi><mn>2</mn></msub><msub><mi>PO</mi><mn>2</mn></msub></math></p><p>Due to the presence two&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi mathvariant=\"normal\">H</mi></math>&nbsp;bonds,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub></math>&nbsp;acts as reducing agent. It reduces&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ag</mi><mo>+</mo></msup></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ag</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mi>AgNO</mi><mn>3</mn></msub><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>4</mn></msub><mo>+</mo><msub><mi>HNO</mi><mn>3</mn></msub><mo>+</mo><mi>Ag</mi><mo>&#8595;</mo></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Acid Derivatives"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5d2",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>Considering the reaction sequence given below, the correct statement(s) is(are)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/da69cae0-5ed8-49c9-b5e7-e08fc78466a3-image.png\" style=\"width: 700px; height: 156px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Hraa4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> can be reduced to a primary alcohol using <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaBH</mi><mn>4</mn></msub></math>.",
+        "image": null
+      },
+      {
+        "id": "Qccw2",
+        "text": "Treating <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> with conc. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>4</mn></msub><mi>OH</mi></math> solution followed by acidification gives <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "JpM1I",
+        "text": "Treating <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math> with a solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaNO</mi><mn>2</mn></msub></math> in&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>aq</mi><mo>.</mo><mi>HCl</mi></math> liberates <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">N</mi><mn>2</mn></msub></math>.",
+        "image": null
+      },
+      {
+        "id": "H93Wq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> is more acidic than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CH</mi><mn>3</mn></msub><msub><mi>CH</mi><mn>2</mn></msub><mi>COOH</mi></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "H93Wq",
+    "solution_text": "<p>Propanoic acid is&nbsp;having &nbsp;&alpha;-hydrogen hence it is&nbsp;halogenated at the &alpha;-position on treatment with chlorine or bromine in the presence of small amount of red phosphorus to give &alpha;-bromo propanoic acid. The reaction is known as Hell-Volhard-Zelinsky reaction.</p><p>Second step of the reaction involves&nbsp;Gabriel phthalimide synthesis&nbsp;Where potassium salt of phthalimide which on heating with 2-bromo propanoic acid&nbsp;&nbsp;followed by alkaline hydrolysis produces the corresponding 2-amino propanoic acid. Aromatic primary amines cannot be prepared by this method.​​​​​​<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2b9980e6-0166-452d-916f-d54a83570c40-image.png\" style=\"width: 600px; height: 268px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaBH</mi><mn>4</mn></msub></math>&nbsp;cannot reduce the acids.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Conc</mi><mo>.</mo><mo>&#160;</mo><msub><mi>NH</mi><mn>4</mn></msub><mi>OH</mi></math>&nbsp;exist in the following equilibrium,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>NH</mi><mn>4</mn><mo>+</mo></msubsup><mo>&#160;</mo><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><msup><mi>OH</mi><mo>-</mo></msup><mo>&#8651;</mo><msub><mi>NH</mi><mn>3</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0c48af1b-9e3a-4793-b084-1155b65f183b-image.png\" style=\"width: 581px; height: 228px;\" /></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Acid Derivatives"
+  },
+  {
+    "question_id": "64b16a06f23ac7d519f9b0a3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "In the reaction the structure of the product $T$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ty1ZkhKwuyldG1DQNcjd0AT3HPZOA43ocCLBqaMwhlg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wxnFR",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/TSu69oPn4xTuC50RwgJPSGnSOC6XJVJZ-mowin5UJg0.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "XinGL",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QKC3ihcIr9XuXXsAK3kUGuAJy7UWULhCP56OhPlrx5A.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "2HZUk",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JSMfI_RJhvcjmYjkePSDh0TGHLSxAyjrjbspJDmZuLc.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "JpaAQ",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/WGmILMBmvsnyTghZRpx_lM0tY_NIiaNyxEG-TAi0vTM.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "XinGL",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eUfPSVZUxXHhPXPRNB41PEarJhi5jLOvwDpPGp4wf0U.original.fullsize.png\"><br>\nAcids and their derivatives Conceptual (Reaction understanding) II",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Acid Derivatives"
+  },
+  {
+    "question_id": "64b169f2f23ac7d519f9afe9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "$$\n\\text { Match each of the compounds is Column I with its characteristic reaction(s) is Column II. }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fjpzYZkIB7A3picoT0unS5p28yTVroAGAOEWZI8JLYs.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SqBeF",
+        "text": "\n(A) q,t, (B) p,s, (C) r,t, (D) s\n",
+        "image": null
+      },
+      {
+        "id": "hquaM",
+        "text": "\n(A) p,q,s,t, (B) p,s,t, (C) p, (D) r\n",
+        "image": null
+      },
+      {
+        "id": "xZc1t",
+        "text": "\n(A) p,s, (B) p,s, (C) p, (D) s\n",
+        "image": null
+      },
+      {
+        "id": "J1mUC",
+        "text": "\n(A) p,q,s,t, (B) p,s,t, (C) r, (D) r",
+        "image": null
+      }
+    ],
+    "correct_answer": "hquaM",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Acid Derivatives"
+  },
+  {
+    "question_id": "64b169c9f23ac7d519f9ae77",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/62dw58hJjDT5agcIqqoV_iZjFa0BgQl3GCNmB-4lPVk.original.fullsize.png\"><br>\n$$\n\\text { The major products } P \\text { and } Q \\text { are }\n$$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tzzi8",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CxAlF9x3M8ofU8sdbG8RZUGYcQxw3frmFWoatGb0rNA.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "UIMk0",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cRB80stYqMstJ7l0uceGKED2_Qyu5Akp2S3yIpWtxnU.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "E2PJY",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/AdVu5GqXKXCVEsekuDCafp64f_LTIbbzuaAGwtlAGQk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "sNJVo",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/16IQPa_HcUkC256-20gMuXpxGhMvg2DtvlKC1ronOlc.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "E2PJY",
+    "solution_text": "$$\n\\text { It is cumene hydroperoxide rearrangement. }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kb2FysgWaVf9kjWs39YI3KcutzetM-BTXr-u-PAXU_8.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Acid Derivatives"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cc2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The correct reaction/reaction sequence that would produce a dicarboxylic acid as the major product is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wbGjs",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/slixWjwT7D8RXejU9jh3u_eWCZeLxT8XjsDiDWFtoLk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "LKFR8",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/abzAwh1PRfARq4TWsfDyLnacvgyVHIs2WzoMKjIPWNI.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "jQLjc",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_yLpZWnwVasJfIJa3KK25q3EqefD7VCZI6M4XdMbVGo.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "uJPwH",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/KvBsHrvE-pYNuX4NkE5KOIDlcpCWwhehqjTzPERyerw.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jQLjc",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/E_3YriGauLR95X27BOrXfxVo5-08hXaXShPrN1ew5bI.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ix0Tml7ogYKPznW81wtHiEIb2aOoxVqX785v3wqK4aM.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "64b16aa2f23ac7d519f9b633",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Consider the following reaction scheme and choose the correct option(s) for the major products <strong>Q, R </strong>and <strong>S</strong>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6633ace8-4bc9-41f9-9835-a9e5312ffdfc.png\" style=\"width: 489px; height: 179px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Hifjn",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bb6cbfeb-706a-4ea1-8624-9bea99587e1a.png\" style=\"width: 350px; height: 174px;\" />",
+        "image": null
+      },
+      {
+        "id": "8SnAy",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/709d48b4-b6f8-42dd-bea6-b5792411daaf.png\" style=\"width: 350px; height: 160px;\" />",
+        "image": null
+      },
+      {
+        "id": "2Hgec",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cd1a7162-374e-4c7d-a6d3-fa5be8fac94d.png\" style=\"width: 350px; height: 194px;\" />",
+        "image": null
+      },
+      {
+        "id": "MPgM9",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7c1e815b-0dc2-4d1a-b019-52be029b6dd7.png\" style=\"width: 350px; height: 182px;\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "8SnAy",
+    "solution_text": "<blockquote><p>Styrene on hydroboration-oxidation reaction gives a primary alcohol. It follows anti-Markonikov&#39;s rule to give alcohol from alkenes. Primary alcohols give carboxylic acids on oxidation with Jone&#39;s reagent. The alpha chloro carboxylic acid is produced on HVZ reaction of carboxylic acid produced.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b84149e0-d266-4bf5-81a7-000aea26efce.png\" style=\"width: 697px; height: 167px;\" /></p><p>2-phenyl ethanol on reaction with thionyl chloride produces 1-chloro-2-phenylethane. The chloro group is replaced with cyano group. The cyanide on hydrolysis give carboxylic acid. The carboxylic acid undergoes acylation reaction in the presence of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>conc</mi><mo>.</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4d71ea56-ee53-426f-8229-d207c2ab49b4.png\" style=\"width: 744px; height: 174px;\" /></p></blockquote>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b47d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>The correct order of acid strength of the following carboxylic acids is -<br > <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jdozhqiabovphecdqgpsaitjexppcyjbkgkngfbxrvuoasdjnv.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cDfWB",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></math>",
+        "image": null
+      },
+      {
+        "id": "xB1XW",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></math>",
+        "image": null
+      },
+      {
+        "id": "xYX6B",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></math>",
+        "image": null
+      },
+      {
+        "id": "BO1X7",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mo>&gt;</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "BO1X7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vpfnulqahxntpdhhkrhfjvqlrphcqlkbdsuvldorsiuosuchsw.jpeg\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zdxbionbazotbmbyrctjuszqyyqyntwoggfgrzqsqdxnffffmx.jpeg\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zdhyghnzpkznalnkpxuxaxqrvzwodeiivmakpamtknehcjgpea.jpeg\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ziamfpkwpxtbfqhozlddjkcbjnilnumospzxyriuzyavpbmfha.jpeg\"/>\r\n\r\nAcidic strength <math><mo>∝</mo></math> stability of conjugate chain\r\n\r\nOrder of Acidic strength <math><mo>⇒</mo><menclose notation=\"box\"><mtext>I</mtext><mo>></mo><mtext>II</mtext><mo>></mo><mtext>III</mtext><mo>></mo><mtext>IV</mtext></menclose></math>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b36e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<p>The correct order of acidity for the following compounds is :<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.1.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qLX7Y",
+        "text": "I &gt; II &gt; III &gt; IV",
+        "image": null
+      },
+      {
+        "id": "aRD2a",
+        "text": "III > I > II > IV",
+        "image": null
+      },
+      {
+        "id": "CdVuC",
+        "text": "III > IV > II > I",
+        "image": null
+      },
+      {
+        "id": "RDvhN",
+        "text": "I > III > IV > II",
+        "image": null
+      }
+    ],
+    "correct_answer": "qLX7Y",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.1_Ans_1.jpg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.1_Ans_2.jpg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.1_Ans_3.jpg\"/></p><p><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.1_Ans_4.jpg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.1_Ans_5.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "64b16a21f23ac7d519f9b19c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The compound that undergoes decarboxylation most readily under mild condition is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AZt6L",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U2XxpDah8RlZahhfYNUqIu-gjAcZnKCXlvbBXQEpvgc.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "cm99L",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/G2x3j3M6lfNfK05A9ZA9JsDVocPDwd-9R2JVbkklaAc.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "BhQBC",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ux7_FRzB9HRZws8RKmycNUVoeM2NsY5kdYo5mLv9OYM.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "J1iTj",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PbAnLAq5Y0zlI-nWPLYC8WiBGsoMPLOVB7eg_OYy4R4.original.fullsize.png\">",
+        "image": null
+      }
+    ],
+    "correct_answer": "cm99L",
+    "solution_text": "$\\beta-$ Ketoacids undergo decarboxylation easily. It is due to the stability of transition state formed after decarboxylation of $\\beta$-keto acids. This is not possible in case of other acids.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/G9onUPiY5nAanJf2o70Ze_djJIj72IOTdMvWWFJiWO8.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b162",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The carboxyl functional group $(-\\mathrm{COOH})$ is present in",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8zIms",
+        "text": "picricacid",
+        "image": null
+      },
+      {
+        "id": "FJEmc",
+        "text": "barbituric acid",
+        "image": null
+      },
+      {
+        "id": "0FQSv",
+        "text": "ascorbic acid",
+        "image": null
+      },
+      {
+        "id": "gs6Ze",
+        "text": "aspirin",
+        "image": null
+      }
+    ],
+    "correct_answer": "gs6Ze",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/k7WmyASwckIsJjDhjh_uSBzZYXTpaYekwJJYDtvj4NA.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Lx1913Cy53_MT4XdgRq0yhP74rb0KP77fzdxGMTr0eU.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "64b169f0f23ac7d519f9afdc",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The correct acidity order of the following is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7b6qdMHsSZY6-VDA-Ft2vqn1SuYfdt-U_Nh6myMTsgA.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zv8Ql",
+        "text": "\nIII $>$ IV $>$ II $>$ I\n",
+        "image": null
+      },
+      {
+        "id": "H1Azj",
+        "text": "\nIV $>$ III $>$ I $>$ II\n",
+        "image": null
+      },
+      {
+        "id": "RzL67",
+        "text": "\nIII $>$ II $>$ I $>$ IV\n",
+        "image": null
+      },
+      {
+        "id": "A2aLu",
+        "text": "\nII $>$ III $>$ IV $>$ I",
+        "image": null
+      }
+    ],
+    "correct_answer": "zv8Ql",
+    "solution_text": "A carboxylic acid is stronger acid than phenol, hence both III and IV are stronger acids than both I and II. Also IV has a methyl group that gives electron donating inductive effect and decreases the acid strength. Therefore, III is stronger acid that IV. Between I and II, the dominant electron withdrawing inductive effect of chlorine increases acid strength of phenol slightly, hence II is stronger acid than I. Thus, the overall order is :\n(a) III $>$ IV $>$ II $>$ I",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Carboxylic Acids"
+  },
+  {
+    "question_id": "6a0be51044d287c9361e5ca2",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "The sum of total number of carbonyl groups ($\\text{>C=O}$) present in the major products $\\textbf{X}$ and $\\textbf{Y}$ in the following reactions is ____.<br><img style=\"width: 500px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q43_d1.png\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Reaction 1:<br>The reactant is 2,4-dimethyl-3-oxopentanedioic acid, which is a $\\beta$-keto acid (both $-\\text{CO}_2\\text{H}$ groups are at the $\\beta$-position with respect to the central ketone group). $\\beta$-keto acids readily undergo decarboxylation upon heating. Since there are two such groups, it will undergo double decarboxylation.<br><br>$\\text{HO}_2\\text{C}-\\text{CH}(\\text{CH}_3)-\\text{C}(=\\text{O})-\\text{CH}(\\text{CH}_3)-\\text{CO}_2\\text{H} \\xrightarrow{\\Delta} \\text{CH}_3-\\text{CH}_2-\\text{C}(=\\text{O})-\\text{CH}_2-\\text{CH}_3 + 2\\text{CO}_2$<br><br>The major product $\\textbf{X}$ is 3-pentanone. <br>Number of carbonyl groups ($>\\text{C=O}$) in $\\textbf{X} = 1$.<br><br>Reaction 2:<br>The reactant is *cis*-3,4-dicarboxycyclopentanone. The two carboxylic acid groups are on adjacent carbons (a 1,2-dicarboxylic acid system). Heating a 1,2-dicarboxylic acid leads to dehydration, forming a stable 5-membered cyclic anhydride.<br><br>The major product $\\textbf{Y}$ is the cyclic anhydride of the reactant, which is a fused bicyclic system containing the original cyclopentanone ring and a newly formed succinic anhydride ring.<br>The structure of $\\textbf{Y}$ contains one ketone carbonyl group and two anhydride carbonyl groups.<br>Number of carbonyl groups ($>\\text{C=O}$) in $\\textbf{Y} = 1 + 2 = 3$.<br><br>Sum of total number of carbonyl groups in $\\textbf{X}$ and $\\textbf{Y} = 1 + 3 = 4$.<br><br>Answer: $4$",
+    "solution_image": null,
+    "topic": "Reactions Involving Acid Group"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cc1",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Monocyclic compounds $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$ and $\\mathbf{S}$ are the major products formed in the reaction sequences given below.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hyUZrLh_aS_0NVujRtkkZcX1oLUlrbXGUKWg3zU4Qv4.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/N5Haau3AoC3j8SrHxV_iWUbOkrV_Hw2n4NSZ4gqBAbs.original.fullsize.png\"><br>The product having the highest number of unsaturated carbon atom(s) is-",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hHSTZ",
+        "text": "$\\mathbf{P}$",
+        "image": null
+      },
+      {
+        "id": "YsY4z",
+        "text": "$\\mathbf{Q}$",
+        "image": null
+      },
+      {
+        "id": "N3lzB",
+        "text": "$\\mathbf{R}$",
+        "image": null
+      },
+      {
+        "id": "Xsdts",
+        "text": "$\\mathbf{S}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Xsdts",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yQy1IMfQ21hxWT09kC8un4rbq5-O5WPj1QA_C8PlEkY.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gTwwuYKpMy4ysiy1BdwOWw00D8dH5A8kdj0C3mg8oLY.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Reactions Involving Acid Group"
+  },
+  {
+    "question_id": "64b16a78f23ac7d519f9b4b3",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Which of the following reactions produce(s) propane as a major product?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qAwiF",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fd69038c-49b3-435e-99e7-726979a8a649-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "5X9Qk",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c19dac92-4f53-402b-8a26-863e59de6eb4-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "fZUnq",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/59f611dd-f0b5-4a2e-b3f5-d712c8270edf-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "ymJkb",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e607e3d0-b0f7-4dfd-9785-dc80df66fe64-image.png\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "fZUnq",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f698d233-489d-4de4-9788-7132689b6b01-image.png\"/><br/><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6c7e0e17-ede7-4463-a200-4c8ace52c213-image.png\"/>",
+    "solution_image": null,
+    "topic": "Reactions Involving Acid Group"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b298",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<p>Different possible thermal decomposition pathways for peroxyesters are shown below. Match each<br >\r\n\r\npathway from List I with an appropriate structure from List II and select the correct answer using the code<br >\r\n\r\ngiven below the lists.<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image26-192d6dfb-e615-477e-8c89-e1b8fc86dfde.jpg\"/><br/>\r\n\r\n \r\n\r\n</p><table border=\"1\"><tbody><tr><td> </td><td>List – I</td><td> </td><td>List – II</td></tr><tr><td>A</td><td>Pathway P</td><td>P.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image27-cae9373e-82fd-4045-9de3-271eeb5dd604.jpg\"/></td></tr><tr><td>B.</td><td>Pathway Q</td><td>Q.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image28-a27e749a-6051-4e20-9abe-745bcbccee07.jpg\"/></td></tr><tr><td>C.</td><td>Pathway R</td><td>R.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image29-3c99672b-24fc-4ffd-8f0b-ad1c27e43f5b.jpg\"/></td></tr><tr><td>D.</td><td>Pathway S</td><td>S.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image30-80827316-b739-4f71-8719-9b71884f14d6.jpg\"/></td></tr></tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "t2AXn",
+        "text": "a-p;b-r;c-s;d-q;",
+        "image": null
+      },
+      {
+        "id": "DHWky",
+        "text": "a-s;b-p;c-r;d-q;",
+        "image": null
+      },
+      {
+        "id": "o4xv6",
+        "text": "a-r;b-s;c-q;d-p;",
+        "image": null
+      },
+      {
+        "id": "28trR",
+        "text": "a-s;b-p;c-q;d-r;",
+        "image": null
+      }
+    ],
+    "correct_answer": "t2AXn",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image31-7c241392-326c-46b9-815d-a8fd2bf76da7.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image32-d6f3934c-ddf6-4792-abf0-1f6221432adf.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image33-cf4ef346-d882-44b3-80dd-23fdce711c96.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image34-d0236899-862a-4da6-9698-fa84e241228d.jpg\"/>",
+    "solution_image": null,
+    "topic": "Reactions Involving Acid Group"
+  }
+]

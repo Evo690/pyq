@@ -1,0 +1,1811 @@
+[
+  {
+    "question_id": "64b169dcf23ac7d519f9af24",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Match the chemical substance in Column I with type of polymers/type of bonds in Column II. Indicate your answer by darkening the appropriate bubbles of the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/w4x9XLhiCV8vUdID4JoLSlbgktj2IlXjSR4y-LbxBJs.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "paYn9",
+        "text": "\nA-p, r; B-p, q; C-p; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "VmpO8",
+        "text": "\nA-p, s; B-p; C-p, s; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "vWyuD",
+        "text": "\nA-p, q, s; B-q; C-r, s, s; D-r\n",
+        "image": null
+      },
+      {
+        "id": "hmvS7",
+        "text": "\nA-r, s; B-q; C-p; D-p, q",
+        "image": null
+      }
+    ],
+    "correct_answer": "vWyuD",
+    "solution_text": "A-p, $q, s, \\quad \\mathrm{~B}-q, \\quad \\mathrm{C}-r, s, \\quad \\mathrm{D}-r$",
+    "solution_image": null,
+    "topic": "Attacking reagents"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5cb",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>Consider the following reaction.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a1113660-953c-4051-a78e-2ee4813f5ed3-image.png\" style=\"width: 400px; height: 145px;\" /></p><p>On estimation of bromine in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math> of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math> using Carius method, the amount of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AgBr</mi></math> formed (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>) is____[Given: Atomic mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi><mo>=</mo><mn>12</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">O</mi><mo>=</mo><mn>16</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">P</mi><mo>=</mo><mn>31</mn><mo>,</mo><mo>&#160;</mo><mi>Br</mi><mo>=</mo><mn>80</mn><mo>,</mo><mo>&#160;</mo><mi>Ag</mi><mo>=</mo><mn>108</mn></math>]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.5",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">P</mi><mo>+</mo><mn>3</mn><msub><mi>Br</mi><mn>2</mn></msub><mo>&#8594;</mo><mn>2</mn><msub><mi>PBr</mi><mn>3</mn></msub></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ac4ec61e-3df9-407a-9d52-380af8db74dc-image.png\" style=\"width: 350px; height: 161px;\" /></p><p>Number of moles in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>gm</mi></math> of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>250</mn></mfrac></math></p><p>using Carius method all the Br will be converted into AgBr. So, using POAC method</p><p>Number of moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AgBr</mi></math> formed from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced><mo>=</mo><mfrac><mn>2</mn><mn>250</mn></mfrac></math></p><p>Mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AgBr</mi></math> formed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&#215;</mo><mn>188</mn></mrow><mn>250</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>50</mn><mi>gm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Bond Cleavage"
+  },
+  {
+    "question_id": "64b16a91f23ac7d519f9b59a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nThe amount of energy required to break a bond is same as the amount of energy released when the same bond is formed. In gaseous state, the energy required for homolytic cleavage of a bond is called Bond Dissociation Energy (BDE) or Bond Strength. BDE is affected by $s$-character of the bond and the stability of the radicals formed. Shorter bonds are typically stronger bonds. BDEs for some bonds are given below:\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/y1VjedD8JLq7LfjxhdWXgVlMi1sNYHZ_ikzkqGUDksQ.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hYIQFE4CI0REUB3l90CihU9MpVVnnQf9Sf2OE7tdFC0.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5DXHwSSjjBoyFV1aAzf3wbJw2qh5JJh-a5ug6-S5DqM.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tS7MRFgYVI0YTc78AgYQuQ3jpu90EH1gwPlmf7cNMxY.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nCorrect match of the $\\mathbf{C}-\\mathbf{H}$ bonds (shown in bold) in Column $\\mathbf{J}$ with their BDE in Column $\\mathbf{K}$ is\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8FUJsu6o7ziBbyGmsDNHKFhKxhX7W6xCFT7t85uQTiw.original.fullsize.png\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oYxE7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi>iii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>-</mo><mi>iv</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>-</mo><mi>ii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>-</mo><mi mathvariant=\"normal\">i</mi></math>",
+        "image": null
+      },
+      {
+        "id": "BhAX3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi mathvariant=\"normal\">i</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>-</mo><mi>ii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>-</mo><mi>iii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>-</mo><mi>iv</mi></math>",
+        "image": null
+      },
+      {
+        "id": "ywnxV",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi>iii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>-</mo><mi>ii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>-</mo><mi mathvariant=\"normal\">i</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>-</mo><mi>iv</mi></math>",
+        "image": null
+      },
+      {
+        "id": "IE8V3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi>ii</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>-</mo><mi mathvariant=\"normal\">i</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>-</mo><mi>iv</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>-</mo><mi>iii</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "oYxE7",
+    "solution_text": "Relative stability of radicals :<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mover><mi mathvariant=\"normal\">C</mi><mo>&#8729;</mo></mover><mfenced><mi>sp</mi></mfenced></munder><mo>&#8801;</mo><mi>CH</mi><mo>&#62;</mo><munder><mrow><mover><mi mathvariant=\"normal\">C</mi><mo>&#8729;</mo></mover><mi mathvariant=\"normal\">H</mi></mrow><mfenced><msup><mi>sp</mi><mn>2</mn></msup></mfenced></munder><mo>=</mo><msub><mi>CH</mi><mn>2</mn></msub><mo>&#62;</mo><munder><mrow><mover><mi mathvariant=\"normal\">C</mi><mo>&#8729;</mo></mover><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#8722;</mo><mi>Ph</mi></mrow><mrow><mfenced><msup><mi>sp</mi><mn>3</mn></msup></mfenced><mo>&#160;</mo><mfenced><mrow><mi>Resonance</mi><mo>&#160;</mo><mi>stabilized</mi></mrow></mfenced></mrow></munder><mo>&#62;</mo><munder><mrow><mover><mi mathvariant=\"normal\">C</mi><mo>&#8729;</mo></mover><mi mathvariant=\"normal\">H</mi><msub><mfenced><msub><mi>CH</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></mrow><mfenced><msup><mi>sp</mi><mn>3</mn></msup></mfenced></munder></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>BDE</mi></math></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>&#8722;</mo><mi mathvariant=\"normal\">C</mi><mo>&#8801;</mo><mi>CH</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>&#8722;</mo><mi>CH</mi><mo>=</mo><msub><mi>CH</mi><mn>2</mn></msub></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>&#8722;</mo><msub><mi>CH</mi><mn>2</mn></msub><mo>&#8722;</mo><mi>Ph</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>&#8722;</mo><mi>CH</mi><msub><mfenced><msub><mi>CH</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>BDE</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>132</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>110</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>88</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>95</mn></math></td>\t\t</tr>\t</tbody></table><p>Electronegativity&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">%</mi><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>- character</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo></math>&nbsp;bond strength</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>BDE</mi></math></p>",
+    "solution_image": null,
+    "topic": "Bond Cleavage"
+  },
+  {
+    "question_id": "64b16a7ff23ac7d519f9b4f9",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>In the following reaction, compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math> is obtained from  compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> via an ionic intermediate.<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d439221f-a228-44a8-a0ae-cdea23222263-image.png\"/> </p><p>What is the degree of unsaturation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>?</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "18",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f22d0fd6-4a52-40a9-b3e7-f09e3a7c4835-image.png\"/>",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b16a78f23ac7d519f9b4b5",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Choose the correct option(s) that give(s) an aromatic compound as the major product.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EmpYf",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/da01e20a-c953-4ead-8012-2593ee0c0f74-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "OqjMJ",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0b7f098d-cf74-4c87-8bdd-acff221881d7-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "18PBN",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a4a509ef-d231-46f9-b33f-62340581df1f-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "IQhbR",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c6237100-cddf-435e-ae3d-ee818632f780-image.png\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "IQhbR",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/864209b6-59e9-48c5-8b30-57a0728b17d1-image43.jpeg\"/>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9b75fbb9-3a8a-4db7-889e-2e1082a1c0e3-image.png\"/>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/287ebc68-f6a7-4500-b96f-361e2f2b0803-image.png\"/>\r\n\r\n<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8b13f1f1-1939-4934-aafd-20e3d94c2c3f-image.png\"/>",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b16a5bf23ac7d519f9b3ae",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>Among the following, the number of aromatic compound (s) is/are <br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fyngifxripjhefbxvsdvsxxhqvgquhxobnwfnwhnswjfxjlenp.jpeg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1.jpg\"/></p><p>Cyclooctatetraene; <strong>non-aromatic</strong>, due to non-planarity of ring the <math><mi>π</mi></math>-electrons are not delocalised.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_2.jpg\"/></p><p>Cyclopropenyl anion; <strong>Anti-aromatic</strong>, <math><mn>4</mn><mi>π</mi></math>-electrons are  delocalised</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_3.jpg\"/></p><p>Cyclopropenyl cation; <strong>Aromatic, </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">π</mi></math>-electrons are  delocalised.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_4.jpg\"/></p><p>Cyclohexadiene : <strong>Non-aromatic, </strong>as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>π</mi></math> electrons are not fully conjugated.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_5.jpg\"/></p><p>Tropylium ion : <strong>Aromatic</strong>, as it contains conjugated system of  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>)</mo><mi mathvariant=\"normal\">π</mi></math> electrons (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi mathvariant=\"normal\">π</mi></math>electrons).  It is cyclic and planar.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_6.jpg\"/></p><p>Cyclopentadienyl cation; <strong>Anti-aromatic, </strong><math><mn>4</mn><mi>π</mi></math>-electrons  are delocalised.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_7.jpg\"/></p><p>Cyclopentadienyl anion; <strong>Aromatic, </strong>as it contains conjugated system of  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>)</mo><mi mathvariant=\"normal\">π</mi></math> electrons (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi mathvariant=\"normal\">π</mi></math> electrons).  It is cyclic and planar.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29_solu_chem_pa1_8.jpg\"/></p><p>Both are aromatic as first it contains conjugated system of  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>)</mo><mi mathvariant=\"normal\">π</mi></math> electrons (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi mathvariant=\"normal\">π</mi></math> electrons).  It is cyclic and planar. These are pi electrons present in one ring. Pi electrons present in other ring are not counted.</p><p>Second one contains conjugated system of  <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>2</mn><mo>)</mo><mi mathvariant=\"normal\">π</mi></math> electrons (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>14</mn><mi mathvariant=\"normal\">π</mi></math> electrons).  It is cyclic and planar. </p>",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b16a41f23ac7d519f9b2c3",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>The number of resonance structures for N is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image23-88bb0ae0-88ae-48b4-9703-03c1307aa363.jpg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p>Compound given contain phenolic <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi>OH</mi></math>, hhence on reaction with sodium hydroxide reaction will be;</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image24-8c63f4d9-dd4c-4dfb-ac6c-d8c1cc25ae66.png\"/><br >The ion (N) form will be stabilized by resonance. The resonating structures are:<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image25-4cf5b49c-8da4-4eaf-ba3e-f45f6bc518fc.png\"/></p>",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1df",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>Among P, Q, R and S, the aromatic compound(s) is/are<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012592_Question_1.jpg\"/>​</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0k3Bf",
+        "text": "P",
+        "image": null
+      },
+      {
+        "id": "szvyy",
+        "text": "Q",
+        "image": null
+      },
+      {
+        "id": "ySIwq",
+        "text": "R",
+        "image": null
+      },
+      {
+        "id": "u3J0X",
+        "text": "S",
+        "image": null
+      }
+    ],
+    "correct_answer": "u3J0X",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012592_AnsExp1_1..jpg\"/><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012592_AnsExp1_2..jpg\"/>",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b165",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Which of the following molecules, in pure form, is (are) unstable at room temperature ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wz5IU",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/q_G7MXO8c1gTTHi4SSgtPquWGNRwoPGHWaNJ0Hkavdc.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "hPmyK",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/TnMQXzV-4nBO0lG5drYsT9nm53VLR-ElBhP3CtBE_9E.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "HCUdK",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QpYAc1R_u96fs_-WRhJ7FV0NJiUexLwFGkAS3MXfDhM.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "zhOA9",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/elyCAV3Laj8Q_lUkQwso3U5cPCROSdt8W1PeMwfuyic.original.fullsize.png\">",
+        "image": null
+      }
+    ],
+    "correct_answer": "HCUdK",
+    "solution_text": "(b) and (c) being antiaromatic, are unstable at room temperature.",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b169f6f23ac7d519f9b013",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "In the following carbocation, $\\mathrm{H} / \\mathrm{CH}_3$ that is most likely to migrate to the positively charged carbon is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SL8Rsu5u8piwlrnZ6cwJsXNsIB9cai7C5FH3HNiqyBU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6oOPu",
+        "text": "\n$\\mathrm{CH}_3$ at $\\mathrm{C}-4$\n",
+        "image": null
+      },
+      {
+        "id": "pEOv5",
+        "text": "\n$\\mathrm{H}$ at $\\mathrm{C}-4$\n",
+        "image": null
+      },
+      {
+        "id": "MOs61",
+        "text": "\n$\\mathrm{CH}_3$ at $\\mathrm{C}-2$\n",
+        "image": null
+      },
+      {
+        "id": "LgWXU",
+        "text": "\n$\\mathrm{H}$ at $\\mathrm{C}-2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "LgWXU",
+    "solution_text": "Hydride shift from $\\mathrm{C}-2$ will give most stable resonance stabilised carbocation as Fig.",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b169f6f23ac7d519f9b012",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The correct stability order of the following resonance structure is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ke2zkfkwW4j_l81tZraCKw8pk8IMJhvv-_R0VaW3EeI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "H7sJn",
+        "text": "\nI $>$ II $>$ IV $>$ III\n",
+        "image": null
+      },
+      {
+        "id": "Is1w4",
+        "text": "\nI $>$ III $>$ II $>$ IV\n",
+        "image": null
+      },
+      {
+        "id": "uJc41",
+        "text": "\nII $>$ I $>$ III $>$ IV\n",
+        "image": null
+      },
+      {
+        "id": "Ohfwj",
+        "text": "\nIII $>$ I $>$ IV $>$ II",
+        "image": null
+      }
+    ],
+    "correct_answer": "Is1w4",
+    "solution_text": "(I) has maximum covalent bonds and negative charge on electronegative nitrogen, most stable. III has more covalent bond than both II and IV, III is second most stable. Between II and IV, II is more stable since it has negative charge on nitrogen while IV has negative charge on carbon.",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af15",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the least stable resonance structure is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aLxf4",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fh4TbbuuKEpBc6Ts7ZXX92g0Nu3Oagls8l3X0BbobGc.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "6Wbln",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/elxRC_ZohVOwtwsXsTNVfTRvxuaI6_oW4WX50r6lVBw.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "tGE8o",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zO0CjtGAZALcUInCFs1aIgmue-GO7dTmyj9y40yETsM.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "mNBge",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Nl1Ztle3JkBXT41gmN_ITqiSD_ino4Gfo-ADjO5czd8.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "aLxf4",
+    "solution_text": "Tow positive charges are present at the adjacent place, elevates the energy lowers the stability most.",
+    "solution_image": null,
+    "topic": "Conjugation and Aromaticity"
+  },
+  {
+    "question_id": "685102c06bba689a3eb09c92",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Consider the depicted hydrogen $\\mathbf{( H )}$ in the hydrocarbons given below. The most acidic hydrogen $\\mathbf{( H )}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lIgWc",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gGlp8BuFJbtK6RXdyS45spytsIVFWhD-C224MEsaMBk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "uUxu9",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/85T0gPCRzGdfwbolmgYLE3rzeM3CWY4jmrLud6WUptQ.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "LuHbl",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZkeW0cHKVaWnXTb7_26LCRxSKmr5dXLMx97lOmyXIdA.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "rJsaE",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U1rHqD9Dzjhb-QQhVZWLt-UcDL2y2tjw8mc6KMUsobU.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "uUxu9",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/886lAWOdYDrjZTnlpuoQbah8q5PDejaDCMe7ID1tKX8.original.fullsize.png\"><br>B is most acidic : It forms most stable conjugate base.",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4ef",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>With respect to the compounds <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>-</mo><mi mathvariant=\"normal\">V</mi></math> choose the correct statement(s).</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/989d0f80-f764-4d35-be69-931fe66b2eb9-image.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MaWTV",
+        "text": "The acidity of compound&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> is due to delocalization in the conjugate base.",
+        "image": null
+      },
+      {
+        "id": "bewFm",
+        "text": "The conjugate base of compound&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math>&nbsp;is aromatic.",
+        "image": null
+      },
+      {
+        "id": "6SWhh",
+        "text": "Compound&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>&nbsp;becomes more acidic, when it has a<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><msub><mi>NO</mi><mn>2</mn></msub></math>&nbsp;substituent.",
+        "image": null
+      },
+      {
+        "id": "v55hA",
+        "text": "The acidity of compounds follows the order <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#62;</mo><mi>IV</mi><mo>&#62;</mo><mi mathvariant=\"normal\">V</mi><mo>&#62;</mo><mi>II</mi><mo>&#62;</mo><mi>III</mi></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "6SWhh",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>)</mo></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/78e8ff59-dafa-4820-89a6-f57823d70ccc-image.png\"/> </p><p>is stabilised by conjugation</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math> Conjugation base of  <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0969b6cd-5a4a-49b7-b418-97930ccd18ae-image.png\"/> is <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0d99b291-7c8d-4623-9b66-0fffeffa6f9f-image.png\"/> which is an aromatic anion</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><msub><mi>NO</mi><mn>2</mn></msub></math>  group is an electron withdrawing group it increases acidic strength of any compound to which<br/>it is added.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">D</mi><mo>)</mo></math> The acidic strength order on the basis of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>pK</mi><mi mathvariant=\"normal\">a</mi></msub></math> data <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi><mo>></mo><mi mathvariant=\"normal\">V</mi><mo>></mo><mi mathvariant=\"normal\">I</mi><mo>></mo><mi>II</mi><mo>></mo><mi>III</mi></math> is </p>",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1dd",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "The hyperconjugative stabilities of tert-butyl cation and 2-butene, respectively, due to&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pyuCs",
+        "text": "<math> <mrow> <mi>&sigma;</mi> <mo>&rarr;</mo> <mtext>p</mtext> <mo>(empty)</mo> <mo>&nbsp;and&nbsp;</mo> <mi>&sigma;</mi> <mo>&rarr;</mo> <msup> <mi>&pi;</mi> <mo>*</mo> </msup> <mo>electron delocalisations.</mo> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "VZxXY",
+        "text": "<math> <mrow> <mi>&sigma;</mi> <mo>&rarr;</mo> <msup> <mi>&sigma;</mi> <mo>*</mo> </msup> <mo>and</mo> <mi>&sigma;</mi> <mo>&rarr;</mo> <mi>&pi;</mi> <mo>electron delocalisations.</mo> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "nmprn",
+        "text": "<math> <mrow> <mi>&sigma;</mi> <mo>&rarr;</mo> <mtext>p</mtext> <mo>(filled)</mo> <mo>&nbsp;and&nbsp;</mo> <mi>&sigma;</mi> <mo>&rarr;</mo> <mi>&pi;</mi> <mo>electron delocalisations.</mo> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "FVn5U",
+        "text": "<math> <mrow> <mtext>p (filled)</mtext> <mo>&rarr;</mo> <msup> <mi>&sigma;</mi> <mo>*</mo> </msup> <mo>and</mo> <mi>&sigma;</mi> <mo>&rarr;</mo> <msup> <mi>&pi;</mi> <mo>*</mo> </msup> <mo>electron delocalisations.</mo> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "pyuCs",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/67b4f5f5-9bc2-4bc2-a174-5554b2ded915-image.png\"/> <br >In tert-butyl cation, carbon bearing <math> <mrow> <mo>⊕</mo> </mrow> </math> charge has one vacant p orbital hence it is <math> <mrow> <mtext>σ</mtext> <mo>-</mo> <mtext>p</mtext> </mrow> </math> (empty) conjugation or Hyperconjugation.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d0a8a1a7-3820-4a5d-a952-66dfd97625a5-image.png\"/> <br >In 2-butene hyperconjugation between ​<math> <mrow> <mtext>σ</mtext> </mrow> </math> and <math> <mrow> <msup> <mtext>π</mtext> <mo>*</mo> </msup> </mrow> </math> bond.",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1d9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>KI in acetone, undergoes S<sub>N</sub>2 reaction with each of P, Q, R and S. The rates of the reaction vary as<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c68e05e6-367a-41ea-ac4e-1de19dfea638-image.png\"/></p><p> </p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AfwSR",
+        "text": "<math> <mrow> <mtext>P</mtext> <mspace width=\"0.5em\"></mspace> <mo>&gt;</mo> <mspace width=\"0.5em\"></mspace> <mtext>Q</mtext> <mspace width=\"0.5em\"></mspace> <mo>&gt;</mo> <mspace width=\"0.5em\"></mspace> <mtext>R</mtext> <mspace width=\"0.5em\"></mspace> <mo>&gt;</mo> <mspace width=\"0.5em\"></mspace> <mtext>S</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "cHynB",
+        "text": "<math> <mrow> <mtext>S</mtext> <mspace width=\"0.5em\"></mspace> <mo>&gt;</mo> <mspace width=\"0.5em\"></mspace> <mtext>P</mtext> <mspace width=\"0.5em\"></mspace> <mo>&gt;</mo> <mspace width=\"0.5em\"></mspace> <mtext>R</mtext> <mspace width=\"0.5em\"></mspace> <mo>&gt;</mo> <mspace width=\"0.5em\"></mspace> <mtext>Q</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "vft8r",
+        "text": "<math><mrow>  <mtext>P</mtext>  <mspace width=\"0.5em\" />  <mo>&gt;</mo>  <mspace width=\"0.5em\" />  <mtext>R</mtext>  <mspace width=\"0.5em\" />  <mo>&gt;</mo>  <mspace width=\"0.5em\" />  <mtext>Q</mtext>  <mspace width=\"0.5em\" />  <mo>&gt;</mo>  <mspace width=\"0.5em\" />  <mtext>S</mtext></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "BrmZN",
+        "text": "<math><mrow>  <mtext>R</mtext>  <mspace width=\"0.5em\" />  <mo>&gt;</mo>  <mspace width=\"0.5em\" />  <mtext>P</mtext>  <mspace width=\"0.5em\" />  <mo>&gt;</mo>  <mspace width=\"0.5em\" />  <mtext>S</mtext>  <mspace width=\"0.5em\" />  <mo>&gt;</mo>  <mspace width=\"0.5em\" />  <mtext>Q</mtext></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "cHynB",
+    "solution_text": "<p>Relative reactivity for S<sub>N</sub>2 reaction in the given structures is<br/> </p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 100%;\"><tbody><tr><td> Substrate </td><td> <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012582_AnsExp_1.jpg\"/></td><td> CH<sub>3</sub>Cl </td><td>H<sub>2</sub>C = CH - CH<sub>2</sub>Cl</td><td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012582_AnsExp_3.jpg\"/></td></tr><tr><td> Relative Rates Towards S<sub>N</sub>2 </td><td> 100000 </td><td> 200 </td><td> 79 </td><td> 0.02 </td></tr></tbody></table>",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a15f23ac7d519f9b12f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "The total number of contributing structures showing hyperconjugation (involving $\\mathrm{C}-\\mathrm{H}$ bonds) for the following carbocation is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/VfidOLoxYCm3igeNrgMWD0hG7NJ2-dwLHdPvrOUT2j8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "$$\n\\text { These are total } 6 \\alpha-\\mathrm{H} \\text { to } \\mathrm{sp}^2 \\text { carbon and they all can participate in hyperconjugation. }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/II1kwlG6okw8yRPNujVqEME5WC9ZnIn4HQN8buk0GuQ.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a0df23ac7d519f9b0e2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Among the following compounds, the most acidic is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PX4E6",
+        "text": "\np-nitrophenol\n",
+        "image": null
+      },
+      {
+        "id": "Os5R2",
+        "text": "\np-hydroxybenzoic acid\n",
+        "image": null
+      },
+      {
+        "id": "Ne92f",
+        "text": "\no-hydroxybenzoic acid\n",
+        "image": null
+      },
+      {
+        "id": "vYWYp",
+        "text": "\np-toluic acid",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ne92f",
+    "solution_text": "A monosubstituted benzoic acid is stronger than a monosubstituted phenol as former being a carboxylic acid. Among the given substituted benzoic acid, ortho-hydroxy acid is strongest acid although - $\\mathrm{OH}$ cause electron donation by resonance effect which tends to decrease acid strength. It is due to a very high stabilization of conjugate base by intramolecular $\\mathrm{H}$-bond which outweight the electron donating resonance effect of $-\\mathrm{OH}$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-_R3456jzv-jkE5o0JKkL7Pr1EIFv0fQR1bIMd_tOC8.original.fullsize.png\"><br>\nThe overall order of acid-strength of given four acids is ortho-hydro $x y$ benzoic acid $\\left(p K_a=298\\right)>$ Toluic acid $\\left.p K_a=4.37\\right)>p$-hydroxybenzoic acid $\\left(p K_a=4.58\\right)>$ $p$-nitrophenol $\\left(p K_a=7.15\\right)$.",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a00f23ac7d519f9b06f",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Amongst the following, the total number of compounds soluble in aqueous $\\mathrm{NaOH}$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tCOmZXRhtaAWdcteEiQe0pj46L45cc7M-cV_wIxgNfw.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/A8qfPc8i9DqJcVuDcNsgF-ooEeQkWYQTrnAd7UAuciI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aT7yYOKEEAj6wXDCt7ay0_W2OlTN5PGqF3R47uO0zFw.original.fullsize.png\"><br>\nare soluble in aqueous $\\mathrm{NaOH}$. Benzylic alcohol is less acidic than water so not soluble in aq. $\\mathrm{NaOH}$, General organic chemistry Conceptual (structural interpretation) III",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b169e9f23ac7d519f9af9e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "The correct stability order for the following species is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3mHc2rFhfY275-Kb4arV3fiS2BJntZC-QFCwz2StHOg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MKfvc",
+        "text": "\n(II) $>$ (IV) $>$ (I) $>$ (III)\n",
+        "image": null
+      },
+      {
+        "id": "uh3A3",
+        "text": "\n(I) $>$ (II) $>$ (III) $>$ (IV)\n",
+        "image": null
+      },
+      {
+        "id": "FLl5m",
+        "text": "\n(II) $>$ (I) $>$ (IV) $>$ (III)\n",
+        "image": null
+      },
+      {
+        "id": "QD65p",
+        "text": "\n(I) $>$ (III) $>$ (II) $>$ (IV)",
+        "image": null
+      }
+    ],
+    "correct_answer": "QD65p",
+    "solution_text": "I $>$ III $>$ II $>$ IV\n$+M$-effect, hyperconjugation $(6 \\mathrm{Hs})$ and $+$ I-effect (2 Me groups)\n$+M$-effect, hyperconjugation ( $3 \\mathrm{Hs}$ ) and $+I$-effect (1 Me group)\n$\\overbrace{2^{\\circ} \\text { carbocation) }}^{+}$Hyperconjugation (5Hs) and +I-effect\nHyperconjugation (2Hs) and $+I$ effect",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b169e3f23ac7d519f9af5f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement 1 Bromobenzene, upon reaction with $\\mathrm{Br}_2 / \\mathrm{Fe}$ gives 1, 4-dibromobenzene as the major product.\nStatement 2 In bromobenzene, the inductive effect of the bromo group is more dominant than the mesomeric effect in directing the incoming electrophile.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rg2Tc",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "auSFU",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "7QOei",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "jbxbY",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "7QOei",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CLv1bF2Y6HPwJjITGAL6VFi66RjkGikxwnxz_mnR77I.original.fullsize.png\"><br>\nBromine orientation is controlled by its mesomeric effect, its stabilisation of arenium ion by $+M$ activity<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RzYv88pXdWx7lm2Tk1Irvwlld6qP3svdfXGGkPm2sb8.original.fullsize.png\"><br>\nIn bromobenzene, the inductive effect of the bromo group is more dominant than the mesomeric effect in the activity of ring.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1KHmA0z9cvYBIf5MEgGWzh9IkY7uXIDrp0YeDmlsD78.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af58",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Hyperconjugation involves overlap of the following orbitals",
+    "question_image": null,
+    "options": [
+      {
+        "id": "whEHI",
+        "text": "\n$\\sigma-\\sigma$\n",
+        "image": null
+      },
+      {
+        "id": "vDWsl",
+        "text": "\n$\\sigma-p$\n",
+        "image": null
+      },
+      {
+        "id": "KBnJy",
+        "text": "\n$p-p$\n",
+        "image": null
+      },
+      {
+        "id": "lXXe5",
+        "text": "\n$\\pi-\\pi$",
+        "image": null
+      }
+    ],
+    "correct_answer": "vDWsl",
+    "solution_text": "Hyperconjugation is one kind of delocalisation of $\\sigma(\\mathrm{C}-\\mathrm{H})$ bonded electron to unshared p-orbital.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mjLevlRku6I7A_vAbj7ABlFxGpah67Z74bh2Kc5U6yU.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aed9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Statement I p-hydroxybenzoic acid has a lower boiling point than o-hydroxybenzoic acid.\nStatement II o-hydroxybenzoic acid has intramolecular hydrogen bonding.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GJ6Qi",
+        "text": "\nStatement I is true, Statement II is true, Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "mrPN8",
+        "text": "\nStatement I is true, Statement II is true, Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "EOEa4",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "tWcIy",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "tWcIy",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/MOtOUfxobjJjqb-CQckuxAPH5FCfWdzfvPVBLkeL73U.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Electron displacement effects"
+  },
+  {
+    "question_id": "64b16a9df23ac7d519f9b603",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>The total number of chiral molecules formed from one molecule of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> on complete ozonolysis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>,</mo><mi>Zn</mi><mo>/</mo><msub><mi>H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced></math> is _____</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/34151277-942a-40bb-a4f9-a7db2e591745-2-09-2022new.png\" style=\"width: 445px; height: 125px;\" /></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<blockquote><p>The Ozonolysis mechanism proceeds via an oxidative cleavage reaction. The ozone not only breaks the carbon pi bond but also the carbon-carbon sigma bond. It involves the attack of ozone on the given reactant to form an ozonide. To eliminate the oxygen in this intermediate stage, zinc dust is employed (since it forms zinc oxide with oxygen).</p><p>In reductive ozonolysis&nbsp;the ozonide is treated with mild reducing agents such as dimethyl sulfide and zinc metal with water. The ozonide is reduced as shown below.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e8cd80e1-87ed-41b5-9602-6729dff3c09e-image.png\" style=\"width: 418px; height: 300px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> Two chiral molecules are obtained.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a8af23ac7d519f9b556",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Among the following, the conformation that corresponds to the most stable conformation of <em>meso</em>-butane-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>,</mo><mn>3</mn></math>-diol is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O2rgV",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/35bcf8cd-dd0b-4074-8ba4-ceaeb5c884a7-image.png\" style=\"width: 141px; height: 120px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "ANKkT",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1d8d21d5-fd74-4fcf-a4dc-b294959d521e-image.png\" style=\"width: 132px; height: 120px;\" />",
+        "image": null
+      },
+      {
+        "id": "Kc42E",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2a14a6d1-9382-4ef4-9529-08313300ba45-image.png\" style=\"width: 145px; height: 120px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "PkxKY",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/99c3e7c4-d1ca-4efb-867a-6af490609847-image.png\" style=\"width: 146px; height: 120px;\" /></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ANKkT",
+    "solution_text": "<em>meso</em>-butane-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>,</mo><mn>3</mn></math>-diol is<p><img height=\"196\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/086f4b5e-5fb2-4204-aa0c-3d1c44164a6a-image.png\" width=\"492\" /></p><p>The Gauche form will be&nbsp;the most stable due to the presence of an intramolecular&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math>-bonding between both hydroxy group.</p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b529",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Consider the following transformations of a compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6b886407-fe51-41a6-aa1f-7b0cf441d1a3-image.png\"/>\r\n\r\nChoose the correct option(s).",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mGvUd",
+        "text": "<p>P is <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f745d999-3baf-4050-817a-4d94ef7cd630-image.png\"/></p>",
+        "image": null
+      },
+      {
+        "id": "hNQvi",
+        "text": "<p>X is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pd</mi><mo>-</mo><mi mathvariant=\"normal\">C</mi><mo>/</mo><mi>quinoline</mi><mo>/</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub></math></p>",
+        "image": null
+      },
+      {
+        "id": "XGgrs",
+        "text": "<p>P is <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5ce49999-da0e-4471-b744-12e1fe6c59e2-image.png\"/></p>",
+        "image": null
+      },
+      {
+        "id": "x7e1t",
+        "text": "<p>R is <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ccdaa6dd-f147-4fab-919f-66216880c0e3-image.png\"/></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "XGgrs",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b0dae3e2-bb66-480f-b0cb-b710bffd1e95-image.png\"/></p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b523",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "An organic compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi mathvariant=\"normal\">C</mi><mn>8</mn></msub><msub><mi mathvariant=\"normal\">H</mi><mn>10</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></mrow></mfenced></math> rotates plane-polarized light. It produces pink color with neutral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeCl</mi><mn>3</mn></msub></math>&nbsp;solution. What is the total number of all the possible isomers for this compound?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>Since compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mn>8</mn></msub><msub><mi mathvariant=\"normal\">H</mi><mn>10</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math> corresponds positively to neutral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeCl</mi><mn>3</mn></msub></math> hence it will be a phenolic compound the possible structures which are optically active are as followed</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/652a092c-d682-4bc3-ac52-ca6b146603b0-image.png\"/></p><p>Hence, total optically active isomers will be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4ed",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>The Fischer projection of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>-erythrose is shown below.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a13475d0-a00a-4ba9-b000-c99cafcad020-image.png\"/> </p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>-Erythrose and its isomers are listed as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>,</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math> in Column I. Choose the correct relationship of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>,</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math> with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>-erythrose from Column II.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\"><tbody><tr><td> </td><td style=\"text-align: center;\">Column - I</td><td style=\"text-align: center;\"> </td><td style=\"text-align: center;\">Column -II</td></tr><tr><td style=\"text-align: center;\">P.</td><td style=\"text-align: center;\"><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bde47f7d-208b-4d26-97e5-35efe0824df6-image.png\"/></td><td style=\"text-align: center;\">1.</td><td style=\"text-align: center;\">Diastereomer</td></tr><tr><td style=\"text-align: center;\">Q.</td><td style=\"text-align: center;\"><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ce869b1c-50f0-49d4-b011-78b2da04538b-image.png\"/></td><td style=\"text-align: center;\">2.</td><td style=\"text-align: center;\">Identical</td></tr><tr><td style=\"text-align: center;\">R.</td><td style=\"text-align: center;\"><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6ede1435-51e9-4f87-8700-22fa305fe451-image.png\"/></td><td style=\"text-align: center;\">3.</td><td style=\"text-align: center;\">Enantiomer</td></tr><tr><td style=\"text-align: center;\">S.</td><td style=\"text-align: center;\"><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3f1300b4-7545-456a-bc1f-0699d05fd392-image.png\"/></td><td> </td><td> </td></tr></tbody></table><p> </p><p> </p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rhLtM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "HN9Br",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "yCuCr",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "8IlY1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "yCuCr",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/72c68b92-8062-454e-a8a2-681bda77f09e-image.png\"/></p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4eb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>Newman projections <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">R</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math> are shown below:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8413d8a5-5ab5-419f-a154-8426f32acaf8-image.png\"/>  </p><p>Which one of the following options represent identical molecules?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wA5Kz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "0qglZ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      },
+      {
+        "id": "tBu09",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "PWzdH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tBu09",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/522f5d88-8482-4523-820a-a99156669667-image.png\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b1a1f0f9-d939-4b5a-8993-b296dab2770d-image.png\"/> </p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c0971e98-3dd7-469d-9089-c363f1351b00-image.png\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7440a4d6-029e-4104-bb47-c5c18cfd16c3-image.png\"/></p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a79f23ac7d519f9b4bb",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Total number of isomers, considering both structural and stereoisomers, of cyclic ethers with the molecular formula <math><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>8</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math> is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c11dceb6-6a0f-4494-aaa5-4c1621823b73-image.png\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/95d0ef97-f032-4838-89cc-f1b6ef91d861-image.png\"/><br/>Total number of isomers considering both structural and stereoisomers, of cyclic ether with molecular formula <math><mo>=</mo><mn>10</mn></math></p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a6df23ac7d519f9b44f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "<p>For the given compound X, the total number of optically active stereoisomers is ____.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pdhnqrcmdrwraxafyebqxpxzkdufmwrmaeqhyinsovmlojmwzm.jpeg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gdhgjhegweuuiwyw2537t.png\"/>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a5af23ac7d519f9b3a6",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>The correct statement(s) for the following addition reactions is(are)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ypmjgvmbcmykpbcdaacubvyccjddknovssmysochayfwuvzmwm.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DwVVO",
+        "text": "O and P are identical molecules",
+        "image": null
+      },
+      {
+        "id": "1GR7Q",
+        "text": "(M and O) and (N and P) are two pairs of enantiomers",
+        "image": null
+      },
+      {
+        "id": "jJWnd",
+        "text": "(M and O) and (N and P) are two pairs of diastereomers",
+        "image": null
+      },
+      {
+        "id": "Yo6cF",
+        "text": "Bromination proceeds through trans-addition in both the reactions",
+        "image": null
+      }
+    ],
+    "correct_answer": "Yo6cF",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3_solu_chem_pa1_3.jpg\"/></p><p>(M) and (N) are identical meso compounds</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3_solu_chem_pa1_2.jpg\"/></p><p>(O) and (P) are enantiomers</p><p><strong>Explanation of 4 options :</strong></p><p>(i) (M) and (O) are distereomers of each other.</p><p>(N) and (P) are distereomers of each other.</p><p>(ii) Addition of <math><mi>B</mi><msub><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msub></math> on alkene follows non-classical carbocation mechanism. It is anti or trans addition.</p><p>(iii) (O) and (P) are enantiomers</p><p>(iv) (M) and (N) are identical and (O) and (P) are enantiomers.</p><p>(M and O) are distereomers and (N and P) are distereomers.</p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a50f23ac7d519f9b346",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "<p>In the following monobromination reaction, the number of possible chiral products is<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.15.jpg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_Paper_1_Chem_Q._33_Ans_1.jpg\"/><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_Paper_1_Chem_Q._33_Ans_2.jpg\"/>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a42f23ac7d519f9b2ca",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Compound(s) that on hydrogenation produce(s) optically inactive compound(s) is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5PMVj",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image29-a7c5034a-9385-4508-a1ce-86e8703aaf1b.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "gfsGj",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image30-534aa0d3-f922-42e6-9c87-44a83d649b7d.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "I0xbG",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image31-ba70e8d9-46bd-4502-a8fc-c874c3a2a850.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "A2OIQ",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image32-594237dd-6c78-46d9-89cb-d138793b5838.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "A2OIQ",
+    "solution_text": "<p>Alkene hydrogenation is the syn-addition of hydrogen to an alkene, saturating the bond.</p><p>A compound capable of optical rotation is said to be optically active. For a compound to be optically active, it should contain chiral carbon.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image33-644e961d-08fc-4186-b03a-0415c204b6e6.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image34-67c7f583-f5b9-4898-8129-2a2b1edb00ed.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a41f23ac7d519f9b2c2",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "The total number of stereoisomers that can exist for M is<br />\r\n\r\n<br />\r\n\r\n<br />\r\n\r\n<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image21-60853377-f00a-4861-b7df-38dacb7ba8d4.jpg\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p style=\"text-align: justify;\">Total number of stereoisomers = 2. Although it has two chiral carbon so&nbsp;it is expected to have&nbsp;four stereoisomer, but this molecular cannot show geometrical isomerism so only mirror image will be other stereoisomer. Hence the possible number of stereoisomer will be 2 only.<br /><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image22-c59c44c9-fd0b-44ae-ba41-4e831aa0ded7.png\" /><br />&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a35f23ac7d519f9b255",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>The total number(s) of stable conformers with non-zero dipole moment for the following compound is(are)<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image17-201e860e-365b-411c-a3ed-84ce02b4bd67.jpg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image18-7f112b67-7e83-4ab9-9681-e58831707f87.jpg\"/> <br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image19-bf13f850-7040-43bd-a2ed-613308c0545b.jpg\"/>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a2ff23ac7d519f9b21c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\n$P$ and $Q$ are isomers of dicarboxylic acid $\\mathrm{C}_{4} \\mathrm{H}_{4} \\mathrm{O}_{4}$. Both decolorize $\\mathrm{Br}_{2} / \\mathrm{H}_{2} \\mathrm{O}$. On heating, $\\boldsymbol{P}$ forms the cyclic anhydride.\r\n\r\nUpon treatment with dilute alkaline $\\mathrm{KMnO}_{4}, \\boldsymbol{P}$ as well as $\\boldsymbol{Q}$ could produce one or more than one from $\\boldsymbol{S}, \\boldsymbol{T}$ and $\\boldsymbol{U}$.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dHAL-u7-4ut6ifehsp2LfMk8-Jc28xcx4bMj7J2e1B8.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/DBlxvwiAqaUu4-MpjtD7RNmLuEXqwr_4VzYrg6PK-48.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ovwEZeZHEVHpZqMfR-JqiCsJNrr_NBTBT6pZFB-vnCQ.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nCompounds formed from $\\boldsymbol{P}$ and $\\boldsymbol{Q}$ are, respectively",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2brtw",
+        "text": "Optically active S and optically active pair (T,U)",
+        "image": null
+      },
+      {
+        "id": "0Hc1S",
+        "text": "Optically inactive S and optically inactive pair (T,U)",
+        "image": null
+      },
+      {
+        "id": "XqL4K",
+        "text": "Optically active pair (T,U) and optically active S",
+        "image": null
+      },
+      {
+        "id": "CzzjW",
+        "text": "Optically inactive pair (T,U) and optically inactive S",
+        "image": null
+      }
+    ],
+    "correct_answer": "0Hc1S",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012655_AnsExp2_1..jpg\" style=\"width: 494px; height: 170px;\" /><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012655_AnsExp2_4..jpg\" style=\"width: 646px; height: 197px;\" /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012655_AnsExp2_2.jpg\" style=\"width: 649px; height: 149px;\" /><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012655_AnsExp2_3.jpg\" style=\"width: 864px; height: 295px;\" />",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a7",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Which of the given statement(s) about $\\mathbf{N}, \\mathbf{O}, \\mathbf{P}$ and $\\mathbf{Q}$ with respect to $\\mathbf{M}$ is (are) correct?\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SZDMS4f1Uiss5dxX0H5SIuyEDMhH2xcNxLMB-alL7ao.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CfRNW",
+        "text": "$\\mathbf{M}$ and $\\mathbf{N}$ are non-mirror image stereoisomers",
+        "image": null
+      },
+      {
+        "id": "mNUYL",
+        "text": "$\\mathbf{M}$ and $\\mathbf{O}$ are identical",
+        "image": null
+      },
+      {
+        "id": "aZobI",
+        "text": "$\\mathbf{M}$ and $\\mathbf{P}$ are enantiomers",
+        "image": null
+      },
+      {
+        "id": "CpMu6",
+        "text": "$\\mathbf{M}$ and $\\mathbf{Q}$ are identical",
+        "image": null
+      }
+    ],
+    "correct_answer": "aZobI",
+    "solution_text": "The given conformation are of the following compound\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/BkNxOIAtxhe0FIUxcm3-iSohhglpAkYs5r8ywpE7uLM.original.fullsize.png\"><br>\r\n\r\nNote : Fisher conformation always show the eclipsed form of molecule. Thus, we have to convert the given staggered conformation of 'O' to an eclipsed conformation.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/H1wE3LQDmoqiPus0uIrgTvx5VJLVxkBs1cKkYXYVYaM.original.fullsize.png\"><br>\r\n\r\nBased on the above structures, we can say that\r\n\r\n(a) $\\mathrm{M}$ and $\\mathrm{N}$ are diastereomers or non-mirror image stereoisomers.\r\n\r\n(b) $\\mathrm{M}$ and $\\mathrm{O}$ are identical.\r\n\r\n(c) $\\mathrm{M}$ and $\\mathrm{P}$ are enantiomers.\r\n\r\n(d) $\\mathrm{M}$ and $\\mathrm{Q}$ are diastereomers and therefore not identical.",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b160",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The number of optically active products obtained from the complete ozonolysis of the given compound is :\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ihtYwShcD6FtuVky34gGEuq92xHdAqgFfSymYH2-EF4.original.fullsize.png\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "C2x89",
+        "text": "0",
+        "image": null
+      },
+      {
+        "id": "smFHB",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "fqUJa",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "s7yy6",
+        "text": "4",
+        "image": null
+      }
+    ],
+    "correct_answer": "C2x89",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iXF3AwBuCp2h5BscLH5bIBP9aiiswsT2-vc55-CVdWY.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a0df23ac7d519f9b0e6",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Amongst the given options, the compound (s) in which all the atoms are in one plane in all the possible conformations (if any), is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ea3Ie",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jG4RkpxSj1LVUKzumBuq3a1DSrf4PgBWZvVtBWiuWqw.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "bpXnL",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ruZFKo_HK-Z1YGDQ8DdN4SmNiEgIYWUxBYoaB3dvFIw.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "f4JaB",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RFSIrSeRErxsfzhrjqQjrtAvHCsNEXwwDJC46s124pI.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "npuQb",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QtfDoX70mB4XtKhZscYmBjjRFPK9YS8xhh_MEiFrcNg.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "f4JaB",
+    "solution_text": "$$\n\\text { In both (b) and (c), all the atoms are present in one single plane }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U9RMovarqczfIWlyG0E67-jhWyQok5ZC2oMUBk3nh4M.original.fullsize.png\"><br>\nIn (a) 1, 3-butadiene, conformational change is possible between $\\mathrm{C}_2-\\mathrm{C}_3$ bond in which atoms will be present in more than one single plane.\nIn (d) allene, the terminals $\\mathrm{H}-\\mathrm{C}-\\mathrm{H}$ planes are perpendicular to one another.\n$$\n\\text { Paragraph (12 and 13) The final ozonolysis product indicates that the alkene before }\n$$\nOzonolysis is<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PLevuZkZG3_QAMbDUFsU94aLkCRRp7kYv9omXZfxoaA.original.fullsize.png\"><br>\nAlso $\\mathrm{P}\\left(\\mathrm{C}_6 \\mathrm{H}_{10}\\right)$ has two degree of unsaturation and oxymercuration demercuration hydration indicates that it is an alkyne. As alkyne, on hydration, gives a carbonyl compound which on reduction with $\\mathrm{NaBH}_4$ gives a $2^{\\circ}$ alcohol.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LOWh-Q3QFd-wT8dVOKSxuXWYH-Mo91UCITkLenTqJWs.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vtYBeQq5ceBO-5LO96nBteHn3WVwrPXQa8753naBenc.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a00f23ac7d519f9b06d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The total number of cyclic isomers possible for a hydrocarbon with the molecular formula $\\mathrm{C}_4 \\mathrm{H}_6$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "$\\mathrm{C}_4 \\mathrm{H}_6$ can have five cyclic isomers\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uWspoI_a3kuheqUIAVyQWI7Zgcnrd37WXbP7Ncyn_F4.original.fullsize.png\"><br>\nIsomerism (organic)\nStructural manipulation III",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169fef23ac7d519f9b05f",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "In the Newman projection for 2,2-dimethylbutane\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jyUNg_6mD-YRdCFk2RndTgNILG1dMpSe27gLekPA9TA.original.fullsize.png\"><br>\n$X$ and $Y$ can respectively be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "61VAt",
+        "text": "\n$\\mathrm{H}$ and $\\mathrm{H}$\n",
+        "image": null
+      },
+      {
+        "id": "gGy6n",
+        "text": "\n$\\mathrm{H}$ and $\\mathrm{C}_2 \\mathrm{H}_5$\n",
+        "image": null
+      },
+      {
+        "id": "l29hg",
+        "text": "\n$\\mathrm{C}_2 \\mathrm{H}_5$ and $\\mathrm{H}$\n",
+        "image": null
+      },
+      {
+        "id": "XIYR0",
+        "text": "\n$\\mathrm{CH}_3$ and $\\mathrm{CH}_3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "XIYR0",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LRcYxFJ8pgtTu7gJBL1lLnFmiLfSD0N9djoHPP9yG8U.original.fullsize.png\"><br>\n\nConformation projection along $\\mathrm{C}_1-\\mathrm{C}_2$\n$\\mathrm{C}_1$ contains all three $\\mathrm{Hs}$\nSo, $\\quad X=\\mathrm{H}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/UmKWGE4IzP_J8gN7hc4PzbG2cHLO0s06uQ6HUgtSrR8.original.fullsize.png\"><br>\n\n$\\mathrm{C}_2$ contains two methyl and one ethyl group\nSo, $\\quad Y=\\mathrm{C}_2 \\mathrm{H}_5$\nConformational projection along\n$$\n\\mathrm{C}_2-\\mathrm{C}_3\n$$\n$\\mathrm{C}_2$ contains three methyl groups\n$\\left(\\mathrm{C}_2\\right.$ form back carbon in the given structure)\nSo, $\\quad Y=\\mathrm{CH}_3$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/99XNPwbz6laYONQD43P2IwseZwQ1EWIPEfxCtXPMZA8.original.fullsize.png\"><br>\n$\\mathrm{C}_3$ contains two Hs and one methyl group\n$\\left(\\mathrm{C}_3\\right.$ form front carbon in the given structure)\nSo, $\\quad X=\\mathrm{CH}_3$\n$\\mathrm{C}_3$ contains two Hs and one methyl group\n$\\left(\\mathrm{C}_3\\right.$ form front carbon in the given structure)\nSo, $\\quad X=\\mathrm{CH}_3$\nIsomerism (Stereochemistry)\nConceptual (Structural visualisation) III",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b022",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The total number of cyclic structural as well as stereoisomers possible for a compound with the molecular formula $=\\mathrm{C}_5 \\mathrm{H}_{10}$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "$$\n\\text { The total number of cyclic isomers are seven as shown below. }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mBHM73yyN51KjE7GWf8NgPUVslv5I1StONWNTiVMcC4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169f1f23ac7d519f9afdf",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The correct statement(s) about the compound, $\\mathrm{H}_3 \\mathrm{C}(\\mathrm{HO}) \\mathrm{HC}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{CH}$ (OH) $\\mathrm{CH}_3(\\mathrm{X})$ is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DlxtI",
+        "text": "\nthe total number of stereoisomers possible for $X$ is 6\n",
+        "image": null
+      },
+      {
+        "id": "UBm09",
+        "text": "\nthe total number of diastereomers possible for $X$ is 3\n",
+        "image": null
+      },
+      {
+        "id": "ht8Xj",
+        "text": "\nif the stereochemistry about the double bond in $X$ is trans, the number of enantiomers possible for $X$ is 4\n",
+        "image": null
+      },
+      {
+        "id": "tT7pa",
+        "text": "\nif the stereochemistry about the double bond in $X$ is cis, the number of enantiomers possible for $X$ is 2",
+        "image": null
+      }
+    ],
+    "correct_answer": "tT7pa",
+    "solution_text": "$$\n\\text { The various isomers of } X \\text { are, }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SNkfWfyCGMqQlnVBINqHWOlQBtIbh726hqp51-wy0oU.original.fullsize.png\"><br>\nXhas six stereoisomers (I-VI). The total number of diasteromers of $X$ are more than three e.g, I + II, I + III, I + IV, I + V, I + VI etc. When stereochemistry at double bond is trans it has only two enantiomers (V and VI). When stereochemistry at doubld bond is cis, it has two enantiomers II and III. Hence, only $A$ and $D$ are correct answers.",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af5b",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "The correct statement(s) about the compound given below is are\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aL1RkKvmuEL72EuOZnVWmcRwQQ-3oX4k4CRZRzgSwPQ.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uaPkR",
+        "text": "\nthe compound is optically active\n",
+        "image": null
+      },
+      {
+        "id": "eycd5",
+        "text": "\nthe compound possesses centre of symmetry\n",
+        "image": null
+      },
+      {
+        "id": "eLgkR",
+        "text": "\nthe compound possesses plane of symmetry\n",
+        "image": null
+      },
+      {
+        "id": "CZfgH",
+        "text": "\nthe compound possesses axis of symmetry",
+        "image": null
+      }
+    ],
+    "correct_answer": "eycd5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pujQAF5GvuV7s7FOrRYHUmXAyrXYAeuWPtnFBBMcDAc.original.fullsize.png\"><br>\nThe compound does not possess centre of symmetry and plane of symmetry but possesses the proper axis of symmetry $\\left(C_n\\right)$. A $C_n$ axis of symmetry is an axis about which the molecule can be rotated by $360^{\\circ} / n$ and thereby produce a molecule indistinguishable from the original molecule.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GfTUnX7IhPZKkqGw2PoQrHURZ07D5y9JfLg1ngLyhKI.original.fullsize.png\"><br>\nFrom this face $\\mathrm{H}$ (on right) and $\\mathrm{Cl}$ (on left) are facing towards us and again on rotating at $180^{\\circ} \\mathrm{C}-2$ comes at $\\mathrm{C}-1$ place and again $\\mathrm{H}$ (on right) and $\\mathrm{Cl}$ (on left) are facing. We get an indistinguishable form on $180^{\\circ}$ rotation, so it has a proper axis of symmetry $\\left(C_2\\right)$.\nIf a molecule is not superimposable on its mirror image, that molecule can exhibit optical activity, if these have proper axis but no improper axis or if a $C_n$ axis be the only symmetry element present in a molecule, that molecule is optically active.",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af1b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I Molecules that are not superimposable on their mirror images are chiral.\nStatement II All chiral molecules have chiral centres.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Gczc0",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "v8FFs",
+        "text": "\nStatement I is true, Statement II is true; Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "FBIET",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "QjrC7",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "FBIET",
+    "solution_text": "Molecules having perpendicular dissymmetric plane are supposed to have chirality without having chiral centre. For e.g.,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tFZQfp6dezjS_ydCk6zaEP0IrdkNJY4UgtYbHYTq-QA.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/AsUh76Jmb6CwH1mbL_ZMG1i0cP_tL_B3nNt9rET_bhg.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af14",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "The number of stereoisomers obtained by bromination of trans-2-butene is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tkeP7",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "tpFSN",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "pjSPj",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "Ptyg7",
+        "text": "\n4",
+        "image": null
+      }
+    ],
+    "correct_answer": "tkeP7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Hz45PVk-tYUOsNb8AArpiuOeSRVqUH3Bwctfr6lTAXU.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b169d3f23ac7d519f9aed3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "The number of structural isomers for $\\mathrm{C}_6 \\mathrm{H}_{14}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AsLBh",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "lepkV",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "mnAwv",
+        "text": "\n5\n",
+        "image": null
+      },
+      {
+        "id": "ys6U9",
+        "text": "\n6",
+        "image": null
+      }
+    ],
+    "correct_answer": "mnAwv",
+    "solution_text": "$$\n\\text { Molecular Formula } \\mathrm{C}_6 \\mathrm{H}_{14}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Xi_cYSZ-3PXQqeUI1D2xF03RsxtSRfOAfHjG_eSY1xo.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Isomerism of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4ec",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Which one of the following structures has the IUPAC name <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>-ethynyl-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>-hydroxy-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>-methylhex-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>-en-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>-ynoic acid?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sXmhe",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3e7cd3a3-22a1-40e9-b31e-e05df2b5bf98-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "GOrb1",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d5da3986-a1fb-4b9e-890a-ee1cf7c95599-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "BZd8Z",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/755b84e8-a3c3-48dc-81b9-fa4685c7c542-image.png\"/>",
+        "image": null
+      },
+      {
+        "id": "Co6OS",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/340d4e61-127e-452d-880a-e4776c08ec9b-image.png\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Co6OS",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e6b61802-829f-417d-85a3-80d0a1ad3016-image.png\"/> </p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>-ethynyl-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>-hydroxy-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>-methylhex-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>-en-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>-ynoic acid</p>",
+    "solution_image": null,
+    "topic": "IUPAC Nomenclature"
+  },
+  {
+    "question_id": "64b16a5bf23ac7d519f9b3aa",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>The IUPAC name(s) of the following compound is(are)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cfgyfltaljsdawwujnndzralngsdxtsnxtdjzgekcslewtgaqj.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tTg5O",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><mi>chloro</mi><mo>-</mo><mn>4</mn><mo>-</mo><mi>methylbenzene</mi></math>",
+        "image": null
+      },
+      {
+        "id": "H9ZMN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>-</mo><mi>chlorotoluene</mi></math>",
+        "image": null
+      },
+      {
+        "id": "g31Pp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>-</mo><mi>methylchlorobenzene</mi></math>",
+        "image": null
+      },
+      {
+        "id": "3JKeS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><mi>methyl</mi><mo>-</mo><mn>4</mn><mo>-</mo><mi>chlorobenzene</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "H9ZMN",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/25_solu_chem_pa1_..jpg\"/></p><p>1 – Chloro-4-methylbenzene</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/25_solu_chem_pa1_..2.jpg\"/></p><p>IUPAC Name- \"Toluene\" is accepted by IUPAC as a name of parent carbon chain.</p><p>So, it can also be named as 4-chlorotoluene.</p>",
+    "solution_image": null,
+    "topic": "IUPAC Nomenclature"
+  },
+  {
+    "question_id": "64b169f0f23ac7d519f9afde",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The IUPAC name of the following compound, is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/w6azp8ZVwNJRA1UqThrHxICtM2Jrt8nnrnaVDxHR0ak.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YI358",
+        "text": "\n4-bromo-3-cyanophenol\n",
+        "image": null
+      },
+      {
+        "id": "lTSY3",
+        "text": "\n2-bromo-5-hydroxybenzonitrile\n",
+        "image": null
+      },
+      {
+        "id": "xhUFA",
+        "text": "\n2-cyano-4-hydroxybromobenzene\n",
+        "image": null
+      },
+      {
+        "id": "zDTF4",
+        "text": "\n6-bromo-3-hydroxybenzonitrile",
+        "image": null
+      }
+    ],
+    "correct_answer": "lTSY3",
+    "solution_text": "Cyano group has the highest priority therefore, parent name must be benzonitrile. $\\mathrm{Br}$ occurs at 2-position, and hydroxyl at 3-position, hence clockwise numbering will be the correct one.",
+    "solution_image": null,
+    "topic": "IUPAC Nomenclature"
+  },
+  {
+    "question_id": "64b169c8f23ac7d519f9ae6e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "The IUPAC name of $\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{COCl}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OFIpD",
+        "text": "\nBenzoyl chloride\n",
+        "image": null
+      },
+      {
+        "id": "mtjGh",
+        "text": "\nBenzene chloro ketone\n",
+        "image": null
+      },
+      {
+        "id": "Wosym",
+        "text": "\nBenzene carbonyl chloride\n",
+        "image": null
+      },
+      {
+        "id": "WSLky",
+        "text": "\nChloro phenyl ketone",
+        "image": null
+      }
+    ],
+    "correct_answer": "Wosym",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QgLMmXAODCHmydBEpDz4ul8rO4WCXPNCCiE8aACEAr4.original.fullsize.png\"><br>\nis known as benzene carbonyl chloride. Although its trivial name but it is also accepted in IUPAC System",
+    "solution_image": null,
+    "topic": "IUPAC Nomenclature"
+  },
+  {
+    "question_id": "64b169caf23ac7d519f9ae7a",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JMS_gxyfnfGLHwrLd6kj2A5sBnQa76NPsAQVCvhDcHA.original.fullsize.png\"><br>\n$$\n\\text { What are } N \\text { and } M \\text { ? }\n$$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mY9UM",
+        "text": "\n6,6\n",
+        "image": null
+      },
+      {
+        "id": "JW5tb",
+        "text": "\n6,4\n",
+        "image": null
+      },
+      {
+        "id": "KToH6",
+        "text": "\n4,4\n",
+        "image": null
+      },
+      {
+        "id": "4A8Z4",
+        "text": "\n3, 3",
+        "image": null
+      }
+    ],
+    "correct_answer": "JW5tb",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cxJRp0KMs5knAbgnNw2AdaOxvnfNf1qjOWmwnvBCqo4.original.fullsize.png\"><br>\nIn these, (iii) and (iv) are enantiomers and (v) and (vi) are also enantiomers to each other. Thus total six isomers will be possible for $N$. In these only four isomers will be obtained on fractional distillation without resolution because $d$ and $l$ isomers (i.e., (iii) \\& (iv) and (v) \\& (vi)) cannot be separated by fractional distillation. Hence $N=6$ and $M=4$.",
+    "solution_image": null,
+    "topic": "Purification of Organic Compounds"
+  },
+  {
+    "question_id": "64b16a8bf23ac7d519f9b560",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "The reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math> with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PhSNa</mi></math> yields an organic compound (major product) that gives positive Carius test on treatment with<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math> followed by addition of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>BaCl</mi><mn>2</mn></msub><mo>.</mo></math> The correct option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math>&nbsp;for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math> is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9haUZ",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/364fe712-c27a-4aa3-9073-2d948059cec7-image.png\" style=\"width: 236px; height: 150px;\" />",
+        "image": null
+      },
+      {
+        "id": "ZPwFB",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a2b9e97b-1e62-4a19-bd82-4fa602234a57-image.png\" style=\"width: 203px; height: 200px;\" />",
+        "image": null
+      },
+      {
+        "id": "c98UK",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/efd9326a-e924-44db-b539-e8332b7a4600-image.png\" style=\"width: 219px; height: 200px;\" />",
+        "image": null
+      },
+      {
+        "id": "Foeb3",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2cafe4c1-d927-4dc6-b255-6167691e6e70-image.png\" style=\"width: 279px; height: 150px;\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "Foeb3",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi><mover><mo>&#8594;</mo><mi>PhSNa</mi></mover><mi>major</mi><mo>&#160;</mo><mi>organic</mi><mo>&#160;</mo><mi>compound</mi></math><p>Hence, it is confirmed that &#39;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math>&#39; gives&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">N</mi></msub><mn>2</mn></math>&nbsp;reaction or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ArS</mi><mi mathvariant=\"normal\">N</mi></msub></math>&nbsp;type reaction.</p><p><img height=\"96\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/95e50a50-f882-44b1-ae6b-c695bb184b33-image.png\" width=\"409\" /></p><p>The product of the bove reaction give positive Carius tube test.</p><p><img height=\"90\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4d818004-4d35-45b8-b7ce-7e0996ef5788-image.png\" width=\"406\" /></p><p>The product of the bove reaction give positive Carius tube test.</p>",
+    "solution_image": null,
+    "topic": "Qualitative analysis of organic compounds"
+  },
+  {
+    "question_id": "685102c16bba689a3eb09c9a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The monomer (X) involved in the synthesis of Nylon 6,6 gives positive carbylamine test. If 10 moles of $\\mathbf{X}$ are analyzed using Dumas method, the amount (in grams) of nitrogen gas evolved is ______ .\nUse: Atomic mass of N (in amu) = 14",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "280",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qePGdVj_8bx3f9b1wDMdqPIL6saGfCd04CiyzpDufCU.original.fullsize.png\"><br>Hexamethylene diamine series give $(+)$ carbylamine test.\n$\\mathrm{C}_{\\mathrm{x}} \\mathrm{H}_{\\mathrm{y}} \\mathrm{N}_{\\mathrm{z}}+(2 \\mathrm{x}+1 / 2) \\mathrm{CuO} \\rightarrow \\mathrm{xCO}_2+\\frac{\\mathrm{y}}{2} \\mathrm{H}_2 \\mathrm{O}+\\frac{\\mathrm{z}}{2} \\mathrm{~N}_2$ (Dumas method)\n$\\mathrm{C}_6 \\mathrm{H}_{16} \\mathrm{~N}_2$ then $\\frac{\\mathrm{z}}{2} \\mathrm{~N}_2=\\frac{2}{2} \\mathrm{~N}_2=1$ mole\nGiven 10 mole in this reaction so $\\mathrm{w}_{\\mathrm{N}_2}=10 \\times 28=280 \\mathrm{gm}$",
+    "solution_image": null,
+    "topic": "Quantitative analysis of organic compounds"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5cd",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>If the reaction sequence given below is carried out with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn></math>&nbsp;moles of acetylene, the amount of the product <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>&nbsp;formed (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>) is</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0b0d5b06-6b18-415c-9251-c010f482c304-image.png\" style=\"width: 700px; height: 88px;\" /></p><p>The yields of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>,</mo><mi mathvariant=\"normal\">B</mi><mo>,</mo><mi mathvariant=\"normal\">C</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math> are given in parentheses.</p><p>[Given: Atomic mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">C</mi><mo>=</mo><mn>12</mn><mo>,</mo><mi mathvariant=\"normal\">O</mi><mo>=</mo><mn>16</mn><mo>,</mo><mi>Cl</mi><mo>=</mo><mn>35</mn></math>]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "136",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/224f6da2-8115-49fa-b971-ec9920623733-image.png\" style=\"width: 300px; height: 485px;\" /></p><p>Molecular formula of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math> is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mn>8</mn></msub><msub><mi mathvariant=\"normal\">H</mi><mn>8</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math></p><p>Molar mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>12</mn><mo>&#215;</mo><mn>8</mn><mo>+</mo><mn>8</mn><mo>&#215;</mo><mn>1</mn><mo>+</mo><mn>16</mn><mo>&#215;</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>136</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> Mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">D</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>136</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Reaction Intermediates"
+  },
+  {
+    "question_id": "64b16a27f23ac7d519f9b1d6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "The compound that does NOT liberate CO<sub>2</sub>, on treatment with aqueous sodium bicarbonate solution, is&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yrR6a",
+        "text": "Benzoic acid",
+        "image": null
+      },
+      {
+        "id": "XB16m",
+        "text": "Benzenesulphonic acid",
+        "image": null
+      },
+      {
+        "id": "vXYUC",
+        "text": "Salicylic acid",
+        "image": null
+      },
+      {
+        "id": "sT6tg",
+        "text": "Carbolic acid (Phenol)",
+        "image": null
+      }
+    ],
+    "correct_answer": "sT6tg",
+    "solution_text": "Except phenol, all other options are either carboxylic acids or sulphonic acids, which are comparatively strong. Phenol is a very weak acid&nbsp;<math> <mrow> <msub> <mtext>K</mtext> <mtext>a</mtext> </msub> <mo>&asymp;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mn>-1</mn> <mn>0</mn> </mrow> </msup> </mrow> </math>&nbsp;and &nbsp;hence will not displace&nbsp;CO<sub>2</sub> from NaHCO<sub>3</sub>",
+    "solution_image": null,
+    "topic": "Reaction Intermediates"
+  }
+]

@@ -1,0 +1,568 @@
+[
+  {
+    "question_id": "6a0be51644d287c9361e5cd6",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "At a given temperature, $0.45$ g of acetic acid in $50$ mL of water is shaken with $1.0$ g of charcoal and the pH of the resulting solution is $3.0$. Assume, the adsorption of acetic acid from the aqueous solution by charcoal follows Freundlich isotherm,<br>$\\dfrac{x}{m} = k C^{1/n}$<br>If the plot of $\\log_{10}(x/m)$ against $\\log_{10}C$ gives a straight line with slope $1$, the value of $k$ in L mol$^{-1}$ is ____.<br>Given: The molar mass of acetic acid is $60$ g mol$^{-1}$.<br>The acid dissociation constant of acetic acid is $1.0 \\times 10^{-5}$ at the given temperature.<br>$x$ is the mass (in grams) of acetic acid adsorbed.<br>$m$ is the mass (in grams) of charcoal.<br>$C$ is the equilibrium concentration of acetic acid in the solution after the adsorption is complete.<br>$k$ and $n$ are constants for acetic acid$-$charcoal system at the given temperature.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.5",
+    "solution_text": "Given the pH of the resulting solution is $3.0$, the concentration of $H^+$ ions is:<br>$[H^+] = 10^{-3} \\text{ M}$<br><br>For the dissociation of acetic acid ($CH_3COOH \\rightleftharpoons CH_3COO^- + H^+$), the acid dissociation constant is given by:<br>$K_a = \\dfrac{[CH_3COO^-][H^+]}{[CH_3COOH]}$<br><br>Assuming $[CH_3COO^-] \\approx [H^+]$ and the equilibrium concentration of acetic acid is $C$, we can use the approximation:<br>$K_a = \\dfrac{[H^+]^2}{C}$<br>$1.0 \\times 10^{-5} = \\dfrac{(10^{-3})^2}{C}$<br>$C = \\dfrac{10^{-6}}{1.0 \\times 10^{-5}} = 0.1 \\text{ M}$<br><br>The number of moles of acetic acid remaining in the $50 \\text{ mL}$ ($0.05 \\text{ L}$) solution at equilibrium is:<br>$n_{eq} = C \\times V = 0.1 \\text{ mol L}^{-1} \\times 0.05 \\text{ L} = 0.005 \\text{ mol}$<br><br>The mass of acetic acid remaining in the solution is:<br>$W_{eq} = n_{eq} \\times \\text{Molar mass} = 0.005 \\text{ mol} \\times 60 \\text{ g mol}^{-1} = 0.30 \\text{ g}$<br><br>The initial mass of acetic acid was $0.45 \\text{ g}$. The mass of acetic acid adsorbed ($x$) by the charcoal is:<br>$x = 0.45 \\text{ g} - 0.30 \\text{ g} = 0.15 \\text{ g}$<br><br>The Freundlich adsorption isotherm is given by:<br>$\\dfrac{x}{m} = k C^{1/n}$<br><br>Taking the logarithm on both sides:<br>$\\log_{10}\\left(\\dfrac{x}{m}\\right) = \\log_{10}k + \\dfrac{1}{n} \\log_{10}C$<br><br>The plot of $\\log_{10}(x/m)$ against $\\log_{10}C$ is a straight line with a slope of $1$. Therefore:<br>$\\dfrac{1}{n} = 1 \\Rightarrow n = 1$<br><br>Substitute the values into the isotherm equation ($m = 1.0 \\text{ g}$):<br>$\\dfrac{0.15}{1.0} = k (0.1)^1$<br>$k = \\dfrac{0.15}{0.1} = 1.5 \\text{ L mol}^{-1}$<br><br>Answer: $1.5$",
+    "solution_image": null,
+    "topic": "Adsorption isotherms"
+  },
+  {
+    "question_id": "685102c56bba689a3eb09cc9",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Adsorption of phenol from its aqueous solution on to fly ash obeys Freundlich isotherm. At a given temperature, from $10 \\mathrm{mg} \\mathrm{g}^{-1}$ and $16 \\mathrm{mg} \\mathrm{g}^{-1}$ aqueous phenol solutions, the concentrations of adsorbed phenol are measured to be $4 \\mathrm{mg} \\mathrm{g}^{-1}$ and $10 \\mathrm{mg} \\mathrm{g}^{-1}$, respectively. At this temperature, the concentration (in $\\mathrm{mg} \\mathrm{g}^{-1}$ ) of adsorbed phenol from $20 \\mathrm{mg} \\mathrm{g}^{-1}$ aqueous solution of phenol will be $\\qquad$ .<br>Use : $\\log _{10} 2=0.3$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "15.62",
+    "solution_text": "$\\begin{aligned}\n& \\frac{x}{m}=K \\times C^{1 / n} \\\\\n& \\log \\left(\\frac{x}{m}\\right)=\\log K+\\frac{1}{n} \\log C \\\\\n& \\log 4=\\log K+\\frac{1}{n} \\log 10 \\\\\n& 0.6=\\log K+\\frac{1}{n} .....(1) \\\\\n& \\log 10=\\log K+\\frac{1}{n} \\log 16 \\\\\n& 1=\\log K+\\frac{1}{n} \\times 1.2 ....(2) \\end{aligned}$\nEquation (2) - equation (1)\n$0.4=\\frac{1}{\\mathrm{n}} \\times(0.2) \\Rightarrow \\mathrm{n}=0.5$\nand $\\log \\mathrm{K}=-1.4$\n$\\begin{aligned}\n& \\log \\frac{x}{m}=\\log K+\\frac{1}{n} \\times \\log C \\\\\n& =-1.4+2 \\times \\log 20\n\\end{aligned}$\n$\\begin{aligned} & =-1.4+2.6=1.2 \\\\ & \\frac{\\mathrm{x}}{\\mathrm{m}}=10^{+1.2}=16 \\\\ & \\left(\\log 2=0.3,4 \\log 2=1.2,16=10^{+1.2}\\right)\\end{aligned}$\n$\\begin{aligned}\n& \\frac{x}{m}=K \\times C^{1 / n} \\\\\n& 4=K(10)^{1 / n}....(1) \\\\ \n& 10=K(16)^{1 / n}....(2) \\\\\n& X=K(20)^{1 / n}....(3)\n\\end{aligned}$\nOn solving equation (1) and (2)\n$\\frac{1}{n}=2$\nOn solving equation (1) and (3)\n$\\frac{4}{X}=\\left(\\frac{10}{20}\\right)^2$\n$X=16$\nOn solving equation (2) and (3)\n$\\begin{aligned}\n& \\frac{10}{X}=\\left(\\frac{16}{20}\\right)^2 \\\\\n& X=15.625\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Adsorption isotherms"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5cf",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "The correct option(s) related to adsorption processes is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "o9EEC",
+        "text": "Chemisorption results in a unimolecular layer.",
+        "image": null
+      },
+      {
+        "id": "wRsjW",
+        "text": "The enthalpy change during physisorption is in the range of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>140</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.",
+        "image": null
+      },
+      {
+        "id": "SBmJu",
+        "text": "Chemisorption is an endothermic process.",
+        "image": null
+      },
+      {
+        "id": "LAcVl",
+        "text": "Lowering the temperature favours physisorption processes.",
+        "image": null
+      }
+    ],
+    "correct_answer": "LAcVl",
+    "solution_text": "<blockquote><p>(A) First statement is correct as chemisorption results in a unimolecular layer and physisorption result in a multimolecular layer.</p><p>(B) Second statement is incorrect as enthalpy change during physisorption is of the range of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>20</mn><mo>-</mo><mn>40</mn></mrow></mfenced><msup><mi>kJmol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.Gases&nbsp;with higher critical temperatures are readily adsorbed</p><p>(C) Chemisorption is an exothermic process with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>80</mn><mo>-</mo><mn>240</mn></mrow></mfenced><msup><mi>kJmol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> as the enthalpy of adsorption.</p><p>(D) Lowering the temperature results in increase in the extent of physisorption.It decreases with increase of temperature.</p><p>Hence (A) and (D) are correct.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Adsorption"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b308",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "When <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is adsorbed on a metallic surface, electron transfer occurs from the metal to <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . The TRUE statement(s) regarding this adsorption is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O7ogB",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  is physisorbed",
+        "image": null
+      },
+      {
+        "id": "SPQEH",
+        "text": "Heat is released",
+        "image": null
+      },
+      {
+        "id": "xjqKA",
+        "text": "Occupancy of  <math><msubsup><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">p</mi></mrow><mrow><mi mathvariant=\"normal\">*</mi></mrow></msubsup></math>  of  <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  is increased",
+        "image": null
+      },
+      {
+        "id": "jewb7",
+        "text": "Bond length of  <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  is increased",
+        "image": null
+      }
+    ],
+    "correct_answer": "jewb7",
+    "solution_text": "<p>It is a chemisorption <math><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">H</mi></math>  is  <math><mo>-</mo><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi></math>  for adsorption. Due to electron intake in  <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  molecule  <math><msubsup><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">x</mi></mrow><mrow><mi mathvariant=\"normal\">*</mi></mrow></msubsup></math>  or  <math><msubsup><mrow><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">*</mi></mrow></msubsup></math>  (ABMO) will gain electrons and bond order of  <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  molecule (Adsorbed) will decrease and bond length increased.<br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image11-94228194-c154-437b-9757-acaf135b59f0.png\"/></p>",
+    "solution_image": null,
+    "topic": "Adsorption"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1d8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "Methylene blue, from its aqueous solution, is adsorbed on activated charcoal at 25<sup>o</sup><sup>&nbsp;</sup>C. For this process, the correct statement is&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XRjx1",
+        "text": "The adsorption requires activation at 25<sup>o</sup>C.",
+        "image": null
+      },
+      {
+        "id": "qh8uJ",
+        "text": "The adsorption is accompanied by a decrease in enthalpy",
+        "image": null
+      },
+      {
+        "id": "f1cwR",
+        "text": "The adsorption increases with increase of temperature.",
+        "image": null
+      },
+      {
+        "id": "NpD82",
+        "text": "The adsorption is irreversible.",
+        "image": null
+      }
+    ],
+    "correct_answer": "qh8uJ",
+    "solution_text": "<p>It is the process of Physical adsorption as charcoal is already activated.<br />Since physical adsorption is spontaneous&nbsp;<math> <mrow> <mo>&#916;</mo> <mtext>G</mtext> </mrow> </math>&nbsp;is -ve<br /><math> <mrow> <mo>&#916;</mo> <mtext>G</mtext> <mo>=</mo> <mo>&#916;</mo> <mtext>H</mtext> <mo>-</mo> <mtext>T</mtext> <mo>&#916;</mo> <mtext>S</mtext> </mrow> </math><br />as <math> <mrow> <mo>&#916;</mo> <mtext>S</mtext> </mrow> </math> &nbsp;is -ve (passage of methylene&nbsp;blue from aqueous phase over the surface of adsorbent) i.e. <math> <mrow> <mo>&#916;</mo> <mtext>H</mtext> </mrow> </math>&nbsp;is highly -ve since process is exothermic in nature.</p><p>Physical adsorption is reversible in nature.</p><p>Physical adsorption decreases with increase in temperature.</p>",
+    "solution_image": null,
+    "topic": "Adsorption"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a9",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The given graphs/data I, II, III and IV represent general trends observed for different physisorption and chemisorption processes under mild conditions of temperature and presure. Which of the following choice(s) about I, II, III and IV is (are) correct?\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iiL_O4N_ATV7e7GF7H2Gvm0IrJRq38lolz7oPh6F5oM.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6SI6tnEJ1AqqkUONXv8LTSzBpJSoMt1zcMfr5HT9mSU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sq11G",
+        "text": "I is physisorption and II is chemisorption",
+        "image": null
+      },
+      {
+        "id": "HM1wl",
+        "text": "$\\mathrm{I}$ is physisorption and $\\mathrm{III}$ is chemisorption",
+        "image": null
+      },
+      {
+        "id": "MbnOa",
+        "text": "IV is chemisorption and II is chemisorption",
+        "image": null
+      },
+      {
+        "id": "Zmgmp",
+        "text": "IV is chemisorption and III is chemisorption",
+        "image": null
+      }
+    ],
+    "correct_answer": "MbnOa",
+    "solution_text": "Graph (I) and (III) represent physisorption because, in physisorption, the amount of adsorption decreases with the increase of temperature and increases with the increase of pressure.\r\n\r\nGraph (II) represent chemisorption, because in chemisorption amount of adsorption increases with the increase of temperature. Graph (IV) is showing the formation of a chemical bond, hence chemisorption.",
+    "solution_image": null,
+    "topic": "Adsorption"
+  },
+  {
+    "question_id": "64b16a0df23ac7d519f9b0e3",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The correct statement(s) pertaining to the adsorption of a gas on a solid surface is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "c7gLr",
+        "text": "\nAdsorption is always exothermic\n",
+        "image": null
+      },
+      {
+        "id": "erqRl",
+        "text": "\nPhysisorption may transform into chemisorption at high temperature\n",
+        "image": null
+      },
+      {
+        "id": "RuhYz",
+        "text": "\nPhysisorption increases with increasing temperature but chemisorption decreases with increasing temperature\n",
+        "image": null
+      },
+      {
+        "id": "xjESH",
+        "text": "\nChemisorption is more exothermic than physisorption, however it is very slow due to higher energy of activation",
+        "image": null
+      }
+    ],
+    "correct_answer": "xjESH",
+    "solution_text": "(a) In the process of adsorption, a bond is formed between adsorbate and adsorbent, hence always exothermic.\n(b) Physisorption require very low activation energy while chemisorption require high activation energy. Therefore a physisorption may transform into chemisorption but only at high temperature.\n(c) It is wrong statement as at higher temperature, physically adsorbed substance starts desorbing.\n(d) In physical adsorption, van der Waals' force hold the adsorbate and adsorbent together which is a weak electrostatic attraction. In chemisorption, strong chemical bond binds the adsorbate to the adsorbent. Therefore, chemisorption is more exothermic than physical adsorption.",
+    "solution_image": null,
+    "topic": "Adsorption"
+  },
+  {
+    "question_id": "64b16aa8f23ac7d519f9b667",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>Consider the following statements related to colloids.</p><p>(I) Lyophobic colloids are not formed by simple mixing of dispersed phase and dispersion medium.</p><p>(II) For emulsions, both the dispersed phase and the dispersion medium are liquid.</p><p>(III) Micelles are produced by dissolving a surfactant in any solvent at any temperature.</p><p>(IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive index as that of the dispersion medium.</p><p>The option with the correct set of statements is</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "filF3",
+        "text": "(I) and (II)",
+        "image": null
+      },
+      {
+        "id": "vvbU7",
+        "text": "(II) and (III)",
+        "image": null
+      },
+      {
+        "id": "QL2HC",
+        "text": "(III) and (IV)",
+        "image": null
+      },
+      {
+        "id": "jkgav",
+        "text": "(II) and (IV)",
+        "image": null
+      }
+    ],
+    "correct_answer": "filF3",
+    "solution_text": "<blockquote><p>As in Lyophobic colloids there is no interaction between dispersed phase and dispersion medium, special methods are used for preparation, simple mixing will not form colloid.</p><p>Emulsion are colloids of liquid dispersed phase and liquid dispersion medium.</p><p>Micelles formation occurs when temperature is above a particular temperature called Kraft temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mi mathvariant=\"normal\">K</mi></msub></math>&nbsp;and concentration above a particular value know as critical micelle concentration (CMC).</p><p>Tyndall&#39;s effect can be observed when the refractive indices of the dispersed phase and the dispersion medium differ greatly in magnitude.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Colloids"
+  },
+  {
+    "question_id": "64b16a8bf23ac7d519f9b561",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "The correct statement&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math> related to colloids is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZRJoy",
+        "text": "The process of precipitating colloidal sol by an electrolyte is called peptization.",
+        "image": null
+      },
+      {
+        "id": "znvd2",
+        "text": "Colloidal solution freezes at higher temperature than the true solution at the same concentration.",
+        "image": null
+      },
+      {
+        "id": "VwBH6",
+        "text": "Surfactants form micelle above critical micelle concentration <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>CMC</mi></mfenced><mo>.</mo><mo>&#160;</mo><mi>CMC</mi></math> depends on temperature.",
+        "image": null
+      },
+      {
+        "id": "G6w6o",
+        "text": "Micelles are macromolecular colloids.",
+        "image": null
+      }
+    ],
+    "correct_answer": "VwBH6",
+    "solution_text": "The process of setting of colloidal particles by adding electrolyte is called coagulation or precipitation of the sol.<p>Peptization is the process of converting a precipitate into colloidal sol by shaking it in a medium in presence of a small amount of electrolyte.</p><p>Colloidal solution have a lower value of colligative properly so, their depression in freezing point will be low, and freezing point will be higher. Surfactants form&nbsp;micelle above C.M.C and value of CMC&nbsp;depends on temperature.</p><p>Micelles are not macromolecular colloids they are associated colloids. Since, many small molecules associate with each other to form micelles.</p>",
+    "solution_image": null,
+    "topic": "Colloids"
+  },
+  {
+    "question_id": "64b16a55f23ac7d519f9b373",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<p>The qualitative sketches I, II and III given below show the variation of surface tension with molar concentration of three different aqueous solutions of KCl, <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\"> </mi></math> and <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>11</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">N</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mo>+</mo></mrow></msup></math> at room temperature. The correct assignment of the sketches is -<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.6.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DwP6n",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l,</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H,</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>11</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">N</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mo>+</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "2ZEdj",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>11</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">N</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mo>+</mo></mrow></msup><mi mathvariant=\"normal\">,&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H,</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math>",
+        "image": null
+      },
+      {
+        "id": "advcc",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l,</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>11</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">N</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mo>+</mo></mrow></msup><mi mathvariant=\"normal\">,&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></math>",
+        "image": null
+      },
+      {
+        "id": "CKoTa",
+        "text": "<math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H,</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l,</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>:</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>11</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">N</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mo>+</mo></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "CKoTa",
+    "solution_text": "Water has large surface tension due to very strong interaction. Generally adding organic derivatives to water decreases its surface tension due to hydrophobic interaction.<br />In case III, hydrophobic interaction is stronger than case II causing surface tension to decrease more rapidly.<br />Due to <math><msup><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>+</mo></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>&#8211;</mo></mrow></msup></math> (inorganic electrolyte) intermolecular forces increases, surface tension increases.",
+    "solution_image": null,
+    "topic": "Colloids"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b167",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Choose the correct reason(s) for the stability of the lyophobic colloidal particles.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nyq9k",
+        "text": "Preferential adsorption of ions on their surface from the solution.",
+        "image": null
+      },
+      {
+        "id": "12CNz",
+        "text": "Preferential adsorption of solvent on their surface from the solution.",
+        "image": null
+      },
+      {
+        "id": "gABzd",
+        "text": "Attraction between different particles having opposite charges on their surface.",
+        "image": null
+      },
+      {
+        "id": "xW6xE",
+        "text": "Potential difference between the fixed layer and the diffused layer of opposite charges around the colloidal particles.",
+        "image": null
+      }
+    ],
+    "correct_answer": "xW6xE",
+    "solution_text": "(a) When two or more ions are present in the dispersion medium, preferential adsorption of the ion common to the colloidal particle takes place.\r\n\r\n(d) This is called zeta potential which helps in increasing the stability of the lyophobic sol.",
+    "solution_image": null,
+    "topic": "Colloids"
+  },
+  {
+    "question_id": "64b169e9f23ac7d519f9af99",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the surfactant that will form micelles in aqueous solution at the lowest molar concentration at ambient conditions is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7wbBX",
+        "text": "\n$\\mathrm{CH}_3\\left(\\mathrm{CH}_2\\right)_{15} \\mathrm{~N}^{+}\\left(\\mathrm{CH}_3\\right)_3 \\mathrm{Br}^{-}$\n",
+        "image": null
+      },
+      {
+        "id": "piJhc",
+        "text": "\n$\\mathrm{CH}_3\\left(\\mathrm{CH}_2\\right)_{11} \\mathrm{OSO}_3^{-} \\mathrm{Na}^{+}$\n",
+        "image": null
+      },
+      {
+        "id": "7GEH6",
+        "text": "\n$\\mathrm{CH}_3\\left(\\mathrm{CH}_2\\right)_6 \\mathrm{COO}^{-} \\mathrm{Na}^{+}$\n",
+        "image": null
+      },
+      {
+        "id": "RqE0P",
+        "text": "\n$\\mathrm{CH}_3\\left(\\mathrm{CH}_2\\right)_{11} \\mathrm{~N}^{+}\\left(\\mathrm{CH}_3\\right)_3 \\mathrm{Br}^{-}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "7wbBX",
+    "solution_text": "Sodium Hexadecyl trimethylammonium bromide (CTAB) dodecylsulphate\n(SDS)\nCMC $(\\mathrm{mm})>-10$\n1",
+    "solution_image": null,
+    "topic": "Colloids"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aeda",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Statement I Micelles are formed by surfactant molecules above the critical micellar concentration (CMC).\nStatement II The conductivity of a solution having surfactant molecules deceases sharply at the CMC.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vNIpR",
+        "text": "\nStatement I is true, Statement II is true, Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "BQWzI",
+        "text": "\nStatement I is true, Statement II is true, Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "iZ5c2",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "xje3j",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "BQWzI",
+    "solution_text": "At a certain concentration surfactant molecules start to aggregate and form micelle, the concentration is called critical micellisation concentration (CMC).\nAggregation of surfactant molecules (ions; $\\mathrm{RCOO}^{-}$) micelle formation cause effective fall in number of free ions to conduct electricity, thus, conductivity decreases at CMC.",
+    "solution_image": null,
+    "topic": "Colloids"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b47c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Molar conductivity <math><mfenced separators=\"|\"><mrow><mrow><msub><mo stretchy=\"false\">&#8896;</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></msub><mrow><mi>&#160;</mi></mrow></mrow></mrow></mfenced></math> of aqueous solution of sodium stearate, which behaves as a strong electrolyte, is recorded at varying concentration(c) of sodium stearate. Which one of the following plots provides the correct representation of micelle formation in the solution?<br />(Critical micelle concentration (CMC) is marked with an arrow in the figures.)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "V6Y3C",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/lmslzqazyrhgykipvwtgrkmvvzcrcyhdgupccyucptwksprkkv.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "0zSHb",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iezawzcykurholerwcnnbudbtomgoohjqvwlcuhezpeqmlleov.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "Uu6Qj",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ecwzkjnuovpilktvqihprhicqlspuqyimromoibapsnqgxutdp.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "GqJJE",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ipysicjbxarsaqhgxjtqiizrkrctqsprfxwkyraxzhvxfmrjly.jpeg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Uu6Qj",
+    "solution_text": "With increase in concentration of sodium stearate <math><msub><mrow><mtext>λ</mtext></mrow><mrow><mtext>M</mtext></mrow></msub></math> decreases, but at CNC, formation of miceller take place and the <math><msub><mrow><mtext>λ</mtext></mrow><mrow><mtext>M</mtext></mrow></msub></math> decrease abruptly, this change in <math><msub><mrow><mtext>λ</mtext></mrow><mrow><mtext>M</mtext></mrow></msub></math> with respect to <math><msqrt><mtext>c</mtext></msqrt></math> is represented by plot.",
+    "solution_image": null,
+    "topic": "Preparation and Purification of colloids"
+  },
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e6",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "The correct statement(s) about surface properties is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WWz1W",
+        "text": "Cloud is an emulsion type of colloid in which liquid is dispersed phase and gas is dispersion medium",
+        "image": null
+      },
+      {
+        "id": "orAG5",
+        "text": "Adsorption is accompanied by decrease in enthalpy and decrease in entropy of the system",
+        "image": null
+      },
+      {
+        "id": "BP6ZF",
+        "text": "Brownian motion of colloidal particles does not depend on the size of the particles but depends on viscosity of the solution",
+        "image": null
+      },
+      {
+        "id": "fWeFm",
+        "text": "The critical temperatures of ethane and nitrogen are 563 K and 126 K, respectively. The adsorption of ethane will be more than that of nitrogen on same amount of activated charcoal at a given temperature",
+        "image": null
+      }
+    ],
+    "correct_answer": "fWeFm",
+    "solution_text": "<p>(i)&nbsp; Emulsion is liquid in liquid type colloid.</p><p>(ii)&nbsp; For adsorption,<math><mi mathvariant=\"normal\">&#916;</mi><mi>H</mi><mo>&#60;</mo><mn>0</mn></math>&nbsp;and&nbsp;<math><mi mathvariant=\"normal\">&#916;</mi><mi>S</mi><mo>&#60;</mo><mn>0</mn></math></p><p>(iii)&nbsp; Smaller the size and less viscous the dispersion medium, more will be the Brownian motion.</p><p>(iv)&nbsp; Higher the&nbsp;<math><msub><mrow><mi>T</mi></mrow><mrow><mi>C</mi></mrow></msub></math>,&nbsp;greater will be the extent of adsorption.</p>",
+    "solution_image": null,
+    "topic": "Properties of colloidal solution"
+  },
+  {
+    "question_id": "64b169f0f23ac7d519f9afd7",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Among the electrolytes $\\mathrm{Na}_2 \\mathrm{SO}_4, \\mathrm{CaCl}_2 \\quad \\mathrm{Al}_2\\left(\\mathrm{SO}_4\\right)_3$ and $\\mathrm{NH}_4 \\mathrm{Cl}$, the most effective coagulating agent for $\\mathrm{Sb}_2 \\mathrm{~S}_3$ sol is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0840G",
+        "text": "\n$\\mathrm{Na}_2 \\mathrm{SO}_4$\n",
+        "image": null
+      },
+      {
+        "id": "wmx2e",
+        "text": "\n$\\mathrm{CaCl}_2$\n",
+        "image": null
+      },
+      {
+        "id": "KdS3v",
+        "text": "\n$\\mathrm{Al}_2\\left(\\mathrm{SO}_4\\right)_3$\n",
+        "image": null
+      },
+      {
+        "id": "iGwWH",
+        "text": "\n$\\mathrm{NH}_4 \\mathrm{Cl}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KdS3v",
+    "solution_text": "$\\mathrm{Sb}_2 \\mathrm{~S}_3$ is an anionic $\\mathrm{sol}_2$, therefore cation of highest valency ( $\\mathrm{Al}^{3+}$ in the present case) would be most effective coagulating agent.",
+    "solution_image": null,
+    "topic": "Properties of colloidal solution"
+  }
+]

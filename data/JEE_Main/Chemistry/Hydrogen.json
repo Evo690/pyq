@@ -1,0 +1,40 @@
+[
+  {
+    "question_id": "69d8075b81239f6567c4f4c5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 1)",
+    "paper_year_short": "2026 (02 April Shift 1)",
+    "held_on": "2026-04-02T09:00:00.000Z",
+    "question_text": "The mass of iron converted into $Fe_3O_4$ by the action of $18$ g of steam is :<br>(Given : Molar mass of H, O and Fe are $1$, $16$ and $56$ g mol$^{-1}$ respectively)<br>Assume iron is present in excess :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6eJrW",
+        "text": "$2.1$ g",
+        "image": null
+      },
+      {
+        "id": "fcfMv",
+        "text": "$4.2$ g",
+        "image": null
+      },
+      {
+        "id": "08frv",
+        "text": "$21$ g",
+        "image": null
+      },
+      {
+        "id": "43mzs",
+        "text": "$42$ g",
+        "image": null
+      }
+    ],
+    "correct_answer": "43mzs",
+    "solution_text": "The balanced chemical equation for the reaction of iron with steam is:<br><br>$3Fe + 4H_2O \\rightarrow Fe_3O_4 + 4H_2$<br><br>Molar mass of $H_2O = 2 \\times 1 + 16 = 18 \\text{ g mol}^{-1}$<br><br>Number of moles of steam ($H_2O$) given = $\\dfrac{18}{18} = 1 \\text{ mol}$<br><br>From the balanced equation, $4 \\text{ moles}$ of $H_2O$ react with $3 \\text{ moles}$ of $Fe$.<br><br>Therefore, $1 \\text{ mole}$ of $H_2O$ will react with $\\dfrac{3}{4} \\text{ moles}$ of $Fe$.<br><br>Mass of iron reacted = Moles of $Fe \\times$ Molar mass of $Fe$<br><br>Mass of iron = $\\dfrac{3}{4} \\times 56 = 3 \\times 14 = 42 \\text{ g}$<br><br>Answer: $42$ g",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Hydrogen"
+  }
+]

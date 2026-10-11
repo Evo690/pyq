@@ -1,0 +1,944 @@
+[
+  {
+    "question_id": "66965dd3d603121f43a3fae5",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A region in the form of an equilateral triangle (in $x-y$ plane) of height $L$ has a uniform magnetic field $\\vec{B}$ pointing in the $+z$-direction. A conducting loop $\\mathrm{PQR}$, in the form of an equilateral triangle of the same height $L$, is placed in the $x-y$ plane with its vertex $\\mathrm{P}$ at $x=0$ in the orientation shown in the figure. At $t=0$, the loop starts entering the region of the magnetic field with a uniform velocity $\\vec{v}$ along the $+x$-direction. The plane of the loop and its orientation remain unchanged throughout its motion.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vB2VAUsvsgWneESUJCNMe8iUMgA2Y9IxVr1_XchW_0c.original.fullsize.png\">\nWhich of the following graph best depicts the variation of the induced emf $(E)$ in the loop as a function of the distance $(x)$ starting from $x=0$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bCEEX",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/caJvmmKEiT24m1pYgJ3CyC3H6HvuvQ4wWLN0ddxJWk0.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "D5kuB",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jw44KQyU1sH3j9xrQlvUSWBU9L-hx4_azDmgvJlPVRE.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "l2S8G",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/J0bFxg_JnU2ikp5BbKpi4XlDllrjND_Bpk8IS5LqWzU.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "DFDh7",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Ov78FnnbQzHjM7itASfIo6Ujm23sVkFNCSh56sqz-B4.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "bCEEX",
+    "solution_text": "For, 0 to $\\mathrm{L}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-9moMqNTuNtW-vxcVf7_pF-sFI7893I3l1CERsUB9_k.original.fullsize.png\">\n$\\varepsilon=\\mathrm{B} \\ell_{\\text {eff }} \\mathrm{v}=\\mathrm{B} \\times \\frac{\\mathrm{x}}{\\sqrt{3}} \\mathrm{v}$\nFor, $\\mathrm{L}$ to $2 \\mathrm{~L}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QNmfDefr0Fcy3NJtN1Blpw_B4WJX3c9_DydBO4jli8c.original.fullsize.png\"><br>$\\begin{aligned} & |e m f|=B\\left(\\frac{L}{\\sqrt{3}}-\\frac{x_0}{\\sqrt{3}}\\right) v-B \\frac{2 x_0}{\\sqrt{3}} v \\\\ & =\\frac{B v L}{\\sqrt{3}}-\\sqrt{3} \\mathrm{Bvx}_0 \\\\ & =\\operatorname{Bv}\\left[\\frac{L}{\\sqrt{3}}-\\sqrt{3}(x-L)\\right] \\\\ & =\\frac{B v}{\\sqrt{3}}[L-3 \\mathrm{x}+3 \\mathrm{~L}] \\\\ & =\\frac{B v}{\\sqrt{3}}[4 L-3 \\mathrm{x}] \\\\ & \\text { at } x=\\frac{4 L}{3} \\\\ & e m f=0 \\\\ & \\end{aligned}$",
+    "solution_image": null,
+    "topic": "Induced Electric Field"
+  },
+  {
+    "question_id": "64b16a8ff23ac7d519f9b587",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph</strong><br>A special metal $S$ conducts electricity without any resistance. A closed wire loop, made of $S$, does not allow any change in flux through itself by inducing a suitable current to generate a compensating flux. The induced current in the loop cannot decay due to its zero resistance. This current gives rise to a magnetic moment which in turn repels the source of magnetic field or flux. Consider such a loop, of radius $a$, with its center at the origin. A magnetic dipole of moment $m$ is brought along the axis of this loop from infinity to a point at distance $r(\\gg a)$ from the center of the loop with its north pole always facing the loop, as shown in the figure below.<br><br>The magnitude of magnetic field of a dipole $m$, at a point on its axis at distance $r$, is $\\frac{\\mu_{0}}{2 \\pi} \\frac{m}{r^{3}}$, where $\\mu_{0}$ is the permeability of free space. The magnitude of the force between two magnetic dipoles with moments, $m_{1}$ and $m_{2}$, separated by a distance $r$ on the common axis, with their north poles facing each other, is $\\frac{k m_{1} m_{2}}{r^{4}}$, where $k$ is a constant of appropriate dimensions. The direction of this force is along the line joining the two dipoles.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OnwLM4py_dLCUenLLwdFNEy8sa-0i9DHGKEW9cpctzU.original.fullsize.png\" /><br><strong>Question</strong>When the dipole&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>&nbsp;is placed at a distance&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>&nbsp;from the centre of the loop (as shown in the figure), the current induced in the loop will be proportional to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2aa3O",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>m</mi><msup><mi>r</mi><mn>3</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "YlRSb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "F1wZM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>m</mi><msup><mi>r</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "6yjtt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>m</mi><mn>2</mn></msup><mi>r</mi></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2aa3O",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/571fef32-a285-4778-9cb1-8a36e9213622-image.png\" style=\"width: 230px; height: 84px;\" /></p><p>For a super conducting loop, net flux&nbsp;passing through it will remain constant.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>&#981;</mi><mrow><mi>total</mi><mo>&#160;</mo></mrow></msub></mfenced><mi>i</mi></msub><mo>=</mo><msub><mfenced><msub><mi>&#981;</mi><mrow><mi>total</mi><mo>&#160;</mo></mrow></msub></mfenced><mi>f</mi></msub></math></p><p>As area is same, therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>m</mi></mrow><mrow><mn>2</mn><msup><mi>&#960;r</mi><mn>3</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>a</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>I</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mi>m</mi></mrow><msup><mi>&#960;r</mi><mn>3</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>I</mi><mo>&#8733;</mo><mfrac><mi>m</mi><msup><mi>r</mi><mn>3</mn></msup></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Induced Electric Field"
+  },
+  {
+    "question_id": "64b16a2df23ac7d519f9b208",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nA point charge $Q$ is moving in a circular orbit of radius $R$ in the $x-y$ plane with an angular velocity $\\omega .$ This can be considered as equivalent to a loop carrying a steady current $\\frac{Q \\omega}{2 \\pi}$. A uniform magnetic field along the positive $z$-axis is now switched on, which increases at a constant rate from 0 to $B$ in one second. Assume that the radius of the orbit remains constant. The application of the magnetic field induces an emf in the orbit. The induced emf is defined as the work done by an induced electric field in moving a unit positive charge around a closed loop. It is known that, for an orbiting charge, the magnetic dipole moment is proportional to the angular momentum with a proportionality constant $\\gamma$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe magnitude of the induced electric field in the orbit at any instant of time during the time interval of the magnetic field change is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0OeYB",
+        "text": "<math> <mrow> <mfrac> <mrow> <mtext>BR</mtext> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "KX27U",
+        "text": "<math> <mrow> <mfrac> <mrow> <mtext>BR</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "cP85t",
+        "text": "<math> <mrow> <mtext>BR</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "Xs5Rs",
+        "text": "<math> <mrow> <mtext>2BR</mtext> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "KX27U",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8750;</mo><mtext>E.dl</mtext><mo>=</mo><mo>-</mo><mtext>A</mtext><mfrac><mtext>dB</mtext><mtext>dt</mtext></mfrac></math><br /><math> <mrow> <mtext>E.</mtext> <mn>2</mn> <mi>&#960;</mi> <mtext>R</mtext> <mo>=</mo> <mo>-</mo> <mi>&#960;</mi> <msup> <mtext>R</mtext> <mn>2</mn> </msup> <mtext>B</mtext> </mrow> </math><br /><math> <mrow> <mtext>E</mtext> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mtext>BR</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math><br /><strong>Alternate</strong><br /><math> <mrow> <mtext>E</mtext> <mn>2</mn> <mi>&#960;</mi> <mtext>R</mtext> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mtext>d</mtext> <mi>&#981;</mi> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> <mo>=</mo> <mo>-</mo> <mi>&#960;</mi> <msup> <mtext>R</mtext> <mn>2</mn> </msup> <mfrac> <mrow> <mtext>dB</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mtext>E</mtext> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mtext>R</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mfrac> <mrow> <mtext>dB</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mtext>BR</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Induced Electric Field"
+  },
+  {
+    "question_id": "64b16a12f23ac7d519f9b10e",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Which of the field patterns given in the figure is valid for electric field as well as for magnetic field?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qyXFU",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PvXG5u85HXYPikpmJCG0Dyb9XLSnjaulKAjw6YYBM8Q.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "sy4EN",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8sAGjXi2E27EMRrmB8p4jNzjcPrulhkKE0jI6HTNJ0g.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "CfpGn",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vB6wiKRN6J5Veh7UeXiZol7mOzgMVULyI16yyFEu8Hw.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "OVbFR",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iEBS_GWoOypMxmFZtVPC3y0Rvs0ctlO9FwT931vvo78.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "CfpGn",
+    "solution_text": "Correct answer is (c), because induced electric field lines (produced by change in magnetic field) and magnetic field lines form closed loops.\nAnalysis of Question\nQuestion is simple, provided you have an idea of induced electric field lines.",
+    "solution_image": null,
+    "topic": "Induced Electric Field"
+  },
+  {
+    "question_id": "64b169c7f23ac7d519f9ae66",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Match the following columns\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sMqslWdePeakThlq1yBOr6vLpYxkICZ4jmVngXlMfX8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wy45H",
+        "text": "\n(a) p,q, (b) p,q, (c) p, (d) q,r\n",
+        "image": null
+      },
+      {
+        "id": "LCI4u",
+        "text": "\n(a) p, (b) p,q,s, (c) p,s, (d) q,r,s\n",
+        "image": null
+      },
+      {
+        "id": "sYs2v",
+        "text": "\n(a) p,q, (b) p, q, (c) p,s, (d) p,q,r\n",
+        "image": null
+      },
+      {
+        "id": "SOttS",
+        "text": "\n(a) p, (b) p, s, (c) p, (d) p,q,s",
+        "image": null
+      }
+    ],
+    "correct_answer": "LCI4u",
+    "solution_text": "(a) $\\rightarrow$ p\n(b) $\\rightarrow$ p, q, s\n(c) $\\rightarrow$ q, s\n(d) $\\rightarrow$ q, r, s",
+    "solution_image": null,
+    "topic": "Induced Electric Field"
+  },
+  {
+    "question_id": "64b16a2df23ac7d519f9b209",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nA point charge $Q$ is moving in a circular orbit of radius $R$ in the $x-y$ plane with an angular velocity $\\omega .$ This can be considered as equivalent to a loop carrying a steady current $\\frac{Q \\omega}{2 \\pi}$. A uniform magnetic field along the positive $z$-axis is now switched on, which increases at a constant rate from 0 to $B$ in one second. Assume that the radius of the orbit remains constant. The application of the magnetic field induces an emf in the orbit. The induced emf is defined as the work done by an induced electric field in moving a unit positive charge around a closed loop. It is known that, for an orbiting charge, the magnetic dipole moment is proportional to the angular momentum with a proportionality constant $\\gamma$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe change in the magnetic dipole moment associated with the orbit, at the end of the time interval of the magnetic field change, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qqAw7",
+        "text": "<math> <mrow> <mo>-</mo> <mi>&#947;&#160;</mi> <msup> <mtext>BQR</mtext> <mn>2</mn> </msup> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "RaBmW",
+        "text": "<math> <mrow> <mo>-</mo> <mi>&#947;&#160;</mi> <mfrac> <mrow> <msup> <mtext>BQR</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "JpuRh",
+        "text": "<math> <mrow> <mi>&#947;&#160;</mi> <mfrac> <mrow> <msup> <mtext>BQR</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "DnNAQ",
+        "text": "<math> <mrow> <mi>&#947;&#160;</mi> <msup> <mtext>BQR</mtext> <mn>2</mn> </msup> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "RaBmW",
+    "solution_text": "Magnetic dipole moment <math> <mrow> <mtext>M</mtext> <mo>=</mo> <mi>&#947;</mi> <mtext>J</mtext> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>M</mtext> <mo>=</mo> <mi>&#947;</mi> <mo>&#916;</mo> <mtext>J</mtext> </mrow> </math>&nbsp;...(1)<br /><math> <mrow> <mfrac> <mrow> <mo>&#916;</mo> <mtext>J</mtext> </mrow> <mrow> <mo>&#916;</mo> <mtext>t</mtext> </mrow> </mfrac> <mo>=</mo> <mo>-</mo> <mtext>Q</mtext> <mfrac> <mrow> <mtext>dB</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> <mo>&#183;</mo> <mfrac> <mrow> <mtext>R</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mtext>R</mtext> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>J</mtext> <mo>=</mo> <mo>-</mo> <mfrac> <mrow> <mtext>QB</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <msup> <mtext>R</mtext> <mn>2</mn> </msup> </mrow> </math><br />So <math> <mrow> <mo>&#916;</mo> <mtext>M</mtext> <mo>=</mo> <mo>-</mo> <mfrac> <mrow> <mi>&#947;</mi> <msup> <mtext>QBR</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math><br /><strong>Alternate</strong><br /><strong><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012621_AnsExp2_1.jpg\" /></strong><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mtext>M</mtext><mtext>L</mtext></mfrac><mo>=</mo><mfrac><mtext>Q</mtext><mrow><mn>2</mn><mtext>m</mtext></mrow></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>M</mtext><mo>=</mo><mfrac><mrow><mtext>Q</mtext><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>&#960;</mi></mrow></mfrac><mi>&#960;</mi><msup><mtext>R</mtext><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mtext>Q</mtext><mi>&#969;</mi><msup><mtext>R</mtext><mn>2</mn></msup></mrow><mn>2</mn></mfrac></math><br />induced electric field is opposite to the <math> <mrow> <mi>&#969;&#160;</mi> </mrow> </math>so the charge is retarded.<br /><math> <mrow> <msup> <mi>&#969;</mi> <mo>&#8242;</mo> </msup> <mo>=</mo> <mi>&#969;</mi> <mo>-</mo> <mi>&#945;</mi> <mtext>t</mtext> </mrow> </math><br /><math> <mrow> <msup> <mi>&#969;</mi> <mo>&#8242;</mo> </msup> <mo>=</mo> <mi>&#969;</mi> <mo>-</mo> <mfrac> <mrow> <mtext>QB</mtext> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mn>1</mn> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mspace width=\"0.5em\"></mspace> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msub> <mtext>a</mtext> <mtext>t</mtext> </msub> <mo>=</mo> <mtext>QE/m</mtext> </mrow> </mfenced> <mtext>,</mtext> <mspace width=\"0.5em\"></mspace> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mi>&#945;</mi> <mo>=</mo> <mfrac> <mrow> <mtext>QE</mtext> </mrow> <mrow> <mtext>mR</mtext> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mtext>Q</mtext> </mrow> <mrow> <mtext>R</mtext> </mrow> </mfrac> <mo>&#215;</mo> <mfrac> <mrow> <mtext>BR</mtext> </mrow> <mrow> <mn>2</mn> <mtext>m</mtext> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mtext>QB</mtext> </mrow> <mrow> <mn>2</mn> <mtext>m</mtext> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <msub> <mtext>M</mtext> <mtext>f</mtext> </msub> <mo>=</mo> <mfrac> <mrow> <mtext>Q</mtext> <msup> <mi>&#969;</mi> <mo>&#8242;</mo> </msup> <msup> <mtext>R</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mo>=</mo> <mtext>Q</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mi>&#969;</mi> <mo>-</mo> <mfrac> <mrow> <mtext>QB</mtext> </mrow> <mrow> <mn>2</mn> <mtext>m</mtext> </mrow> </mfrac> </mrow> </mfenced> <mfrac> <mrow> <msup> <mtext>R</mtext> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mtext>M</mtext><mo>=</mo><msub><mtext>M</mtext><mtext>f</mtext></msub><mo>-</mo><msub><mtext>M</mtext><mtext>i</mtext></msub><mo>=</mo><mfrac><mrow><mtext>Q</mtext><mi>&#969;</mi><msup><mtext>R</mtext><mn>2</mn></msup></mrow><mn>2</mn></mfrac><mo>-</mo><mfrac><mrow><msup><mtext>Q</mtext><mn>2</mn></msup><msup><mtext>BR</mtext><mn>2</mn></msup></mrow><mrow><mn>4</mn><mtext>m</mtext></mrow></mfrac><mo>-</mo><mfrac><mrow><mtext>Q</mtext><mi>&#969;</mi><msup><mtext>R</mtext><mn>2</mn></msup></mrow><mn>2</mn></mfrac><mo>=</mo><mo>-</mo><mi>&#947;</mi><mfrac><msup><mtext>BQR</mtext><mn>2</mn></msup><mn>2</mn></mfrac></math>",
+    "solution_image": null,
+    "topic": "Inductance"
+  },
+  {
+    "question_id": "64b16a64f23ac7d519f9b401",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<p>In the figure below, the switches <math><msub><mrow><mi>S</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>S</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are closed simultaneously at <math><mi>t</mi><mi> </mi><mo>=</mo><mi> </mi><mn>0</mn></math> and a current starts to flow in the circuit. Both the batteries have the same magnitude of the electromotive force (emf) and the polarities are as indicated in the figure. Ignore mutual inductance between the inductors. The current I in the middle wire reaches its maximum magnitude <math><msub><mrow><mi>I</mi></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub></math> time <math><mi>t</mi><mi> </mi><mo>=</mo><mi>τ</mi></math>. Which of the following statements is (are) true?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4_ques_phys_3.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GjfAQ",
+        "text": "<math><msub><mrow><mi>I</mi></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "d9I6G",
+        "text": "<math><msub><mrow><mi>I</mi></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mn>4</mn><mi>R</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "xVHGR",
+        "text": "<math><mi>τ</mi><mo>=</mo><mfrac><mrow><mi>L</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mn>2</mn></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "1F0GI",
+        "text": "<math><mi>τ</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mi mathvariant=\"script\">l</mi><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mn>2</mn></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1F0GI",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hflyofvoiphmshewodaoropytzaepteggbqkftudtubltlnbuk.jpeg\"/></p><p>The current in the middle, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi></math>, as shown in the figure above has a maximum value,<br ><math><msub><mrow><mi>i</mi></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>=</mo><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>i</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub></math></p><p>Using the equation of current decay in an <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo>-</mo><mi>R</mi></math> circuit, for the given values in the figure above,<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfenced separators=\"|\"><mrow><msub><mi>i</mi><mn>2</mn></msub><mo>-</mo><msub><mi>i</mi><mn>1</mn></msub></mrow></mfenced><mo>=</mo><mfrac><mi>V</mi><mi>R</mi></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mfenced><mi>t</mi></mrow></msup></mrow></mfenced><mo>-</mo><mfrac><mi>V</mi><mi>R</mi></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mi>R</mi><mi>L</mi></mfrac></mrow></mfenced><mi>t</mi></mrow></msup></mrow></mfenced></math><br ><math><mfrac><mrow><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced><mi>t</mi></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mrow></mfenced><mi>t</mi></mrow></msup></mrow></mfenced></math><br >For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced separators=\"|\"><mi>i</mi></mfenced><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>,</mo><mo> </mo><mfrac><mrow><mi>d</mi><mfenced separators=\"|\"><mi>i</mi></mfenced></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mn>0</mn></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mi>V</mi><mi>R</mi></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mfrac><mi>R</mi><mi>L</mi></mfrac><msup><mi>e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mi>L</mi></mfrac></mfenced><mi>t</mi></mrow></msup><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mfrac><mi>R</mi><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mrow></mfenced><msup><mi>e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mfenced><mi>t</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mi>L</mi></mfrac></mfenced><mi>t</mi></mrow></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mfenced><mi>t</mi></mrow></msup></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mfenced><mi>t</mi></mrow></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfenced separators=\"|\"><mfrac><mi>R</mi><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mfenced><mi>t</mi><mo>=</mo><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>2</mn></math><br ><math><mi>t</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>2</mn><mo>→</mo></math> time when I is maximum<br ><math><msub><mrow><mi>i</mi></mrow><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mi>L</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>2</mn></mrow></mfenced></mrow></msup><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn><mi>L</mi></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>2</mn></mrow></mfenced></mrow></msup></mrow></mfenced></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><msub><mi>i</mi><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub></mfenced><mo>=</mo><mfrac><mi>V</mi><mi>R</mi></mfrac><mfenced close=\"|\" open=\"|\" separators=\"|\"><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mfrac><mi>V</mi><mi>R</mi></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "LR Circuit"
+  },
+  {
+    "question_id": "64b16a5ff23ac7d519f9b3d1",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>A source of constant voltage <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">V</mi></math> is connected to a resistance<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mi mathvariant=\"normal\">R</mi></math> and two ideal inductors <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></math> through a switch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math> as shown. There is no mutual inductance between the two inductors. The switch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math> is initially open. At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn></math> , the switch is closed and current begins to flow. Which of the following options is/are correct?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/446324a5-f822-43ab-913b-f02aeb4331ea-image.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wt3al",
+        "text": "The ratio of the currents through <math><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is fixed at all times <math><mfenced separators=\"|\"><mrow><mi>t</mi><mo>&gt;</mo><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "AXUZE",
+        "text": "After a long time, the current through <math><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub></math> will be <math><mfrac><mrow><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mfrac><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Euru5",
+        "text": "After a long time, the current through <math><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></math> will be <math><mfrac><mrow><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mfrac><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "iRdnx",
+        "text": "At  <math><mi>t</mi><mo>=</mo><mn>0</mn></math> , the current through the resistance R is  <math><mfrac><mrow><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Euru5",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/88462d42-ccf9-4995-ab83-a4096c0bb7e7-image.png\"/> </p><p>As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></math> are in parallel so equivalent  </p><p>inductance, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></mrow><mrow><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></mrow></mfrac></math></p><p>Here, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>2</mn></msub></math> are the inductance (shown in circuit)</p><p>The current through the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>RL</mi></math> series circuit at anytime is given as </p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>=</mo><mi mathvariant=\"normal\"> </mi><mfrac><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi mathvariant=\"normal\">e</mi><mfrac><mrow><mo>-</mo><mi>Rt</mi></mrow><mi mathvariant=\"normal\">L</mi></mfrac></msup></mrow></mfenced></math></p><p>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi mathvariant=\"normal\">e</mi><mn>0</mn></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p>After a longtime i.e. at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">t</mi><mo>=</mo><mo>∞</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mrow><mn>1</mn><mo>-</mo><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mo>∞</mo></mrow></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi mathvariant=\"normal\">I</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">R</mi></mfrac></math></p><p>Let currents through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></math> are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math> respectively. As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></math> are joined in parallel</p><p>Voltage across <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mo>=</mo></math> Voltage across <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi mathvariant=\"normal\">V</mi><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></msub><mo>=</mo><msub><mi mathvariant=\"normal\">V</mi><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mfrac><mrow><mo>d</mo><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub></mrow><mrow><mo>d</mo><mi mathvariant=\"normal\">t</mi></mrow></mfrac><mo>=</mo><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub><mfrac><mrow><mo>d</mo><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></mrow><mrow><mo>d</mo><mi mathvariant=\"normal\">t</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub><mo>=</mo><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math></p><p>Thus, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></mfrac></math></p><p>By current division rule,</p><p>Current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub></math> across <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub></math> is </p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub><mrow><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></mrow></mfrac><mo>×</mo><mi mathvariant=\"normal\">I</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi mathvariant=\"normal\">I</mi><mn>1</mn></msub><mo>=</mo><mfrac><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mfrac><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub><mrow><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math></p><p>Current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math> across <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></math> is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mrow><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">l</mi><mn>2</mn></msub></mrow></mfrac><mo>×</mo><mi mathvariant=\"normal\">I</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub><mo>=</mo><mfrac><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">R</mi></mfrac><mfenced><mfrac><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mrow><msub><mi mathvariant=\"normal\">L</mi><mn>1</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">L</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "LR Circuit"
+  },
+  {
+    "question_id": "64b16a7cf23ac7d519f9b4d7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "A light disc made of aluminum (a nonmagnetic material) is kept horizontally and is free to rotate about its axis as shown in the figure. A strong magnet is held vertically at a point above the disc away from its axis. On revolving the magnet about the axis of the disc, the disc will (figure is schematic and not drawn to scale)\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6676a6e9-bfbc-4e76-9694-e6cc096fb1f3-image.png\"/>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jHp3s",
+        "text": "rotate in the direction opposite to the direction of magnet&#39;s motion",
+        "image": null
+      },
+      {
+        "id": "ns62B",
+        "text": "rotate in the same direction as the direction of magnet&#39;s motion",
+        "image": null
+      },
+      {
+        "id": "sL6gq",
+        "text": "not rotate and its temperature will remain unchanged",
+        "image": null
+      },
+      {
+        "id": "i2mvU",
+        "text": "not rotate but its temperature will slowly rise",
+        "image": null
+      }
+    ],
+    "correct_answer": "ns62B",
+    "solution_text": "<p>When we start rotating the magnet above the disc, eddy currents will be generated&nbsp;in the disc.&nbsp;Now we know from Lenz&#39;s&nbsp;law that the induced emf will drive the current such that it opposes the cause of the production of induced emf. Hence the disc will&nbsp;rotate in the same direction as the direction of magnet&#39;s motion</p>",
+    "solution_image": null,
+    "topic": "Magnetic Flux, Faraday's and Lenz law"
+  },
+  {
+    "question_id": "64b16a20f23ac7d519f9b195",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "A current carrying infinitely long wire is kept along the diameter of a circular wire loop, without touching it, the correct statement(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "I2pve",
+        "text": "The emf induced in the loop is zero if the current is constant.",
+        "image": null
+      },
+      {
+        "id": "AOLOW",
+        "text": "The emf induced in the loop is finite if the current is constant.",
+        "image": null
+      },
+      {
+        "id": "Syftj",
+        "text": "The emf induced in the loop is zero if the current decreases at a steady rate.",
+        "image": null
+      },
+      {
+        "id": "7uSu5",
+        "text": "The emf induced in the loop is infinite if the current decreases at a steady rate.",
+        "image": null
+      }
+    ],
+    "correct_answer": "Syftj",
+    "solution_text": "If the current is constant, the emf induced in the loop zero. Emf will be induced in the circular wire loop when flux through it changes with time.\r\n\r\n$\\mathrm{e}=-\\frac{\\Delta \\phi}{\\Delta \\mathrm{t}}$\r\n\r\nwhen the current is constant, the flux changing through it will be zero.\r\n\r\nAlso, if the current decreases at steady rate, the emf. induced in the loop is zero.\r\n\r\nWhen the current is decreasing at a steady rate then the change in the flux (decreasing inwards) on the right half of the wire is equal to the change in flux (decreasing outwards) on the left half of the wire such that $\\Delta \\phi$ through the circular loop is zero.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pMb-i-hx_6TMOAXEfVyhqx49W_QA3YpqMVkpEO5sdg4.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Magnetic Flux, Faraday's and Lenz law"
+  },
+  {
+    "question_id": "64b169eef23ac7d519f9afc4",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The figure shows certain wire segments joined together to form a coplanar loop. The loop is placed in a perpendicular\nmagnetic field in the direction going into the plane of the figure. The magnitude of the field increases with time. $I_1$ and $I_2$ are the currents in the segments $a b$ and $c d$. Then,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/FmoUDf4PAoABJAyyVwSzfFcrzpNV9UnhNo5asTpqQW8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PrEDy",
+        "text": "\n$I_1>I_2$\n",
+        "image": null
+      },
+      {
+        "id": "599jR",
+        "text": "\n$I_1 < I_2$",
+        "image": null
+      },
+      {
+        "id": "0CYoW",
+        "text": "\n$I_1$ is in the direction ba and $I_2$ is in the direction $c d$\n",
+        "image": null
+      },
+      {
+        "id": "qexjH",
+        "text": "\n$I_1$ is in the direction $a b$ and $I_2$ is in the direction $d c$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qexjH",
+    "solution_text": "Cross $\\otimes$ magnetic field passing from the closed loop is increasing. Therefore, from Lenz's law induced current will product $\\operatorname{dot} \\odot$ magnetic field. Hence, induced current is anticlockwise.",
+    "solution_image": null,
+    "topic": "Magnetic Flux, Faraday's and Lenz law"
+  },
+  {
+    "question_id": "64b169c7f23ac7d519f9ae60",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nModern trains are based on Maglev technology in which trains are magnetically leviated, which runs its EDS Maglev system.\nThere are coils on both sides of wheels. Due to motion of train, current induces in the coil of track which levitate it. This is in accordance with Lenz's law. If trains lower down then due to Lenz's law a repulsive force increases due to which train gets uplifted and if it goes much high then there is a net downward force disc to gravity. The advantage of Maglev train is that there is no friction between the train and the track, thereby reducing power consumption and enabling the train to attain very high speeds.\nDisadvantage of Maglev train is that as it slows down the electromagnetic forces decreases and it becomes difficult to keep it leviated and as it moves forward according to Lenz law, there is an electromagnetic drag force.<strong>Question:</strong>\nWhich force causes the train to elevate up?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QQORP",
+        "text": "\nElectrostatic force\n",
+        "image": null
+      },
+      {
+        "id": "sCNVh",
+        "text": "\nTime varying electric field\n",
+        "image": null
+      },
+      {
+        "id": "VnHBZ",
+        "text": "\nMagnetic force\n",
+        "image": null
+      },
+      {
+        "id": "CrfDJ",
+        "text": "\nInduced electric field",
+        "image": null
+      }
+    ],
+    "correct_answer": "VnHBZ",
+    "solution_text": "No solution is required.",
+    "solution_image": null,
+    "topic": "Magnetic Flux, Faraday's and Lenz law"
+  },
+  {
+    "question_id": "64b169c7f23ac7d519f9ae5f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nModern trains are based on Maglev technology in which trains are magnetically leviated, which runs its EDS Maglev system.\nThere are coils on both sides of wheels. Due to motion of train, current induces in the coil of track which levitate it. This is in accordance with Lenz's law. If trains lower down then due to Lenz's law a repulsive force increases due to which train gets uplifted and if it goes much high then there is a net downward force disc to gravity. The advantage of Maglev train is that there is no friction between the train and the track, thereby reducing power consumption and enabling the train to attain very high speeds.\nDisadvantage of Maglev train is that as it slows down the electromagnetic forces decreases and it becomes difficult to keep it leviated and as it moves forward according to Lenz law, there is an electromagnetic drag force.<strong>Question:</strong>\nWhat is the disadvantage of this system?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dPOKS",
+        "text": "\nTrain experiences upward force according to Lenz's law\n",
+        "image": null
+      },
+      {
+        "id": "TkZAp",
+        "text": "\nFriction force create a drag on the train\n",
+        "image": null
+      },
+      {
+        "id": "adzOH",
+        "text": "\nRetardation\n",
+        "image": null
+      },
+      {
+        "id": "EpRi5",
+        "text": "\nBy Lenz's law train experience a drag",
+        "image": null
+      }
+    ],
+    "correct_answer": "EpRi5",
+    "solution_text": "No solution is required.",
+    "solution_image": null,
+    "topic": "Magnetic Flux, Faraday's and Lenz law"
+  },
+  {
+    "question_id": "64b169c7f23ac7d519f9ae5e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nModern trains are based on Maglev technology in which trains are magnetically leviated, which runs its EDS Maglev system.\nThere are coils on both sides of wheels. Due to motion of train, current induces in the coil of track which levitate it. This is in accordance with Lenz's law. If trains lower down then due to Lenz's law a repulsive force increases due to which train gets uplifted and if it goes much high then there is a net downward force disc to gravity. The advantage of Maglev train is that there is no friction between the train and the track, thereby reducing power consumption and enabling the train to attain very high speeds.\nDisadvantage of Maglev train is that as it slows down the electromagnetic forces decreases and it becomes difficult to keep it leviated and as it moves forward according to Lenz law, there is an electromagnetic drag force.<strong>Question:</strong>\nWhat is the advantage of this system?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZQfpG",
+        "text": "\nNo friction hence no power consumption\n",
+        "image": null
+      },
+      {
+        "id": "cS7KH",
+        "text": "\nNo electric power is used\n",
+        "image": null
+      },
+      {
+        "id": "s3KZu",
+        "text": "\nGravitation force is zero\n",
+        "image": null
+      },
+      {
+        "id": "T2Mmo",
+        "text": "\nElectrostatic force draws the train",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZQfpG",
+    "solution_text": "No solution is required.",
+    "solution_image": null,
+    "topic": "Magnetic Flux, Faraday's and Lenz law"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c96",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "List-I contains four conducting loops lying in the $XY$ plane, as shown in the figures. The loops are rotating about $Z$ axis passing through the point $O$ with time period $T$ in clockwise direction. The region $x > 0$ contains a uniform magnetic field $B$ in the $+z$ direction. List-II contains the qualitative variation of the induced current $i(t)$ for each of these loops. Choose the option which describes the correct match between the entries in List-I to those in List-II.<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">List-I</th><th style=\"border: 1px solid black; padding: 10px;\">List-II</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(P) <img style=\"width: 150px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d1.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(1) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d5.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(Q) <img style=\"width: 150px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d2.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(2) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d6.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(R) <img style=\"width: 150px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d3.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(3) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d7.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(S) <img style=\"width: 150px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d4.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(4) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d8.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\"></td><td style=\"border: 1px solid black; padding: 10px;\">(5) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q31_d9.png\" /></td></tr></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SJzQS",
+        "text": "P $\\rightarrow$ 5, Q $\\rightarrow$ 4, R $\\rightarrow$ 1, S $\\rightarrow$ 3",
+        "image": null
+      },
+      {
+        "id": "NBcW3",
+        "text": "P $\\rightarrow$ 3, Q $\\rightarrow$ 2, R $\\rightarrow$ 5, S $\\rightarrow$ 4",
+        "image": null
+      },
+      {
+        "id": "EhIN1",
+        "text": "P $\\rightarrow$ 3, Q $\\rightarrow$ 2, R $\\rightarrow$ 1, S $\\rightarrow$ 4",
+        "image": null
+      },
+      {
+        "id": "Wfeou",
+        "text": "P $\\rightarrow$ 5, Q $\\rightarrow$ 1, R $\\rightarrow$ 2, S $\\rightarrow$ 3",
+        "image": null
+      }
+    ],
+    "correct_answer": "EhIN1",
+    "solution_text": "Let us analyze the induced current $i(t)$ for each loop as it rotates clockwise with time period $T$. The magnetic field $B$ is uniform in the $+z$ direction for $x > 0$. The angular velocity is $\\omega = \\dfrac{2\\pi}{T}$. The induced EMF is $\\varepsilon = -\\dfrac{d\\Phi}{dt} = -B \\dfrac{dA}{dt}$, where $A(t)$ is the area of the loop in the region $x > 0$. The current $i(t)$ is proportional to $\\dfrac{dA}{dt}$.<br><br><b>Loop (P):</b><br>This is a semicircle in the region $x < 0$ at $t = 0$. As it rotates clockwise, the top half of the straight edge enters the region $x > 0$. The area in $x > 0$ is a sector of angle $\\theta = \\omega t$.<br>For $0 \\le t \\le T/2$, the area $A(t) = \\dfrac{1}{2}R^2\\omega t$ increases linearly, so $\\dfrac{dA}{dt}$ is a positive constant. Thus, $i(t)$ is a positive constant.<br>For $T/2 \\le t \\le T$, the loop exits the region $x > 0$, and the area decreases linearly, so $\\dfrac{dA}{dt}$ is a negative constant. Thus, $i(t)$ is a negative constant.<br>This matches graph (3). So, P $\\rightarrow$ 3.<br><br><b>Loop (R):</b><br>This is a single sector of angle $60^{\\circ} = \\dfrac{\\pi}{3}$.<br>For $0 \\le t \\le T/6$, the sector enters $x > 0$. The area increases linearly, so $i(t)$ is a positive constant.<br>For $T/6 \\le t \\le T/2$, the sector is fully inside $x > 0$. The area is constant, so $i(t) = 0$.<br>For $T/2 \\le t \\le 2T/3$, the sector exits $x > 0$. The area decreases linearly, so $i(t)$ is a negative constant.<br>For $2T/3 \\le t \\le T$, the sector is fully outside $x > 0$. The area is zero, so $i(t) = 0$.<br>This matches graph (1). So, R $\\rightarrow$ 1.<br><br><b>Loop (S):</b><br>This loop consists of two identical sectors arranged symmetrically but connected such that they form a figure-8 loop (crossing at the origin). The two lobes of a figure-8 loop have opposite area vectors. As the loop rotates, the rate of change of flux in the top lobe is exactly canceled by the rate of change of flux in the bottom lobe due to their symmetric entry and exit combined with the opposite sense of traversal. Therefore, the net induced EMF and current are zero at all times.<br>This matches graph (4). So, S $\\rightarrow$ 4.<br><br><b>Loop (Q):</b><br>By elimination and matching the remaining options, Q corresponds to graph (2). The loop has multiple sectors that enter and exit the magnetic field at different intervals, creating alternating positive and negative pulses of current.<br>So, Q $\\rightarrow$ 2.<br><br>The correct matching is P $\\rightarrow$ 3, Q $\\rightarrow$ 2, R $\\rightarrow$ 1, S $\\rightarrow$ 4.",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "685102be6bba689a3eb09c83",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A conducting square loop of side $L$, mass $M$ and resistance $R$ is moving in the $X Y$ plane with its edges parallel to the $X$ and $Y$ axes. The region $y \\geq 0$ has a uniform magnetic field, $\\vec{B}=B_0 k$. The magnetic field is zero everywhere else. At time $t=0$, the loop starts to enter the magnetic field with an initial velocity $v_0 \\hat{\\jmath} \\mathrm{~m} / \\mathrm{s}$, as shown in the figure. Considering the quantity $K=\\frac{B_0^2 L^2}{R M}$ in appropriate units, ignoring self-inductance of the loop and gravity, which of the following statements is/are correct:\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4QW8W90xWctqhEjhbmd90siQYrCnxRfLDltVwkbuqI4.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Tsy5y",
+        "text": "If $v_0=1.5 K L$, the loop will stop before it enters completely inside the region of magnetic field.",
+        "image": null
+      },
+      {
+        "id": "NJCnA",
+        "text": "When the complete loop is inside the region of magnetic field, the net force acting on the loop is zero.",
+        "image": null
+      },
+      {
+        "id": "7C45p",
+        "text": "If $v_0=\\frac{K L}{10}$, the loop comes to rest at $t=\\left(\\frac{1}{K}\\right) \\ln \\left(\\frac{5}{2}\\right)$.",
+        "image": null
+      },
+      {
+        "id": "vQqZT",
+        "text": "If $v_0=3 K L$, the complete loop enters inside the region of magnetic field at time $t=\\left(\\frac{1}{K}\\right) \\ln \\left(\\frac{3}{2}\\right)$.",
+        "image": null
+      }
+    ],
+    "correct_answer": "vQqZT",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/56kqwRfAyMWAbxmWC_yJXRuyr4Tys1yPGhTPG9gl7rc.original.fullsize.png\"><br>$\\Rightarrow \\frac{-\\mathrm{d} \\phi}{\\mathrm{dt}}=\\frac{\\mathrm{d}}{\\mathrm{dt}}\\left(\\mathrm{B}_0 \\times \\ell \\times \\mathrm{y}\\right)=\\mathrm{BV} \\ell$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PdruxWz4Sf3IP7lHrhcLGBplNoajOXjBOU96ZnKO4yE.original.fullsize.png\"><br>$\\begin{aligned} & \\overrightarrow{\\mathrm{F}}=\\mathrm{B}(\\hat{\\mathrm{i}})(\\ell)(-\\hat{\\mathrm{j}}) \\\\ & \\mathrm{ma}=-\\mathrm{B}_0\\left[\\frac{\\mathrm{~B}_0 \\mathrm{~V} \\ell}{\\mathrm{R}}\\right](\\ell) \\\\ & \\mathrm{a}=-\\frac{\\mathrm{B}_0^2 \\ell^2 \\mathrm{~V}}{\\mathrm{mR}}\\end{aligned}$\n$\\begin{aligned} & \\text { Also } K=\\frac{B_0^2 \\ell^2 V}{R M} \\\\ & \\text { So }[a=-k v] \\\\ & \\frac{d v}{d t}=-k v \\\\ & \\int_{v_0}^v \\frac{d v}{d t}=\\int_0^t-k d t \\\\ & \\ell n \\frac{v}{v_0}=-k t\\end{aligned}$\n$\\left[\\mathrm{v}=\\mathrm{v}_0 \\mathrm{e}^{-\\mathrm{kt}}\\right]$ $\\left[\\mathrm{v}=\\mathrm{v}_0 \\mathrm{e}^{-\\mathrm{kt}}\\right]$ $\\ldots .(\\mathrm{i})$\n$\\frac{\\mathrm{dx}}{\\mathrm{dt}}=\\mathrm{v}_0 \\mathrm{e}^{-\\mathrm{kt}} \\quad(\\mathrm{x} \\leq \\ell)$\n$\\begin{aligned} & \\int_0^{\\mathrm{x}} \\mathrm{dx}=\\int_0^{\\mathrm{t}} \\mathrm{v}_0 \\mathrm{e}^{-\\mathrm{kt}} \\mathrm{dt} \\\\ & =\\frac{\\mathrm{v}_0}{\\mathrm{k}}\\left(1-\\mathrm{e}^{-\\mathrm{kt}}\\right)\\end{aligned}$\nWhen $x=\\ell$\n$\\ell=\\frac{\\mathrm{V}_0}{\\mathrm{k}}\\left(1-\\mathrm{e}^{-\\mathrm{kt}}\\right)$\nOption (D) $\\left(\\mathrm{v}_0=3 \\mathrm{k} \\ell\\right)$\n$\\begin{aligned} & \\ell=\\frac{3 \\mathrm{k} \\ell}{\\mathrm{k}}\\left(1-\\mathrm{e}^{-\\mathrm{kt}}\\right) \\\\ & \\frac{1}{3}=1-\\mathrm{e}^{-\\mathrm{kt}} \\\\ & \\mathrm{f} \\frac{2}{3}=2 \\mathrm{e}^{-\\mathrm{kt}} \\\\ & -\\mathrm{kt}=8 \\mathrm{n}\\left(\\frac{2}{3}\\right) \\\\ & \\mathrm{t}=\\frac{1}{\\mathrm{k}} \\ell \\mathrm{n}\\left(\\frac{2}{3}\\right)\\end{aligned}$\nComplete loop will enter at $\\mathrm{t}=\\frac{1}{\\mathrm{k}} \\ln \\left(\\frac{2}{3}\\right)$\nOption (B)\n$\\frac{\\mathrm{d} \\phi}{\\mathrm{dt}}=0, \\underline{\\underline{\\mathrm{e}}}=0, \\mathrm{i}=0, \\mathrm{~F}=0$\nAns. B,D)",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "685102be6bba689a3eb09c81",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A conducting square loop initially lies in the $X Z$ plane with its lower edge hinged along the $X$-axis. Only in the region $y \\geq 0$, there is a time dependent magnetic field pointing along the $Z$-direction, $\\vec{B}(t)=B_0(\\cos \\omega t) \\hat{K}$, where $B_0$ is a constant. The magnetic field is zero everywhere else. At time $t=0$, the loop starts rotating with constant angular speed $\\omega$ about the $X$ axis in the clockwise direction as viewed from the $+X$ axis (as shown in the figure). Ignoring self-inductance of the loop and gravity, which of the following plots correctly represents the induced e.m.f. ( $V$ ) in the loop as a function of time:<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PKLLKwwhYwPIC-mgWwLOBC-iL34u_GwCH8Q7YPs0Gsg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ib9gm",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9i6Hlq9VvncEVszFf0y8aFtdRS_F3PEGgdqY2m1ILgY.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "LIPvg",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/YlVErI0m7yjZHIoUVjVxmvbWlyFkaui8WDUQ_91LxMs.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "FXmtl",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Ize6f5r_0u62QgCusOz9hiz0enfNbHBEm_3JwNGw4AQ.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "1hPqp",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ythmBhyyQliBEfWiMK8AFfYkMrXCu-Y_fajgBqf3JNc.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ib9gm",
+    "solution_text": "$\\begin{aligned} & \\phi=\\mathrm{B}_0 \\cos \\omega \\mathrm{tA} \\sin \\omega \\mathrm{t}=\\frac{\\mathrm{B}_0 \\mathrm{~A} \\sin 2 \\omega \\mathrm{t}}{2} \\\\ & \\varepsilon=-\\frac{\\mathrm{d} \\phi}{\\mathrm{dt}}=-\\mathrm{B}_0 \\mathrm{~A} \\cos 2 \\omega \\mathrm{t}=\\left(0 \\leq \\mathrm{t} \\leq \\frac{\\pi}{\\omega}\\right) \\\\ & \\varepsilon=0 \\quad\\left(\\frac{\\pi}{\\omega} \\leq \\mathrm{t} \\leq \\frac{2 \\pi}{\\omega}\\right)\\end{aligned}$\nAns. Option (A)",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16aa7f23ac7d519f9b65d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>A rectangular conducting loop of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mi>cm</mi></math> and width <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi>cm</mi></math> is in the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>-plane, as shown in the figure. It is being moved away from a thin and long conducting wire along the direction&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mover><mi>x</mi><mo>&#8743;</mo></mover><mo>+</mo><mfrac><mstyle displaystyle=\"true\"><mn>1</mn></mstyle><mstyle displaystyle=\"true\"><mn>2</mn></mstyle></mfrac><mover><mi>y</mi><mo>&#8743;</mo></mover></math>&nbsp;with a constant speed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math>.&nbsp;The wire is carrying a steady current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math> in the positive <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-direction. A current of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi>&#956;</mi><mi mathvariant=\"normal\">A</mi></math>&nbsp;flows through the loop when it is at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi>cm</mi></math> from the wire. If the resistance of the loop is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>&#937;</mi></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math> is _____&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p><p>[Given: The permeability of free space&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#956;</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">A</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>]</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d33f2e1f-b5b9-423d-9e28-fdd1922fbe26.png\" style=\"width: 300px; height: 232px;\" /></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<blockquote><p>The two sides of the rectangular loop which are perpendicular to the wire would not contribute in induced&nbsp;emf.</p><p>Angle of velocity vector with x-axis is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mi>&#945;</mi><mo>=</mo><mfrac><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mstyle displaystyle=\"true\"><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mstyle></mfrac><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac></math>. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>30</mn><mo>&#176;</mo></math>.</p><p>For parallel sides:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>E</mi><mo>&#8594;</mo></mover><mo>=</mo><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>&#215;</mo><mover><mi>v</mi><mo>&#8594;</mo></mover></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>&#960;</mi><mi>x</mi></mrow></mfrac><mo>&#215;</mo><mi>v</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8e320405-2540-4759-a9e7-841708818d70.png\" style=\"width: 250px; height: 216px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Net emf&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><msub><mi>E</mi><mn>1</mn></msub><mi>cos</mi><msup><mn>60</mn><mi mathvariant=\"normal\">o</mi></msup><mo>-</mo><msub><mi>E</mi><mn>2</mn></msub><mi>cos</mi><msup><mn>60</mn><mi mathvariant=\"normal\">o</mi></msup></mrow></mfenced><mo>&#215;</mo></math>width</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>2</mn><mn>100</mn></mfrac><mo>&#215;</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi><mi>v</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mstyle displaystyle=\"true\"><mfrac><mn>4</mn><mn>100</mn></mfrac></mstyle></mfrac><mo>-</mo><mfrac><mn>1</mn><mstyle displaystyle=\"true\"><mfrac><mn>8</mn><mn>100</mn></mfrac></mstyle></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>100</mn></mfrac><mo>&#215;</mo><mfenced><mrow><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></mrow></mfenced><mo>&#215;</mo><mn>10</mn><mo>&#215;</mo><mi>v</mi><mo>&#215;</mo><mfrac><mn>100</mn><mn>8</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>.</mo><mn>5</mn><mi>v</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></math></p><p>Now, net EMF&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>i</mi><mo>&#215;</mo><mi>R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>v</mi><mo>=</mo><mfrac><mrow><mfenced><mrow><mn>10</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow></mfenced><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>1</mn></mrow><mrow><mn>2</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16aa2f23ac7d519f9b630",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>A thin conducting rod <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>N</mi></math> of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#160;</mo><mi>gm</mi></math>, length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>&#160;</mo><mi>cm</mi></math> and resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>&#937;</mi></math>&nbsp;is held on frictionless, long, perfectly conducting vertical rails as shown in the figure. There is a uniform magnetic field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">T</mi></math> directed perpendicular to the plane of the rod-rail arrangement. The rod is released from rest at time <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math> and it moves down along the rails. Assume air drag is negligible. Match each quantity in List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> with an appropriate value from List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>, and choose the correct option.</p><p>[Given: The acceleration due to gravity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>=</mo><mn>10</mn><mo>&#160;</mo><msup><mi>ms</mi><mrow><mo>&#8722;</mo><mn>2</mn></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>e</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>0</mn><mo>.</mo><mn>4</mn></math>]</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/133ebaa3-5dce-4761-9283-7081c4bd6846.png\" style=\"width: 300px; height: 342px;\" /></p><p>&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math></td>\t\t\t<td>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>, the magnitude of the induced emf in Volt</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>07</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math></td>\t\t\t<td>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>, the magnitude of the magnetic force in Newton</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>14</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math></td>\t\t\t<td>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>, the power dissipated as heat in Watt</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>20</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math></td>\t\t\t<td>\t\t\t<p>The magnitude of terminal velocity of the rod in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math></p>\t\t\t</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>12</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>00</mn></math></td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tdfeq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>5</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "IgVrQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "GZaVq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "4BZIy",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4BZIy",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/13265107-35ff-417d-a9a1-186aa781a55a.png\" style=\"width: 300px; height: 342px;\" /></p><p>Induced emf <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#949;</mi><mo>=</mo><mi>B</mi><mi mathvariant=\"script\">l</mi><mi>v</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Induced current&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mi>&#949;</mi><mi>R</mi></mfrac><mo>=</mo><mfrac><mrow><mi>B</mi><mi mathvariant=\"script\">l</mi><mi>v</mi></mrow><mi>R</mi></mfrac></math></p><p>Direction of induced current would be from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>&#160;</mo><mtext>to</mtext><mo>&#160;</mo><mi>M</mi></math>.</p><p>Now magnetic force acting on the rod due to this current would be in the&nbsp;upward direction. Therefore, we can write</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>m</mi><mi>g</mi><mo>-</mo><mi>i</mi><mi mathvariant=\"script\">l</mi><mi>B</mi><mo>=</mo><mi>m</mi><mi>a</mi></math>&nbsp;[Applying <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup></math>&nbsp;law]</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>m</mi><mi>g</mi><mo>-</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup><mi>v</mi></mrow><mi>R</mi></mfrac><mo>=</mo><mi>m</mi><mfrac><mrow><mi>d</mi><mi>v</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mi>v</mi></msubsup><mo>&#160;</mo><mfrac><mrow><mi>d</mi><mi>v</mi></mrow><mrow><mi>m</mi><mi>g</mi><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup><mi>v</mi></mrow><mi>R</mi></mfrac></mstyle></mrow></mfrac><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mi>t</mi></msubsup><mfrac><mrow><mi>d</mi><mi>t</mi></mrow><mi>m</mi></mfrac><mo>&#160;</mo><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mo>&#160;</mo><mfrac><mrow><mi>ln</mi><msup><msub><mfenced close=\"]\" open=\"[\"><mrow><mi>m</mi><mi>g</mi><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup><mi>v</mi></mrow><mi>R</mi></mfrac></mstyle></mrow></mfenced><mn>0</mn></msub><mi>v</mi></msup></mrow><mstyle displaystyle=\"true\"><mfrac><mrow><mo>-</mo><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></mstyle></mfrac><mo>=</mo><mfrac><mi>t</mi><mi>m</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mfrac><mrow><mi>m</mi><mi>g</mi><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup><mi>v</mi></mrow><mi>R</mi></mfrac></mstyle></mrow><mrow><mi>m</mi><mi>g</mi></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mrow><mfrac><mrow><mo>-</mo><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mi>t</mi></mrow></msup></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mi>g</mi><mo>=</mo><mfenced><mrow><mn>20</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>&#215;</mo><mn>10</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac><mo>=</mo><mfrac><mrow><msup><mn>4</mn><mn>2</mn></msup><mo>&#215;</mo><msup><mfenced><mrow><mn>0</mn><mo>.</mo><mn>25</mn></mrow></mfenced><mn>2</mn></msup></mrow><mn>10</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi mathvariant=\"script\">l</mi><mn>2</mn></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mn>4</mn><mn>2</mn></msup><mo>&#215;</mo><msup><mfenced><mrow><mn>0</mn><mo>.</mo><mn>25</mn></mrow></mfenced><mn>2</mn></msup></mrow><mrow><mfenced><mrow><mn>20</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>&#215;</mo><mn>10</mn></mrow></mfrac><mo>=</mo><mn>5</mn></math></p><p>Therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn><mo>-</mo><mstyle displaystyle=\"true\"><mn>0</mn><mo>.</mo><mn>1</mn><mi>v</mi></mstyle></mrow><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>5</mn><mi>t</mi></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>v</mi><mo>=</mo><mn>2</mn><mo>[</mo><mn>1</mn><mo>-</mo><msup><mi>e</mi><mrow><mo>&#8211;</mo><mn>5</mn><mi>t</mi></mrow></msup><mo>]</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mo>&#160;</mo><mi>v</mi><mo>=</mo><mn>2</mn><mfenced close=\"]\" open=\"[\"><mrow><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><mi>e</mi></mfrac></mrow></mfenced><mo>=</mo><mn>2</mn><mo>&#215;</mo><mfenced><mrow><mn>0</mn><mo>.</mo><mn>6</mn></mrow></mfenced><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>&#949;</mi><mo>=</mo><mi>B</mi><mi mathvariant=\"script\">l</mi><mi>v</mi><mo>=</mo><mn>4</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>&nbsp;volts</p><p>Then, current at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>&nbsp;will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mrow><mn>4</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>2</mn></mrow><mn>10</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>12</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>and magnetic force <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>i</mi><mi mathvariant=\"script\">l</mi><mi>B</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>12</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><mn>4</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>12</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi></math></p><p>and power dissipated <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>F</mi><mi>v</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>12</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>144</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p>also for maximum velocity(terminal velocity)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>&#8594;</mo><mo>&#8734;</mo><mo>,</mo><mo>&#160;</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>5</mn><mi>t</mi></mrow></msup><mo>&#8594;</mo><mn>0</mn></math>&nbsp;and hence&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>2</mn><mfenced close=\"]\" open=\"[\"><mrow><mn>1</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mo>=</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Correct match is (D)</p></blockquote>",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a89f23ac7d519f9b550",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "<p>A long straight wire carries a current,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mn>2</mn></math>&nbsp;ampere. A semi-circular conducting rod is placed beside it on two conducting parallel rails of negligible resistance. Both the rails are parallel to the wire. The wire, the rod and the rails lie in the same horizontal plane, as shown in the figure. Two ends of the semi-circular rod are at distances&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;from the wire.&nbsp; At time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the rod starts moving on the rails with a speed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>3</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>&nbsp;(see the figure).</p><p>A resistor&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mn>1.4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math>&nbsp;and a capacitor&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>0</mn></msub><mo>=</mo><mn>5.0</mn><mo>&#160;</mo><mi>&#956;F</mi></math>&nbsp;are connected in series between the rails. At time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>0</mn></msub></math>&nbsp;is uncharged. Which of the following statement(s) is (are) correct? [<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#956;</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>7</mn></mrow></msup></math>&nbsp;SI units. Take&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mn>2</mn><mo>=</mo><mn>0.7</mn></math>]</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b7441289-f46c-471e-9ace-bb7533e4ce9e-image.png\" style=\"width: 200px; height: 275px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2Vh9k",
+        "text": "Maximum current through&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1.2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>6</mn></mrow></msup></math>&nbsp;ampere",
+        "image": null
+      },
+      {
+        "id": "N3Udi",
+        "text": "Maximum current through&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>6</mn></mrow></msup></math>&nbsp;ampere.",
+        "image": null
+      },
+      {
+        "id": "i8FRq",
+        "text": "Maximum charge on capacitor&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>0</mn></msub></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8.4</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>12</mn></mrow></msup></math>&nbsp;coulomb.",
+        "image": null
+      },
+      {
+        "id": "nPNjR",
+        "text": "Maximum charge on capacitor&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>0</mn></msub></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.4</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>12</mn></mrow></msup></math>&nbsp;coulomb.",
+        "image": null
+      }
+    ],
+    "correct_answer": "i8FRq",
+    "solution_text": "<p>Magnetic field due the long wire,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>&#960;</mi><mi>x</mi></mrow></mfrac></math></p><p>Motional emf in small element,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">d</mi><mi>&#949;</mi><mo>=</mo><mi>B</mi><mi>v</mi><mo>d</mo><mi>x</mi><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mi>&#956;</mi><mn>0</mn></msub><mfenced><mn>2</mn></mfenced></mrow><mrow><mn>2</mn><mi>&#960;</mi><mi>x</mi></mrow></mfrac><mi mathvariant=\"normal\">d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#949;</mi><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mi>&#956;</mi><mn>0</mn></msub></mrow><mi>&#960;</mi></mfrac><msubsup><mo>&#8747;</mo><mn>1</mn><mn>4</mn></msubsup><mfrac><mn>1</mn><mi>x</mi></mfrac><mi mathvariant=\"normal\">d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>&#949;</mi><mo>=</mo><mfrac><mrow><mn>3</mn><msub><mi>&#956;</mi><mn>0</mn></msub></mrow><mi>&#960;</mi></mfrac><mi>ln</mi><mn>4</mn></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>16.8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>7</mn></mrow></msup></math></p><p>Maximum charge on capacitor,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi><mi>max</mi></msub><mo>=</mo><mi>&#949;</mi><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>16.8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>7</mn></mrow></msup></mrow></mfenced><mfenced><mrow><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>6</mn></mrow></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>84</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>13</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi><mo>=</mo><mn>8.4</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>12</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi></math></p><p>Maximum current in circuit,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>max</mi></msub><mo>=</mo><mfrac><mi>&#949;</mi><mi>R</mi></mfrac><mo>=</mo><mfrac><mrow><mn>16.8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>7</mn></mrow></msup></mrow><mn>1.4</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p>",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a77f23ac7d519f9b4aa",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "<p>A <math><mn>10</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></math> long perfectly conducting wire <math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">Q</mi></math> is moving, with a velocity <math><mn>1</mn><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">s</mi></mrow></mrow></math> on a pair of horizontal rails of zero resistance. One side of the rails is connected to an inductor <math><mi mathvariant=\"normal\">L</mi><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">H</mi></math> and a resistance <math><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\">Ω</mi></math> as shown in figure. The horizontal rails, <math><mi mathvariant=\"normal\">L</mi></math> and <math><mi mathvariant=\"normal\">R</mi></math> lie in the same plane with a uniform magnetic field <math><mi mathvariant=\"normal\">B</mi><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">T</mi></math> perpendicular to the plane. If the key <math><mi mathvariant=\"normal\">S</mi></math> is closed at certain instant, the current in the circuit after <math><mn>1</mn></math> milli second is <math><mi mathvariant=\"normal\">x</mi><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mtext> </mtext><mi mathvariant=\"normal\">A</mi><mo>,</mo></math> where the value of <math><mi mathvariant=\"normal\">x</mi></math> is_______.<br/>[Assume the velocity of wire <math><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">Q</mi></math> remains constant <math><mfenced separators=\"|\"><mrow><mn>1</mn><mrow><mrow><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">s</mi></mrow></mrow></mrow></mfenced></math> after key <math><mi mathvariant=\"normal\">S</mi></math> is closed. Given: <math><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>0.37</mn><mo>,</mo></math> where <math><mi mathvariant=\"normal\">e</mi></math> is base of the natural logarithm]<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0edc553a-0712-47fa-948f-5f69477b0954-image26.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.63",
+    "solution_text": "<math><mo>&#8658;</mo><mi>&#949;</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>&#215;</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></mrow></mfenced><mover accent=\"true\"><mrow><mi>d</mi></mrow><mo>&#8594;</mo></mover><mi>l</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>1</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>&#160;</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mtable><mtr><mtd><mrow><maligngroup></maligngroup><mi>M</mi><mi>o</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi>a</mi><mi>l</mi><mi>&#160;</mi><mi>e</mi><mi>m</mi><mi>f</mi><mi>&#160;</mi><mi>i</mi><mi>n</mi><mi>d</mi><mi>u</mi><mi>c</mi><mi>e</mi><mi>d</mi><mi>&#160;</mi><mi>i</mi><mi>n</mi><mi>&#160;</mi><mi>t</mi><mi>h</mi><mi>e</mi><mi>&#160;</mi><mi>r</mi><mi>o</mi><mi>d</mi></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mrow><mo stretchy=\"false\">&#8721;</mo><mrow><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>V</mi></mrow><mo>&#8594;</mo></mover><mo>&#215;</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></mrow></mfenced><mover accent=\"true\"><mrow><mi>d</mi></mrow><mo>&#8594;</mo></mover><mi>l</mi></mrow></mrow></mrow></mtd></mtr><mtr><mtd><mrow><maligngroup></maligngroup><mo>=</mo><mi>B</mi><mo>.</mo><mi>V</mi><mo>.</mo><mi>l</mi></mrow></mtd></mtr></mtable></mrow></mfenced></math><br /><math><mi>&#949;</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>&#160;</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">t</mi></math><br /><math><mo>&#8658;</mo><mi>i</mi><mo>=</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow><mrow><mn>1</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced><mo>&#8594;</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi mathvariant=\"normal\">E</mi><mi mathvariant=\"normal\">q</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">w</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">L</mi><mo>-</mo><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">&#160;</mi><mi>i</mi><mo>=</mo><mfrac><mrow><mi>&#949;</mi></mrow><mrow><mi>k</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>t</mi><mo>.</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></msup></mrow></mfenced></mrow></mfenced></math><br /><math><mi>i</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>0.37</mn></mrow></mfenced></math><br /><math><mi>i</mi><mo>=</mo><mn>0.63</mn><mi>&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">A</mi></math>",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a70f23ac7d519f9b46e",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>A conducting wire of parabolic shape, initially <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>,</mo></math> is moving with velocity <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">V</mi></mrow><mo>→</mo></mover><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">i</mi></mrow><mo>^</mo></mover></math> in a non-uniform magnetic field <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi mathvariant=\"normal\">β</mi></mrow></msup></mrow></mfenced><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">k</mi></mrow><mo>^</mo></mover><mo>,</mo></math> as shown in figure. If <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mtext> </mtext><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mtext> </mtext><mi mathvariant=\"normal\">L</mi></math> and <math><mi mathvariant=\"normal\">β</mi></math> are positive constants and <math><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">ϕ</mi></math> is the potential difference developed between the ends of the wire, then the correct statement(s) is/are:<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bqdjjcsqdhyuvmpkofkmepelxuzfbpxamtelhauarfhhcdenjf.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rmJkX",
+        "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced></math>  is proportional to the length of the wire projected on the y-axis.",
+        "image": null
+      },
+      {
+        "id": "3nV29",
+        "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">L</mi></math>  for  <math><mi mathvariant=\"normal\">β</mi><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "7hYA9",
+        "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced></math>  remains the same if the parabolic wire is replaced by a straight wire,  <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">x</mi></math>  initially, of length  <math><msqrt><mn>2</mn></msqrt><mi mathvariant=\"normal\">L</mi></math>",
+        "image": null
+      },
+      {
+        "id": "e7QGd",
+        "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">L</mi></math>  for  <math><mi mathvariant=\"normal\">β</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "7hYA9",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/noxtjsiksydejfbnxnrbjitbyvbipjfqdsxyaeuxlkwiswmynb.png\"/> <br >For calculating the motional emf across the length of the wire, let us project wire such that  <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover><mo>,</mo><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>→</mo></mover><mo>-</mo><mo>,</mo><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>→</mo></mover></math>  becomes mutually orthogonal. Thus, small emf 'dc' induced in elemental length  <math><mi>‘</mi><mi>d</mi><mi>y</mi><mi>’</mi></math>  of projected wire, will be -<br > <math><mo>⇒</mo><mi>d</mi><mi>ε</mi><mo>=</mo><mi>B</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>β</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi></math> <br > <math><mi>ε</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>β</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⋅</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⋅</mo><mi>d</mi><mi>y</mi></mrow></mrow><mo>+</mo><mrow><munderover><mo stretchy=\"true\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⋅</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msup><mrow><mi>L</mi></mrow><mrow><mi>β</mi></mrow></msup></mrow></mfrac><msup><mrow><mi>y</mi></mrow><mrow><mi>β</mi></mrow></msup><mo>⋅</mo><mi>d</mi><mi>y</mi></mrow></mrow></math> <br > <math><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>β</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></math> <br > <math><mo>∴</mo></math>  emf in loop is proportional to  <math><mi>L</mi></math>  for given value of  <math><mi>β</mi></math> .<br > <math><mo>⇒</mo></math>  Option  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math>  is correct.<br >for<br > <math><mi>β</mi><mo>=</mo><mn>0</mn><mo>;</mo><mi>ε</mi><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi></math> <br > <math><mi>β</mi><mo>=</mo><mn>2</mn><mo>;</mo><mi>ε</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mo>⇒</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math>  is correct.<br >Now, the length of the projection of the wire  <math><mi>y</mi><mo>=</mo><mi>x</mi></math>  and length  <math><msqrt><mn>2</mn></msqrt><mi>L</mi></math>  on the y-axis is  <math><mi>L</mi></math>  thus the answer remain unchanged  <math><mo>⇒</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math>  is correct.",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b398",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p> A circular insulated copper wire loop is twisted to form two loops of area <math><mi>A</mi><mi> </mi></math> and <math><mn>2</mn><mi>A</mi></math> as shown in the figure. At the point of crossing the wires remain electrically insulated from each other. The entire loop lies in the plane (of the paper). A uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover><mi> </mi></math> points into the plane of the paper. At <math><mi>t</mi><mi> </mi><mo>=</mo><mi> </mi><mn>0</mn></math> , the loop starts rotating about the common diameter as axis with a constant angular velocity in the magnetic field. Which of the following options is/are correct?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qsouotgenakplnggoihvdgajfuevdbvlchgnwmywixubnersww.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3SsGI",
+        "text": "The net emf induced due to both the loops is proportional to  <math><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>ω</mi><mi>t</mi></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "ACFQi",
+        "text": "The amplitude of the maximum net emf induced due to both the loops is equal to the amplitude of the maximum emf induced in the smaller loop alone",
+        "image": null
+      },
+      {
+        "id": "nz3pI",
+        "text": "The rate of change of flux is maximum when plane of loop is perpendicular to the plane of paper",
+        "image": null
+      },
+      {
+        "id": "Sylsn",
+        "text": "The emf induced in the loop is proportional to sum of areas of two loops",
+        "image": null
+      }
+    ],
+    "correct_answer": "nz3pI",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7_solu_phys_pa1.jpg\"/></p><p>When a conducting loop rotating in a magnetic field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>has an angular velocity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi></math>, the flux through the loop of area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> at an angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>θ</mi><mo> </mo><mo>=</mo><mo> </mo><mi>ω</mi><mi>t</mi></math>, </p><p><math><mi>ϕ</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>B</mi></mrow></mfenced><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>A</mi></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></math></p><p><math><mo>=</mo><mi>B</mi><mi>A </mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mi>ω</mi><mi>t</mi></mrow></mfenced></mrow></mrow></math></p><p>The induced emf,</p><p><math><mi>ε</mi><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><mi>d</mi><mi>ϕ</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>B</mi><mi>A</mi><mi>ω</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mi>ω</mi><mi>t</mi></mrow></mfenced></mrow></mrow></math></p><p>So,  <math><mi>ε</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mfrac><mrow><mi>d</mi><mi>ϕ</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mi> </mi><mo>∝</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mi>ω</mi><mi>t</mi></mrow></mfenced></mrow></mrow></math></p><p>So, the emf is maximum when, <math><mi>ω</mi><mi>t</mi><mo>=</mo><mi>θ</mi><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo></math></p><p>Since the emf in the smaller loop will act opposite to that of the larger loop,</p><p><math><msub><mrow><mi>ε</mi></mrow><mrow><mi>N</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mi> </mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>2</mn><mi>A</mi></mrow></msub><mo>-</mo><mi> </mi><msub><mrow><mi>ε</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mi>B</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi>A</mi></mrow></mfenced><mi>ω</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>ω</mi><mi>t</mi></mrow></mrow><mo>-</mo><mi>B</mi><mfenced separators=\"|\"><mrow><mi>A</mi></mrow></mfenced><mi>ω</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mi>ω</mi><mi>t</mi></mrow></mfenced></mrow></mrow></math></p><p><math><mo>=</mo><mi>B</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi>A</mi><mo>-</mo><mi>A</mi></mrow></mfenced><mi>ω</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>ω</mi><mi>t</mi></mrow></mrow><mo>=</mo><mi>B</mi><mi>A</mi><mi> </mi><mi>ω</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>ω</mi><mi>t</mi></mrow></mrow></math></p><p>So, the amplitude of the maximum net emf is equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>A</mi></math> which is same as that in the smaller loop.</p>",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a53f23ac7d519f9b364",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<p>A rigid wire loop of square shape having side of length L and resistance R is moving along the x-axis with a constant velocity <math><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub></math> in the plane of the paper. At t = 0, the right edge of the loop enters a region of length 3L where there is a uniform magnetic field <math><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></math> into the plane of the paper, as shown in the figure. For sufficiently large <math><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo></math> the loop eventually crosses the region. Let x be the location of the right edge of the loop. Let v(x), I(x) and F(x) represent the velocity of the loop, current in the loop, and force on the loop, respectively, as a function of x. Counter-clockwise current is taken as positive.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9..jpg\"/><br >Which of the following schematic plot(s) is(are) correct ? (Ignore gravity)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wM77U",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_a_.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "a8csh",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_b_.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "LtPqh",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_c_.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "8ErBj",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_D_.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "8ErBj",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_Ans_.jpg\"/><br >When loop was entering (x < L)<br ><math><mi>ϕ</mi><mo>=</mo><mi>B</mi><mi>L</mi><mi>x</mi></math><br ><math><mi>e</mi><mo>=</mo><mfrac><mrow><mi>d</mi><mi>ϕ</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mi>B</mi><mi>L</mi><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math><br ><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>e</mi></mrow></mfenced><mo>=</mo><mi>B</mi><mi>L</mi><mi>V</mi></math><br ><math><mi>i</mi><mo>=</mo><mfrac><mrow><mi>e</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>B</mi><mi>L</mi><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mi>A</mi><mi>C</mi><mi>W</mi></mrow></mfenced></math><br ><math><mi>F</mi><mo>=</mo><mfrac><mrow><mi>i</mi></mrow><mrow><mi>B</mi></mrow></mfrac></math> (Left direction) = <math><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac></math> (in left direction)<br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>a</mi><mo>=</mo><mfrac><mrow><mi>F</mi></mrow><mrow><mi>m</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>V</mi></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mi>a</mi><mo>=</mo><mi>V</mi><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac></math><br ><math><mi>V</mi><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>V</mi></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mi> </mi><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>V</mi></mrow></munderover><mrow><mi>d</mi><mi>V</mi></mrow></mrow><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mi>d</mi><mi>x</mi></mrow></mrow></math><br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>V</mi><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mi>x</mi></math> (straight line of negative slope for x < L)<br ><math><mi>I</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>L</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mi> </mi><mi>V</mi><mi> </mi><mo>⇒</mo><mi> </mi></math> (I vs x will also be straight line of negative slope for x < L)<br ><math><mi>L</mi><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>3</mn><mi>L</mi></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_1_.jpg\"/><br ><math><mfrac><mrow><mi>d</mi><mi>ϕ</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mn>0</mn></math><br ><math><mi>e</mi><mo>=</mo><mn>0</mn><mi> </mi><mi> </mi><mi>i</mi><mo>=</mo><mn>0</mn></math><br >F = 0<br ><math><mi>x</mi><mo>></mo><mn>4</mn><mi>L</mi></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_9_2_.jpg\"/><br ><math><mi>e</mi><mo>=</mo><mi>B</mi><mi mathvariant=\"script\">l</mi><mi>v</mi></math><br >Force also will be in left direction.<br ><math><mi>i</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>L</mi><mi>W</mi></mrow><mrow><mi>R</mi></mrow></mfrac></math> (clockwise) <math><mi>a</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>V</mi></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mo>=</mo><mi>V</mi><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac></math><br ><math><mi>F</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>V</mi></mrow><mrow><mi>R</mi><mi> </mi></mrow></mfrac></math> <math><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mi>L</mi></mrow><mrow><mi>x</mi></mrow></munderover><mrow><mo>-</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mi>d</mi><mi>x</mi><mo>=</mo><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></munderover><mrow><mi>d</mi><mi>V</mi></mrow></mrow></mrow></mrow></math><br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mi>L</mi></mrow></mfenced><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>i</mi></mrow></msub></math><br ><math><msub><mrow><mi>V</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>-</mo><mfrac><mrow><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>m</mi><mi>R</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mi>L</mi></mrow></mfenced></math> (straight line of negative slope)<br ><math><mi>I</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>L</mi><mi>V</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>→</mo></math> (Clockwise) (straight line of negative slope)",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a4df23ac7d519f9b32c",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "<p>A conducting loop in the shape of right angled isosceles triangle of height 10 cm is kept such that the <math><msup><mrow><mn>90</mn></mrow><mrow><mi>o</mi></mrow></msup></math> vertex is very close to an infinitely long conducting wire (see the figure). The wire is electrically insulated from the loop. The hypotenuse of the triangle is parallel to the wire. The current in the triangular loop is in counterclockwise direction and increased at constant rate of <math><mn>10</mn><mi> </mi><mi>A</mi><mi> </mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math> Which of the following statement(s) is (are) true?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_7.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RDq5l",
+        "text": "The induced current in the wire is in opposite direction to the current along the hypotenuse.",
+        "image": null
+      },
+      {
+        "id": "lC8kf",
+        "text": "There is a repulsive force between the wire and the loop",
+        "image": null
+      },
+      {
+        "id": "B5BWj",
+        "text": "If the loop is rotated at a constant angular speed about the wire, an additional emf of  <math><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>π</mi></mrow></mfrac></mrow></mfenced></math>  volt is induced in the wire.",
+        "image": null
+      },
+      {
+        "id": "qOqte",
+        "text": "The magnitude of induced emf in the wire is <math><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>&mu;</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>&pi;</mi></mrow></mfrac></mrow></mfenced></math> volt",
+        "image": null
+      }
+    ],
+    "correct_answer": "qOqte",
+    "solution_text": "<p>From lenz's law it can be understood that due to induced current in wire flux will change in loop thats why it will be repelled by the loop</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr1_7_Ans_.jpg\"/><br >Also by direction of induced electric field, the current in the wire is in the same direction of current along the hypotenuse.<br >Flux through triangle if wire has current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>i</mi><mn>1</mn></msub></math> </p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ϕ</mi><mn>2</mn></msub><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></msubsup><mi>B</mi><mo>d</mo><mi>A</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi> </mi><munderover><mo>∫</mo><mn>0</mn><mn>0.1</mn></munderover><mfenced separators=\"|\"><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><msub><mi>i</mi><mn>1</mn></msub></mrow><mrow><mn>2</mn><mi>π</mi><mi>x</mi></mrow></mfrac></mfenced><mi> </mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi>x</mi><mi>d</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><msub><mi>i</mi><mn>1</mn></msub></mrow><mrow><mn>10</mn><mi>π</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo> </mo><msub><mi>ϕ</mi><mn>2</mn></msub><mo>=</mo><mi>M</mi><msub><mi>i</mi><mn>1</mn></msub></math><br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi></math> Mutual inductance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mo>=</mo><mfrac><msub><mi>μ</mi><mn>0</mn></msub><mrow><mn>10</mn><mi>π</mi></mrow></mfrac></math><br >Induced emf in wire</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ε</mi><mn>1</mn></msub><mo>=</mo><mi>M</mi><mfrac><mrow><mi>d</mi><msub><mi>i</mi><mn>2</mn></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msub><mi>μ</mi><mn>0</mn></msub><mrow><mn>10</mn><mi>π</mi></mrow></mfrac><mfrac><mrow><mi>d</mi><msub><mi>i</mi><mn>2</mn></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><msub><mi>μ</mi><mn>0</mn></msub><mrow><mn>10</mn><mi>π</mi></mrow></mfrac><mo>×</mo><mn>10</mn><mo>=</mo><mfrac><msub><mi>μ</mi><mn>0</mn></msub><mi>π</mi></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Motional and Rotational EMF"
+  },
+  {
+    "question_id": "64b16a83f23ac7d519f9b51c",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>The inductors of two <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>R</mi></math> circuits are placed next to each other, as shown in the figure. The values of the self-inductance of the inductors, resistances, mutual-inductance and applied voltages are specified in the given circuit. After both the switches are closed simultaneously, the total work done by the batteries against the induced <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mi>M</mi><mi>F</mi></math> in the inductors by the time the currents reach their steady-state values is_______<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mJ</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2f0783c2-7251-40b7-94cc-5ed3518be948-image_v2.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "55",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/97414cae-6750-467a-9fe6-961b6279a830-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ε</mi><mn>1</mn></msub><mo>=</mo><msub><mi>L</mi><mn>1</mn></msub><mfrac><mrow><mi>d</mi><msub><mi>i</mi><mn>1</mn></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>+</mo><mi>M</mi><mfrac><mrow><mi>d</mi><msub><mi>i</mi><mn>2</mn></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><msub><mi>W</mi><mn>1</mn></msub><mo>=</mo><msub><mi>ε</mi><mn>1</mn></msub><msub><mi>i</mi><mn>1</mn></msub><mi>d</mi><mi>t</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>L</mi><mn>1</mn></msub><mfenced><mrow><mi>d</mi><msub><mi>i</mi><mn>1</mn></msub></mrow></mfenced><msub><mi>i</mi><mn>1</mn></msub><mo>+</mo><mi>M</mi><mfenced><mrow><mi>d</mi><msub><mi>i</mi><mn>2</mn></msub></mrow></mfenced><msub><mi>i</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><msub><mi>W</mi><mn>2</mn></msub><mo>=</mo><msub><mi>L</mi><mn>2</mn></msub><mfenced><mrow><mi>d</mi><msub><mi>i</mi><mn>2</mn></msub></mrow></mfenced><msub><mi>i</mi><mn>2</mn></msub><mo>+</mo><mi>M</mi><mfenced><mrow><mi>d</mi><msub><mi>i</mi><mn>1</mn></msub></mrow></mfenced><msub><mi>i</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><msub><mi>W</mi><mn mathvariant=\"italic\">1</mn></msub><mo mathvariant=\"italic\">+</mo><mi>d</mi><msub><mi>W</mi><mn mathvariant=\"italic\">2</mn></msub><mo mathvariant=\"italic\">=</mo><msub><mi>L</mi><mn mathvariant=\"italic\">1</mn></msub><msub><mi>i</mi><mn mathvariant=\"italic\">1</mn></msub><mfenced><mrow><mi mathvariant=\"italic\">d</mi><msub><mi mathvariant=\"italic\">i</mi><mn mathvariant=\"italic\">1</mn></msub></mrow></mfenced><mo mathvariant=\"italic\">+</mo><msub><mi>L</mi><mn mathvariant=\"italic\">2</mn></msub><msub><mi>i</mi><mn mathvariant=\"italic\">2</mn></msub><mfenced><mrow><mi mathvariant=\"italic\">d</mi><msub><mi mathvariant=\"italic\">i</mi><mn mathvariant=\"italic\">2</mn></msub></mrow></mfenced><mo mathvariant=\"italic\">+</mo><mi>M</mi><mi>d</mi><mfenced><mrow><msub><mi mathvariant=\"italic\">i</mi><mn mathvariant=\"italic\">1</mn></msub><mo mathvariant=\"italic\">·</mo><msub><mi mathvariant=\"italic\">i</mi><mn mathvariant=\"italic\">2</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi>L</mi><mn>1</mn></msub><msubsup><mi>i</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi>L</mi><mn>2</mn></msub><msubsup><mi>i</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msub><mi>M</mi><mn>1</mn></msub><msub><mi>i</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>55</mn><mo> </mo><mi>mJ</mi></math>,</p><p>Note : If mutual induction is taken in opposite direction then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">W</mi><mo>=</mo><mn>35</mn><mo> </mo><mi>mJ</mi></math></p>",
+    "solution_image": null,
+    "topic": "Self and Mutual Inductance"
+  },
+  {
+    "question_id": "64b16a19f23ac7d519f9b155",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "A circular wire loop of radius $R$ is placed in the $x-y$ plane centered at the origin $O$. A square loop of side $a(a< < R)$ having two turns is placed with its centre at $z=\\sqrt{3} R$ along the axis of the circular wire loop, as shown in figure.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JqNcOFDBbBi_8pytzODy6YCrM91SCU7qIL1ioD2YVLw.original.fullsize.png\"><br>\r\n\r\nThe plane of the square loop makes an angle of $45^{\\circ}$ with respect to the $z$-axis. If the mutual inductance between the loops is given by $\\frac{\\mu_{0} a^{2}}{2^{p / 2} R}$, then the value of $p$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "The magnetic field due to current carrying wire at the location of square loop is\r\n\r\n$B=\\frac{\\mu_{0}}{4 \\pi} \\frac{2 \\pi i R^{2}}{\\left(R^{2}+3 R^{2}\\right)^{3 / 2}}=\\frac{\\mu_{0} i}{16 R}$\r\n\r\nThe mutual induction\r\n\r\n$\\begin{array}{l}\r\n\r\nM=\\frac{N \\phi}{i}=\\frac{2}{i}\\left[\\frac{\\mu_{0} i}{16 R} \\times a^{2} \\cos 45^{\\circ}\\right] \\\\\r\n\r\n\\therefore \\quad M=\\frac{\\mu_{0} a^{2}}{2^{\\frac{7}{2}} R}\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Self and Mutual Inductance"
+  }
+]

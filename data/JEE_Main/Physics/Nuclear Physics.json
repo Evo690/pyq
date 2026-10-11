@@ -1,0 +1,2976 @@
+[
+  {
+    "question_id": "69d8074081239f6567c4f38f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (06 April Shift 2)",
+    "paper_year_short": "2026 (06 April Shift 2)",
+    "held_on": "2026-04-06T14:00:00.000Z",
+    "question_text": "The energy released if hydrogen atoms are combined to form $^{4}_{2}\\text{He}$ is __________ MeV. (Take binding energies per nucleon of $^{2}_{1}\\text{H}$ and $^{4}_{2}\\text{He}$ as $1.1$ MeV and $7.2$ MeV, respectively)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7N9Uu",
+        "text": "$6.1$",
+        "image": null
+      },
+      {
+        "id": "iogsN",
+        "text": "$24.4$",
+        "image": null
+      },
+      {
+        "id": "yQ3C5",
+        "text": "$26.6$",
+        "image": null
+      },
+      {
+        "id": "3YPz5",
+        "text": "$5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "iogsN",
+    "solution_text": "The fusion reaction is given by:<br><br>$2 ^{2}_{1}\\text{H} \\rightarrow ^{4}_{2}\\text{He}$<br><br>Binding energy of one $^{2}_{1}\\text{H}$ nucleus = $2 \\times 1.1 = 2.2$ MeV<br><br>Total initial binding energy = $2 \\times 2.2 = 4.4$ MeV<br><br>Binding energy of $^{4}_{2}\\text{He}$ nucleus = $4 \\times 7.2 = 28.8$ MeV<br><br>Energy released $\\Delta E$ = Final binding energy - Initial binding energy<br><br>$\\Delta E = 28.8 - 4.4 = 24.4$ MeV<br><br>Answer: $24.4$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "69d8074d81239f6567c4f42c",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (06 April Shift 1)",
+    "paper_year_short": "2026 (06 April Shift 1)",
+    "held_on": "2026-04-06T09:00:00.000Z",
+    "question_text": "The energy released when $\\dfrac{7}{17.13}$ kg of $^{7}_{3}\\text{Li}$ is converted into $^{4}_{2}\\text{He}$ by proton bombardment is $\\alpha \\times 10^{32}$ eV. The value of $\\alpha$ is _______. (Nearest integer) (Mass of $^{7}_{3}\\text{Li} = 7.0183$ u, mass of $^{4}_{2}\\text{He} = 4.004$ u, mass of proton $= 1.008$ u and $1$ u $= 931$ MeV/c$^2$ and Avogadro number $= 6.0 \\times 10^{23}$)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "The nuclear reaction for the proton bombardment of Lithium is:<br><br>$^{7}_{3}\\text{Li} + ^{1}_{1}\\text{H} \\rightarrow 2 ^{4}_{2}\\text{He}$<br><br>The mass defect ($\\Delta m$) for the reaction is:<br><br>$\\Delta m = m(^{7}_{3}\\text{Li}) + m(^{1}_{1}\\text{H}) - 2m(^{4}_{2}\\text{He})$<br><br>$\\Delta m = 7.0183 + 1.008 - 2(4.004)$<br><br>$\\Delta m = 8.0263 - 8.008 = 0.0183 \\text{ u}$<br><br>Energy released per reaction ($Q$) is:<br><br>$Q = \\Delta m \\times 931 \\text{ MeV} = 0.0183 \\times 931 \\text{ MeV} = 17.0373 \\text{ MeV}$<br><br>Number of moles of $^{7}_{3}\\text{Li}$ in $\\dfrac{7}{17.13} \\text{ kg}$:<br><br>$n = \\dfrac{\\dfrac{7}{17.13} \\times 10^3 \\text{ g}}{7 \\text{ g/mol}} = \\dfrac{1000}{17.13} \\text{ mol}$<br><br>Number of atoms of $^{7}_{3}\\text{Li}$:<br><br>$N = n \\times N_A = \\dfrac{1000}{17.13} \\times 6.0 \\times 10^{23} = \\dfrac{6}{17.13} \\times 10^{26}$<br><br>Total energy released ($E$) is:<br><br>$E = N \\times Q = \\left(\\dfrac{6}{17.13} \\times 10^{26}\\right) \\times (17.0373 \\times 10^6 \\text{ eV})$<br><br>$E = \\dfrac{102.2238}{17.13} \\times 10^{32} \\text{ eV} \\approx 5.967 \\times 10^{32} \\text{ eV}$<br><br>Rounding to the nearest integer, we get $\\alpha = 6$.<br><br>Answer: $6$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "69d8076181239f6567c4f509",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (05 April Shift 2)",
+    "paper_year_short": "2026 (05 April Shift 2)",
+    "held_on": "2026-04-05T14:00:00.000Z",
+    "question_text": "Assuming the experimental mass of ${}^{12}_{6}C$ as $12\\text{ u}$, the mass defect of ${}^{12}_{6}C$ atom is _______ $\\text{MeV}/c^2$.<br>(Mass of proton $= 1.00727\\text{ u}$, mass of neutron $= 1.00866\\text{ u}$, $1\\text{ u} = 931.5\\text{ MeV}/c^2$ and $c$ is the speed of the light in vacuum).",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rbiFf",
+        "text": "$127.5$",
+        "image": null
+      },
+      {
+        "id": "PB0WI",
+        "text": "$89.03$",
+        "image": null
+      },
+      {
+        "id": "HsfuY",
+        "text": "$272.0$",
+        "image": null
+      },
+      {
+        "id": "Pn87D",
+        "text": "$92.0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "PB0WI",
+    "solution_text": "The mass of $6$ protons is $6 \\times 1.00727\\text{ u} = 6.04362\\text{ u}$.<br><br>The mass of $6$ neutrons is $6 \\times 1.00866\\text{ u} = 6.05196\\text{ u}$.<br><br>Total mass of the constituent nucleons is $6.04362\\text{ u} + 6.05196\\text{ u} = 12.09558\\text{ u}$.<br><br>The mass defect $\\Delta m$ is the difference between the total mass of the nucleons and the experimental mass of the atom (ignoring electron mass as per the given data):<br><br>$\\Delta m = 12.09558\\text{ u} - 12\\text{ u} = 0.09558\\text{ u}$<br><br>Converting the mass defect into $\\text{MeV}/c^2$:<br><br>$\\Delta m = 0.09558 \\times 931.5\\text{ MeV}/c^2 = 89.03277\\text{ MeV}/c^2 \\approx 89.03\\text{ MeV}/c^2$<br><br>Answer: $89.03$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "69d8075281239f6567c4f464",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (04 April Shift 1)",
+    "paper_year_short": "2026 (04 April Shift 1)",
+    "held_on": "2026-04-04T09:00:00.000Z",
+    "question_text": "Two nuclei of mass number $3$ combine with another nucleus of mass number $4$ to yield a nucleus of mass number $10$. If the binding energy per nucleon for the mass numbers $3$, $4$ and $10$ are $5.6$ MeV, $7.4$ MeV and $6.1$ MeV, respectively, then in the process, $\\Delta Mc^2 = $ _____ MeV.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WhxSC",
+        "text": "$6.9$",
+        "image": null
+      },
+      {
+        "id": "7HQFl",
+        "text": "$7.9$",
+        "image": null
+      },
+      {
+        "id": "SHtS5",
+        "text": "$2.2$",
+        "image": null
+      },
+      {
+        "id": "W4sls",
+        "text": "$4.3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SHtS5",
+    "solution_text": "The nuclear reaction is given by:<br><br>$2 X^{3} + Y^{4} \\rightarrow Z^{10}$<br><br>The total binding energy of the reactants is the sum of the binding energies of the two nuclei of mass number $3$ and the nucleus of mass number $4$.<br><br>Binding energy of reactants $= 2 \\times (3 \\times 5.6) + (4 \\times 7.4)$<br><br>$= 33.6 + 29.6 = 63.2$ MeV<br><br>The total binding energy of the product nucleus of mass number $10$ is:<br><br>Binding energy of product $= 10 \\times 6.1 = 61.0$ MeV<br><br>The change in mass energy $\\Delta M c^2$ is equal to the difference in the total binding energies of the reactants and the product.<br><br>$\\Delta M c^2 = |63.2 - 61.0| = 2.2$ MeV<br><br>Answer: $2.2$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "69d8072d81239f6567c4f2b1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (02 April Shift 2)",
+    "paper_year_short": "2026 (02 April Shift 2)",
+    "held_on": "2026-04-02T14:00:00.000Z",
+    "question_text": "The binding energy per nucleon of $^{209}_{83}Bi$ is _______ MeV.<br>$[\\text{Take } m(^{209}_{83}Bi) = 208.980388 \\, u, \\, m_p = 1.007825 \\, u, \\, m_n = 1.008665 \\, u, \\, 1 \\, u = 931 \\, \\text{MeV}/c^2]$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5SUXi",
+        "text": "$7.48$",
+        "image": null
+      },
+      {
+        "id": "NEetN",
+        "text": "$7.84$",
+        "image": null
+      },
+      {
+        "id": "a6pGh",
+        "text": "$8.79$",
+        "image": null
+      },
+      {
+        "id": "xuIct",
+        "text": "$6.94$",
+        "image": null
+      }
+    ],
+    "correct_answer": "NEetN",
+    "solution_text": "For the nucleus $^{209}_{83}Bi$, the number of protons is $Z = 83$ and the number of neutrons is $N = 209 - 83 = 126$.<br><br>Mass of $83$ protons $= 83 \\times 1.007825 = 83.649475 \\, u$<br><br>Mass of $126$ neutrons $= 126 \\times 1.008665 = 127.091790 \\, u$<br><br>Total mass of the nucleons $= 83.649475 + 127.091790 = 210.741265 \\, u$<br><br>The mass defect $\\Delta m$ is given by:<br><br>$\\Delta m = \\text{Total mass of nucleons} - \\text{Mass of nucleus}$<br><br>$\\Delta m = 210.741265 - 208.980388 = 1.760877 \\, u$<br><br>The total binding energy ($BE$) is:<br><br>$BE = \\Delta m \\times 931 \\, \\text{MeV}$<br><br>$BE = 1.760877 \\times 931 = 1639.376 \\, \\text{MeV}$<br><br>The binding energy per nucleon is:<br><br>$\\dfrac{BE}{A} = \\dfrac{1639.376}{209} \\approx 7.84 \\, \\text{MeV}$<br><br>Answer: $7.84$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6983c1a68bfdbb2435639764",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 2)",
+    "paper_year_short": "2026 (24 January Shift 2)",
+    "held_on": "2026-01-24T14:00:00.000Z",
+    "question_text": "The binding energy for the following nuclear reactions are expressed in MeV. <br> ${ }_{2} \\mathrm{He}^{3}+{ }_{0} \\mathrm{n}^{1} \\rightarrow{ }_{2} \\mathrm{He}^{4}+20 \\mathrm{MeV}$ <br> ${ }_{2} \\mathrm{He}^{4}+{ }_{0} \\mathrm{n}^{1} \\rightarrow{ }_{2} \\mathrm{He}^{5}-0.9 \\mathrm{MeV}$ <br> If $\\mathrm{X}_{3}, \\mathrm{X}_{4}, \\mathrm{X}_{5}$ denote the stability of ${ }_{2} \\mathrm{He}^{3},{ }_{2} \\mathrm{He}^{4}$ and ${ }_{2} \\mathrm{He}^{5}$, respectively, then the correct order is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "x0QXK",
+        "text": "$\\mathrm{X}_{4}<\\mathrm{X}_{5}<\\mathrm{X}_{3}$",
+        "image": null
+      },
+      {
+        "id": "5x8BA",
+        "text": "$\\mathrm{X}_{4}>\\mathrm{X}_{5}>\\mathrm{X}_{3}$",
+        "image": null
+      },
+      {
+        "id": "S0Ber",
+        "text": "$\\mathrm{X}_{4}>\\mathrm{X}_{5}<\\mathrm{X}_{3}$",
+        "image": null
+      },
+      {
+        "id": "aDxpi",
+        "text": "$\\mathrm{X}_{4}=\\mathrm{X}_{5}=\\mathrm{X}_{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "5x8BA",
+    "solution_text": "$BE_{He^4} - BE_{He^3} = 20 MeV$ ...(1)<br>$BE_{He^5} - BE_{He^4} = -0.9 MeV$ ...(2)<br>From eq (1) & (2)<br>$BE_{He^4} > BE_{He^5} > BE_{He^3}$<br>$X_4 > X_5 > X_3$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6983c1a08bfdbb2435639716",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 1)",
+    "paper_year_short": "2026 (24 January Shift 1)",
+    "held_on": "2026-01-24T09:00:00.000Z",
+    "question_text": "Given below are two statements: <br> <b>Statement I</b>: For all elements, greater the mass of the nucleus, greater is the binding energy per nucleon. <br> <b>Statement II</b>: For all elements, nuclei with less binding energy per nucleon transforms to nuclei with greater binding energy per nucleon. <br> In the light of the above statements, choose the correct answer from the options given below",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Xfl3G",
+        "text": "Statement I is true but Statement II is false",
+        "image": null
+      },
+      {
+        "id": "AkcAG",
+        "text": "Both Statement I and Statement II are true",
+        "image": null
+      },
+      {
+        "id": "iyQHC",
+        "text": "Both Statement I and Statement II are false",
+        "image": null
+      },
+      {
+        "id": "XzZ0K",
+        "text": "Statement I is false but Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "XzZ0K",
+    "solution_text": "Statement I is false because binding energy per nucleon does not increase monotonically with mass number. It peaks at Iron-56 and decreases for heavier elements.<br>Statement II is true. It describes the fundamental principle of nuclear reactions: fission of heavy nuclei (low BE/A) and fusion of light nuclei (low BE/A) both produce nuclei with higher binding energy per nucleon, releasing energy in the process. Both processes are energetically favorable for the same reason: moving toward higher stability (higher BE/A).",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6983c1878bfdbb24356395e1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (22 January Shift 1)",
+    "paper_year_short": "2026 (22 January Shift 1)",
+    "held_on": "2026-01-22T09:00:00.000Z",
+    "question_text": "The minimum frequency of photon required to break a particle of mass 15.348 amu into $4 \\alpha$ particles is $\\_\\_\\_\\_$ kHz. <br> [mass of He nucleus = $4.002 \\mathrm{amu}, 1 \\mathrm{amu}=1.66 \\times 10^{-27} \\mathrm{~kg}, \\mathrm{~h}=6.6 \\times 10^{-34} \\mathrm{~J}. \\mathrm{s}$ and $\\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$ ]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XuNJV",
+        "text": "$14.94 \\times 10^{19}$",
+        "image": null
+      },
+      {
+        "id": "9zBIj",
+        "text": "$9 \\times 10^{20}$",
+        "image": null
+      },
+      {
+        "id": "HXEDa",
+        "text": "$14.94 \\times 10^{20}$",
+        "image": null
+      },
+      {
+        "id": "TmTOc",
+        "text": "$9 \\times 10^{19}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "XuNJV",
+    "solution_text": "$h v =(4 \\times 4.002-15.348) \\times 1.66 \\times 10^{-27} \\times\\left(3 \\times 10^8\\right)^2$<br>$v =14.94 \\times 10^{19} \\mathrm{kHz}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "68542c5d7c09d044e4c1a197",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (2 Apr Shift 2)",
+    "paper_year_short": "2025 (2 Apr Shift 2)",
+    "held_on": "2025-04-02T14:00:00.000Z",
+    "question_text": "Energy released when two deuterons $\\left({ }_1 \\mathrm{H}^2\\right)$ fuse to form a helium nucleus $\\left({ }_2 \\mathrm{He}^4\\right)$ is :<br/>(Given : Binding energy per nucleon of ${ }_1 \\mathrm{H}^2=1.1 \\mathrm{MeV}$ and binding energy per nucleon of ${ }_2 \\mathrm{He}^4=7.0 \\mathrm{MeV}$)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "daggp",
+        "text": "8.1 MeV",
+        "image": null
+      },
+      {
+        "id": "IzNzW",
+        "text": "5.9 MeV",
+        "image": null
+      },
+      {
+        "id": "retUG",
+        "text": "23.6 MeV",
+        "image": null
+      },
+      {
+        "id": "oZycb",
+        "text": "26.8 MeV",
+        "image": null
+      }
+    ],
+    "correct_answer": "retUG",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/NMl0IJisRbuOYBS8isMLijQtvanuRouaMqzS2rLjNgM.original.fullsize.png\"/><br/>$\\begin{aligned} & E_B=\\mathrm{BE}_{\\text {reactant }}-\\mathrm{BE}_{\\text {product }} \\\\ & =1.1 \\times 2+1.1 \\times 2-7 \\times 4=-23.6 \\mathrm{MeV} \\\\ & =\\mathrm{Q}=23.6 \\mathrm{MeV}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "67a2eea2c8b73881fdaea198",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (23 Jan Shift 2)",
+    "paper_year_short": "2025 (23 Jan Shift 2)",
+    "held_on": "2025-01-23T14:00:00.000Z",
+    "question_text": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).\nAssertion (A) : The binding energy per nucleon is found to be practically independent of the atomic number A, for nuclei with mass numbers between 30 and 170.\nReason (R): Nuclear force is long range.\nIn the light of the above statements, choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XSb0p",
+        "text": "$(A)$ is true but (R) is false",
+        "image": null
+      },
+      {
+        "id": "vCOkl",
+        "text": "(A) is false but (R) is true",
+        "image": null
+      },
+      {
+        "id": "MU9kJ",
+        "text": "Both $(\\mathbf{A})$ and $(\\mathbf{R})$ are true and $(\\mathbf{R})$ is the correct explanation of $(\\mathbf{A})$",
+        "image": null
+      },
+      {
+        "id": "v7zOq",
+        "text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+        "image": null
+      }
+    ],
+    "correct_answer": "XSb0p",
+    "solution_text": "From graph between B.E/N & A we can see BE/N is almost constant $\\Rightarrow$ correct\nReason $\\Rightarrow$ incorrect as nuclear forces are short range forces.",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "66446759970e6e9ab542d27c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (09 Apr Shift 2)",
+    "paper_year_short": "2024 (09 Apr Shift 2)",
+    "held_on": "2024-04-09T14:00:00.000Z",
+    "question_text": "A nucleus at rest disintegrates into two smaller nuclei with their masses in the ratio of $2: 1$. After disintegration they will move :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dq6fw",
+        "text": "in the same direction with same speed.",
+        "image": null
+      },
+      {
+        "id": "kSnjh",
+        "text": "in opposite directions with the same speed.",
+        "image": null
+      },
+      {
+        "id": "JUB0V",
+        "text": "in opposite directions with speed in the ratio of $2: 1$ respectively.",
+        "image": null
+      },
+      {
+        "id": "cpm3R",
+        "text": "in opposite directions with speed in the ratio of $1: 2$ respectively.",
+        "image": null
+      }
+    ],
+    "correct_answer": "cpm3R",
+    "solution_text": "By conservation of momentum\n$\\begin{aligned}& \\mathrm{p}_{\\mathrm{i}}=\\mathrm{p}_{\\mathrm{f}} \\\\\n& \\mathrm{O}=\\mathrm{m}_1 \\mathrm{u}_{1+} \\mathrm{m}_2 \\mathrm{u}_2 \\\\& \\frac{\\mathrm{u}_1}{\\mathrm{u}_2}=-\\left[\\frac{1}{2}\\right] \\text { as } \\frac{\\mathrm{m}_1}{\\mathrm{~m}_2}=\\frac{2}{1}\n\\end{aligned}$\nmove in opposite direction with speed ratio $1: 2$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "66446751970e6e9ab542d238",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (09 Apr Shift 1)",
+    "paper_year_short": "2024 (09 Apr Shift 1)",
+    "held_on": "2024-04-09T09:00:00.000Z",
+    "question_text": "A star has $100 \\%$ helium composition. It starts to convert three ${ }^4 \\mathrm{He}$ into one ${ }^{12} \\mathrm{C}$ via triple alpha process as ${ }^4 \\mathrm{He}+{ }^4 \\mathrm{He}+{ }^4 \\mathrm{He} \\rightarrow{ }^{12} \\mathrm{C}+\\mathrm{Q}$. The mass of the star is $2.0 \\times 10^{32} \\mathrm{~kg}$ and it generates energy at the rate of $5.808 \\times 10^{30} \\mathrm{~W}$. The rate of converting these ${ }^4 \\mathrm{He}$ to ${ }^{12} \\mathrm{C}$ is $\\mathrm{n} \\times 10^{42} \\mathrm{~s}^{-1}$, where $\\mathrm{n}$ is _________\n[ Take, mass of ${ }^4 \\mathrm{He}=4.0026 \\mathrm{u}$, mass of ${ }^{12} \\mathrm{C}=12 \\mathrm{u}$ ]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "15",
+    "solution_text": "${ }^4 \\mathrm{He}+{ }^4 \\mathrm{He}+{ }^4 \\mathrm{He} \\rightarrow{ }^{12} \\mathrm{C}+\\mathrm{Q}$\npower generated $=\\frac{\\mathrm{N}}{\\mathrm{t}} \\mathrm{Q}$\nwhere, $\\mathrm{N} \\rightarrow$ No. of reaction $/ \\mathrm{sec}$.\n$\\begin{aligned} & \\mathrm{Q}=\\left(3 \\mathrm{~m}_{\\mathrm{He}}-\\mathrm{m}_{\\mathrm{C}}\\right) \\mathrm{C}^2 \\\\ & \\mathrm{Q}=(3 \\times 4.0026-12)\\left(3 \\times 10^8\\right)^2 \\\\ & \\mathrm{Q}=7.266 \\mathrm{MeV}\\end{aligned}$\n$\\begin{aligned} & \\frac{\\mathrm{N}}{\\mathrm{t}}=\\frac{\\text { power }}{\\mathrm{Q}}=\\frac{5.808 \\times 10^{30}}{7.266 \\times 10^6 \\times 1.6 \\times 10^{-19}} \\\\ & \\frac{\\mathrm{N}}{\\mathrm{t}}=5 \\times 10^{42}\\end{aligned}$\nrate of conversion of ${ }^4 \\mathrm{He}$ into ${ }^{12} \\mathrm{C}=15 \\times 10^{42}$ Hence, $\\mathrm{n}=15$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "66446751970e6e9ab542d232",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (09 Apr Shift 1)",
+    "paper_year_short": "2024 (09 Apr Shift 1)",
+    "held_on": "2024-04-09T09:00:00.000Z",
+    "question_text": "The energy equivalent of $1 \\mathrm{~g}$ of substance is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "670Q7",
+        "text": "$5.6 \\times 10^{12} \\mathrm{MeV}$",
+        "image": null
+      },
+      {
+        "id": "rhgNz",
+        "text": "$5.6 \\times 10^{26} \\mathrm{MeV}$",
+        "image": null
+      },
+      {
+        "id": "CoF46",
+        "text": "$11.2 \\times 10^{24} \\mathrm{MeV}$",
+        "image": null
+      },
+      {
+        "id": "N5W6T",
+        "text": "$5.6 \\mathrm{eV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "rhgNz",
+    "solution_text": "$\\mathrm{E}=\\mathrm{mC}^2$\n$\\begin{aligned} & \\Rightarrow \\mathrm{E}=\\left(1 \\times 10^{-3}\\right) \\times\\left(3 \\times 10^8\\right)^2 \\mathrm{~J} \\\\ & \\Rightarrow \\mathrm{E}=\\left(10^{-3}\\right)\\left(9 \\times 10^{16}\\right)\\left(6.241 \\times 10^{18}\\right) \\mathrm{eV} \\\\ & \\mathrm{E}=56.169 \\times 10^{31} \\mathrm{eV} \\\\ & \\mathrm{E} \\approx 5.6 \\times 10^{26} \\mathrm{MeV} \\\\ & \\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "66446746970e6e9ab542d1d4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 2)",
+    "paper_year_short": "2024 (08 Apr Shift 2)",
+    "held_on": "2024-04-08T14:00:00.000Z",
+    "question_text": "If $M_o$ is the mass of isotope ${ }_5^{12} B, M_P$ and $M_n$ are the masses of proton and neutron, then nuclear binding energy of isotope is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CQEkA",
+        "text": "$\\left(M_o-5 M_p\\right) C^2$",
+        "image": null
+      },
+      {
+        "id": "kOGrJ",
+        "text": "$\\left(5 M_p+7 M_n-M_o\\right) C^2$",
+        "image": null
+      },
+      {
+        "id": "BUI6g",
+        "text": "$\\left(M_0-12 M_n\\right) C^2$",
+        "image": null
+      },
+      {
+        "id": "S1Gif",
+        "text": "$\\left(M_o-5 M_p-7 M_n\\right) C^2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kOGrJ",
+    "solution_text": "$\\begin{aligned} & \\text { B.E. }=\\Delta m C^2 \\\\ & \\left(5 M_p+7 M_n-M_o\\right) C^2\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6644673d970e6e9ab542d17d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 1)",
+    "paper_year_short": "2024 (08 Apr Shift 1)",
+    "held_on": "2024-04-08T09:00:00.000Z",
+    "question_text": "Binding energy of a certain nucleus is $18 \\times 10^8 \\mathrm{~J}$. How much is the difference between total mass of all the nucleons and nuclear mass of the given nucleus:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dFHNk",
+        "text": "$10 \\mu \\mathrm{g}$",
+        "image": null
+      },
+      {
+        "id": "xljFo",
+        "text": "$20 \\mu \\mathrm{g}$",
+        "image": null
+      },
+      {
+        "id": "Y4suM",
+        "text": "$0.2 \\mu \\mathrm{g}$",
+        "image": null
+      },
+      {
+        "id": "nV8pq",
+        "text": "$2 \\mu \\mathrm{g}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xljFo",
+    "solution_text": "$\\begin{aligned} & \\Delta \\mathrm{mc}^2=18 \\times 10^8 \\\\ & \\Delta \\mathrm{m} \\times 9 \\times 10^{16}=18 \\times 10^8 \\\\ & \\Delta \\mathrm{m}=2 \\times 10^{-8} \\mathrm{~kg}=20 \\mu \\mathrm{g}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6644670d970e6e9ab542cfc0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (04 Apr Shift 2)",
+    "paper_year_short": "2024 (04 Apr Shift 2)",
+    "held_on": "2024-04-04T14:00:00.000Z",
+    "question_text": "The disintegration energy $Q$ for the nuclear fission of ${ }^{235} \\mathrm{U} \\rightarrow{ }^{140} \\mathrm{Ce}+{ }^{94} \\mathrm{Zr}+n$ is ______ $\\mathrm{MeV}$.\nGiven atomic masses of ${ }^{235} \\mathrm{U}: 235.0439 u ;{ }^{140} \\mathrm{Ce}: 139.9054 u$,\n${ }^{94} \\mathrm{Zr}: 93.9063 u ; n: 1.0086 u \\text {, }$\nValue of $c^2=931 \\mathrm{MeV} / \\mathrm{u}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "208",
+    "solution_text": "${ }^{235} \\mathrm{U} \\rightarrow{ }^{140} \\mathrm{Ce}+{ }^{94} \\mathrm{Zr}+\\mathrm{n}$<br />Disintegration energy\n$\\begin{aligned}\n\\mathrm{Q} & =\\left(\\mathrm{m}_{\\mathrm{R}}-\\mathrm{m}_{\\mathrm{p}}\\right) \\mathrm{c}^2 \\\\\n\\mathrm{~m}_{\\mathrm{R}} & =235.0439 \\mathrm{u} \\\\\n\\mathrm{m}_{\\mathrm{p}} & =139.9054 \\mathrm{u}+93.9063 \\mathrm{u}+1.0086 \\mathrm{u} \\\\\n& =234.8203 \\mathrm{u} \\\\\n\\mathrm{Q} & =(235.0439 \\mathrm{u}-234.8203 \\mathrm{u}) \\mathrm{c}^2 \\\\\n& =0.2236 \\mathrm{c}^2 \\\\\n& =0.2236 \\times 931 \\\\\n\\mathrm{Q} & =208.1716\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6682bd8dba0e94a3c4025d5a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (27 Jan Shift 2)",
+    "paper_year_short": "2024 (27 Jan Shift 2)",
+    "held_on": "2024-01-27T14:00:00.000Z",
+    "question_text": "The atomic mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">C</mi><none></none><mn>12</mn><mprescripts></mprescripts><mn>6</mn><none></none></mmultiscripts></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mo>.</mo><mn>000000</mn><mo> </mo><mi mathvariant=\"normal\">u</mi></math> and that of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">C</mi><none></none><mn>13</mn><mprescripts></mprescripts><mn>6</mn><none></none></mmultiscripts></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn><mo>.</mo><mn>003354</mn><mo> </mo><mi mathvariant=\"normal\">u</mi></math>. The required energy to remove a neutron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">C</mi><none></none><mn>13</mn><mprescripts></mprescripts><mn>6</mn><none></none></mmultiscripts></math>, if mass of neutron is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>008665</mn><mo> </mo><mi mathvariant=\"normal\">u</mi></math>, will be:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UbULp",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>62</mn><mo>.</mo><mn>5</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "8iJOa",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>25</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "K06JF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>95</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "gxgAv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>49</mn><mo>.</mo><mn>5</mn><mi>MeV</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "K06JF",
+    "solution_text": "<p>Given the nuclear reaction is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">C</mi><none></none><mn>13</mn><mprescripts></mprescripts><mn>6</mn><none></none></mmultiscripts><mo>+</mo><mi>Energy</mi><mo>→</mo><mmultiscripts><mi mathvariant=\"normal\">C</mi><none></none><mn>12</mn><mprescripts></mprescripts><mn>6</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><none></none><mn>1</mn><mprescripts></mprescripts><mn>0</mn><none></none></mmultiscripts></math></p><p>The mass defect for the above reaction can be calculated as follows:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"right center left\" columnspacing=\"0px\"><mtr><mtd><mi>Δ</mi><mi mathvariant=\"normal\">m</mi></mtd><mtd><mo>=</mo></mtd><mtd><mfenced close=\"]\" open=\"[\"><mrow><mo>(</mo><mn>12</mn><mo>.</mo><mn>000000</mn><mo>+</mo><mn>1</mn><mo>.</mo><mn>008665</mn><mo>)</mo><mo>-</mo><mn>13</mn><mo>.</mo><mn>003354</mn></mrow></mfenced><mo> </mo><mi mathvariant=\"normal\">u</mi></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mo>-</mo><mn>0</mn><mo>.</mo><mn>00531</mn><mo> </mo><mi mathvariant=\"normal\">u</mi></mtd></mtr></mtable></math></p><p>Hence, the energy required is given by</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"right center left\" columnspacing=\"0px\"><mtr><mtd><mi>E</mi></mtd><mtd><mo>=</mo></mtd><mtd><mn>0</mn><mo>.</mo><mn>00531</mn><mo>×</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo> </mo><mi>MeV</mi></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mn>4</mn><mo>.</mo><mn>95</mn><mo> </mo><mi>MeV</mi></mtd></mtr></mtable></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6682bd8dba0e94a3c4025d59",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (27 Jan Shift 1)",
+    "paper_year_short": "2024 (27 Jan Shift 1)",
+    "held_on": "2024-01-27T09:00:00.000Z",
+    "question_text": "In a nuclear fission process, a high mass nuclide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>A</mi><mo>≈</mo><mn>236</mn><mo>)</mo></math> with binding energy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>6</mn><mo> </mo><mi>MeV</mi><mo>/</mo></math>Nucleon dissociated into two middle mass nuclides <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>≈</mo><mn>118</mn><mo>)</mo></math>, having binding energy of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>6</mn><mo> </mo><mi>MeV</mi><mo>/</mo></math>Nucleon. The energy released in the process would be _______ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MeV</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "236",
+    "solution_text": "<p>The formula to calculate the energy released in the given process can be written as</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mi>B</mi><msub><mi>E</mi><mtext>Product </mtext></msub><mo>-</mo><mi>B</mi><msub><mi>E</mi><mtext>Reactant </mtext></msub><mo> </mo><mo> </mo><mo> </mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>From equation (1), it follows that</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"right center left\" columnspacing=\"0px\"><mtr><mtd><mi>Q</mi></mtd><mtd><mo>=</mo></mtd><mtd><mn>2</mn><mo>(</mo><mn>118</mn><mo>)</mo><mo>(</mo><mn>8</mn><mo>.</mo><mn>6</mn><mo>)</mo><mo>-</mo><mn>236</mn><mo>(</mo><mn>7</mn><mo>.</mo><mn>6</mn><mo>)</mo><mo> </mo><mi>MeV</mi></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mn>236</mn><mo> </mo><mi>MeV</mi></mtd></mtr></mtable></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a71417cc3fb48d686bd",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (13 Apr Shift 2)",
+    "paper_year_short": "2023 (13 Apr Shift 2)",
+    "held_on": "2023-04-13T14:00:00.000Z",
+    "question_text": "<p>Given below are two statements: one is labelled as <strong>Assertion A</strong> and the other is labelled as <strong>Reason R</strong></p><p><strong>Assertion A </strong>: The binding energy per nucleon is practically independent of the atomic number for nuclei of mass number in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>170</mn></math>.</p><p><strong>Reason</strong> <strong>R </strong>: Nuclear force is short ranged.</p><p>In the light of the above statements, choose the <strong>correct</strong> answer from the options given below</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ONZpN",
+        "text": "<strong>A </strong>is false but <strong>R</strong> is true",
+        "image": null
+      },
+      {
+        "id": "iPz2g",
+        "text": "Both <strong>A</strong> and <strong>R </strong>are true and <strong>R</strong> is the correct explanation of <strong>A</strong>",
+        "image": null
+      },
+      {
+        "id": "BShL2",
+        "text": "Both&nbsp;<strong>A </strong>and <strong>R</strong> are true but <strong>R</strong> is <strong>NOT</strong> the correct explanation of <strong>A</strong>",
+        "image": null
+      },
+      {
+        "id": "vi5eI",
+        "text": "<strong>A</strong> is true but <strong>R</strong> is false.",
+        "image": null
+      }
+    ],
+    "correct_answer": "iPz2g",
+    "solution_text": "<blockquote><p>The binding energy for stable nuclei is always a positive number, as the nucleus must gain energy for the nucleons to move apart from each other. Nucleons are attracted to each other by the strong nuclear force. Binding energy per nucleon is almost constant in the range of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mo>-</mo><mn>170</mn></math>. This is because nuclear energy is a short range force. It operates in the femto metre region.</p><p>Hence, this option is the correct one.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a71417cc3fb48d68654",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (13 Apr Shift 1)",
+    "paper_year_short": "2023 (13 Apr Shift 1)",
+    "held_on": "2023-04-13T09:00:00.000Z",
+    "question_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mo>&#160;</mo><mprescripts></mprescripts><mn>92</mn><mn>238</mn></mmultiscripts><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mmultiscripts><mo>&#160;</mo><mprescripts></mprescripts><mn>90</mn><mn>234</mn></mmultiscripts><mi mathvariant=\"normal\">B</mi><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">D</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts><mo>+</mo><mi mathvariant=\"normal\">Q</mi></math></p><p>In the given nuclear reaction, the approximate amount of energy released will be:</p><p>[Given, mass of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mo>&#160;</mo><mprescripts></mprescripts><mn>92</mn><mn>238</mn></mmultiscripts><mi mathvariant=\"normal\">A</mi><mo>=</mo><mn>238</mn><mo>.</mo><mn>05079</mn><mo>&#215;</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">c</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>,&nbsp;mass of&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>B</mi><mprescripts/><mn>90</mn><mn>234</mn></mmultiscripts><mo>=</mo><mn>234</mn><mo>.</mo><mn>04363</mn><mo>&#215;</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">c</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>, mass of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">D</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts><mo>=</mo><mn>4</mn><mo>.</mo><mn>00260</mn><mo>&#215;</mo><mn>931</mn><mo>.</mo><mn>5</mn><mi>Me</mi><mi>V</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">c</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>&nbsp;]</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YSt6B",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>82</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "f2Gkj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>9</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "nu21L",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>12</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "klWqs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>25</mn><mi>MeV</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "klWqs",
+    "solution_text": "<blockquote><p>The value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mo>(</mo><msub><mi>m</mi><mi>A</mi></msub><mo>-</mo><msub><mi>m</mi><mi>B</mi></msub><mo>-</mo><msub><mi>m</mi><mi>D</mi></msub><mo>)</mo><mo>&#215;</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi><mspace linebreak=\"newline\"/><mo>&#8658;</mo><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mo>(</mo><mn>238</mn><mo>.</mo><mn>05079</mn><mo>-</mo><mn>234</mn><mo>.</mo><mn>04363</mn><mo>-</mo><mn>4</mn><mo>.</mo><mn>00260</mn><mo>)</mo><mo>&#215;</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi><mspace linebreak=\"newline\"/><mo>&#8658;</mo><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>25</mn><mo>&#160;</mo><mi>MeV</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d683f7",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (08 Apr Shift 1)",
+    "paper_year_short": "2023 (08 Apr Shift 1)",
+    "held_on": "2023-04-08T09:00:00.000Z",
+    "question_text": "A nucleus with mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>242</mn></math> and binding energy per nucleon as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>MeV</mi></math> breaks into two fragment each with mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>121</mn></math>. If each fragment nucleus has binding energy per nucleon as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>MeV</mi><mo>,</mo></math> the total gain in binding energy is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mo>&#160;</mo><mi>MeV</mi></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "121",
+    "solution_text": "<blockquote><p>Binding energy is given by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mo>&#8710;</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></math></p><p>where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>m</mi></math>&nbsp;is the mass defect.</p><p>The energy per nucleon of the nucleus having mass number&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>242</mn></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>MeV</mi></math>.</p><p>The initial binding energy is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>E</mi><mo>=</mo><mn>242</mn><mo>&#215;</mo><mn>7</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p>The energy per nucleon of the nucleus with mass number&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>121</mn></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>MeV</mi></math>.</p><p>Therefore, binding energy is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>E</mi><mo>&#39;</mo><mo>=</mo><mn>2</mn><mfenced><mrow><mn>121</mn><mo>&#215;</mo><mn>8</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>MeV</mi></mrow></mfenced></math></p><p>The gain in the binding energy is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>E</mi><mo>&#39;</mo><mo>-</mo><mi>B</mi><mi>E</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mo>(</mo><mn>8</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mo>&#8211;</mo><mo>&#160;</mo><mn>7</mn><mo>.</mo><mn>6</mn><mo>)</mo><mo>&#160;</mo><mo>&#215;</mo><mo>&#160;</mo><mn>242</mn><mo>&#160;</mo><mi>MeV</mi><mo>=</mo><mn>121</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mn>121</mn><mo>&#160;</mo><mi>MeV</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d683e4",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (08 Apr Shift 1)",
+    "paper_year_short": "2023 (08 Apr Shift 1)",
+    "held_on": "2023-04-08T09:00:00.000Z",
+    "question_text": "<p>For a nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>X</mi><mprescripts></mprescripts><mi>Z</mi><mi>A</mi></mmultiscripts></math> having mass number A and atomic number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi></math></p><p>A.&nbsp;The surface energy per nucleon<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mo>(</mo><msub><mi>b</mi><mi>s</mi></msub><mo>)</mo><mo>=</mo><mo>&#8211;</mo><msub><mi>a</mi><mn>1</mn></msub><msup><mi>A</mi><mfrac><mn>2</mn><mn>3</mn></mfrac></msup><mo>.</mo></math></p><p>B. The Coulomb contribution to the binding energy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">c</mi></msub><mo>=</mo><mo>&#8722;</mo><msub><mi mathvariant=\"normal\">a</mi><mn>2</mn></msub><mfrac><mrow><mi>Z</mi><mo>(</mo><mi>Z</mi><mo>&#8722;</mo><mn>1</mn><mo>)</mo></mrow><msup><mi>A</mi><mstyle displaystyle=\"true\"><mfrac><mn>4</mn><mn>3</mn></mfrac></mstyle></msup></mfrac></math>.</p><p>C. The volume energy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>b</mi><mi>v</mi></msub><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><msub><mi>a</mi><mn>3</mn></msub><mi>A</mi></math></p><p>D. Decrease in the binding energy is proportional to surface area.</p><p>E. While estimating the surface energy, it is assumed that each nucleon interacts with 12 nucleons. (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>a</mi><mn>2</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mn>3</mn></msub></math> are constants)</p><p>Choose the most appropriate answer from the options given below:</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HajJz",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">E</mi></math>&nbsp;only",
+        "image": null
+      },
+      {
+        "id": "KdIBJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">D</mi></math>&nbsp;only",
+        "image": null
+      },
+      {
+        "id": "Ispgf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>,</mo><mo>&#160;</mo><mi>B</mi><mo>,</mo><mo>&#160;</mo><mi>C</mi><mo>,</mo><mo>&#160;</mo><mi>D</mi></math>&nbsp;only",
+        "image": null
+      },
+      {
+        "id": "PKJM6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>,</mo><mo>&#160;</mo><mi>C</mi></math>&nbsp;only",
+        "image": null
+      }
+    ],
+    "correct_answer": "KdIBJ",
+    "solution_text": "<blockquote><p>The formula to calculate the radius of a nucleus is given by</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><msup><mi>A</mi><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>Hence, the volume energy can be written as</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"right center left\" columnspacing=\"0px\"><mtr><mtd><msub><mi>b</mi><mi>v</mi></msub></mtd><mtd><mo>=</mo></mtd><mtd><msub><mi>C</mi><mn>1</mn></msub><msup><mi>R</mi><mn>3</mn></msup></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mo>&#160;</mo><msub><mi>a</mi><mn>3</mn></msub><msup><mfenced><msup><mi>A</mi><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></mfenced><mn>3</mn></msup></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><msub><mi>a</mi><mn>3</mn></msub><mi>A</mi></mtd></mtr></mtable></math></p><p>The nuclear binding energy&nbsp;is the minimum energy that is required to disassemble the nucleus of an atom into its constituent protons and neutrons. Also, the energy of the nucleus is negative with regard to the energy of the particles pulled apart to infinite distance, because energy must be utilised to split a nucleus into its individual protons and neutrons. It is proportional to the&nbsp;surface area.</p><p>Hence, statements C and D are&nbsp;most appropriate.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d682e1",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (31 Jan Shift 2)",
+    "paper_year_short": "2023 (31 Jan Shift 2)",
+    "held_on": "2023-01-31T14:00:00.000Z",
+    "question_text": "If the binding energy of ground state electron in a hydrogen atom is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>eV</mi></math>, then, the energy required to remove the electron from the second excited state of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Li</mi><msup><mo>&#160;</mo><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> will be: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><mi>eV</mi></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> is&nbsp;_____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "136",
+    "solution_text": "<p>Given:</p><p>Binding energy,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>H</mi></msub><mo>=</mo><msub><mi>E</mi><mn>0</mn></msub><mo>=</mo><mn>13</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>eV</mi></math>.</p><p>Now for hydrogen like atom, we can write</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><msup><mi>Li</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></msub><mo>=</mo><msub><mi>E</mi><mn>0</mn></msub><mfrac><msup><mi>Z</mi><mn>2</mn></msup><msup><mi>n</mi><mn>2</mn></msup></mfrac><mspace linebreak=\"newline\"/><mo>=</mo><mn>13</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><mfrac><mn>9</mn><mn>9</mn></mfrac><mspace linebreak=\"newline\"/><mo>=</mo><mn>13</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>eV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>136</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><mi>eV</mi></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>136</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67ce1",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (28 Jun Shift 1)",
+    "paper_year_short": "2022 (28 Jun Shift 1)",
+    "held_on": "2022-06-28T09:00:00.000Z",
+    "question_text": "The <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>-value of a nuclear reaction and kinetic energy of the projectile particle, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>K</mi><mi>p</mi></msub></math> are related as&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Go0I4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><msub><mi>K</mi><mi>p</mi></msub></math>",
+        "image": null
+      },
+      {
+        "id": "XK5pi",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>K</mi><mi>p</mi></msub><mo>+</mo><mi>Q</mi></mrow></mfenced><mo>&#60;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "HKyES",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>&#60;</mo><msub><mi>K</mi><mi>p</mi></msub></math>",
+        "image": null
+      },
+      {
+        "id": "GoEch",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>K</mi><mi>p</mi></msub><mo>+</mo><mi>Q</mi></mrow></mfenced><mo>&#62;</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "GoEch",
+    "solution_text": "<p>The Q-value of the reaction is defined as the difference between the sum of the masses of the initial reactants and the sum of the masses of the final products, in energy units.</p><p>For any reaction to happen spontaneously there must be some energy released in the process. Therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>K</mi><mi>p</mi></msub><mo>+</mo><mi>Q</mi></mrow></mfenced><mo>&#62;</mo><mn>0</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67741",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (24 Jun Shift 1)",
+    "paper_year_short": "2022 (24 Jun Shift 1)",
+    "held_on": "2022-06-24T09:00:00.000Z",
+    "question_text": "Nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is having mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>220</mn></math> and its binding energy per nucleon is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>MeV</mi></math>. It splits in two fragments <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>&nbsp;of mass numbers <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>105</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>115</mn></math>. The binding energy of nucleons in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi>MeV</mi></math> per nucleon. The energy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> released per fission will be:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EkVMk",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>8</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "wRgjv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>275</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "SgeXN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>220</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "BhjXs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>176</mn><mi>MeV</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "BhjXs",
+    "solution_text": "<p>The total binding energy of nucleus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>A</mi></msub><mo>=</mo><mn>220</mn><mo>&#215;</mo><mn>5</mn><mo>.</mo><mn>6</mn><mo>=</mo><mn>1232</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p>The total binding energy of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>&nbsp;combined is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>B</mi></msub><mo>+</mo><msub><mi>E</mi><mi>C</mi></msub><mo>=</mo><mn>105</mn><mo>&#215;</mo><mn>6</mn><mo>.</mo><mn>4</mn><mo>+</mo><mn>115</mn><mo>&#215;</mo><mn>6</mn><mo>.</mo><mn>4</mn><mo>=</mo><mn>1408</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p>Therefore, the energy released per fission is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><msub><mi>E</mi><mi>B</mi></msub><mo>+</mo><msub><mi>E</mi><mi>C</mi></msub><mo>-</mo><msub><mi>E</mi><mi>A</mi></msub><mo>=</mo><mn>1408</mn><mo>-</mo><mn>1232</mn><mo>=</mo><mn>176</mn><mo>&#160;</mo><mi>MeV</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d6736e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (25 Jul Shift 2)",
+    "paper_year_short": "2021 (25 Jul Shift 2)",
+    "held_on": "2021-07-25T14:00:00.000Z",
+    "question_text": "<p>From the given data, the amount of energy required to break the nucleus of aluminium <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Al</mi><mprescripts></mprescripts><mn>13</mn><mn>27</mn></mmultiscripts></math> is __________<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math>&nbsp;</p><p>Mass of neutron <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>00866</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math><br />Mass of proton <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>00726</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math><br />Mass of Aluminium nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>27</mn><mo>.</mo><mn>18846</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math><br />(Assume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math> corresponds to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#160;</mo><mi>J</mi></math> of energy)<br />(Round off to the nearest integer)</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "27",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi>m</mi><mo>=</mo><mfenced><mrow><mi>Z</mi><msub><mi>m</mi><mi mathvariant=\"italic\">P</mi></msub><mo>+</mo><mo>(</mo><mi>A</mi><mo>-</mo><mi>Z</mi><mo>)</mo><msub><mi>m</mi><mi mathvariant=\"italic\">n</mi></msub></mrow></mfenced><mo>-</mo><msub><mi>M</mi><mi>Al</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>(</mo><mn>13</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>00726</mn><mo>+</mo><mn>14</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>00866</mn><mo>)</mo><mo>-</mo><mn>27</mn><mo>.</mo><mn>18846</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>27</mn><mo>.</mo><mn>21562</mn><mo>-</mo><mn>27</mn><mo>.</mo><mn>18846</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>02716</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mn>27</mn><mo>.</mo><mn>16</mn><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a6a417cc3fb48d67144",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (22 Jul Shift 1)",
+    "paper_year_short": "2021 (22 Jul Shift 1)",
+    "held_on": "2021-07-22T09:00:00.000Z",
+    "question_text": "A nucleus with mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>184</mn></math> initially at rest emits an <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>-</mo></math>particle. If the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> value of the reaction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi><mo>,</mo></math>&nbsp;calculate the kinetic energy of the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>-</mo></math> particle.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PGVxN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "vYezH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "57w0s",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>12</mn><mo>&#160;</mo><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "HIxhB",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>38</mn><mo>&#160;</mo><mi>MeV</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "HIxhB",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/c403999e-2fd8-4adc-a434-890a4ebb953f-image.png\" style=\"width: 300px; height: 127px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></mrow></mfenced><msup><mi mathvariant=\"normal\">v</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mn>180</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></mrow></mfenced><msup><mfenced><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">v</mi></mrow><mn>180</mn></mfrac></mfenced><mn>2</mn></msup><mo>=</mo><mn>5</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>4</mn><mo>&#160;</mo><msup><mi>mv</mi><mn>2</mn></msup><mfenced close=\"]\" open=\"[\"><mrow><mn>1</mn><mo>+</mo><mn>45</mn><msup><mfenced><mfrac><mn>4</mn><mn>180</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>5</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi>MeV</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>.</mo><mi mathvariant=\"normal\">E</mi><msub><mo>.</mo><mi>&#945;</mi></msub><mo>=</mo><mfrac><mrow><mn>5</mn><mo>.</mo><mn>5</mn></mrow><mrow><mn>1</mn><mo>+</mo><mn>45</mn><mo>&#183;</mo><msup><mfenced><mfrac><mn>4</mn><mn>180</mn></mfrac></mfenced><mn>2</mn></msup></mrow></mfrac><mo>&#160;</mo><mi>MeV</mi><mo>=</mo><mn>5</mn><mo>.</mo><mn>38</mn><mo>&#160;</mo><mi>MeV</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66bc5",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (06 Sep Shift 1)",
+    "paper_year_short": "2020 (06 Sep Shift 1)",
+    "held_on": "2020-09-06T09:00:00.000Z",
+    "question_text": "You are given that&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Li</mi><mprescripts></mprescripts><mn>3</mn><mn>7</mn></mmultiscripts><mo>=</mo><mn>7</mn><mo>.</mo><mn>0160</mn><mi mathvariant=\"normal\">u</mi><mo>,</mo></math>Mass of Mass of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>He</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts><mo>=</mo><mn>4</mn><mo>.</mo><mn>0026</mn><mi mathvariant=\"normal\">u</mi></math> and Mass of&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>He</mi><mprescripts></mprescripts><mn>1</mn><mn>1</mn></mmultiscripts><mo>=</mo><mn>1</mn><mo>.</mo><mn>0079</mn><mi mathvariant=\"normal\">H</mi></math> When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mi mathvariant=\"normal\">g</mi></math> of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Li</mi><mprescripts></mprescripts><mn>3</mn><mn>7</mn></mmultiscripts></math> is converted into&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow></mrow><mn>2</mn><mn>4</mn></msubsup></math> He by proton capture, the energy liberated, (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>kWh</mi></math> ), is : [Mass of nucleon <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mi>GeV</mi><mo>/</mo><msup><mi mathvariant=\"normal\">c</mi><mn>2</mn></msup></math>]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FlcO4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>5</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "Sc9uB",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "o8k5z",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.</mo><mn>82</mn><mo>&#215;</mo><msup><mn>10</mn><mn>5</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "2ekt7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>33</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2ekt7",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mi>&#916;</mi><mi>m</mi><msup><mi>C</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mo>(</mo><mn>1</mn><mo>.</mo><mn>0079</mn><mo>+</mo><mn>7</mn><mo>.</mo><mn>0160</mn><mo>-</mo><mn>2</mn><mo>(</mo><mn>4</mn><mo>.</mo><mn>0026</mn><mo>)</mo><mo>&#215;</mo><mn>931</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>33</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66adb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (04 Sep Shift 2)",
+    "paper_year_short": "2020 (04 Sep Shift 2)",
+    "held_on": "2020-09-04T14:00:00.000Z",
+    "question_text": "Find the Binding energy per nucleon for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Sn</mi><mprescripts></mprescripts><mn>50</mn><mn>120</mn></mmultiscripts></math>. Mass of proton&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mi>p</mi></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>00783</mn><mo>&#160;</mo><mi>U</mi></math>, mass of neutron&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mi>n</mi></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>00867</mn><mo>&#160;</mo><mi>U</mi></math> and mass of tin nucleus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mi>sn</mi></msub><mo>=</mo><mn>119</mn><mo>.</mo><mn>902199</mn><mo>&#160;</mo><mi>U</mi></math>. (take&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>U</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>931</mn><mo>&#160;</mo><mi>M</mi><mi>e</mi><mi>V</mi></math>)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wKYSW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.5</mo><mi>M</mi><mi>e</mi><mi>V</mi></math>",
+        "image": null
+      },
+      {
+        "id": "xNabA",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>0</mn><mi>M</mi><mi>e</mi><mi>V</mi></math>",
+        "image": null
+      },
+      {
+        "id": "1VV1a",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;8.</mo><mn>0</mn><mi>M</mi><mi>e</mi><mi>V</mi></math>",
+        "image": null
+      },
+      {
+        "id": "DG1ZM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.5</mo><mi>M</mi><mi>e</mi><mi>V</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "DG1ZM",
+    "solution_text": "<p>Binding energy&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>(</mo><mi>&#916;M</mi><mo>)</mo><msup><mi mathvariant=\"normal\">C</mi><mn>2</mn></msup><mo>=</mo><mo>(</mo><mi>AM</mi><mo>)</mo><mn>931</mn></math></p><p>put the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi mathvariant=\"normal\">M</mi></math>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>BE</mi><mo>=</mo><mn>8</mn><mo>.</mo><mn>5</mn><mi>MeV</mi></math>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d661be",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2017 (09 Apr Online)",
+    "paper_year_short": "2017 (09 Apr Online)",
+    "held_on": "2017-04-09T09:00:00.000Z",
+    "question_text": "Imagine that a reactor converts all the given mass into energy and that it operates at a power level of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>9</mn></msup><mo>&#160;</mo><mi>Watt</mi></math> . The mass of the fuel consumed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>per</mi><mo>&#160;</mo><mi>hour</mi></math>, in the reactor, will be:<br />(velocity of light,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mn>8&#160;</mn></msup><mn>m</mn><mo>&#160;</mo><msup><mn>s</mn><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ezF6D",
+        "text": "<math><mn>6.6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mi>&nbsp;</mi><mn>g</mn></math>",
+        "image": null
+      },
+      {
+        "id": "T0Mjh",
+        "text": "<math><mn>0.96</mn><mi> </mi><mn>g</mn></math>",
+        "image": null
+      },
+      {
+        "id": "3ZXZP",
+        "text": "<math><mn>4</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>2&nbsp;</mn></mrow></msup><mn>g</mn></math>",
+        "image": null
+      },
+      {
+        "id": "4bqJP",
+        "text": "<math><mn>0.8</mn><mi> </mi><mn>g</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3ZXZP",
+    "solution_text": "<p>Power of reactor,&nbsp;<math><mi>P</mi><mo>=</mo><mfrac><mrow><mi>E</mi></mrow><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>m</mi><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>t</mi></mrow></mfrac></math>(From mass-energy equivalence equation)&nbsp;</p><p>Given in the problem power level&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msup><mn>10</mn><mn>9</mn></msup><mo>&#160;</mo><mi>Watt</mi></math>&nbsp;.<br /><br /><math><mfrac><mrow><mo>&#8710;</mo><mi>m</mi></mrow><mrow><mo>&#8710;</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>P</mi></mrow><mrow><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mi>&#160;</mi><mo>=</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>9</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>8</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br /><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mfrac><mrow><mo>&#8710;</mo><mi>m</mi></mrow><mrow><mo>&#8710;</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup></mrow><mrow><mn>9</mn></mrow></mfrac><mi>&#160;</mi><mn>k</mn><mn>g</mn><mn>&#160;</mn><msup><mrow><mn>s</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>&#160;</mi></math><br /><br />The mass of fuel consumed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>per</mi><mo>&#160;</mo><mi>hour</mi></math><math><mo>=</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup></mrow><mrow><mn>9</mn></mrow></mfrac><mo>&#215;</mo><mfenced separators=\"|\"><mrow><mn>1000&#160;</mn><mn>g</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>3600</mn><mi>&#160;</mi><msup><mrow><mn>h</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced><mo>=</mo><mn>4</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>2&#160;</mn></mrow></msup><mn>g&#160;</mn><msup><mrow><mn>h</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65b09",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2012 (Offline)",
+    "paper_year_short": "2012 (Offline)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Assume that a neutron breaks into a proton and an electron. The energy released during this process is (Mass of neutron $=1.6725 \\times 10^{-27} \\mathrm{~kg} ;$ mass of proton $=1.6725 \\times 10^{-27} \\mathrm{~kg} ;$ mass of electron $=9 \\times 10^{-31}$ $\\mathrm{kg})$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8bwpj",
+        "text": "\n$0.73 \\mathrm{~MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "dTzrb",
+        "text": "\n$7.10 \\mathrm{~MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "dEer9",
+        "text": "\n$6.30 \\mathrm{~MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "vqhFW",
+        "text": "\n$5.4 \\mathrm{~MeV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "8bwpj",
+    "solution_text": "$\\begin{aligned}\n\\Delta m & =\\left(m_p+m_e\\right)-m_n \\\\\n& =9 \\times 10^{-31} \\mathrm{~kg}.\n\\end{aligned}$\nEnergy released $=\\left(9 \\times 10^{-31} \\mathrm{~kg}\\right) \\mathrm{c}^2$ joules\n$\\begin{aligned}\n& =\\frac{9 \\times 10^{-31} \\times\\left(3 \\times 10^8\\right)^2}{1.6 \\times 10^{-13}} \\mathrm{MeV} \\\\\n& =0.73 \\mathrm{~MeV} .\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d658e2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2010",
+    "paper_year_short": "2010",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A nucleus of mass $M+\\Delta m$ is at rest and decays into two daughter nuclei of equal mass $\\frac{M}{2}$ each. Speed of light is $\\mathrm{c}$.\n40. The binding energy per nucleon for the parent nucleus is $E_1$ and that for the daughter nuclei is $E_2$. Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Kwgbe",
+        "text": "\n$\\mathrm{E}_2=2 \\mathrm{E}_1$\n",
+        "image": null
+      },
+      {
+        "id": "IX5Ps",
+        "text": "\n$E_1>E_2$\n",
+        "image": null
+      },
+      {
+        "id": "FcS5L",
+        "text": "\n$E_2>E_1$\n",
+        "image": null
+      },
+      {
+        "id": "BQhJA",
+        "text": "\n$\\mathrm{E}_1=2 \\mathrm{E}_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "FcS5L",
+    "solution_text": "After decay, the daughter nuclei will be more stable hence binding energy per nucleon will be more than that of their parent nucleus.",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65880",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2009",
+    "paper_year_short": "2009",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The above is a plot of binding energy per nucleon $E_b$, against the nuclear mass $M ; A, B, C, D, E, F$ correspond to different nuclei. Consider four reactions:\n(i) $A+B \\rightarrow C+\\varepsilon$\n(ii) $\\mathrm{C} \\rightarrow \\mathrm{A}+\\mathrm{B}+\\varepsilon$\n(iii) $\\mathrm{D}+\\mathrm{E} \\rightarrow \\mathrm{F}+\\varepsilon$ and\n(iv) $F \\rightarrow D+E+\\varepsilon$ where $\\varepsilon$ is the energy released? In which reactions is $\\varepsilon$ positive?\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/ptVhC5vyZHrdKNfD53b1bui4MQzl0u--ZwY3dRXjJV0.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "A0Ewl",
+        "text": "\n(i) and (iv)\n",
+        "image": null
+      },
+      {
+        "id": "8VMud",
+        "text": "\n(i) and (iii)\n",
+        "image": null
+      },
+      {
+        "id": "qMJME",
+        "text": "\n(ii) and (iv)\n",
+        "image": null
+      },
+      {
+        "id": "PN4WS",
+        "text": "\n(ii) and (iii)",
+        "image": null
+      }
+    ],
+    "correct_answer": "A0Ewl",
+    "solution_text": "Reaction is fusion and $4^{\\text {th }}$ reaction is fission.",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65824",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2008",
+    "paper_year_short": "2008",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "This question contains Statement $-1$ and Statement-2. Of the four choices given after the statements, choose the one that best describes the two statements.\nStatement - I:\nEnergy is released when heavy nuclei undergo fission or light nuclei undergo fusion. and\nStatement - II\nFor heavy nuclei, binding energy per nucleon increases with increasing $Z$ while for light nuclei it decrease with increasing $Z$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "11Ubo",
+        "text": "\nStatement $-1$ is false, Statement $-2$ is true.\n",
+        "image": null
+      },
+      {
+        "id": "wjQ8l",
+        "text": "\nStatement - 1is true, Statement $-2$ is true; Statement $-2$ is correct explanation for Statement-1.\n",
+        "image": null
+      },
+      {
+        "id": "Tb26g",
+        "text": "\nStatement $-1$ is true, Statement $-2$ is true; Statement $-2$ is not a correct explanation for Statement-1.\n",
+        "image": null
+      },
+      {
+        "id": "oMTi0",
+        "text": "\nStatement $-1$ is true, Statement $-2$ is False.",
+        "image": null
+      }
+    ],
+    "correct_answer": "oMTi0",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d657a5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2007",
+    "paper_year_short": "2007",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "If $\\mathrm{M_o}$ is the mass of an oxygen isotope $\\mathrm{{ }_8 O^{17}, M_p}$ and $\\mathrm{M_N}$ are the masses of a proton and a neutron respectively, the nuclear binding energy of the isotope is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "imZXu",
+        "text": "\n$\\mathrm{(M_o-8 M_p) C^2}$\n",
+        "image": null
+      },
+      {
+        "id": "0GLlW",
+        "text": "\n$\\mathrm{(M_o-8 M_p-9 M_N) C^2}$\n",
+        "image": null
+      },
+      {
+        "id": "8KKlF",
+        "text": "\n$\\mathrm{M_o C^2}$\n",
+        "image": null
+      },
+      {
+        "id": "mk3Ia",
+        "text": "\n$\\mathrm{(M_{\\mathrm{o}}-17 \\mathrm{M}_{\\mathrm{N}}) \\mathrm{C}^2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "0GLlW",
+    "solution_text": "Binding energy $=\\left(\\mathrm{M_o-8 M_P-9 M_N}\\right) \\mathrm{C^2}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65728",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A solid which is transparent to visible light and whose conductivity increases with temperature is formed by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "L0Aoa",
+        "text": "\nMetallic binding\n",
+        "image": null
+      },
+      {
+        "id": "XyND8",
+        "text": "\nIonic binding\n",
+        "image": null
+      },
+      {
+        "id": "dDPwO",
+        "text": "\nCovalent binding\n",
+        "image": null
+      },
+      {
+        "id": "ygM3i",
+        "text": "\nVan der Waals binding",
+        "image": null
+      }
+    ],
+    "correct_answer": "dDPwO",
+    "solution_text": "Covalent binding",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d653ae",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2002",
+    "paper_year_short": "2002",
+    "held_on": "2002-04-30T09:00:00.000Z",
+    "question_text": "If mass-energy equivalence is taken into account, when water is cooled to form ice, the mass of\nwater should",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ee5dk",
+        "text": "\nincrease\n",
+        "image": null
+      },
+      {
+        "id": "jDdBG",
+        "text": "\nremain unchanged\n",
+        "image": null
+      },
+      {
+        "id": "n1STN",
+        "text": "\ndecrease\n",
+        "image": null
+      },
+      {
+        "id": "sbUGY",
+        "text": "\nfirst increase then decrease",
+        "image": null
+      }
+    ],
+    "correct_answer": "ee5dk",
+    "solution_text": "Because thermal energy decreases, therefore mass should increase",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "6983c19b8bfdbb24356396d5",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (23 January Shift 2)",
+    "paper_year_short": "2026 (23 January Shift 2)",
+    "held_on": "2026-01-23T14:00:00.000Z",
+    "question_text": "The average energy released per fission for the nucleus of ${ }_{92}^{235} \\mathrm{U}$ is 190 MeV. When all the atoms of 47 g pure ${ }_{92}^{235} \\mathrm{U}$ undergo fission process, the energy released is $\\alpha \\times 10^{23} \\mathrm{MeV}$. The value of $\\alpha$ is $\\_\\_\\_\\_$. <br> (Avogadro Number $=6 \\times 10^{23}$ per mole)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 228,
+    "solution_text": "The number of $^{235}\\text{U}$ atoms in 47 g is determined using Avogadro's number.<br> Molar mass of $^{235}\\text{U}$ is 235 g/mol, so the number of moles is $n = 47/235$ mol. <br>The total number of atoms is $N = (47/235) \\times 6 \\times 10^{23}$.<br>Since each fission releases 190 MeV, the total energy released is:<br>$E_{total} = N \\times 190 = \\frac{47 \\times 6 \\times 10^{23}}{235} \\times 190 = \\frac{47 \\times 6 \\times 190}{235} \\times 10^{23}$ MeV.<br>Calculating the numerator: $47 \\times 6 \\times 190 = 282 \\times 190 = 53580$.<br>Therefore: $E_{total} = \\frac{53580}{235} \\times 10^{23} = 228 \\times 10^{23}$ MeV, giving $\\alpha = 228$.",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "68542c5d7c09d044e4c1a198",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (3 Apr Shift 1)",
+    "paper_year_short": "2025 (3 Apr Shift 1)",
+    "held_on": "2025-04-03T09:00:00.000Z",
+    "question_text": "Match the LIST-I with LIST-II<br/>$\\begin{array}{|l|l|l|l|}\\hline & \\text{LIST-I} & & \\text{LIST-II} \\\\ \\hline \\text{A.} & \\begin{array}{l} { }_0^1 \\mathrm{n}+{ }_{92}^{235} \\mathrm{U} \\\\ \\rightarrow{ }_{54}^{140} \\mathrm{Xe}+{ }_{38}^{94} \\mathrm{Sr}+2{ }_0^1 \\mathrm{n} \\end{array} & \\text{I.} & \\begin{array}{l} \\text{Chemical} \\\\ \\text{reaction} \\end{array} \\\\ \\hline \\text{B.} & 2 \\mathrm{H}_2+\\mathrm{O}_2 \\rightarrow 2 \\mathrm{H}_2 \\mathrm{O} & \\text{II.} & \\begin{array}{l} \\text{Fusion} \\\\ \\text{with +ve} \\\\ \\text{Q value} \\end{array} \\\\ \\hline \\text{C.} & { }_1^2 \\mathrm{H}+{ }_1^2 \\mathrm{H} \\rightarrow{ }_2^3 \\mathrm{He}+{ }_0^1 \\mathrm{n} & \\text{III.} & \\text{Fission} \\\\ \\hline \\text{D.} & { }_1^1 \\mathrm{H}+{ }_1^3 \\mathrm{H} \\rightarrow{ }_1^2 \\mathrm{H}+{ }_1^2 \\mathrm{H} & \\text{IV.} & \\begin{array}{l} \\text{Fusion} \\\\ \\text{with -ve Q} \\\\ \\text{value} \\end{array} \\\\ \\hline\\end{array}$<br/>Choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Na8mc",
+        "text": "A-II, B-I, C-III, D-IV",
+        "image": null
+      },
+      {
+        "id": "qW9mD",
+        "text": "A-III, B-I, C-II, D-IV",
+        "image": null
+      },
+      {
+        "id": "AoGbr",
+        "text": "A-II, B-I, C-IV, D-III",
+        "image": null
+      },
+      {
+        "id": "j9oKU",
+        "text": "A-III, B-I, C-IV, D-II",
+        "image": null
+      }
+    ],
+    "correct_answer": "qW9mD",
+    "solution_text": "Conceptual",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "6644675a970e6e9ab542d287",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (09 Apr Shift 2)",
+    "paper_year_short": "2024 (09 Apr Shift 2)",
+    "held_on": "2024-04-09T14:00:00.000Z",
+    "question_text": "The energy released in the fusion of $2 \\mathrm{~kg}$ of hydrogen deep in the sun is $E_H$ and the energy released in the fission of $2 \\mathrm{~kg}$ of ${ }^{235} \\mathrm{U}$ is $E_U$. The ratio $\\frac{E_H}{E_U}$ is approximately:\n(Consider the fusion reaction as $4 \\mid H+2 \\mathrm{e}^{-} \\rightarrow{ }_2^4 \\mathrm{He}+2 v+6 \\gamma+26.7 \\mathrm{MeV}$, energy released in the fission reaction of ${ }^{235} \\mathrm{U}$ is $200 \\mathrm{MeV}$ per fission nucleus and $\\mathrm{N}_{\\mathrm{A}}=$ $\\left.6.023 \\times 10^{23}\\right)$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6PaGR",
+        "text": "7.62",
+        "image": null
+      },
+      {
+        "id": "pClhT",
+        "text": "25.6",
+        "image": null
+      },
+      {
+        "id": "Kzpb6",
+        "text": "15.04",
+        "image": null
+      },
+      {
+        "id": "xy6TJ",
+        "text": "9.13",
+        "image": null
+      }
+    ],
+    "correct_answer": "6PaGR",
+    "solution_text": "In each fusion reaction, $4{ }_1^1 \\mathrm{H}$ nucleus are used. \nEnergy released per Nuclei of ${ }_1^1 \\mathrm{H}=\\frac{26.7}{4} \\mathrm{MeV}$\n$\\therefore$ Energy released by $2 \\mathrm{~kg}$ hydrogen $\\left(\\mathrm{E}_{\\mathrm{H}}\\right)$\n$=\\frac{2000}{1} \\times \\mathrm{N}_{\\mathrm{A}} \\times \\frac{26.7}{4} \\mathrm{MeV}$\n$\\qquad \\qquad\\quad \\&$\n$\\begin{aligned} & \\therefore \\text { Energy released by } 2 \\mathrm{~kg} \\text { Vranium }\\left(\\mathrm{E}_{\\mathrm{V}}\\right) \\\\ & =\\frac{2000}{235} \\times \\mathrm{N}_{\\mathrm{A}} \\times 200 \\mathrm{MeV}\\end{aligned}$\nSo,\n$\\frac{E_H}{E_V}=235 \\times \\frac{26.7}{4 \\times 200}=7.84$\n$\\therefore$ Approximately close to 7.62",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "66446747970e6e9ab542d1d6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (08 Apr Shift 2)",
+    "paper_year_short": "2024 (08 Apr Shift 2)",
+    "held_on": "2024-04-08T14:00:00.000Z",
+    "question_text": "In a hypothetical fission reaction\n${ }_{92} X^{236} \\rightarrow{ }_{56} Y^{141}+{ }_{36} Z^{92}+3 R$\nThe identity of emitted particles ( $\\mathrm{R})$ is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "L1jwn",
+        "text": "Electron",
+        "image": null
+      },
+      {
+        "id": "f5pIF",
+        "text": "Neutron",
+        "image": null
+      },
+      {
+        "id": "pAJqx",
+        "text": "$\\gamma$-radiations",
+        "image": null
+      },
+      {
+        "id": "m32s5",
+        "text": "Proton",
+        "image": null
+      }
+    ],
+    "correct_answer": "f5pIF",
+    "solution_text": "$\\begin{aligned}\n& \\mathrm{Z} \\text { in LHS }=92 \\\\\n& \\mathrm{Z} \\text { in } \\mathrm{RHS}=56+36=92 \\\\\n& \\mathrm{~A} \\text { in } \\mathrm{LHS}=236 \\\\\n& \\mathrm{~A} \\text { in } \\mathrm{RHS}=141+92=233\n\\end{aligned}$<br />So 3 neutrons are released.",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "66446717970e6e9ab542d01a",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (05 Apr Shift 1)",
+    "paper_year_short": "2024 (05 Apr Shift 1)",
+    "held_on": "2024-04-05T09:00:00.000Z",
+    "question_text": "If three helium nuclei combine to form a carbon nucleus then the energy released in this reaction is _____$\\times 10^{-2} \\mathrm{MeV}$. (Given $1 \\mathrm{u}=931 \\mathrm{MeV} / \\mathrm{c}^2$, atomic mass of helium $=4.002603 \\mathrm{u}$ )",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "727",
+    "solution_text": "Reaction :\n$\\begin{aligned}\n& 3{ }_2^4 \\mathrm{He} \\longrightarrow{ }_6^{12} \\mathrm{C}+\\gamma \\text { rays } \\\\\n& \\text { Mass defect }=\\Delta \\mathrm{m}=\\left(3 \\mathrm{~m}_{\\mathrm{He}}-\\mathrm{m}_{\\mathrm{C}}\\right) \\\\\n& =(3 \\times 4.002603-12)=0.007809 \\mathrm{u}\n\\end{aligned}$\nEnergy released\n$=931 \\Delta \\mathrm{m} \\mathrm{MeV}$\n$=7.27 \\mathrm{MeV}=727 \\times 10^{-2} \\mathrm{MeV}$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "66446702970e6e9ab542cf5d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (04 Apr Shift 1)",
+    "paper_year_short": "2024 (04 Apr Shift 1)",
+    "held_on": "2024-04-04T09:00:00.000Z",
+    "question_text": "Which of the following nuclear fragments corresponding to nuclear fission between neutron $\\left({ }_0^1 \\mathrm{n}\\right)$ and uranium isotope $\\left({ }_{92}^{235} \\mathrm{U}\\right)$ is correct :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "swTmA",
+        "text": "${ }_{56}^{144} \\mathrm{Ba}+{ }_{36}^{89} \\mathrm{Kr}+4{ }_0^1 \\mathrm{n}$",
+        "image": null
+      },
+      {
+        "id": "bt6DC",
+        "text": "${ }_{56}^{144} \\mathrm{Ba}+{ }_{36}^{89} \\mathrm{Kr}+3{ }_0^1 \\mathrm{n}$",
+        "image": null
+      },
+      {
+        "id": "iNCtd",
+        "text": "${ }_{56}^{140} \\mathrm{Xe}+{ }_{38}^{94} \\mathrm{Sr}+3{ }_0^1 \\mathrm{n}$",
+        "image": null
+      },
+      {
+        "id": "vJ2Iw",
+        "text": "${ }_{51}^{153} \\mathrm{Sb}+{ }_{41}^{99} \\mathrm{Nb}+3{ }_0^1 \\mathrm{n}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "bt6DC",
+    "solution_text": "Balancing mass number and atomic number\n${ }_{92}^{235} \\mathrm{U}+{ }_0^1 \\mathrm{n} \\rightarrow{ }_{56}^{144} \\mathrm{Ba}+{ }_{36}^{89} \\mathrm{Kr}+3{ }_0^1 \\mathrm{n}$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "6682bd8dba0e94a3c4025d5b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (30 Jan Shift 2)",
+    "paper_year_short": "2024 (30 Jan Shift 2)",
+    "held_on": "2024-01-30T14:00:00.000Z",
+    "question_text": "In a nuclear fission reaction of an isotope of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>, three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>M</mi></math> will be :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "e7a52",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mn>2</mn><mi>c</mi><mi>Δ</mi><mi>M</mi></mrow><mi>M</mi></mfrac></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "A6YI5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Δ</mi><mi>M</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "ZPGe9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><msqrt><mfrac><mrow><mn>2</mn><mi>Δ</mi><mi>M</mi></mrow><mi>M</mi></mfrac></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "7oJie",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><msqrt><mfrac><mrow><mn>3</mn><mi>Δ</mi><mi>M</mi></mrow><mi>M</mi></mfrac></msqrt></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZPGe9",
+    "solution_text": "<blockquote><p>Let the reaction be, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">P</mi><mo>)</mo><mo>→</mo><mo>(</mo><mi mathvariant=\"normal\">X</mi><mo>)</mo><mo>+</mo><mo>(</mo><mi mathvariant=\"normal\">Y</mi><mo>)</mo><mo>+</mo><mo>(</mo><mi mathvariant=\"normal\">Z</mi><mo>)</mo></math></p><p>Let mass of each daughter nuclei be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>, then mass defect can be written as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∆</mo><mi>M</mi><mo>=</mo><mi>M</mi><mo>-</mo><mn>3</mn><mi>m</mi></math>.</p><p>Now the energy released will be in the form of kinetic energy of the daughter nuclei. Therefore, </p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>M</mi><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>V</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>V</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>V</mi><mn>2</mn></msup><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mi>V</mi><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>Δ</mi><mi>M</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn><mi>m</mi></mrow></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>Δ</mi><mi>M</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><mi>M</mi><mo>-</mo><mo>∆</mo><mi>M</mi></mrow></mfrac></msqrt><mo>≈</mo><mi>c</mi><msqrt><mfrac><mrow><mn>2</mn><mi>Δ</mi><mi>M</mi></mrow><mi>M</mi></mfrac></msqrt></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "6682bd8dba0e94a3c4025d5c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (29 Jan Shift 1)",
+    "paper_year_short": "2024 (29 Jan Shift 1)",
+    "held_on": "2024-01-29T09:00:00.000Z",
+    "question_text": "The explosive in a Hydrogen bomb is a mixture of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>2</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts><mo>,</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>3</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Li</mi><none></none><mn>6</mn><mprescripts></mprescripts><mn>3</mn><none></none></mmultiscripts></math> in some condensed form. The chain reaction is given by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Li</mi><none></none><mn>6</mn><mprescripts></mprescripts><mn>3</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><none></none><mn>1</mn><mprescripts></mprescripts><mn>0</mn><none></none></mmultiscripts><mo>→</mo><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>3</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts></math>;&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>2</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>3</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts><mo>→</mo><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><none></none><mn>1</mn><mprescripts></mprescripts><mn>0</mn><none></none></mmultiscripts></math></p><p>During the explosion the energy released is approximately [Given : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mo>(</mo><mi>Li</mi><mo>)</mo><mo>=</mo><mn>6</mn><mo>.</mo><mn>01690</mn><mo> </mo><mi>amu</mi><mo mathvariant=\"italic\">,</mo><mo mathvariant=\"italic\"> </mo><mi>M</mi><mfenced><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>2</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts></mfenced><mo>=</mo><mn>2</mn><mo>.</mo><mn>01471</mn><mo> </mo><mi>amu</mi><mo>,</mo><mo> </mo><mi>M</mi><mfenced><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts></mfenced><mo>=</mo><mn>4</mn><mo>.</mo><mn>00388</mn><mo> </mo><mi>amu</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo> </mo><mi>amu</mi><mo>=</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo> </mo><mi>MeV</mi></math>]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MO4ex",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>28</mn><mo>.</mo><mn>12</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "CC7cR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mo>.</mo><mn>64</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "a0faG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn><mo>.</mo><mn>48</mn><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "LLOum",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>22</mn><mo>.</mo><mn>22</mn><mi>MeV</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LLOum",
+    "solution_text": "<p>Combining the reactions, it can be written that</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Li</mi><none></none><mn>6</mn><mprescripts></mprescripts><mn>3</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><none></none><mn>1</mn><mprescripts></mprescripts><mn>0</mn><none></none></mmultiscripts><mo>→</mo><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>3</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>2</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>3</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts><mo>→</mo><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">n</mi><none></none><mn>1</mn><mprescripts></mprescripts><mn>0</mn><none></none></mmultiscripts></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mi>_</mi><mspace linebreak=\"newline\"></mspace><mmultiscripts><mi>Li</mi><none></none><mn>6</mn><mprescripts></mprescripts><mn>3</mn><none></none></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>2</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts><mo>→</mo><mn>2</mn><mfenced><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts></mfenced></math></p><p>Hence, the energy released in process can be calculated as follows</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable columnalign=\"right center left\" columnspacing=\"0px\"><mtr><mtd><mi>Q</mi></mtd><mtd><mo>=</mo></mtd><mtd><mi>Δ</mi><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mfenced close=\"]\" open=\"[\"><mrow><mi>M</mi><mo>(</mo><mi>Li</mi><mo>)</mo><mo>+</mo><mi>M</mi><mfenced><mmultiscripts><mi mathvariant=\"normal\">H</mi><none></none><mn>2</mn><mprescripts></mprescripts><mn>1</mn><none></none></mmultiscripts></mfenced><mo>-</mo><mn>2</mn><mo>×</mo><mi>M</mi><mfenced><mmultiscripts><mi>He</mi><none></none><mn>4</mn><mprescripts></mprescripts><mn>2</mn><none></none></mmultiscripts></mfenced></mrow></mfenced><mo>×</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo> </mo><mi>MeV</mi></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mo>[</mo><mn>6</mn><mo>.</mo><mn>01690</mn><mo>+</mo><mn>2</mn><mo>.</mo><mn>01471</mn><mo>-</mo><mn>2</mn><mo>×</mo><mn>4</mn><mo>.</mo><mn>00388</mn><mo>]</mo><mo>×</mo><mn>931</mn><mo>.</mo><mn>5</mn><mo> </mo><mi>MeV</mi></mtd></mtr><mtr><mtd></mtd><mtd><mo>=</mo></mtd><mtd><mn>22</mn><mo>.</mo><mn>22</mn><mo> </mo><mi>MeV</mi></mtd></mtr></mtable></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d68011",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (24 Jan Shift 2)",
+    "paper_year_short": "2023 (24 Jan Shift 2)",
+    "held_on": "2023-01-24T14:00:00.000Z",
+    "question_text": "<p>The energy released per fission of nucleus of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">X</mi><mprescripts></mprescripts><none></none><mn>240</mn></mmultiscripts></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mo>&#160;</mo><mi>MeV</mi></math>. The energy released if all the atoms in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>120</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math> of pure <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">X</mi><mprescripts></mprescripts><none></none><mn>240</mn></mmultiscripts></math> undergo fission is _____<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#215;</mo><msup><mn>10</mn><mn>25</mn></msup><mo>&#160;</mo><mi>MeV</mi></math>. &nbsp;</p><p>(Given <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mi>A</mi></msub><mo>=</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>23</mn></msup></math>) &nbsp;&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>Energy released per fission is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mo>&#160;</mo><mi>MeV</mi></math>.</p><p>The number of atoms <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>120</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi></math>:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mfrac><mn>120</mn><mn>240</mn></mfrac><mo>&#215;</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>23</mn></msup><mo>&#160;</mo><mtext>atoms</mtext><mo>.</mo></math></p><p>Total energy released,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mi>n</mi><mo>&#215;</mo><mn>200</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>25</mn></msup><mo>&#160;</mo><mi>MeV</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d679c0",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jul Shift 2)",
+    "paper_year_short": "2022 (26 Jul Shift 2)",
+    "held_on": "2022-07-26T14:00:00.000Z",
+    "question_text": "<p>Two lighter nuclei combine to form a comparatively heavier nucleus by the relation given below:</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>X</mi><mprescripts></mprescripts><mn>1</mn><mn>2</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi>X</mi><mprescripts></mprescripts><mn>1</mn><mn>2</mn></mmultiscripts><mo>=</mo><mmultiscripts><mi>Y</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts></math></p><p>&nbsp;The binding energies per nucleon <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>X</mi><mprescripts></mprescripts><mn>1</mn><mn>2</mn></mmultiscripts></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Y</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts></math> are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>1</mn><mi>MeV</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>6</mn><mi>MeV</mi></math> respectively. The energy released in this process is_____ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MeV</mi></math>.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "26",
+    "solution_text": "<blockquote><p>Energy released in the given process <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> Binding energy of product <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo></math> Binding energy of reactants.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>7</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><mn>4</mn><mo>-</mo><mfenced><mrow><mn>1</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><mn>2</mn></mrow></mfenced><mo>&#215;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>30</mn><mo>.</mo><mn>4</mn><mo>-</mo><mn>4</mn><mo>.</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>26</mn><mi>MeV</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a6e417cc3fb48d67e99",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (29 Jun Shift 2)",
+    "paper_year_short": "2022 (29 Jun Shift 2)",
+    "held_on": "2022-06-29T14:00:00.000Z",
+    "question_text": "In the following nuclear reaction,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mover><mo>&#8594;</mo><mi>&#945;</mi></mover><msub><mi>D</mi><mn>1</mn></msub><mover><mo>&#8594;</mo><msup><mi>&#946;</mi><mo>-</mo></msup></mover><msub><mi>D</mi><mn>2</mn></msub><mover><mo>&#8594;</mo><mi>&#945;</mi></mover><msub><mi>D</mi><mn>3</mn></msub><mover><mo>&#8594;</mo><mi>&#947;</mi></mover><msub><mi>D</mi><mn>4</mn></msub></math><br />Mass number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>182</mn></math> and atomic number is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>74</mn></math> . Mass number and atomic number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>D</mi><mn>4</mn></msub></math> respectively will be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Uas4H",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>174</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>71</mn></math>",
+        "image": null
+      },
+      {
+        "id": "XyxbR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>174</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>69</mn></math>",
+        "image": null
+      },
+      {
+        "id": "T74Qc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>172</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>69</mn></math>",
+        "image": null
+      },
+      {
+        "id": "w3lkg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>172</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>71</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Uas4H",
+    "solution_text": "<p>Equivalent reaction can be written as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>&#8594;</mo><msub><mi>D</mi><mn>4</mn></msub><mo>+</mo><mn>2</mn><mi>&#945;</mi><mo>+</mo><msup><mi>&#946;</mi><mo>-</mo></msup><mo>+</mo><mi>&#947;</mi></math></p><p>So, mass number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>D</mi><mn>4</mn></msub><mo>=</mo></math>mass number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>4</mn><mo>=</mo><mn>182</mn><mo>-</mo><mn>8</mn><mo>=</mo><mn>174</mn></math></p><p>Atomic number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>D</mi><mn>4</mn></msub><mo>=</mo></math>atomic number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>2</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>74</mn><mo>-</mo><mn>4</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>71</mn></math></p><p>The reaction is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>D</mi><mprescripts></mprescripts><mn>74</mn><mn>182</mn></mmultiscripts><munder><mo>&#10230;</mo><mi>&#945;</mi></munder><mmultiscripts><mi>D</mi><mn>1</mn><none></none><mprescripts></mprescripts><mn>72</mn><mn>178</mn></mmultiscripts><munder><mo>&#10230;</mo><msup><mi>&#946;</mi><mo>-</mo></msup></munder><mmultiscripts><mi>D</mi><mn>2</mn><none></none><mprescripts></mprescripts><mn>73</mn><mn>178</mn></mmultiscripts><munder><mo>&#10230;</mo><mi>&#945;</mi></munder><mmultiscripts><mi>D</mi><mn>3</mn><none></none><mprescripts></mprescripts><mn>71</mn><mn>174</mn></mmultiscripts><munder><mo>&#8594;</mo><mi>&#947;</mi></munder><mmultiscripts><mi>D</mi><mn>4</mn><none></none><mprescripts></mprescripts><mn>71</mn><mn>174</mn></mmultiscripts></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d67035",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (18 Mar Shift 2)",
+    "paper_year_short": "2021 (18 Mar Shift 2)",
+    "held_on": "2021-03-18T14:00:00.000Z",
+    "question_text": "The decay of a proton to neutron is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uLVuU",
+        "text": "not possible as proton mass is less than the neutron mass",
+        "image": null
+      },
+      {
+        "id": "liHaw",
+        "text": "possible only inside the nucleus",
+        "image": null
+      },
+      {
+        "id": "kUiWF",
+        "text": "not possible but neutron to proton conversion is possible",
+        "image": null
+      },
+      {
+        "id": "mwUsj",
+        "text": "always possible as it is associated only with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>+</mo></msup></math>&nbsp;decay",
+        "image": null
+      }
+    ],
+    "correct_answer": "liHaw",
+    "solution_text": "<p style=\"text-align: justify;\">It is possible only inside the nucleus and not otherwise as it can not decay to a state of greater mass. Inside a nucleus however, the situation is different, as the binding energy of a nucleus provides the necessary energy&nbsp;to compensate for the neutron-proton mass difference.</p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66c0b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (06 Sep Shift 2)",
+    "paper_year_short": "2020 (06 Sep Shift 2)",
+    "held_on": "2020-09-06T14:00:00.000Z",
+    "question_text": "Given the masses of various atomic particles&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">P</mi></msub><mo>=</mo><mn>1</mn><mo>,</mo><mn>0072</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">n</mi></msub><mo>=</mo><mn>1</mn><mo>,</mo><mn>0087</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">e</mi></msub><mo>=</mo><mn>0</mn><mo>.000548</mo><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mover><mi mathvariant=\"normal\">v</mi><mo>&#175;</mo></mover></msub><mo>=</mo><mn>0</mn></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">d</mi></msub><mo>=</mo><mn>2</mn><mo>.0141</mo><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">p</mi><mo>=</mo></math>proton,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>&#8801;</mo></math>neutron,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">e</mi><mo>&#8801;</mo></math>electron,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">v</mi><mo>&#175;</mo></mover><mo>&#8801;</mo></math>antineutrino and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">d</mi><mo>&#175;</mo></mover><mo>&#8801;</mo></math>deuteron. Which of the following process is allowed by momentum and energy conservation :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0lNik",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"normal\">n</mi><mo>&#8594;</mo></math>&nbsp;deuterium atom (electron bound to the nucleus)",
+        "image": null
+      },
+      {
+        "id": "KijC2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">p</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><msup><mi mathvariant=\"normal\">e</mi><mo>+</mo></msup><mo>+</mo><mover><mi mathvariant=\"normal\">v</mi><mo>&#175;</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "lf9fA",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"normal\">p</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">d</mi><mo>+</mo><mi mathvariant=\"normal\">&#947;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "aXeAO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">e</mi><mo>+</mo></msup><mo>+</mo><msup><mi mathvariant=\"normal\">e</mi><mo>&#8722;</mo></msup><mo>&#8594;</mo><mi mathvariant=\"normal\">&#947;</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lf9fA",
+    "solution_text": "<p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"normal\">p</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">d</mi><mo>+</mo><mi mathvariant=\"normal\">&#947;</mi></math>,</p><p>The mass defect,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>m</mi><mo>=</mo><msub><mi>m</mi><mi>p</mi></msub><mo>+</mo><msub><mi>m</mi><mi>n</mi></msub><mo>-</mo><msub><mi>m</mi><mi>d</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#8710;</mo><mi>m</mi><mo>=</mo><mn>1</mn><mo>.</mo><mn>0072</mn><mo>+</mo><mn>1</mn><mo>.</mo><mn>0087</mn><mo>-</mo><mn>2</mn><mo>.</mo><mn>0141</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#8710;</mo><mi>m</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>0018</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#8710;</mo><mi>m</mi><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>only</mi><mo>&#160;</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"normal\">p</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">d</mi><mo>+</mo><mi mathvariant=\"normal\">&#947;</mi><mo>&#160;</mo><mi>is</mi><mo>&#160;</mo><mi>possible</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a67417cc3fb48d666fe",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (10 Jan Shift 2)",
+    "paper_year_short": "2019 (10 Jan Shift 2)",
+    "held_on": "2019-01-10T14:00:00.000Z",
+    "question_text": "Consider the nuclear fission,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ne</mi><mn>20</mn></msup><mo>&#8594;</mo><mn>2</mn><msup><mi>He</mi><mn>4</mn></msup><mo>+</mo><msup><mi mathvariant=\"normal\">C</mi><mn>12</mn></msup></math>.&nbsp;Given that the binding energy/nucleon of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Ne</mi><mn>20</mn></msup><mo>,</mo><mo>&#160;</mo><msup><mi>He</mi><mn>4</mn></msup><mtext>&#8201;</mtext></math>and<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#8201;</mtext><msup><mi mathvariant=\"normal\">C</mi><mn>12</mn></msup></math>&nbsp;are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8.03</mn><mtext>&#8201;</mtext><mi>MeV</mi><mo>,</mo><mo>&#160;</mo><mn>7.86</mn><mo>&#160;</mo><mi>MeV</mi></math>, respectively.&nbsp;Identify the correct statement:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IJenn",
+        "text": "Energy of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi>MeV</mi></math> will be supplied.",
+        "image": null
+      },
+      {
+        "id": "wJX6a",
+        "text": "Energy of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>72</mn><mo>&#160;</mo><mi>MeV</mi></math> has to be supplied.",
+        "image": null
+      },
+      {
+        "id": "xa9uu",
+        "text": "Energy of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>MeV</mi></math> will be released.",
+        "image": null
+      },
+      {
+        "id": "RP1MJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>.</mo><mn>3</mn><mo>&#160;</mo><mi>MeV</mi></math> energy will be released.",
+        "image": null
+      }
+    ],
+    "correct_answer": "wJX6a",
+    "solution_text": "<math><mi>Q</mi><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>-</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>i</mi></mrow></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced separators=\"|\"><mrow><mn>12</mn><mo>&#215;</mo><mn>7.86</mn><mo>+</mo><mn>4</mn><mo>&#215;</mo><mn>7.07</mn><mo>+</mo><mn>4</mn><mo>&#215;</mo><mn>7.07</mn></mrow></mfenced><mo>-</mo><mo>(</mo><mn>20</mn><mo>&#215;</mo><mn>8.03</mn><mo>)</mo></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mo>-</mo><mn>9.72</mn><mtext>&#8201;</mtext><mi>MeV</mi></math>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d662c8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (15 Apr Shift 2 Online)",
+    "paper_year_short": "2018 (15 Apr Shift 2 Online)",
+    "held_on": "2018-04-15T14:00:00.000Z",
+    "question_text": "An unstable heavy nucleus at rest breaks into two nuclei which move away with velocities in the ratio of $8: 27$. The ratio of the radii of the nuclei (assumed to be spherical ) is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "R9adP",
+        "text": "\n$8: 27$\n",
+        "image": null
+      },
+      {
+        "id": "JXwWa",
+        "text": "\n$2: 3$\n",
+        "image": null
+      },
+      {
+        "id": "1pfuw",
+        "text": "\n$3: 2$\n",
+        "image": null
+      },
+      {
+        "id": "txuq4",
+        "text": "\n$4: 9$",
+        "image": null
+      }
+    ],
+    "correct_answer": "1pfuw",
+    "solution_text": "Let heavy nucleus breaks into two nuclei of mass $m_1$ and $m_2$ and move away with velocities $V_1$ and $V_2$ respectively.\nAccording to question, $\\frac{V_1}{V_2}=\\frac{8}{27}$ $m_1 V_1=m_2 V_2$ (Law of momentum conservation)\n$$\n\\begin{aligned}\n&\\Rightarrow \\frac{m_1}{m_2}=\\frac{V_2}{V_1}=\\frac{27}{8} \\\\\n&\\frac{\\rho \\times \\frac{4}{3} \\pi R_1^3}{\\rho \\times \\frac{4}{3} \\pi R_2^3} \\quad\\left(\\because \\text { density } \\rho=\\frac{\\text { mass }}{\\text { volume }}\\right)\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n&\\Rightarrow\\left(\\frac{\\mathrm{R}_1}{\\mathrm{R}_2}\\right)=\\left(\\frac{27}{8}\\right)^{\\frac{1}{3}}=\\left(\\frac{3}{2}\\right)^{3 \\times \\frac{1}{3}} \\\\\n&\\therefore \\frac{\\mathrm{R}_1}{\\mathrm{R}_2}=\\frac{3}{2}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d66157",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2017 (08 Apr Online)",
+    "paper_year_short": "2017 (08 Apr Online)",
+    "held_on": "2017-04-08T09:00:00.000Z",
+    "question_text": "Two deuterons undergo nuclear fusion to form a Helium nucleus. The energy released in this process is (given binding energy per nucleon for deuteron<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mtext>1.1</mtext><mo>&#160;</mo><mi>MeV</mi></math> and for helium<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mtext>7.0</mtext><mo>&#160;</mo><mi>MeV</mi></math>)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zMYOd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>23.6</mtext><mo>&#160;</mo><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "svI11",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>30.2</mtext><mo>&#xA0;</mo><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "icVpR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>25.8</mtext><mo>&#xA0;</mo><mi>MeV</mi></math>",
+        "image": null
+      },
+      {
+        "id": "NDHiS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>32.4</mtext><mo>&#xA0;</mo><mi>MeV</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "zMYOd",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mo>&#8721;</mo><mi mathvariant=\"normal\">B</mi><mo>.</mo><mi mathvariant=\"normal\">E</mi><mo>.</mo><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mi mathvariant=\"normal\">&#160;</mi><mi>products</mi><mo>-</mo><mi mathvariant=\"normal\">&#160;</mi><mo>&#8721;</mo><mi mathvariant=\"normal\">B</mi><mo>.</mo><mi mathvariant=\"normal\">E</mi><mo>.</mo><mi mathvariant=\"normal\">&#160;</mi><mi>of</mi><mi mathvariant=\"normal\">&#160;</mi><mi>reactants</mi></math><br /><br />The equation for two deuterons combining to form Helium nucleus is given as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">H</mi><mn>2</mn></msup><msub><mo>+</mo><mn>1</mn></msub><msup><mi mathvariant=\"normal\">H</mi><mn>2</mn></msup><msub><mo>&#8594;</mo><mn>2</mn></msub><msup><mi mathvariant=\"normal\">H</mi><mn>4</mn></msup><mi mathvariant=\"normal\">&#160;</mi></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Energy</mi><mi mathvariant=\"normal\">&#160;</mi><mi>released</mi><mo>=</mo><mi mathvariant=\"normal\">Q</mi><mo>=</mo><mn>4</mn><mfenced close=\"]\" open=\"[\"><mrow><mi mathvariant=\"normal\">B</mi><mo>.</mo><mi mathvariant=\"normal\">E</mi><mo>.</mo><mfenced><mrow><msub><mrow></mrow><mn>2</mn></msub><msup><mi mathvariant=\"normal\">H</mi><mn>4</mn></msup></mrow></mfenced></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mo>-</mo><mn>4</mn><mfenced close=\"]\" open=\"[\"><mrow><mi mathvariant=\"normal\">B</mi><mo>.</mo><mi mathvariant=\"normal\">E</mi><mo>.</mo><mfenced><mrow><msub><mrow></mrow><mn>1</mn></msub><msup><mi mathvariant=\"normal\">H</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfenced><mo>&#160;&#160;</mo></math><br />&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>&#215;</mo><mn>7</mn><mo>&#8722;</mo><mn>4</mn><mo>&#215;</mo><mtext>1.1</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>28</mn><mo>&#8722;</mo><mtext>4.4</mtext></math></p><p>The energy released in this process is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mtext>23.6</mtext><mo>&#160;</mo><mi>MeV</mi></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65bbd",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (09 Apr Online)",
+    "paper_year_short": "2013 (09 Apr Online)",
+    "held_on": "2013-04-09T09:00:00.000Z",
+    "question_text": "When Uranium is bombarded with neutrons, it undergoes fission. The fission reaction can be written as :\n${ }_{92} \\mathrm{U}^{235}+{ }_0 n^1 \\rightarrow{ }_{56} \\mathrm{Ba}^{141}+{ }_{36} \\mathrm{Kr}^{92}+3 x+\\mathrm{Q}($ energy)\nwhere three particles named $x$ are produced and energy $\\mathrm{Q}$ is released. What is the name of the particle $x$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "a1KdE",
+        "text": "\nelectron\n",
+        "image": null
+      },
+      {
+        "id": "yzRHo",
+        "text": "\n$\\alpha$-particle\n",
+        "image": null
+      },
+      {
+        "id": "dPpbs",
+        "text": "\nneutron\n",
+        "image": null
+      },
+      {
+        "id": "rHgHC",
+        "text": "\nneutrino",
+        "image": null
+      }
+    ],
+    "correct_answer": "dPpbs",
+    "solution_text": "Nuclear fission equation\n$\\begin{aligned}\n{ }_{92} \\mathrm{U}^{135}+{ }_0 \\mathrm{n}^1 \\longrightarrow & { }_{56} \\mathrm{Ba}^{141}+{ }_{36} \\mathrm{Kr}^{92} \\\\\n& +3{ }_0 \\mathrm{n}^1+\\mathrm{Q}(\\text { energy })\n\\end{aligned}$\nHence particle $\\mathrm{x}$ is neutron.",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d658e3",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2010",
+    "paper_year_short": "2010",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A nucleus of mass $M+\\Delta m$ is at rest and decays into two daughter nuclei of equal mass $\\frac{M}{2}$ each. Speed of light is $\\mathrm{C}$.\nThe speed of daughter nuclei is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EXFPs",
+        "text": "\n$c \\frac{\\Delta m}{M+\\Delta m}$\n",
+        "image": null
+      },
+      {
+        "id": "YiGKI",
+        "text": "\n$c \\sqrt{\\frac{2 \\Delta m}{M}}$\n",
+        "image": null
+      },
+      {
+        "id": "y5AkR",
+        "text": "\n$c \\sqrt{\\frac{\\Delta \\mathrm{m}}{\\mathrm{M}}}$\n",
+        "image": null
+      },
+      {
+        "id": "OU42A",
+        "text": "\n$c \\sqrt{\\frac{\\Delta m}{M+\\Delta m}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "YiGKI",
+    "solution_text": "Conserving the momentum\n$$\n\\begin{gathered}\n0=\\frac{\\mathrm{M}}{2} \\mathrm{~V}_1-\\frac{\\mathrm{M}}{2} \\mathrm{~V}_2 \\\\\n\\mathrm{~V}_1=\\mathrm{V}_2 \\quad \\quad \\ldots \\ldots (1) \\\\\n\\Delta \\mathrm{mc}^2=\\frac{1}{2} \\cdot \\frac{\\mathrm{M}}{2} \\mathrm{~V}_1^2+\\frac{1}{2} \\cdot \\frac{\\mathrm{M}}{2} \\cdot \\mathrm{V}_2^2 \\quad \\quad \\ldots \\ldots (2)\\\\\n\\Delta \\mathrm{mc}^2=\\frac{\\mathrm{M}}{2} \\mathrm{~V}_1^2 \\\\\n\\frac{2 \\Delta \\mathrm{mc}^2}{\\mathrm{M}}=\\mathrm{V}_1^2 \\\\\n\\mathrm{~V}_1=\\mathrm{c} \\sqrt{\\frac{2 \\Delta \\mathrm{m}}{\\mathrm{M}}}\n\\end{gathered}\n$$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65735",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If the binding energy per nucleon in ${ }_3^7 \\mathrm{Li}$ and ${ }_2^4 \\mathrm{He}$ nuclei are $5.60 \\mathrm{MeV}$ and $7.06 \\mathrm{MeV}$ respectively, then in the reaction\n$\\mathrm{p}+{ }_3^7 \\mathrm{Li} \\rightarrow 2{ }_2^4 \\mathrm{He}$\nenergy of proton must be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lvaSz",
+        "text": "\n$39.2 \\mathrm{MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "1TRNJ",
+        "text": "\n$28.24 \\mathrm{MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "ESE43",
+        "text": "\n$17.28 \\mathrm{MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "TKR1Q",
+        "text": "\n$1.46 \\mathrm{MeV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ESE43",
+    "solution_text": "$=(8 \\times 7.06-7 \\times 5.60) \\mathrm{MeV}=17.28 \\mathrm{MeV}$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65727",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "When ${ }_3 \\mathrm{Li}^{\\prime}$ nuclei are bombarded by protons, and the resultant nuclei are ${ }_4 \\mathrm{Be}^8$, the emitted particles will be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SHKnq",
+        "text": "\nneutrons\n",
+        "image": null
+      },
+      {
+        "id": "4bvrJ",
+        "text": "\nalpha particles\n",
+        "image": null
+      },
+      {
+        "id": "GvFcs",
+        "text": "\nbeta particles\n",
+        "image": null
+      },
+      {
+        "id": "H6grp",
+        "text": "\ngamma photons",
+        "image": null
+      }
+    ],
+    "correct_answer": "H6grp",
+    "solution_text": "Gamma-photon",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65654",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2005",
+    "paper_year_short": "2005",
+    "held_on": "2005-04-30T09:00:00.000Z",
+    "question_text": "A nuclear transformation is denoted by $X(n, \\alpha){ }_3^7 \\mathrm{Li}$. Which of the following is the nucleus of element $X$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "lDlvH",
+        "text": "\n${ }^{12} \\mathrm{C}_6$\n",
+        "image": null
+      },
+      {
+        "id": "IJxmG",
+        "text": "\n${ }_5^{10} \\mathrm{~B}$\n",
+        "image": null
+      },
+      {
+        "id": "ferXu",
+        "text": "\n${ }_5^{9} \\mathrm{~B}$\n",
+        "image": null
+      },
+      {
+        "id": "BeP2B",
+        "text": "\n${ }_4^{11} \\mathrm{~Be}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "IJxmG",
+    "solution_text": "$\\mathrm{X}+{ }_0^1 \\mathrm{n} \\rightarrow{ }_2^4 \\mathrm{He}+{ }_3^7 \\mathrm{Li}$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d6558a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2004",
+    "paper_year_short": "2004",
+    "held_on": "2004-04-30T09:00:00.000Z",
+    "question_text": "The binding energy per nucleon of deuteron $\\left({ }_1^2 \\mathrm{H}\\right)$ and helium nucleus $\\left({ }_2^4 \\mathrm{He}\\right)$ is $1.1 \\mathrm{MeV}$ and $7 \\mathrm{MeV}$ respectively. If two deuteron nuclei react to form a single helium nucleus, then the energy released is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bSk8r",
+        "text": "\n$13.9 \\mathrm{MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "3XpCP",
+        "text": "\n$26.9 \\mathrm{MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "G9VOf",
+        "text": "\n$23.6 \\mathrm{MeV}$\n",
+        "image": null
+      },
+      {
+        "id": "endyS",
+        "text": "\n$19.2 \\mathrm{MeV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "G9VOf",
+    "solution_text": "Energy released $=$ total binding energy of product $-$ total binding energy of reactants $\\Rightarrow 28-(2 \\times 2.2)=28-4.4=236 \\mathrm{MeV}$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65491",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2003",
+    "paper_year_short": "2003",
+    "held_on": "2003-04-30T09:00:00.000Z",
+    "question_text": "A nucleus with $\\mathrm{Z}=92$ emits the following in a sequence:\n$\\alpha, \\beta^{-}, \\beta^{-} \\alpha, \\alpha, \\alpha, \\alpha, \\alpha, \\beta^{-}, \\beta^{-}, \\alpha, \\beta^{+}, \\beta^{+}, \\alpha$. Then $\\mathrm{Z}$ of the resulting nucleus is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vqWOY",
+        "text": "\n$76$\n",
+        "image": null
+      },
+      {
+        "id": "lXc8l",
+        "text": "\n$78$\n",
+        "image": null
+      },
+      {
+        "id": "h5fuq",
+        "text": "\n$82$\n",
+        "image": null
+      },
+      {
+        "id": "Z01Lg",
+        "text": "\n$74$",
+        "image": null
+      }
+    ],
+    "correct_answer": "lXc8l",
+    "solution_text": "No. of $\\alpha$ particles emitted $=8, \\quad$ No. of $\\beta^{-}$particles emitted $=4, \\quad$ No.of $\\beta^{+}$particles emitted $=2$\n$z=92-2 \\times 8+4-2=78$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65476",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2003",
+    "paper_year_short": "2003",
+    "held_on": "2003-04-30T09:00:00.000Z",
+    "question_text": "When a $U^{238}$ nucleus originally at rest, decays by emitting an alpha particle having a speed ' $u$ ', the recoil speed of the residual nucleus is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MEuLd",
+        "text": "\n$\\frac{4 \\mathrm{u}}{238}$\n",
+        "image": null
+      },
+      {
+        "id": "mwVsQ",
+        "text": "\n$-\\frac{4 \\mathrm{u}}{234}$\n",
+        "image": null
+      },
+      {
+        "id": "16jrL",
+        "text": "\n$\\frac{4 \\mathrm{u}}{234}$\n",
+        "image": null
+      },
+      {
+        "id": "OMUBl",
+        "text": "\n$-\\frac{4 \\mathrm{u}}{238}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "MEuLd",
+    "solution_text": "Applying the principle of conservation of linear momentum\n(4) $(\\mathrm{u})=(\\mathrm{v})(238) \\Rightarrow \\mathrm{v}=\\frac{4 \\mathrm{u}}{238}$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "6983c1b28bfdbb24356397fa",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (28 January Shift 2)",
+    "paper_year_short": "2026 (28 January Shift 2)",
+    "held_on": "2026-01-28T14:00:00.000Z",
+    "question_text": "A nucleus has mass number $\\alpha$ and radius $R_{\\alpha}$. Another nucleus has mass number $\\beta$ and radius $R_{\\beta}$. If $\\beta=8 \\alpha$ then $R_{\\alpha} / R_{\\beta}$ is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kHsxl",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "eHDfu",
+        "text": "0.5",
+        "image": null
+      },
+      {
+        "id": "dnSWe",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "V83aJ",
+        "text": "1",
+        "image": null
+      }
+    ],
+    "correct_answer": "eHDfu",
+    "solution_text": "Nuclear radius follows $R = R_0 A^{1/3}$ where $A$ is mass number. <br>Given $\\beta = 8\\alpha$, we have $R_\\alpha = R_0 \\alpha^{1/3}$ and $R_\\beta = R_0 (8\\alpha)^{1/3} = R_0 \\cdot 2 \\alpha^{1/3} = 2R_\\alpha$. <br>Thus $R_\\alpha/R_\\beta = 1/2 = 0.5$.",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6983c1ab8bfdbb24356397a9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (28 January Shift 1)",
+    "paper_year_short": "2026 (28 January Shift 1)",
+    "held_on": "2026-01-28T09:00:00.000Z",
+    "question_text": "An atom ${ }_{3}^{8} X$ is bombarded by shower of fundamental particles and in 10 s this atom absorbed 10 electrons, 10 protons and 9 neutrons. The percentage growth in the surface area of the nucleons is recorded by:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4447922456",
+        "text": "$250 \\%$",
+        "image": null
+      },
+      {
+        "id": "4447922453",
+        "text": "$150 \\%$",
+        "image": null
+      },
+      {
+        "id": "4447922454",
+        "text": "$900 \\%$",
+        "image": null
+      },
+      {
+        "id": "4447922455",
+        "text": "$125 \\%$",
+        "image": null
+      }
+    ],
+    "correct_answer": "4447922455",
+    "solution_text": "Surface area $x \\propto A^{2/3}$<br>$X_i = 8^{2/3} K = 4K$<br>$X_f = (8 + 10 + 9)^{2/3} K = 9K$<br>% increase in surface area of nucleus<br>$x_i = \\dfrac{9K - 4K}{4K} \\times 100 = 125\\%$",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6983c19a8bfdbb24356396cc",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (23 January Shift 2)",
+    "paper_year_short": "2026 (23 January Shift 2)",
+    "held_on": "2026-01-23T14:00:00.000Z",
+    "question_text": "Which of the following pair of nuclei are isobars of the element?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PMQlS",
+        "text": "${ }_{1}^{3} \\mathrm{H}$ and ${ }_{2}^{3} \\mathrm{He}$",
+        "image": null
+      },
+      {
+        "id": "qdAkK",
+        "text": "${ }_{1}^{2} \\mathrm{H}$ and ${ }_{1}^{3} \\mathrm{H}$",
+        "image": null
+      },
+      {
+        "id": "tWTNY",
+        "text": "${ }_{80}^{198} \\mathrm{Hg}$ and ${ }_{79}^{197} \\mathrm{Au}$",
+        "image": null
+      },
+      {
+        "id": "5dTmO",
+        "text": "${ }_{92}^{236} \\mathrm{U}$ and ${ }_{92}^{238} \\mathrm{U}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "PMQlS",
+    "solution_text": "Isobars are atoms of different chemical elements that have the same number of nucleons (mass number $A$), but different atomic numbers ($Z$).<br>In the given options:<br>(1) $_1^3\\text{H}$ and $_2^3\\text{He}$: Both have the same mass number $A = 3$. Since they have different atomic numbers ($Z=1$ and $Z=2$), they are isobars.<br>(2) $_1^2\\text{H}$ and $_1^3\\text{H}$: These have the same atomic number ($Z=1$) but different mass numbers. They are isotopes.<br>(3) $_{80}^{198}\\text{Hg}$ and $_{79}^{197}\\text{Au}$: These have different mass numbers ($198$ and $197$).<br>(4) $_{92}^{236}\\text{U}$ and $_{92}^{238}\\text{U}$: These have the same atomic number ($Z=92$) but different mass numbers. They are isotopes.<br>Thus, the pair $_1^3\\text{H}$ and $_2^3\\text{He}$ are isobars.",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6983c1898bfdbb24356395f3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (22 January Shift 1)",
+    "paper_year_short": "2026 (22 January Shift 1)",
+    "held_on": "2026-01-22T09:00:00.000Z",
+    "question_text": "$7.9 \\mathrm{MeV} \\alpha$-particle scatters from a target material of atomic number 79. From the given data the estimated diameter of nuclei of the target material is (approximately) $\\_\\_\\_\\_$ m. $\\left[\\frac{1}{4 \\pi \\epsilon_{\\mathrm{o}}}=9 \\times 10^{9} \\mathrm{Nm}^{2} / \\mathrm{C}^{2}\\right.$ and electron charge $\\left.=1.6 \\times 10^{-19} \\mathrm{C}\\right]$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5pO8A",
+        "text": "$1.44 \\times 10^{-13}$",
+        "image": null
+      },
+      {
+        "id": "16Uqa",
+        "text": "$5.76 \\times 10^{-14}$",
+        "image": null
+      },
+      {
+        "id": "BVKwj",
+        "text": "$2.88 \\times 10^{-14}$",
+        "image": null
+      },
+      {
+        "id": "7HUPa",
+        "text": "$1.69 \\times 10^{-12}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "16Uqa",
+    "solution_text": "For Rutherford scattering, at the closest approach all kinetic energy converts to electrostatic potential energy.<br>For alpha particle-nucleus collision:<br>$K.E. = \\frac{1}{4\\pi\\varepsilon_0}\\frac{Z_1 Z_2 e^2}{r_{min}}$<br>Where: $Z_1 = 2$ (alpha), $Z_2 = 79$ (gold), $K.E. = 7.9$ MeV<br>$r_{min} = \\frac{9 \\times 10^9 \\times 2 \\times 79 \\times (1.6 \\times 10^{-19})^2}{7.9 \\times 10^6 \\times 1.6 \\times 10^{-19}}$<br>$r_{min} = 2.88 \\times 10^{-14}$ m<br>The estimated nuclear diameter is approximately:<br>$d = 2 \\times r_{min} = 5.76 \\times 10^{-14}$ m",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "68542c5d7c09d044e4c1a196",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (8 Apr Shift 2)",
+    "paper_year_short": "2025 (8 Apr Shift 2)",
+    "held_on": "2025-04-08T14:00:00.000Z",
+    "question_text": "For a nucleus of mass number $A$ and radius $R$, the mass density of nucleus can be represented as",
+    "question_image": null,
+    "options": [
+      {
+        "id": "R8ILA",
+        "text": "$\\mathrm{A}^3$",
+        "image": null
+      },
+      {
+        "id": "V16JP",
+        "text": "$\\mathrm{A}^{\\frac{1}{3}}$",
+        "image": null
+      },
+      {
+        "id": "XZHGB",
+        "text": "$\\mathrm{A}^{\\frac{2}{3}}$",
+        "image": null
+      },
+      {
+        "id": "EfO8w",
+        "text": "Independent of A",
+        "image": null
+      }
+    ],
+    "correct_answer": "EfO8w",
+    "solution_text": "The mass density ( $\\rho$) of a nucleus is defined as the ratio of its mass to its volume:<br/>$\\rho=$ Mass of nucleus / Volume of nucleus<br/>For a spherical nucleus with radius R , the volume is:<br/>$\\text { Volume }=(4 / 3) \\pi R^3$<br/>The mass of the nucleus is related to the mass number A :<br/>$\\text { Mass }-\\mathrm{A} \\times \\mathrm{m} \\text { _u }$<br/>(where m_u is the atomic mass unit, approximately $1.66 \\times 10^{-27} \\mathrm{~kg}$)<br/>Therefore:<br/>$\\rho=\\left(\\mathrm{A} \\times \\mathrm{m} \\_\\mathrm{u}\\right) /\\left[(4 / 3) \\pi \\mathrm{R}^3\\right]$<br/>Now, there's an important relationship between the mass number A and nuclear radius R. Empirically, it has been found that:<br/>$\\mathrm{R}=\\mathrm{Ro} * \\mathrm{~A}^{\\wedge}(1 / 3)$<br/>Where Ro is a constant approximately equal to $1.2 \\times 10^{-15} \\mathrm{~m}(1.2$ fermi).<br/>Substituting this into the density equation:<br/>$\\begin{aligned}<br/>& \\rho=\\left(\\mathrm{A} \\times \\mathrm{m} \\_\\mathrm{u}\\right) /\\left[(4 / 3) \\pi\\left(\\mathrm{Ro} \\times \\mathrm{A}^{\\wedge}(1 / 3)\\right)^3\\right] \\\\\n& \\rho=(\\mathrm{A} \\times \\mathrm{m} \\text { _u }) /\\left[(4 / 3) \\pi \\mathrm{Ro}^3 \\times \\mathrm{A}\\right] \\\\\n& \\rho=\\mathrm{m} \\_\\mathrm{u} /\\left[(4 / 3) \\pi \\mathrm{Ro}^3\\right]<br/>\\end{aligned}$<br/>This shows that the nuclear density is approximately constant for all nuclei, regardless of their mass number. This is a fundamental property of nuclear matter known as nuclear saturation density.<br/>The numerical value is:<br/>$\\rho=2.3 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^3$",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "68542c5c7c09d044e4c1a195",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (7 Apr Shift 2)",
+    "paper_year_short": "2025 (7 Apr Shift 2)",
+    "held_on": "2025-04-07T14:00:00.000Z",
+    "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).<br/>Assertion (A) : The density of the copper $\\left({ }_{29}^{64} \\mathrm{Cu}\\right)$ nucleus is greater than that of the carbon $\\left({ }_6^{12} \\mathrm{C}\\right)$ nucleus.<br/>Reason (R): The nucleus of mass number A has a radius proportional to $\\mathrm{A}^{1 / 3}$.<br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XaWDu",
+        "text": "$(\\mathrm{A})$ is correct but $(\\mathrm{R})$ is not correct",
+        "image": null
+      },
+      {
+        "id": "NcApW",
+        "text": "$(\\mathrm{A})$ is not correct but $(\\mathrm{R})$ is correct",
+        "image": null
+      },
+      {
+        "id": "GJr2Z",
+        "text": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are correct and $(\\mathrm{R})$ is the correct explanation of (A)",
+        "image": null
+      },
+      {
+        "id": "VvBr3",
+        "text": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+        "image": null
+      }
+    ],
+    "correct_answer": "NcApW",
+    "solution_text": "$\\rho=\\frac{\\mathrm{M}}{\\mathrm{~V}}=\\frac{\\mathrm{m}_{\\mathrm{n}} \\times \\mathrm{A}}{\\frac{4}{3} \\pi \\mathrm{R}^3}=\\frac{\\mathrm{m}_{\\mathrm{n}} \\times \\mathrm{A}}{\\frac{4}{3} \\pi \\mathrm{AR}_0^3}$<br/>So $\\rho$ is almost is constant<br/>$\\begin{aligned}<br/>& \\mathrm{R}=\\mathrm{R}_0 \\mathrm{~A}^{1 / 3} \\\\\n& \\mathrm{R} \\propto \\mathrm{~A}^{1 / 3}<br/>\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "67a2eebcc8b73881fdaea271",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (28 Jan Shift 1)",
+    "paper_year_short": "2025 (28 Jan Shift 1)",
+    "held_on": "2025-01-28T09:00:00.000Z",
+    "question_text": "Choose the correct nuclear process from the below options\n[p: proton, n : neutron, $\\mathrm{e}^{-}$: electron, $\\mathrm{e}^{+}$: positron, $v:$ neutrino, $\\bar{v}$ : antineutrino]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SVWlK",
+        "text": "$\\mathrm{n} \\rightarrow \\mathrm{p}+\\mathrm{e}^{+}+\\bar{v}$",
+        "image": null
+      },
+      {
+        "id": "SKVmd",
+        "text": "$\\mathrm{n} \\rightarrow \\mathrm{p}+\\mathrm{e}^{+}+\\boldsymbol{v}$",
+        "image": null
+      },
+      {
+        "id": "R8Uj4",
+        "text": "$\\mathrm{n} \\rightarrow \\mathrm{p}+\\mathrm{e}^{-}+\\boldsymbol{v}$",
+        "image": null
+      },
+      {
+        "id": "nVCiW",
+        "text": "$\\mathrm{n} \\rightarrow \\mathrm{p}+\\mathrm{e}^{-}+\\bar{v}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "nVCiW",
+    "solution_text": "For all nuclear processes, charge must be conserved. Also, when a release of an electron ( $e^{-}$) is always accompanied by a release of an antineutrino ( $\\bar{v}$ )\n\nHence, $n \\rightarrow p+\\mathrm{e}^{-}+\\overline{\\mathrm{v}}$ is the correct answer.",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6682bd8dba0e94a3c4025d58",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (01 Feb Shift 2)",
+    "paper_year_short": "2024 (01 Feb Shift 2)",
+    "held_on": "2024-02-01T14:00:00.000Z",
+    "question_text": "From the statements given below :</p><p>(A) The angular momentum of an electron in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>n</mi><mrow><mi>t</mi><mi>h</mi></mrow></msup></math> orbit is an integral multiple of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi></math>.</p><p>(B) Nuclear forces do not obey inverse square law.</p><p>(C) Nuclear forces are spin dependent.</p><p>(D) Nuclear forces are central and charge independent.</p><p>(E) Stability of nucleus is inversely proportional to the value of packing fraction.</p><p>Choose the correct answer from the options given below :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PoTxA",
+        "text": "(A), (B), (C), (D) only",
+        "image": null
+      },
+      {
+        "id": "QOBa0",
+        "text": "(A), (C), (D), (E) only",
+        "image": null
+      },
+      {
+        "id": "i8Udf",
+        "text": "(A), (B), (C), (E) only",
+        "image": null
+      },
+      {
+        "id": "jZg22",
+        "text": "(B), (C), (D), (E) only",
+        "image": null
+      }
+    ],
+    "correct_answer": "i8Udf",
+    "solution_text": "<p>(A) Electron revolves around nucleus only in those orbits for which the angular momentum is an integral multiple of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>h</mi><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></math>.</p><p>(B) Nuclear force does not follow the inverse square law.</p><p>(C) Nuclear forces are spin dependent but charge independent.</p><p>(D) Nuclear force is attractive in nature. It is a non central force, meaning it does not depend upon the distance between the particles but rather upon their orientation. Nuclear force is stronger if the spin is parallel; and weak if it is anti parallel.</p><p>(E) The negative value (less quantity) of packing fraction indicates that the isotope is stable. Positive value of packing fraction implies unstable (radioactive) nucleus. Also, the stability of the nucleus is inversely proportional to the value of the packing fraction.</p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6682bd8dba0e94a3c4025d57",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (01 Feb Shift 1)",
+    "paper_year_short": "2024 (01 Feb Shift 1)",
+    "held_on": "2024-02-01T09:00:00.000Z",
+    "question_text": "The radius of a nucleus of mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>64</mn></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>8</mn></math> fermi. Then the mass number of another nucleus having radius of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> fermi is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1000</mn><mi>x</mi></mfrac><mo>,</mo></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> is _________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "27",
+    "solution_text": "<p>Radius of a nucleus is given by, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><mo> </mo><msup><mi>A</mi><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math>.</p><p>Therefore, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>R</mi><mn>3</mn></msup><mo>∝</mo><mi>A</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mfenced><mfrac><mrow><mn>4</mn><mo>.</mo><mn>8</mn></mrow><mn>4</mn></mfrac></mfenced><mn>3</mn></msup><mo>=</mo><mfrac><mn>64</mn><mi>A</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mn>64</mn><mrow><mo> </mo><mi>A</mi></mrow></mfrac><mo>=</mo><mo>(</mo><mn>1</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>3</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><mn>64</mn><mi>A</mi></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>44</mn><mo>×</mo><mn>1</mn><mo>.</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>A</mi><mo>=</mo><mfrac><mn>64</mn><mrow><mn>1</mn><mo>.</mo><mn>44</mn><mo>×</mo><mn>1</mn><mo>.</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1000</mn><mi>x</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>x</mi><mo>=</mo><mfrac><mrow><mn>144</mn><mo>×</mo><mn>12</mn></mrow><mn>64</mn></mfrac><mo>=</mo><mn>27</mn></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6682bd8cba0e94a3c4025d56",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (31 Jan Shift 2)",
+    "paper_year_short": "2024 (31 Jan Shift 2)",
+    "held_on": "2024-01-31T14:00:00.000Z",
+    "question_text": "A nucleus has mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub></math> and volume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub></math>. Another nucleus has mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub></math> and volume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>2</mn></msub></math>. If relation between mass number is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><mn>4</mn><msub><mi>A</mi><mn>1</mn></msub></math>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>V</mi><mn>2</mn></msub><msub><mi>V</mi><mn>1</mn></msub></mfrac><mo>=</mo></math> _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p>For a nucleus we can write volume: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>π</mi><msup><mi>R</mi><mn>3</mn></msup></math></p><p>Now, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><msup><mfenced><mi>A</mi></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math></p><p>Therefore, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>π</mi><msubsup><mi>R</mi><mn>0</mn><mn>3</mn></msubsup><mi>A</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><msub><mi>V</mi><mn>2</mn></msub><msub><mi>V</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><msub><mi>A</mi><mn>2</mn></msub><msub><mi>A</mi><mn>1</mn></msub></mfrac><mo>=</mo><mn>4</mn></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "6682bd8cba0e94a3c4025d55",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2024 (31 Jan Shift 2)",
+    "paper_year_short": "2024 (31 Jan Shift 2)",
+    "held_on": "2024-01-31T14:00:00.000Z",
+    "question_text": "The mass number of nucleus having radius equal to half of the radius of nucleus with mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>192</mn></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jqBwR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn></math>",
+        "image": null
+      },
+      {
+        "id": "X7Hao",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn></math>",
+        "image": null
+      },
+      {
+        "id": "SaR45",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn></math>",
+        "image": null
+      },
+      {
+        "id": "eVlvO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jqBwR",
+    "solution_text": "<p>Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mfrac><msub><mi>R</mi><mn>2</mn></msub><mn>2</mn></mfrac></math></p><p>As we know, size of the nucleus is given by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><msup><mfenced><mi>A</mi></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math></p><p>Therefore, we can write <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>0</mn></msub><msup><mfenced><msub><mi>A</mi><mn>1</mn></msub></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup><mo>=</mo><mfrac><msub><mi>R</mi><mn>0</mn></msub><mn>2</mn></mfrac><msup><mfenced><msub><mi>A</mi><mn>2</mn></msub></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi>A</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><msub><mi>A</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msub><mi>A</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>192</mn><mn>8</mn></mfrac><mo>=</mo><mn>24</mn></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d68281",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (31 Jan Shift 1)",
+    "paper_year_short": "2023 (31 Jan Shift 1)",
+    "held_on": "2023-01-31T09:00:00.000Z",
+    "question_text": "A free neutron decays into a proton but a free proton does not decay into neutron. This is because",
+    "question_image": null,
+    "options": [
+      {
+        "id": "X9Jes",
+        "text": "neutron is an uncharged particle",
+        "image": null
+      },
+      {
+        "id": "Itezx",
+        "text": "proton is a charged particle",
+        "image": null
+      },
+      {
+        "id": "8S7FG",
+        "text": "neutron is a composite particle made of a proton and an electron",
+        "image": null
+      },
+      {
+        "id": "VEIcq",
+        "text": "neutron has larger rest mass than proton",
+        "image": null
+      }
+    ],
+    "correct_answer": "VEIcq",
+    "solution_text": "<p>Mass of the neutron is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mi>n</mi></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>67493</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>27</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi></math>,</p><p>mass of the proton is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mi>p</mi></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>67262</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>27</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi></math>.</p><p>Proton&#39;s rest mass is less than that of a&nbsp;neutron&#39;s rest&nbsp;mass. As particle can not decay to a state of greater mass, hence&nbsp;the&nbsp;proton does not decay to neutron outside nucleus whereas the neutron can decay&nbsp;into a proton though&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math>-decay.</p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d6821a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (30 Jan Shift 2)",
+    "paper_year_short": "2023 (30 Jan Shift 2)",
+    "held_on": "2023-01-30T14:00:00.000Z",
+    "question_text": "<p>Given below are two statements : one is labelled as&nbsp;<strong>Assertion A</strong> and the other is labelled as <strong>Reason R</strong></p><p><strong>Assertion A :</strong> The nuclear density of nuclides&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>B</mi><mprescripts></mprescripts><mn>5</mn><mn>10</mn></mmultiscripts><mo>,</mo><mo>&#160;</mo><mmultiscripts><mi>L</mi><mprescripts></mprescripts><mn>3</mn><mn>6</mn></mmultiscripts><mi>i</mi><mo>,</mo><mo>&#160;</mo><mmultiscripts><mi>F</mi><mprescripts></mprescripts><mn>26</mn><mn>56</mn></mmultiscripts><mi>e</mi><mo>,</mo><mo>&#160;</mo><mmultiscripts><mi>N</mi><mprescripts></mprescripts><mn>10</mn><mn>20</mn></mmultiscripts><mi>e</mi><mo>&#160;</mo><mtext>and</mtext><mo>&#160;</mo><mmultiscripts><mi>B</mi><mprescripts></mprescripts><mn>83</mn><mn>209</mn></mmultiscripts><mi>i</mi></math>&nbsp;can be arranged as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#961;</mi><mrow><mi>B</mi><mi>i</mi></mrow><mi>N</mi></msubsup><mo>&#62;</mo><msubsup><mi>&#961;</mi><mrow><mi>F</mi><mi>e</mi></mrow><mi>N</mi></msubsup><mo>&#62;</mo><msubsup><mi>&#961;</mi><mrow><mi>N</mi><mi>e</mi></mrow><mi>N</mi></msubsup><mo>&#62;</mo><msubsup><mi>&#961;</mi><mi>B</mi><mi>N</mi></msubsup><mo>&#62;</mo><msubsup><mi>&#961;</mi><mrow><mi>L</mi><mi>i</mi></mrow><mi>N</mi></msubsup></math></p><p><strong>Reason R :</strong> The radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> of nucleus is related to its mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><mo>&#160;</mo><msup><mi>A</mi><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>0</mn></msub></math> is a constant.</p><p>In the light of the above statement, choose the correct answer from the options given below :</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IOsqc",
+        "text": "Both A and R are true and R is the correct explanation of A",
+        "image": null
+      },
+      {
+        "id": "jGDqw",
+        "text": "A is false but R is true",
+        "image": null
+      },
+      {
+        "id": "1MEzv",
+        "text": "A is true but R is false",
+        "image": null
+      },
+      {
+        "id": "ZAmLq",
+        "text": "Both A and R are true but R is NOT the correct explanation of A",
+        "image": null
+      }
+    ],
+    "correct_answer": "jGDqw",
+    "solution_text": "<p>Nuclear density is given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#961;</mi><mo>=</mo><mfrac><mi>m</mi><mrow><mstyle displaystyle=\"true\"><mfrac><mn>4</mn><mn>3</mn></mfrac></mstyle><mi>&#960;</mi><msup><mfenced><msub><mi>R</mi><mn>0</mn></msub></mfenced><mn>3</mn></msup></mrow></mfrac></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>&nbsp;is mass of proton. Clearly it&nbsp;is independent of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;and same for all nucleus.</p><p>Radius of the nucleus is given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><mo>&#160;</mo><msup><mi>A</mi><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math>.</p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d68060",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (25 Jan Shift 1)",
+    "paper_year_short": "2023 (25 Jan Shift 1)",
+    "held_on": "2023-01-25T09:00:00.000Z",
+    "question_text": "The ratio of the density of oxygen nucleus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mmultiscripts><mi mathvariant=\"normal\">O</mi><mprescripts/><mn>8</mn><mn>16</mn></mmultiscripts></mfenced></math>&nbsp;and helium nucleus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mmultiscripts><mi>He</mi><mprescripts/><mn>2</mn><mn>4</mn></mmultiscripts></mfenced></math>&nbsp;is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JJMoM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>:</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "oAHxs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mo>:</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "INeJq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>:</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "4WSM9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>:</mo><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "INeJq",
+    "solution_text": "<p>The radius of a nucleus,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is related to its atomic&nbsp;number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;as:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><msup><mi>A</mi><mfrac bevelled=\"true\"><mn>1</mn><mn>3</mn></mfrac></msup></math></p><p>where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>0</mn></msub></math>&nbsp;is the nuclear radius of hydrogen.</p><p>Thus, the density of a nucleus is given by:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mfrac><mrow><mi>&#956;</mi><mi>A</mi></mrow><mrow><mstyle displaystyle=\"true\"><mfrac><mn>4</mn><mn>3</mn></mfrac></mstyle><mi>&#960;</mi><msup><mfenced><mrow><msub><mi>R</mi><mn>0</mn></msub><msup><mi>A</mi><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>3</mn></mfrac></mstyle></msup></mrow></mfenced><mn>3</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi>&#956;</mi></mrow><mrow><mn>4</mn><mi>&#960;</mi><msubsup><mi>R</mi><mn>0</mn><mn>3</mn></msubsup></mrow></mfrac><mo>=</mo><mtext>Constant</mtext></math>&nbsp;</p><p>(Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#956;</mi></math>&nbsp;is atomic mass unit)</p><p>Hence, the ratio of nuclear density of oxygen to helium nucleus is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>:</mo><mn>1</mn></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d67fbd",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (24 Jan Shift 1)",
+    "paper_year_short": "2023 (24 Jan Shift 1)",
+    "held_on": "2023-01-24T09:00:00.000Z",
+    "question_text": "Assume that protons and neutrons have equal masses. Mass of a nucleon is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>27</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi></math> and radius of nucleus is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>15</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">A</mi><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>. The approximate ratio of the nuclear density and water density is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>&#215;</mo><msup><mn>10</mn><mn>13</mn></msup></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi></math> is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "11",
+    "solution_text": "<p>As we know,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>density&#160;of&#160;nuclei</mtext><mo>=</mo><mfrac><mtext>&#160;mass of nuclei&#160;</mtext><mtext>&#160;volume of nuclei&#160;</mtext></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#961;</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>27</mn></mrow></msup><mi>A</mi></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#960;</mi><msup><mfenced><mrow><mn>1</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>15</mn></mrow></msup></mrow></mfenced><mn>3</mn></msup><mi>A</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>27</mn></mrow></msup></mrow><mrow><mn>14</mn><mo>.</mo><mn>14</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>45</mn></mrow></msup></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mn>0</mn><mo>.</mo><mn>113</mn><mo>&#215;</mo><msup><mn>10</mn><mn>18</mn></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math></p><p>We also know that, density of water is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#961;</mi><mi mathvariant=\"normal\">w</mi></msub><mo>=</mo><msup><mn>10</mn><mn>3</mn></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math>.</p><p>Hence,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#961;</mi><msub><mi>&#961;</mi><mi>w</mi></msub></mfrac><mo>=</mo><mn>11</mn><mo>.</mo><mn>31</mn><mo>&#215;</mo><msup><mn>10</mn><mn>13</mn></msup></math>.</p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#8776;</mo><mn>11</mn></math></p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d679bb",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (26 Jul Shift 2)",
+    "paper_year_short": "2022 (26 Jul Shift 2)",
+    "held_on": "2022-07-26T14:00:00.000Z",
+    "question_text": "Mass numbers of two nuclei are in the ratio of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>:</mo><mn>3</mn></math>. Their nuclear densities will be in the ratio of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WSZ1J",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>:</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ZcrR5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mfrac><mn>3</mn><mn>4</mn></mfrac></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math>",
+        "image": null
+      },
+      {
+        "id": "aRxQs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>:</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "xVyyX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mfrac><mn>4</mn><mn>3</mn></mfrac></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "aRxQs",
+    "solution_text": "<blockquote><p>Radius of nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><msup><mrow><mo>&#160;</mo><mi>A</mi></mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math></p><p>Density of nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>&#961;</mi></mfenced><mo>=</mo><mfrac><mrow><mo>&#160;</mo><mi>Mass</mi><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><mi>nucleus</mi><mo>&#160;</mo></mrow><mrow><mo>&#160;</mo><mi>volume</mi><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><mi>nucleus</mi><mo>&#160;</mo></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#961;</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mo>&#215;</mo><mi mathvariant=\"normal\">A</mi></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#960;</mi><msup><mi mathvariant=\"normal\">R</mi><mn>3</mn></msup></mrow></mfrac></math> &nbsp;Where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>: mass of proton or neutron and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>: mass number.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#961;</mi><mo>=</mo><mfrac><mrow><mi>m</mi><mo>&#215;</mo><mi>A</mi></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#960;</mi><msub><mi>R</mi><mn>0</mn></msub><mmultiscripts><mo>&#160;</mo><mprescripts></mprescripts><none></none><mn>3</mn></mmultiscripts><mi mathvariant=\"normal\">A</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#961;</mi><mo>&#8733;</mo><msup><mi mathvariant=\"normal\">A</mi><mn>0</mn></msup></math></p><p>Hence, density of nucleus is independent of mass number.</p><p>Therefore, the&nbsp;ratio is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>:</mo><mn>1</mn></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d67632",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (27 Jul Shift 2)",
+    "paper_year_short": "2021 (27 Jul Shift 2)",
+    "held_on": "2021-07-27T14:00:00.000Z",
+    "question_text": "<p>Consider the following statements:<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>. Atoms of each element emit characteristics spectrum.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>.</mo></math> According to Bohr&#39;s Postulate, an electron in a hydrogen atom&nbsp;revolves in a certain stationary orbit.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mo>.</mo></math> The density of nuclear matter depends on the size of the nucleus.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo>.</mo></math>&nbsp;A free neutron is stable but a free proton decay is possible.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>.</mo></math> Radioactivity is an indication of the instability of nuclei. Choose the correct answer from the options given below.</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7GZ4C",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo mathvariant=\"italic\">,</mo><mo mathvariant=\"italic\">&#160;</mo><mi>B</mi><mo mathvariant=\"italic\">,</mo><mo mathvariant=\"italic\">&#160;</mo><mi>C</mi><mo mathvariant=\"italic\">,</mo><mo mathvariant=\"italic\">&#160;</mo><mi>D</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"></math>",
+        "image": null
+      },
+      {
+        "id": "tQTUg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>,</mo><mo>&#160;</mo><mi>B</mi><mo>&#160;</mo></math>and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> only.",
+        "image": null
+      },
+      {
+        "id": "Sms3Y",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi></math> only",
+        "image": null
+      },
+      {
+        "id": "gfH23",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>,</mo><mi>C</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> only",
+        "image": null
+      }
+    ],
+    "correct_answer": "tQTUg",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>A</mi><mo>)</mo></math> True, an atom of each element emits a characteristic spectrum.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>B</mi><mo>)</mo></math> True, according to Bohr&#39;s postulates&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mi>v</mi><mi>r</mi><mo>=</mo><mfrac><mrow><mi>n</mi><mi>h</mi></mrow><mrow><mn>2</mn><mi>&#960;</mi></mrow></mfrac></math> and hence electron resides into orbits of specific radius called stationary orbits.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>C</mi><mo>)</mo></math>&nbsp;False, the density of the nucleus is constant.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>D</mi><mo>)</mo></math> False, A free neutron is unstable decays into proton and electron and antineutrino.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>E</mi><mo>)</mo></math> True unstable nucleus show radioactivity.</p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a68417cc3fb48d66a47",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (03 Sep Shift 2)",
+    "paper_year_short": "2020 (03 Sep Shift 2)",
+    "held_on": "2020-09-03T14:00:00.000Z",
+    "question_text": "The radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math> of a nucleus of mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi></math> can be estimated by the formula <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfenced><mrow><mn>1</mn><mo>.</mo><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>15</mn></mrow></msup></mrow></mfenced><msup><mi mathvariant=\"normal\">A</mi><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup><mi mathvariant=\"normal\">m</mi></math>. It follows that the mass density of n nucleus is of the order of: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>M</mi><mrow><mi>p</mi><mi>r</mi><mi>o</mi><mi>t</mi></mrow></msub><mo>&#8773;</mo><msub><mi>M</mi><mtext>neut&#160;</mtext></msub><mo>&#8771;</mo><mn>1</mn><mo>.</mo><mn>67</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>27</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi></mrow></mfenced></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6c5xk",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>3</mn></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "IBHiM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mn>10</mn><mo>&#160;</mo></mrow></msup><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "EI1Fv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>24</mn></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "ePmqg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>17</mn></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ePmqg",
+    "solution_text": "$\\rho_{\\text {nucleus }}=\\frac{\\text { mass }}{\\text { volume }}$<br>$=\\frac{A}{(4 / 3) \\pi r_0^3 \\mathrm{~A}}=\\frac{3}{4 \\pi \\mathrm{r}_0^3}$<br>$=2.3 \\times 10^{17} \\mathrm{~kg} / \\mathrm{m}^3$",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a66417cc3fb48d6641c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2019 (08 Apr Shift 2)",
+    "paper_year_short": "2019 (08 Apr Shift 2)",
+    "held_on": "2019-04-08T14:00:00.000Z",
+    "question_text": "The ratio of mass densities of nuclei of <math><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>40</mn></mrow></msup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> and<math><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>16</mn></mrow></msup><mi mathvariant=\"normal\">O</mi></math> is close to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZSuzG",
+        "text": "<math><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "bhcqQ",
+        "text": "<math><mn>0.1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "z8ODj",
+        "text": "<math><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "zgKjc",
+        "text": "<math><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZSuzG",
+    "solution_text": "<p style=\"text-align: justify;\">Nucleus density is independent of the mass number. So, the ratio of density will be close to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d659f3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2012 (12 May Online)",
+    "paper_year_short": "2012 (12 May Online)",
+    "held_on": "2012-05-12T09:00:00.000Z",
+    "question_text": "Which of the following Statements is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sCFKy",
+        "text": "\nThe rate of radioactive decay cannot be controlled but that of nuclear fission can be controlled.\n",
+        "image": null
+      },
+      {
+        "id": "N4MkL",
+        "text": "\nNuclear forces are short range, attractive and charge dependent.\n",
+        "image": null
+      },
+      {
+        "id": "V32xB",
+        "text": "\nNuclei of atoms having same number of neutrons are known as isobars.\n",
+        "image": null
+      },
+      {
+        "id": "do0n1",
+        "text": "\nWavelength of matter waves is given by de Broglie formula but that of photons is not given by the same formula",
+        "image": null
+      }
+    ],
+    "correct_answer": "sCFKy",
+    "solution_text": "Radioactive decay is a continuous process. Rate of radioactive decay cannot be controlled. Nuclear fission can be controlled but not of nuclear fusion.",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d65646",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2005",
+    "paper_year_short": "2005",
+    "held_on": "2005-04-30T09:00:00.000Z",
+    "question_text": "If radius of ${ }_{13}^{27} \\mathrm{Al}$ nucleus is estimated to be $3.6$ Fermi then the radius ${ }_{52}^{125} \\mathrm{Te}$ nucleus be nearly",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NBRh5",
+        "text": "\n6 fermi\n",
+        "image": null
+      },
+      {
+        "id": "akEpE",
+        "text": "\n8 fermi\n",
+        "image": null
+      },
+      {
+        "id": "rx0cb",
+        "text": "\n4 fermi\n",
+        "image": null
+      },
+      {
+        "id": "w2rzl",
+        "text": "\n5 fermi",
+        "image": null
+      }
+    ],
+    "correct_answer": "NBRh5",
+    "solution_text": "$\\frac{\\mathrm{R}}{3.6}=\\left(\\frac{125}{27}\\right)^{\\frac{1}{3}} \\Rightarrow \\mathrm{R}=6$ fermi",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65589",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2004",
+    "paper_year_short": "2004",
+    "held_on": "2004-04-30T09:00:00.000Z",
+    "question_text": "A nucleus disintegrates into two nuclear parts which have their velocities in the ratio $2: 1$. The ratio of their nuclear sizes will be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yT2R5",
+        "text": "\n$2^{1 / 3}: 1$\n",
+        "image": null
+      },
+      {
+        "id": "Y9sZ4",
+        "text": "\n$1: 3^{1 / 2}$\n",
+        "image": null
+      },
+      {
+        "id": "Ci16s",
+        "text": "\n$3^{1 / 2}: 1$\n",
+        "image": null
+      },
+      {
+        "id": "XtqmZ",
+        "text": "\n$1: 2^{1 / 3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Y9sZ4",
+    "solution_text": "$\\frac{R_1}{R_2}=\\left(\\frac{m_2}{2 m_2}\\right)^{1 / 3}$\n$\\Rightarrow \\frac{R_1}{R_2}=1: 2^{1 / 3}$",
+    "solution_image": null,
+    "topic": "Nuclear structure"
+  },
+  {
+    "question_id": "69d8073a81239f6567c4f347",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (08 April Shift 2)",
+    "paper_year_short": "2026 (08 April Shift 2)",
+    "held_on": "2026-04-08T14:00:00.000Z",
+    "question_text": "Two radioactive substances A and B of mass numbers $200$ and $212$ respectively, shows spontaneous $\\alpha$-decay with same $Q$ value of $1$ MeV. The ratio of energies of $\\alpha$-rays produced by A and B is ________.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ryWAF",
+        "text": "$\\dfrac{2548}{2650}$",
+        "image": null
+      },
+      {
+        "id": "gfpWm",
+        "text": "$\\dfrac{2706}{2646}$",
+        "image": null
+      },
+      {
+        "id": "xXhNb",
+        "text": "$\\dfrac{2597}{2600}$",
+        "image": null
+      },
+      {
+        "id": "sJe37",
+        "text": "$\\dfrac{2862}{2499}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xXhNb",
+    "solution_text": "In an $\\alpha$-decay, the kinetic energy of the emitted $\\alpha$-particle is given by the conservation of momentum and energy as:<br><br>$K_{\\alpha} = \\dfrac{A - 4}{A} Q$<br><br>where $A$ is the mass number of the parent nucleus.<br><br>For substance A ($A = 200$):<br><br>$K_{\\alpha, A} = \\dfrac{200 - 4}{200} Q = \\dfrac{196}{200} Q$<br><br>For substance B ($A = 212$):<br><br>$K_{\\alpha, B} = \\dfrac{212 - 4}{212} Q = \\dfrac{208}{212} Q$<br><br>The ratio of the energies of the $\\alpha$-rays produced by A and B is:<br><br>$\\dfrac{K_{\\alpha, A}}{K_{\\alpha, B}} = \\dfrac{\\dfrac{196}{200} Q}{\\dfrac{208}{212} Q} = \\dfrac{196}{200} \\times \\dfrac{212}{208}$<br><br>Simplifying the fractions:<br><br>$\\dfrac{K_{\\alpha, A}}{K_{\\alpha, B}} = \\dfrac{49}{50} \\times \\dfrac{53}{52} = \\dfrac{2597}{2600}$<br><br>Answer: $\\dfrac{2597}{2600}$",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "68542c5d7c09d044e4c1a199",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (4 Apr Shift 2)",
+    "paper_year_short": "2025 (4 Apr Shift 2)",
+    "held_on": "2025-04-04T14:00:00.000Z",
+    "question_text": "A radioactive material P first decays into Q and then Q decays to non-radioactive material R. Which of the following figure represents time dependent mass of $\\mathrm{P}, \\mathrm{Q}$ and R ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8tOWd",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/PXVbXBHb3ukvJ8qFfO2Go4KFQM8bcMGTwQCdeCD7pLc.original.fullsize.png\"/><br/>",
+        "image": null
+      },
+      {
+        "id": "TewSO",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/yUy5P48RmI23SoEn4DvcSg53cEDW7NnKqh4GCcV9lFs.original.fullsize.png\"/><br/>",
+        "image": null
+      },
+      {
+        "id": "f36jt",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/ck0Bri2nYVKFMLTwnIZlVRrtAPL8WWrY_bG4HIYgIL4.original.fullsize.png\"/><br/>",
+        "image": null
+      },
+      {
+        "id": "K3625",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/l8gFRmE7sdEjTRjkahHqYxR33BuA16g1_s_y_Kzr6MY.original.fullsize.png\"/><br/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "TewSO",
+    "solution_text": "$\\mathrm{P} \\rightarrow \\mathrm{Q} \\rightarrow \\mathrm{R}$<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/A0s9lmSbZchbi0QV2YeF1eLBQJ5vPoEr8_aDw17_jSU.original.fullsize.png\"/>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "67a2ee99c8b73881fdaea14d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (23 Jan Shift 1)",
+    "paper_year_short": "2025 (23 Jan Shift 1)",
+    "held_on": "2025-01-23T09:00:00.000Z",
+    "question_text": "A radioactive nucleus $n_2$ has 3 times the decay constant as compared to the decay constant of another radioactive nucleus $n_1$. If initial number of both nuclei are the same, what is the ratio of number of nuclei of $n_2$ to the number of nuclei of $n_1$, after one half-life of $n_1$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9pzea",
+        "text": "$1 / 8$",
+        "image": null
+      },
+      {
+        "id": "2mFQ6",
+        "text": "$8$",
+        "image": null
+      },
+      {
+        "id": "sdPp3",
+        "text": "$4$",
+        "image": null
+      },
+      {
+        "id": "xBpjk",
+        "text": "$1 / 4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xBpjk",
+    "solution_text": "$\\begin{aligned} & \\mathrm{N}_2=\\mathrm{N}_0 \\mathrm{e}^{-3 \\lambda t} \\\\ & \\mathrm{~N}_1=\\mathrm{N}_0 \\mathrm{e}^{-\\lambda \\mathrm{t}} \\\\ & \\frac{\\mathrm{N}_2}{\\mathrm{~N}_1}=\\mathrm{e}^{-2 \\lambda \\mathrm{t}} \\\\ & \\mathrm{t}_{\\text {half lifeofN }} \\mathrm{t} \\\\ & \\mathrm{t}=\\frac{\\ln 2}{\\lambda}{ }_{\\mathrm{n}} 1 \\\\ & \\frac{\\mathrm{~N}_0}{2}=\\mathrm{N}_0 \\mathrm{e}^{-\\lambda \\mathrm{t}}\\end{aligned}$\n\n\n$\\begin{aligned} & \\lambda \\mathrm{t}=\\ln 2 \\\\ & \\mathrm{t}=\\frac{\\ln 2}{\\lambda} \\\\ & =\\mathrm{e}^{-2 \\lambda \\frac{\\ln 2}{\\lambda}} \\\\ & \\frac{\\mathrm{~N}_2}{\\mathrm{~N}_1}=\\frac{1}{4}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  }
+]

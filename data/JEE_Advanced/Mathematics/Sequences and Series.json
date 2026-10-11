@@ -1,0 +1,882 @@
+[
+  {
+    "question_id": "685102be6bba689a3eb09c7a",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function such that $f(x)>0$ for all $x \\in \\mathbb{R}$, and $f(x+y)=f(x) f(y)$ for all $x, y \\in \\mathbb{R}$.\nLet the real numbers $\\mathrm{a}_1, \\mathrm{a}_2 \\ldots, \\mathrm{a}_{50}$ be in an arithmetic progression. If $f\\left(\\mathrm{a}_{31}\\right)=64 f\\left(\\mathrm{a}_{25}\\right)$, and $\\sum_{i=1}^{50} f\\left(a_i\\right)=3\\left(2^{25}+1\\right)$ then the value of $\\sum_{i=6}^{30} f\\left(a_i\\right)$ is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "96",
+    "solution_text": "$\\begin{aligned} & \\because f(x+y)=f(x) \\cdot f(y) \\\\ & \\Rightarrow f(x)=k^x \\quad(f(x)>0 \\forall x \\in R) \\\\ & \\because f\\left(a_{31}\\right)=64 f\\left(a_{25}\\right)\\end{aligned}$\n$\\begin{aligned} & \\Rightarrow \\mathrm{k}^{(\\mathrm{a}+30 \\mathrm{~d})}=64 \\cdot \\mathrm{k}^{(\\mathrm{a}+24 \\mathrm{~d})} \\\\ & \\Rightarrow \\mathrm{k}^{6 \\mathrm{~d}}=64 \\\\ & \\Rightarrow \\mathrm{k}^{\\mathrm{d}}=2\\end{aligned}$\n$\\sum_{\\mathrm{i}=1}^{50} \\mathrm{f}\\left(\\mathrm{a}_{\\mathrm{i}}\\right)=\\mathrm{f}\\left(\\mathrm{a}_1\\right)+\\mathrm{f}\\left(\\mathrm{a}_2\\right)+\\ldots \\ldots+\\mathrm{f}\\left(\\mathrm{a}_{50}\\right)$\n$\\begin{aligned} & =\\mathrm{k}^{\\mathrm{a}}+\\mathrm{k}^{\\mathrm{a}+\\mathrm{d}}+\\ldots+\\mathrm{k}^{\\mathrm{a}+49 \\mathrm{~d}}=\\frac{\\mathrm{k}^{\\mathrm{a}}\\left(\\mathrm{k}^{50 \\mathrm{~d}}-1\\right)}{\\mathrm{k}^{\\mathrm{d}}-1} \\\\ & =\\mathrm{k}^{\\mathrm{a}}\\left(2^{50}-1\\right)=3\\left(2^{25}+1\\right)(\\text { Given }) \\\\ & \\Rightarrow \\mathrm{k}^{\\mathrm{a}}=\\frac{3}{2^{25}-1}\\end{aligned}$\n$\\begin{aligned} & \\therefore \\sum_{\\mathrm{i}=6}^{30} \\mathrm{f}\\left(\\mathrm{a}_{\\mathrm{i}}\\right)=\\mathrm{k}^{\\mathrm{a}+5 \\mathrm{~d}}+\\mathrm{k}^{\\mathrm{a}+6 \\mathrm{~d}}+\\ldots+\\mathrm{k}^{\\mathrm{a}+29 \\mathrm{~d}} \\\\ & \\quad=\\mathrm{k}^{\\mathrm{a}+5 \\mathrm{~d}} \\frac{\\left(\\mathrm{k}^{25 \\mathrm{~d}}-1\\right)}{\\mathrm{k}^{\\mathrm{d}}-1}=\\mathrm{k}^{\\mathrm{a}} \\cdot\\left(\\mathrm{k}^{\\mathrm{d}}\\right)^5\\left(2^{25}-1\\right) \\\\ & \\quad=\\frac{3}{2^{25}-1} \\cdot 2^5\\left(2^{25}-1\\right)=96\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a99f23ac7d519f9b5dd",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>1</mn></msub><mo>,</mo><msub><mi>l</mi><mn>2</mn></msub><mo>.</mo><mo>.</mo><mo>.</mo><msub><mi>l</mi><mn>100</mn></msub></math>&nbsp;be consecutive terms of an arithmetic progression with common difference <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>d</mi><mn>1</mn></msub></math>, and let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>w</mi><mn>1</mn></msub><mo>,</mo><msub><mi>w</mi><mn>2</mn></msub></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo><mo>,</mo><msub><mi>w</mi><mn>100</mn></msub></math>&nbsp;be consecutive terms of another arithmetic progression with common difference <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>d</mi><mn>2</mn></msub></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>10</mn></math>. For each&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mn>100</mn></math>, let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>i</mi></msub></math>&nbsp;be a rectangle with length&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mi>i</mi></msub></math>, width&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>w</mi><mi>i</mi></msub></math>&nbsp;and area&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>i</mi></msub></math>.If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>51</mn></msub><mo>-</mo><msub><mi>A</mi><mn>50</mn></msub><mo>=</mo><mn>1000</mn></math>, then the&nbsp;value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>100</mn></msub><mo>-</mo><msub><mi>A</mi><mn>90</mn></msub></math>&nbsp;is _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "18900",
+    "solution_text": "<blockquote><p>Given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>1</mn></msub><mo>,</mo><msub><mi>l</mi><mn>2</mn></msub><mo>.</mo><mo>.</mo><mo>.</mo><msub><mi>l</mi><mn>100</mn></msub></math>&nbsp;are consecutive terms of an&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo><mi>P</mi></math></p><p>Now let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mi>a</mi></math>&nbsp;and common difference&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>d</mi><mn>1</mn></msub></math>&nbsp;</p><p>And similarly&nbsp;for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo><mi>P</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>w</mi><mn>1</mn></msub><mo>,</mo><msub><mi>w</mi><mn>2</mn></msub><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><msub><mi>w</mi><mn>100</mn></msub></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mi>b</mi></math>&nbsp;and common difference&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>d</mi><mn>2</mn></msub></math></p><p>Now given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>51</mn></msub><mo>-</mo><msub><mi>A</mi><mn>50</mn></msub><mo>=</mo><msub><mi>l</mi><mn>51</mn></msub><msub><mi>w</mi><mn>51</mn></msub><mo>-</mo><msub><mi>l</mi><mn>50</mn></msub><msub><mi>w</mi><mn>50</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mi>a</mi><mo>+</mo><mn>50</mn><msub><mi>d</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><mi>b</mi><mo>+</mo><mn>50</mn><msub><mi>d</mi><mn>2</mn></msub></mrow></mfenced><mo>-</mo><mfenced><mrow><mi>a</mi><mo>+</mo><mn>49</mn><msub><mi>d</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><mi>b</mi><mo>+</mo><mn>49</mn><msub><mi>d</mi><mn>2</mn></msub></mrow></mfenced><mo>=</mo><mn>1000</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>50</mn><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>+</mo><mn>50</mn><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>+</mo><mn>2500</mn><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>-</mo><mn>49</mn><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>-</mo><mn>49</mn><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>-</mo><mn>2401</mn><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>1000</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>+</mo><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>+</mo><mn>99</mn><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>1000</mn></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>+</mo><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>10</mn></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\"><mrow><mtext>as&#160;given&#160;</mtext><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>10</mn></mrow></mfenced></math></p><p>Now finding&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>100</mn></msub><mo>-</mo><msub><mi>A</mi><mn>90</mn></msub><mo>=</mo><msub><mi>l</mi><mn>100</mn></msub><msub><mi>w</mi><mn>100</mn></msub><mo>-</mo><msub><mi>l</mi><mn>90</mn></msub><msub><mi>w</mi><mn>90</mn></msub></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mi>a</mi><mo>+</mo><mn>99</mn><msub><mi>d</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><mi>b</mi><mo>+</mo><mn>99</mn><msub><mi>d</mi><mn>2</mn></msub></mrow></mfenced><mo>-</mo><mfenced><mrow><mi>a</mi><mo>+</mo><mn>89</mn><msub><mi>d</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><mi>b</mi><mo>+</mo><mn>89</mn><msub><mi>d</mi><mn>2</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>99</mn><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>+</mo><mn>99</mn><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>+</mo><msup><mn>99</mn><mn>2</mn></msup><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>-</mo><mn>89</mn><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>-</mo><mn>89</mn><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>-</mo><msup><mn>89</mn><mn>2</mn></msup><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mfenced><mrow><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>+</mo><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub></mrow></mfenced><mo>+</mo><mn>1880</mn><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn><mfenced><mn>10</mn></mfenced><mo>+</mo><mn>18800</mn></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\"><mrow><mtext>again&#160;using&#160;</mtext><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>10</mn><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>b</mi><msub><mi>d</mi><mn>1</mn></msub><mo>+</mo><mi>a</mi><msub><mi>d</mi><mn>2</mn></msub><mo>=</mo><mn>10</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>18900</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a75f23ac7d519f9b49e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mo>;</mo><mi mathvariant=\"normal\">d</mi></mrow></mfenced></math> denote the set of all the terms of an infinite arithmetic progression with first term a and common difference <math><mi mathvariant=\"normal\">d</mi><mo>&#62;</mo><mn>0</mn><mo>.</mo></math> If <math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>;</mo><mn>3</mn></mrow></mfenced><mo>&#8745;</mo><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>;</mo><mn>5</mn></mrow></mfenced><mo>&#8745;</mo><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mn>3</mn><mo>;</mo><mn>7</mn></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mo>;</mo><mi mathvariant=\"normal\">d</mi></mrow></mfenced></math> then <math><mi mathvariant=\"normal\">a</mi><mo>+</mo><mi mathvariant=\"normal\">d</mi></math> equals ____",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "157",
+    "solution_text": "Let <math><msub><mrow><mi>T</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi>&#160;</mi><mi>m</mi></mrow></mfenced></mrow></msub><mo>:</mo></math> <math><msup><mrow><mi>m</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> term of <math><msup><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> series <math><mi>A</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>;</mo><mn>3</mn></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mi>&#160;</mi><mi>n</mi></mrow></mfenced></msub><mo>:</mo></math> <math><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> term of <math><msup><mrow><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi></mrow></msup></math> series <math><mi>A</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>;</mo><mn>5</mn></mrow></mfenced></math><br /><math><msub><mrow><mi>T</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>,</mo><mi>&#160;</mi><mi>r</mi></mrow></mfenced></mrow></msub><mo>:</mo></math> <math><msup><mrow><mi>r</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> term of <math><msup><mrow><mn>3</mn></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">d</mi></mrow></msup></math> series <math><mi>A</mi><mo>(</mo><mn>3</mn><mo>;</mo><mn>7</mn><mo>)</mo></math><br />For common terms<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mrow><mo>(</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mi>m</mi><mo>)</mo></mrow></msub><mo>=</mo><msub><mi>T</mi><mrow><mo>(</mo><mn>2</mn><mo>,</mo><mi>&#160;</mi><mi>n</mi><mo>)</mo></mrow></msub><mo>=</mo><msub><mi>T</mi><mrow><mo>(</mo><mn>3</mn><mo>,</mo><mi>&#160;</mi><mi>r</mi><mo>)</mo></mrow></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>+</mo><mn>3</mn><mfenced separators=\"|\"><mrow><mi>m</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>2</mn><mo>+</mo><mn>5</mn><mfenced separators=\"|\"><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>3</mn><mo>+</mo><mn>7</mn><mfenced separators=\"|\"><mrow><mi>r</mi><mo>-</mo><mn>1</mn></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>m</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>5</mn><mi>n</mi><mo>-</mo><mn>3</mn><mo>=</mo><mn>7</mn><mi>r</mi><mo>-</mo><mn>4</mn></math><br /><math><mo>&#8658;</mo><mi>m</mi><mo>=</mo><mfrac><mrow><mn>5</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mtext>&#8201;&#8201;&#8201;</mtext><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mtext>&#8201;&#8201;&#8201;</mtext><mi>r</mi><mo>=</mo><mfrac><mrow><mn>5</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>7</mn></mrow></mfrac></math><br />For <math><mi>&#8216;</mi><mi>m</mi><mi>&#8217;</mi></math> to be a natural number <math><mi>n</mi><mo>=</mo><mn>2,5</mn><mo>,</mo><mn>11</mn><mo>,</mo><mo>&#8230;</mo></math><br />And for <math><mi>&#8216;</mi><mi>r</mi><mi>&#8217;</mi></math> to be a natural number <math><mi>n</mi><mo>=</mo><mn>4,11</mn><mo>,</mo><mo>&#8230;</mo></math><br />When <math><mi>n</mi><mo>=</mo><mn>11</mn><mo>,</mo><mi>m</mi><mo>=</mo><mn>18</mn></math> and <math><mi>r</mi><mo>=</mo><mn>8</mn></math><br /><math><mo>&#8658;</mo></math> For <math><msup><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> common term of three series <math><mi>A</mi><mo>(</mo><mi>a</mi><mo>,</mo><mi>d</mi><mo>)</mo></math><br /><math><mi>a</mi><mo>=</mo><msup><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> term of <math><mi>A</mi><mo>(</mo><mn>1,3</mn><mo>)</mo></math><br /><math><mi>a</mi><mo>=</mo><mn>1</mn><mo>+</mo><mo>(</mo><mn>18</mn><mn>1</mn><mo>)</mo><mn>3</mn><mo>=</mo><mn>52</mn></math><br /><math><mo>&#8658;</mo></math> Common difference of <math><mi>A</mi><mfenced separators=\"|\"><mrow><mi>a</mi><mo>,</mo><mi>d</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">M</mi></math> of common difference of <math><mfenced separators=\"|\"><mrow><mi>A</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>;</mo><mn>3</mn></mrow></mfenced><mo>,</mo><mi>A</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mo>;</mo><mn>5</mn></mrow></mfenced><mo>,</mo><mi>A</mi><mfenced separators=\"|\"><mrow><mn>3</mn><mo>;</mo><mn>7</mn></mrow></mfenced></mrow></mfenced></math><br /><math><mi>d</mi><mo>=</mo><mi mathvariant=\"normal\">L</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">M</mi><mi>&#160;</mi><mo>(</mo><mn>3</mn><mo>,</mo><mi>&#160;</mi><mn>5</mn><mo>,</mo><mi>&#160;</mi><mn>7</mn><mo>)</mo></math><br /><math><mi>d</mi><mo>=</mo><mn>105</mn></math><br />Hence, <math><mi>a</mi><mo>+</mo><mi>d</mi><mo>=</mo><mn>52</mn><mo>+</mo><mn>105</mn><mo>=</mo><mn>157</mn></math>",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a69f23ac7d519f9b42a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi>X</mi></math> be the set consisting of the first&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2018</mn></math> terms of the arithmetic progression <math><mn>1,6</mn><mo>,</mo><mn>11</mn><mo>,</mo><mo>&#8230;</mo><mi>&#160;</mi><mo>,</mo></math> and <math><mi>Y</mi></math> be the set consisting of the first&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2018</mn></math>&nbsp;terms of the arithmetic progression <math><mn>9,16,23</mn><mo>,</mo><mo>&#8230;</mo><mi>&#160;</mi></math> . Then, the number of elements in the set <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>&#8746;</mo><mi>Y</mi></math> is___.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3748",
+    "solution_text": "<math><mi>X</mi><mo>:</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mn>6</mn><mo>,</mo><mi>&#160;</mi><mn>11</mn><mo>,</mo><mi>&#160;</mi><mo>&#8230;</mo><mo>,</mo><mn>10086</mn></math><br /><math><mi>Y</mi><mo>:</mo><mn>9</mn><mo>,</mo><mi>&#160;</mi><mn>16</mn><mo>,</mo><mi>&#160;</mi><mn>23</mn><mo>,</mo><mo>&#8230;</mo><mo>.</mo><mo>,</mo><mn>14128</mn></math><br /><math><mi>X</mi><mo>&#8745;</mo><mi>Y</mi><mo>:</mo><mn>16</mn><mo>,</mo><mi>&#160;</mi><mn>51</mn><mo>,</mo><mi>&#160;</mi><mn>86</mn><mo>,</mo><mo>&#8230;</mo><mo>.</mo><mo>.</mo></math><br />Let <math><mi>m</mi><mo>=</mo><mi>n</mi><mfenced separators=\"|\"><mrow><mi>X</mi><mo>&#8745;</mo><mi>Y</mi></mrow></mfenced></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mn>16</mn><mo>+</mo><mfenced separators=\"|\"><mrow><mi>m</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>&#215;</mo><mn>35</mn><mo>&#8804;</mo><mn>10086</mn></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>m</mi><mo>&#8804;</mo><mn>288.71</mn></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>m</mi><mo>=</mo><mn>288</mn></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>n</mi><mfenced separators=\"|\"><mrow><mi>X</mi><mo>&#8746;</mo><mi>Y</mi></mrow></mfenced><mo>=</mo><mi>n</mi><mfenced separators=\"|\"><mrow><mi>X</mi></mrow></mfenced><mo>+</mo><mi>n</mi><mfenced separators=\"|\"><mrow><mi>Y</mi></mrow></mfenced><mo>-</mo><mi>n</mi><mfenced separators=\"|\"><mrow><mi>X</mi><mo>&#8745;</mo><mi>Y</mi></mrow></mfenced></math><br /><math><mo>=</mo><mi>&#160;</mi><mi>&#160;</mi><mn>2018</mn><mo>+</mo><mn>2018</mn><mo>-</mo><mn>288</mn><mo>=</mo><mn>3748</mn></math>",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3bf",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "The sides of a right-angled triangle are in arithmetic progression. If the triangle has area 24 square units, then what is the length of its smallest side?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>Let three sides of triangle be: <math><mi>a</mi><mo>-</mo><mi>d</mi><mo>,</mo><mi mathvariant=\"italic\"> a</mi><mo>,</mo><mi mathvariant=\"italic\"> a</mi><mo>+</mo><mi>d</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/46_solu_math_pap1.jpg\"/></p><p>Where, <math><mi>d</mi><mo>></mo><mn>0</mn><mo>,</mo><mi> </mi><mi>a</mi><mo>></mo><mn>0</mn></math>.</p><p><math><mo>⇒</mo></math>  length of smallest side <math><mo>=</mo><mi>a</mi><mo>-</mo><mi>d</mi></math> units</p><p>Now,  <math> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>a</mi><mo>+</mo><mi>d</mi> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> <mo>=</mo><msup> <mi>a</mi> <mn>2</mn> </msup> <mo>+</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>a</mi><mo>−</mo><mi>d</mi> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> </mrow> </math></p><p><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mi>a</mi><mfenced separators=\"|\"><mrow><mi>a</mi><mo>-</mo><mn>4</mn><mi>d</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math><mo>∴</mo><mi> </mi><mi> </mi><mi> </mi><mi>a</mi><mo>=</mo><mn>4</mn><mi>d</mi></math>        .....(i)</p><p>(As <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn></math> is rejected)</p><p>Also,    <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>a</mi><mo>.</mo><mfenced separators=\"|\"><mrow><mi>a</mi><mo>-</mo><mi>d</mi></mrow></mfenced><mo>=</mo><mn>24</mn></math></p><p><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi>a</mi><mfenced separators=\"|\"><mrow><mi>a</mi><mo>-</mo><mi>d</mi></mrow></mfenced><mo>=</mo><mn>48</mn></math>        .....(ii)</p><p><math><mo>∴</mo></math>     From (i) and (ii), we get  <math><mi>a</mi><mo>=</mo><mn>8</mn><mo>,</mo><mi> </mi><mi>d</mi><mo>=</mo><mn>2</mn></math></p><p>Hence, length of smallest side is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi>a</mi><mo>-</mo><mi>d</mi></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mn>8</mn><mo>-</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>6</mn></math>units</p>",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a4af23ac7d519f9b316",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Suppose that all the terms of an arithmetic progression (A.P.) are natural numbers. If the ratio of the sum of the first seven terms to the sum of the first eleven terms is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>:</mo><mn>11</mn></math> and the seventh terms lies in between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>130</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>140</mn></math>, then the common difference of this A.P. is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<math><mfrac><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>[</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>6</mn><mi>d</mi><mo>]</mo></mrow><mrow><mfrac><mrow><mn>11</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>[</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>10</mn><mi>d</mi><mo>]</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>6</mn></mrow><mrow><mn>11</mn></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mfrac><mrow><mi>a</mi><mo>+</mo><mn>3</mn><mi>d</mi></mrow><mrow><mi>a</mi><mo>+</mo><mn>5</mn><mi>d</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi>a</mi><mo>=</mo><mn>9</mn><mi>d</mi></math> <br >Also   <math><mn>130</mn><mo>&lt;</mo><mi>a</mi><mo>+</mo><mn>6</mn><mi>d</mi><mo>&lt;</mo><mn>140</mn></math> <br > <math><mn>130</mn><mo>&lt;</mo><mn>15</mn><mi>d</mi><mo>&lt;</mo><mn>140</mn></math> <br > <math><mo>⇒</mo><mi>d</mi><mo>=</mo><mn>9</mn></math>",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a10f23ac7d519f9b104",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Let $a_1, a_2, a_3, \\ldots ., a_{100}$ be an arithmetic progression with $a_1=3$ and $S_p=\\sum_{i=1}^p a_i$, $1 \\leq p \\leq 100$. For any integer $n$ with $1 \\leq n \\leq 20$, let $m=5 n$. If $\\frac{S_m}{S_n}$ does not depend on $n$, then $a_2$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "Given, $a_1=3, m=5 n$ and $a_1, a_2, \\ldots$ are in AP. $\\therefore \\frac{S_m}{S_n}=\\frac{S_{5 n}}{S_n}$ is independent of $n$. Now, $\\quad \\frac{\\frac{5 n}{2}[2 \\times 3+(5 n-1) d]}{\\frac{n}{2}[2 \\times 3+(n-1) d]}$ $\\Rightarrow \\quad \\frac{f\\{(6-d)+5 n\\}}{(6-d)+n}$ independent of $n$, if $\\begin{aligned} \\quad 6-d= & 0 \\Rightarrow d=6 \\\\ \\therefore \\quad a_2= & a_1+d=3+6=9 \\\\ & \\text { Or }\\end{aligned}$\nIf $d=0$ $\\frac{S_m}{S_n}$ is independent of $n$.\n$$\n\\therefore \\quad a_2=3\n$$",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16a08f23ac7d519f9b0b8",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Let $a_1, a_2, a_3, \\ldots, a_{11}$ be real numbers satisfying $a_1=15,27-2 a_2>0$ and $a_k=2 a_{k-1}-a_{k-2}$ for $k=3,4, \\ldots, 11$.\nIf $\\frac{a_1^2+a_2^2+\\ldots+a_{11}^2}{11}=90$, then the value of $\\frac{a_1+a_2+\\ldots+a_{11}}{11}$ is equal to",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0",
+    "solution_text": "$$\n\\text { } \\begin{aligned}\n& a_k=2 a_{k-1}-a_{k-2} \\\\\n& \\Rightarrow \\quad a_1, a_2, \\ldots, a_{11} \\text { are in AP } \\\\\n& \\therefore \\frac{a_1^2+a_2^2+\\ldots+a_{11}^2}{11} \\\\\n&=\\frac{11 a^2+35 \\times 11 d^2+10 a d}{11}=90 \\\\\n& \\Rightarrow \\quad 225+35 d^2+150 d=90 \\\\\n& 35 d^2+150 d+135=0 \\\\\n& \\Rightarrow \\quad d=-3,-\\frac{9}{7}\n\\end{aligned}\n$$\nGiven, $a_2 < \\frac{27}{2} \\therefore d=-3$ and $d \\neq-\\frac{9}{7}$\n$$\n\\Rightarrow \\quad \\frac{a_1+a_2+\\ldots+a_{11}}{11}\n$$\n$$\n=\\frac{11}{2}[30-10 \\times 3]=0\n$$",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $V_r$ denotes the sum of the first $r$ terms of an arithmetic progression $(A P)$ whose first term is $r$ and the common difference is $(2 r-1)$. Let $T_r=V_{r+1}-V_r-2$ and $Q_r=T_{r+1}-T_r$ for $r=1,2, \\ldots$<strong>Question:</strong>\nWhich one of the following is a correct statement?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VXcwT",
+        "text": "\n$Q_1, Q_2, Q_3, \\ldots$ are in AP with common difference 5\n",
+        "image": null
+      },
+      {
+        "id": "QYrFC",
+        "text": "\n$Q_1, Q_2, Q_3, \\ldots$ are in AP with common difference 6\n",
+        "image": null
+      },
+      {
+        "id": "pOlZH",
+        "text": "\n$Q_1, Q_2, Q_3, \\ldots$ are in AP with common difference 11\n",
+        "image": null
+      },
+      {
+        "id": "O36ez",
+        "text": "\n$Q_1=Q_2=Q_3=\\ldots$",
+        "image": null
+      }
+    ],
+    "correct_answer": "QYrFC",
+    "solution_text": "Since, $T_r=3 r^2+2 r-1$\n$$\n\\begin{array}{rlrl} \n& \\therefore & T_{r+1} & =3(r+1)^2+2(r+1)-1 \\\\\n& \\therefore & Q_r & =T_{r+1}-T_r=3[2 r+1]+2[1] \\\\\n\\Rightarrow & Q_r & =6 r+5 \\\\\n\\Rightarrow & Q_{r+1} & =6(r+1)+5\n\\end{array}\n$$\nCommon difference $=Q_{r+1}-Q_r=6$",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $V_r$ denotes the sum of the first $r$ terms of an arithmetic progression $(A P)$ whose first term is $r$ and the common difference is $(2 r-1)$. Let $T_r=V_{r+1}-V_r-2$ and $Q_r=T_{r+1}-T_r$ for $r=1,2, \\ldots$<strong>Question:</strong>\nThe sum $V_1+V_2+\\ldots+V_n$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IDSoA",
+        "text": "\n$\\frac{1}{12} n(n+1)\\left(3 n^2-n+1\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "xZ1ZQ",
+        "text": "\n$\\frac{1}{12} n(n+1)\\left(3 n^2+n+2\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "nql9f",
+        "text": "\n$\\frac{1}{2} n\\left(2 n^2-n+1\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "VwMid",
+        "text": "\n$\\frac{1}{3}\\left(2 n^3-2 n+3\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xZ1ZQ",
+    "solution_text": "$$\n\\begin{aligned}\n& V_r=\\frac{r}{2}[2 r+(r-1)(2 r-1)]=\\frac{1}{2}\\left(2 r^3-r^2+r\\right) \\\\\n& \\therefore \\quad \\Sigma V_r=\\frac{1}{2}\\left[2 \\Sigma r^3-\\Sigma r^2+\\Sigma r\\right] \\\\\n& =\\frac{1}{2}\\left[2\\left(\\frac{n(n+1)}{2}\\right)^2-\\frac{n(n+1)(2 n+1)}{6}+\\frac{n(n+1)}{2}\\right] \\\\\n& =\\frac{1}{12} n(n+1)\\left(3 n^2+n+2\\right) \\text {. } \\\\\n&\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Arithmetic Progression"
+  },
+  {
+    "question_id": "64b16aa5f23ac7d519f9b64b",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mn>7</mn><mover><mrow><mn>5</mn><mo>&#8230;</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>7</mn></mrow><mi>r</mi></mover></math> denote the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>r</mi><mo>+</mo><mn>2</mn></mrow></mfenced></math> digit number where the first and the last digits are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math> and the remaining <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> digits are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>. Consider the sum <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>77</mn><mo>+</mo><mn>757</mn><mo>+</mo><mn>7557</mn><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mover><mrow><mn>7</mn><mover><mrow><mn>5</mn><mo>&#8230;</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>7</mn></mrow><mn>98</mn></mover></math>.&nbsp;If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mo>&#160;</mo><mfrac><mrow><mn>7</mn><mstyle displaystyle=\"true\"><mover><mover><mrow><mn>5</mn><mo>&#8230;</mo><mn>5</mn><mo>&#160;</mo></mrow><mo>&#9182;</mo></mover><mn>99</mn></mover></mstyle><mn>7</mn><mo>+</mo><mi>m</mi></mrow><mi>n</mi></mfrac></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> are natural numbers less than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3000</mn></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>+</mo><mi>n</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1219",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>77</mn><mo>+</mo><mn>757</mn><mo>+</mo><mn>7557</mn><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mover><mrow><mn>7</mn><mover><mrow><mn>5</mn><mo>&#8230;</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>7</mn></mrow><mn>98</mn></mover></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mn>7</mn><mo>&#215;</mo><mn>10</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>100</mn><mo>+</mo><mn>5</mn><mo>&#215;</mo><mn>10</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>1000</mn><mo>+</mo><mn>5</mn><mo>&#215;</mo><mn>100</mn><mo>+</mo><mn>5</mn><mo>&#215;</mo><mn>10</mn><mo>+</mo><mn>7</mn><mo>&#8230;</mo><mo>+</mo><mover><mrow><mn>7</mn><mover><mrow><mn>5</mn><mo>&#8230;</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>7</mn></mrow><mn>98</mn></mover></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mn>7</mn><mfenced><mrow><mn>10</mn><mo>+</mo><msup><mn>10</mn><mn>2</mn></msup><mo>+</mo><mo>&#8230;</mo><mo>+</mo><msup><mn>10</mn><mn>99</mn></msup></mrow></mfenced><mo>+</mo><mn>50</mn><mfenced><mrow><mn>1</mn><mo>+</mo><mn>11</mn><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mover><mover><mrow><mn>111</mn><mo>&#8230;</mo><mn>1</mn></mrow><mo>&#9182;</mo></mover><mn>98</mn></mover></mrow></mfenced><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>99</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mn>70</mn><mfenced><mfrac><mrow><msup><mn>10</mn><mn>99</mn></msup><mo>-</mo><mn>1</mn></mrow><mn>9</mn></mfrac></mfenced><mo>+</mo><mfrac><mn>50</mn><mn>9</mn></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mfenced><mrow><mn>10</mn><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mfenced><mrow><msup><mn>10</mn><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mfenced><mrow><msup><mn>10</mn><mn>98</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>99</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mn>70</mn><mfenced><mfrac><mrow><msup><mn>10</mn><mn>99</mn></msup><mo>-</mo><mn>1</mn></mrow><mn>9</mn></mfrac></mfenced><mo>+</mo><mfrac><mn>50</mn><mn>9</mn></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mn>10</mn><mfenced><mfrac><mrow><msup><mn>10</mn><mn>98</mn></msup><mo>-</mo><mn>1</mn></mrow><mn>9</mn></mfrac></mfenced><mo>-</mo><mn>98</mn></mrow></mfenced><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>99</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mo>&#215;</mo><msup><mn>10</mn><mn>100</mn></msup></mrow><mn>9</mn></mfrac><mo>-</mo><mfrac><mn>70</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>50</mn><mn>9</mn></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mrow><msup><mn>10</mn><mn>99</mn></msup><mo>-</mo><mn>1</mn><mo>-</mo><mn>9</mn></mrow><mn>9</mn></mfrac><mo>-</mo><mn>98</mn></mrow></mfenced><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>99</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mo>&#215;</mo><msup><mn>10</mn><mn>100</mn></msup></mrow><mn>9</mn></mfrac><mo>-</mo><mfrac><mn>70</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>50</mn><mn>9</mn></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mover><mover><mrow><mn>111</mn><mo>&#8230;</mo><mn>1</mn></mrow><mo>&#9182;</mo></mover><mn>99</mn></mover><mo>-</mo><mn>99</mn></mrow></mfenced><mo>+</mo><mn>7</mn><mo>&#215;</mo><mn>99</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mo>&#215;</mo><msup><mn>10</mn><mn>100</mn></msup><mo>-</mo><mn>70</mn><mo>+</mo><mstyle displaystyle=\"true\"><mover><mover><mrow><mn>555</mn><mo>&#8230;</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>99</mn></mover></mstyle><mn>0</mn></mrow><mn>9</mn></mfrac><mo>-</mo><mn>550</mn><mo>+</mo><mn>693</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mstyle displaystyle=\"true\"><mover><mover><mrow><mn>555</mn><mo>&#8230;</mo><mo>.</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>99</mn></mover></mstyle><mo>-</mo><mn>70</mn><mo>+</mo><mn>143</mn><mo>&#215;</mo><mn>9</mn></mrow><mn>9</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>S</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mstyle displaystyle=\"true\"><mover><mover><mrow><mn>55</mn><mo>&#8230;</mo><mn>5</mn></mrow><mo>&#9182;</mo></mover><mn>99</mn></mover></mstyle><mn>7</mn><mo>+</mo><mn>1210</mn></mrow><mn>9</mn></mfrac></math></p><p>So, on comparing we get,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>+</mo><mi>n</mi><mo>=</mo><mn>1210</mn><mo>+</mo><mn>9</mn><mo>=</mo><mn>1219</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Geometric Progression"
+  },
+  {
+    "question_id": "64b16a93f23ac7d519f9b5ae",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $M=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x^{2}+y^{2} \\leq r^{2}\\right\\}$,\r\n\r\nwhere $r>0 .$ Consider the geometric progression $a_{n}=\\frac{1}{2^{n-1}}, n=1,2,3, \\ldots .$ Let $S_{0}=0$ and, for $n \\geq 1$, let $S_{n}$ denote the sum of the first $n$ terms of this progression. For $n \\geq 1$, let $C_{n}$ denote the circle with center $\\left(S_{n-1}, 0\\right)$ and radius $a_{n}$, and $D_{n}$ denote the circle with center $\\left(S_{n-1}, S_{n-1}\\right)$ and radius $a_{n}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nConsider $M$ with $r=\\frac{\\left(2^{199}-1\\right) \\sqrt{2}}{2^{198}} .$ The number of all those circles $D_{n}$ that are inside $M$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fOkxd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>198</mn></math>",
+        "image": null
+      },
+      {
+        "id": "l5nFO",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>199</mn></math>",
+        "image": null
+      },
+      {
+        "id": "9bkwS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn></math>",
+        "image": null
+      },
+      {
+        "id": "HF7Io",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>201</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "l5nFO",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt><msub><mrow><mo>&#160;</mo><mi>S</mi></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub><mo>&#60;</mo><mfenced><mfrac><mrow><msup><mn>2</mn><mn>199</mn></msup><mo>-</mo><mn>1</mn></mrow><msup><mn>2</mn><mn>198</mn></msup></mfrac></mfenced><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt><mfenced><mrow><mn>2</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup></mfrac></mrow></mfenced><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac><mo>&#60;</mo><mfenced><mfrac><mrow><msup><mn>2</mn><mn>199</mn></msup><mo>-</mo><mn>1</mn></mrow><msup><mn>2</mn><mn>198</mn></msup></mfrac></mfenced><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msqrt><mn>2</mn></msqrt><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup></mfrac><msqrt><mn>2</mn></msqrt><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac><mo>&#60;</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mo>-</mo><mfrac><msqrt><mn>2</mn></msqrt><msup><mn>2</mn><mn>198</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup></mfrac><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>-</mo><msqrt><mn>2</mn></msqrt></mrow></mfenced><mo>&#60;</mo><mo>-</mo><mfrac><msqrt><mn>2</mn></msqrt><msup><mn>2</mn><mn>198</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup></mfrac><mfrac><mrow><mo>(</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn><mo>)</mo></mrow><mn>2</mn></mfrac><mo>&#62;</mo><mfrac><msqrt><mn>2</mn></msqrt><msup><mn>2</mn><mn>198</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup><mo>&#60;</mo><mfenced><mrow><mn>2</mn><mo>-</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></mrow></mfenced><msup><mn>2</mn><mn>197</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>-</mo><mn>2</mn><mo>&#8804;</mo><mn>197</mn></math></p><p>number of circle<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mo>=</mo><mn>199</mn></math></p>",
+    "solution_image": null,
+    "topic": "Geometric Progression"
+  },
+  {
+    "question_id": "64b16a93f23ac7d519f9b5ad",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $M=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x^{2}+y^{2} \\leq r^{2}\\right\\}$,\r\n\r\nwhere $r>0 .$ Consider the geometric progression $a_{n}=\\frac{1}{2^{n-1}}, n=1,2,3, \\ldots .$ Let $S_{0}=0$ and, for $n \\geq 1$, let $S_{n}$ denote the sum of the first $n$ terms of this progression. For $n \\geq 1$, let $C_{n}$ denote the circle with center $\\left(S_{n-1}, 0\\right)$ and radius $a_{n}$, and $D_{n}$ denote the circle with center $\\left(S_{n-1}, S_{n-1}\\right)$ and radius $a_{n}$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nConsider $M$ with $r=\\frac{1025}{513}$. Let $k$ be the number of all those circles $C_{n}$ that are inside $M$. Let $l$ be the maximum possible number of circles among these $k$ circles such that no two circles intersect. Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8bc22",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mo>+</mo><mn>2</mn><mi>l</mi><mo>=</mo><mn>22</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Fhdl5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>k</mi><mo>+</mo><mi>l</mi><mo>=</mo><mn>26</mn></math>",
+        "image": null
+      },
+      {
+        "id": "qfwY6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>k</mi><mo>+</mo><mn>3</mn><mi>l</mi><mo>=</mo><mn>34</mn></math>",
+        "image": null
+      },
+      {
+        "id": "MHQRY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>k</mi><mo>+</mo><mn>2</mn><mi>l</mi><mo>=</mo><mn>40</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MHQRY",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mi>n</mi></msub><mo>=</mo><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mn>2</mn></msup></mfrac><mo>+</mo><mo>&#8230;</mo><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mi>n</mi></msup></mfrac></mrow></mfenced><mo>=</mo><mn>2</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac></math></p><p>Centre of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>n</mi></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup></mfrac><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p>and radius of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>n</mi></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac></math></p><p>when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mfrac><mn>1025</mn><mrow><mo>&#160;</mo><mn>513</mn></mrow></mfrac><mo>&#60;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>n</mi></msub></math> will lie inside&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math></p><p>when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></msup></mfrac><mo>+</mo><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac><mo>&#60;</mo><mfrac><mn>1025</mn><mrow><mo>&#160;</mo><mn>513</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>-</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mi>n</mi></msup><mo>&#60;</mo><mfrac><mn>1025</mn><mn>1026</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mn>2</mn><mi>n</mi></msup><mo>&#60;</mo><mn>1026</mn><mo>&#8658;</mo><mi>n</mi><mo>&#8804;</mo><mn>10</mn></math></p><p>Hence number of circles</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>k</mi><mo>=</mo><mn>10</mn></math></p><p>Also <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#8467;</mi><mo>=</mo><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>k</mi><mo>+</mo><mn>2</mn><mi>&#8467;</mi><mo>=</mo><mn>30</mn><mo>+</mo><mn>10</mn><mo>=</mo><mn>40</mn></math></p>",
+    "solution_image": null,
+    "topic": "Geometric Progression"
+  },
+  {
+    "question_id": "64b169d0f23ac7d519f9aeb3",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Let $A_n=\\left(\\frac{3}{4}\\right)-\\left(\\frac{3}{4}\\right)^2+\\left(\\frac{3}{4}\\right)^3+\\ldots+(-1)^{n-1}\\left(\\frac{3}{4}\\right)^n$ and $B_n=1-A_n$. Find a least odd natural number $n_0$, so that $B_n>A_n, \\forall n \\geq n_0$.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "$B_n=1-A_n>A_n \\Rightarrow A_n < \\frac{1}{2}$ Now, $A_n=\\frac{\\frac{3}{4}\\left(1-\\left(-\\frac{3}{4}\\right)^n\\right)}{1+\\frac{3}{4}} < \\frac{1}{2} \\Rightarrow\\left(-\\frac{3}{4}\\right)>-\\frac{1}{6}$\nObviously, it is true for all even values of $n$. But, for\n$$\n\\begin{aligned}\nn & =1, & \\frac{3}{4} & < \\frac{1}{6} \\\\\nn & =3, & \\frac{27}{64} & < \\frac{1}{6} \\\\\nn & =5, & \\frac{243}{1024} & >\\frac{1}{6}\n\\end{aligned}\n$$\nwhich is true for $n=7$.\nObviously, $n_0=7$",
+    "solution_image": null,
+    "topic": "Geometric Progression"
+  },
+  {
+    "question_id": "64b16a23f23ac7d519f9b1aa",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Let $a_{1}, a_{2}, a_{3}, \\ldots . .$ be in harmonic progression with $a_{1}=5$ and $a_{20}=25$. The least positive integer $n$ for which $a_{n} < 0$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9o1wM",
+        "text": "22",
+        "image": null
+      },
+      {
+        "id": "GUPzB",
+        "text": "23",
+        "image": null
+      },
+      {
+        "id": "DO2wv",
+        "text": "24",
+        "image": null
+      },
+      {
+        "id": "Fvb9E",
+        "text": "25",
+        "image": null
+      }
+    ],
+    "correct_answer": "Fvb9E",
+    "solution_text": "$\\because a_{1}, a_{2}, a_{3}, \\ldots \\ldots$ are in H.P.\r\n\r\n$\\begin{array}{l}\r\n\r\n\\therefore \\frac{1}{a_{1}}, \\frac{1}{a_{2}}, \\frac{1}{a_{3}} \\ldots \\ldots \\text { are in A.P. } \\\\\r\n\r\n\\therefore \\quad \\frac{1}{a_{1}}=\\frac{1}{5} \\text { and } \\frac{1}{a_{20}}=\\frac{1}{25} \\\\\r\n\r\n\\frac{1}{a_{1}}+19 d=\\frac{1}{a_{20}} \\Rightarrow \\frac{1}{5}+19 d=\\frac{1}{25} \\Rightarrow d=\\frac{-4}{475} \\\\\r\n\r\n\\text { Now } \\frac{1}{a_{n}}=\\frac{1}{5}+(n-1)\\left(\\frac{-4}{475}\\right) \\\\\r\n\r\n\\text { Clearly } a_{n} < 0, \\text { if } \\frac{1}{a_{n}} < 0 \\Rightarrow \\frac{1}{5}-\\frac{4 n}{475}+\\frac{4}{475} < 0 \\\\\r\n\r\n\\Rightarrow \\quad-4 n < -99 \\text { or } n>\\frac{99}{4}=24 \\frac{3}{4} \\quad \\therefore n \\geq 25 \\\\\r\n\r\n\\therefore \\quad \\text { Least value of } n \\text { is } 25 .\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Harmonic Progression"
+  },
+  {
+    "question_id": "64b16a81f23ac7d519f9b506",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Let <math><mi>m</mi></math> be the minimum possible value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><msup><mn>3</mn><msub><mi>y</mi><mn>1</mn></msub></msup><mo>+</mo><msup><mn>3</mn><msub><mi>y</mi><mn>2</mn></msub></msup><mo>+</mo><msup><mn>3</mn><msub><mi>y</mi><mn>3</mn></msub></msup></mrow></mfenced></math> , where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>y</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>y</mi><mn>3</mn></msub></math> are real numbers for which <math><mrow><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><msub><mi>y</mi><mn>3</mn></msub><mo>=</mo><mn>9</mn></mrow></math>. Let <math><mi>M</mi></math> be the maximum possible value of <math><mrow><mfenced><mrow><msub><mrow><mi>log</mi></mrow><mn>3</mn></msub><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mo>&#160;</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mo>&#160;</mo><msub><mi>x</mi><mn>3</mn></msub></mrow></mfenced></mrow></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>x</mi><mn>3</mn></msub></math> are positive real numbers for which <math><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mi>x</mi><mn>3</mn></msub><mo>=</mo><mn>9</mn></mrow></math>. Then the value of <math><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mo>&#160;</mo><mfenced><mrow><msup><mi>m</mi><mn>3</mn></msup></mrow></mfenced><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mfenced><mrow><msup><mi>M</mi><mn>2</mn></msup></mrow></mfenced></mrow></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<p>Applying A.M-G.M inequality,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mfrac><mrow><msup><mn>3</mn><msub><mi>y</mi><mn>1</mn></msub></msup><mo>+</mo><msup><mn>3</mn><msub><mi>y</mi><mn>2</mn></msub></msup><mo>+</mo><msup><mn>3</mn><msub><mi>y</mi><mn>3</mn></msub></msup></mrow><mn>3</mn></mfrac></mfenced><mo>&#8805;</mo><msup><mfenced><mrow><msup><mn>3</mn><msub><mi>y</mi><mn>1</mn></msub></msup><mo>&#8901;</mo><msup><mn>3</mn><msub><mi>y</mi><mn>2</mn></msub></msup><mo>&#8901;</mo><msup><mn>3</mn><msub><mi>y</mi><mn>3</mn></msub></msup></mrow></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mo>=</mo><msup><mfenced><msup><mn>3</mn><mrow><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><msub><mi>y</mi><mn>3</mn></msub></mrow></msup></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mn>3</mn><msub><mi>y</mi><mn>1</mn></msub></msup><mo>+</mo><msup><mn>3</mn><msub><mi>y</mi><mn>2</mn></msub></msup><mo>+</mo><msup><mn>3</mn><msub><mi>y</mi><mn>3</mn></msub></msup><mo>&#8805;</mo><mn>81</mn></math></p><p>So,&nbsp;<math><mrow><mi>m</mi><mo>=</mo><msub><mrow><mi>log</mi></mrow><mn>3</mn></msub><mfenced><mrow><mn>81</mn></mrow></mfenced><mo>=</mo><mn>4</mn></mrow></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>3</mn></msub><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>log</mi><mn>3</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mi>log</mi><mn>3</mn></msub><msub><mi>x</mi><mn>3</mn></msub><mo>=</mo><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>.</mo><msub><mi>x</mi><mn>2</mn></msub><mo>.</mo><mo>&#160;</mo><msub><mi>x</mi><mn>3</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mfrac><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mi>x</mi><mn>3</mn></msub></mrow><mn>3</mn></mfrac><mo>&#8805;</mo><msup><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>.</mo><msub><mi>x</mi><mn>2</mn></msub><mo>.</mo><msub><mi>x</mi><mn>3</mn></msub></mrow></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mo>&#8658;</mo><msub><mi>x</mi><mn>1</mn></msub><mo>.</mo><msub><mi>x</mi><mn>2</mn></msub><mo>.</mo><msub><mi>x</mi><mn>3</mn></msub><mo>&#8804;</mo><mn>27</mn></math>&nbsp;(applying A.M-G.M inequality)</p><p>So,&nbsp;<math><mrow><mi>M</mi><mo>=</mo><msub><mrow><mi>log</mi></mrow><mn>3</mn></msub><mn>27</mn><mo>=</mo><mn>3</mn></mrow></math></p><p>Thus, <math><mrow><msub><mrow><mi>log</mi></mrow><mn>2</mn></msub><mfenced><mrow><msup><mi>m</mi><mn>3</mn></msup></mrow></mfenced><mo>+</mo><msub><mrow><mi>log</mi></mrow><mn>3</mn></msub><mfenced><mrow><msup><mi>M</mi><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>8</mn></mrow></math></p>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "64b16a11f23ac7d519f9b105",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The minimum value of the sum of real numbers $a^{-5}, a^{-4}, 3 a^{-3}, 1, a^8$ and $a^{10}$ with $a>0$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "Using $A M \\geq G M$,\n$$\n\\begin{aligned}\n& \\frac{a^{-5}+a^{-4}+a^{-3}+a^{-3}+a^{-3}+1+a^8+a^{10}}{8} \\\\\n& \\geq\\left(a^{-5} \\cdot a^{-4} \\cdot a^{-3} \\cdot a^{-3} \\cdot a^{-3} \\cdot 1 \\cdot a^8 \\cdot a^{10}\\right)^{\\frac{1}{8}} \\\\\n& \\Rightarrow a^{-5}+a^{-4}+3 a^{-3}+1+a^8+a^{10} \\geq 8 \\cdot 1\n\\end{aligned}\n$$\nHence, minimum value is 8 .",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "64b16a45f23ac7d519f9b2e9",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td colspan=\"2\">Column I</td>\t\t\t<td colspan=\"2\">Column II</td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>)</mo></math></td>\t\t\t<td>In <math><msup><mrow><mi mathvariant=\"double-struck\">R</mi></mrow><mrow><mn>2</mn></mrow></msup></math> , if the magnitude of the projection vector of the vector <math><mi mathvariant=\"normal\">&#945;</mi><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">i</mi></mrow><mo>^</mo></mover><mo>+</mo><mi mathvariant=\"normal\">&#946;</mi><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">j</mi></mrow><mo>^</mo></mover><mi mathvariant=\"normal\">&#160;</mi></math> on <math><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">&#160;</mi><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">i</mi></mrow><mo>^</mo></mover><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">j</mi></mrow><mo>^</mo></mover></math> is <math><msqrt><mn>3</mn></msqrt></math> and if <math><mi mathvariant=\"normal\">&#945;</mi><mo>=</mo><mn>2</mn><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#946;</mi><mo>,</mo></math> then possible value (s) of <math><mo>|</mo><mi mathvariant=\"normal\">&#945;</mi><mo>|</mo></math> is (are)</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math></td>\t\t\t<td>1</td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math></td>\t\t\t<td>Let a and b be real numbers such that the function <math><mi mathvariant=\"normal\">f</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><mfenced close=\"\" open=\"{\" separators=\"|\"><mrow><mtable><mtr><mtd><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">a</mi><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn><mo>,</mo></mtd><mtd><mi mathvariant=\"normal\">x</mi><mo>&#60;</mo><mn>1</mn></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">x</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>,</mo></mtd><mtd><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">&#160;</mi><mo>&#8805;</mo><mn>1</mn></mtd></mtr></mtable></mrow></mfenced></math> is differentiable for all <math><mi mathvariant=\"normal\">x</mi><mo>&#8712;</mo><mi mathvariant=\"double-struck\">R</mi><mo>.</mo></math> Then possible value (s) of a is (are)</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Q</mi></mrow></mfenced></math></td>\t\t\t<td>2</td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math></td>\t\t\t<td>Let <math><mi mathvariant=\"normal\">&#969;</mi><mi mathvariant=\"normal\">&#160;</mi><mo>&#8800;</mo><mn>1</mn></math> be a complex cube roots of unity. If <math><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">&#969;</mi><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#160;</mi></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#969;</mi><mo>-</mo><mn>3</mn><msup><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mfenced separators=\"|\"><mrow><mo>-</mo><mn>3</mn><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">&#969;</mi><mo>+</mo><mn>3</mn><msup><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></mrow></msup><mo>=</mo><mn>0</mn></math> then possible value (s) of n is (are)</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfenced></math></td>\t\t\t<td>3</td>\t\t</tr>\t\t<tr>\t\t\t<td><math><mo>(</mo><mi mathvariant=\"normal\">D</mi><mo>)</mo></math></td>\t\t\t<td>Let the harmonic mean of two positive real numbers a and b 4. If q is a positive real number such that a, 5, q, b is an arithmetic progression, then the value (s) of |q &ndash; a| is (are)</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi></mrow></mfenced></math></td>\t\t\t<td>4</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mi mathvariant=\"normal\">(T)</mi></math></td>\t\t\t<td>5</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FqzQb",
+        "text": "a-t;b-t;c-q;d-s;",
+        "image": null
+      },
+      {
+        "id": "av21e",
+        "text": "a-s,t;b-r,s,t;c-q,r,s;d-t;",
+        "image": null
+      },
+      {
+        "id": "E2nZ1",
+        "text": "a-p,q;b-p,q;c-p,q,s,t;d-q,t;",
+        "image": null
+      },
+      {
+        "id": "WpE8J",
+        "text": "a-r,s;b-s,t;c-s,t;d-q,r,s,t;",
+        "image": null
+      }
+    ],
+    "correct_answer": "E2nZ1",
+    "solution_text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> As <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">α</mi><mo>+</mo><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><msqrt><mn>3</mn></msqrt><mo>⇒</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">α</mi><mo>+</mo><mi mathvariant=\"normal\">β</mi></mrow></mfenced><mo>=</mo><mn>2</mn><msqrt><mn>3</mn></msqrt></math> ...(i)<br />And, also <math><mi mathvariant=\"normal\">α</mi><mo>=</mo><mn>2</mn><mo>+</mo><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">β</mi></math> ...(ii)<br />Solving (i) &amp; (ii), we get<br /><math><mo>⇒</mo><mn>2</mn><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">β</mi><mo>=</mo><mo>±</mo><mn>2</mn><msqrt><mn>3</mn></msqrt></math><br /><math><mo>⇒</mo><mi mathvariant=\"normal\">β</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mo>-</mo><msqrt><mn>3</mn></msqrt></math><br />So, <math><mi mathvariant=\"normal\">α</mi><mo>=</mo><mn>2</mn></math> and <math><mo>-</mo><mn>1</mn></math><br />i.e, <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">α</mi></mrow></mfenced><mo>=</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>1</mn></math><br /><math><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math> Here <math><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">a</mi><mo>-</mo><mn>2</mn><mo>=</mo><mi mathvariant=\"normal\">b</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup></math> ...(i)<br />And <math><mo>-</mo><mn>6</mn><mi mathvariant=\"normal\">a</mi><mo>=</mo><mi mathvariant=\"normal\">b</mi></math> ...(ii)<br />Solving (i) and (ii),<br /><math><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">a</mi><mo>-</mo><mn>2</mn><mo>=</mo><mo>-</mo><mn>6</mn><mi mathvariant=\"normal\">a</mi><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math><mo>⇒</mo><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">a</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math><br /><math><mo>⇒</mo><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>2</mn></math><br /><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> Here, <math><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">ω</mi><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></mrow></msup><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></mrow></msup></mrow></mfenced><mi mathvariant=\"normal\">&nbsp;</mi></math><br /><math><mo>⇒</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mo>-</mo><mn>3</mn><mi mathvariant=\"normal\">ω</mi><mo>+</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi><mo>+</mo><mn>3</mn></mrow></msup><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">n</mi></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>8</mn><mi mathvariant=\"normal\">n</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math><br />So, <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>4</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>5</mn></math><br /><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced></math> <math><mi mathvariant=\"normal\">q</mi><mo>-</mo><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">d</mi></math><br />Let <math><mi mathvariant=\"normal\">q</mi><mo>-</mo><mi mathvariant=\"normal\">q</mi><mo>=</mo><mi mathvariant=\"normal\">α</mi><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">d</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math><br /><math><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>5</mn><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">b</mi><mo>=</mo><mi mathvariant=\"normal\">a</mi><mo>+</mo><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mn>5</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></math><br />Now, <math><mfrac><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">b</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi><mo>+</mo><mi mathvariant=\"normal\">b</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math><br /><math><mo>⇒</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><mn>5</mn><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>5</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfenced></mrow><mrow><mn>5</mn><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">α</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>+</mo><mn>5</mn><mo>+</mo><mi mathvariant=\"normal\">α</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math><br /><math><mo>⇒</mo><mi mathvariant=\"normal\">α</mi><mo>=</mo><mn>5</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mo>-</mo><mn>2</mn></math><br /><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">α</mi></mrow></mfenced><mo>=</mo><mn>5</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Means"
+  },
+  {
+    "question_id": "64b169def23ac7d519f9af38",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $A_1, G_1, H_1$ denote the arithmetic, geometric and harmonic means respectively, of two distinct positive numbers. For $n \\geq 2$, let $A_{n-1}$ and $H_{n-1}$ has arithmetic, geometric and harmonic means as $A_n, G_n, H_n$, respectively.<strong>Question:</strong>\nWhich of the following statements is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cFAM3",
+        "text": "\n$\\mathrm{H}_1>\\mathrm{H}_2>\\mathrm{H}_3>\\ldots$\n",
+        "image": null
+      },
+      {
+        "id": "Wm9k5",
+        "text": "\n$H_1 < H_2 < H_3 < \\ldots$",
+        "image": null
+      },
+      {
+        "id": "Vo4Vu",
+        "text": "\n$H_1>H_3>H_5>\\ldots$ and $H_2 < H_4 < H_6 < \\ldots$",
+        "image": null
+      },
+      {
+        "id": "do7Yf",
+        "text": "\n$\\mathrm{H}_1 < \\mathrm{H}_3 < \\mathrm{H}_5 < \\ldots$ and $\\mathrm{H}_2>\\mathrm{H}_4>\\mathrm{H}_6>\\ldots$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Wm9k5",
+    "solution_text": "As above $A_1>H_2>H_1, A_2>H_3>H_2$ $\\therefore \\quad H_1 < H_2 < H_3 < \\ldots$",
+    "solution_image": null,
+    "topic": "Means"
+  },
+  {
+    "question_id": "64b169def23ac7d519f9af37",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $A_1, G_1, H_1$ denote the arithmetic, geometric and harmonic means respectively, of two distinct positive numbers. For $n \\geq 2$, let $A_{n-1}$ and $H_{n-1}$ has arithmetic, geometric and harmonic means as $A_n, G_n, H_n$, respectively.<strong>Question:</strong>\nWhich of the following statements is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4iCDg",
+        "text": "\n$A_1>A_2>\\ldots$\n",
+        "image": null
+      },
+      {
+        "id": "11hoS",
+        "text": "\n$A_1 < A_2 < A_3 < \\ldots$",
+        "image": null
+      },
+      {
+        "id": "0xR7b",
+        "text": "\n$A_1>A_3>A_5>\\ldots$ and $A_2 < A_4 < A_6 < \\ldots$",
+        "image": null
+      },
+      {
+        "id": "4Hgzn",
+        "text": "\n$A_1 < A_3 < A_5 < \\ldots$ and $A_2>A_4>A_6>\\ldots$",
+        "image": null
+      }
+    ],
+    "correct_answer": "4iCDg",
+    "solution_text": "Let $f(x)=k e^x-x$\n$\\begin{aligned} & & f^{\\prime}(x) & =k e^x-1=0 \\\\ & & x & =-\\ln k \\\\ & \\therefore & f^{\\prime \\prime}(x) & =k e^x \\\\ & \\text { Hence, } & {\\left[f^{\\prime \\prime}(x)\\right]_{x=-\\ln k} } & =1>0 \\\\ & & f(-\\ln k) & =1+\\ln k\\end{aligned}$\nFor one root of given equation\n$$\n\\begin{aligned}\n1+\\ln k & =0 \\\\\nHence,\nk & =\\frac{1}{e} .\n\\end{aligned}\n$$\n$A_2$ is $A M$ of $A_1$ and $H_1$ and $A_1>H_1$\n$$\n\\Rightarrow \\quad A_1>A_2>H_1\n$$\n$A_3$ is $\\mathrm{AM}$ of $\\mathrm{A}_2$ and $\\mathrm{H}_2$ and $\\mathrm{A}_2>\\mathrm{H}_2$\n$$\n\\begin{array}{ll}\n\\Rightarrow & A_2>A_3>H_2 \\\\\n\\therefore & A_1>A_2>A_3>\\ldots\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Means"
+  },
+  {
+    "question_id": "64b169def23ac7d519f9af36",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $A_1, G_1, H_1$ denote the arithmetic, geometric and harmonic means respectively, of two distinct positive numbers. For $n \\geq 2$, let $A_{n-1}$ and $H_{n-1}$ has arithmetic, geometric and harmonic means as $A_n, G_n, H_n$, respectively.<strong>Question:</strong>\nWhich one of the following statements is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "y7QbW",
+        "text": "\n$G_1>G_2>G_3>\\ldots$\n",
+        "image": null
+      },
+      {
+        "id": "PnRmU",
+        "text": "\n$G_1 < G_2 < G_3 < \\ldots$",
+        "image": null
+      },
+      {
+        "id": "Dp9r2",
+        "text": "\n$G_1=G_2=G_3=\\ldots$\n",
+        "image": null
+      },
+      {
+        "id": "9jpZq",
+        "text": "\n$G_1 < G_3 < G_5 < \\ldots$ and $G_2>G_4>G_6>\\ldots$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Dp9r2",
+    "solution_text": "$A_1=\\frac{a+b}{2}, G_1=\\sqrt{a b}$ and $H_1=\\frac{2 a b}{a+b}$ $\\begin{aligned} A_n=\\frac{A_{n-1}+H_{n-1}}{2}, G_n & =\\sqrt{A_{n-1} H_{n-1}}, \\\\ H_n & =\\frac{2 A_{n-1} H_{n-1}}{A_{n-1}+H_{n-1}}\\end{aligned}$\nClearly, $\\quad G_1=G_2=G_3=\\ldots=\\sqrt{a b}$.",
+    "solution_image": null,
+    "topic": "Means"
+  },
+  {
+    "question_id": "64b16a81f23ac7d519f9b507",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>a</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>a</mi><mn>3</mn></msub><mo>,</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>&nbsp;be a sequence of positive integers in arithmetic progression with common difference <math><mn>2</mn></math>. Also, let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>b</mi><mn>1</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>b</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi>b</mi><mn>3</mn></msub><mo>,</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>&nbsp;be a sequence of positive integers in geometric progression with common ratio <math><mn>2</mn></math>. If <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><msub><mi>b</mi><mn>1</mn></msub><mo>=</mo><mi>c</mi></mrow></math>, then the number of all possible values of <math><mi>c</mi></math>, for which the equality <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mfenced><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub></mrow></mfenced><mo>=</mo><msub><mi>b</mi><mn>1</mn></msub><mo>+</mo><msub><mi>b</mi><mn>2</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>b</mi><mi>n</mi></msub></math>&nbsp;holds for some positive integer <math><mi>n</mi></math>, is _______",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mfenced><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub></mrow></mfenced><mo>=</mo><msub><mi>b</mi><mn>1</mn></msub><mo>+</mo><msub><mi>b</mi><mn>2</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>b</mi><mi>n</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mfrac><mi>n</mi><mn>2</mn></mfrac><mfenced open=\"[\" close=\"]\"><mrow><mn>2</mn><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mfenced><mrow><mi>n</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mo>&#8901;</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mfrac><mrow><msub><mi>b</mi><mn>1</mn></msub><mo>&#8901;</mo><mfenced><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>&#8722;</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn><mo>&#8722;</mo><mn>1</mn></mrow></mfrac></math></p><p><math><mrow><mo>&#8658;</mo><mi>n</mi><mfenced close=\"]\" open=\"[\"><mrow><mn>2</mn><mi>c</mi><mo>+</mo><mn>2</mn><mi>n</mi><mo>&#8722;</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mi>c</mi><mfenced><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>&#8722;</mo><mn>1</mn></mrow></mfenced></mrow></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>n</mi><mfenced open=\"[\" close=\"]\"><mrow><mi>c</mi><mo>+</mo><mi>n</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mi>c</mi><mfenced><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>&#8722;</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>c</mi><mfenced open=\"[\" close=\"]\"><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>&#8722;</mo><mn>2</mn><mi>n</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>2</mn><mi>n</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>c</mi><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>2</mn><mi>n</mi></mrow><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>&#8722;</mo><mn>2</mn><mi>n</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfrac><mo>&#8805;</mo><mn>1</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>i</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>2</mn><mi>n</mi><mo>&#8805;</mo><msup><mn>2</mn><mi>n</mi></msup><mo>&#8722;</mo><mn>2</mn><mi>n</mi><mo>&#8722;</mo><mn>1</mn></math></p><p><math><mrow><mo>&#8658;</mo><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>&#8805;</mo><msup><mn>2</mn><mi>n</mi></msup><mo>&#8658;</mo><mi>n</mi><mo>&#8804;</mo><mn>6</mn></mrow></math></p><p>Now put <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mo>&#160;</mo><mn>6</mn></math> in equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced></math>&nbsp;and using <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mo>&#8712;</mo><msup><mi>I</mi><mo>+</mo></msup></math>,&nbsp;we get</p><p><math><mrow><mi>c</mi><mo>=</mo><mn>12</mn></mrow></math>, when <math><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow></math></p><p>So, only one value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math>&nbsp;is possible.</p>",
+    "solution_image": null,
+    "topic": "Mixed Question on AP and GP"
+  },
+  {
+    "question_id": "64b16a56f23ac7d519f9b383",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let <math><msub><mrow><mi>b</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>&#62;</mo><mn>1</mn></math> for <math><mi>i</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>&#160;</mi><mn>2</mn><mo>,</mo><mo>&#8230;</mo><mo>.</mo><mo>,</mo><mn>101</mn><mo>.</mo></math> Suppose <math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mrow><mo>,</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow><mo>,</mo><mo>&#8230;</mo><mo>.</mo><mo>.</mo><mo>,</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></mrow></mrow></math> are in Arithmetic Progression (A.P.) with the common difference <math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>&#8289;</mo><mrow><mn>2</mn></mrow></mrow><mo>.</mo><mi>&#160;</mi></math> Suppose <math><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mo>&#8230;</mo><mo>.</mo><mo>,</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub></math> are in A.P. such that <math><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>a</mi></mrow><mrow><mn>51</mn></mrow></msub><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>51</mn></mrow></msub><mo>.</mo></math> If <math><mi>t</mi><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mo>&#8230;</mo><mo>+</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>51</mn></mrow></msub></math> and <math><mi>s</mi><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mo>&#8230;</mo><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>51</mn></mrow></msub></math> then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "q552b",
+        "text": "<math><mi>s</mi><mo>&gt;</mo><mi>t</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "OUQOH",
+        "text": "<math><mi>s</mi><mo>&gt;</mo><mi>t</mi><mi>&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&lt;</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "78UVA",
+        "text": "<math><mi>s</mi><mo>&lt;</mo><mi>t</mi><mi>&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></math><br /><math><mi>s</mi><mo>&lt;</mo><mi>t</mi><mi>&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "mrwia",
+        "text": "<math><mi>s</mi><mo>&lt;</mo><mi>t</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&lt;</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></math><br /><math><mi>s</mi><mo>&lt;</mo><mi>t</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&lt;</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "OUQOH",
+    "solution_text": "If <math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><msub><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>…</mo><mo>.</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub></mrow></mrow></mrow></mrow></mrow></mrow><mo>→</mo><mi>A</mi><mi>P</mi><mo>;&nbsp; &nbsp; &nbsp;</mo><mi>difference(d)</mi><mo>=</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><mn>2</mn></mrow></mrow></math><br /><math> <mo>⇒</mo><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>,</mo><msub> <mi>b</mi> <mn>2</mn> </msub> <mo>,</mo><msub> <mi>b</mi> <mn>3</mn> </msub> <mn>.......</mn><msub> <mi>b</mi> <mrow> <mn>101</mn> </mrow> </msub> <mo>→</mo><mi>G</mi><mi>P</mi><mo>;</mo><mi>r</mi><mo>=</mo><mn>2</mn> </math><br /><math> <mo>∴</mo><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>,</mo><mn>2</mn><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>,</mo><msup> <mn>2</mn> <mn>2</mn> </msup> <msub> <mi>b</mi> <mn>1</mn> </msub> <mn>.........</mn><mo>,</mo><msup> <mn>2</mn> <mrow> <mn>100</mn> </mrow> </msup> <msub> <mi>b</mi> <mn>1</mn> </msub> <mo>→</mo><mi>G</mi><mi>P</mi> </math><br /><math> <msub> <mi>a</mi> <mn>1</mn> </msub> <mo>,</mo><msub> <mi>a</mi> <mn>2</mn> </msub> <mo>,</mo><msub> <mi>a</mi> <mn>3</mn> </msub> <mn>..........</mn><msub> <mi>a</mi> <mrow> <mn>101</mn> </mrow> </msub> <mo>→</mo><mi>A</mi><mi>P</mi><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext> </math> Let Common Difference = D<br />Given, <math><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi>a</mi></mrow><mrow><mn>51</mn></mrow></msub><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>51</mn></mrow></msub></math><br /><math><mo>⇒</mo></math> <math><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>50</mn><mi>D</mi><mo>=</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>50</mn></mrow></msup><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br /><math> <mo>∴</mo><msub> <mi>a</mi> <mn>1</mn> </msub> <mo>+</mo><mn>50</mn><mi>D</mi><mo>=</mo><msup> <mn>2</mn> <mrow> <mn>50</mn> </mrow> </msup> <msub> <mi>a</mi> <mn>1</mn> </msub> <mrow><mo>(</mo> <mrow> <mi>A</mi><mi>s</mi><mtext> </mtext><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>=</mo><msub> <mi>a</mi> <mn>1</mn> </msub> </mrow> <mo>)</mo></mrow><mo>⇒</mo><mi>D</mi><mo>=</mo><mfrac> <mrow> <msup> <mn>2</mn> <mrow> <mn>50</mn> </mrow> </msup> <msub> <mi>a</mi> <mn>1</mn> </msub> <mo>−</mo><msub> <mi>a</mi> <mn>1</mn> </msub> </mrow> <mrow> <mn>50</mn> </mrow> </mfrac> </math><br /><math> <mi>t</mi><mo>=</mo><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>+</mo><msub> <mi>b</mi> <mn>2</mn> </msub> <mo>+</mo><mn>.......</mn><msub> <mi>b</mi> <mrow> <mn>51</mn> </mrow> </msub> <mo>=</mo><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>+</mo><mn>2</mn><msub> <mi>b</mi> <mn>1</mn> </msub> <mo>+</mo><msup> <mn>2</mn> <mn>2</mn> </msup> <msub> <mi>b</mi> <mn>1</mn> </msub> <mo>+</mo><msup> <mn>.......2</mn> <mrow> <mn>50</mn> </mrow> </msup> <msub> <mi>b</mi> <mn>1</mn> </msub> <mo>⇒</mo><mi>t</mi><mo>=</mo><msub> <mi>b</mi> <mn>1</mn> </msub> <mrow><mo>(</mo> <mrow> <msup> <mn>2</mn> <mrow> <mn>51</mn> </mrow> </msup> <mo>−</mo><mn>1</mn> </mrow> <mo>)</mo></mrow><mo>;</mo></math><br /><math><mi>s</mi><mo>=</mo><msub> <mi>a</mi> <mn>1</mn> </msub> <mo>+</mo><msub> <mi>a</mi> <mn>2</mn> </msub> <mo>+</mo><mn>.......</mn><msub> <mi>a</mi> <mrow> <mn>51</mn> </mrow> </msub> <mo>⇒</mo><mi>s</mi><mo>=</mo><mfrac> <mrow> <mn>51</mn> </mrow> <mn>2</mn> </mfrac> <mrow><mo>(</mo> <mrow> <mn>2</mn><msub> <mi>a</mi> <mn>1</mn> </msub> <mo>+</mo><mn>50</mn><mi>D</mi> </mrow> <mo>)</mo></mrow><mtext> </mtext></math><br /><math><mi>t</mi><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>.</mo><mi>&nbsp;</mi><msup><mrow><mn>2</mn></mrow><mrow><mn>51</mn></mrow></msup><mo>-</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>⇒</mo><mi>t</mi><mo>&lt;</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>.</mo><mi>&nbsp;</mi><msup><mrow><mn>2</mn></mrow><mrow><mn>51</mn></mrow></msup></math> .......(i)&nbsp; <math> <mrow><mo>(</mo> <mrow> <mi>a</mi><mi>s</mi><mtext> </mtext><msub><mi>b</mi><mi>i</mi></msub><mo>&gt;</mo><mn>1</mn><mo>&nbsp;&amp;&nbsp;</mo><msub> <mi>a</mi> <mn>1</mn> </msub> <mo>=</mo><msub> <mi>b</mi> <mn>1</mn> </msub> <mtext> </mtext><mtext> </mtext><mi>s</mi><mi>o</mi><mtext> </mtext><mtext> </mtext><msub><mi>a</mi><mo>1</mo></msub><mo>&gt;</mo><mn>1</mn> </mrow> <mo>)</mo></mrow> </math><br /><math><mi>s</mi><mo>=</mo><mfrac><mrow><mn>51</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>50</mn><mi>D</mi></mrow></mfenced></math><br /><math><mi>s</mi><mo>=</mo><mfrac><mrow><mn>51</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>50</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math><br /><math><mi>s</mi><mo>=</mo><mfrac><mrow><mn>51</mn><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>51</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>50</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br /><math><mo>⇒</mo></math> <math><mi>s</mi><mo>&gt;</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>.</mo><mi>&nbsp;</mi><msup><mrow><mn>2</mn></mrow><mrow><mn>51</mn></mrow></msup></math> ......(ii)<br />Clearly <math><mi>s</mi><mo>&gt;</mo><mi>t</mi></math> (from equation (i) and (ii))<br />Also <math><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>100</mn><mi>D</mi><mo>;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>=</mo><msub><mrow><mi>b</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>.</mo><mi>&nbsp;</mi><msup><mrow><mn>2</mn></mrow><mrow><mn>100</mn></mrow></msup></math><br /><math><mo>∴</mo></math> <math><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mn>100</mn><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mn>2</mn></mrow><mrow><mn>50</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></mfenced><mo>;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>=</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>100</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></math> .......(ii)<br /><math><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>51</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><mn>2</mn><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>=</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>51</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&nbsp;</mi><mo>⇒</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&lt;</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>51</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></math> .......(iv)<br />Clearly <math><msub><mrow><mi>b</mi></mrow><mrow><mn>101</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>101</mn></mrow></msub></math> (from equation (iii) and (iv))",
+    "solution_image": null,
+    "topic": "Mixed Question on AP and GP"
+  },
+  {
+    "question_id": "64b16a38f23ac7d519f9b26b",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Let a, b, c be positive integers such that <math><mfrac><mrow><mi>b</mi></mrow><mrow><mi>a</mi></mrow></mfrac></math> is an integer. If a, b, c are in geometric progression and the arithmetic mean of a, b, c is b + 2, then the value of <math><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>a</mi><mo>-</mo><mn>14</mn></mrow><mrow><mi>a</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mi>&#160;</mi></math> is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<math><mfrac><mrow><mi>b</mi></mrow><mrow><mi>c</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>c</mi></mrow><mrow><mi>b</mi></mrow></mfrac><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi></mrow></mfenced></math> <br > <math><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi>a</mi><mi>c</mi><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi>c</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>a</mi></mrow></mfrac></math> <br > <math><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mi>b</mi><mo>+</mo><mn>2</mn></math> <br > <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>3</mn><mi>b</mi><mo>+</mo><mn>6</mn><mo>⇒</mo><mi>a</mi><mo>-</mo><mn>2</mn><mi>b</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>6</mn></math> <br > <math><mi>a</mi><mo>-</mo><mn>2</mn><mi>b</mi><mo>+</mo><mfrac><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>a</mi></mrow></mfrac><mo>=</mo><mn>6</mn><mi> </mi><mo>⇒</mo><mn>1</mn><mo>-</mo><mfrac><mrow><mn>2</mn><mi>b</mi></mrow><mrow><mi>a</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>6</mn></mrow><mrow><mi>a</mi></mrow></mfrac></math> <br > <math><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>b</mi></mrow><mrow><mi>a</mi></mrow></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>6</mn></mrow><mrow><mi>a</mi></mrow></mfrac><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi>a</mi><mo>=</mo><mn>6</mn></math>  only",
+    "solution_image": null,
+    "topic": "Mixed Question on AP and GP"
+  },
+  {
+    "question_id": "64b16a2bf23ac7d519f9b1f8",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A pack contains n cards numbered from 1 to n. Two consecutive numbered cards are removed from the pack and the sum of the numbers on the remaining cards is 1224. If the smaller of the numbers on the removed cards is k, then&nbsp;<math> <mrow> <mtext>k</mtext> <mo>-</mo> <mn>2</mn> <mn>0</mn> <mo>=</mo> </mrow> </math>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "Clearly,&nbsp;&nbsp; 1 + 2 + 3+.......+n - 2 <math> <mrow> <mo>&#8804;</mo> </mrow> </math> 1224 <math> <mrow> <mo>&#8804;</mo> </mrow> </math> 3 + 4+.......n<br /><math> <mrow> <mo>&#8658;&#160;&#160;&#160;&#160;</mo> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>n</mtext> <mo>-</mo> <mn>2</mn> </mrow> </mfenced> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>n</mtext> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mo>&#8804;</mo> <mn>1</mn> <mn>2</mn> <mn>2</mn> <mn>4</mn> <mo>&#8804;</mo> <mfrac> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>n</mtext> <mo>-</mo> <mn>2</mn> </mrow> </mfenced> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>3</mn> <mo>+</mo> <mtext>n</mtext> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <mo>&#8658;&#160;&#160;&#160;&#160;</mo> <msup> <mtext>n</mtext> <mn>2</mn> </msup> <mo>-</mo> <mn>3</mn> <mtext>n</mtext> <mo>-</mo> <mn>2</mn> <mn>4</mn> <mn>4</mn> <mn>6</mn> <mo>&#8804;</mo> <mn>0</mn> <mtext>&#160;and&#160;</mtext> <msup> <mtext>n</mtext> <mn>2</mn> </msup> <mo>+</mo> <mtext>n</mtext> <mo>-</mo> <mn>2</mn> <mn>4</mn> <mn>5</mn> <mn>4</mn> <mo>&#8805;</mo> <mn>0</mn> </mrow> </math><br /><math> <mrow> <mo>&#8658;&#160;&#160;&#160;&#160;</mo> <mn>4</mn> <mn>9</mn> <mo>&#60;</mo> <mtext>n</mtext> <mo>&#60;</mo> <mn>5</mn> <mn>1&#160;&#160;</mn> <mo>&#8658;&#160;&#160;</mo> <mtext>n</mtext> <mo>=</mo> <mn>5</mn> <mn>0</mn> </mrow> </math><br /><math> <mrow> <mo>&#8756;&#160;&#160;&#160;&#160;</mo> <mfrac> <mrow> <mtext>n</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>n</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <mo>-</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mtext>k</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> <mo>=</mo> <mn>1</mn> <mn>2</mn> <mn>2</mn> <mn>4&#160;</mn> <mo>&#8658;&#160;</mo> <mtext>k</mtext> <mo>=</mo> <mn>2</mn> <mn>5</mn> <mo>&#8658;</mo> <mtext>k</mtext> <mo>-</mo> <mn>2</mn> <mn>0</mn> <mo>=</mo> <mn>5</mn> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Mixed Question on AP and GP"
+  },
+  {
+    "question_id": "64b169ecf23ac7d519f9afb6",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Suppose four distinct positive numbers $a_1, a_2, a_3$ and $a_4$ are in GP. Let $b_1=a_1$, $b_2=b_1+a_2, b_3=b_2+a_3$ and $b_4=b_3+a_4$.\nStatement 1 The numbers $b_1, b_2, b_3$ and $b_4$ are neither in AP nor in GP.\nStatement 2 The numbers $b_1, b_2, b_3$ and $b_4$ are in HP.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ywWR8",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "imC5R",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "zjS3c",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "ehjCy",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "zjS3c",
+    "solution_text": "Let $a_1=1, a_2=2, a_3=4, a_4=8$\n$$\n\\therefore b_1=1, b_2=3, b_3=7, b_4=15\n$$\nClearly, $b_1, b_2, b_3$ and $b_4$ are not in HP.\nStatement 2 is false.",
+    "solution_image": null,
+    "topic": "Mixed Question on AP and GP"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef5",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nLet $V_r$ denotes the sum of the first $r$ terms of an arithmetic progression $(A P)$ whose first term is $r$ and the common difference is $(2 r-1)$. Let $T_r=V_{r+1}-V_r-2$ and $Q_r=T_{r+1}-T_r$ for $r=1,2, \\ldots$<strong>Question:</strong>\n$T_r$ is always",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gvHPO",
+        "text": "\nan odd number\n",
+        "image": null
+      },
+      {
+        "id": "2Hn9A",
+        "text": "\nan even number\n",
+        "image": null
+      },
+      {
+        "id": "yNwup",
+        "text": "\na prime number\n",
+        "image": null
+      },
+      {
+        "id": "WM1as",
+        "text": "\na composite number",
+        "image": null
+      }
+    ],
+    "correct_answer": "WM1as",
+    "solution_text": "$V_{r+1}-V_r=(r+1)^3-r^3-\\frac{1}{2}\\left[(r+1)^2-r^2\\right]+\\frac{1}{2}(1)$\n$$\n\\begin{aligned}\n& =3 r^2+2 r+1 \\\\\n\\therefore \\quad T_r & =3 r^2+2 r-1=(r+1)(3 r-1)\n\\end{aligned}\n$$\nwhich is a composite number.",
+    "solution_image": null,
+    "topic": "Mixed Question on AP and GP"
+  },
+  {
+    "question_id": "64b16a99f23ac7d519f9b5e1",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><msub><mi>a</mi><mn>2</mn></msub><mo>,</mo><msub><mi>a</mi><mn>3</mn></msub><mo>,</mo><mo>&#8230;</mo></math>&nbsp;be an arithmetic progression with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>7</mn></math>&nbsp;and common difference <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>,</mo><msub><mi>T</mi><mn>2</mn></msub><mo>,</mo><msub><mi>T</mi><mn>3</mn></msub><mo>,</mo><mo>&#8230;</mo></math>&nbsp;be such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>-</mo><msub><mi>T</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mi>n</mi></msub></math>&nbsp;fo <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#8805;</mo><mn>1</mn></math>. Then, which of the following is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RQ4gw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>20</mn></msub><mo>=</mo><mn>1604</mn></math>",
+        "image": null
+      },
+      {
+        "id": "eBYTx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>20</mn></munderover><msub><mi>T</mi><mi>k</mi></msub><mo>=</mo><mn>10510</mn></math>",
+        "image": null
+      },
+      {
+        "id": "4OPsC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>30</mn></msub><mo>=</mo><mn>3454</mn></math>",
+        "image": null
+      },
+      {
+        "id": "2Srt1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>30</mn></munderover><msub><mi>T</mi><mi>k</mi></msub><mo>=</mo><mn>35610</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4OPsC",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>7</mn><mo>+</mo><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>8</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn></math></p><p>Also&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>T</mi><mi>n</mi></msub><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mi>n</mi></msub><mo>=</mo><msub><mi>T</mi><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>+</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msub></math></p><p>Putting&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>1</mn></math>&nbsp;we get,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub><mo>=</mo><msub><mi>T</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub></math></p><p>Now putting&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>2</mn></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>3</mn></msub><mo>=</mo><msub><mi>T</mi><mn>2</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><mo>&#8658;</mo><msub><mi>T</mi><mn>3</mn></msub><mo>=</mo><msub><mi>T</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub></math></p><p>And so on we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><msub><mi>T</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>T</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mo>&#8230;</mo><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><msub><mi>T</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>T</mi><mn>1</mn></msub><mo>+</mo><mfrac><mi>n</mi><mn>2</mn></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mn>2</mn><mfenced><mn>7</mn></mfenced><mo>+</mo><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>8</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><msub><mi>T</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>T</mi><mn>1</mn></msub><mo>+</mo><mi>n</mi><mfenced><mrow><mn>4</mn><mi>n</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>1</mn></mfenced></math></p><p>Now for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>19</mn></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>20</mn></msub><mo>=</mo><mn>3</mn><mo>+</mo><mfenced><mn>19</mn></mfenced><mfenced><mn>79</mn></mfenced><mo>=</mo><mn>1504</mn></math></p><p>And for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>29</mn></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>30</mn></msub><mo>=</mo><mn>3</mn><mo>+</mo><mfenced><mn>29</mn></mfenced><mfenced><mn>119</mn></mfenced><mo>=</mo><mn>3454</mn></math>&nbsp;{option C is correct}</p><p>Now finding sum&nbsp; we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>20</mn></munderover><msub><mi>T</mi><mi>k</mi></msub><mo>=</mo><mn>3</mn><mo>+</mo><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>2</mn></mrow><mn>20</mn></munderover><msub><mi>T</mi><mi>k</mi></msub><mo>=</mo><mn>3</mn><mo>+</mo><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>19</mn></munderover><mfenced><mrow><mn>3</mn><mo>+</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>n</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>+</mo><mn>3</mn><mfenced><mn>19</mn></mfenced><mo>+</mo><mfrac><mrow><mn>3</mn><mfenced><mn>19</mn></mfenced><mfenced><mn>20</mn></mfenced></mrow><mn>2</mn></mfrac><mo>+</mo><mfrac><mrow><mn>4</mn><mfenced><mn>19</mn></mfenced><mfenced><mn>20</mn></mfenced><mfenced><mn>39</mn></mfenced></mrow><mn>6</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>+</mo><mn>10507</mn><mo>=</mo><mn>10510</mn></math>&nbsp;{option B is correct}</p><p>And Similarly&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>30</mn></munderover><msub><mi>T</mi><mi>k</mi></msub><mo>=</mo><mn>3</mn><mo>+</mo><munderover><mo>&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>29</mn></munderover><mfenced><mrow><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>n</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mn>35615</mn></math></p>",
+    "solution_image": null,
+    "topic": "Summation of Series"
+  },
+  {
+    "question_id": "64b16a56f23ac7d519f9b382",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "The value of <math><mrow><munderover><mo stretchy=\"false\">&#8721;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>13</mn></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><mi>k</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mi>&#960;</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mfenced><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>k</mi><mi>&#960;</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mfenced></mrow></mrow></mrow></mrow></mrow></mfrac></mrow></mrow></math> is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "73tI0",
+        "text": "<math><mn>3</mn><mo>-</mo><mi> </mi><msqrt><mn>3</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "ooZrP",
+        "text": "<math><mn>2</mn><mfenced separators=\"|\"><mrow><mn>3</mn><mo>-</mo><mi> </mi><msqrt><mn>3</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "uwIHe",
+        "text": "<math><mn>2</mn><mfenced separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "ZpcOU",
+        "text": "<math><mn>2</mn><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><mi> </mi><msqrt><mn>3</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "uwIHe",
+    "solution_text": "Let <math> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mrow><mo>(</mo> <mrow> <mi>K</mi><mo>−</mo><mn>1</mn> </mrow> <mo>)</mo></mrow><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> <mo>=</mo><mi>θ</mi> </math><br /><math> <mo>⇒</mo><mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn> </mrow> <mrow> <mn>13</mn> </mrow> </munderover> <mrow></mrow> </mstyle><mfrac> <mn>1</mn> <mrow> <mi>sin</mi><mi>θ</mi><mi>sin</mi><mrow><mo>(</mo> <mrow> <mn>θ</mn><mo>+</mo><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> </mfrac> <mo>=</mo><mfrac> <mn>1</mn> <mrow> <mi>sin</mi><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> </mfrac> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn> </mrow> <mrow> <mn>13</mn> </mrow> </munderover> <mrow></mrow> </mstyle><mfrac> <mrow> <mi>sin</mi><mfrac bevelled=\"true\"> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mrow> <mi>sin</mi><mi>θ</mi><mi>sin</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac bevelled=\"true\"> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> </mfrac> </math><br /><math> <mo>=</mo><mn>2</mn><mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn> </mrow> <mrow> <mn>13</mn> </mrow> </munderover> <mrow></mrow> </mstyle><mfrac> <mrow> <mi>sin</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> <mo>−</mo><mi>θ</mi> </mrow> <mo>)</mo></mrow> </mrow> <mrow> <mi>sin</mi><mi>θ</mi><mi>sin</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> </mfrac> <mo>=</mo><mn>2</mn><mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn> </mrow> <mrow> <mn>13</mn> </mrow> </munderover> <mrow></mrow> </mstyle><mfrac> <mrow> <mi>sin</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac bevelled=\"true\"> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mi>cos</mi><mi>θ</mi><mo>−</mo><mi>cos</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac bevelled=\"true\"> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mi>sin</mi><mi>θ</mi> </mrow> <mrow> <mi>sin</mi><mi>θ</mi><mi>sin</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac bevelled=\"true\"> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> </mfrac> </math><br /><math> <mo>=</mo><mn>2</mn><mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn> </mrow> <mrow> <mn>13</mn> </mrow> </munderover> <mrow></mrow> </mstyle><mrow><mo>(</mo> <mrow> <mi>cot</mi><mi>θ</mi><mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mi>θ</mi><mo>+</mo><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> <mo>)</mo></mrow><mo>=</mo><mn>2</mn><mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn> </mrow> <mrow> <mn>13</mn> </mrow> </munderover> <mrow></mrow> </mstyle><mrow><mo>(</mo> <mrow> <mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mrow><mo>(</mo> <mrow> <mi>k</mi><mo>−</mo><mn>1</mn> </mrow> <mo>)</mo></mrow><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mi>k</mi><mi>π</mi> </mrow> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> <mo>)</mo></mrow> </math><br /><math> <mo>=</mo><mn>2</mn><mrow><mo>(</mo> <mrow> <mi>cot</mi><mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mo>+</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mi>π</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>2</mn><mi>π</mi> </mrow> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mo>+</mo><mo>−</mo><mo>−</mo><mo>−</mo><mo>−</mo><mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>12</mn><mi>π</mi> </mrow> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow><mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>13</mn><mi>π</mi> </mrow> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> <mo>)</mo></mrow> </math><br /><math> <mo>=</mo><mn>2</mn><mrow><mo>[</mo> <mrow> <mi>cot</mi><mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>−</mo><mi>cot</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>13</mn><mi>π</mi> </mrow> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> <mo>]</mo></mrow><mo>=</mo><mn>2</mn><mrow><mo>[</mo> <mrow> <mn>1</mn><mo>−</mo><mi>cot</mi><mfrac> <mrow> <mn>29</mn><mi>π</mi> </mrow> <mrow> <mn>12</mn> </mrow> </mfrac> </mrow> <mo>]</mo></mrow><mo>=</mo><mn>2</mn><mrow><mo>[</mo> <mrow> <mn>1</mn><mo>−</mo><mi>cot</mi><msup> <mrow> <mn>75</mn> </mrow> <mi>ο</mi> </msup> </mrow> <mo>]</mo></mrow><mo>=</mo><mn>2</mn><mrow><mo>[</mo> <mrow> <mn>1</mn><mo>−</mo><mrow><mo>(</mo> <mrow> <mn>2</mn><mo>−</mo><msqrt> <mn>3</mn> </msqrt> </mrow> <mo>)</mo></mrow> </mrow> <mo>]</mo></mrow><mo>=</mo><mn>2</mn><mrow><mo>(</mo> <mrow> <msqrt> <mrow> <mn>3</mn><mo>−</mo><mn>1</mn> </mrow> </msqrt> </mrow> <mo>)</mo></mrow> </math>",
+    "solution_image": null,
+    "topic": "Summation of Series"
+  },
+  {
+    "question_id": "64b16a2af23ac7d519f9b1f2",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "Let&nbsp;<math> <mrow> <msub> <mtext>S</mtext> <mtext>n</mtext> </msub> <mo>=</mo> <munderover> <mi>&#931;</mi> <mrow> <mtext>k</mtext> <mo>=</mo> <mn>1</mn> </mrow> <mrow> <mn>4</mn> <mtext>n</mtext> </mrow> </munderover> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> </mrow> <mfrac> <mrow> <mtext>k</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>k</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </msup> <msup> <mtext>k</mtext> <mn>2</mn> </msup> </mrow> </math>. Then S<sub>n</sub> can take value(s)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qJtks",
+        "text": "1056",
+        "image": null
+      },
+      {
+        "id": "9kxr3",
+        "text": "1088",
+        "image": null
+      },
+      {
+        "id": "QcSra",
+        "text": "1120",
+        "image": null
+      },
+      {
+        "id": "n9gck",
+        "text": "1332",
+        "image": null
+      }
+    ],
+    "correct_answer": "n9gck",
+    "solution_text": "<p>Given&nbsp;<math> <mrow> <msub> <mtext>S</mtext> <mtext>n</mtext> </msub> <mo>=</mo> <munderover> <mi>&#931;</mi> <mrow> <mtext>k</mtext> <mo>=</mo> <mn>1</mn> </mrow> <mrow> <mn>4</mn> <mtext>n</mtext> </mrow> </munderover> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> </mrow> <mfrac> <mrow> <mtext>k</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>k</mtext> <mo>+</mo> <mn>1</mn> </mrow> </mfenced> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </msup> <msup> <mtext>k</mtext> <mn>2</mn> </msup> </mrow> </math><br /><math> <mrow> <mo>=</mo> <mo>-</mo> <msup> <mn>1</mn> <mn>2</mn> </msup> <mo>-</mo> <msup> <mn>2</mn> <mn>2</mn> </msup> <mo>+</mo> <msup> <mn>3</mn> <mn>2</mn> </msup> <mo>+</mo> <msup> <mn>4</mn> <mn>2</mn> </msup> <msup> <mrow> <mo>-</mo> <mn>5</mn> </mrow> <mn>2</mn> </msup> <mo>-</mo> <msup> <mn>6</mn> <mn>2</mn> </msup> <mo>+</mo> <msup> <mn>7</mn> <mn>2</mn> </msup> <mo>+</mo> <msup> <mn>8</mn> <mn>2</mn> </msup> <mo>+</mo> <mo>............</mo> </mrow> </math><br /><math> <mrow> <mo>=</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mn>3</mn> <mn>2</mn> </msup> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> <mo>+</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mn>4</mn> <mn>2</mn> </msup> <mo>-</mo> <msup> <mn>2</mn> <mn>2</mn> </msup> </mrow> </mfenced> <mo>+</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mn>7</mn> <mn>2</mn> </msup> <mo>-</mo> <msup> <mn>5</mn> <mn>2</mn> </msup> </mrow> </mfenced> <mo>+</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msup> <mn>8</mn> <mn>2</mn> </msup> <mo>-</mo> <msup> <mn>6</mn> <mn>2</mn> </msup> </mrow> </mfenced> <mo>............</mo> </mrow> </math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mfenced><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>4</mn><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mn>4</mn><mi>n</mi></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced><mrow><mn>4</mn><mi>n</mi><mfenced><mrow><mn>4</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></mrow><mn>2</mn></mfrac><mo>=</mo><mn>4</mn><mi>n</mi><mfenced><mrow><mn>4</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mi>n</mi></msub><mo>=</mo><mn>1056</mn></math>&nbsp;is true for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mi>n</mi></msub><mo>=</mo><mn>1332</mn></math>&nbsp;is true&nbsp; for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>9</mn></math></p>",
+    "solution_image": null,
+    "topic": "Summation of Series"
+  },
+  {
+    "question_id": "64b16a02f23ac7d519f9b083",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Let $S_k, k=1,2, \\ldots, 100$, denote the sum of the infinite geometric series whose first term is $\\frac{k-1}{k !}$ and the common ratio is $\\frac{1}{k}$. Then the value of $\\frac{100^2}{100 !}+\\sum_{k=1}^{100}\\left|\\left(k^2-3 k+1\\right) S_k\\right|$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "We have, $S_k=\\frac{\\frac{k-1}{k !}}{1-\\frac{1}{k}}=\\frac{1}{(k-1) !}$\nNow,\n$$\n\\begin{aligned}\n& \\left(k^2-3 k+1\\right) S_k=\\{(k-2)(k-1)-1\\} \\\\\n& =\\frac{1}{(k-3) !}-\\frac{1}{(k-1) !} \\\\\n& \\Rightarrow \\sum_{k=1}^{100}\\left|\\left(k^2-3 k+1\\right) S_k\\right| \\\\\n& =1+1+2-\\left(\\frac{1}{99 !}+\\frac{1}{98 !}\\right)=4-\\frac{100^2}{100 !}\n\\end{aligned}\n$$\n\n$$\n\\Rightarrow \\quad \\frac{100^2}{100 !}+\\sum_{k=1}^{100}\\left|\\left(k^2-3 k+1\\right) S_k\\right|=4\n$$",
+    "solution_image": null,
+    "topic": "Summation of Series"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b028",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "If the sum of first $n$ terms of an $\\mathrm{AP}$ is $\\mathrm{cn}^2$, then the sum of squares of these $n$ terms is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "d8mgh",
+        "text": "\n$\\frac{n\\left(4 n^2-1\\right) c^2}{6}$\n",
+        "image": null
+      },
+      {
+        "id": "9FLGY",
+        "text": "\n$\\frac{n\\left(4 n^2+1\\right) c^2}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "I4wzM",
+        "text": "\n$\\frac{n\\left(4 n^2-1\\right) c^2}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "O6CAT",
+        "text": "\n$\\frac{n\\left(4 n^2+1\\right) c^2}{6}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "I4wzM",
+    "solution_text": "Let $S_n=c^2$\n$$\n\\begin{aligned}\n& S_{n-1}=c(n-1)^2=c n^2+c-2 c n \\\\\n& \\therefore T_n=2 c n-c \\quad\\left(\\because T_n=S_n-S_{n-1}\\right) \\\\\n& T_n^2=(2 c n-c)^2=4 c^2 n^2+c^2-4 c^2 n \\\\\n& \\therefore \\text { Sum }=\\Sigma T_n^2=\\frac{4 c^2 \\cdot n(n+1)(2 n+1)}{6} \\\\\n& =\\frac{2 c^2 n(n+1)(2 n+1)+3 n c^2-6 c^2 n(n+1)}{3} \\\\\n& =\\frac{n c^2\\left[4 n^2+6 n+2+3-6 n-6\\right]}{3} \\\\\n& =\\frac{n c^2\\left(4 n^2-1\\right)}{3}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Summation of Series"
+  }
+]

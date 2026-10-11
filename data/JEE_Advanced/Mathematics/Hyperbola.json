@@ -1,0 +1,454 @@
+[
+  {
+    "question_id": "64b16a02f23ac7d519f9b080",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe circle $x^2+y^2-8 x=0$ and hyperbola $\\frac{x^2}{9}-\\frac{y^2}{4}=1$ intersect at the points $A$ and $B$.<strong>Question:</strong>\nEquation of a common tangent with positive slope to the circle as well as to the hyperbola is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vlWDH",
+        "text": "\n$2 x-\\sqrt{5} y-20=0$\n",
+        "image": null
+      },
+      {
+        "id": "SYrd8",
+        "text": "\n$2 x-\\sqrt{5} y+4=0$\n",
+        "image": null
+      },
+      {
+        "id": "rmmxR",
+        "text": "\n$3 x-4 y+8=0$\n",
+        "image": null
+      },
+      {
+        "id": "tw4Aa",
+        "text": "\n$4 x-3 y+4=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SYrd8",
+    "solution_text": "Equation of tangent to hyperbola having slope $m$ is\n$$\ny=m x+\\sqrt{9 m^2-4}\n$$\nEquation of tangent to circle is\n$$\ny=m(x-4)+\\sqrt{16 m^2+16}\n$$\nEqs. (i) and (ii) will be identical for $m=\\frac{2}{\\sqrt{5}}$ satisfy.\n$\\therefore$ Equation of common tangent is $2 x-\\sqrt{5} y+4=0$",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b16a6ff23ac7d519f9b468",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "<p>Let <math><mi>H</mi><mo>:</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&#160;</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn></math> , where <math><mi>a</mi><mo>&#62;</mo><mi>b</mi><mo>&#62;</mo><mn>0</mn></math>, be a hyperbola in the xy-plane whose conjugate axis&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>M</mi></math>&nbsp;subtends an angle of <math><msup><mrow><mn>60</mn></mrow><mrow><mi>o</mi></mrow></msup></math> at one of its vertices&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi></math>. Let the area of the triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>M</mi><mi>N</mi></math>&nbsp;be&nbsp;<math><mn>4</mn><msqrt><mn>3</mn></msqrt></math>.</p><table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>LIST-I</td>\t\t\t<td>LIST-II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A. The length of the conjugate axis of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi></math>&nbsp;is</td>\t\t\t<td>P.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B. The eccentricity of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi></math>&nbsp;is</td>\t\t\t<td>Q. <math><mfrac><mrow><mn>4</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>C. The distance between the foci of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi></math>&nbsp;is</td>\t\t\t<td>R. <math><mfrac><mrow><mn>2</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>D. The length of the latus rectum of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi></math>&nbsp;is</td>\t\t\t<td>S.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math></td>\t\t</tr>\t</tbody></table>The correct option is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bIx3T",
+        "text": "a-r;b-q;c-s;d-p;",
+        "image": null
+      },
+      {
+        "id": "aEwmk",
+        "text": "a-q;b-r;c-s;d-p;",
+        "image": null
+      },
+      {
+        "id": "TEMjd",
+        "text": "a-r;b-s;c-p;d-q;",
+        "image": null
+      },
+      {
+        "id": "gVUKL",
+        "text": "a-s;b-r;c-p;d-q;",
+        "image": null
+      }
+    ],
+    "correct_answer": "gVUKL",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vjjinphcaxnnzhcuebsqwrsylvfselnqlnngnclhlssmpyptgu.png\"/><br ><math><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mrow><mo>=</mo><mfrac><mrow><mi>b</mi></mrow><mrow><mi>a</mi></mrow></mfrac></math><br ><math><mo>⇒</mo></math> <math><mi>a</mi><mo>=</mo><mi>b</mi><msqrt><mn>3</mn></msqrt></math><br >Now area of <math><mo>∆</mo><mi>L</mi><mi>M</mi><mi>N</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>.</mo><mn>2</mn><mi>b</mi><mo>.</mo><mi>b</mi><msqrt><mn>3</mn></msqrt></math><br ><math><mn>4</mn><msqrt><mn>3</mn></msqrt><mo>=</mo><msqrt><mn>3</mn></msqrt><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br ><math><mo>⇒</mo><mi>b</mi><mo>=</mo><mn>2</mn><mi> </mi><mo>&</mo><mi> </mi><mi>a</mi><mo>=</mo><mn>2</mn><msqrt><mn>3</mn></msqrt></math><br ><math><mo>⇒</mo><mi>e</mi><mo>=</mo><msqrt><mn>1</mn><mo>+</mo><mfrac><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math><br >P. Length of conjugate axis <math><mo>=</mo><mn>2</mn><mi>b</mi><mo>=</mo><mn>4</mn></math><br >So <math><mi>P</mi><mo>→</mo><mn>4</mn></math><br >Q. Eccentricity <math><mi>e</mi><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math><br >So <math><mi>Q</mi><mo>→</mo><mn>3</mn></math><br >R. Distance between foci <math><mo>=</mo><mn>2</mn><mi>a</mi><mi>e</mi></math><br ><math><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mrow><mn>2</mn><msqrt><mn>3</mn></msqrt></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>8</mn></math><br >So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>→</mo><mn>1</mn></math><br >S. Length of latus rectum <math><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>a</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><msqrt><mn>3</mn></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math><br >So <math><mi>S</mi><mo>→</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Equation of hyperbola"
+  },
+  {
+    "question_id": "64b16a0ff23ac7d519f9b0fb",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Let the eccentricity of the hyperbola $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$ be reciprocal to that of the ellipse $x^2+4 y^2=4$. If the hyperbola passes through a focus of the ellipse, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9LyHj",
+        "text": "\nthe equation of the hyperbola is $\\frac{x^2}{3^2}-\\frac{y^2}{2^2}=1$\n",
+        "image": null
+      },
+      {
+        "id": "QNGSJ",
+        "text": "\na focus of the hyperbola is $(2,0)$\n",
+        "image": null
+      },
+      {
+        "id": "AWI7P",
+        "text": "\nthe eccentricity of the hyperbola is $\\sqrt{\\frac{5}{3}}$\n",
+        "image": null
+      },
+      {
+        "id": "qKOT1",
+        "text": "\nthe equation of the hyperbola is $x^2-3 y^2=3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qKOT1",
+    "solution_text": "Here, equation of ellipse\n$$\n\\begin{aligned}\n& \\frac{x^2}{4}+\\frac{y^2}{1}=1 \\\\\n& \\Rightarrow \\quad e^2=1-\\frac{b^2}{a^2}=1-\\frac{1}{4}=\\frac{3}{4} \\\\\n& \\therefore \\quad e=\\frac{\\sqrt{3}}{2} \\text { and focus }(\\pm a e, 0) \\\\\n& =(\\pm \\sqrt{3}, 0) \\\\\n&\n\\end{aligned}\n$$\nFor hyperbola $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$, $e_1^2=1+\\frac{b^2}{a^2}$ where, $e_1^2=\\frac{1}{e^2}=\\frac{4}{3}$\n$$\n\\Rightarrow \\quad 1+\\frac{b^2}{a^2}=\\frac{4}{3} \\Rightarrow \\frac{b^2}{a^2}=\\frac{1}{3}\n$$\nand hyperbola passes through $(\\pm \\sqrt{3}, 0)$. Now, $\\quad \\frac{3}{a^2}=1 \\Rightarrow a^2=3$\nFrom Eqs. (i) and (ii), we get $b^2=1$\n$\\therefore$ Equation of hyperbola is\n$$\n\\frac{x^2}{3}-\\frac{y^2}{1}=1\n$$\nFocus is $(\\pm a e, 0)$.\nNow, $\\quad\\left(\\pm \\sqrt{3} \\cdot \\frac{2}{\\sqrt{3}}, 0\\right) \\Rightarrow(\\pm 2,0)$\nHence, both options (b) and (d) are correct.",
+    "solution_image": null,
+    "topic": "Equation of hyperbola"
+  },
+  {
+    "question_id": "64b169ebf23ac7d519f9afaf",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Consider a branch of the hyperbola $x^2-2 y^2-2 \\sqrt{2} x-4 \\sqrt{2} y-6=0$ with vertex at the point $A$. Let $B$ be one of the end points of its latus rectum. If $C$ is the focus of the hyperbola nearest to the point $A$, then the area of the $\\triangle A B C$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "szMNz",
+        "text": "\n$1-\\sqrt{\\frac{2}{3}}$ sq unit\n",
+        "image": null
+      },
+      {
+        "id": "00S7n",
+        "text": "\n$\\sqrt{\\frac{3}{2}}-1$ sq unit\n",
+        "image": null
+      },
+      {
+        "id": "vFIus",
+        "text": "\n$1+\\sqrt{\\frac{2}{3}}$ sq unit\n",
+        "image": null
+      },
+      {
+        "id": "KS2ST",
+        "text": "\n$\\sqrt{\\frac{3}{2}}+1$ sq unit",
+        "image": null
+      }
+    ],
+    "correct_answer": "00S7n",
+    "solution_text": "The given equation can be rewritten as $\\frac{(x-\\sqrt{2})^2}{1}-\\frac{(y+\\sqrt{2})^2}{2}=1$ for $A(x, y)$,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kJiDAgQz4cB8Ql-009_N5DDom8WjagEpxMaE9lZAfMg.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n& e=\\sqrt{1+\\frac{2}{4}}=\\sqrt{\\frac{3}{2}} \\\\\n& \\therefore x-\\sqrt{2}=2 \\Rightarrow x=2+\\sqrt{2} \\\\\n& \\text { For } C(x, y), x-\\sqrt{2}=a e=\\sqrt{6} \\\\\n& \\Rightarrow \\quad x=\\sqrt{6}+\\sqrt{2} \\\\\n& \\text { Now, } A C=\\sqrt{6}+\\sqrt{2}-2-\\sqrt{2}=\\sqrt{6}-2 \\\\\n& \\qquad B C=\\frac{b^2}{a}=\\frac{2}{2}=1 \\\\\n& \\text { Area of } \\Delta A B C=\\frac{1}{2} \\times(\\sqrt{6}-2) \\times B C \\\\\n& =\\frac{1}{2} \\times(\\sqrt{6}-2) \\times 1=\\sqrt{\\frac{3}{2}}-1\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Equation of hyperbola"
+  },
+  {
+    "question_id": "64b169cef23ac7d519f9ae9e",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If $e_1$ is the eccentricity of the ellipse $\\frac{x^2}{16}+\\frac{y^2}{25}=1$ and $e_2$ is the eccentricity of the hyperbola passing through the focii of the ellipse and $e_1 e_2=1$, then equation of the hyperbola is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0ZU74",
+        "text": "\n$\\frac{x^2}{9}-\\frac{y^2}{16}=1$\n",
+        "image": null
+      },
+      {
+        "id": "UFUPM",
+        "text": "\n$\\frac{x^2}{16}-\\frac{y^2}{9}=-1$\n",
+        "image": null
+      },
+      {
+        "id": "WGOXc",
+        "text": "\n$\\frac{x^2}{9}-\\frac{y^2}{25}=1$\n",
+        "image": null
+      },
+      {
+        "id": "SROzG",
+        "text": "\nNone of these",
+        "image": null
+      }
+    ],
+    "correct_answer": "UFUPM",
+    "solution_text": "The eccentricity of $\\frac{x^2}{16}+\\frac{y^2}{25}=1$ is $e_1=\\sqrt{1-\\frac{16}{25}}=\\frac{3}{5}$ $\\therefore \\quad e_2=\\frac{5}{3}$\n$\\Rightarrow$ Foci of ellipse $(0, \\pm 3)$\n$\\therefore$ Equation of hyperbola is $\\frac{x^2}{16}-\\frac{y^2}{9}=-1$\nHence (b) is the correct answer.",
+    "solution_image": null,
+    "topic": "Equation of hyperbola"
+  },
+  {
+    "question_id": "64b16a5cf23ac7d519f9b3b6",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "If <math><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math> is a tangent to the hyperbola <math><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn></math> , then which of the following CANNOT be sides of a right angled triangle?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qDmK0",
+        "text": "<math><mi>a</mi><mo>,</mo><mn>4</mn><mo>,</mo><mi>&nbsp;</mi><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "oqO7r",
+        "text": "<math><mn>2</mn><mi>a</mi><mo>,</mo><mi>&nbsp;</mi><mn>8</mn><mo>,</mo><mi>&nbsp;</mi><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "iKIN0",
+        "text": "<math><mn>2</mn><mi>a</mi><mo>,</mo><mi> </mi><mn>4</mn><mo>,</mo><mi> </mi><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "QaDM8",
+        "text": "<math><mi>a</mi><mo>,</mo><mi>&nbsp;</mi><mn>4</mn><mo>,</mo><mi>&nbsp;</mi><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "QaDM8",
+    "solution_text": "The line <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>c</mi></math> is tangent to hyperbola <math><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>1</mn><mo>,</mo></math>, if <math><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></math><p><math><mo>∴</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>16</mn><mi>&nbsp;</mi><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>17</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></p><p><math><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>a</mi><mo>=</mo><mfrac><mrow><msqrt><mn>17</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></math></p><p>For <math> <mrow> <mn>2</mn><mi>a</mi><mo>,</mo><mtext>&nbsp;4,&nbsp;1</mtext> </mrow> </math>, sides are <math><msqrt><mn>17</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><mn>4</mn><mo>,</mo><mi>&nbsp;</mi><mn>1</mn></math> (<math><mo>⇒</mo></math> Right angled triangle)</p><p>For <math> <mrow> <mtext>2a,&nbsp;8,&nbsp;1</mtext> </mrow> </math>, sides are <math><msqrt><mn>17</mn></msqrt><mo>,</mo><mi>&nbsp;</mi><mn>8</mn><mo>,</mo><mi>&nbsp;</mi><mn>1</mn></math> (<math><mo>⇒</mo></math>Triangle is not possible)</p><p>For <math> <mrow> <mtext>a,&nbsp;4,&nbsp;1</mtext> </mrow> </math>, sides are <math><mfrac><mrow><msqrt><mn>17</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mn>4</mn><mo>,</mo><mi>&nbsp;</mi><mn>1</mn></math> (<math><mo>⇒</mo></math>Triangle is not possible)</p><p>For <math> <mrow> <mtext>a,&nbsp;4,&nbsp;2</mtext> </mrow> </math>, sides are <math><mfrac><mrow><msqrt><mn>17</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mn>4</mn><mo>,</mo><mi>&nbsp;</mi><mn>2</mn></math> (<math><mo>⇒</mo></math>Triangle exist but not right angled)</p>",
+    "solution_image": null,
+    "topic": "Line and hyperbola"
+  },
+  {
+    "question_id": "64b169f4f23ac7d519f9affe",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "$$\n\\text { Match the conics in Column I with the statements/expressions in Column II. }\n$$\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mttZypB7gORJPl-QC2KlWwOMRUJEI-jGBWeCxz3jUTE.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/BSqFu76r11SkdAwZcbkeTMZ0RwfnU1zWrr8QDx9JnTE.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uDY2P",
+        "text": "\n(A) s, (B) q,s, (C) s, (D) p,s\n",
+        "image": null
+      },
+      {
+        "id": "ZpiTJ",
+        "text": "\n(A) p, (B) q,s, (C) r, (D) q,s\n",
+        "image": null
+      },
+      {
+        "id": "FxGDN",
+        "text": "\n(A) s, (B) s,t, (C) s, (D) p,s\n",
+        "image": null
+      },
+      {
+        "id": "E6Opc",
+        "text": "\n(A) p, (B) s,t, (C) r, (D) q,s",
+        "image": null
+      }
+    ],
+    "correct_answer": "E6Opc",
+    "solution_text": "(p) $\\frac{1}{\\sqrt{h^2+k^2}}=2 \\Rightarrow h^2+k^2=\\frac{1}{4}$\nHence, locus is a circle.\n(q) ||$z+2|-| z-2||=3$\nand $\\quad 2-(-2)=4>3$\nHence, locus is hyperbola.\n(r) Let $x=\\sqrt{3}\\left(\\frac{1-t^2}{1+t^2}\\right), y=\\frac{2 t}{1+t^2}$\nLet $\\quad \\tan \\theta=t$ $\\Rightarrow x=\\sqrt{3} \\cos 2 \\theta, y=\\sin 2 \\theta$\n$\\therefore \\quad \\frac{x^2}{3}+y^2=1$\nHence, locus is an ellipse.\n(s) Eccentricity $x=1 \\Rightarrow$ Parabola, $1 < x < \\infty \\Rightarrow$ Hyperbola\n(t) Let $z=x+i y$\nSince, $\\operatorname{Re}(z+1)^2=|z|^2+1$\n$\\Rightarrow \\quad(x+1)^2-y^2=x^2+y^2+1$\n$\\Rightarrow \\quad 2 x=2 y^2$\n$\\Rightarrow \\quad x=y^2$\nHence, locus is parabola.",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "64b16a16f23ac7d519f9b132",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Let $P(6,3)$ be a point on the hyperbola $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$. If the normal at the point $P$ intersects the $X$-axis at $(9,0)$, then the eccentricity of the hyperbola is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "k5erj",
+        "text": "\n$\\sqrt{\\frac{5}{2}}$\n",
+        "image": null
+      },
+      {
+        "id": "dGP1t",
+        "text": "\n$\\sqrt{\\frac{3}{2}}$\n",
+        "image": null
+      },
+      {
+        "id": "mP2Xn",
+        "text": "\n$\\sqrt{2}$\n",
+        "image": null
+      },
+      {
+        "id": "GzFre",
+        "text": "\n$\\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "dGP1t",
+    "solution_text": "Equation of normal to hyperbola at $\\left(x_1, y_1\\right)$ is\n$$\n\\begin{gathered}\n\\frac{a^2 x}{x_1}+\\frac{b^2 y}{y_1}=a^2+b^2 \\\\\n\\therefore \\text { At }(6,3), \\frac{a^2 x}{6}+\\frac{b^2 y}{3}=a^2+b^2\n\\end{gathered}\n$$\nIt passes throught $(9,0)$.\n\n$$\n\\begin{aligned}\n& \\text { Now, } \\quad \\frac{a^2 \\cdot 9}{6}=a^2+b^2 \\\\\n& \\Rightarrow \\quad \\frac{3 a^2}{2}-a^2=b^2 \\Rightarrow \\frac{a^2}{b^2}=2 \\\\\n& \\therefore \\quad e^2=1+\\frac{b^2}{a^2}=1+\\frac{1}{2} \\Rightarrow e=\\sqrt{\\frac{3}{2}}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Normal to hyperbola"
+  },
+  {
+    "question_id": "64b16a03f23ac7d519f9b089",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The line $2 x+y=1$ is tangent to the hyperbola $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$. If this line passes through the point of intersection of the nearest directrix and the $x$-axis, then the eccentricity of the hyperbola is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "On substituting $\\left(\\frac{a}{e}, 0\\right)$ in $y=-2 x+1$, we get\n$$\n\\begin{aligned}\n0 & =-\\frac{2 a}{e}+1 \\\\\n\\Rightarrow \\quad \\frac{a}{e} & =\\frac{1}{2}\n\\end{aligned}\n$$\nAlso, $y=-2 x+1$ is tangent to hyperbola\n$$\n\\begin{array}{ll}\n\\therefore & 1=4 a^2-b^2 \\\\\n\\Rightarrow & \\frac{1}{a^2}=4-\\left(e^2-1\\right)\n\\end{array}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/NgSyx4jXoTQYo478MXUkIxfQykfFt5KH9BzzdvmUBQE.original.fullsize.png\"><br>\n$$\n\\begin{array}{ll}\n\\Rightarrow & \\frac{4}{e^2}=5-e^2 \\\\\n\\Rightarrow & e^4-5 e^2+4=0 \\\\\n\\Rightarrow & \\left(e^2-4\\right)\\left(e^2-1\\right)=0 \\\\\n\\Rightarrow & e=2, e=1\n\\end{array}\n$$\n$e=1$ gives the conic as parabola. But conic is given as hyperbola, hence $e=2$",
+    "solution_image": null,
+    "topic": "Properties of Tangent"
+  },
+  {
+    "question_id": "64b16a9ff23ac7d519f9b614",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Consider the hyperbola <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>100</mn></mfrac><mo>-</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mn>64</mn></mfrac><mo>=</mo><mn>1</mn></math>&nbsp;with foci at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> lies on the positive <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> be a point on the hyperbola, in the first quadrant. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8736;</mo><mi>S</mi><mi>P</mi><msub><mi>S</mi><mn>1</mn></msub><mo>=</mo><mi>&#945;</mi></math>, with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>&#60;</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math>. The straight line passing through the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> and having the same slope as that of the tangent at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> to the hyperbola, intersects the straight line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub><mi>P</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#948;</mi></math> be the distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;from the straight line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>1</mn></msub></math>, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mo>=</mo><msub><mi>S</mi><mn>1</mn></msub><mi>P</mi></math>. Then the greatest integer less than or equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>&#946;</mi><mi>&#948;</mi></mrow><mn>9</mn></mfrac><mi>sin</mi><mfrac><mi>&#945;</mi><mn>2</mn></mfrac></math> is _____ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<blockquote><p>Plotting the diagram of the given value we have,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/452e4632-f6e6-476b-a64e-4714c3ff8476-f65be8df-3a1e-42ff-a28a-d892ed05cdfb-image.png\" style=\"width: 300px; height: 250px;\" /></p><p>We know that product of distances of any tangent from two foci <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msup><mi>b</mi><mn>2</mn></msup></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#948;</mi><mo>&#215;</mo><mi>&#946;</mi><mi>sin</mi><mfrac><mi>&#945;</mi><mn>2</mn></mfrac><mo>=</mo><msup><mi>b</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>&#946;</mi><mi>&#948;</mi><mi>sin</mi><mfrac><mi>&#945;</mi><mn>2</mn></mfrac></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><msup><mi>b</mi><mn>2</mn></msup><mn>9</mn></mfrac><mo>=</mo><mfrac><mn>64</mn><mn>9</mn></mfrac></math></p><p>Now finding the greatest integer less than or equal to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>&#946;</mi><mi>&#948;</mi><mi>sin</mi><mfrac><mi>&#945;</mi><mn>2</mn></mfrac></mrow><mn>9</mn></mfrac></math>&nbsp;which will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Tangent to hyperbola"
+  },
+  {
+    "question_id": "64b16a86f23ac7d519f9b537",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi></math> be positive real numbers such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>&#62;</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi><mo>&#60;</mo><mi>a</mi><mo>.</mo></math> Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> be a point in the first quadrant that lies on the hyperbola <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>-</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></math> Suppose the tangent to the hyperbola at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> passes through the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced><mo>,</mo></math> and suppose the normal to the hyperbola at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> cuts off equal intercepts on the coordinate axes. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi></math> denote the area of the triangle formed by the tangent at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>, the normal at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> -axis. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>e</mi></math> denotes the eccentricity of the hyperbola, then which of the following statements is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "i6abI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#60;</mo><mi>e</mi><mo>&#60;</mo><msqrt><mn>2</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "gIZsC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt><mo>&#60;</mo><mi>e</mi><mo>&#60;</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "agSA1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><msup><mi>a</mi><mn>4</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "pcJ1L",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><msup><mi>b</mi><mn>4</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "pcJ1L",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4f9cadf5-56f5-4be4-82ee-e7fda6afacf3-image.png\"/></p><p>Tangent at P</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mi>sec</mi><mi>θ</mi></mrow><mi>a</mi></mfrac><mo>-</mo><mfrac><mrow><mi>y</mi><mi>tan</mi><mi>θ</mi></mrow><mi>b</mi></mfrac><mo>=</mo><mn>1</mn></math> Passes through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sec</mi><mi>θ</mi><mo>=</mo><mi>a</mi></math></p><p>Now slope of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>AP</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>b</mi><mo> </mo><mi>sec</mi><mi>θ</mi></mrow><mrow><mi>a</mi><mo> </mo><mi>tan</mi><mi>θ</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mo>⇒</mo><mo> </mo><mo> </mo><mo> </mo><mi>b</mi><mo>=</mo><mi>tan</mi><mi>θ</mi></math></p><p>Now <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mfenced><mrow><msup><mi>e</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>tan</mi><mn>2</mn></msup><mi>θ</mi><mo>=</mo><msup><mi>sec</mi><mn>2</mn></msup><mi>θ</mi><mfenced><mrow><msup><mi>e</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>⇒</mo><msup><mi>e</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>θ</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>e</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>∈</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow></mfenced><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo>∵</mo><mi>θ</mi><mo>∈</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>e</mi><mn>2</mn></msup><mo>∈</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>⇒</mo><mn>1</mn><mo><</mo><mi>e</mi><mo><</mo><msqrt><mn>2</mn></msqrt></math></p><p>Now <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mfenced><mrow><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mfenced><mrow><mi>a</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi>θ</mi><mo>,</mo><mo> </mo><mi>b</mi><mi>tan</mi><mi>θ</mi></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>s</mi><mi>e</mi><msup><mi>c</mi><mn>2</mn></msup><mi>θ</mi><mo>,</mo><msup><mi>tan</mi><mn>2</mn></msup><mi>θ</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>P</mi><mo>=</mo><msqrt><msup><mi>tan</mi><mn>4</mn></msup><mi>θ</mi><mo>+</mo><msup><mi>tan</mi><mn>4</mn></msup><mi>θ</mi></msqrt><mo>⇒</mo><mi>A</mi><mi>P</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><msup><mi>tan</mi><mn>2</mn></msup><mi>θ</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∵</mo><mo>∆</mo><mi>A</mi><mi>P</mi><mi>B</mi></math> is isosceles-right angled triangle,</p><p>So, area<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mfenced><mrow><mi>A</mi><mi>P</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mn>2</mn><msup><mi>tan</mi><mn>4</mn></msup><mi>θ</mi><mo>=</mo><msup><mi>b</mi><mn>4</mn></msup></math>.</p>",
+    "solution_image": null,
+    "topic": "Tangent to hyperbola"
+  },
+  {
+    "question_id": "64b16a4cf23ac7d519f9b321",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Consider the hyperbola <math><mi>H</mi><mi>&#160;</mi><mo>:</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>1</mn></math> and a circle S with center <math><mi>N</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced><mo>.</mo></math> Suppose that H and S touch each other at point <math><mi>P</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math> with <math><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#62;</mo><mn>1</mn><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#62;</mo><mn>0</mn><mo>.</mo></math> The common tangent to H and S at P intersects the x - axis at point M. If <math><mo>(</mo><mi>l</mi><mo>,</mo><mi>&#160;</mi><mi>m</mi><mo>)</mo></math> is the centroid of the triangle <math><mi mathvariant=\"normal\">&#916;</mi><mi>P</mi><mi>M</mi><mi>N</mi><mo>,</mo></math> then the correct expression(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "71K5v",
+        "text": "<math><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mi> </mi><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mi> </mi><mi>f</mi><mi>o</mi><mi>r</mi><mi> </mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Vp0l0",
+        "text": "<math><mfrac><mrow><mi>d</mi><mi>m</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mi> </mi><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>3</mn><mfenced separators=\"|\"><mrow><msqrt><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mn>1</mn></msqrt></mrow></mfenced></mrow></mfrac><mi> </mi><mi>f</mi><mi>o</mi><mi>r</mi><mi> </mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "2Obav",
+        "text": "<math><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>1</mn><mo>+</mo><mi> </mi><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mi> </mi><mi>f</mi><mi>o</mi><mi>r</mi><mi> </mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "QxvbA",
+        "text": "<math><mfrac><mrow><mi>d</mi><mi>m</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi> </mi><mi>f</mi><mi>o</mi><mi>r</mi><mi> </mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "QxvbA",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image3-fadf1336-075e-4e25-ac96-25471601e188.png\"/> <br >Equation of tangent at P on hyperbola.<br > <math><mi>x</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><mi>y</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>1</mn></math> <br >Point <math><mi>M</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mi> </mi><mo>,</mo><mi> </mi><mn>0</mn></mrow></mfenced></math> <br >Equation of normal at P<br > <math><mfrac><mrow><mi>x</mi></mrow><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>y</mi></mrow><mrow><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>2</mn></math> <br >Since <math><mo>(</mo><msub><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mn>0</mn><mo>)</mo></math>  satisfies its<br > <math><msub><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >Centroid  <math><mfenced separators=\"|\"><mrow><mi>l</mi><mo>,</mo><mi>m</mi></mrow></mfenced><mi> </mi><mo>≡</mo><mfenced separators=\"|\"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>,</mo><mi> </mi><mfrac><mrow><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced></math> <br > <math><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></math> <br > <math><mfrac><mrow><mi>d</mi><mi>m</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> <br > <math><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><msubsup><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mn>1</mn></math> <br > <math><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msqrt><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mn>1</mn></msqrt></math> <br > <math><mi>m</mi><mo>=</mo><mfrac><mrow><msqrt><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mn>1</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math> <br > <math><mfrac><mrow><mi>d</mi><mi>m</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>3</mn><msqrt><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac></math> <br >Alternative Method<br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image4-221849ed-bfe6-4b1a-b192-58a0b94b0632.jpg\"/> <br > <math><mi>l</mi><mo>=</mo><mfrac><mrow><mn>3</mn><mrow><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mrow></mrow><mrow><mn>3</mn></mrow></mfrac></math> <br > <math><mi>m</mi><mo>=</mo><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>3</mn></mrow></mfrac></math> <br > <math><mfrac><mrow><mi>d</mi><mi>l</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mrow><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mrow></mrow></mrow></mrow><mrow><mn>3</mn><mrow><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mrow></mrow></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn><mi> </mi><msup><mrow><mi>s</mi><mi>e</mi><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mi>θ</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mn>3</mn><mi> </mi><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></math> <br > <math><mfrac><mrow><mi>d</mi><mi>m</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow><mrow><mn>3</mn></mrow></mfrac></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">sec</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mi>θ</mi></mrow></mrow></mrow></mrow></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mi>θ</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mn>3</mn><msqrt><msubsup><mrow><mi>x</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac></math> <br > <math><mfrac><mrow><mi>d</mi><mi>m</mi></mrow><mrow><mi>d</mi><msub><mrow><mi>y</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Tangent to hyperbola"
+  },
+  {
+    "question_id": "64b16a1df23ac7d519f9b178",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Tangents are drawn to the hyperbola $\\frac{x^{2}}{9}-\\frac{y^{2}}{4}=1$, parallel to the straight line $2 x-y=1$. The points of contact of the tangents on the hyperbola are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QCwZX",
+        "text": "$\\left(\\frac{9}{2 \\sqrt{2}}, \\frac{1}{\\sqrt{2}}\\right)$",
+        "image": null
+      },
+      {
+        "id": "I4FyI",
+        "text": "$\\left(-\\frac{9}{2 \\sqrt{2}},-\\frac{1}{\\sqrt{2}}\\right)$",
+        "image": null
+      },
+      {
+        "id": "gOxDF",
+        "text": "$(3 \\sqrt{3},-2 \\sqrt{2})$",
+        "image": null
+      },
+      {
+        "id": "sNveN",
+        "text": "$(-3 \\sqrt{3}, 2 \\sqrt{2})$",
+        "image": null
+      }
+    ],
+    "correct_answer": "I4FyI",
+    "solution_text": "If slope of tangents to hyperbola $\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1$ is $m$,\r\n\r\nthen equations of tangent to the hyperbola is\r\n\r\n$y=m x \\pm \\sqrt{a^{2} m^{2}-b^{2}} \\quad$ with the points of contact\r\n\r\n$\\quad\\left(\\quad \\pm a^{2} m\\right.$\r\n\r\n$\\left.\\frac{\\pm \\sqrt{a^{2} m^{2}-b^{2}}}{\\sqrt{a^{2} m^{2}-b^{2}}}\\right)$\r\n\r\n$\\therefore$ Tangent to hyperbola $\\frac{x^{2}}{9}-\\frac{y^{2}}{4}=1$ is parallel to $2 x-y=1$,\r\n\r\n$\\therefore$ Slope of tangent $=2$\r\n\r\n$\\therefore$ Points of contact are $\\left(\\frac{\\pm 9 \\times 2}{\\sqrt{9 \\times 4-4}}, \\frac{\\pm 4}{\\sqrt{9 \\times 4-4}}\\right)$\r\n\r\ni.e. $\\left(\\frac{9}{2 \\sqrt{2}}, \\frac{1}{\\sqrt{2}}\\right)$ and $\\left(\\frac{-9}{2 \\sqrt{2}}, \\frac{-1}{\\sqrt{2}}\\right)$",
+    "solution_image": null,
+    "topic": "Tangent to hyperbola"
+  }
+]

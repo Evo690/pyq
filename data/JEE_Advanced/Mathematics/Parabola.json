@@ -1,0 +1,1185 @@
+[
+  {
+    "question_id": "64b16a45f23ac7d519f9b2e2",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> be distinct points on the parabola <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mi>x</mi><mi mathvariant=\"normal\">&#160;</mi></math> such that a circle with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> as diameter passes through the vertex <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> of the parabola. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> lies in the first quadrant and the area of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>O</mi><mi>P</mi><mi>Q</mi></math> is <math><mn>3</mn><msqrt><mn>2</mn></msqrt><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi></math>then which of the following is (are) the coordinates of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WvIxl",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>4</mn><mo>,</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "iKWS7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>9</mn><mo>,</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "SY0ZW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "G4Xl6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><msqrt><mn>2</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "G4Xl6",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image67-b74702d3-04a8-4d9f-9aed-aa27173f32df.png\"/></p><p><math><mo>∆</mo><mo>=</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced close=\"|\" open=\"|\"><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mfrac><msubsup><mi>t</mi><mn>1</mn><mn>2</mn></msubsup><mn>2</mn></mfrac></mtd><mtd><msub><mi>t</mi><mn>1</mn></msub></mtd></mtr><mtr><mtd><mfrac><msubsup><mi>t</mi><mn>2</mn><mn>2</mn></msubsup><mn>2</mn></mfrac></mtd><mtd><msub><mi>t</mi><mn>2</mn></msub></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><msubsup><mi>t</mi><mn>1</mn><mn>2</mn></msubsup><msub><mi>t</mi><mn>2</mn></msub></mrow><mn>2</mn></mfrac><mo>-</mo><mfrac><mrow><msubsup><mi>t</mi><mn>2</mn><mn>2</mn></msubsup><msub><mi>t</mi><mn>1</mn></msub></mrow><mn>2</mn></mfrac></mrow></mfenced><mo>=</mo><mo>±</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac><msub><mi>t</mi><mn>1</mn></msub><msub><mi>t</mi><mn>2</mn></msub><mfenced separators=\"|\"><mrow><msub><mi>t</mi><mn>1</mn></msub><mo>-</mo><msub><mi>t</mi><mn>2</mn></msub></mrow></mfenced><mo>=</mo><mo>±</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><msub><mi>t</mi><mn>2</mn></msub><mfenced separators=\"|\"><mrow><msub><mi>t</mi><mn>1</mn></msub><mo>-</mo><msub><mi>t</mi><mn>2</mn></msub></mrow></mfenced><mo>=</mo><mo>±</mo><mn>12</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><mo>-</mo><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><mo>±</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo> </mo><mo> </mo><msub><mi>t</mi><mn>1</mn></msub><mo>-</mo><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></math> (as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><mo>></mo><msub><mi>t</mi><mn>2</mn></msub></math>)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><mo>+</mo><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><msqrt><mn>18</mn><mo>-</mo><mn>16</mn></msqrt><mo>=</mo><mo>±</mo><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn><msqrt><mn>2</mn></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><msqrt><mn>2</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mfenced separators=\"|\"><mrow><mn>4</mn><mo>,</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><msqrt><mn>2</mn></msqrt></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Chord of parabola"
+  },
+  {
+    "question_id": "64b16a31f23ac7d519f9b231",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $P Q$ be a focal chord of the parabola $y^{2}=4 a x$. The tangents to the parabola at $P$ and $Q$ meet at a point lying on the line $y=2 x+a, a>0$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIf chord $P Q$ subtends an angle $\\theta$ at the vertex of $y^{2}=4 a x$, then $\\tan \\theta=$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hqe6Y",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <msqrt> <mn>7</mn> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "xGgOf",
+        "text": "<math> <mrow> <mfrac> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <msqrt> <mn>7</mn> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "f1shm",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <msqrt> <mn>5</mn> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "HSQMC",
+        "text": "<math> <mrow> <mfrac> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <msqrt> <mn>5</mn> </msqrt> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "HSQMC",
+    "solution_text": "<math> <mrow> <mtext>t</mtext> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> <mo>=</mo> <mo>-</mo> <mn>1</mn> </mrow> </math><br /><math> <mrow> <mo>&#8658;&#160;&#160;&#160;&#160;</mo> <mtext>t</mtext> <mo>+</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> <mo>=</mo> <msqrt> <mn>5</mn> </msqrt> </mrow> </math><br /><math> <mrow> <mtext>tan&#160;</mtext> <mi>&#952;</mi> <mo>=</mo> <mfrac> <mrow> <mfrac> <mrow> <mn>2</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> <mo>+</mo> <mn>2</mn> <mtext>t</mtext> </mrow> <mrow> <mn>1</mn> <mo>-</mo> <mn>4</mn> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>2&#160;</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> <mo>+</mo> <mtext>t</mtext> </mrow> </mfenced> </mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <msqrt> <mn>5</mn> </msqrt> </mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mfrac> </mrow> </math><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012645_AnsExp_1.jpg\" style=\"width: 195px; height: 233px;\" />",
+    "solution_image": null,
+    "topic": "Chord of parabola"
+  },
+  {
+    "question_id": "64b16a31f23ac7d519f9b230",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $P Q$ be a focal chord of the parabola $y^{2}=4 a x$. The tangents to the parabola at $P$ and $Q$ meet at a point lying on the line $y=2 x+a, a>0$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nLength of chord $P Q$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EqZbn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      },
+      {
+        "id": "34pji",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      },
+      {
+        "id": "cS8KS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      },
+      {
+        "id": "bGC0S",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "34pji",
+    "solution_text": "R lies on y = 2x + a<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">y</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>2</mn><mi mathvariant=\"normal\">x</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mi mathvariant=\"normal\">a</mi></math><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012641_AnsExp_1.jpg\" style=\"width: 280px; height: 217px;\" /><br /><math> <mrow> <mo>&#8658;</mo> <mtext>a&#160;</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>t</mtext> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mo>-</mo> <mtext>a</mtext> </mrow> </math><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math> <mrow> <mtext>t</mtext> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> <mo>=</mo> <mo>-</mo> <mn>1</mn> </mrow> </math><br /><math> <mrow> <mo>&#8658;</mo> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>t</mtext> <mo>+</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> </mrow> </mfenced> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>1</mn> <mo>+</mo> <mn>4</mn> <mo>=</mo> <mn>5</mn> </mrow> </math><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <math> <mrow> <mtext>PQ</mtext> <mo>=</mo> <mtext>a&#160;</mtext> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>t</mtext> <mo>+</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mtext>t</mtext> </mrow> </mfrac> </mrow> </mfenced> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>5</mn> <mtext>a</mtext> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Chord of parabola"
+  },
+  {
+    "question_id": "64b16a1ef23ac7d519f9b17f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Let $S$ be the focus of the parabola $y^{2}=8 \\mathrm{x}$ and let $P Q$ be the common chord of the circle $x^{2}+y^{2}-2 x-4 y=0$ and the given parabola. The area of the triangle $P Q S$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Given parabola $y^{2}=8 x$\r\n\r\nand circle $x^{2}+y^{2}-2 x-4 y=0$ pass through the origin\r\n\r\n$\\therefore$ One end of common chord PQ is origin. Say $\\mathrm{P}(0,0)$\r\n\r\nLet $\\mathrm{Q}$ be the point $\\left(2 t^{2}, 4 t\\right)$, then it will satisfy the equation of circle.\r\n\r\n$\\therefore \\quad 4 t^{4}+16 t^{2}-4 t^{2}-16 t=0$\r\n\r\n$\\Rightarrow t^{4}+3 t^{2}-4 t=0 \\Rightarrow t\\left(t^{3}+3 t-4\\right)=0$\r\n\r\n$\\Rightarrow t(t-1)\\left(t^{2}+t-4\\right)=0 \\Rightarrow t=0$ or 1\r\n\r\nFor $t=0$, we get point $P$, therefore $t=1$ gives point $Q$ as $(2,4)$.\r\n\r\nWe also observe here that $\\mathrm{P}(0,0)$ and $\\mathrm{Q}(2,4)$ are end points of diameter of the given circle and focus of the parabola is the point $S(2,0)$.\r\n\r\n$\\therefore \\quad$ area $(\\Delta \\mathrm{PQS})=\\frac{1}{2} \\times P S \\times Q S=\\frac{1}{2} \\times 2 \\times 4=4$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eU4fQJz3adHaoGP7hh6deAA3XZ2LwdvTG4BfAwf634Y.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Chord of parabola"
+  },
+  {
+    "question_id": "64b16a02f23ac7d519f9b07c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Let $A$ and $B$ be two distinct points on the parabola $y^2=4 x$. If the axis of the parabola touches a circle of radius $r$ having $A B$ as its diameter, then the slope of the line joining $A$ and $B$ can be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AuhHe",
+        "text": "\n$-\\frac{1}{r}$\n",
+        "image": null
+      },
+      {
+        "id": "1lA5F",
+        "text": "\n$\\frac{1}{r}$\n",
+        "image": null
+      },
+      {
+        "id": "vb4xN",
+        "text": "\n$\\frac{2}{r}$\n",
+        "image": null
+      },
+      {
+        "id": "xj7su",
+        "text": "\n$-\\frac{2}{r}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xj7su",
+    "solution_text": "Here, coordinate $M=\\left(\\frac{t_1^2+t_2^2}{2}, t_1+t_2\\right) i e$, mid point of chord $A B$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5OP5-giT0HF2WPAeV49UhRy4TxSM3EtXoEcLRC-CfFc.original.fullsize.png\"><br>\n$M P=t_1+t_2=r$ Also, $\\quad m_{A B}=\\frac{2 t_2-2 t_1}{t_2^2-t_1^2}=\\frac{2^{\\ldots(i)}}{t_2+t_1}$ (when $A B$ is chord)\n$$\n\\Rightarrow \\quad m_{A B}=\\frac{2}{r}\n$$\n[from Eq. (i)]\nAlso, $\\quad m_{A^{\\prime} B^{\\prime}}=-\\frac{2}{r}$ (when $A^{\\prime} B^{\\prime}$ is chord)\nHence, (c, d) is the correct option.",
+    "solution_image": null,
+    "topic": "Chord of parabola"
+  },
+  {
+    "question_id": "685102c26bba689a3eb09ca4",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $S$ denote the locus of the mid-points of those chords of the parabola $y^2=x$, such that the area of the region enclosed between the parabola and the chord is $\\frac{4}{3}$. Let $R$ denote the region lying in the first quadrant, enclosed by the parabola $y^2=x$, the curve $S$, and the lines $x=1$ and $x=4$.<br>Then which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wWi4K",
+        "text": "$(4, \\sqrt{3}) \\in S$",
+        "image": null
+      },
+      {
+        "id": "5cHEZ",
+        "text": "$(5, \\sqrt{2}) \\in S$",
+        "image": null
+      },
+      {
+        "id": "oYbNr",
+        "text": "Area of $R$ is $\\frac{14}{3}-2 \\sqrt{3}$",
+        "image": null
+      },
+      {
+        "id": "Y69ks",
+        "text": "Area of $R$ is $\\frac{14}{3}-\\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "oYbNr",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/QcJmbFVp26GhWfcI8fR9NuIvVr7wbTOS6wNPd9A4nI4.original.fullsize.png\"><br>$\\begin{aligned} & T=S_1 \\\\ & k y-\\left(\\frac{x+h}{2}\\right)=k^2-h \\\\ & x-2 k y+2 k^2-h=0 \\\\ & k^2-h <0 \\quad \\Rightarrow h-k^2>0 \\\\ & \\text { For Area : interchange } x \\& y \\\\ & y-2 k x+2 k^2-h=0 \\& y=x^2 \\\\ & x^2-2 k x+\\left(2 k^2-h\\right)=0 <_\\beta^\\alpha \\\\ & |\\alpha-\\beta|=\\sqrt{4 k^2-4\\left(2 k^2-h\\right)}=\\sqrt{4 h-4 k^2} \\\\ & A=\\int_\\alpha^\\beta\\left(\\left(2 k x+h-2 k^2\\right)-x^2\\right) d x \\\\ & A=\\frac{\\left(4 h-4 k^2\\right)^{3 / 2}}{6}=\\frac{4}{3} \\\\ & \\left(4 h-4 k^2\\right)^{3 / 2}=8 \\quad \\Rightarrow\\left(4 h-4 k^2\\right)=4\\end{aligned}$<br>$\\mathrm{h}-\\mathrm{k}^2=1$\n$(4, \\sqrt{3}) \\in \\mathrm{S}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/x0HPG1kELSh_6FajUHklbzM-fBVi5WE5080bMoN5g_c.original.fullsize.png\"><br>$\\begin{aligned} & \\mathrm{A}=\\int_1^4(\\sqrt{\\mathrm{x}}-\\sqrt{\\mathrm{x}-1}) \\mathrm{dx}=\\frac{2}{3}\\left(\\mathrm{x}^{3 / 2}-(\\mathrm{x}-1)^{3 / 2}\\right)_1^4 \\\\ & \\mathrm{~A}=\\frac{2}{3}(8-3 \\sqrt{3}-1)=\\frac{2}{3}(7-3 \\sqrt{3})=\\frac{14}{3}-2 \\sqrt{3}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Chord with given Middle Point"
+  },
+  {
+    "question_id": "64b16a5cf23ac7d519f9b3bb",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "If a chord, which is not a tangent, of the parabola <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn><mi>x</mi></math> has the equation <math><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mi>p</mi></math>, and midpoint (h, k), then which of the following is (are) possible value(s) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>,</mo><mi>h</mi></math> and <math><mi>k</mi></math>?<br />&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yEEpU",
+        "text": "<math><mi>p</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>,</mo><mi> </mi><mi>h</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi> </mi><mi>k</mi><mo>=</mo><mo>-</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "uIeBz",
+        "text": "<math><mi>p</mi><mo>=</mo><mn>5</mn><mo>,</mo><mi> </mi><mi>h</mi><mo>=</mo><mn>4</mn><mo>,</mo><mi> </mi><mi>k</mi><mo>=</mo><mo>-</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "9sDWH",
+        "text": "<math><mi>p</mi><mo>=</mo><mo>-</mo><mn>1</mn><mo>,</mo><mi> </mi><mi>h</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi> </mi><mi>k</mi><mo>=</mo><mo>-</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "j4keq",
+        "text": "<math><mi>p</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>&nbsp;</mi><mi>h</mi><mo>=</mo><mn>3</mn><mo>,</mo><mi>&nbsp;</mi><mi>k</mi><mo>=</mo><mo>-</mo><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "j4keq",
+    "solution_text": "<p>Equation of chord with mid point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>h</mi><mo>,</mo><mo>&#160;</mo><mi>k</mi><mo>)</mo></math>:</p><p><math><mi>k</mi><mo>.</mo><mi>y</mi><mo>-</mo><mn>16</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>x</mi><mo>+</mo><mi>h</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>16</mn><mi>h</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>8</mn><mi>x</mi><mo>-</mo><mi>k</mi><mi>y</mi><mo>+</mo><msup><mi>k</mi><mn>2</mn></msup><mo>-</mo><mn>8</mn><mi>h</mi><mo>=</mo><mn>0</mn><mi>&#160;</mi></math></p><p>Comparing with&nbsp; <math><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>-</mo><mi>p</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> we get</p><p><math><mi>k</mi><mo>=</mo><mo>-</mo><mn>4</mn><mo>;</mo><mn>2</mn><mi>h</mi><mo>-</mo><mi>p</mi><mo>=</mo><mn>4</mn></math></p><p>Only <math><mi>p</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>&#160;</mi><mi>h</mi><mo>=</mo><mn>3</mn><mo>,</mo><mi>&#160;</mi><mi>k</mi><mo>=</mo><mo>-</mo><mn>4</mn></math> satisfies above relation.</p>",
+    "solution_image": null,
+    "topic": "Chord with given Middle Point"
+  },
+  {
+    "question_id": "64b16a93f23ac7d519f9b5a8",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Consider the region $R=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0\\right.$ and $\\left.y^{2} \\leq 4-x\\right\\}$. Let $\\mathcal{F}$ be the family of all circles that are contained in $R$ and have centers on the $x$-axis. Let $C$ be the circle that has largest radius among the circles in $\\mathcal{F}$. Let $(\\alpha, \\beta)$ be a point where the circle $C$ meets the curve $y^{2}=4-x$.<br>The value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9fcb5f5a-cdeb-4468-9934-738cd9c4dbe8-image.png\" style=\"width: 280px; height: 191px;\" /></p><p>equation of normal at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo><mi>&#946;</mi><mo>=</mo><mn>2</mn><mi>&#946;</mi><mfenced><mrow><mi>x</mi><mo>-</mo><mn>4</mn><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup></mrow></mfenced></math></p><p>Passing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>r</mi><mo>,</mo><mn>0</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><mfenced><mrow><mi>r</mi><mo>-</mo><mn>4</mn><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup></mrow></mfenced><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>i</mi></mfenced></math></p><p>or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;&#160;</mo><mi>&#946;</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>Also <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><msup><mfenced><mrow><mi>r</mi><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mo>-</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></math></p><p>so radius of circle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>5</mn></math></p><p>and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>2</mn></math></p><p>from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mn>2</mn></math> but in this case circle intersect at three points</p>",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b16a93f23ac7d519f9b5a7",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Consider the region $R=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0\\right.$ and $\\left.y^{2} \\leq 4-x\\right\\}$. Let $\\mathcal{F}$ be the family of all circles that are contained in $R$ and have centers on the $x$-axis. Let $C$ be the circle that has largest radius among the circles in $\\mathcal{F}$. Let $(\\alpha, \\beta)$ be a point where the circle $C$ meets the curve $y^{2}=4-x$.<br>The radius of the circles&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>&nbsp;is____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.5",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9fcb5f5a-cdeb-4468-9934-738cd9c4dbe8-image.png\" style=\"width: 280px; height: 191px;\" /></p><p>equation of normal at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo><mi>&#946;</mi><mo>=</mo><mn>2</mn><mi>&#946;</mi><mfenced><mrow><mi>x</mi><mo>-</mo><mn>4</mn><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup></mrow></mfenced></math></p><p>Passing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>r</mi><mo>,</mo><mn>0</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>1</mn><mo>=</mo><mn>2</mn><mfenced><mrow><mi>r</mi><mo>-</mo><mn>4</mn><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup></mrow></mfenced><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>i</mi></mfenced></math></p><p>or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;&#160;</mo><mi>&#946;</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>Also <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><msup><mfenced><mrow><mi>r</mi><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mi>&#946;</mi><mn>2</mn></msup><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p>from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>i</mi></mfenced></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mo>-</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></math></p><p>so radius of circle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>5</mn></math></p><p>and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>2</mn></math></p><p>from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mn>2</mn></math> but in this case circle intersect at three points</p>",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b29d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "The common tangents to the circle <math><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn></math> and the parabola <math><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn><mi mathvariant=\"normal\">x</mi></math> touch the circle at the points P, and Q the parabola at the points R, S. Then the area of the quadrilateral PQRS is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Hgjzx",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "WyHT6",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "OhkkY",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "2za9p",
+        "text": "15",
+        "image": null
+      }
+    ],
+    "correct_answer": "2za9p",
+    "solution_text": "<p>Area  <math><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>4</mn></mrow></mfenced><mn>3</mn></mrow></mfenced><mo>×</mo><mn>2</mn><mo>=</mo><mn>15</mn></math> <br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image1-6e16e13e-ee8c-4509-a9d2-6a77dea26d49.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b169e4f23ac7d519f9af6a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Consider the two curves\n$C_1: y^2=4 x$\n$C_2: x^2+y^2-6 x+1=0$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HL7J8",
+        "text": "\n$C_1$ and $C_2$ touch each other only at one point\n",
+        "image": null
+      },
+      {
+        "id": "0W6ep",
+        "text": "\n$C_1$ and $C_2$ touch each other exactly at two points\n",
+        "image": null
+      },
+      {
+        "id": "P43BN",
+        "text": "\n$C_1$ and $C_2$ intersect (but do not touch) at exactly two points\n",
+        "image": null
+      },
+      {
+        "id": "iMHWT",
+        "text": "\n$C_1$ and $C_2$ neither intersect nor touch each other",
+        "image": null
+      }
+    ],
+    "correct_answer": "0W6ep",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Ka5EvOh33vl1y1JB5YPt0nRaTjg_fhSylQk09GjN5zc.original.fullsize.png\"><br>\nFor the points of intersection of the two given curves\n$$\nC_1: y^2=4 x \\text { and } C_2: x^2+y^2-6 x+1=0 \\text {, }\n$$\nwe have\n$$\n\\begin{aligned}\n& x^2+4 x-6 x+1=0 \\\\\n& \\Rightarrow \\quad x^2-2 x+1=0 \\\\\n& \\Rightarrow \\quad(x-1)^2=0 \\\\\n& \\Rightarrow \\quad x=1,1 \\\\\n& \\Rightarrow \\quad y=2,-2 \\\\\n&\n\\end{aligned}\n$$\nThus, the given curves touch each other exactly at two points $(1,2)$ and $(1,-2)$.",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nConsider the circle $x^2+y^2=9$ and the parabola $y^2=8 x$. They intersect at $P$ and $Q$ in the first and the fourth quadrants, respectively. Tangents to the circle at $P$ and $Q$ intersect the $\\mathrm{X}$-axis at $R$ and tangents to the parabola at $P$ and $Q$ intersect the $\\mathrm{X}$-axis at $S$.<strong>Question:</strong>\nThe radius of the circumcircle of the $\\triangle P R S$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UthDn",
+        "text": "\n5\n",
+        "image": null
+      },
+      {
+        "id": "hBDoY",
+        "text": "\n$3 \\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "4lDF5",
+        "text": "\n$3 \\sqrt{2}$\n",
+        "image": null
+      },
+      {
+        "id": "RfVEf",
+        "text": "\n$2 \\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hBDoY",
+    "solution_text": "Equation of circumcircle of $\\triangle P R S$ is\n$$\n(x+1)(x-9)+y^2+\\lambda y=0\n$$\nIt will pass through $(1,2 \\sqrt{2})$, then\n$$\n\\begin{aligned}\n-16+8+\\lambda \\cdot 2 \\sqrt{2} & =0 \\\\\n\\lambda \\quad \\lambda & =\\frac{8}{2 \\sqrt{2}}=2 \\sqrt{2}\n\\end{aligned}\n$$\nEquation of circumcircle is\n$$\nx^2+y^2-8 x+2 \\sqrt{2} y-9=0\n$$\nHence, its radius is $3 \\sqrt{3}$.\nALITER\nLet\n$$\n\\begin{array}{ll}\n\\text { Let } & \\angle P S R=\\theta \\\\\n\\Rightarrow & \\sin \\theta=\\frac{2 \\sqrt{2}}{2 \\sqrt{3}} \\\\\n\\Rightarrow & P R=6 \\sqrt{2}=2 R \\cdot \\sin \\theta\n\\end{array}\n$$\n$$\n\\Rightarrow \\quad \\sin \\theta=\\frac{2 \\sqrt{2}}{2 \\sqrt{3}}\n$$\n$$\n\\Rightarrow \\quad R=3 \\sqrt{3} \\text {. }\n$$",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nConsider the circle $x^2+y^2=9$ and the parabola $y^2=8 x$. They intersect at $P$ and $Q$ in the first and the fourth quadrants, respectively. Tangents to the circle at $P$ and $Q$ intersect the $\\mathrm{X}$-axis at $R$ and tangents to the parabola at $P$ and $Q$ intersect the $\\mathrm{X}$-axis at $S$.<strong>Question:</strong>\nThe ratio of the areas of the $\\triangle P Q S$ and $\\triangle P Q R$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VjgIY",
+        "text": "\n$1: \\sqrt{2}$\n",
+        "image": null
+      },
+      {
+        "id": "2duXY",
+        "text": "\n$1: 2$\n",
+        "image": null
+      },
+      {
+        "id": "v9Tgw",
+        "text": "\n$1: 4$\n",
+        "image": null
+      },
+      {
+        "id": "vZtAC",
+        "text": "\n$1: 8$",
+        "image": null
+      }
+    ],
+    "correct_answer": "v9Tgw",
+    "solution_text": "Coordinates of $P$ and $Q$ are $(1,2 \\sqrt{2})$ and $(1,-2 \\sqrt{2})$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9dALRJjOh-9hWyHO_nuAnTIRdris7Usk7WPt-roEO5k.original.fullsize.png\"><br>\nArea of $\\triangle P Q R=\\frac{1}{2} \\cdot 4 \\sqrt{2} \\cdot 8=16 \\sqrt{2}$\nArea of $\\triangle P Q S=\\frac{1}{2} \\cdot 4 \\sqrt{2} \\cdot 2=4 \\sqrt{2}$\nRatio of area of $\\triangle P Q S$ and $\\triangle P Q R$ is $1: 4$.",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b169cdf23ac7d519f9ae9c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Equation of common tangent of $y=x^2, y=-x^2+4 x-4$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "J4Kd3",
+        "text": "\n$y=4(x-1)$\n",
+        "image": null
+      },
+      {
+        "id": "jorSl",
+        "text": "\n$y=0$\n",
+        "image": null
+      },
+      {
+        "id": "zvIao",
+        "text": "\n$y=-4(x-1)$\n",
+        "image": null
+      },
+      {
+        "id": "fhu4t",
+        "text": "\n$y=-30 x-50$",
+        "image": null
+      }
+    ],
+    "correct_answer": "jorSl",
+    "solution_text": "The equation of tangent to $y=x^2$, be $y=m x-\\frac{m^2}{4}$, putting in $y=-x^2+4 x-4$, we should only get one value of $x$ i.e. Discriminate must be zero.\n$$\n\\begin{array}{rrr}\n\\therefore & m x-\\frac{m^2}{4} & =-x^2+4 x-4 \\\\\n\\Rightarrow & x^2+x(m-4)+4-\\frac{m^2}{4} & =0 \\\\\n\\Rightarrow & m(m-4) & =0 \\\\\n& \\therefore y=0 & \\text { or } m=0,4\n\\end{array}\n$$\n\n$$\n\\therefore y=0 \\text { and } y=4(x-1) \\text { are tangents. }\n$$",
+    "solution_image": null,
+    "topic": "Common Tangent"
+  },
+  {
+    "question_id": "64b16a16f23ac7d519f9b133",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Let $(x, y)$ be any point on the parabola $y^2=4 x$. Let $P$ be the point that divides the line segment from $(0,0)$ to $(x, y)$ in the ratio $1: 3$. Then, the locus of $P$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2pWUb",
+        "text": "\n$x^2=y$\n",
+        "image": null
+      },
+      {
+        "id": "IF0GC",
+        "text": "\n$y^2=2 x$\n",
+        "image": null
+      },
+      {
+        "id": "No7ne",
+        "text": "\n$y^2=x$\n",
+        "image": null
+      },
+      {
+        "id": "f3Yr6",
+        "text": "\n$x^2=2 y$",
+        "image": null
+      }
+    ],
+    "correct_answer": "No7ne",
+    "solution_text": "$$\n\\text { By section formula, }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/NZeJW46lYjK_Tb4Ljhd5REr04ncqMpNoSecFzLx2gXo.original.fullsize.png\"><br>\n$h=\\frac{x+0}{4}, k=\\frac{y+0}{4}$\n$\\therefore \\quad x=4 h$ and $y=4 k$\nSubstituting in $y^2=4 x$,\n$(4 k)^2=4(4 h) \\Rightarrow k^2=h$\nor $y^2=x$ is required locus.",
+    "solution_image": null,
+    "topic": "Locus"
+  },
+  {
+    "question_id": "66965df0d603121f43a462ec",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A normal with slope $\\frac{1}{\\sqrt{6}}$ is drawn from the point $(0,-\\alpha)$ to the parabola $x^2=-4 a y$, where $a>0$. Let $L$ be the line passing through $(0,-\\alpha)$ and parallel to the directrix of the parabola. Suppose that $L$ intersects the parabola at two points $A$ and $B$. Let $r$ denote the length of the latus rectum and $s$ denote the square of the length of the line segment $A B$. If $r: s=1: 16$, then the value of 24ais ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 12,
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aJMHup7J6PiZGL9OH0wgXrH9KsxKu-338L8DNMk72I4.original.fullsize.png\">\n$\\frac{d y}{d x}=\\left.\\frac{x}{-2 a} \\Rightarrow \\frac{d y}{d x}\\right|_N=-t$\nSlope of normal $=\\frac{1}{t}=\\frac{1}{\\sqrt{6}} \\Rightarrow t=\\sqrt{6}$\nNow, $\\frac{-\\mathrm{at}^2+\\alpha}{2 \\mathrm{at}}=\\frac{1}{\\mathrm{t}}$\n$\\Rightarrow-\\mathrm{at}^2+\\alpha=2 \\mathrm{a}$\n$\\Rightarrow-6 \\mathrm{a}+\\alpha=2 \\mathrm{a} \\Rightarrow \\alpha=8 \\mathrm{a}$\nFor A and B\n$\\begin{aligned} & x^2=-4 a(-8 a) \\\\ & \\Rightarrow x^2=32 a^2 \\Rightarrow x= \\pm 4 \\sqrt{2} a \\\\ & \\therefore A(-4 \\sqrt{2} a,-8 a), B(4 \\sqrt{2} a,-8 a) \\\\ & \\therefore A B^2=(8 \\sqrt{2} a)^2=128 a^2=s\\end{aligned}$\n$\\therefore$ Length of LR $=\\mathrm{r}=4 \\mathrm{a}$\n$\\begin{aligned} & \\Rightarrow \\frac{\\mathrm{r}}{\\mathrm{s}}=\\frac{4 \\mathrm{a}}{128 \\mathrm{a}^2}=\\frac{1}{16} \\\\ & \\therefore 32 \\mathrm{a}=16 \\Rightarrow \\mathrm{a}=\\frac{1}{2} \\\\ & \\therefore 24 \\mathrm{a}=12 \\text { Ans. }\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Normal to Parabola"
+  },
+  {
+    "question_id": "64b16aa4f23ac7d519f9b648",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;be a point on the parabola <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>a</mi><mi>x</mi></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>&#62;</mo><mn>0</mn></math>. The normal to the parabola at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> meets the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-axis at a point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>. The area of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>F</mi><mi>Q</mi></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math> is the focus of the parabola, is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>120</mn></math>. If the slope <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> of the normal and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi></math> are both positive integers, then the pair <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>a</mi><mo>,</mo><mo>&#160;</mo><mi>m</mi></mrow></mfenced></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "69lEa",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>,</mo><mo>&#160;</mo><mn>3</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "eSpDJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>,</mo><mo>&#160;</mo><mn>3</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "RRWVL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>,</mo><mo>&#160;</mo><mn>4</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "KZRBW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>3</mn><mo>,</mo><mo>&#160;</mo><mn>4</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "69lEa",
+    "solution_text": "<blockquote><p>Given,</p><p>Parabola&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>a</mi><mi>x</mi></math>,</p><p>Now plotting the normal to parabola at point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mfenced><mrow><mi>a</mi><msup><mi>m</mi><mn>2</mn></msup><mo>,</mo><mo>-</mo><mn>2</mn><mi>a</mi><mi>m</mi></mrow></mfenced></math>, we get</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a716b152-dac5-4209-b751-0649f2b39468.png\" style=\"width: 400px; height: 219px;\" /></p><p>So, equation of normal at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mfenced><mrow><mi>a</mi><msup><mi>m</mi><mn>2</mn></msup><mo>,</mo><mo>&#160;</mo><mo>-</mo><mn>2</mn><mi>a</mi><mi>m</mi></mrow></mfenced></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>-</mo><mn>2</mn><mi>a</mi><mi>m</mi><mo>-</mo><mi>a</mi><msup><mi>m</mi><mn>3</mn></msup></math></p><p>Hence, point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mfenced><mrow><mn>2</mn><mi>a</mi><mo>+</mo><mi>a</mi><msup><mi>m</mi><mn>2</mn></msup><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p>And focus of parabola will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced><mrow><mi>a</mi><mo>,</mo><mn>0</mn></mrow></mfenced></math></p><p>Now finding the area of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>P</mi><mi>F</mi><mi>Q</mi></math>&nbsp;we get,</p><p>Area of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>P</mi><mi>F</mi><mi>Q</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>a</mi><mo>+</mo><mi>a</mi><msup><mi>m</mi><mn>2</mn></msup></mrow></mfenced><mo>&#215;</mo><mn>2</mn><mi>a</mi><mi>m</mi><mo>=</mo><mn>120</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>a</mi><mn>2</mn></msup><mi>m</mi><mfenced><mrow><mn>1</mn><mo>+</mo><msup><mi>m</mi><mn>2</mn></msup></mrow></mfenced><mo>=</mo><mn>120</mn></math></p><p>So, possible pair from option will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>a</mi><mo>,</mo><mo>&#160;</mo><mi>m</mi></mrow></mfenced><mo>&#8801;</mo><mfenced><mrow><mn>2</mn><mo>,</mo><mo>&#160;</mo><mn>3</mn></mrow></mfenced></math>&nbsp;which&nbsp;satisfies above equation</p></blockquote>",
+    "solution_image": null,
+    "topic": "Normal to Parabola"
+  },
+  {
+    "question_id": "64b16a57f23ac7d519f9b38a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Let P be the point on the parabola <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>x</mi></math> which is at the shortest distance from the center S of the circle <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>4</mn><mi>x</mi><mo>-</mo><mn>16</mn><mi>y</mi><mo>+</mo><mn>64</mn><mo>=</mo><mn>0</mn><mo>.</mo></math> Let Q be the point on the circle dividing the line segment SP internally. Then -",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jFtER",
+        "text": "<math><mi>S</mi><mi>P</mi><mo>=</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "BKKDn",
+        "text": "<math><mi>S</mi><mi>Q</mi><mi> </mi><mo>:</mo><mi>Q</mi><mi>P</mi><mo>=</mo><mfenced separators=\"|\"><mrow><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>1</mn></mrow></mfenced><mi> </mi><mo>:</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "zrecu",
+        "text": "The x - intercept of the normal to the parabola at P is 6",
+        "image": null
+      },
+      {
+        "id": "TN4ch",
+        "text": "The slope of the tangent to the circle at Q is <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "TN4ch",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/maths_47_solut.jpg\"/><br ><math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>x</mi></math><br >Point P lies on normal to parabola passing through centre of circle<br ><math><mi>y</mi><mo>+</mo><mi>t</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>t</mi><mo>+</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></math> ......(i)<br ><math><mn>8</mn><mo>+</mo><mn>2</mn><mi>t</mi><mo>=</mo><mn>2</mn><mi>t</mi><mo>+</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></math><br ><math><mi>t</mi><mo>=</mo><mn>2</mn></math><br ><math><mi>P</mi><mfenced separators=\"|\"><mrow><mn>4</mn><mo>,</mo><mi> </mi><mn>4</mn></mrow></mfenced></math><br ><math><mi>S</mi><mi>P</mi><mo>=</mo><mi> </mi><msqrt><msup><mrow><mfenced separators=\"|\"><mrow><mn>4</mn><mo>-</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>4</mn><mo>-</mo><mn>8</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math><br ><math><mi>S</mi><mi>P</mi><mo>=</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></math><br ><math><mi>S</mi><mi>Q</mi><mo>=</mo><mn>2</mn></math><br ><math><mo>⇒</mo></math> <math><mi>P</mi><mi>Q</mi><mo>=</mo><mn>2</mn><msqrt><mn>5</mn></msqrt><mo>-</mo><mn>2</mn></math><br ><math><mfrac><mrow><mi>S</mi><mi>Q</mi></mrow><mrow><mi>Q</mi><mi>P</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>5</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math><br >To find <math><mi>x</mi></math> intercept<br >Put <math><mi>y</mi><mo>=</mo><mn>0</mn></math> in (i)<br ><math><mo>⇒</mo></math> <math><mi>x</mi><mo>=</mo><mn>2</mn><mo>+</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br ><math><mi>x</mi><mo>=</mo><mn>6</mn></math><br ><math><mo>∵</mo></math> Slope of common normal <math><mo>=</mo><mi> </mi><mo>-</mo><mi>t</mi><mo>=</mo><mi> </mi><mo>-</mo><mn>2</mn></math><br ><math><mo>∴</mo></math> Slope of tangent <math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Normal to Parabola"
+  },
+  {
+    "question_id": "64b16a44f23ac7d519f9b2da",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "If the normal of the parabola <math><msup><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">x</mi></math> drawn at the end points of its latus rectum are tangents to the circle <math><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">y</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>,</mo></math> then the value of <math><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "End points of latus rectum <math><mi mathvariant=\"normal\">A</mi><mo>(</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mn>2</mn><mo>)</mo><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">B</mi><mo>(</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mo>–</mo><mn>2</mn><mo>)</mo></math> <br >Equation of normal at <math><mi mathvariant=\"normal\">A</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">x</mi></mrow></mfrac><mo>=</mo><mn>1</mn></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">y</mi><mo>-</mo><mn>2</mn><mo>=</mo><mo>-</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>-</mo><mn>3</mn><mo>=</mo><mn>0</mn></math>      ...(i)<br > <math><mi mathvariant=\"normal\">r</mi><mo>=</mo></math>  Distance of line (i) from  <math><mfenced separators=\"|\"><mrow><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mo>-</mo><mn>2</mn></mrow></mfenced></math> <br > <math><mi mathvariant=\"normal\">r</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn><mo>-</mo><mn>2</mn><mo>-</mo><mn>3</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></mrow></mfenced><mo>=</mo><msqrt><mn>2</mn></msqrt></math> <br > <math><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Normal to Parabola"
+  },
+  {
+    "question_id": "64b16a16f23ac7d519f9b13b",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Let $L$ be a normal to the parabola $y^2=4 x$. If $L$ passes through the point $(9,6)$, then $L$ is given by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nQHsQ",
+        "text": "\n$y-x+3=0$\n",
+        "image": null
+      },
+      {
+        "id": "I78qB",
+        "text": "\n$y+3 x-33=0$\n",
+        "image": null
+      },
+      {
+        "id": "1Gj9n",
+        "text": "\n$y+x-15=0$\n",
+        "image": null
+      },
+      {
+        "id": "KYIQ4",
+        "text": "\n$y-2 x+12=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "KYIQ4",
+    "solution_text": "Normal to $y^2=4 x$, is $y-m x-2 m-m^3$ which passes through $(9,6)$.\nNow, $\\quad 6=9 m-2 m-m^3$ $\\Rightarrow m^3-7 m+6=0 \\Rightarrow m=1,2,-3$\n$\\therefore$ Equation of normals are\n$y-x+3=0$\n$y+3 x-33=0$ and $y-2 x+12=0$",
+    "solution_image": null,
+    "topic": "Normal to Parabola"
+  },
+  {
+    "question_id": "64b169d0f23ac7d519f9aeb4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Match the column.\nNormals at $P, Q, R$ are drawn to $y^2=4 x$ which intersect at $(3,0)$. Then,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/V8pddult167dBNpS7Z8V5Cw_zSQ4Lu0oQfWh1qEbXzw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "f8y0j",
+        "text": "\n(i) (a), (ii) (b), (iii) (d), (iv) (c)\n",
+        "image": null
+      },
+      {
+        "id": "ZACmi",
+        "text": "\n(i) (b), (ii) (a), (iii) (d), (iv) (c)\n",
+        "image": null
+      },
+      {
+        "id": "gpNka",
+        "text": "\n(i) (a), (ii) (b), (iii) (c), (iv) (d)\n",
+        "image": null
+      },
+      {
+        "id": "TtMxd",
+        "text": "\n(i) (b), (ii) (a), (iii) (c), (iv) (d)",
+        "image": null
+      }
+    ],
+    "correct_answer": "f8y0j",
+    "solution_text": "Since, equation of normal is $y+x t=2 a t+a t^3$ passes through $(3,0)$.\n$$\n\\Rightarrow \\quad 3 t=2 t+t^3 \\Rightarrow t=0,1,-1 \\text {. }\n$$\n$\\therefore P(1,2), Q(0,0), R(1,-2)$. Thus,\n(i) Area of $\\triangle P Q R=\\frac{1}{2} \\times 1 \\times 4=2$\n(ii) Centroid of $\\triangle P Q R=\\left(\\frac{2}{3}, 0\\right)$\nEquation of circle passing through $P, Q, R$ is\n$$\n\\begin{aligned}\n& \\quad(x-1)(x-1)+(y-2)(y+2)+\\lambda(x-1)=0 \\\\\n& \\Rightarrow \\quad 1-4-\\lambda=0 \\Rightarrow \\lambda=-3 \\\\\n& \\therefore \\text { Required equation of circle is } x^2+y^2-5 x-1=0 \\\\\n& \\therefore \\text { Centre }\\left(\\frac{5}{2}, 0\\right) \\text { and radius } \\frac{5}{2} .\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Normal to Parabola"
+  },
+  {
+    "question_id": "64b16a99f23ac7d519f9b5e4",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Consider the parabola <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>x</mi></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> be the focus of the parabola. A pair of tangents drawn to the parabola from the point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>&nbsp;meet the parabola at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>2</mn></msub></math>&nbsp;be points on the lines <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>2</mn></msub></math>&nbsp;respectively such that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msub><mi>Q</mi><mn>1</mn></msub></math>&nbsp;is perpendicular to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msub><mi>Q</mi><mn>2</mn></msub></math>&nbsp;is perpendicular to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>2</mn></msub></math>. Then, which of the following is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PdBqE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "8Jco8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><msub><mi>Q</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>10</mn></msqrt></mrow><mn>5</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "syO5X",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "frWeb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>Q</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "frWeb",
+    "solution_text": "<p>On plotting the diagram of the given value we have,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a445119f-1f73-41f6-a25b-ae38e54a4e68-image.png\" style=\"width: 280px; height: 195px;\" /></p><p>Now let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mfenced><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>,</mo><mn>2</mn><mi>t</mi></mrow></mfenced></math>&nbsp;then tangent at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub></math>&nbsp;will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><msup><mi>t</mi><mn>2</mn></msup></math></p><p>Since it passes through&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mi>t</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>t</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn></math></p><p>So, we get points&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mfenced><mrow><mn>4</mn><mo>,</mo><mn>4</mn></mrow></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub><mfenced><mrow><mn>1</mn><mo>,</mo><mo>-</mo><mn>2</mn></mrow></mfenced></math></p><p>Now finding the equation of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>1</mn></msub><mo>:</mo><mn>4</mn><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p>And equation of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>P</mi><mn>2</mn></msub><mo>:</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p>Now finding the point by foot of point on line formula,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><mo>:</mo><mfrac><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mn>2</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mfrac><mrow><msub><mi>y</mi><mn>1</mn></msub><mo>-</mo><mn>1</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>-</mo><mfenced><mrow><mo>-</mo><mn>8</mn><mo>-</mo><mn>3</mn><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><mn>25</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></math></p><p>We get&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mo>,</mo><msub><mi>y</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mo>-</mo><mn>4</mn></mrow><mn>5</mn></mfrac></math></p><p>Similarly for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>2</mn></msub><mo>=</mo><mfenced><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p>Now using the distance formula we get,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><msqrt><msup><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mn>4</mn><mn>5</mn></mfrac></mfenced><mn>2</mn></msup></msqrt><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><msub><mi>Q</mi><mn>2</mn></msub><mo>=</mo><msqrt><mfrac><mn>9</mn><mn>25</mn></mfrac><mo>+</mo><mfrac><mn>81</mn><mn>25</mn></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mn>90</mn><mn>25</mn></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>10</mn></msqrt></mrow><mn>5</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><msqrt><mfrac><mn>144</mn><mn>25</mn></mfrac><mo>+</mo><mfrac><mn>81</mn><mn>25</mn></mfrac></msqrt><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>Q</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Pair of Tangents"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b5a6",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;denote the parabola&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>8</mn><mi>x</mi><mo>.</mo></math>&nbsp;Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mfenced><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>4</mn></mrow></mfenced></math>, and let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Q</mi><mo>'</mo></msup></math>&nbsp;be two distinct points on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;such that the lines&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msup><mi>Q</mi><mo>'</mo></msup></math>&nbsp;are tangents to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>. Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math>&nbsp;be the focus of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>. Then which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Ot7IU",
+        "text": "The triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>F</mi><mi>Q</mi></math>&nbsp;is a right-angled triangle",
+        "image": null
+      },
+      {
+        "id": "SBDqt",
+        "text": "The triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mi>P</mi><msup><mi>Q</mi><mo>'</mo></msup></math>&nbsp;is a right-angled triangle",
+        "image": null
+      },
+      {
+        "id": "sWz1F",
+        "text": "The distance between&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><msqrt><mn>2</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "n8Tbc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math>&nbsp;lies on the line joining&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Q</mi><mo>'</mo></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "n8Tbc",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/950c388a-25fd-48d3-b383-5d4552052127-image.png\" style=\"width: 380px; height: 242px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>8</mn><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>a</mi><mo>=</mo><mn>2</mn><mo>,</mo></math>&nbsp;Focus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow></mfenced><mo>,</mo></math>&nbsp;and Directrix&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi>x</mi><mo>=</mo><mo>&#8722;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mi>P</mi><mfenced><mrow><mo>&#8722;</mo><mn>2</mn><mo>,</mo><mn>4</mn></mrow></mfenced></math>&nbsp;lies on directrix</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>Q</mi><msup><mi>Q</mi><mo>&#39;</mo></msup></math>&nbsp;will be a focal chord and tangents are mutually perpendicular.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>&#916;</mi><mi>Q</mi><mi>P</mi><msup><mi>Q</mi><mo>&#39;</mo></msup></math>&nbsp;is right angled.</p><p>Also the portion between point of contact and directrix of parabola subtends right angle at the focus.</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#9651;</mo><mi>P</mi><mi>F</mi><mi>Q</mi></math>&nbsp;is a right- angled triangle.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>F</mi><mo>=</mo><msqrt><msup><mfenced><mrow><mo>&#8722;</mo><mn>2</mn><mo>&#8722;</mo><mn>2</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>4</mn><mo>&#8722;</mo><mn>0</mn></mrow></mfenced><mn>2</mn></msup></msqrt><mo>=</mo><mn>4</mn><msqrt><mn>2</mn></msqrt></math>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Properties of Tangent"
+  },
+  {
+    "question_id": "64b16a11f23ac7d519f9b108",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Consider the parabola $y^2=8 x$. Let $\\Delta_1$ be the area of the triangle formed by the end points of its latusrectum and the point $P\\left(\\frac{1}{2}, 2\\right)$ on the parabola and $\\Delta_2$ be the area of the triangle formed by drawing tangents at $P$ and at the end points of the latusrectum. Then, $\\frac{\\Delta_1}{\\Delta_2}$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "As, we know area of triangle formed by three points on parabola is twice the area of triangle formed by corresponding tangents, i.e. area of $\\triangle P Q R=2$ area of $\\Delta T_1 T_2 T_3$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Tn_oNb9XptnCEq3OqpNXGsGE325gb-xi60MgtbaSZlI.original.fullsize.png\"><br>\n$\\therefore \\quad \\Delta_1=2 \\Delta_2$ or $\\frac{\\Delta_1}{\\Delta_2}=2$",
+    "solution_image": null,
+    "topic": "Properties of Tangent"
+  },
+  {
+    "question_id": "64b169def23ac7d519f9af32",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I The curve $y=-\\frac{x^2}{2}+x+1$ is symmetric with respect to the line $x=1$\nStatement II A parabola is symmetric about its axis.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zjKm7",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "xvrOX",
+        "text": "\nStatement I is true, Statement II is true; Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "xFwMy",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "D1Lj7",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "zjKm7",
+    "solution_text": "$$\n\\begin{array}{rlrl}\ny & =-\\frac{x^2}{2}+x+1 \\\\\n\\Rightarrow & y-\\frac{3}{2} & =-\\frac{1}{2}(x-1)^2\n\\end{array}\n$$\nIt is symmetric about $x=1$.",
+    "solution_image": null,
+    "topic": "Reflection property"
+  },
+  {
+    "question_id": "64b169cff23ac7d519f9aeaf",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRead the following passage and answer the questions.\nLet $A B C D$ be a square of side length 2 units. $C_2$ is the circle through vertices $A, B, C, D$ and $C_1$ is the circle touching all the sides of square $A B C D$. $L$ is the line through $A$.<strong>Question:</strong>\nA line $M$ through $A$ is drawn parallel to $B D$. Points $S$ moves such that its distances from the line $B D$ are the vertex $A$ are equal. If locus of $S$ cuts $M$ at $T_2$ and $T_3$ and $A C$ at $T_1$, then area of $\\Delta T_1 T_2 T_3$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ETSAc",
+        "text": "\n$\\frac{1}{2}$ sq unit\n",
+        "image": null
+      },
+      {
+        "id": "V4xiP",
+        "text": "\n$\\frac{2}{3}$ sq unit\n",
+        "image": null
+      },
+      {
+        "id": "wqoZw",
+        "text": "\n1 sq unit\n",
+        "image": null
+      },
+      {
+        "id": "wYTtm",
+        "text": "\n2 sq unit",
+        "image": null
+      }
+    ],
+    "correct_answer": "wqoZw",
+    "solution_text": "$\\because \\quad A G=\\sqrt{2}$\n$$\n\\therefore \\quad A T_1=T_1 G=\\frac{1}{\\sqrt{2}}\n$$\n\\{ as $A$ is the focus, $T_1$ is the vertex and $B D$ is the directrix of parabola.\\}\nAlso, $T_2 T_3$ is latus rectum\n$$\n\\begin{aligned}\n& \\therefore \\quad T_2 T_3=4 \\cdot \\frac{1}{\\sqrt{2}} \\\\\n& \\therefore \\text { Area of } \\Delta T_1 T_2 T_3=\\frac{1}{2} \\times \\frac{1}{\\sqrt{2}} \\times \\frac{4}{\\sqrt{2}}=1 \\text { sq unit }\n\\end{aligned}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Pxu686ffJomZ7_Tf427TB2KermtePPSHx--LU89pjaA.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "standard equation of parabola"
+  },
+  {
+    "question_id": "64b169cff23ac7d519f9aeae",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRead the following passage and answer the questions.\nLet $A B C D$ be a square of side length 2 units. $C_2$ is the circle through vertices $A, B, C, D$ and $C_1$ is the circle touching all the sides of square $A B C D$. $L$ is the line through $A$.<strong>Question:</strong>\nA circle touches the line $L$ and the circle $C_1$ externally such that both the circles are on the same side of the line, then the locus of centre of the circle is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nO1cS",
+        "text": "\nellipse\n",
+        "image": null
+      },
+      {
+        "id": "QJ7Ez",
+        "text": "\nhyperbola\n",
+        "image": null
+      },
+      {
+        "id": "ZMUa8",
+        "text": "\nparabola\n",
+        "image": null
+      },
+      {
+        "id": "Bkv8q",
+        "text": "\nparts of straight line",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZMUa8",
+    "solution_text": "Let $C$ be the centre of the required circle.\nNow, draw a line parallel to $L$ at a distance of $r_1$ (radius of $C_1$ ) from it. Now, $C P_1=A C$\n$\\Rightarrow C$ lies on a parabola.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/T3E8jilQ7fAExrDkNa9zaAaWyOyYLzWpMUcoHIy2QN0.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "standard equation of parabola"
+  },
+  {
+    "question_id": "64b169ccf23ac7d519f9ae90",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Axis of a parabola is $y=x$ and vertex and focus are at a distance $\\sqrt{2}$ and $2 \\sqrt{2}$ respectively, from the origin. Then, equation of the parabola is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Xz7q7",
+        "text": "\n$(x-y)^2=8(x+y-2)$\n",
+        "image": null
+      },
+      {
+        "id": "c5g3J",
+        "text": "\n$(x+y)^2=2(x+y-2)$\n",
+        "image": null
+      },
+      {
+        "id": "wmPcS",
+        "text": "\n$(x-y)^2=4(x+y-2)$\n",
+        "image": null
+      },
+      {
+        "id": "m8xLH",
+        "text": "\n$(x+y)^2=2(x-y+2)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Xz7q7",
+    "solution_text": "As distance of vertex from origin is $\\sqrt{2}$ and focus is $2 \\sqrt{2}$. $\\therefore V(1,1)$ and $F(2,2)$\n[i.e. lying on $y=x$ ] where, length of latusrectum\n$$\n\\begin{aligned}\n& =4 a, \\\\\n& =4 \\sqrt{2}\n\\end{aligned}\n$$\n$$\n[\\because \\text { where } a=\\sqrt{2}]\n$$\n$\\therefore$ By definition of parabola\n$$\nP M^2=(4 a)(P N)\n$$\nwhere, $P N$ is length of perpendicular upon $x+y-2=0$\n[i.e. tangent at vertex]\n$$\n\\begin{array}{ll}\n\\Rightarrow & \\frac{(x-y)^2}{2}=4 \\sqrt{2}\\left(\\frac{x+y-2}{\\sqrt{2}}\\right) \\\\\n\\therefore & (x-y)^2=8(x+y-2)\n\\end{array}\n$$\nHence, the equation of parabola is $(x-y)^2=8(x+y-2)$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LTzvcNzfi_9l1vI8uJ56TDZNQEppsHlTrcYn6e3n2TM.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "standard equation of parabola"
+  },
+  {
+    "question_id": "6a0be51144d287c9361e5ca9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Let $T$ be the tangent to the parabola $y^2 = 16x$ at the point $(64, 32)$. Let $L$ be the tangent to the same parabola at another point $(x_1, y_1)$ on the parabola. If $L$ and $T$ are perpendicular to each other, then the distance between the point $(x_1, y_1)$ and the focus of the parabola, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GHDty",
+        "text": "$\\dfrac{15}{4}$",
+        "image": null
+      },
+      {
+        "id": "GkDTf",
+        "text": "$4$",
+        "image": null
+      },
+      {
+        "id": "clyHA",
+        "text": "$\\dfrac{17}{4}$",
+        "image": null
+      },
+      {
+        "id": "gtWkt",
+        "text": "$5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "clyHA",
+    "solution_text": "The equation of the parabola is $y^2 = 16x$. Comparing with $y^2 = 4ax$, we get $a = 4$.<br><br>Let the parametric coordinates of the point $(64, 32)$ be $(at_1^2, 2at_1)$.<br><br>$2at_1 = 32 \\Rightarrow 8t_1 = 32 \\Rightarrow t_1 = 4$<br><br>The slope of the tangent $T$ at $t_1$ is $m_1 = \\dfrac{1}{t_1} = \\dfrac{1}{4}$.<br><br>Let the tangent $L$ be at the point $(x_1, y_1)$ with parameter $t_2$. Its slope is $m_2 = \\dfrac{1}{t_2}$.<br><br>Since $T$ and $L$ are perpendicular, $m_1 m_2 = -1$.<br><br>$\\dfrac{1}{4} \\times \\dfrac{1}{t_2} = -1 \\Rightarrow t_2 = -\\dfrac{1}{4}$<br><br>The $x$-coordinate of the point $(x_1, y_1)$ is $x_1 = at_2^2 = 4\\left(-\\dfrac{1}{4}\\right)^2 = \\dfrac{1}{4}$.<br><br>The distance of a point $(x_1, y_1)$ on the parabola from the focus is given by its focal distance $x_1 + a$.<br><br>Distance $= \\dfrac{1}{4} + 4 = \\dfrac{17}{4}$<br><br>Answer: $\\dfrac{17}{4}$",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  },
+  {
+    "question_id": "66965decd603121f43a45864",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Let $A_1, B_1, C_1$ be three points in the $x y$-plane. Suppose that the lines $A_1 C_1$ and $B_1 C_1$ are tangents to the curve $y^2=8 x$ at $A_1$ and $B_1$, respectively. If $O=(0,0)$ and $C_1=(-4,0)$, then which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UIX87",
+        "text": "The length of the line segment $O A_1$ is $4 \\sqrt{3}$",
+        "image": null
+      },
+      {
+        "id": "MLpZV",
+        "text": "The length of the line segment $A_1 B_1$ is 16",
+        "image": null
+      },
+      {
+        "id": "IxEbj",
+        "text": "The orthocenter of the triangle $A_1 B_1 C_1$ is $(0,0)$",
+        "image": null
+      },
+      {
+        "id": "pj0co",
+        "text": "The orthocenter of the triangle $A_1 B_1 C_1$ is $(1,0)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "IxEbj",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/I1FQJ7qrkzFyJJeL4dHSQto1cyTamiFv5mjNjMJisTo.original.fullsize.png\">\nEquation of tangent at $\\left(2 t^2, 4 t\\right)$ is\n$\\mathrm{ty}=\\mathrm{x}+2 \\mathrm{t}^2$\n$\\because$ It is passing through $(-4,0)$\n$\\therefore 0=-4+2 \\mathrm{t}^2 \\Rightarrow \\mathrm{t}= \\pm \\sqrt{2}$\n$\\left.\\begin{array}{rl}\\therefore \\mathrm{A}_1=(4,4 \\sqrt{2}) \\\\ \\mathrm{B}_1=(4,-4 \\sqrt{2})\\end{array}\\right\\} \\begin{aligned} & \\mathrm{OA}_1=\\sqrt{48}=4 \\sqrt{3} \\\\ & \\mathrm{~A}_1 \\mathrm{~B}_1=8 \\sqrt{2}\\end{aligned}$\nEquation of altitude of $\\Delta A_1 B_1 C_1$ drawn from $A_1$ is\n$y-4 \\sqrt{2}=\\sqrt{2}(x-4)$\n$\\Rightarrow \\sqrt{2} x-y=0$  ...(1)\nEquation of altitude of $\\Delta A_1 B_1 C_1$ drawn from $C_1$ is\n$\\mathrm{x}=0$ ...(2)\nSolving (1) and (2) $\\Rightarrow$ orthocentre is $(0,0)$\n$\\therefore$ correct options are (1), (3)",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  },
+  {
+    "question_id": "64b16a5df23ac7d519f9b3c3",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "Columns 1, 2 and 3 contain conics, equations of tangents to the conics and points of contact, respectively.<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Column 1</td>\t\t\t<td>Column 2</td>\t\t\t<td>Column 3</td>\t\t</tr>\t\t<tr>\t\t\t<td>(I) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(i) <math><mi>m</mi><mi>y</mi><mo>=</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>x</mi><mo>+</mo><mi>a</mi></math></td>\t\t\t<td>(P) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mrow><mi>m</mi></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(II) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(ii) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>a</mi><mi>&#160;</mi><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(Q) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><mi>m</mi><mi>a</mi></mrow><mrow><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mi>a</mi></mrow><mrow><msqrt><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(III) <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>a</mi><mi>x</mi></math></td>\t\t\t<td>(iii) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>&#160;</mi><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(R) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>m</mi></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(IV) <math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t\t<td>(iv) <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></msqrt></math></td>\t\t\t<td>(S) <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mo>-</mo><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>m</mi></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac><mo>,</mo><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mrow><msqrt><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></msqrt></mrow></mfrac></mrow></mfenced></math></td>\t\t</tr>\t</tbody></table>If a tangent to a suitable conic (Column 1) is found to be <math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>8</mn></math> and its point of contact is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>8</mn><mo>,</mo><mn>16</mn><mo>)</mo></math>, then which of the following options is the only Correct combination?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "z4XuA",
+        "text": "(III) (i) (P)",
+        "image": null
+      },
+      {
+        "id": "EshvV",
+        "text": "(II) (iv) (R)",
+        "image": null
+      },
+      {
+        "id": "Fb5pq",
+        "text": "(III) (ii) (Q)",
+        "image": null
+      },
+      {
+        "id": "qJWsW",
+        "text": "(I) (ii) (Q)",
+        "image": null
+      }
+    ],
+    "correct_answer": "z4XuA",
+    "solution_text": "<p><math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>8</mn></math>&nbsp; is tangent&nbsp;&nbsp;&nbsp; <math><mo>&#8658;</mo><mi>&#160;&#160;</mi><mi>m</mi><mo>=</mo><mn>1</mn><mo>;</mo><mi>P</mi><mfenced separators=\"|\"><mrow><mn>8</mn><mo>,</mo> <mn>16</mn></mrow></mfenced></math></p><p>Comparing tangent with (i) of column-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>,&nbsp;<math><mi>m</mi><mo>=</mo><mn>1</mn></math>&nbsp;satisfied and&nbsp;<math><mi>a</mi><mo>=</mo><mn>8</mn></math>&nbsp;is obtained which matches for point of contact (P) of column 3 and (III) of column-&nbsp;I.</p>",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  },
+  {
+    "question_id": "64b16a4bf23ac7d519f9b318",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "Suppose that the foci of the ellipse <math><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>9</mn></mrow></mfrac><mo>+</mo><mi>&#160;</mi><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>5</mn></mrow></mfrac><mo>=</mo><mn>1</mn></math> are <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mo>(</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn><mo>)</mo></math> where <math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#62;</mo><mn>0</mn><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#60;</mo><mn>0</mn><mo>.</mo></math> Let <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> be two parabolas with a common vertex at (0, 0) and with foci at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><msub><mi>f</mi><mo>1</mo></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>2</mn><msub><mi>f</mi><mn>2</mn></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced><mo>,</mo></math>&nbsp;respectively. Let <math><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></math> be a tangent to <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub></math> which passes through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>2</mn><msub><mi>f</mi><mn>2</mn></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn></mrow></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub></math> be a tangent to <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> which passes through <math><mo>(</mo><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><mn>0</mn><mo>)</mo></math> . If <math><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub></math> is the slope of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mn>2</mn></msub></math>&nbsp; is the slope of <math><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo></math> then the value of <math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>+</mo><mi>&#160;</mi><msubsup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfenced></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image1-366fa186-f3e2-457f-a3a0-0a0845e7144e.jpg\"/> <br > <math><msub><mrow><mi>f</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><mo>≡</mo><mo>(</mo><mn>2</mn><mo>,</mo><mi> </mi><mn>0</mn><mo>)</mo></math> <br > <math><msub><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msub><mi> </mi><mo>≡</mo><mo>(</mo><mo>-</mo><mn>2</mn><mo>,</mo><mi> </mi><mn>0</mn><mo>)</mo></math> <br >Parabolas are<br > <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi> </mi><mn>8</mn><mi>x</mi></math> <br > <math><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi> </mi><mo>-</mo><mn>16</mn><mi>x</mi></math> <br > <math><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><mo>:</mo><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>m</mi></mrow></mfrac></math> <br > <math><mn>0</mn><mo>=</mo><mi> </mi><mo>-</mo><mn>4</mn><mi>m</mi><mo>+</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>m</mi></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> <br > <math><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mi> </mi><mo>:</mo><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>-</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mi>m</mi></mrow></mfrac></math> <br > <math><mn>2</mn><mi>m</mi><mo>-</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mi>m</mi></mrow></mfrac><mo>=</mo><mn>0</mn></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn></math> <br >Now,   <math><msubsup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><mi> </mi><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mn>2</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>4</mn></math>",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  },
+  {
+    "question_id": "64b16a3ef23ac7d519f9b2a7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $a, r, s, t$ be nonzero real numbers. Let $P\\left(a t^{2}, 2 a t\\right), Q, R\\left(a r^{2}, 2 a r\\right)$ and $S\\left(a s^{2}, 2 a s\\right)$ be distinct points on the parabola $y^{2}=4 a x$. Suppose that $P Q$ is the focal chord and lines $Q R$ and $P K$ are parallel, where $K$ is the point $(2 a, 0)$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIf $s t=1$, then the tangent at $P$ and the normal at $S$ to the parabola meet at a point whose ordinate is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "shSol",
+        "text": "<math><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "oVJmU",
+        "text": "<math><mfrac><mrow><mi>a</mi><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "MtMA2",
+        "text": "<math><mfrac><mrow><mi>a</mi><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "cUmwN",
+        "text": "<math><mfrac><mrow><mi>a</mi><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "oVJmU",
+    "solution_text": "Tangent at P: ty <math><mo>=</mo><mi>x</mi><mo>+</mo><mi>a</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&#160;</mi><mi>o</mi><mi>r</mi><mi>&#160;</mi><mi>y</mi><mo>=</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>t</mi></mrow></mfrac><mo>+</mo><mi>a</mi><mi>t</mi></math><br />Normal at S: <math><mi>y</mi><mo>+</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mrow><mi>t</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math><br />Solving, <math><mn>2</mn><mi>y</mi><mo>=</mo><mi>a</mi><mi>t</mi><mo>+</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mrow><mi>t</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math><br /><math><mi>y</mi><mo>=</mo><mfrac><mrow><mi>a</mi><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  },
+  {
+    "question_id": "64b16a3ef23ac7d519f9b2a6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $a, r, s, t$ be nonzero real numbers. Let $P\\left(a t^{2}, 2 a t\\right), Q, R\\left(a r^{2}, 2 a r\\right)$ and $S\\left(a s^{2}, 2 a s\\right)$ be distinct points on the parabola $y^{2}=4 a x$. Suppose that $P Q$ is the focal chord and lines $Q R$ and $P K$ are parallel, where $K$ is the point $(2 a, 0)$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe value of $r$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HElLo",
+        "text": "<math><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac><mi>&#160;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "KUR5O",
+        "text": "<math><mfrac><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "gj5SH",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "FnhIF",
+        "text": "<math><mfrac><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "FnhIF",
+    "solution_text": "Slope (QR) = slope (PK)<br /><math><mfrac><mrow><mn>2</mn><mi>a</mi><mi>t</mi><mo>-</mo><mn>0</mn></mrow><mrow><mi>a</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn><mi>a</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>-</mo><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mrow><mi>t</mi></mrow></mfrac><mo>-</mo><mn>2</mn><mi>a</mi><mi>r</mi></mrow><mrow><mfrac><mrow><mi>a</mi></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mi>a</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mi>&#160;</mi></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mfrac><mrow><mi>t</mi></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac><mo>+</mo><mi>r</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mi>&#160;</mi><mi>&#160;</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mi>r</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow><mrow><mi>t</mi></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  },
+  {
+    "question_id": "64b169f9f23ac7d519f9b029",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The tangent $P T$ and the normal $P N$ to the parabola $y^2=4 a x$ at a point $P$ on",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VMxWa",
+        "text": "\nvertex is $\\left(\\frac{2 a}{3}, 0\\right)$ it meet its axis at points $T$ and $N$,\n",
+        "image": null
+      },
+      {
+        "id": "qGuYj",
+        "text": "\ndirectrix is $x=0$ respectively. The locus of the centroid of $\\triangle P T N$ is a parabola whose\n",
+        "image": null
+      },
+      {
+        "id": "3wCgP",
+        "text": "\nlatusrectum is $\\frac{2 a}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "rQMgI",
+        "text": "\nfocus is $(a, 0)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "rQMgI",
+    "solution_text": "Equation of tangent and normal at point $P\\left(a t^2, 2 a t\\right)$ is $t y=x=a t^2$ and $y=-t x+2 a t+a t^2$ Let centroid of $\\triangle P T N$ is $R(h, k)$. $\\therefore \\quad h=\\frac{a t^2+\\left(-a t^2\\right)+2 a+a t^2}{3}$ and $k=\\frac{2 a t}{3}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4a3vezqrNAkiZDaoRNkBLB4ffR1OoWaQNx3mDCAWlks.original.fullsize.png\"><br>\n\n$$\n\\begin{array}{rlrl} \n& \\Rightarrow & 3 h & =2 a+a \\cdot\\left(\\frac{3 k}{2 a}\\right)^2 \\\\\n\\Rightarrow & & 3 h & =2 a+\\frac{9 k^2}{4 a} \\\\\n\\Rightarrow & 9 k^2 & =4 a(3 h-2 a)\n\\end{array}\n$$\n$\\therefore$ Locus of centroid is\n$$\ny^2=\\frac{4 a}{3}\\left(x-\\frac{2 a}{3}\\right)\n$$\n$\\therefore \\operatorname{Vertex}\\left(\\frac{2 a}{3}, 0\\right)$; directrix\n$$\nx-\\frac{2 a}{3}=-\\frac{a}{3} \\Rightarrow x=\\frac{a}{3}\n$$\nLatusrectum $=\\frac{4 a}{3}$\n$\\therefore$ Focus $\\left(\\frac{a}{3}+\\frac{2 a}{3}, 0\\right)$ i.e. $(a, 0)$",
+    "solution_image": null,
+    "topic": "Tangent to Parabola"
+  }
+]

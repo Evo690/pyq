@@ -1,0 +1,793 @@
+[
+  {
+    "question_id": "64b16aa8f23ac7d519f9b66d",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> moles) reacts completely with acidified aqueous potassium permanganate solution. In this reaction, the number of moles of water produced is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">x</mi></math>, and the number of moles of electrons involved is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">y</mi></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>)</mo></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "18",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub><mover><mo>&#10230;</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mover><msup><mi>Mn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#10230;</mo><mover><mrow><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></mrow><mn>0</mn></mover></math></p><p>The number of electrons involved per molecule is called n-factor.</p><p>n-factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub><mo>=</mo><mn>5</mn></math></p><p>n-factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">S</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></mrow></mfenced><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Moles</mi><mo>&#215;</mo><mi mathvariant=\"normal\">n</mi><mo>-</mo><mi>factor</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mi>number</mi><mo>&#160;</mo><mi>of</mi><mo>&#160;</mo><mi>equivalents</mi></math>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi mathvariant=\"normal\">n</mi><msub><mi>KMnO</mi><mn>4</mn></msub></msub><mo>&#215;</mo><mn>5</mn></mrow></mfenced><mo>=</mo><mo>(</mo><mn>5</mn><mo>&#215;</mo><mn>2</mn><msub><mo>)</mo><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></mrow></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><msub><mi mathvariant=\"normal\">n</mi><msub><mi>KMnO</mi><mn>4</mn></msub></msub><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mn>2</mn><msub><mi>KMnO</mi><mn>4</mn></msub><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><mn>5</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><mn>2</mn><msub><mi>MnSO</mi><mn>4</mn></msub><mo>+</mo><mn>5</mn><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>+</mo><mn>8</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p><p>Number of moles of water produced <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mn>8</mn><mo>&#160;</mo></math></p><p>Number of moles of electrons involved <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>10</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>8</mn><mo>,</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>10</mn><mo>&#8658;</mo><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>)</mo><mo>=</mo><mn>18</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Equivalence concept"
+  },
+  {
+    "question_id": "685102c06bba689a3eb09c91",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "One of the products formed from the reaction of permanganate ion with iodide ion in neutral aqueous medium is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TT5z4",
+        "text": "$\\mathrm{I}_2$",
+        "image": null
+      },
+      {
+        "id": "07yCg",
+        "text": "$\\mathrm{IO}_3^{-}$",
+        "image": null
+      },
+      {
+        "id": "kp4yo",
+        "text": "$\\mathrm{IO}_4^{-}$",
+        "image": null
+      },
+      {
+        "id": "lwcI8",
+        "text": "$\\mathrm{IO}_2^{-}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "07yCg",
+    "solution_text": "$\\mathrm{I}^{-}+2 \\mathrm{MnO}_4^{-}+\\mathrm{H}_2 \\mathrm{O} \\xrightarrow{\\text { Neutral solution }} 2 \\mathrm{MnO}_2+\\mathrm{IO}_3^{-}+2 \\mathrm{OH}^{-}$",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b527",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Choose the correct statement(s) among the following.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Gbu3o",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SnCl</mi><mn>2</mn></msub><mo>&#183;</mo><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>&nbsp;is a reducing agent.",
+        "image": null
+      },
+      {
+        "id": "fq4wi",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SnO</mi><mn>2</mn></msub></math> reacts with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>KOH</mi></math> to form <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><mfenced open=\"[\" close=\"]\"><mrow><mi>Sn</mi><mo>(</mo><mi>OH</mi><msub><mo>)</mo><mn>6</mn></msub></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "mzIfl",
+        "text": "A solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCl</mi><mn>2</mn></msub></math> in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math> contains <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Pb</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Cl</mi><mo>-</mo></msup></math>&nbsp;ions.",
+        "image": null
+      },
+      {
+        "id": "eFCuu",
+        "text": "The reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Pb</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>4</mn></msub></math> with hot dilute nitric acid to give <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbO</mi><mn>2</mn></msub></math> is a redox reaction.",
+        "image": null
+      }
+    ],
+    "correct_answer": "fq4wi",
+    "solution_text": "<p>(A)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Sn</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;is a good reducing agent which gets oxidise into&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Sn</mi><mrow><mn>4</mn><mo>+</mo></mrow></msup></math></p><p>(B)&nbsp;Amphoteric nature.</p><p>(C)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>PbCl</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msup><mi>Cl</mi><mo>-</mo></msup><mo>&#10230;</mo><msup><mfenced open=\"[\" close=\"]\"><msub><mi>PbCl</mi><mn>4</mn></msub></mfenced><mrow><mn>2</mn><mo>-</mo></mrow></msup></math></p><p>(D)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><msub><mi>Pb</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>4</mn></msub></mrow><mrow><mo>(</mo><mn>2</mn><mi>PbO</mi><mtext>&#8196;</mtext><mo>+</mo><mtext>&#8196;</mtext><msub><mi>PbO</mi><mn>2</mn></msub><mo>)</mo></mrow></munder><mo>+</mo><munder><mrow><mn>4</mn><msub><mi>HNO</mi><mn>3</mn></msub></mrow><mrow><mo>(</mo><mi>Conc</mi><mo>.</mo><mo>)</mo></mrow></munder><mo>&#8594;</mo><msub><mi>PbO</mi><mn>2</mn></msub><mo>&#8595;</mo><mo>+</mo><mn>2</mn><mi>Pb</mi><msub><mfenced><msub><mi>NO</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub><mo>+</mo><mn>6</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b16a43f23ac7d519f9b2d1",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<math><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>3</mn><mo>+</mo></mrow></msup></math> is reduced to <math><mi mathvariant=\"normal\">F</mi><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> by using",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PyBiL",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  in presence of  <math><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></math>",
+        "image": null
+      },
+      {
+        "id": "NYArA",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  in water",
+        "image": null
+      },
+      {
+        "id": "PCFnX",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  in presence of  <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "lgNwe",
+        "text": "<math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  in presence of  <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "NYArA",
+    "solution_text": "In basic medium \\(\\mathrm{H}_2 \\mathrm{O}_2\\) acts as reducing agent.\r\n\\(\\mathrm{Na}_2 \\mathrm{O}_2+2 \\mathrm{H}_2 \\mathrm{O} \\rightarrow 2 \\mathrm{NaOH}+\\mathrm{H}_2 \\mathrm{O}_2\\)\r\n\\(2 \\mathrm{Fe}^{3+}+\\mathrm{H}_2 \\mathrm{O}_2+2 \\mathrm{OH}-\\rightarrow 2 \\mathrm{Fe}^{2+}+2 \\mathrm{H}_2 \\mathrm{O}+\\mathrm{O}_2\\)",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b16a35f23ac7d519f9b256",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Consider the following list of reagents: Acidified <math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>7</mn></mrow></msub></math> , alkaline <math><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> . The total number of reagents that can oxidise aqueous iodide to iodine is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>7</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> <br >         <math><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>7</mn></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>→</mo><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math> <br >         <math><mn>2</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><mn>4</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>→</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> <br >         <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></math> <br >         <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>→</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >         <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>→</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >         <math><mn>2</mn><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>→</mo><mn>2</mn><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi></math> <br >         <math><mn>8</mn><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>→</mo><mn>6</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">O</mi><mo>+</mo><mn>4</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >         <math><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>+</mo><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>→</mo><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">I</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">n</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></math>",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b16a34f23ac7d519f9b24e",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "For the reaction:<br /><math><msup><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mo>-</mo></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">&#160;</mi></math><br />The correct statement(s) in the balanced equation is/are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2AWfs",
+        "text": "Stoichiometric coefficient of  <math><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup></math>  is 6.",
+        "image": null
+      },
+      {
+        "id": "E1xUi",
+        "text": "Iodide is oxidized.",
+        "image": null
+      },
+      {
+        "id": "BsMzi",
+        "text": "Sulphur is reduced.",
+        "image": null
+      },
+      {
+        "id": "BfErT",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math>  is one of the products.",
+        "image": null
+      }
+    ],
+    "correct_answer": "BfErT",
+    "solution_text": "<p>The balanced equation is,<br /><math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">l</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>+</mo><mn>6</mn><msup><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mo>-</mo></mrow></msup><mo>+</mo><mn>6</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&#8594;</mo><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi mathvariant=\"normal\">C</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo></mrow></msup><mo>+</mo><mn>6</mn><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">S</mi><msubsup><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>-</mo></mrow></msubsup><mo>+</mo><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math></p><p>Here, in this reaction,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>HSO</mi><mn>4</mn><mo>-</mo></msubsup></math>&nbsp;is in one of the products, and by balancing the reaction, we get its stiochiometric coefficient as 6.</p><p>Oxidation number of iodine in reactant side is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn></math>&nbsp;and it is oxidised to&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub><mo>&#160;</mo><mi>with</mi><mo>&#160;</mo><mn>0</mn></math>&nbsp;oxidation number in product side.</p>",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a3",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Bleaching powder and bleach solution are produced on a large scale and used in several household products. The effectiveness of bleach solution is often measured by iodometry.\r\n\r\n<strong> Question:</strong> $25 \\mathrm{~mL}$ of household solution was mixed with $30 \\mathrm{~mL}$ of $0.50$ M KI and $10 \\mathrm{~mL}$ of $4 \\mathrm{~N}$ acetic acid. In the titration of the liberated iodine, $48 \\mathrm{~mL}$ of $0.25 \\mathrm{~N~} \\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}$ was used to reach the end point. The molarity of the household bleach solution is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YOBQm",
+        "text": "$0.48 \\mathrm{M}$",
+        "image": null
+      },
+      {
+        "id": "iNi2h",
+        "text": "$0.96 \\mathrm{M}$",
+        "image": null
+      },
+      {
+        "id": "VeT8p",
+        "text": "$0.24 \\mathrm{M}$",
+        "image": null
+      },
+      {
+        "id": "KC7yL",
+        "text": "$0.024 \\mathrm{M}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "VeT8p",
+    "solution_text": "Bleach $+2 \\mathrm{KI} \\longrightarrow \\mathrm{I}_{2}+$ Products\r\n\r\n$\\mathrm{I}_{2}+2 \\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3} \\longrightarrow \\mathrm{Na}_{2} \\mathrm{~S}_{4} \\mathrm{O}_{6}+2 \\mathrm{NaI}$\r\n\r\nNumber of millimole of hypo $=0.25 \\times 48$\r\n\r\n$=2 \\times$ millimole of $\\mathrm{I}_{2}$\r\n\r\n$\\therefore$ Number of millimole of $\\mathrm{I}_{2}=\\frac{0.25 \\times 48}{2}=6$\r\n\r\nmillimole of $\\mathrm{I}_{2}=$ millimole of bleach\r\n\r\nMolarity of bleaching solution\r\n\r\n$=\\frac{\\text { Millimoles of bleach }}{\\text { Vol.(in } \\mathrm{mL} \\text { ) of bleach }}=\\frac{6}{25}=0.24$",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Bleaching powder and bleach solution are produced on a large scale and used in several household products. The effectiveness of bleach solution is often measured by iodometry.\r\n\r\n<strong> Question:</strong> Bleaching powder contains a salt of an oxoacid as one of its components. The anhydride of that oxoacid is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JvHD5",
+        "text": "$\\mathrm{Cl}_{2} \\mathrm{O}$",
+        "image": null
+      },
+      {
+        "id": "SY3xe",
+        "text": "$\\mathrm{Cl}_{2} \\mathrm{O}_{7}$",
+        "image": null
+      },
+      {
+        "id": "jxwY2",
+        "text": "$\\mathrm{ClO}_{2}$",
+        "image": null
+      },
+      {
+        "id": "aSI32",
+        "text": "$\\mathrm{Cl}_{2} \\mathrm{O}_{6}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "JvHD5",
+    "solution_text": "$\\mathrm{Ca}(\\mathrm{OCl}) \\mathrm{Cl} \\longrightarrow \\mathrm{Ca}^{2+}+-\\mathrm{OCl}+\\mathrm{Cl}^{-}$\r\n\r\n-OCl (Hypochlorite ion) is anion of the acid HOCl which on dehydration gives $\\mathrm{Cl}_{2} \\mathrm{O}$.\r\n\r\n$2 \\mathrm{HOCl} \\longrightarrow \\mathrm{H}_{2} \\mathrm{O}+\\mathrm{Cl}_{2} \\mathrm{O}$",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b169dcf23ac7d519f9af23",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Match the complexes in Column I with their properties listed in Column II. Indicate your answer by darkening the appropriate bubbles of the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/u3ZyoDHANLps94g_Bgxxf_Fo4PLbZbkKoAmBhvW_0C8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2WZ0E",
+        "text": "\nA-p; B-q; C-p; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "DUuAn",
+        "text": "\nA-p, s; B-q, r; C-p, r; D-r, s\n",
+        "image": null
+      },
+      {
+        "id": "0bGQc",
+        "text": "\nA-s; B-p; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "TbcuP",
+        "text": "\nA-p, s; B-r; C-p, q; D-p, s",
+        "image": null
+      }
+    ],
+    "correct_answer": "TbcuP",
+    "solution_text": "A-p,s B-r, C-p,q, D-p,s,\n$$\n\\begin{aligned}\n2 \\mathrm{CrO}_4^{2-} \\longrightarrow \\mathrm{Cr}_2 \\mathrm{O}_7^{2-} \\\\\n\\mathrm{MnO}_4^{-}+\\mathrm{NO}_2^{-}+\\mathrm{H}^{+} \\longrightarrow \\mathrm{Mn}^{2+}+\\mathrm{NO}_3^{-}+\\mathrm{H}_2 \\mathrm{O} \\\\\n\\mathrm{NO}_3^{-}+\\mathrm{H}_2 \\mathrm{SO}_4+\\mathrm{Fe}^{2+} \\longrightarrow \\mathrm{Fe}^{3+}+\\mathrm{NO}+\\mathrm{SO}_4^{2-}+\\mathrm{H}_2 \\mathrm{O}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b169dcf23ac7d519f9af1f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRedox reaction play a pivotal role in chemistry and biology. The values of standard redox potential $\\left(E^{\\circ}\\right)$ of two half-cell reactions decide which way the reaction is expected to proceed. A simple example is a Daniel cell in which zinc goes into solution and copper gets deposited. Given below are a set of half-cell reactions (acidic medium) along with their $E^{\\circ}(V$ with respect to normal hydrogen electrode) values. Using this data obtain the correct explanations to Questions 14-19.\n$$\n\\begin{array}{cl}\n\\mathrm{I}_2+2 e^{-} \\longrightarrow 2 \\mathrm{I}^{-} & E^{\\circ}=0.54 \\\\\n\\mathrm{Cl}_2+2 e^{-} \\longrightarrow 2 \\mathrm{Cl}^{-} & E^{\\circ}=1.36 \\\\\n\\mathrm{Mn}^{3+}+e^{-} \\longrightarrow \\mathrm{Mn}^{2+} & E^{\\circ}=1.50 \\\\\n\\mathrm{Fe}^{3+}+e^{-} \\longrightarrow \\mathrm{Fe}^{2+} & E^{\\circ}=0.77 \\\\\n\\mathrm{O}_2+4 \\mathrm{H}^{+}+4 e^{-} \\longrightarrow 2 \\mathrm{H}_2 \\mathrm{O} & E^{\\circ}=1.23\n\\end{array}\n$$<strong>Question:</strong>\nSodium fusion extract, obtained from aniline, on treatment with iron (II) sulphate and $\\mathrm{H}_2 \\mathrm{SO}_4$ in presence of air gives a prussian blue precipitate. The blue colour is due to the formation of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BM7W6",
+        "text": "\n$\\mathrm{Fe}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_3$\n",
+        "image": null
+      },
+      {
+        "id": "hE3QT",
+        "text": "\n$\\mathrm{Fe}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_2$\n",
+        "image": null
+      },
+      {
+        "id": "A41LX",
+        "text": "\n$\\mathrm{Fe}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_2$\n",
+        "image": null
+      },
+      {
+        "id": "b2mud",
+        "text": "\n$$\n\\mathrm{Fe}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_3\n$$",
+        "image": null
+      }
+    ],
+    "correct_answer": "BM7W6",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iMwLX8MdIS0emG5pSZDSPnOA9F7gf0vj-JxCA5ieavY.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af1e",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRedox reaction play a pivotal role in chemistry and biology. The values of standard redox potential $\\left(E^{\\circ}\\right)$ of two half-cell reactions decide which way the reaction is expected to proceed. A simple example is a Daniel cell in which zinc goes into solution and copper gets deposited. Given below are a set of half-cell reactions (acidic medium) along with their $E^{\\circ}(V$ with respect to normal hydrogen electrode) values. Using this data obtain the correct explanations to Questions 14-19.\n$$\n\\begin{array}{cl}\n\\mathrm{I}_2+2 e^{-} \\longrightarrow 2 \\mathrm{I}^{-} & E^{\\circ}=0.54 \\\\\n\\mathrm{Cl}_2+2 e^{-} \\longrightarrow 2 \\mathrm{Cl}^{-} & E^{\\circ}=1.36 \\\\\n\\mathrm{Mn}^{3+}+e^{-} \\longrightarrow \\mathrm{Mn}^{2+} & E^{\\circ}=1.50 \\\\\n\\mathrm{Fe}^{3+}+e^{-} \\longrightarrow \\mathrm{Fe}^{2+} & E^{\\circ}=0.77 \\\\\n\\mathrm{O}_2+4 \\mathrm{H}^{+}+4 e^{-} \\longrightarrow 2 \\mathrm{H}_2 \\mathrm{O} & E^{\\circ}=1.23\n\\end{array}\n$$<strong>Question:</strong>\nWhile $\\mathrm{Fe}^{3+}$ is stable, $\\mathrm{Mn}^{3+}$ is not stable in acid solution because",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4vb2l",
+        "text": "\n$\\mathrm{O}_2$ oxidises $\\mathrm{Mn}^{2+}$ to $\\mathrm{Mn}^{3+}$\n",
+        "image": null
+      },
+      {
+        "id": "IHtAa",
+        "text": "\n$\\mathrm{O}_2$ oxidises both $\\mathrm{Mn}^{2+}$ and $\\mathrm{Fe}^{2+}$ to $\\mathrm{Fe}^{3+}$\n",
+        "image": null
+      },
+      {
+        "id": "RqDtA",
+        "text": "\n$\\mathrm{Fe}^{3+}$ oxidises $\\mathrm{H}_2 \\mathrm{O}$ to $\\mathrm{O}_2$\n",
+        "image": null
+      },
+      {
+        "id": "VDFrE",
+        "text": "\n$\\mathrm{Mn}^{3+}$ oxidises $\\mathrm{H}_2 \\mathrm{O}$ to $\\mathrm{O}_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "VDFrE",
+    "solution_text": "$$\n\\begin{aligned}\n& {\\left[\\mathrm{Mn}^{3+}+e^{-}\\right.}\\left.\\longrightarrow \\mathrm{Mn}^{2+}\\right] \\times 4 \\\\\n& 2 \\mathrm{H}_2 \\mathrm{O} \\longrightarrow 4 \\mathrm{H}^{+}+\\mathrm{O}_2+4 e^{-} \\\\\n& 4 \\mathrm{Mn}^{2+}+2 \\mathrm{H}_2 \\mathrm{O} \\longrightarrow 4 \\mathrm{Mn}^{2+}+4 \\mathrm{H}^{+}+\\mathrm{O}_2 \\\\\n& E_{\\text {cell }}^{\\circ}= 1.50-1.23=0.27 \\mathrm{~V} \\\\\n& E_{\\text {cell }}^{\\circ} \\text { is + ve }\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af1d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nRedox reaction play a pivotal role in chemistry and biology. The values of standard redox potential $\\left(E^{\\circ}\\right)$ of two half-cell reactions decide which way the reaction is expected to proceed. A simple example is a Daniel cell in which zinc goes into solution and copper gets deposited. Given below are a set of half-cell reactions (acidic medium) along with their $E^{\\circ}(V$ with respect to normal hydrogen electrode) values. Using this data obtain the correct explanations to Questions 14-19.\n$$\n\\begin{array}{cl}\n\\mathrm{I}_2+2 e^{-} \\longrightarrow 2 \\mathrm{I}^{-} & E^{\\circ}=0.54 \\\\\n\\mathrm{Cl}_2+2 e^{-} \\longrightarrow 2 \\mathrm{Cl}^{-} & E^{\\circ}=1.36 \\\\\n\\mathrm{Mn}^{3+}+e^{-} \\longrightarrow \\mathrm{Mn}^{2+} & E^{\\circ}=1.50 \\\\\n\\mathrm{Fe}^{3+}+e^{-} \\longrightarrow \\mathrm{Fe}^{2+} & E^{\\circ}=0.77 \\\\\n\\mathrm{O}_2+4 \\mathrm{H}^{+}+4 e^{-} \\longrightarrow 2 \\mathrm{H}_2 \\mathrm{O} & E^{\\circ}=1.23\n\\end{array}\n$$<strong>Question:</strong>\nAmong the following, identify the correct statement",
+    "question_image": null,
+    "options": [
+      {
+        "id": "twFB2",
+        "text": "\nChloride ion is oxidised by $\\mathrm{O}_2$\n",
+        "image": null
+      },
+      {
+        "id": "QVfH8",
+        "text": "\n$\\mathrm{Fe}^{2+}$ is oxidised by iodine\n",
+        "image": null
+      },
+      {
+        "id": "U4F0a",
+        "text": "\nIodide ion is oxidised by chlorine\n",
+        "image": null
+      },
+      {
+        "id": "jLZed",
+        "text": "\n$\\mathrm{Mn}^{2+}$ is oxidised by chlorine",
+        "image": null
+      }
+    ],
+    "correct_answer": "U4F0a",
+    "solution_text": "$2 \\mathrm{I}^{-}+\\mathrm{Cl}_2 \\longrightarrow \\mathrm{I}_2+2 \\mathrm{Cl}^{-}$\n$$\nE_{\\text {cell }}^{\\circ}=1.36-0.54=0.82 \\mathrm{~V}\n$$\n$E_{\\text {cell }}^{\\circ}$ is $+v e$ cell reactions is feasible.",
+    "solution_image": null,
+    "topic": "Oxidation and Reduction Reactions"
+  },
+  {
+    "question_id": "66965dded603121f43a4260c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "In a metal deficient oxide sample, $\\mathbf{M}_{\\mathbf{x}} \\mathbf{Y}_2 \\mathbf{O}_4$ ( $\\mathbf{M}$ and $\\mathbf{Y}$ are metals), $\\mathbf{M}$ is present in both +2 and +3 oxidation states and $\\mathbf{Y}$ is in +3 oxidation state. If the fraction of $\\mathbf{M}^{2+}$ ions present in $\\mathbf{M}$ is $\\frac{1}{3}$, the value of $\\mathbf{X}$ is ________.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nyV7C",
+        "text": "0.25",
+        "image": null
+      },
+      {
+        "id": "irNSM",
+        "text": "0.33",
+        "image": null
+      },
+      {
+        "id": "MqUzc",
+        "text": "0.67",
+        "image": null
+      },
+      {
+        "id": "IWRWf",
+        "text": "0.75",
+        "image": null
+      }
+    ],
+    "correct_answer": "IWRWf",
+    "solution_text": "Average oxidation state of $\\mathrm{M}=\\frac{1}{3} \\times 2+\\frac{2}{3} \\times 3=+\\frac{8}{3}$\n$\\begin{aligned} & \\therefore \\text { For } \\mathrm{M}_{\\mathrm{X}} \\mathrm{M}_{2} \\mathrm{Y}_4 \\\\ & \\frac{8}{3} \\times \\mathrm{x}+3 \\times 2+4(-2)=0 \\\\ & \\frac{8}{3} \\times \\mathrm{x}=2 \\\\ & \\mathrm{x}=\\frac{3}{4}=0.75\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Oxidation number"
+  },
+  {
+    "question_id": "64b16aa9f23ac7d519f9b66f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "Consider the following molecules : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Br</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>8</mn></msub><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">F</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>,</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><msub><mi mathvariant=\"normal\">S</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>6</mn></msub><mo>,</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&#160;</mo><msub><mi mathvariant=\"normal\">S</mi><mn>5</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>6</mn></msub></math>, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math>.&nbsp;Count the number of atoms existing in their zero oxidation state in each molecule. Their sum is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<blockquote><p>The oxidation number of an atom is zero in a neutral substance that contains atoms of only one element. When same atoms are connected, there is no electronegativity difference, hence, no exchange of electrons. Hence, they have zero oxidation states. The structures of the given molecules are shown below with their oxidation states.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d630824a-395f-48f1-be82-68e85063d3d2.png\" style=\"width: 230px; height: 168px;\" /></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c160d447-0407-47e0-b643-4c8612a53ef8.png\" style=\"width: 250px; height: 117px;\" /></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f92b3592-6ae9-42c8-b734-c8dc8772cd9d.png\" style=\"width: 300px; height: 153px;\" /></p><p>Total atom with zero oxidation number state are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math> .</p></blockquote>",
+    "solution_image": null,
+    "topic": "Oxidation number"
+  },
+  {
+    "question_id": "64b16a60f23ac7d519f9b3dc",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "The order of the oxidation state of the phosphorus atom in <math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi>&#160;</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and <math><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mgW5K",
+        "text": "<math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "atIwe",
+        "text": "<math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "OtYiJ",
+        "text": "<math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "gVdj5",
+        "text": "<math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>&gt;</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mgW5K",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/21_solu_chem_pa_2.jpg\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/21_solu_chem_pa_2_1.jpg\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ugisihfs.jpg\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/21_solu_chem_pa_2_3.jpg\"/></p><p>Hence answer is <math><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>></mo><msub><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>6</mn></mrow></msub><mo>></mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>></mo><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math></p>",
+    "solution_image": null,
+    "topic": "Oxidation number"
+  },
+  {
+    "question_id": "64b16a06f23ac7d519f9b0a6",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the number of elements showing only one non-zero oxidation state is O, Cl, F, N, P, Sn, Tl, $\\mathrm{Na}, \\mathrm{Ti}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "F is the most electronegative element which cannot loose electron to other so only $-1$ Na is alkali metal which can loose only one electron so $+1$ Basics of general chemistry Basic understanding I",
+    "solution_image": null,
+    "topic": "Oxidation number"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b068",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The value of $n$ in the molecular formula $\\mathrm{Be}_n \\mathrm{Al}_2 \\mathrm{Si}_6 \\mathrm{O}_{18}$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "For $\\mathrm{Be}_n \\mathrm{Al}_2 \\mathrm{Si}_6 \\mathrm{O}_{18} \\quad n=3$\n$$\n2 n+6+24-36=0 \\quad n=3\n$$\nChemical bonding\nBasic application\nII",
+    "solution_image": null,
+    "topic": "Oxidation number"
+  },
+  {
+    "question_id": "64b16a91f23ac7d519f9b599",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "A sample $(5.6 \\mathrm{~g})$ containing iron is completely dissolved in cold dilute $\\mathrm{HCl}$ to prepare a $250 \\mathrm{~mL}$ of solution. Titration of $25.0 \\mathrm{~mL}$ of this solution requires $12.5 \\mathrm{~mL}$ of $0.03 \\mathrm{M} \\mathrm{KMnO}_{4}$ solution to reach the end point. Number of moles of $\\mathrm{Fe}^{2+}$ present in $250 \\mathrm{~mL}$ solution is $\\mathbf{x} \\times 10^{-2}$ (consider complete dissolution of $\\mathrm{FeCl}_{2}$ ). The amount of iron present in the sample is $\\mathbf{y} \\%$ by weight.<br>(Assume: $\\mathrm{KMnO}_{4}$ reacts only with $\\mathrm{Fe}^{2+}$ in the solution Use: Molar mass of iron as $56 \\mathrm{~g} \\mathrm{~mol}^{-1}$ )<br>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">y</mi></math> is________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "18.75",
+    "solution_text": "<p>Moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p>Moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mole</mi></math></p><p>At equivalence point</p><p>eq. of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;= eq. of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><mi>Moles</mi></mfenced><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></msub><mo>&#215;</mo><msub><mfenced><mi>vf</mi></mfenced><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></msub><mo>=</mo><msub><mfenced><mi>Moles</mi></mfenced><msub><mi>KMnO</mi><mn>4</mn></msub></msub><mo>&#215;</mo><msub><mfenced><mi>vf</mi></mfenced><msub><mi>KMnO</mi><mn>4</mn></msub></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.03</mo><mo>&#215;</mo><mn>12</mn><mo>.5</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>1</mn><mo>.</mo><mn>875</mn><mo>&#160;</mo><mi>mole</mi></math></p><p>Moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>875</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p>Mass of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>875</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>56</mn><mo>&#160;</mo><mi>gm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>gm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>%</mo></math>&nbsp;of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Fe</mi><mfenced><mi mathvariant=\"normal\">y</mi></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.05</mo></mrow><mrow><mn>5</mn><mo>.6</mo></mrow></mfrac><mo>&#215;</mo><mn>100</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>18</mn><mo>.</mo><mn>75</mn><mo>%</mo></math></p>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a91f23ac7d519f9b598",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "A sample $(5.6 \\mathrm{~g})$ containing iron is completely dissolved in cold dilute $\\mathrm{HCl}$ to prepare a $250 \\mathrm{~mL}$ of solution. Titration of $25.0 \\mathrm{~mL}$ of this solution requires $12.5 \\mathrm{~mL}$ of $0.03 \\mathrm{M} \\mathrm{KMnO}_{4}$ solution to reach the end point. Number of moles of $\\mathrm{Fe}^{2+}$ present in $250 \\mathrm{~mL}$ solution is $\\mathbf{x} \\times 10^{-2}$ (consider complete dissolution of $\\mathrm{FeCl}_{2}$ ). The amount of iron present in the sample is $\\mathbf{y} \\%$ by weight.<br>(Assume: $\\mathrm{KMnO}_{4}$ reacts only with $\\mathrm{Fe}^{2+}$ in the solution Use: Molar mass of iron as $56 \\mathrm{~g} \\mathrm{~mol}^{-1}$ )<br>The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math> is________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.875",
+    "solution_text": "<p>Moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p>Moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#160;</mo><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>mole</mi></math></p><p>At equivalence point</p><p>eq. of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;= eq. of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><mi>Moles</mi></mfenced><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></msub><mo>&#215;</mo><msub><mfenced><mi>vf</mi></mfenced><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></msub><mo>=</mo><msub><mfenced><mi>Moles</mi></mfenced><msub><mi>KMnO</mi><mn>4</mn></msub></msub><mo>&#215;</mo><msub><mfenced><mi>vf</mi></mfenced><msub><mi>KMnO</mi><mn>4</mn></msub></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.03</mo><mo>&#215;</mo><mn>12</mn><mo>.5</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>1</mn><mo>.</mo><mn>875</mn><mo>&#160;</mo><mi>mole</mi></math></p><p>Moles of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>875</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p>Mass of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>&nbsp;present in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>250</mn><mo>&#160;</mo><mi>ml</mi></math>&nbsp;solution</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>875</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>56</mn><mo>&#160;</mo><mi>gm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><mi>gm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>%</mo></math>&nbsp;of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Fe</mi><mfenced><mi mathvariant=\"normal\">y</mi></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.05</mo></mrow><mrow><mn>5</mn><mo>.6</mo></mrow></mfrac><mo>&#215;</mo><mn>100</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>18</mn><mo>.</mo><mn>75</mn><mo>%</mo></math></p>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b521",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "An acidified solution of potassium chromate was layered with an equal volume of amyl alcohol. When it was shaken after the addition of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mL</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>%</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mo>,</mo></math> a blue alcohol layer was obtained. The blue color is due to the formation of a chromium (VI) compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi mathvariant=\"normal\">X</mi><mo>&#39;</mo></math>. What is the number of oxygen atoms bonded to chromium through only single bonds in a molecule of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math>?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><msub><mi>CrO</mi><mn>4</mn></msub><mover><mo>→</mo><mrow><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>/</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></mrow></mover><munder><msub><mi>CrO</mi><mn>5</mn></msub><mrow><mo>(</mo><mi>Deep</mi><mtext> </mtext><mi>Blue</mi><mtext> </mtext><mi>solution</mi><mo>)</mo></mrow></munder></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8736a1ea-2395-486d-9bc9-3de7c455ab54-image.png\"/></p><p>No. of oxygen atom bonded with chromium with single bond is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>4</mn><mo>)</mo></math>.</p><p> </p>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b520",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "In the chemical reaction between stoichiometric quantities of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>KI</mi></math> in weakly basic solution, what is the number of moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mn>2</mn></msub></math> released for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub></math> consumed?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mn>2</mn><msub><mtext>MnO</mtext><mn>4</mn></msub></mrow><mrow><mn>4</mn><mtext>&#8196;</mtext><mi>mole</mi></mrow></munder><mo>+</mo><mn>6</mn><msup><mtext>I</mtext><mo>&#8722;</mo></msup><mo>&#8594;</mo><munder><mrow><mn>3</mn><msub><mtext>I</mtext><mn>2</mn></msub></mrow><mtext>6&#8196;mole&#160;</mtext></munder><mo>+</mo><mn>2</mn><msub><mtext>MnO</mtext><mn>2</mn></msub></math>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a7ff23ac7d519f9b4f4",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>mL</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">M</mi></math> oxalic acid solution taken in a conical flask is titrated against <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> from a burette using phenolphthalein indicator. The volume of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math>&nbsp;required for the appearance of permanent faint pink color is tabulated below for five experiments. What is the concentration, in molarity, of the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> solution?</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\">Exp. No.</td>\t\t\t<td style=\"text-align: center;\">Vol. of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>mL</mi></mfenced></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mo>.</mo><mn>5</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>.</mo><mn>5</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></td>\t\t\t<td style=\"text-align: center;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>.</mo><mn>0</mn></math></td>\t\t</tr>\t</tbody></table><p style=\"text-align: center;\">&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.11",
+    "solution_text": "<p>True data for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> used volume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>9</mn><mi>ml</mi></math><br />Milli equivalent of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>4</mn></msub><mo>=</mo></math>Milli equivalent of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><mn>2</mn><mo>=</mo><mn>9</mn><mo>&#215;</mo><mo>&#215;</mo><mi mathvariant=\"normal\">M</mi><mo>&#215;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>11</mn><mi mathvariant=\"normal\">M</mi></math>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a6df23ac7d519f9b44e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "To measure the quantity of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MnCl</mi><mn>2</mn></msub></math> dissolved in an aqueous solution, it was completely converted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub></math> using the reaction,<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MnCl</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">K</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">S</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>8</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>&#8594;</mo><msub><mi>KMnO</mi><mn>4</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>+</mo><mi>HCl</mi></math> (equation not balanced). Few drops of concentrated <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HCl</mi></math> were added to this solution and gently warmed. Further, oxalic acid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>225</mn><mo>&#160;</mo><mi>mg</mi></mrow></mfenced></math>) was added in portions till the colour of the permanganate ion disappeared. What is the quantity of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MnCl</mi><mn>2</mn></msub></math> (in mg) present in the initial solution?&nbsp;(Atomic weights in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>:</mo><mi mathvariant=\"normal\">&#160;</mi><mi>Mn</mi><mo>=</mo><mn>55</mn><mo>,</mo><mo>&#160;</mo><mi>Cl</mi><mo>=</mo><mn>35</mn><mo>.5</mo></math>)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "126",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nhlanklxmvnnmvfhsaacekdfdkitmwfrdtuqlrsxuwpkuhnkmu.jpeg\"/><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msubsup><mi mathvariant=\"normal\">O</mi><mn>4</mn><mrow><mo>-</mo><mo>-</mo></mrow></msubsup><mo>+</mo><msubsup><mi>MNO</mi><mn>4</mn><mo>-</mo></msubsup><mover><mo>→</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></mover><msub><mi>CO</mi><mn>2</mn></msub></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi>eq</mi></msub><mi mathvariant=\"normal\"> </mi><mi>of</mi><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msubsup><mi mathvariant=\"normal\">O</mi><mn>4</mn><mrow><mo>-</mo><mo>-</mo></mrow></msubsup><mo>=</mo><msub><mi mathvariant=\"normal\">m</mi><mi>eq</mi></msub><mi mathvariant=\"normal\"> </mi><mi>of</mi><mi mathvariant=\"normal\"> </mi><msubsup><mi>MNO</mi><mn>4</mn><mo>-</mo></msubsup></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>×</mo><mfrac><mrow><mn>0</mn><mo>.225</mo></mrow><mn>90</mn></mfrac><mo>=</mo><mi mathvariant=\"normal\">a</mi><mo>×</mo><mn>5</mn><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mi mathvariant=\"normal\">a</mi><mo> </mo><mo>=</mo><mn>0</mn><mo>.</mo><mn>001</mn><mo> </mo><mi>mole</mi><mo> </mo><mo>=</mo><mn>1</mn><mo> </mo><mi>milimole</mi></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Mass</mi><mo> </mo><mi>of</mi><mo> </mo><msub><mi>MnCl</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo>×</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>55</mn><mo>+</mo><mn>71</mn></mrow></mfenced></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>126</mn><mi mathvariant=\"normal\"> </mi><mi>mg</mi></math>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a50f23ac7d519f9b349",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "In a neutral or faintly alkaline solution, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math> moles&nbsp;of permanganate anion quantitatively oxidize thiosulphate anions to produce <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math> moles of a sulphur containing product. The magnitude of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi></math> is:",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<math> <mrow> <mn>8</mn><mtext>M</mtext><mtext>n</mtext><msubsup> <mtext>O</mtext> <mn>4</mn> <mo>&#8722;</mo> </msubsup> <mo>+</mo><mn>3</mn><msub> <mtext>S</mtext> <mn>2</mn> </msub> <msubsup> <mtext>O</mtext> <mrow> <msub> <mrow></mrow> <mn>3</mn> </msub> </mrow> <mrow> <mn>2</mn><mo>&#8722;</mo> </mrow> </msubsup> <mo>+</mo><msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext><mo>&#8594;</mo><mn>8</mn><mtext>M</mtext><mtext>n</mtext><msub> <mtext>O</mtext> <mn>2</mn> </msub> <mo>+</mo><mn>6</mn><mtext>S</mtext><msubsup> <mtext>O</mtext> <mn>4</mn> <mrow> <mn>2</mn><mo>&#8722;</mo> </mrow> </msubsup> <mo>+</mo><mn>2</mn><mtext>O</mtext><msup> <mtext>H</mtext> <mo>&#8722;</mo> </msup> </mrow> </math><br />Moles of <math> <mrow> <mtext>S</mtext><msubsup> <mtext>O</mtext> <mn>4</mn> <mrow> <mn>2</mn><mo>&#8722;</mo> </mrow> </msubsup> </mrow> </math> formed from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math> moles of <math> <mrow> <msubsup> <mrow> <mtext>MSO</mtext> </mrow> <mn>4</mn> <mo>&#8722;</mo> </msubsup> <mo>=</mo><mn>6</mn> </mrow></math>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b16a4af23ac7d519f9b310",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "When 100 mL of 1.0 M HCl was mixed with 100 mL of 1.0 M NaOH in an insulated beaker at constant pressure, a temperature increase of <math><msup><mrow><mn>5.7</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></math> was measured for the beaker and its contents (Expt.1). Because the enthalpy of neutralization of a strong acid with a strong base is a constant <math><mo>(</mo><mo>-</mo><mn>57.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>)</mo></math> , this experiment could be used to measure the calorimeter constant. In a second experiment (Expt. 2), 100 mL of 2.0 M acetic acid <math><mo>(</mo><msub><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub><mo>=</mo><mn>2.0</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>)</mo></math> was mixed with 100 mL of 1.0 M NaOH (under identical conditions to Expt. 1) where a temperature rise of <math><msup><mrow><mn>5.6</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></math> was measured. (Consider heat capacity of all solutions as <math><mn>4.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and density of all solutions as <math><mn>1.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">L</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> )<br />Enthalpy of dissociation <math><mo>(</mo><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>)</mo></math> of acetic acid obtained from the Expt. 2 is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VwgG6",
+        "text": "<math><mn>1.0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "XGJ2q",
+        "text": "<math><mn>10.0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "nL8xB",
+        "text": "<math><mn>24.5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "RTqxa",
+        "text": "<math><mn>51.4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "VwgG6",
+    "solution_text": "Let the heat capacity of insulated beaker be C.<br >Mass of aqueous content in Expt. 1<br > <math><mo>=</mo><mfenced separators=\"|\"><mrow><mn>100</mn><mo>+</mo><mn>100</mn></mrow></mfenced><mo>×</mo><mn>1</mn><mo>=</mo><mn>200</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">g</mi></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">T</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">y</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>+</mo><mn>200</mn><mo>×</mo><mn>4.2</mn></mrow></mfenced><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">J</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">K</mi></mrow></mrow></math> <br >Moles of acid, base neutralized in Expt. 1 <math><mo>=</mo><mn>1</mn><mo>×</mo><mn>0.1</mn><mo>=</mo><mn>0.1</mn></math> <br > <math><mo>⇒</mo></math>  Heat absorbed in Expt. 1  <math><mo>=</mo><mn>0.1</mn><mo>×</mo><mn>57</mn><mo>=</mo><mn>5.7</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">J</mi></math> <br > <math><mo>⇒</mo><mn>5.7</mn><mo>×</mo><mn>1000</mn><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>+</mo><mn>200</mn><mo>×</mo><mn>4.2</mn></mrow></mfenced><mo>×</mo><mi mathvariant=\"normal\">Δ</mi><mi mathvariant=\"normal\">T</mi></math> <br > <math><mo>⇒</mo><mn>5.7</mn><mo>×</mo><mn>1000</mn><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>+</mo><mn>200</mn><mo>+</mo><mn>4.2</mn></mrow></mfenced><mo>×</mo><mn>5.7</mn></math> <br > <math><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>+</mo><mn>200</mn><mo>×</mo><mn>4.2</mn></mrow></mfenced><mo>=</mo><mn>1000</mn></math> <br >In Second experiment<br > <math><msub><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></msub><mo>=</mo><mn>0.2</mn><mi mathvariant=\"normal\"> </mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></msub><mo>=</mo><mn>0.1</mn></math> <br >Total mass of aqueous content = 200 g<br > <math><mo>⇒</mo></math>  Total heat capacity <math><mo>=</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>+</mo><mn>200</mn><mo>×</mo><mn>4.2</mn></mrow></mfenced><mo>=</mo><mn>1000</mn></math> <br > <math><mo>⇒</mo></math>  Heat released <math><mo>=</mo><mn>1000</mn><mo>×</mo><mn>5.6</mn><mo>=</mo><mn>5600</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">J</mi></math> <br >Overall, only 0.1 mol of  <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></math>  undergo neutralization.<br > <math><mo>⇒</mo><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">z</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mn>5600</mn></mrow><mrow><mn>0.1</mn></mrow></mfrac></math> <br > <math><mo>=</mo><mo>-</mo><mn>56,000</mn><mi mathvariant=\"normal\"> </mi><mrow><mrow><mi mathvariant=\"normal\">J</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi></mrow></mrow><mo>=</mo><mo>-</mo><mn>56</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">K</mi><mrow><mrow><mi mathvariant=\"normal\">J</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi></mrow></mrow></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">z</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">n</mi></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi><mo>=</mo><mn>57</mn><mo>-</mo><mn>56</mn><mo>=</mo><mn>1</mn><mrow><mrow><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">J</mi></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi></mrow></mrow></math>",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af10",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Consider a titration of potassium dichromate solution with acidified Mohr's salt solution using diphenylamine as indicator. The number of moles of Mohr's salt required per mole of dichromate is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "iYOCO",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "IrTkp",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "1UKpt",
+        "text": "\n5\n",
+        "image": null
+      },
+      {
+        "id": "WNFoQ",
+        "text": "\n6",
+        "image": null
+      }
+    ],
+    "correct_answer": "WNFoQ",
+    "solution_text": "Mole ratio is reverse of $x$-factor ratio.",
+    "solution_image": null,
+    "topic": "Redox titration"
+  },
+  {
+    "question_id": "6696579e623b9ed1d4637477",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid $\\left(\\mathrm{HNO}_2\\right)$ gives the species",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Jy9KZ",
+        "text": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3^{-}$and $\\mathrm{NO}$",
+        "image": null
+      },
+      {
+        "id": "3oLZo",
+        "text": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3{ }^{-}$and $\\mathrm{NO}_2$",
+        "image": null
+      },
+      {
+        "id": "xlYAN",
+        "text": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}^{-}$and $\\mathrm{NO}_2$",
+        "image": null
+      },
+      {
+        "id": "sezVh",
+        "text": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3{ }^{-}$and $\\mathrm{N}_2 \\mathrm{O}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Jy9KZ",
+    "solution_text": "$3 \\mathrm{HNO}_2(\\mathrm{aq}) \\rightleftharpoons \\mathrm{H}_3 \\mathrm{O}^{+}+\\mathrm{NO}_3^{-}+2 \\mathrm{NO}$",
+    "solution_image": null,
+    "topic": "Types of redox reactions"
+  },
+  {
+    "question_id": "64b16a0ef23ac7d519f9b0ed",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Reaction of $\\mathrm{Br}_2$ with $\\mathrm{Na}_2 \\mathrm{CO}_3$ in aqueous solution gives sodium bromide and sodium bromate with evolution of $\\mathrm{CO}_2$ gas. The number of sodium bromide molecules involved in the balanced chemical equation is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "$\\mathrm{Br}_2$ is disproportionated in basic medium as\n$$\n3 \\mathrm{Br}_2+3 \\mathrm{Na}_2 \\mathrm{CO}_3 \\longrightarrow 5 \\mathrm{NaBr}+\\mathrm{NaBrO}_3+3 \\mathrm{CO}_2\n$$",
+    "solution_image": null,
+    "topic": "Types of redox reactions"
+  }
+]

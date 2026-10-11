@@ -1,0 +1,772 @@
+[
+  {
+    "question_id": "6696579c623b9ed1d463746c",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "The specific heat capacity of a substance is temperature dependent and is given by the formula $C=k T$, where $k$ is a constant of suitable dimensions in SI units, and $T$ is the absolute temperature. If the heat required to raise the temperature of $1 \\mathrm{~kg}$ of the substance from $-73^{\\circ} \\mathrm{C}$ to $27^{\\circ} \\mathrm{C}$ is $n k$, the value of $n$ is _____\n[Given: $0 \\mathrm{~K}=-273^{\\circ} \\mathrm{C}$.]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 25000,
+    "solution_text": "$\\begin{aligned} & \\mathrm{T}_{\\mathrm{i}}=-73^{\\circ} \\mathrm{C}=200 \\mathrm{~K} \\\\ & \\mathrm{~T}_{\\mathrm{f}}=27^{\\circ} \\mathrm{C}=300 \\mathrm{~K}\\end{aligned}$\n$\\begin{aligned} & \\mathrm{Q}=\\int \\mathrm{msdT} \\\\ & =\\int 1 \\cdot \\mathrm{kTdT} \\\\ & =\\int \\mathrm{kTdT}=\\mathrm{K} \\int_{200}^{300} \\mathrm{TdT} \\\\ & =\\frac{\\mathrm{K}}{2}\\left[\\mathrm{~T}^2\\right]_{200}^{300}=\\frac{\\mathrm{K}}{2}\\left[300^2-200^2\\right] \\\\ & \\mathrm{Q}=25000 \\mathrm{~K}\\end{aligned}$\nHence $n=25000$",
+    "solution_image": null,
+    "topic": "Calorimetry"
+  },
+  {
+    "question_id": "64b169c6f23ac7d519f9ae56",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "In an insulated vessel, $0.05 \\mathrm{~kg}$ steam at $373 \\mathrm{~K}$ and $0.45 \\mathrm{~kg}$ of ice at $253 \\mathrm{~K}$ are mixed. Find the final temperature of the mixture (in kelvin).\n$$\n\\text { Given, } \\begin{aligned}\nL_{\\text {fusion }} & =80 \\mathrm{cal} / \\mathrm{g}=336 \\mathrm{~J} / \\mathrm{g}, L_{\\text {vaporization }}=540 \\mathrm{cal} / \\mathrm{g}=2268 \\mathrm{~J} / \\mathrm{g}, \\\\\nS_{\\text {ice }} & =2100 \\mathrm{~J} / \\mathrm{kg}, K=0.5 \\mathrm{cal} / \\mathrm{gK} \\text { and } S_{\\text {water }}=4200 \\mathrm{~J} / \\mathrm{kg}, K=1 \\mathrm{cal} / \\mathrm{gK} .\n\\end{aligned}\n$$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "273",
+    "solution_text": "$0.05 \\mathrm{~kg}$ steam at $373 \\mathrm{~K} \\stackrel{Q_1}{\\longrightarrow} 0.05 \\mathrm{~kg}$ water at $373 \\mathrm{~K}$\n$0.05 \\mathrm{~kg}$ water at $373 \\mathrm{~K} \\stackrel{Q_2}{\\longrightarrow} 0.05$ kg water at $273 \\mathrm{~K}$\n$0.45 \\mathrm{~kg}$ ice at $253 \\mathrm{~K} \\stackrel{Q_3}{\\longrightarrow} 0.45 \\mathrm{~kg}$ ice at $273 \\mathrm{~K}$\n$0.45 \\mathrm{~kg}$ ice at $273 \\mathrm{~K} \\stackrel{Q_4}{\\longrightarrow} 0.45 \\mathrm{~kg}$ water at $273 \\mathrm{~K}$\n$$\n\\begin{aligned}\n& Q_1=(50)(540)=27,000 \\mathrm{cal}=27 \\mathrm{kcal} \\\\\n& Q_2=(50)(1)(100)=5000 \\mathrm{cal}=5 \\mathrm{kcal} \\\\\n& Q_3=(450)(0.5)(20)=4500 \\mathrm{cal}=4.5 \\mathrm{kcal} \\\\\n& Q_4=(450)(80)=36000 \\mathrm{cal}=36 \\mathrm{kcal}\n\\end{aligned}\n$$\nNow since $Q_1+Q_2>Q_3$ but $Q_1+Q_2 < Q_3+Q_4$ ice will come to $273 \\mathrm{~K}$ from $253 \\mathrm{~K}$, but whole ice will not melt. Therefore temperature of the mixture is $273 \\mathrm{~K}$.",
+    "solution_image": null,
+    "topic": "Calorimetry"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c92",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "As shown in the figure, an insulated container is fitted with a thermally conducting but immovable partition $(P_1)$ and a freely movable but thermally insulated piston $(P_2)$. The partition $P_1$ with thermal conductivity $K$, cross sectional area $A$ and width $x$ divides the container into two sections, $S_1$ and $S_2$, each containing one mole of a monoatomic gas. The piston $P_2$ moves freely such that the gas in $S_2$ is always at the atmospheric pressure. Initially, the difference between the temperatures of $S_1$ and $S_2$ is $\\Delta T_0$. The time it takes for the temperature difference to become $\\dfrac{\\Delta T_0}{2}$ is $n x R / K A$, where $R$ is the universal gas constant. The value of $n$ is:<br>[Given: $\\ln 2 \\approx 0.7$]<br><img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q27_d1.png\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.66",
+    "solution_text": "Let $T_1$ and $T_2$ be the temperatures of the gases in sections $S_1$ and $S_2$ respectively. Assume $T_1 > T_2$, so heat flows from $S_1$ to $S_2$.<br><br>The rate of heat transfer through the partition $P_1$ is given by Fourier's law of heat conduction:<br>$\\dfrac{dQ}{dt} = \\dfrac{KA}{x} (T_1 - T_2)$<br><br>For section $S_1$, the volume is constant (since $P_1$ is immovable). Thus, the process is isochoric. The heat lost by $S_1$ is:<br>$dQ = -n_1 C_V dT_1$<br>Since the gas is monoatomic and $n_1 = 1$ mole, $C_V = \\dfrac{3}{2}R$.<br>$\\Rightarrow dT_1 = -\\dfrac{2 dQ}{3R}$<br><br>For section $S_2$, the pressure is constant (since $P_2$ is freely movable and exposed to atmospheric pressure). Thus, the process is isobaric. The heat gained by $S_2$ is:<br>$dQ = n_2 C_P dT_2$<br>Since the gas is monoatomic and $n_2 = 1$ mole, $C_P = \\dfrac{5}{2}R$.<br>$\\Rightarrow dT_2 = \\dfrac{2 dQ}{5R}$<br><br>The change in the temperature difference $d(\\Delta T) = d(T_1 - T_2)$ is:<br>$d(T_1 - T_2) = dT_1 - dT_2 = -\\dfrac{2 dQ}{3R} - \\dfrac{2 dQ}{5R} = -\\dfrac{16 dQ}{15R}$<br><br>Substituting the rate of heat transfer $\\dfrac{dQ}{dt}$ into the equation:<br>$\\dfrac{d(T_1 - T_2)}{dt} = -\\dfrac{16}{15R} \\left( \\dfrac{KA}{x} (T_1 - T_2) \\right)$<br><br>Let $\\Delta T = T_1 - T_2$. The differential equation becomes:<br>$\\dfrac{d(\\Delta T)}{\\Delta T} = -\\dfrac{16 KA}{15 R x} dt$<br><br>Integrating both sides from $t = 0$ to $t$, where the temperature difference goes from $\\Delta T_0$ to $\\dfrac{\\Delta T_0}{2}$:<br>$\\int_{\\Delta T_0}^{\\Delta T_0 / 2} \\dfrac{d(\\Delta T)}{\\Delta T} = -\\dfrac{16 KA}{15 R x} \\int_0^t dt$<br><br>$\\ln\\left(\\dfrac{1}{2}\\right) = -\\dfrac{16 KA}{15 R x} t$<br><br>$-\\ln 2 = -\\dfrac{16 KA}{15 R x} t$<br><br>$t = \\dfrac{15 R x \\ln 2}{16 KA}$<br><br>Given that $\\ln 2 \\approx 0.7$:<br>$t = \\dfrac{15 \\times 0.7}{16} \\dfrac{x R}{KA} = \\dfrac{10.5}{16} \\dfrac{x R}{KA} = \\dfrac{21}{32} \\dfrac{x R}{KA} = 0.65625 \\dfrac{x R}{KA}$<br><br>Comparing this with the given expression $t = n \\dfrac{x R}{K A}$, we get:<br>$n = 0.65625$<br><br>Answer: $0.66$",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "64b16a70f23ac7d519f9b46b",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "A current carrying wire heats a metal rod. The wire provides a constant power <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math> to the rod. The metal rod is enclosed in an insulated container. It is observed that the temperature <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfenced></math> in the metal rod changes with time <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math> as:<br /><math><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">&#946;</mi><msup><mrow><mi mathvariant=\"normal\">t</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></mrow></mfenced></math><br />where <math><mi mathvariant=\"normal\">&#946;</mi></math> is a constant with appropriate dimension while <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></math> is a constant with dimension of temperature. The heat capacity of the metal is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cNfh3",
+        "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "dtSK7",
+        "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn></mrow></msubsup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "DnFdp",
+        "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msubsup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "bJO78",
+        "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">β</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "bJO78",
+    "solution_text": "Heat required for small increment in temperature of a substance is given by<br > <math><mi>d</mi><mi>Q</mi><mo>=</mo><mi>m</mi><mo>.</mo><mi>s</mi><mo>.</mo><mi>d</mi><mi>T</mi></math> <br >where,  <math><mi>m</mi><mo>=</mo></math> mass of substances<br >or  <math><mi>s</mi><mo>=</mo></math> specific heat of substance<br >Now, heat capacity,  <math><mi>H</mi><mo>=</mo><mi>m</mi><mo>.</mo><mi>s</mi><mo>.</mo></math> <br > <math><mo>∴</mo><mtext>  </mtext><mi>d</mi><mi>Q</mi><mo>=</mo><mi>H</mi><mo>.</mo><mi>d</mi><mi>T</mi></math> <br > <math><mo>⇒</mo></math>  Rate of heat absorption by the rod,  <math><mfrac><mrow><mi>d</mi><mi>Q</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>P</mi><mo>=</mo><mi>H</mi><mo>⋅</mo><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math>  .......(1)<br >But given that, temperature of rod as a function of time is<br > <math><mi>T</mi><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>β</mi><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></mrow></mfenced></math>  ......(2)<br > <math><mo>⇒</mo><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⋅</mo><mi>β</mi><mo>⋅</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><msup><mrow><mi>t</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></msup></math> <br >Putting it in (1) gives<br > <math><mi>P</mi><mo>=</mo><mi>H</mi><mo>⋅</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⋅</mo><mi>β</mi><mo>⋅</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>⋅</mo><msup><mrow><mi>t</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></msup></math> <br > <math><mo>⇒</mo><mi>H</mi><mo>=</mo><mfrac><mrow><mn>4</mn><mi>P</mi><mo>⋅</mo><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>3</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>⋅</mo><mi>β</mi></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi>H</mi><mo>=</mo><mn>4</mn><mi>P</mi><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>T</mi><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><msubsup><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mo>⋅</mo><msup><mrow><mi>B</mi></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac></math> <br >Now using equation  <math><mo>(</mo><mn>2</mn><mo>)</mo></math> <br > <math><mi>T</mi><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>β</mi><mo>⋅</mo><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></math> <br > <math><mo>⇒</mo><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>3</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>T</mi><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>β</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "64b16a65f23ac7d519f9b40b",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<p>Two conducting cylinders of equal length but different radii are connected in series between two heat baths kept at temperatures <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mn>300</mn><mi> </mi><mi mathvariant=\"normal\">K</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mi>T</mi><mn>2</mn></msub><mo>=</mo><mn>100</mn><mi> </mi><mi mathvariant=\"normal\">K</mi></math> as shown in the figure. The radius of the bigger cylinder is twice that of the smaller one and the thermal conductivities of the materials of the smaller and the larger cylinders are <math><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub></math>, respectively. If the temperature at the junction of the two cylinders in the steady state is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">K</mi></math>, then <math><mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mo>/</mo><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow></math> is<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jjtbutazbyombqzfxreixlkjvxhyiqfrepxpuwmhvaylkrxeai.jpeg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yrmxkywwgiczwjeikqyzapddxpxfjhmceybdwkcqrlvulnprdf.jpeg\"/><br >We have in steady state, <br ><math><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>200</mn><mo>-</mo><mn>300</mn></mrow><mrow><mfrac><mrow><mi>L</mi></mrow><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfrac></mrow></mfenced><mo>+</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>200</mn><mo>-</mo><mn>100</mn></mrow><mrow><mfrac><mrow><mi>L</mi></mrow><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>π</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mi>r</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>0</mn></math><br ><math><mo>⇒</mo><mi> </mi><mfrac><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>×</mo><mn>100</mn></mrow><mrow><mi>L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>100</mn><msub><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>π</mi><mo>×</mo><mn>4</mn><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>L</mi></mrow></mfrac></math><br ><math><mo>⇒</mo><mi> </mi><mfrac><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>4</mn></math>",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "64b16a2bf23ac7d519f9b1fb",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The figure below shows the variation of specific heat capacity (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>) of a solid as a function of temperature (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>). The temperature is increased continuously from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> at a constant rate. Ignoring any volume change, the following statement (s) is (are) correct to a reasonable approximation.<br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012624_Quest_1.jpg\" style=\"width: 272px; height: 212px;\" />",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wifyE",
+        "text": "The rate at which heat is absorbed in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> varies linearly with temperature T.",
+        "image": null
+      },
+      {
+        "id": "q2cLC",
+        "text": "Heat absorbed in increasing the temperature from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;is less than the heat required for increasing the temperature from<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>400</mn><mo>-</mo><mn>500</mn><mi mathvariant=\"normal\">K</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "KZ71q",
+        "text": "There is no change in the rate of heat absorption in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>400</mn><mo>-</mo><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "iMEyl",
+        "text": "The rate of heat absorption increases in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mo>-</mo><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "iMEyl",
+    "solution_text": "<math> <mrow> <mtext>q&#160;</mtext> <mo>=</mo> <mtext>&#160;mCT</mtext> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mtext>dq</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> <mo>=</mo> <mtext>mc</mtext> <mfrac> <mrow> <mtext>dT</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> </mrow> </math><br />R = rate of absorption of heat <math> <mrow> <mo>=</mo> <mfrac> <mrow> <mtext>dq</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> <mo>&#8733;</mo> <mtext>C</mtext> </mrow> </math><br />(i) in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math><br />The graph between (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>) appears to be a straight line upto&nbsp;a reasonable approximation.<br />(ii) <math> <mrow> <mo>&#916;</mo> <mtext>q</mtext> <mo>=</mo> <mtext>mC</mtext> <mo>&#916;</mo> <mtext>T</mtext> </mrow> </math>&nbsp;as C &nbsp;is more in (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>400</mn><mo>-</mo><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>) then (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>) so heat is increasing.<br />(iii) C remains constant so there no change in R &nbsp;from (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>400</mn><mo>-</mo><mn>500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>)<br />(iv) C is increases so R is increases in range (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mo>-</mo><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>)",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "64b16a25f23ac7d519f9b1c0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>Two rectangular blocks, having identical dimensions, can be arranged either in configuration <math> <mrow> <mtext>I</mtext> </mrow> </math> or in configuration <math> <mrow> <mtext>I</mtext><mtext>I</mtext> </mrow> </math> as shown in the figure. One of the blocks has thermal conductivity <math> <mrow> <mtext>K</mtext> </mrow> </math> and the other <math> <mrow> <mtext>2 K</mtext> </mrow> </math>. The temperature difference between the ends along the x-axis is the same in both the configurations. It takes <math> <mrow> <mtext>9 s</mtext> </mrow> </math> to transport a certain amount of heat from the hot end to cold end in the configuration <math> <mrow> <mtext>I</mtext> </mrow> </math>. The time to transport the same amount of heat in the configuration <math> <mrow> <mtext>II</mtext> </mrow> </math> is<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012544_JEE_ADVANCED_2013.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tVk30",
+        "text": "<math> <mrow> <mtext>2.0 s</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "WY78h",
+        "text": "<math> <mrow> <mtext>3.0 s</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "AlRET",
+        "text": "<math> <mrow> <mtext>4.5 s</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "U0MbN",
+        "text": "<math> <mrow> <mtext>6.0 s</mtext> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tVk30",
+    "solution_text": "<p>In the first combination, the 2 blocks are having thermal conductivity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>K</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>K</mi></math>&nbsp;respectively are in series combination.</p><p>Therefore the Keq will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mi>K</mi><mo>&#160;</mo></mrow></mfrac><mo>&#160;</mo><mo>+</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>K</mi></mrow></mfrac></math></p><p>and the Keq in case of parallel combination is 3K</p><p><math> <mrow> <mtext>Heat transferred</mtext> <mo>=</mo> <mtext>Rate</mtext> <mo>&#215;</mo> <mtext>time. &#8203;</mtext></mrow></math><br /><math> <mrow> <mo>&#8756;&#160;&#160;&#160;</mo> <msub> <mtext>Rate</mtext> <mn>1</mn> </msub> <mo>&#215;</mo> <msub> <mtext>time</mtext> <mn>1</mn> </msub> <mo>=</mo> <msub> <mtext>Rate</mtext> <mn>2</mn> </msub> <mo>&#215;</mo> <msub> <mtext>time</mtext> <mn>2</mn> </msub> <mn>.</mn> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mo>&#916;</mo> <mtext>T</mtext> <mo>&#215;</mo> <mn>9</mn> </mrow> <mrow> <mfrac> <mrow> <mtext>L</mtext> </mrow> <mrow> <mtext>KA</mtext> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <mtext>L</mtext> </mrow> <mrow> <mn>2</mn> <mtext>KA</mtext> </mrow> </mfrac> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mtext>&#916;</mtext> <mtext>T</mtext> <mo>&#215;</mo> <mtext>t</mtext> </mrow> <mrow> <mfrac> <mrow> <mn>L</mn> </mrow> <mrow> <mtext>3KA</mtext> </mrow> </mfrac> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mo>&#8658;&#160;&#160;</mo> <mtext>t</mtext> <mo>=</mo> <mn>2</mn> </mrow> </math></p>",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "64b16a0af23ac7d519f9b0cd",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A composite block is made of slabs $A, B, C, D$ and $E$ of different thermal conductivities (given in terms of a constant, $K$ ) and sizes (given in terms of length, $L$ ) as shown in the figure. All slabs are of same width. Heat $Q$ flows only from left to right through the blocks. Then, in steady state\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/E0zfPXPVD6anEcAXH-PQnBX7KAEIvnco_WbswydRJsM.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "snHds",
+        "text": "\nheat flow through $A$ and $E$ slabs are same\n",
+        "image": null
+      },
+      {
+        "id": "GjJpx",
+        "text": "\nheat flow through slab $E$ is maximum\n",
+        "image": null
+      },
+      {
+        "id": "j3n1O",
+        "text": "\ntemperature difference across slab $E$ is smallest\n",
+        "image": null
+      },
+      {
+        "id": "mP4Wx",
+        "text": "\nheat flow through $C=$ heat flow through $B$ + heat flow through $D$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mP4Wx",
+    "solution_text": "Thermal resistance\n$$\n\\begin{aligned}\n& R=\\frac{l}{K A} \\\\\n& \\therefore \\quad R_A=\\frac{L}{(2 K)(4 L w)}=\\frac{1}{8 K w} \\\\\n& \\text { (Here, } w=\\text { width) } \\\\\n& R_B=\\frac{4 L}{3 K(L w)}=\\frac{4}{3 K w} \\\\\n& R_C=\\frac{4 L}{(4 K)(2 L w)}=\\frac{1}{2 K w} \\\\\n& R_D=\\frac{4 L}{(5 K)(L w)}=\\frac{4}{5 K w} \\\\\n& R_E=\\frac{L}{(6 K)(L w)}=\\frac{1}{6 K w} \\\\\n& R_A: R_B: R_C: R_D: R_E \\\\\n&=15: 160: 60: 96: 12\n\\end{aligned}\n$$\nSo, let us write, $R_A=15 R, R_B=160 R$ etc and draw a simple electrical circuit as shown in figure.\n\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/AGHLRh_Fhiti6oMHUfQ1FIukEOkNLjb8FmuxSaIUu0A.original.fullsize.png\"><br>\n\n\n$H=$ Heat current $=$ Rate of heat flow.\n$$\nH_A=H_E=H\n$$\n[let]\n$\\therefore$ Option (a) is correct.\nIn parallel, current distributes in inverse ratio of resistance.\n$$\n\\begin{aligned}\n& \\therefore H_B: H_C: H_D=\\frac{1}{R_B}: \\frac{1}{R_C}: \\frac{1}{R_D} \\\\\n& =\\frac{1}{160}: \\frac{1}{60}: \\frac{1}{96} \\\\\n& =9: 24: 15 \\\\\n& \\therefore \\quad H_B=\\left(\\frac{9}{9+24+15}\\right) H=\\frac{3}{16} H \\\\\n& H_C=\\left(\\frac{24}{9+24+15}\\right) H=\\frac{1}{2} H \\\\\n& \\text { and } \\quad H_D=\\left(\\frac{15}{9+24+15}\\right) H=\\frac{5}{16} H \\\\\n&\n\\end{aligned}\n$$\n\n$$\nH_C=H_B+H_D\n$$\n$\\therefore$ Option (d) is correct.\nTemperature difference (let us call it $T$ )\n$=($ Heat current $) \\times($ Thermal resistance $)$\n$T_A=H_A R_A=(H)(15 R)=15 \\mathrm{HR}$\n$T_B=H_B R_B=\\left(\\frac{3}{16} H\\right)(160 R)=30 H R$\n$T_C=H_C R_C=\\left(\\frac{1}{2} H\\right)(60 R)=30 H R$\n$T_D=H_D R_D=\\left(\\frac{5}{16} H\\right)(96 R)=30 H R$\n$T_E=H_E R_E=(H)(12 R)=12 \\mathrm{HR}$\nHere, $T_E$ is minimum. Therefore, option\n(c) is also correct.\n$\\therefore$ Correct options are (a), (c) and (d).\nAnalysis of Question\n(i) From calculation point of view, question is difficult otherwise question is simple.\n(ii) In heat transfer, questions are mainly asked from conduction and radiation topic.",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "64b169f6f23ac7d519f9b00d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "A metal rod $A B$ of length $10 x$ has its one end $A$ in ice at $0^{\\circ} \\mathrm{C}$ and the other end $B$ in water at $100^{\\circ} \\mathrm{C}$. If a point $P$ on the rod is maintained at $400^{\\circ} \\mathrm{C}$, then it is found that equal amounts of water and ice evaporate and melt per unit time. The latent heat of evaporation of water is $540 \\mathrm{calg}^{-1}$ and latent heat of melting of ice is $80 \\mathrm{calg}^{-1}$. If the point $P$ is at a distance of $\\lambda x$ from the ice end $A$, find the value of $\\lambda$. [Neglect any heat loss to the surrounding.]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/YfSQoXhjZNvHl8wU_-OPaLyrnErrKwulkUaBdtVyaCo.original.fullsize.png\"><br>\n\nHeat will flow both sides from point $P$.\n$$\n\\begin{aligned}\nL_1 \\frac{d m_1}{d t} & =\\left(\\frac{\\text { Temperature difference }}{\\text { Thermal resistance }}\\right)_1 \\\\\n& =\\frac{400}{(\\lambda x) / k A} \\\\\nL_1 \\frac{d m_2}{d t} & =\\frac{400-100}{(100-\\lambda) x / k A}\n\\end{aligned}\n$$\nIn about two equations,\n$$\n\\begin{aligned}\n& \\frac{d m_1}{d t}=\\frac{d m_2}{d t} \\quad \\text { (given) } \\\\\n& L_1=80 \\mathrm{calg}^{-1} \\text { and } L_2=540 \\mathrm{calg}^{-1}\n\\end{aligned}\n$$\nSolving these two equations we get $\\lambda=9$.",
+    "solution_image": null,
+    "topic": "Conduction"
+  },
+  {
+    "question_id": "685102bf6bba689a3eb09c88",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Two identical plates P and Q , radiating as perfect black bodies, are kept in vacuum at constant absolute temperatures \\(\\mathrm{T}_{\\mathrm{P}}\\) and \\(\\mathrm{T}_{\\mathrm{Q}}\\), respectively, with \\(\\mathrm{T}_{\\mathrm{Q}}<\\mathrm{T}_{\\mathrm{P}}\\), as shown in Fig. 1. The radiated power transferred per unit area from P to Q is \\(W_0\\). Subsequently, two more plates, identical to P and Q, are introduced between P and Q, as shown in Fig. 2. Assume that heat transfer takes place only between adjacent plates. If the power transferred per unit area in the direction from P to Q (Fig. 2) in the steady state is \\(W_S\\), then the ratio \\(\\frac{W_0}{W_S}\\) is ________.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/HBLQwkqfCd2VoXXxeCYRlcdPhHJX5H9y5LvMNCFIfcc.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "Initially :\n$\\mathrm{W}_0=\\sigma\\left(\\mathrm{T}_{\\mathrm{P}}^4-\\mathrm{T}_{\\mathrm{Q}}^4\\right)$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gukJjWT8BR1VAuvNQmQ44Pfz8ATGhjTwjTkWpx8s9GI.original.fullsize.png\"><br>Finally :<br>Putting heat currents equal in steady state :\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZhcSG5RXdEWK44ZEGtOtHHEGidzL4RmTN4wgNVgd0vw.original.fullsize.png\"><br>$\\begin{aligned} & \\sigma\\left(\\mathrm{T}_{\\mathrm{P}}^4-\\mathrm{T}_1^4\\right)=\\sigma\\left(\\mathrm{T}_1^4-\\mathrm{T}_2^4\\right) \\\\ & \\sigma\\left(\\mathrm{T}_1^4-\\mathrm{T}_2^4\\right)=\\sigma\\left(\\mathrm{T}_2^4-\\mathrm{T}_{\\mathrm{Q}}^4\\right)\\end{aligned}$\nAdding :\n$\\mathrm{T}_{\\mathrm{P}}^4-\\mathrm{T}_1^4=\\mathrm{T}_2^4-\\mathrm{T}_{\\mathrm{Q}}^4$\n$\\Rightarrow \\mathrm{T}_1^4+\\mathrm{T}_2^4=\\mathrm{T}_{\\mathrm{P}}^4+\\mathrm{T}_{\\mathrm{Q}}^4$\nand $\\quad \\Rightarrow \\mathrm{T}_1^4-\\mathrm{T}_2^4=\\mathrm{T}_{\\mathrm{P}}^4-\\mathrm{T}_1^4$\nAdding : $\\mathrm{T}_1^4=\\frac{2 \\mathrm{~T}_{\\mathrm{P}}^4+\\mathrm{T}_{\\mathrm{Q}}^4}{3}$\nSo $\\mathrm{W}_{\\mathrm{S}}=\\sigma\\left(\\mathrm{T}_{\\mathrm{P}}^4-\\mathrm{T}_1^4\\right)$\n$=\\sigma\\left(\\mathrm{T}_{\\mathrm{P}}^4-\\left(\\frac{2 \\mathrm{~T}_{\\mathrm{P}}^4+\\mathrm{T}_{\\mathrm{Q}}^4}{3}\\right)\\right)=\\sigma\\left(\\frac{\\mathrm{T}_{\\mathrm{P}}^4-\\mathrm{T}_{\\mathrm{Q}}^4}{3}\\right)$\nhence $\\frac{\\mathrm{W}_{\\mathrm{S}}}{\\mathrm{W}_0}=3$",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16aa1f23ac7d519f9b62e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Match the temperature of a black body given in List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> with an appropriate statement in List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>, and choose the correct option.</p><p>[Given: Wien&rsquo;s constant as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>-</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mi>e</mi></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>24</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi><mo>-</mo><mi mathvariant=\"normal\">m</mi></math>]</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></td>\t\t\t<td>The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>&#160;</mo><mi>eV</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></td>\t\t\t<td>\t\t\t<p>The radiation at peak wavelength is visible to human eye</p>\t\t\t</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math></td>\t\t\t<td>The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math></td>\t\t\t<td>The power emitted per unit area is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>16</mn></mfrac></math>&nbsp;of that emitted by a blackbody at temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></td>\t\t\t<td>The radiation at peak emission wavelength can be used to image human bones</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ueu2Z",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>5</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "poIAx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "3NUNM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "nEHmc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>5</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3NUNM",
+    "solution_text": "<blockquote><p>Maximum wavelength for each case:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced><mo>&#160;</mo><mn>2000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td>\t\t\t<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi>m</mi></msub><mi>T</mi><mo>=</mo><mi>b</mi></math></p>\t\t\t<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>&#955;</mi><mi>m</mi></msub><mo>=</mo><mfrac><mi>b</mi><mi>T</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow><mn>2000</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>45</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>=</mo><mn>1450</mn><mo>&#160;</mo><mi>nm</mi></math></p>\t\t\t</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">Q</mi><mo>)</mo><mo>&#160;</mo><mn>3000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi>m</mi></msub><mi>T</mi><mo>=</mo><mi>b</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>&#955;</mi><mi>m</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow><mn>3000</mn></mfrac><mo>=</mo><mn>966</mn><mo>.</mo><mn>66</mn><mo>&#160;</mo><mi>nm</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo><mo>&#160;</mo><mn>5000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi>m</mi></msub><mi>T</mi><mo>=</mo><mi>b</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>&#955;</mi><mi>m</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow><mn>5000</mn></mfrac><mo>=</mo><mn>580</mn><mo>&#160;</mo><mi>nm</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">S</mi><mo>)</mo><mo>&#160;</mo><mn>10000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mi>m</mi></msub><mi>T</mi><mo>=</mo><mi>b</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>&#955;</mi><mi>m</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow><mrow><mn>10</mn><mo>,</mo><mn>000</mn></mrow></mfrac><mo>=</mo><mn>290</mn><mo>&#160;</mo><mi>nm</mi></math></td>\t\t</tr>\t</tbody></table><p>Now for List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>&#160;</mo><msub><mi>&#955;</mi><mrow><mi>t</mi><mi>h</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mi>&#981;</mi></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>.</mo><mn>24</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>31</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>=</mo><mn>310</mn><mo>&#160;</mo><mi>nm</mi></math></p><p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mo>&#8804;</mo><msub><mi>&#955;</mi><mi>th</mi></msub></math>, emission of photoelectrons will take place. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>&#8594;</mo><mn>1</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math>&nbsp;Wavelength range visible to human eye ranges from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>400</mn><mo>&#160;</mo><mtext>to</mtext><mo>&#160;</mo><mn>700</mn><mo>&#160;</mo><mi>nm</mi></math>. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#8594;</mo><mn>2</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>3</mn></mfenced></math>&nbsp;Width of the central maxima is&nbsp;directly proportional to the wavelength of the light used. Therefore, for maximum width, maximum wavelength is required. Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>&#8594;</mo><mn>3</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>4</mn></mfenced></math>&nbsp;Power emitted by blackbody is given by,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#963;</mi><msup><mfenced><msub><mi>T</mi><mn>1</mn></msub></mfenced><mn>4</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>16</mn></mfrac><mfenced><mrow><mi>&#963;</mi><msub><msup><mi>T</mi><mn>4</mn></msup><mn>2</mn></msub></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi>T</mi><mn>2</mn></msub><mo>=</mo><mn>3000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>&#8594;</mo><mn>4</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>5</mn></mfenced></math>&nbsp;For imaging bones <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math>-rays are used in the wavelength range of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><mn>10</mn><mo>&#160;</mo><mi>nm</mi></math>.&nbsp;None of the options in List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math>&nbsp;matches with it.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a89f23ac7d519f9b554",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "A small object is placed at the centre of a large evacuated hollow spherical container. Assume the container is maintained at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>. At time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the temperature of the object is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>. The temperature of the object becomes&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><msub><mi>t</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><msub><mi>t</mi><mn>2</mn></msub></math>. Assume the object and the container to be ideal black bodies. The heat capacity of the object does not depend on temperature. The ratio&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mfrac><msub><mi>t</mi><mn>2</mn></msub><msub><mi>t</mi><mn>1</mn></msub></mfrac></mfenced></math>&nbsp;_________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f6c71ac2-c669-47af-a091-ec944e3ca1b3-98e3a29a-1746-4e81-8e7c-3fe520508354-image.png\" style=\"width: 147px; height: 150px;\" /></p><p>Using Stefan-Boltzmann law,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>Q</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>&#963;</mi><mi>e</mi><mi>A</mi><mfenced open=\"[\" close=\"]\"><mrow><msubsup><mi>T</mi><mi>B</mi><mn>4</mn></msubsup><mo>&#8722;</mo><msubsup><mi>T</mi><mi>S</mi><mn>4</mn></msubsup></mrow></mfenced><mo>,</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mfenced><mrow><mo>&#8757;</mo><msub><mi>T</mi><mi>S</mi></msub><mo>=</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></mrow></mfenced></math></p><p>So,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>Q</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>e</mi><mi>&#963;</mi><mi>A</mi><msup><mi>T</mi><mn>4</mn></msup><mo>,</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mfenced><mrow><mtext>consider</mtext><mo>,</mo><mo>&#160;</mo><mi>T</mi><mo>=</mo><msub><mi>T</mi><mi>B</mi></msub></mrow></mfenced></math></p><p>also,&nbsp; &nbsp;&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>Q</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mi>m</mi><mi>s</mi><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>T</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>e</mi><mi>&#963;</mi><mi>A</mi><msup><mi>T</mi><mn>4</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mrow><mo>-</mo><mo>&#8747;</mo></mrow><mn>200</mn><mi>T</mi></munderover><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi>T</mi></mrow><msup><mi>T</mi><mn>4</mn></msup></mfrac><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mi>t</mi></msubsup><mi>k</mi><mi mathvariant=\"normal\">d</mi><mi>t</mi><mo>,</mo><mo>&#160;</mo><mtext>where</mtext><mo>&#160;</mo><mi>k</mi><mo>=</mo><mfrac><mrow><mi>&#963;</mi><mi>A</mi></mrow><mrow><mi>m</mi><mi>s</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><msup><mi>T</mi><mn>3</mn></msup></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><msup><mfenced><mn>200</mn></mfenced><mn>3</mn></msup></mfrac><mo>=</mo><mn>3</mn><mi>k</mi><mi>t</mi></math></p><p>Now,&nbsp;</p><p>For case&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mfenced><mn>100</mn></mfenced><mn>3</mn></msup></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><msup><mfenced><mn>200</mn></mfenced><mn>3</mn></msup></mfrac><mo>=</mo><mn>3</mn><mi>k</mi><msub><mi>t</mi><mn>1</mn></msub><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>For case&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mfenced><mn>50</mn></mfenced><mn>3</mn></msup></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><msup><mfenced><mn>200</mn></mfenced><mn>3</mn></msup></mfrac><mo>=</mo><mn>3</mn><mi>k</mi><msub><mi>t</mi><mn>2</mn></msub><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>2</mn></mfenced></math></p><p>Divide&nbsp;equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math> by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfrac><mn>1</mn><msup><mfenced><mn>50</mn></mfenced><mn>3</mn></msup></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><msup><mfenced><mn>200</mn></mfenced><mn>3</mn></msup></mfrac></mrow><mrow><mfrac><mn>1</mn><msup><mfenced><mn>100</mn></mfenced><mn>3</mn></msup></mfrac><mo>&#8722;</mo><mfrac><mn>1</mn><msup><mfenced><mn>200</mn></mfenced><mn>3</mn></msup></mfrac></mrow></mfrac><mo>=</mo><mfrac><msub><mi>t</mi><mn>2</mn></msub><msub><mi>t</mi><mn>1</mn></msub></mfrac></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>t</mi><mn>2</mn></msub><msub><mi>t</mi><mn>1</mn></msub></mfrac><mo>=</mo><mn>9</mn></math></p>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a83f23ac7d519f9b51d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>A container with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>kg</mi></math> of water in it is kept in sunlight, which causes the water to get warmer than the surroundings. The average energy per unit time per unit area received due to the sunlight is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>700</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> and it is absorbed by the water over an effective area of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>05</mn><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup><mo>.</mo></math> Assuming that the heat loss from the water to the surroundings is governed by Newton&#39;s law of cooling, the difference (in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">C</mi><mprescripts></mprescripts><none></none><mo>&#8728;</mo></mmultiscripts></math>) in the temperature of water and the surroundings after a long time will be_________. (Ignore effect of the container, and take constant for Newton&#39;s law of cooling&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>0</mn><mo>.</mo><mn>001</mn><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo></math> Heat capacity of water&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4200</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><msup><mi>kg</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>)</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8.33",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mi>i</mi></msub><mo>=</mo><mn>700</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>=</mo><mn>35</mn></math> watts</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mi>i</mi></msub><mo>=</mo><msub><mi>P</mi><mi>r</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn><mo>=</mo><mi>e</mi><mi>&#963;</mi><mi>A</mi><mn>4</mn><msubsup><mi>T</mi><mn>0</mn><mn>3</mn></msubsup><mo>(</mo><mi>&#916;</mi><mi>T</mi><mo>)</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>K</mi><mo>=</mo><mfrac><mrow><mn>4</mn><mi>e</mi><mi>&#963;</mi><mi>A</mi><msubsup><mi>T</mi><mn>0</mn><mn>3</mn></msubsup></mrow><mrow><mi>m</mi><mi>C</mi></mrow></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>0001</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>e</mi><mi>&#963;</mi><mi>A</mi><msubsup><mi>T</mi><mn>0</mn><mn>3</mn></msubsup><mo>=</mo><mn>0</mn><mo>.</mo><mn>001</mn><mo>&#215;</mo><mi>m</mi><mi>C</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>2</mn></math></p><p>from equation (1)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi>T</mi><mo>=</mo><mfrac><mn>35</mn><mrow><mn>4</mn><mo>.</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>50</mn><mn>6</mn></mfrac><mo>=</mo><mfrac><mn>25</mn><mn>3</mn></mfrac><mo>=</mo><mn>8</mn><mo>.</mo><mn>33</mn></math></p>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a7cf23ac7d519f9b4dd",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>The filament of a light bulb has surface area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>64</mn><mo>&#160;</mo><msup><mi>mm</mi><mn>2</mn></msup><mo>.</mo></math> The filament can be considered as a black body at temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> emitting radiation like a point source when viewed from far. At night the light bulb is observed from a distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>. Assume the pupil of the eyes of the observer to be circular with radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>&#160;</mo><mi>mm</mi></math>. Then:</p><p>(Take Stefan-Boltzmann constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>.</mo><mn>67</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>,</mo></math> Wiens&#39; displacement constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>.90</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>, Planck&#39;s constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>.60</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>34</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>, speed of light in vacuum <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn><mo>.00</mo><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mtext>&#8201;</mtext><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ehyt4",
+        "text": "power radiated by the filament is in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>642</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>645</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math>",
+        "image": null
+      },
+      {
+        "id": "OeQpS",
+        "text": "radiated power entering into one eye of the observer is in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>15</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math> to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>25</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math>",
+        "image": null
+      },
+      {
+        "id": "IU7Fm",
+        "text": "the wavelength corresponding to the maximum intensity of light is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1160</mn><mo>&#160;</mo><mi>nm</mi></math>",
+        "image": null
+      },
+      {
+        "id": "tEUDS",
+        "text": "taking the average wavelength of emitted radiation to be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1740</mn><mo>&#160;</mo><mi>nm</mi><mo>,</mo></math> the total number of photons&nbsp;entering per second into one eye of the observer is in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>75</mn><mo>&#215;</mo><msup><mn>10</mn><mn>11</mn></msup></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>85</mn><mo>&#215;</mo><msup><mn>10</mn><mn>11</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tEUDS",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mi>&#963;</mi><mi>A</mi><mi>e</mi><msup><mi>T</mi><mn>4</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>5</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>&#215;</mo><mn>64</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>&#215;</mo><mn>1</mn><mo>&#215;</mo><mo>(</mo><mn>2500</mn><msup><mo>)</mo><mn>4</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>14175</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>14</mn></mrow></msup><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup><mo>&#215;</mo><msup><mn>10</mn><mn>4</mn></msup></math></p><p>(a)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>141</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p>(b)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>&#963;</mi><mi>A</mi><mi>e</mi><msup><mi>T</mi><mn>4</mn></msup></mrow><mrow><mn>4</mn><mi>&#960;</mi><mo>(</mo><mn>100</mn><msup><mo>)</mo><mn>2</mn></msup></mrow></mfrac><mo>&#215;</mo><mi>&#960;</mi><msup><mfenced><mrow><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>141</mn><mo>.</mo><mn>75</mn><mo>&#215;</mo><mfrac><mrow><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mn>4</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>318</mn><mo>.</mo><mn>937</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>18937</mn><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p>(c)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mi>T</mi><mo>=</mo><mi>b</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>93</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow><mn>2500</mn></mfrac><mo>=</mo><mn>1160</mn><mo>&#160;</mo><mi>nm</mi></math></p><p>(d)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>18937</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>=</mo><mfenced><mfrac><mi>n</mi><mi>sec</mi></mfrac></mfenced><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mi>&#955;</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>18937</mn><mo>&#215;</mo><mfrac><mrow><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mi>&#955;</mi></mrow><mrow><mi>&#955;</mi><mi>e</mi></mrow></mfrac><mo>=</mo><mi>n</mi><mo>=</mo><mn>279</mn><mo>.</mo><mn>00</mn><mo>&#215;</mo><mfrac><mrow><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>9</mn></mrow></msup></mrow><mrow><msup><mn>10</mn><mrow><mo>-</mo><mn>34</mn></mrow></msup><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>279</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>17</mn></mrow></msup><mo>&#215;</mo><msup><mn>10</mn><mn>34</mn></msup><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>79</mn><mo>&#215;</mo><msup><mn>10</mn><mn>11</mn></msup></math></p>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a58f23ac7d519f9b395",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "A human body has a surface area of approximately <math><mn>1</mn><mi>&#160;</mi><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></math> . The normal body temperature is <math><mn>10</mn><mi>&#160;</mi><mi>K</mi></math> above the surrounding room temperature <math><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></math> . Take the room temperature to be <math><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>300</mn><mi>&#160;</mi><mi>K</mi></math> . For <math><mi>&#160;</mi><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>300</mn><mi>&#160;</mi><mi>K</mi></math> , the value of <math><mi>&#963;</mi><msup><mrow><mi>T</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>=</mo><mn>460</mn><mfrac><mrow><mi>W</mi></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> (where <math><mi>&#963;</mi></math> is the Stefan-Boltzmann constant). Which of the following options is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nfjv8",
+        "text": "If the surrounding temperature reduces by a small amount <math><msub><mrow><mi mathvariant=\"normal\">&Delta;</mi><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&nbsp;</mi><mo>&lt;</mo><mo>&lt;</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&nbsp;</mi></math> , then to maintain the same body temperature the same (living) human being needs to radiate <math><mi mathvariant=\"normal\">&Delta;</mi><mi mathvariant=\"normal\">W</mi><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">&sigma;</mi><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn></mrow></msubsup><msub><mrow><mi mathvariant=\"normal\">&Delta;</mi><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&nbsp;</mi></math> more energy per unit time",
+        "image": null
+      },
+      {
+        "id": "db5Qq",
+        "text": "Reducing the exposed surface area of the body (e.g. by curling up) allows humans to maintain the same body temperature while reducing the energy lost by radiation.",
+        "image": null
+      },
+      {
+        "id": "rU25X",
+        "text": "If the body temperature rises significantly then the peak in the spectrum of electromagnetic radiation emitted by the body would shift to longer wavelengths",
+        "image": null
+      },
+      {
+        "id": "hCgoR",
+        "text": "The amount of energy radiated by the body in 1 second is close to <math><mn>60</mn><mi>&nbsp;</mi><mi>J</mi><mi>o</mi><mi>u</mi><mi>l</mi><mi>e</mi><mi>s</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "rU25X",
+    "solution_text": "\\(\\begin{aligned}\r\n\r\n& \\text { Energy radiated }=\\sigma A\\left(T^4-T_0^4\\right) \\mathrm{t} \\\\\r\n\r\n& =\\sigma A\\left[\\left(\\mathrm{~T}_0+10\\right)^4-T_0^4\\right] t \\\\\r\n\r\n& =\\sigma A T_0^4\\left[\\left(1+\\frac{10}{T_0}\\right)^4-1\\right] t \\\\\r\n\r\n& =\\sigma A T_0^4\\left[\\frac{40}{T_0}\\right] \\times t=460 \\times 1 \\times \\frac{40}{300} \\times 1=61.33 J \\\\\r\n\r\n& P=\\frac{\\text { Energy radiated }}{\\text { time }}=\\sigma A T^4-\\sigma A T_0^4 \\\\\r\n\r\n& \\therefore\\left|\\frac{d p}{d T_0}\\right|=\\sigma A\\left(4 T_0^3\\right) \\therefore|d p|=\\sigma A\\left(4 T_0^3\\right) d T_0 \\\\\r\n\r\n& \\therefore|\\Delta P|=4 \\sigma A T_0^3\r\n\r\n\\end{aligned}\\)\r\n\r\nA, B are not correct options as human body is not a black body. Energy radiated \\(\\propto \\mathrm{A}\\) where \\(\\mathrm{A}\\) is the surface area of the body. ' \\(\\mathrm{C}\\) ' is the correct option",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b337",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "A metal is heated in a furnace where a sensor is kept above the metal surface to read the power radiated (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>) by the metal. The sensor has a scale that displays <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>2</mn></msub><mo>⁡</mo><mfenced separators=\"|\"><mfrac><mi>P</mi><msub><mi>P</mi><mn>0</mn></msub></mfrac></mfenced><mi>&nbsp;</mi></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>0</mn></msub></math>&nbsp;is a constant. When the metal surface is at a temperature of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>487</mn><mo>&nbsp;</mo><mo>°</mo><mi mathvariant=\"normal\">C</mi></math>,&nbsp;the sensor shows a value <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>. Assume that the emissivity of the metallic surface remains constant. What is the value displayed by the sensor when the temperature of the metal surface is raised to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2767</mn><mo>&nbsp;</mo><mo>°</mo><mi mathvariant=\"normal\">C</mi></math>?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<math><mi>P</mi><mo>=</mo><mi>e</mi><mi>A</mi><mi>&#963;</mi><msup><mrow><mi>T</mi></mrow><mrow><mn>4</mn></mrow></msup></math> where <math><mi>T</mi></math> is in kelvin<br /><math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mi>e</mi><mi>A</mi><mi>&#963;</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>487</mn><mo>+</mo><mn>273</mn></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mrow><mo>=</mo><mn>1</mn></math> .....(i)<br /><math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><mfrac><mrow><mi>e</mi><mi>A</mi><mi>&#963;</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>2767</mn><mo>+</mo><mn>273</mn></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><msub><mrow><mi>P</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mrow><mo>=</mo><mi>x</mi></math> ......(ii)<br />(ii) - (i)<br /><math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>3040</mn></mrow><mrow><mn>760</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></mrow></mrow><mo>=</mo><mi>x</mi><mo>-</mo><mn>1</mn></math><br /><math><mo>&#8756;</mo></math> <math><mi>x</mi><mo>=</mo><mn>9</mn></math>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a4df23ac7d519f9b32e",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "An incandescent bulb has a thin filament of tungsten that is heated to high temperature by passing an electric current. The hot filament emits black-body radiation. The filament is observed to break up at random locations after a sufficiently long time of operation due to non-uniform evaporation of tungsten from the filament. If the bulb is powered at constant voltage, which of the following statement(s) is(are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tbDbU",
+        "text": "The temperature distribution over the filament is uniform",
+        "image": null
+      },
+      {
+        "id": "QG969",
+        "text": "The resistance over small sections of the filament decreases with time",
+        "image": null
+      },
+      {
+        "id": "O9pWM",
+        "text": "The filament emits more light at higher band of frequencies before it breaks up",
+        "image": null
+      },
+      {
+        "id": "uiz6C",
+        "text": "The filament consumes less electrical power towards the end of the life of the bulb",
+        "image": null
+      }
+    ],
+    "correct_answer": "uiz6C",
+    "solution_text": "Because of non-uniform evaporation at different section, area of cross-section would be different at different sections.<br >Region of highest evaporation rate would have rapidly reduced area and would become break up cross section.<br >Resistance of the wire as whole increases with time.<br >Overall resistance increases hence power decreases. At break up junction temperature would be highest, thus light of highest band frequency would be emitted at those cross-section.",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a3ff23ac7d519f9b2b2",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Two spherical stars <math><mi mathvariant=\"normal\">A</mi></math> and <math><mi mathvariant=\"normal\">B</mi></math> emit blackbody radiation. The radius of <math><mi mathvariant=\"normal\">A</mi></math> is 400 times that of <math><mi mathvariant=\"normal\">B</mi></math> and <math><mi mathvariant=\"normal\">A</mi></math> emits <math><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup></math> times the power emitted from <math><mi mathvariant=\"normal\">B</mi></math> . The ratio <math><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></mrow></mfrac></mrow></mfenced></math> of their wavelengths <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></math> at which the peaks occur in their respective radiation curves is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<math><mi mathvariant=\"normal\">P</mi><mo>=</mo><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#963;</mi><mi mathvariant=\"normal\">A</mi><msup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>4</mn></mrow></msup></math><br /><math><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">T</mi><mo>=</mo></math> constant<br /><math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#963;</mi><msub><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>4</mn></mrow></msubsup></mrow><mrow><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">&#963;</mi><msub><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>4</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></mrow></mfrac><mfrac><mrow><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>4</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>4</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><msubsup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>.</mo><mfrac><mrow><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>4</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mn>4</mn></mrow></msubsup></mrow></mfrac></math><br /><math><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><mo>=</mo><msup><mrow><mn>400</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>.</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></math><br /><math><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><mn>16</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></math><br /><math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">A</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">B</mi></mrow></msub></mrow></mfrac><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>16</mn></mrow><mrow><mn>1</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></msup><mo>=</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a39f23ac7d519f9b27a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "Parallel rays of light of intensity <math><mi mathvariant=\"normal\">I</mi><mo>=</mo><mn>912</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">W</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> are incident on a spherical black body kept in surroundings of temperature 300 K. Take Stefan-Boltzmann constant <math><mi mathvariant=\"normal\">&#963;</mi><mo>=</mo><mn>5.7</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>-8</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">W</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></math> and assume that the energy exchange with the surroundings is only through radiation. The final steady state temperature of the black body is close to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AL7Do",
+        "text": "330 K",
+        "image": null
+      },
+      {
+        "id": "kDmDj",
+        "text": "660 K",
+        "image": null
+      },
+      {
+        "id": "ISXjD",
+        "text": "990 K",
+        "image": null
+      },
+      {
+        "id": "vms7j",
+        "text": "1550 K",
+        "image": null
+      }
+    ],
+    "correct_answer": "AL7Do",
+    "solution_text": "Rate of radiation energy lost by the sphere   = Rate of radiation energy incident on it<br > <math><mo>⇒</mo><mi mathvariant=\"normal\">σ</mi><mo>×</mo><mn>4</mn><mi mathvariant=\"normal\">π</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>300</mn></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfenced><mo>=</mo><mn>912</mn><mo>×</mo><mi mathvariant=\"normal\">π</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">T</mi><mo>=</mo><msqrt><mn>11</mn></msqrt><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>≈</mo><mn>330</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">K</mi></math>",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a18f23ac7d519f9b14c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Three very large plates of same area are kept parallel and close to each other. They are considered as ideal black surfaces and have very high thermal conductivity. The first and third plates are maintained at temperatures $2 T$ and $3 T$ respectively. The temperature of the middle (i.e. second) plate under steady state condition is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QsRl1",
+        "text": "$\\left(\\frac{65}{2}\\right)^{1 / 4} T$",
+        "image": null
+      },
+      {
+        "id": "JX8v6",
+        "text": "$\\left(\\frac{97}{4}\\right)^{1 / 4} T$",
+        "image": null
+      },
+      {
+        "id": "QzbAj",
+        "text": "$\\left(\\frac{97}{2}\\right)^{1 / 4} T$",
+        "image": null
+      },
+      {
+        "id": "Z29xb",
+        "text": "$(97)^{1 / 4} T$",
+        "image": null
+      }
+    ],
+    "correct_answer": "QzbAj",
+    "solution_text": "Under steady conditions, the heat gained per second by a plate is equal to the heat released per second by the plate.\r\n\r\n$\\begin{array}{l}\r\n\r\n\\frac{\\text { Heat gained }}{\\text { Second }}[\\text { by }(2) \\text { from }(1)]+\\frac{\\text { Heat gained }}{\\text { Second }} \\\\\r\n\r\n{\\left[\\left(\\text { by }((2) \\text { from }(3)]=\\frac{\\text { Heat gained }}{\\text { Second }} \\text { (by } 2\\right)\\right.}\r\n\r\n\\end{array}$\r\n\r\n$\\begin{array}{ll}\\therefore \\quad & \\sigma A(2 T)^{4}+\\sigma A(3 T)^{4} \\\\ & =\\sigma(2 A)(T)^{4} \\\\ \\therefore \\quad & T=\\left[\\frac{97}{2}\\right]^{1 / 4} T\\end{array}$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CU3UHsWLck3S_PsQWHmTDkId9HzReLFaovVG6Io1GJs.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b04e",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Two spherical bodies $A$ (radius $6 \\mathrm{~cm}$ ) and $B$ (radius $18 \\mathrm{~cm}$ ) are at temperatures $T_1$ and $T_2$, respectively. The maximum intensity in the emission spectrum of $A$ is at $500 \\mathrm{~nm}$ and in that of $B$ is at $1500 \\mathrm{~nm}$. Considering them to be black bodies, what will be the ratio of the rate of total energy radiated by $A$ to that of $B$ ?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "$$\n\\begin{aligned}\n& \\text { } \\lambda_m \\propto \\frac{1}{T} \\\\\n& \\therefore \\frac{\\lambda_A}{\\lambda_B}=\\frac{T_B}{T_A}=\\frac{500}{1500}=\\frac{1}{3} \\\\\n& E \\propto T^4 A \\text { (where } A=\\text { surface area } \\\\\n& =4 \\pi R^2 \\text { ) } \\\\\n& \\therefore E \\propto T^4 R^2 \\\\\n& \\frac{E_A}{E_B}=\\left(\\frac{T_A}{T_B}\\right)^4\\left(\\frac{R_A}{R_B}\\right)^2 \\\\\n& =(3)^4\\left(\\frac{6}{18}\\right)^2=9\n\\end{aligned}\n$$\n$\\therefore$ Answer is 9 .",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b169c5f23ac7d519f9ae4f",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A black body of temperature $T$ is inside chamber of temperature $T_0$. Now, the closed chamber is slightly opened to sun such that temperature of black body $(T)$ and chamber $\\left(T_0\\right)$ remains constant.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nmdq3Fzc9vK4geUz_PKd_J9H2Qd2sBve2ZFny1StM6U.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rOrh5",
+        "text": "\nBlack body will absorb more radiation\n",
+        "image": null
+      },
+      {
+        "id": "1vloJ",
+        "text": "\nBlack body will absorb less radiation\n",
+        "image": null
+      },
+      {
+        "id": "EcCmT",
+        "text": "\nBlack body emit more energy\n",
+        "image": null
+      },
+      {
+        "id": "gOj2J",
+        "text": "\nNone of these",
+        "image": null
+      }
+    ],
+    "correct_answer": "gOj2J",
+    "solution_text": "Since, the temperature of black body is constant, total heat absorbed $=$ total heat radiated.",
+    "solution_image": null,
+    "topic": "Radiation"
+  },
+  {
+    "question_id": "64b16a52f23ac7d519f9b35d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "The ends Q and R of two thin wires, PQ and RS, are soldered (joined) together. Initially each of the wires has a length of 1m at <math><msup><mrow><mn>10</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi><mo>.</mo></math> Now the end P is maintained at <math><msup><mrow><mn>10</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi><mo>,</mo></math> while the end S is heated and maintained at <math><msup><mrow><mn>400</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi><mo>.</mo></math> The system is thermally insulated from its surroundings. If the thermal conductivity of wire PQ is twice that of the wire RS and the coefficient of linear thermal expansion of PQ is <math><mn>1.2</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mi>&#160;</mi><msup><mrow><mi>K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo></math> the change in length of the wire PQ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4tTIY",
+        "text": "0.78 mm",
+        "image": null
+      },
+      {
+        "id": "VmpVY",
+        "text": "0.90 mm",
+        "image": null
+      },
+      {
+        "id": "SybKC",
+        "text": "1.56 mm",
+        "image": null
+      },
+      {
+        "id": "Ubtio",
+        "text": "2.34 mm",
+        "image": null
+      }
+    ],
+    "correct_answer": "4tTIY",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_2.jpg\"/><br >Heat flow from P to Q<br ><math><mfrac><mrow><mi>d</mi><mi>Q</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi><mi>A</mi><mfenced separators=\"|\"><mrow><mi>T</mi><mo>-</mo><mn>10</mn></mrow></mfenced></mrow><mrow><mn>1</mn></mrow></mfrac></math><br >Heat flow from Q to S<br ><math><mfrac><mrow><mi>d</mi><mi>Q</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>K</mi><mi>A</mi><mi> </mi><mo>(</mo><mn>400</mn><mo>-</mo><mi>T</mi><mo>)</mo></mrow><mrow><mn>1</mn></mrow></mfrac></math><br >At steady state heat flow is same in whole combination<br ><math><mfrac><mrow><mn>2</mn><mi>K</mi><mi>A</mi><mfenced separators=\"|\"><mrow><mi>T</mi><mo>-</mo><mn>10</mn></mrow></mfenced></mrow><mrow><mn>1</mn></mrow></mfrac><mo>=</mo><mi>K</mi><mi>A</mi><mfenced separators=\"|\"><mrow><mn>400</mn><mo>-</mo><mi>T</mi></mrow></mfenced></math><br ><math><mn>2</mn><mi>T</mi><mo>-</mo><mn>20</mn><mo>=</mo><mn>400</mn><mo>-</mo><mi>T</mi></math><br ><math><mn>3</mn><mi>T</mi><mo>=</mo><mn>420</mn></math><br ><math><mi>T</mi><mo>=</mo><msup><mrow><mn>140</mn></mrow><mrow><mi>o</mi></mrow></msup></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_2_A_.jpg\"/><br >Temp of junction is <math><msup><mrow><mn>140</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi></math><br >Temp at a distance x from end P<br >Is <math><msub><mrow><mi>T</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mn>130</mn><mi>x</mi><mo>+</mo><msup><mrow><mn>10</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mfenced></math><br >Change in length dx is dy<br ><math><mi>d</mi><mi>y</mi><mo>=</mo><mi>α</mi><mi>d</mi><mi>x</mi><mfenced separators=\"|\"><mrow><msub><mrow><mi>T</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>-</mo><mn>10</mn></mrow></mfenced></math><br ><math><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mo>∆</mo><mi>y</mi></mrow></munderover><mrow><mi>d</mi><mi>y</mi></mrow></mrow><mo>=</mo><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><mi>α</mi><mi>d</mi><mi>x</mi></mrow></mrow><mfenced separators=\"|\"><mrow><mn>130</mn><mi>x</mi><mo>+</mo><mn>10</mn><mo>-</mo><mn>10</mn></mrow></mfenced></math><br ><math><mo>∆</mo><mi>y</mi><mo>=</mo><msubsup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mi>α</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mn>130</mn></mrow></mfenced></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup></math><br ><math><mo>∆</mo><mi>y</mi><mo>=</mo><mn>1.2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>×</mo><mn>65</mn></math><br ><math><mo>∆</mo><mi>y</mi><mo>=</mo><mn>78.0</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mi>m</mi><mo>=</mo><mn>0.78</mn><mi> </mi><mi>m</mi><mi>m</mi></math>",
+    "solution_image": null,
+    "topic": "Thermal Expansion"
+  },
+  {
+    "question_id": "64b16a0cf23ac7d519f9b0d8",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Steel wire of length $L$ at $40^{\\circ} \\mathrm{C}$ is suspended from the ceiling and then a mass $m$ is hung from its free end. The wire is cooled down from $40^{\\circ} \\mathrm{C}$ to $30^{\\circ} \\mathrm{C}$ to regain its original length $L$. The coefficient of linear thermal expansion of the steel is $10^{-5} /{ }^{\\circ} \\mathrm{C}$, Young's modulus of steel is $10^{11} \\mathrm{~N} / \\mathrm{m}^2$ and radius of the wire is $1 \\mathrm{~mm}$. Assume that $L>$ diameter of the wire. Then, the value of $m$ in $\\mathrm{kg}$ is nearly",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "$\\Delta l_1=\\frac{F L}{A Y}=\\frac{m g L}{\\pi r^2 Y}=$ Increase in length $\\Delta l_2=L \\alpha \\Delta \\theta=$ Decrease in length To regain its original length,\n$$\n\\begin{aligned}\n& \\Delta l_1 & =\\Delta l_2 \\\\\n\\therefore & \\frac{m g L}{\\pi r^2 Y} & =L \\alpha \\Delta \\theta \\\\\n\\therefore & m & =\\left(\\frac{r^2 Y \\alpha \\Delta \\theta}{g}\\right)\n\\end{aligned}\n$$\nSubstituting the values, we get\n$$\nm \\simeq 3 \\mathrm{~kg}\n$$\n$\\therefore$ Answer is 3 .\nAnalysis of Question\nQuestion is very simple. In my opinion any student who have gone through the syllabus once can solve this problem easily.",
+    "solution_image": null,
+    "topic": "Thermal Expansion"
+  },
+  {
+    "question_id": "64b16a71f23ac7d519f9b479",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "A liquid at <math><msup><mrow><mn>30</mn><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></math> is poured very slowly into a Calorimeter that is at temperature of <math><msup><mrow><mn>110</mn><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi><mo>.</mo></math> The boiling temperature of the liquid is <math><msup><mrow><mn>80</mn><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi><mo>.</mo></math> It is found that the first <math><mn>5</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">m</mi></math> of the liquid completely evaporates. After pouring another <math><mn>80</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">m</mi></math> of the liquid the equilibrium temperature is found to be <math><msup><mrow><mn>50</mn><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi><mo>.</mo></math> The ratio of the Latent heat of the liquid to its specific heat will be ______ <math><msup><mrow><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi><mo>.</mo></math><br />[Neglect the heat exchange with surrounding]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "270",
+    "solution_text": "Note: The information about condition of calorimeter is not given in question, so following two cases arise -<br />Case <math><mn>1</mn></math> : If calorimeter is closed (vapour not allowed to escape)<br />Heat gain <math><mo>=</mo></math> Heat loss<br /><math><mn>5</mn><mi>S</mi><mo>(</mo><mn>80</mn><mo>-</mo><mn>30</mn><mo>)</mo><mo>+</mo><mn>5</mn><mi>L</mi><mo>=</mo><mi>W</mi><mo>(</mo><mn>110</mn><mo>-</mo><mn>80</mn><mo>)</mo><mo>→</mo></math> (as first <math><mn>5</mn><mi>&nbsp;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">m</mi></math> liquid is evaporated)<br /><math><mi>S</mi><mo>=</mo></math> Specific heat of liquid<br /><math><mi>L</mi><mo>=</mo></math> Latent heat of liquid<br />W=Water equivalent of calorimeter<br /><math><mo>⇒</mo><mn>250</mn><mi>S</mi><mo>+</mo><mn>5</mn><mi>L</mi><mo>=</mo><mi>W</mi><mo>×</mo><mn>30</mn></math> ...(i)<br />Now <math><mn>80</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">m</mi></math> liquid is poured,<br />Heat gain <math><mo>=</mo></math> Heat loss<br />Here final temperature <math><mo>=</mo><mn>50</mn><mo>°</mo><mi>C</mi></math><br /><math><mo>∴</mo><mn>80</mn><mo>×</mo><mi>S</mi><mo>×</mo><mn>20</mn><mo>=</mo><mn>5</mn><mi>L</mi><mo>+</mo><mn>5</mn><mi>S</mi><mo>×</mo><mn>30</mn><mo>+</mo><mi>W</mi><mo>×</mo><mn>30</mn></math> ...(ii)<br />From (i) and (ii)<br /><math><mfrac><mrow><mi>L</mi></mrow><mrow><mi>S</mi></mrow></mfrac><mo>=</mo><mn>120</mn><mtext> </mtext><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">w</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi></math><br />Case <math><mn>2</mn></math> : If calorimeter is open and after evaporation liquid escapes<br /><math><mn>5</mn><mo>×</mo><mi>S</mi><mo>×</mo><mn>50</mn><mo>+</mo><mn>5</mn><mi>L</mi><mo>=</mo><mi>W</mi><mo>×</mo><mn>30</mn></math> ...(i)<br />(as first <math><mn>5</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">m</mi></math> liquid is evaporated)<br /><math><mn>80</mn><mo>×</mo><mi>S</mi><mo>×</mo><mn>20</mn><mo>=</mo><mi>W</mi><mo>×</mo><mn>30</mn></math> ...(ii)<br />(after pouring <math><mn>80</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&nbsp;</mi></math> liquid, the equilibrium temperature is <math><mn>50</mn><mo>°</mo><mi>C</mi></math><br /><math><mo>⇒</mo><mn>80</mn><mo>×</mo><mi>S</mi><mo>×</mo><mn>20</mn><mo>=</mo><mi>S</mi><mo>×</mo><mi>S</mi><mo>×</mo><mn>50</mn><mo>+</mo><mn>5</mn><mi>L</mi></math> (using (i) and (ii)<br /><math><mi>S</mi><mi>L</mi><mo>=</mo><mn>1350</mn><mtext> </mtext><mi>S</mi></math><br /><math><mfrac><mrow><mi>L</mi></mrow><mrow><mi>S</mi></mrow></mfrac><mo>=</mo><mn>270</mn></math>",
+    "solution_image": null,
+    "topic": "Thermometry"
+  },
+  {
+    "question_id": "64b16a4cf23ac7d519f9b329",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "<p>A water cooler of storage capacity 120 litres can cool water at constant rate of P watts. In a closed circulation system (as shown schematically in the figure), the water from the cooler is used to cool an external device that generates constantly 3 kW of heat (thermal load). The temperature of water fed into the device cannot exceed <math><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi></math> and the entire stored 120 litres of water is initially cooled to <math><msup><mrow><mn>10</mn></mrow><mrow><mi>o</mi></mrow></msup><mi>C</mi></math> . The entire system is thermally insulated. The minimum value of P (in watts) for which the device can be operated for 3 hours is:<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_4.jpg\"/><br >(Specific heat of water is 4.2 kJ <math><mi>k</mi><msup><mrow><mi>g</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi> </mi><msup><mrow><mi>K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and the density of water is 1000 kg <math><msup><mrow><mi>m</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></math> )</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "apQHI",
+        "text": "1600",
+        "image": null
+      },
+      {
+        "id": "a5gkL",
+        "text": "2067",
+        "image": null
+      },
+      {
+        "id": "6isa4",
+        "text": "2533",
+        "image": null
+      },
+      {
+        "id": "xUHyt",
+        "text": "3933",
+        "image": null
+      }
+    ],
+    "correct_answer": "a5gkL",
+    "solution_text": "<math><mn>3000</mn><mo>-</mo><mi>P</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mn>120</mn><mo>×</mo><mn>1</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>4.2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfenced><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math>  <br > <math><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>60</mn><mo>×</mo><mn>60</mn><mo>×</mo><mn>3</mn></mrow></mfrac></math>  <br > <math><mi>P</mi><mo>=</mo><mn>2067</mn><mi>W</mi></math>",
+    "solution_image": null,
+    "topic": "Thermometry"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b053",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A piece of ice (heat capacity $=2100 \\mathrm{~J} \\mathrm{~kg}^{-1}{ }^{\\circ} \\mathrm{C}^{-1}$ and latent heat $=3.36 \\times 10^5 \\mathrm{~J} \\mathrm{~kg}^{-1}$ ) of mass $\\mathrm{m}$ gram is at $-5^{\\circ} \\mathrm{C}$ at atmospheric pressure. It is given $420 \\mathrm{~J}$ of heat so that the ice starts melting. Finally when the ice-water mixture is in equilibrium, it is found that $1 \\mathrm{~g}$ of ice has melted. Assuming there is no other heat exchange in the process, the value of $m$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "Language of question is slightly wrong. As heat capacity and specific heat are two different physical quantities. Unit $\\mathrm{J}-\\mathrm{kg}^{-1} \\cdot{ }^{\\circ} \\mathrm{C}^{-1}$. The heat capacity given in the question is really the specific heat. Now applying the heat exchange equation.\n$$\n\\begin{array}{r}\n420=\\left(m \\times 10^{-3}\\right)(2100)(5)+\\left(1 \\times 10^{-3}\\right) \\\\\n\\left(3.36 \\times 10^5\\right)\n\\end{array}\n$$\nSolving this equation we get,\n$$\nm=8 \\mathrm{~g}\n$$\n$\\therefore$ The correct answer is 8 .",
+    "solution_image": null,
+    "topic": "Thermometry"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af0e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Column I gives some devices and Column II gives some processes on which the functioning of these devices depend. Match the devices in Column I with the processes in Column II and indicate your answer by darkening appropriate bubbles in the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3ApZB5GHsSU_-qwfqXns5dFJm436CWuGQKaMFbn4T_Y.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AUqDl",
+        "text": "\nA-s; B-q; C-p, q; D-q\n",
+        "image": null
+      },
+      {
+        "id": "bgetB",
+        "text": "\nA-p; B-r; C-r, s; D-p\n",
+        "image": null
+      },
+      {
+        "id": "8crIW",
+        "text": "\nA-s; B-p; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "sVNW4",
+        "text": "\nA-p; B-r; C-p, q; D-p",
+        "image": null
+      }
+    ],
+    "correct_answer": "AUqDl",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Thermometry"
+  }
+]

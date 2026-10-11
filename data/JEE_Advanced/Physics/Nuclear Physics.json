@@ -1,0 +1,1139 @@
+[
+  {
+    "question_id": "64b16a95f23ac7d519f9b5c1",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "The binding energy of nucleons in a nucleus can be affected by the pairwise Coulomb repulsion. Assume that all nucleons are uniformly distributed inside the nucleus. Let the binding energy of a proton be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup></math> and the binding energy of a neutron be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup></math> in the nucleus.<br />Which of the following statement(s) is(are) correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oECM5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup><mo>-</mo><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup></math> is proportional to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mfenced><mrow><mi>Z</mi><mo>-</mo><mn>1</mn></mrow></mfenced></math>&nbsp;where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math>&nbsp;is the atomic number of the nucleus.",
+        "image": null
+      },
+      {
+        "id": "tVZMy",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup><mo>-</mo><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup></math> is proportional to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>A</mi><mrow><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></math> where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is the mass number of the nucleus.",
+        "image": null
+      },
+      {
+        "id": "7Mtfb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup><mo>-</mo><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup></math> is positive.",
+        "image": null
+      },
+      {
+        "id": "vAvWc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup></math> increases if the nucleus undergoes a beta decay emitting a positron.",
+        "image": null
+      }
+    ],
+    "correct_answer": "vAvWc",
+    "solution_text": "<p>Total binding energy (without considering repulsions),</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>b</mi></msub><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><mi>Z</mi><msub><mi>m</mi><mi>p</mi></msub><mo>+</mo><mfenced><mrow><mi>A</mi><mo>-</mo><mi>Z</mi></mrow></mfenced><msub><mi>m</mi><mi>n</mi></msub><mo>-</mo><msub><mi>m</mi><mi>x</mi></msub></mrow></mfenced><msup><mi>c</mi><mn>2</mn></msup></math></p><p>Where, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>X</mi><mprescripts></mprescripts><mi>Z</mi><mi>A</mi></mmultiscripts></math> is the nuclei under consideration.</p><p>Now, considering repulsion :</p><p>Number of proton pairs&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mmultiscripts><mi>C</mi><mn>2</mn><none></none><mprescripts></mprescripts><none></none><mi>Z</mi></mmultiscripts></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math> Thus repulsion energy&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mfrac><mrow><mi>Z</mi><mfenced><mrow><mi>Z</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mrow><mn>4</mn><mi>&#960;</mi><msub><mi>&#1013;</mi><mn>0</mn></msub></mrow></mfrac><mfrac><msup><mi>e</mi><mn>2</mn></msup><mi>R</mi></mfrac></math></p><p>Where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is the radius of the nucleus</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup><mo>-</mo><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup><mo>&#8733;</mo><mi>Z</mi><mfenced><mrow><mi>Z</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>&#160;&#160;</mo><mo>&#8756;</mo></math> there will be no repulsion term for neutrons.</p><p>Also, since&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>0</mn></msub><msup><mi>A</mi><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup><mo>-</mo><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup><mo>&#8733;</mo><msup><mi>A</mi><mrow><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></math></p><p>Because of repulsion among protons,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup><mo>&#60;</mo><msubsup><mi>E</mi><mi>b</mi><mi>n</mi></msubsup></math></p><p>Since in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>+</mo></msup></math>&nbsp;decay, number of protons decrease <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math> repulsion would decrease</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msubsup><mi>E</mi><mi>b</mi><mi>p</mi></msubsup></math> increases</p>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a94f23ac7d519f9b5b5",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>The minimum kinetic energy needed by an alpha particle to cause the nuclear reaction <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">N</mi><mprescripts></mprescripts><mn>7</mn><mn>16</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi>He</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts><mo>&#8594;</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><mprescripts></mprescripts><mn>1</mn><mn>1</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">O</mi><mprescripts></mprescripts><mn>8</mn><mn>19</mn></mmultiscripts></math> in a laboratory frame is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;(in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>MeV</mi></math>). Assume that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">N</mi><mprescripts></mprescripts><mn>7</mn><mn>16</mn></mmultiscripts></math> is at rest in the laboratory frame. The masses of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">N</mi><mprescripts></mprescripts><mn>7</mn><mn>16</mn></mmultiscripts><mo>,</mo><mo>&#160;</mo><mmultiscripts><mi>He</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts><mo>,</mo><mo>&#160;</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><mprescripts></mprescripts><mn>1</mn><mn>1</mn></mmultiscripts></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">O</mi><mprescripts></mprescripts><mn>8</mn><mn>19</mn></mmultiscripts></math> can be taken to be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn><mo>.</mo><mn>006</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi><mo>,</mo><mo>&#160;</mo><mn>4</mn><mo>.</mo><mn>003</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>008</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>19</mn><mo>.</mo><mn>003</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi></math>, respectively, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">u</mi><mo>=</mo><mn>930</mn><mo>&#160;</mo><mi>MeV</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">c</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;is</p><p>If the numerical value has more than two decimal places, truncate/round-off the value to TWO decimal places.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.33",
+    "solution_text": "<blockquote><p>Given here:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi mathvariant=\"normal\">N</mi><mprescripts></mprescripts><mn>7</mn><mn>16</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi>He</mi><mprescripts></mprescripts><mn>2</mn><mn>4</mn></mmultiscripts><mo>&#8594;</mo><mmultiscripts><mi mathvariant=\"normal\">H</mi><mprescripts></mprescripts><mn>1</mn><mn>1</mn></mmultiscripts><mo>+</mo><mmultiscripts><mi mathvariant=\"normal\">O</mi><mprescripts></mprescripts><mn>8</mn><mn>19</mn></mmultiscripts></math></p><p>Energy absorbed in the reaction is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mfenced><mrow><msub><mi>m</mi><mi mathvariant=\"normal\">N</mi></msub><mo>+</mo><msub><mi>m</mi><mi>He</mi></msub><mo>-</mo><msub><mi>m</mi><mi mathvariant=\"normal\">H</mi></msub><mo>-</mo><msub><mi>m</mi><mi mathvariant=\"normal\">O</mi></msub></mrow></mfenced><mo>&#215;</mo><msup><mi>c</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>16</mn><mo>.</mo><mn>006</mn><mo>+</mo><mn>4</mn><mo>.</mo><mn>003</mn><mo>-</mo><mn>1</mn><mo>.</mo><mn>008</mn><mo>-</mo><mn>19</mn><mo>.</mo><mn>003</mn></mrow></mfenced><mo>&#215;</mo><mn>930</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>1</mn><mo>.</mo><mn>86</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>86</mn><mo>&#160;</mo><mi>MeV</mi></math>&nbsp;</p><p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math>&nbsp;is velocity of alpha particle.</p><p>Now, the maximum loss of kinetic energy<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mrow><mi>m</mi><mo>&#215;</mo><mn>4</mn><mi>m</mi></mrow><mrow><mn>5</mn><mi>m</mi></mrow></mfrac><mo>&#215;</mo><msup><mi>v</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mn>4</mn></mfrac><mo>&#215;</mo><mi>Q</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>5</mn><mn>4</mn></mfrac><mo>&#215;</mo><mfenced><mrow><mn>1</mn><mo>.</mo><mn>86</mn></mrow></mfenced><mo>&#160;</mo><mi>MeV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>.</mo><mn>325</mn><mo>&#160;</mo><mi>MeV</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>n</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>33</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a77f23ac7d519f9b4ac",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Suppose a <math><mmultiscripts><mrow><mi>R</mi><mi>a</mi></mrow><mprescripts></mprescripts><mrow><mn>88</mn></mrow><mrow><mn>226</mn></mrow></mmultiscripts></math> nucleus at rest and in ground state undergoes <math><mi mathvariant=\"normal\">&#945;</mi></math> -decay to a <math><mmultiscripts><mrow><mi>R</mi><mi>n</mi></mrow><mprescripts></mprescripts><mrow><mn>86</mn></mrow><mrow><mn>222</mn></mrow></mmultiscripts></math> nucleus in its excited state. The kinetic energy of the emitted <math><mi mathvariant=\"normal\">&#945;</mi></math> particle is found to be <math><mn>4.44</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">V</mi><mo>.</mo><mmultiscripts><mrow><mi>R</mi><mi>n</mi></mrow><mprescripts></mprescripts><mrow><mn>86</mn></mrow><mrow><mn>222</mn></mrow></mmultiscripts></math> nucleus then goes to its ground state by <math><mi mathvariant=\"normal\">&#947;</mi></math> -decay. The energy of the emitted <math><mi mathvariant=\"normal\">&#947;</mi></math> -photon is _______ <math><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">V</mi><mo>,</mo></math><br />[Given: atomic mass of <math><msubsup><mrow><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mn>88</mn></mrow><mrow><mn>226</mn></mrow></msubsup><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>226.005</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi><mo>,</mo></math> atomic mass of <math><msubsup><mrow><mi mathvariant=\"normal\">&#160;</mi></mrow><mrow><mn>86</mn></mrow><mrow><mn>222</mn></mrow></msubsup><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>222.000</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi><mo>,</mo></math> atomic mass of <math><mi mathvariant=\"normal\">&#945;</mi></math> particle <math><mo>=</mo><mn>4.000</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">u</mi><mo>,</mo><mtext>&#8201;</mtext><mn>1</mn><mi mathvariant=\"normal\">u</mi><mo>=</mo><mn>931</mn><mtext>&#8201;</mtext><mrow><mrow><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">V</mi></mrow><mo>/</mo><mrow><msup><mrow><mi mathvariant=\"normal\">c</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>,</mo></mrow></mrow><mi mathvariant=\"normal\">c</mi></math> is speed of the light]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "135",
+    "solution_text": "<math><mo>⇒</mo><mi>&nbsp;</mi></math> Mass defect <math><mo>∆</mo><mi>m</mi><mo>=</mo><mn>226.005</mn><mo>-</mo><mn>222.000</mn><mo>-</mo><mn>4.000</mn><mi>&nbsp;</mi><mfenced close=] open=[ separators=|><mrow><mmultiscripts><mrow><mi>R</mi><mi>a</mi></mrow><mprescripts></mprescripts><mrow><mn>88</mn></mrow><mrow><mn>226</mn></mrow></mmultiscripts><mi mathvariant=normal>&nbsp;</mi><mover accent=false><mo>→</mo><mrow><mi>α</mi><mo>-</mo><mi mathvariant=normal>d</mi><mi mathvariant=normal>e</mi><mi mathvariant=normal>c</mi><mi mathvariant=normal>a</mi><mi mathvariant=normal>y</mi></mrow></mover><mmultiscripts><mrow><mi>R</mi><mi>n</mi><mo>+</mo><msubsup><mrow><mi mathvariant=normal>&nbsp;</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>4</mn></mrow></msubsup><msub><mrow><mi mathvariant=normal>H</mi></mrow><mrow><mi mathvariant=normal>e</mi></mrow></msub><mo>+</mo><mi>γ</mi></mrow><mprescripts></mprescripts><mrow><mn>86</mn></mrow><mrow><mn>222</mn></mrow></mmultiscripts></mrow></mfenced></math><br /><math><mo>=</mo><mn>0.005</mn><mi>&nbsp;</mi><mi mathvariant=normal>a</mi><mi mathvariant=normal>m</mi><mi mathvariant=normal>u</mi></math><br /><math><mo>∴</mo><mi>Q</mi><mi>&nbsp;</mi><mi mathvariant=normal>v</mi><mi mathvariant=normal>a</mi><mi mathvariant=normal>l</mi><mi mathvariant=normal>u</mi><mi mathvariant=normal>e</mi><mo>=</mo><mn>0.005</mn><mo>×</mo><mn>931.5</mn><mo>=</mo><mn>4.655</mn><mi mathvariant=normal>&nbsp;</mi><mi mathvariant=normal>M</mi><mi mathvariant=normal>e</mi><mi mathvariant=normal>V</mi></math><br />Also <math><mfrac><mrow><mi>K</mi><mo>.</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>α</mi></mrow></msub></mrow><mrow><mi>K</mi><mo>.</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>R</mi><mi>n</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>m</mi></mrow><mrow><mi>R</mi><mi>n</mi></mrow></msub></mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mi>α</mi></mrow></msub></mrow></mfrac></math><br /><math><mo>⇒</mo><mi>K</mi><mo>.</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>R</mi><mi>n</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>m</mi></mrow><mrow><mi>α</mi></mrow></msub></mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mi>R</mi><mi>n</mi></mrow></msub></mrow></mfrac><mo>.</mo><mi>K</mi><mo>.</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>α</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>222</mn></mrow></mfrac><mo>×</mo><mn>4.44</mn><mo>=</mo><mn>0.08</mn><mi>&nbsp;</mi><mi mathvariant=normal>M</mi><mi mathvariant=normal>e</mi><mi mathvariant=normal>V</mi></math><br /><math><mo>∴</mo><mi>&nbsp;</mi></math> Energy of <math><mi>γ</mi><mo>-</mo><mi mathvariant=normal>P</mi><mi mathvariant=normal>h</mi><mi mathvariant=normal>o</mi><mi mathvariant=normal>t</mi><mi mathvariant=normal>o</mi><mi mathvariant=normal>n</mi><mo>=</mo><mn>4.655</mn><mo>-</mo><mfenced separators=|><mrow><mn>4.44</mn><mo>+</mo><mn>0.08</mn></mrow></mfenced><mi>&nbsp;</mi><mfenced close=] open=[ separators=|><mrow><msub><mrow><mi>E</mi></mrow><mrow><mi>γ</mi></mrow></msub><mo>=</mo><mi>Q</mi><mo>-</mo><mfenced separators=|><mrow><mi>K</mi><msub><mrow><mi>E</mi></mrow><mrow><mi>α</mi></mrow></msub><mo>+</mo><mi>K</mi><msub><mrow><mi>E</mi></mrow><mrow><mi mathvariant=normal>R</mi><mi mathvariant=normal>n</mi></mrow></msub></mrow></mfenced></mrow></mfenced></math><br /><math><mo>=</mo><mn>0.135</mn><mi>&nbsp;</mi><mi mathvariant=normal>M</mi><mi mathvariant=normal>e</mi><mi mathvariant=normal>V</mi><mo>=</mo><mn>135</mn><mi mathvariant=normal>&nbsp;</mi><mi mathvariant=normal>K</mi><mi mathvariant=normal>e</mi><mi mathvariant=normal>V</mi></math>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a52f23ac7d519f9b35c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "The electrostatic energy of Z protons uniformly distributed throughout a spherical nucleus of radius R is given by <math><mi>E</mi><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mfrac><mrow><mi>Z</mi><mfenced separators=\"|\"><mrow><mi>Z</mi><mo>-</mo><mn>1</mn></mrow></mfenced><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn><mi>&#960;</mi><msub><mrow><mi>&#949;</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>R</mi></mrow></mfrac></math> The measured masses of the neutron, <math><mmultiscripts><mrow><mi>H</mi></mrow><mprescripts></mprescripts><mrow><mn>1</mn></mrow><mrow><mn>1</mn></mrow></mmultiscripts><mo>,</mo><mi>&#160;</mi><mmultiscripts><mrow><mi>O</mi></mrow><mprescripts></mprescripts><mrow><mn>8</mn></mrow><mrow><mn>15</mn></mrow></mmultiscripts></math> are 1.008665 u, 1.007825 u, 15.000109 u and 15.003065 u respectively. Given that the radii of both the <math><mmultiscripts><mrow><mi>N</mi></mrow><mprescripts></mprescripts><mrow><mn>7</mn></mrow><mrow><mn>15</mn></mrow></mmultiscripts><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mmultiscripts><mrow><mi>O</mi></mrow><mprescripts></mprescripts><mrow><mn>8</mn></mrow><mrow><mn>15</mn></mrow></mmultiscripts></math> nuclei are same, 1u = 931.5 Me V/ <math><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup></math> (c is the speed of light) and <math><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mfenced separators=\"|\"><mrow><mn>4</mn><mi>&#960;</mi><msub><mrow><mi>&#1013;</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow></mfrac><mo>=</mo><mn>1.44</mn><mi>&#160;</mi><mi>M</mi><mi>e</mi><mi>V</mi><mi>&#160;</mi><mi>f</mi><mi>m</mi><mo>.</mo></math> Assuming that the difference between the binding energies of <math><mmultiscripts><mrow><mi>N</mi></mrow><mprescripts></mprescripts><mrow><mn>7</mn></mrow><mrow><mn>15</mn></mrow></mmultiscripts><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mmultiscripts><mrow><mi>O</mi></mrow><mprescripts></mprescripts><mrow><mn>8</mn></mrow><mrow><mn>15</mn></mrow></mmultiscripts></math> is purely due to the electrostatic energy, the radius of either of the nuclei is <math><mfenced separators=\"|\"><mrow><mn>1</mn><mi>&#160;</mi><mi>f</mi><mi>m</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>15</mn></mrow></msup><mi>m</mi></mrow></mfenced></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HerZM",
+        "text": "2.85 fm",
+        "image": null
+      },
+      {
+        "id": "u0WpG",
+        "text": "3.03 fm",
+        "image": null
+      },
+      {
+        "id": "ldXxj",
+        "text": "3.42 fm",
+        "image": null
+      },
+      {
+        "id": "h0IW1",
+        "text": "3.80 fm",
+        "image": null
+      }
+    ],
+    "correct_answer": "ldXxj",
+    "solution_text": "Electrostatic energy <math><mo>=</mo><mi>B</mi><msub><mrow><mi>E</mi></mrow><mrow><mi>N</mi></mrow></msub><mo>-</mo><mi>B</mi><msub><mrow><mi>E</mi></mrow><mrow><mi>O</mi></mrow></msub></math><br /><math><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>7</mn><msub><mrow><mi>M</mi></mrow><mrow><mi>H</mi></mrow></msub><mo>+</mo><mn>8</mn><msub><mrow><mi>M</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>-</mo><msub><mrow><mi>M</mi></mrow><mrow><mi>N</mi></mrow></msub></mrow></mfenced><mo>-</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>8</mn><msub><mrow><mi>M</mi></mrow><mrow><mi>H</mi></mrow></msub><mo>+</mo><mn>7</mn><msub><mrow><mi>M</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>-</mo><msub><mrow><mi>M</mi></mrow><mrow><mi>O</mi></mrow></msub></mrow></mfenced></mrow></mfenced><mo>&#215;</mo><msup><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><msub><mrow><mi>M</mi></mrow><mrow><mi>H</mi></mrow></msub><mo>+</mo><msub><mrow><mi>M</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>+</mo><msub><mrow><mi>M</mi></mrow><mrow><mi>O</mi></mrow></msub><mo>-</mo><msub><mrow><mi>M</mi></mrow><mrow><mi>N</mi></mrow></msub></mrow></mfenced><msup><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math><mo>=</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><mn>1.007825</mn><mo>+</mo><mn>1.008665</mn><mo>+</mo><mn>15.003065</mn><mo>-</mo><mn>15.000109</mn></mrow></mfenced><mo>&#215;</mo><mn>931.5</mn></math><br /><math><mo>=</mo><mo>+</mo><mn>3.5359</mn><mi>&#160;</mi><mi>M</mi><mi>e</mi><mi>V</mi></math><br /><math><mo>&#8710;</mo><mi>E</mi><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><mn>1.44</mn><mo>&#215;</mo><mn>8</mn><mo>&#215;</mo><mn>7</mn></mrow><mrow><mi>R</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><mn>1.44</mn><mo>&#215;</mo><mn>7</mn><mo>&#215;</mo><mn>6</mn></mrow><mrow><mi>R</mi></mrow></mfrac><mo>=</mo><mn>3.5359</mn></math><br /><math><mi>R</mi><mo>=</mo><mfrac><mrow><mn>3</mn><mo>&#215;</mo><mn>1.44</mn><mo>&#215;</mo><mn>14</mn></mrow><mrow><mn>5</mn><mo>&#215;</mo><mn>3.5359</mn></mrow></mfrac><mo>=</mo><mn>3.42</mn><mi>&#160;</mi><mi>f</mi><mi>m</mi></math>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b203",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\n\nThe mass of a nucleus ${ }_{Z}^{A} X$ is less than the sum of the masses of $(A-Z)$ number of neutrons and $Z$ number of protons in the nucleus. The energy equivalent to the corresponding mass difference is known as the binding energy of the nucleus. A heavy nucleus of mass $M$ can break into two light nuclei of masses $m_{1}$ and $m_{2}$ only if $\\left(m_{1}+m_{2}\\right) \\lt M$. Also two light nuclei of masses $m_{3}$ and $m_{4}$ can undergo complete fusion and form a heavy nucleus of mass $M^{\\prime}$ only if $\\left(m_{3}+m_{4}\\right) \\gt M^{\\prime}$. The masses of some neutral atoms are given in the table below:\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-GaR4maJgeTlDS6P7A6Nog1_synPmhtkOj_6ZCN3LHc.original.fullsize.png\"><br>\n\n$\\left(1 u=932 M e V / c^{2}\\right)$\n\n<br> <strong> Question: </strong>\n\nThe kinetic energy (in $k e V$ ) of the alpha particle, when the nucleus ${ }_{84}^{210} P o$ at rest undergoes alpha decay, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "K817O",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5320</mn></math>",
+        "image": null
+      },
+      {
+        "id": "FLGTj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5422</mn></math>",
+        "image": null
+      },
+      {
+        "id": "g6S49",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5707</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Nrtd5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5818</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "K817O",
+    "solution_text": "<math> <mrow> <msup> <mtext>84</mtext> <msup> <mtext>Po</mtext> <mtext>210</mtext> </msup> </msup> <mo>+</mo> <msup> <mn>2</mn> <msup> <mtext>He</mtext> <mn>4</mn> </msup> </msup> <mo>&#8594;</mo> <msup> <mtext>82</mtext> <msup> <mtext>Pb</mtext> <mtext>206</mtext> </msup> </msup> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>m</mtext> <mo>=</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msub> <mtext>M</mtext> <mtext>PO</mtext> </msub> <mo>-</mo> <msub> <mtext>M</mtext> <mtext>He</mtext> </msub> <mo>-</mo> <msub> <mtext>M</mtext> <mtext>Pb</mtext> </msub> </mrow> </mfenced> <mo>=</mo> <mtext>0.008421 u</mtext> </mrow> </math><br /><math> <mrow> <mtext>Q</mtext> <mo>=</mo> <mtext>0.008421</mtext> <mo>&#215;</mo> <mn>9</mn> <mn>3</mn> <mn>2</mn> <mtext>&#160;MeV</mtext> <mo>=</mo> <mn>5</mn> <mn>4</mn> <mn>2</mn> <mn>2</mn> <mtext>&#160;KeV</mtext> </mrow> </math><br /><math> <mrow> <msub> <mtext>K</mtext> <mi>&#945;</mi> </msub> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <mn>1</mn> <mn>0</mn> </mrow> <mrow> <mn>2</mn> <mn>1</mn> <mn>4</mn> </mrow> </mfrac> <mo>&#215;</mo> <mn>5</mn> <mn>4</mn> <mn>2</mn> <mn>2</mn> <mtext>&#160;KeV</mtext> <mo>=</mo> <mn>5</mn> <mn>3</mn> <mn>2</mn> <mn>0</mn> <mtext>&#160;KeV</mtext> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b202",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\n\nThe mass of a nucleus ${ }_{Z}^{A} X$ is less than the sum of the masses of $(A-Z)$ number of neutrons and $Z$ number of protons in the nucleus. The energy equivalent to the corresponding mass difference is known as the binding energy of the nucleus. A heavy nucleus of mass $M$ can break into two light nuclei of masses $m_{1}$ and $m_{2}$ only if $\\left(m_{1}+m_{2}\\right) \\lt M$. Also two light nuclei of masses $m_{3}$ and $m_{4}$ can undergo complete fusion and form a heavy nucleus of mass $M^{\\prime}$ only if $\\left(m_{3}+m_{4}\\right) \\gt M^{\\prime}$. The masses of some neutral atoms are given in the table below:\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-GaR4maJgeTlDS6P7A6Nog1_synPmhtkOj_6ZCN3LHc.original.fullsize.png\"><br>\n\n$\\left(1 u=932 M e V / c^{2}\\right)$\n\n<br> <strong> Question: </strong>\n\nThe correct statement is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YMeFh",
+        "text": "The nucelus <math> <mrow> <msubsup> <mspace></mspace> <mtext>3</mtext> <mtext>6</mtext> </msubsup> <mtext>Li</mtext> </mrow> </math> can emit an alpha particle.",
+        "image": null
+      },
+      {
+        "id": "VpSKo",
+        "text": "The nucleus <math> <mrow> <msubsup> <mspace></mspace> <mtext>84</mtext> <mtext>210</mtext> </msubsup> <mtext>Po</mtext> </mrow> </math> can emit a proton.",
+        "image": null
+      },
+      {
+        "id": "AMr7d",
+        "text": "Deuteron and alpha particle can undergo complete fusion.",
+        "image": null
+      },
+      {
+        "id": "zdw42",
+        "text": "The nuclei <math> <mrow> <msubsup> <mspace></mspace> <mtext>30</mtext> <mtext>70</mtext> </msubsup> <mtext>Zn</mtext> </mrow> </math> and <math> <mrow> <msubsup> <mspace></mspace> <mtext>34</mtext> <mtext>82</mtext> </msubsup> <mtext>Se</mtext> </mrow> </math> can undergo complete fusion.",
+        "image": null
+      }
+    ],
+    "correct_answer": "AMr7d",
+    "solution_text": "<math> <mrow> <mtext>(A)&#160;&#160;</mtext> <msub> <mspace></mspace> <mn>3</mn> </msub> <msup> <mo>Li</mo> <mn>7</mn> </msup> <mo>&#8594;</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>2</mn> </msub> <mtext>He</mtext> </mrow> <mn>4</mn> </msup> <mo>+</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>1</mn> </msub> <mtext>H</mtext> </mrow> <mn>3</mn> </msup> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>m</mtext> <mo>=</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <msub> <mtext>M</mtext> <mtext>Li</mtext> </msub> <mo>-</mo> <msub> <mtext>M</mtext> <mtext>He</mtext> </msub> <mo>-</mo> <msub> <mtext>M</mtext> <msup> <mtext>H</mtext> <mn>3</mn> </msup> </msub> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <mo>=</mo> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mtext>6.01513</mtext> <mo>-</mo> <mtext>4.002603</mtext> <mo>-</mo> <mtext>3.016050</mtext> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <mo>=</mo> <mo>-</mo> <mtext>1.003523 u</mtext> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>m</mtext> </mrow> </math>&nbsp;is negative so reaction n is not possible.<br /><math> <mrow> <mtext>(B)&#160;&#160;</mtext> <msub> <mspace></mspace> <mn>84</mn> </msub> <msup> <mo>Po</mo> <mn>210</mn> </msup> <mo>&#8594;</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>83</mn> </msub> <mtext>Bi</mtext> </mrow> <mn>209</mn> </msup> <mo>+</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>1</mn> </msub> <mtext>P</mtext> </mrow> <mn>1</mn> </msup> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>m</mtext> </mrow> </math>&nbsp;is negative so reaction is not possible.<br /><math> <mrow> <mtext>(C)&#160;&#160;</mtext> <msub> <mspace></mspace> <mn>1</mn> </msub> <msup> <mo>H</mo> <mn>2</mn> </msup> <mo>&#8594;</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>2</mn> </msub> <mtext>He</mtext> </mrow> <mn>4</mn> </msup> <mo>+</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>3</mn> </msub> <mtext>Li</mtext> </mrow> <mn>6</mn> </msup> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>m</mtext> </mrow> </math>&nbsp;is positive so reaction is possible.<br /><math> <mrow> <mtext>(D)&#160;&#160;</mtext> <msub> <mspace></mspace> <mn>30</mn> </msub> <msup> <mo>Zn</mo> <mn>70</mn> </msup> <mo>+</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>34</mn> </msub> <mtext>Se</mtext> </mrow> <mn>82</mn> </msup> <mo>&#8594;</mo> <msup> <mrow> <msub> <mspace></mspace> <mn>64</mn> </msub> <mtext>Gd</mtext> </mrow> <mn>152</mn> </msup> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <mtext>m</mtext> </mrow> </math>&nbsp;is positive so reaction is not possible.",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a1ff23ac7d519f9b18d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The $\\beta$-decay process, discovered around 1900 , is basically the decay of a neutron $(n)$. In the laboratory, a proton $(p)$ and an electron $\\left(e^{-}\\right)$are observed as the decay products of the neutron. Therefore, considering the decay of a neutron as a two-body decay process, it was predicted theoretically that the kinetic energy of the electron should be a constant. But experimentally, it was observed that the electron kinetic energy has continuous spectrum. Considering a three-body decay process, i.e.\r\n\r\n$n \\rightarrow p+e^{-}+\\bar{v}_{e}$, around 1930, Pauli explained the observed electron energy spectrum. Assuming the anti-neutrino $\\left(\\bar{v}_{e}\\right)$ to be massless and possessing negligible energy, and the neutron to be at rest, momentum and energy conservation principles are applied. From this calculation, the maximum kinetic energy of the electron is $0.8 \\times 10^{6} \\mathrm{eV}$. The kinetic energy carried by the proton is only the recoil energy.\r\n\r\n<strong> Question:</strong> What is the maximum energy of the anti-neutrino?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PahL3",
+        "text": "Zero",
+        "image": null
+      },
+      {
+        "id": "lcWvR",
+        "text": "Much less than $0.8 \\times 10^{6} \\mathrm{eV}$.",
+        "image": null
+      },
+      {
+        "id": "Jq7wp",
+        "text": "Nearly $0.8 \\times 10^{6} \\mathrm{eV}$",
+        "image": null
+      },
+      {
+        "id": "ymZ3E",
+        "text": "Much larger than $0.8 \\times 10^{6} \\mathrm{eV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Jq7wp",
+    "solution_text": "$\\because K_{p}^{-}+K_{e}^{-}+K_{v}^{-}=0.8 \\times 10^{6} \\mathrm{eV}$\r\n\r\nWhen $K_{e}^{-}=0$ then $K_{p}^{-}+K_{v}^{-}=0.8 \\times 10^{6} \\mathrm{eV}$\r\n\r\nMass of $\\bar{v}< < P \\therefore$ maximum energy of anti-neutrino is nearly $0.8 \\times 10^{6} \\mathrm{eV}$.",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a1ff23ac7d519f9b18c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The $\\beta$-decay process, discovered around 1900 , is basically the decay of a neutron $(n)$. In the laboratory, a proton $(p)$ and an electron $\\left(e^{-}\\right)$are observed as the decay products of the neutron. Therefore, considering the decay of a neutron as a two-body decay process, it was predicted theoretically that the kinetic energy of the electron should be a constant. But experimentally, it was observed that the electron kinetic energy has continuous spectrum. Considering a three-body decay process, i.e.\r\n\r\n$n \\rightarrow p+e^{-}+\\bar{v}_{e}$, around 1930, Pauli explained the observed electron energy spectrum. Assuming the anti-neutrino $\\left(\\bar{v}_{e}\\right)$ to be massless and possessing negligible energy, and the neutron to be at rest, momentum and energy conservation principles are applied. From this calculation, the maximum kinetic energy of the electron is $0.8 \\times 10^{6} \\mathrm{eV}$. The kinetic energy carried by the proton is only the recoil energy.\r\n\r\n<strong> Question:</strong> If the anti-neutrino had a mass of $3 \\mathrm{eV} / \\mathrm{c}^{2}$ (where $\\mathrm{c}$ is the speed of light) instead of zero mass, what should be the range of the kinetic energy, $K$, of the electron?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VoPAU",
+        "text": "$0 \\leq K \\leq 0.8 \\times 10^{6} \\mathrm{eV}$",
+        "image": null
+      },
+      {
+        "id": "mpSBr",
+        "text": "$3.0 \\mathrm{eV} \\leq K \\leq 0.8 \\times 10^{6} \\mathrm{eV}$",
+        "image": null
+      },
+      {
+        "id": "7kbgI",
+        "text": "$3.0 \\mathrm{eV} \\leq K < 0.8 \\times 10^{6} \\mathrm{eV}$",
+        "image": null
+      },
+      {
+        "id": "P9YNN",
+        "text": "$0 \\leq K < 0.8 \\times 10^{6} \\mathrm{eV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "P9YNN",
+    "solution_text": "Kinetic energy $(K)$ of electron will be minimum or zero when total energy is shared by proton and anti-neutrino $\\therefore 0 \\leq \\mathrm{K} < 0.8 \\times 10^{6} \\mathrm{eV}$",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af45",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Assume that the nuclear binding energy per nucleon $(B / A)$ versus mass number $(A)$ is as shown in the figure. Use this plot to choose the correct choice (s) given below.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8daLYXnAHbRMuW4bm8P5NMtlpoBl5lLiBQYLvZ8dg2w.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uvJNu",
+        "text": "\nFusion of two nuclei with mass numbers lying in the range of $1 < A < 50$ will release energy",
+        "image": null
+      },
+      {
+        "id": "xtfhl",
+        "text": "\nFusion of two nuclei with mass numbers lying in the range of $51 < A < 100$ will release energy",
+        "image": null
+      },
+      {
+        "id": "MUaeK",
+        "text": "\nFission of a nucleus lying in the mass range of $100 < A < 200$ will release energy when broken into two equal fragments",
+        "image": null
+      },
+      {
+        "id": "Vr7kt",
+        "text": "\nFission of a nucleus lying in the mass range $200 < A < 260$ will release energy when broken into two equal fragments",
+        "image": null
+      }
+    ],
+    "correct_answer": "Vr7kt",
+    "solution_text": "In fusion two or more lighter nuclei combine to make a comparatively heavier nucleus. In fission, a heavy nucleus breaks into two or more comparatively lighter nuclei. Futher, energy will be released in a nuclear process if total binding energy increases. $\\therefore$ correct options are (b) and (d).",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b169d2f23ac7d519f9aecb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Some laws/processes are given in Column I. Match these with the physical phenomena given in Column II and indicate your answer by darkening appropriate bubbles in the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/si4dXTR4UIpetgefzMIUHF2z89aSCJZv3XAQxkFy254.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1Uexa",
+        "text": "\nA-p, r; B-p, q, s; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "LajqR",
+        "text": "\nA-p; B-p, s; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "5Kngi",
+        "text": "\nA-p, r; B-p, q; C-p, r; D-q, s\n",
+        "image": null
+      },
+      {
+        "id": "fI1JE",
+        "text": "\nA-r, s; B-q; C-p; D-p, q, s",
+        "image": null
+      }
+    ],
+    "correct_answer": "1Uexa",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b169d1f23ac7d519f9aebc",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "In the options given below, let $E$ denote the rest mass energy of a nucleus and $n$ a neutron. The correct option is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VcrQz",
+        "text": "\n$E\\left({ }_{92}^{236} \\mathrm{U}\\right)>E\\left({ }_{53}^{137} \\mathrm{I}\\right)+E\\left({ }_{36}^{97} Y\\right)+2 E(n)$\n",
+        "image": null
+      },
+      {
+        "id": "s5d2B",
+        "text": "\n$\\left.E{ }_{92}^{236} \\mathrm{U}\\right) < E\\left({ }_{53}^{137} \\mathrm{I}\\right)+E\\left({ }_{39}^{97} Y\\right)+2 E(n)$",
+        "image": null
+      },
+      {
+        "id": "edZpB",
+        "text": "\n$E\\left({ }_{92}^{236} \\mathrm{U}\\right) < E\\left(5_{56}^{140} \\mathrm{Ba}\\right)+E\\left({ }_{36}^{94} \\mathrm{Kr}\\right)+2 E(n)$",
+        "image": null
+      },
+      {
+        "id": "NNy6w",
+        "text": "\n$E\\left(9_{92}^{236} \\mathrm{U}\\right) < E\\left(5_{56}^{140} \\mathrm{Ba}\\right)+E\\left({ }_{36}^{94} \\mathrm{Kr}\\right)+2 E(n)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "VcrQz",
+    "solution_text": "Rest mass of parent nucleus should be greater than the rest mass of daughter nuclei. Therefore, option (a) will be correct.",
+    "solution_image": null,
+    "topic": "Nuclear energy"
+  },
+  {
+    "question_id": "64b16a8ef23ac7d519f9b57f",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "A heavy nucleus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi></math>, at rest, undergoes fission&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>&#8594;</mo><mi>P</mi><mo>+</mo><mi>Q</mi><mo>,</mo></math>&nbsp;where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;are two lighter nuclei. Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#948;</mi><mo>=</mo><msub><mi>M</mi><mi>N</mi></msub><mo>-</mo><msub><mi>M</mi><mi>P</mi></msub><mo>-</mo><msub><mi>M</mi><mi>Q</mi></msub></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>P</mi></msub><mo>,</mo><mo>&#160;</mo><msub><mi>M</mi><mi>Q</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>N</mi></msub></math>&nbsp;are the masses of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi></math>, respectively.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>P</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>Q</mi></msub></math>&nbsp;are the kinetic energies of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>, respectively. The speeds of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>P</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>Q</mi></msub></math>, respectively. If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math>&nbsp;is the speed of light, which of the following statement(s) is (are) correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "moIa5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>P</mi></msub><mo>+</mo><msub><mi>E</mi><mi>Q</mi></msub><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup><mi>&#948;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "gljwV",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>P</mi></msub><mo>=</mo><mfenced><mfrac><msub><mi>M</mi><mi>P</mi></msub><mrow><msub><mi>M</mi><mi>P</mi></msub><mo>+</mo><msub><mi>M</mi><mi>Q</mi></msub></mrow></mfrac></mfenced><msup><mi>c</mi><mn>2</mn></msup><mi>&#948;</mi></math>",
+        "image": null
+      },
+      {
+        "id": "EVRqg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>v</mi><mi>P</mi></msub><msub><mi>v</mi><mi>Q</mi></msub></mfrac><mo>=</mo><mfrac><msub><mi>M</mi><mi>Q</mi></msub><msub><mi>M</mi><mi>P</mi></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "3dxip",
+        "text": "The magnitude of momentum for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math>&nbsp;as well as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><msqrt><mn>2</mn><mi>&#956;</mi><mi>&#948;</mi></msqrt></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#956;</mi><mo>=</mo><mfrac><mrow><msub><mi>M</mi><mi>P</mi></msub><msub><mi>M</mi><mi>Q</mi></msub></mrow><mfenced><mrow><msub><mi>M</mi><mi>P</mi></msub><mo>+</mo><msub><mi>M</mi><mi>Q</mi></msub></mrow></mfenced></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3dxip",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8773d083-b7f8-4983-929a-75c43c197879-D8.png\" style=\"width: 300px; height: 41px;\" /></p><p>Since,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi><mrow><mi>e</mi><mi>x</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>0</mn></math></p><p>So,</p><p>According to conservation of linear momentum,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>p</mi><mrow><mi>total</mi><mo>&#160;</mo></mrow></msub></mfenced><mi>initial</mi></msub><mo>=</mo><msub><mfenced><msub><mi>p</mi><mrow><mi>total</mi><mo>&#160;</mo></mrow></msub></mfenced><mi>final</mi></msub><mo>=</mo><mn>0</mn></math></p><p>That&#39;s why&nbsp;momentum&nbsp;of&nbsp;both lighter nuclei will be&nbsp;equal and opposite to each other as we can see in&nbsp;above diagram.</p><p>Now here some energy released due to mass defect which can be written as,</p><p>Energy released&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>m</mi></mrow></mfenced><msup><mi mathvariant=\"normal\">c</mi><mn>2</mn></msup><mo>=</mo><mi>&#948;</mi><msup><mi mathvariant=\"normal\">c</mi><mn>2</mn></msup></math></p><p>Where,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>m</mi><mo>=</mo><mi>&#948;</mi><mo>=</mo></math>mass defect</p><p>and,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#948;</mi><mo>=</mo><msub><mi>M</mi><mi>N</mi></msub><mo>-</mo><msub><mi>M</mi><mi>P</mi></msub><mo>-</mo><msub><mi>M</mi><mi>Q</mi></msub></math></p><p>Now this energy released due to mass defect convert in kinetic energy of daughter nuclei so,</p><p>Energy released<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mi mathvariant=\"normal\">&#916;</mi><mi>m</mi></mrow></mfenced><msup><mi mathvariant=\"normal\">c</mi><mn>2</mn></msup><mo>=</mo><msup><mi mathvariant=\"normal\">c</mi><mn>2</mn></msup><mi mathvariant=\"normal\">&#948;</mi><mo>=</mo><mi>K</mi><msub><mi>E</mi><mi>P</mi></msub><mo>+</mo><mi>K</mi><msub><mi>E</mi><mi>Q</mi></msub></math></p><p>Where,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><msub><mi>E</mi><mi>P</mi></msub><mo>=</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><msub><mi>M</mi><mi>P</mi></msub></mrow></mfrac><mo>,</mo><mo>&#160;</mo><mi>K</mi><msub><mi>E</mi><mi>Q</mi></msub><mo>=</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><msub><mi>M</mi><mi>Q</mi></msub></mrow></mfrac><mspace linebreak=\"newline\"/><mo>&#8658;</mo><mi>K</mi><msub><mi>E</mi><mi>p</mi></msub><mo>:</mo><mi>K</mi><msub><mi>E</mi><mi>Q</mi></msub><mo>=</mo><mfrac><mn>1</mn><msub><mrow><mo>&#160;</mo><mi>M</mi></mrow><mi>P</mi></msub></mfrac><mo>:</mo><mfrac><mn>1</mn><msub><mrow><mo>&#160;</mo><mi>M</mi></mrow><mi>Q</mi></msub></mfrac><mo>=</mo><msub><mi>M</mi><mi>Q</mi></msub><mo>:</mo><msub><mi>M</mi><mi>P</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><msub><mi>E</mi><mi>P</mi></msub><mo>=</mo><mfenced><mfrac><msub><mi>M</mi><mi>Q</mi></msub><mrow><msub><mi>M</mi><mi>p</mi></msub><mo>+</mo><msub><mi>M</mi><mi>Q</mi></msub></mrow></mfrac></mfenced><mi>&#948;</mi><msup><mi>c</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><msub><mi>E</mi><mi>Q</mi></msub><mo>=</mo><mfenced><mfrac><msub><mi>M</mi><mi>p</mi></msub><mrow><msub><mi>M</mi><mi>P</mi></msub><mo>+</mo><msub><mi>M</mi><mi>Q</mi></msub></mrow></mfrac></mfenced><mi mathvariant=\"normal\">&#948;</mi><msup><mi>c</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><msub><mi>E</mi><mi>P</mi></msub><mo>+</mo><mi>K</mi><msub><mi>E</mi><mi>Q</mi></msub><mo>=</mo><mi>&#948;</mi><msup><mi>c</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><msub><mi mathvariant=\"normal\">M</mi><mi>P</mi></msub></mrow></mfrac><mo>+</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><msub><mi mathvariant=\"normal\">M</mi><mi>Q</mi></msub></mrow></mfrac><mo>=</mo><mi>&#948;</mi><msup><mi>c</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>p</mi><mo>=</mo><mi>c</mi><msqrt><mn>2</mn><mfenced><mfrac><mrow><msub><mi>M</mi><mi>P</mi></msub><msub><mi>M</mi><mi>Q</mi></msub></mrow><mrow><msub><mi>M</mi><mi>P</mi></msub><mo>+</mo><msub><mi>M</mi><mi>Q</mi></msub></mrow></mfrac></mfenced><mi>&#948;</mi></msqrt></math></p><p>Hence, options&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>,</mo><mfenced><mn>3</mn></mfenced><mo>,</mo><mfenced><mn>4</mn></mfenced><mo>&#160;</mo></math>are correct.</p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b16a6af23ac7d519f9b438",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "In a radioactive decay chain, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi mathvariant=\"normal\">&#160;</mi><mn>90</mn><mn>232</mn></msubsup><mi>Th</mi></math> nucleus decays to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi mathvariant=\"normal\">&#160;</mi><mn>82</mn><mn>212</mn></msubsup><mi>Pb</mi></math> nucleus. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mi>&#945;</mi></msub><mo>&#160;</mo><mtext>and</mtext><mi>&#160;</mi><msub><mi>N</mi><mi>&#946;</mi></msub></math> be the number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mi>&#160;</mi><mtext>and</mtext><mi>&#160;</mi><msup><mi>&#946;</mi><mo>-</mo></msup></math> particles, respectively, emitted in this decay process. Which of the following statements is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vQ8VO",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mi>α</mi></mrow></msub><mo>=</mo><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "PHUnB",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mi>α</mi></mrow></msub><mo>=</mo><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "JJ3sP",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mi>β</mi></mrow></msub><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "gRRCm",
+        "text": "<math><msub><mrow><mi>N</mi></mrow><mrow><mi>β</mi></mrow></msub><mo>=</mo><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "JJ3sP",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi mathvariant=\"normal\">&#160;</mi><mn>90</mn><mn>232</mn></msubsup><mi>Th</mi></math> is converting into <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi mathvariant=\"normal\">&#160;</mi><mn>82</mn><mn>212</mn></msubsup><mi>Pb</mi></math><br />Change in mass number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi>A</mi></mfenced><mo>=</mo><mn>232</mn><mo>-</mo><mn>212</mn><mo>=</mo><mn>20</mn></math></p><p>Mass number of an&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;particle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> No of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mtext>&#160;particle</mtext><mo>=</mo><mfrac><mn>20</mn><mn>4</mn></mfrac><mo>=</mo><mn>5</mn></math><br />Due to <math><mn>5</mn><mi>&#945;</mi></math> particle, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math>&nbsp;will change by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn></math> unit.<br />Since given change is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>, therefore no. of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math> particle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b335",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The isotope <math><mmultiscripts><mrow><mi>B</mi></mrow><mprescripts></mprescripts><mrow><mn>5</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts></math> having a mass 12.014 u undergoes <math><mi>&#946;</mi></math> - decay to <math><mmultiscripts><mrow><mi>C</mi><mi>&#160;</mi><mo>.</mo><mi>&#160;</mi></mrow><mprescripts></mprescripts><mrow><mn>6</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts><mmultiscripts><mrow><mi>C</mi><mi>&#160;</mi><mi>&#160;</mi></mrow><mprescripts></mprescripts><mrow><mn>6</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts></math> has an excited state of the nucleus <math><mfenced separators=\"|\"><mrow><mmultiscripts><mrow><msup><mrow><mi>C</mi></mrow><mrow><mi>*</mi></mrow></msup></mrow><mprescripts></mprescripts><mrow><mn>6</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts></mrow></mfenced></math> at 4.041 MeV above its ground state. If <math><mmultiscripts><mrow><mi>B</mi><mi>&#160;</mi><mi>&#160;</mi></mrow><mprescripts></mprescripts><mrow><mn>5</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts></math> decays to <math><mmultiscripts><mrow><msup><mrow><mi>C</mi></mrow><mrow><mi>*</mi></mrow></msup><mo>,</mo></mrow><mprescripts></mprescripts><mrow><mn>6</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts><mi>&#160;</mi></math> the maximum kinetic energy of the <math><mi>&#946;</mi></math> - particle in units of MeV is ( <math><mn>1</mn><mi>&#956;</mi><mo>=</mo><mn>931.5</mn><mi>&#160;</mi><mi>M</mi><mi>e</mi><mfrac><mrow><mi>V</mi></mrow><mrow><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>,</mo></math> where c is the speed of light in vacuum).",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<math><mmultiscripts><mrow><mi>B</mi><mo>&#8594;</mo></mrow><mprescripts></mprescripts><mrow><mn>5</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts><mi>&#160;</mi><mmultiscripts><mrow><mi>C</mi></mrow><mprescripts></mprescripts><mrow><mn>6</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts><mo>+</mo><mi>&#160;</mi><mmultiscripts><mrow><mi>e</mi></mrow><mprescripts></mprescripts><mrow><mo>-</mo><mn>1</mn></mrow><mrow><mn>0</mn></mrow></mmultiscripts><mo>+</mo><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>-</mo></mover></math><br />Mass defect =(12.014 - 12) u<br /><math><mo>&#8756;</mo></math> Released energy = 13.041 MeV<br />Energy used for excitation of <math><mmultiscripts><mrow><mi>C</mi></mrow><mprescripts></mprescripts><mrow><mn>6</mn></mrow><mrow><mn>12</mn></mrow></mmultiscripts><mo>=</mo><mn>4.041</mn><mi>&#160;</mi><mi>M</mi><mi>e</mi><mi>V</mi></math><br /><math><mo>&#8756;</mo></math> Energy converted to KE of electron<br /><math><mo>=</mo><mn>13.041</mn><mo>-</mo><mn>4.041</mn><mo>=</mo><mn>9</mn><mi>&#160;</mi><mi>M</mi><mi>e</mi><mi>V</mi></math>\r\nThe β particle will have maximum K.E when antineutrino will have minimum K.E i.e 0.\r\nTherefore maximum K.E of the β particle is 9 MeV",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b16a41f23ac7d519f9b2c0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Match the nuclear processes given in column I with the appropriate option(s) in column II.<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>Column I</strong></td>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>Column II</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>A.</td>\t\t\t<td>Nuclear fusion</td>\t\t\t<td>P</td>\t\t\t<td>Absorption of thermal neutrons by <math><mmultiscripts><mrow><mi mathvariant=\"normal\">U</mi></mrow><mprescripts></mprescripts><mrow><mn>92</mn></mrow><mrow><mn>235</mn></mrow></mmultiscripts></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B.</td>\t\t\t<td>Fission in a nuclear reactor</td>\t\t\t<td>Q</td>\t\t\t<td><math><mmultiscripts><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">o</mi></mrow><mprescripts></mprescripts><mrow><mn>27</mn></mrow><mrow><mn>60</mn></mrow></mmultiscripts></math> nucleus</td>\t\t</tr>\t\t<tr>\t\t\t<td>C.</td>\t\t\t<td><math><mi mathvariant=\"normal\">&#946;</mi></math> -decay</td>\t\t\t<td>R</td>\t\t\t<td>Energy production in stars via hydrogen conversion to helium</td>\t\t</tr>\t\t<tr>\t\t\t<td>D.</td>\t\t\t<td><math><mi mathvariant=\"normal\">&#947;</mi></math> -ray emission</td>\t\t\t<td>S</td>\t\t\t<td>Heavy water</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>T</td>\t\t\t<td>Neutrino emission</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TUjoD",
+        "text": "a-q,r,s,t;b-s,t;c-r;d-q,r,s,t;",
+        "image": null
+      },
+      {
+        "id": "8l8jk",
+        "text": "a-t;b-s;c-q;d-q,r,s,t;",
+        "image": null
+      },
+      {
+        "id": "o1EFk",
+        "text": "a-r,t;b-p,s;c-q,t;d-r;",
+        "image": null
+      },
+      {
+        "id": "B79nn",
+        "text": "a-q,r,s,t;b-r;c-s;d-t;",
+        "image": null
+      }
+    ],
+    "correct_answer": "o1EFk",
+    "solution_text": "Nuclear fusion : In stars energy is produced by hydrogen into helium.<br />Fission in a nuclear reactor : In nuclear reactor fission of <math><mmultiscripts><mrow><mi mathvariant=\"normal\">U</mi></mrow><mprescripts></mprescripts><mrow><mn>92</mn></mrow><mrow><mn>235</mn></mrow></mmultiscripts></math> takes place by absorption of thermal neutrons. Heavy water is used as a moderator during this reaction.<br /><math><mmultiscripts><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">o</mi></mrow><mprescripts></mprescripts><mrow><mn>27</mn></mrow><mrow><mn>60</mn></mrow></mmultiscripts></math> emits <math><mi mathvariant=\"normal\">β</mi></math> particle to attain stable nucleus. It also emits <math><mi mathvariant=\"normal\">γ</mi></math> radians.<br /><math><mi mathvariant=\"normal\">γ</mi></math> -rays are emitted by <math><mmultiscripts><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">o</mi></mrow><mprescripts></mprescripts><mrow><mn>27</mn></mrow><mrow><mn>60</mn></mrow></mmultiscripts></math> during fission of <math><mmultiscripts><mrow><mi mathvariant=\"normal\">U</mi></mrow><mprescripts></mprescripts><mrow><mn>92</mn></mrow><mrow><mn>235</mn></mrow></mmultiscripts></math> , conversion of hydrogen to helium and during decay of <math><msup><mrow><mi mathvariant=\"normal\">U</mi></mrow><mrow><mn>235</mn></mrow></msup></math> after absorption of neutron.",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b16a2df23ac7d519f9b20d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "Match List <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> of the nuclear processes with List&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> containing parent nucleus and one of the end products of each process and then select the correct answer using the codes given below the lists :<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><mtext>List I</mtext></mtd><mtd/><mtd/><mtd/><mtd><mtext>List II</mtext></mtd></mtr><mtr><mtd><mtext>A.&#160;</mtext><mtext>Alpha decay</mtext></mtd><mtd/><mtd/><mtd><mn>P</mn><mtext>.</mtext></mtd><mtd><mtable><mtr><mtd><mn>1</mn><mn>5</mn></mtd></mtr><mtr><mtd><mn>8</mn></mtd></mtr></mtable><mtext>O</mtext><mo>&#8594;</mo><mtable><mtr><mtd><mn>1</mn><mn>5</mn></mtd></mtr><mtr><mtd><mn>7</mn></mtd></mtr></mtable><mtext>N</mtext><mo>+</mo><mtext>..........</mtext></mtd></mtr><mtr><mtd><mtext>B.&#160;</mtext><msup><mi>&#946;</mi><mo>+</mo></msup><mtext>decay</mtext></mtd><mtd/><mtd/><mtd><mn>Q</mn><mtext>.</mtext></mtd><mtd><mtable><mtr><mtd><mn>2</mn><mn>3</mn><mn>8</mn></mtd></mtr><mtr><mtd><mn>9</mn><mn>2</mn></mtd></mtr></mtable><mtext>U</mtext><mo>&#8594;</mo><mtable><mtr><mtd><mn>2</mn><mn>3</mn><mn>4</mn></mtd></mtr><mtr><mtd><mn>9</mn><mn>0</mn></mtd></mtr></mtable><mtext>Th</mtext><mo>+</mo><mtext>..........</mtext></mtd></mtr><mtr><mtd><mtext>C.&#160;</mtext><mtext>Fission</mtext></mtd><mtd/><mtd/><mtd><mn>R</mn><mtext>.</mtext></mtd><mtd><mtable><mtr><mtd><mn>1</mn><mn>8</mn><mn>5</mn></mtd></mtr><mtr><mtd><mn>8</mn><mn>3</mn></mtd></mtr></mtable><mtext>Bi</mtext><mo>&#8594;</mo><mtable><mtr><mtd><mn>1</mn><mn>8</mn><mn>4</mn></mtd></mtr><mtr><mtd><mn>8</mn><mn>2</mn></mtd></mtr></mtable><mtext>Pb</mtext><mo>+</mo><mtext>..........</mtext></mtd></mtr><mtr><mtd><mtext>D.&#160;</mtext><mtext>Proton emission</mtext></mtd><mtd/><mtd/><mtd><mn>S</mn><mtext>.</mtext></mtd><mtd><mtable><mtr><mtd><mn>2</mn><mn>3</mn><mn>9</mn></mtd></mtr><mtr><mtd><mn>9</mn><mn>4</mn></mtd></mtr></mtable><mtext>Pu</mtext><mo>&#8594;</mo><mtable><mtr><mtd><mn>1</mn><mn>4</mn><mn>0</mn></mtd></mtr><mtr><mtd><mn>5</mn><mn>7</mn></mtd></mtr></mtable><mtext>La</mtext><mo>+</mo><mtext>..........</mtext></mtd></mtr></mtable></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "r1xZw",
+        "text": "a-q;b-p;c-s;d-r;",
+        "image": null
+      },
+      {
+        "id": "1UA2Z",
+        "text": "a-q;b-s;c-p;d-r;",
+        "image": null
+      },
+      {
+        "id": "QtDI2",
+        "text": "a-q;b-r;c-s;d-p;",
+        "image": null
+      },
+      {
+        "id": "TPi6R",
+        "text": "a-q;b-r;c-s;d-p;",
+        "image": null
+      }
+    ],
+    "correct_answer": "r1xZw",
+    "solution_text": "(p) ln <math> <mrow> <mi>&#945;</mi> </mrow> </math> decay,&nbsp;the mass number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> and atomic number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>.<br />(q) ln <math> <mrow> <msup> <mi>&#946;</mi> <mo>+</mo> </msup> </mrow> </math> decay, mass number remains unchanged while atomic number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.<br />(r) ln fission, parent nucleus breaks into almost two equal fragments.<br />(s)&nbsp;ln proton emission, both mass number and atomic number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afd4",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nScientists are working hard to develop nuclear fusion reactor. Nuclei of heavy hydrogen, ${ }_1^2 \\mathrm{H}$ known as deuteron and denoted by $D$ can be thought of as a candidate for fusion reactor. The $D$ - $D$ reaction is ${ }_1^2 \\mathrm{H}+{ }_1^2 \\mathrm{H} \\rightarrow{ }_2^3 \\mathrm{He}+n+$ energy. In the core of fusion reactor. A gas of heavy hydrogen is fully ionized into deuteron nuclei and electrons. This collection of ${ }_1^4 \\mathrm{H}$ nuclei and electrons is known as plasma. The nuclei move randomly in the reactor core and occasionally come close enough for nuclear fusion to take place. Usually, the temperatures in the reactor core are too high and no material wall can be used to confine the plasma. Special techniques are used which confine the plasma for a time $t_0$ before the particles fly away from the core. If n is the density (number/volume) of deutrons, the product t $_0$ is called Lawson number. In one of the criteria, $a$ reactor is termed successful if Lawson number is greater than $5 \\times 10^{14} \\mathrm{scm}^{-3}$.\nIt may be helpful to use the following : Boltzmann constant $k=8.6 \\times 10^{-5} \\mathrm{eV} / \\mathrm{K}$; $\\frac{e^2}{4 \\pi \\varepsilon_0}=1.44 \\times 10^{-9} \\mathrm{eVm}$<strong>Question:</strong>\nResults of calculations for four different designs of a fusion reactor using D-D reaction are given below. Which of these is most promising based on Lawson criterion?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "X7J3O",
+        "text": "\nDeuteron density $=20 \\times 10^{12} \\mathrm{~cm}^{-3}$, confinement time $=5.0 \\times 10^{-3} \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "20M1b",
+        "text": "\nDeuteron density $=8.0 \\times 10^{14} \\mathrm{~cm}^{-3}$, confinement time $=9.0 \\times 10^{-1} \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "V7SEb",
+        "text": "\nDeuteron density $=4.0 \\times 10^{23} \\mathrm{~cm}^{-3}$, confinement time $=1.0 \\times 10^{-11} \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "eSphj",
+        "text": "\nDeuteron density $=1.0 \\times 10^{24} \\mathrm{~cm}^{-3}$, confinement time $=4.0 \\times 10^{-12} \\mathrm{~s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "20M1b",
+    "solution_text": "As given in the paragraph, a reactor is termed successful, if\n$$\nn t_0>5 \\times 10^{14} \\mathrm{scm}^{-3}\n$$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afd3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nScientists are working hard to develop nuclear fusion reactor. Nuclei of heavy hydrogen, ${ }_1^2 \\mathrm{H}$ known as deuteron and denoted by $D$ can be thought of as a candidate for fusion reactor. The $D$ - $D$ reaction is ${ }_1^2 \\mathrm{H}+{ }_1^2 \\mathrm{H} \\rightarrow{ }_2^3 \\mathrm{He}+n+$ energy. In the core of fusion reactor. A gas of heavy hydrogen is fully ionized into deuteron nuclei and electrons. This collection of ${ }_1^4 \\mathrm{H}$ nuclei and electrons is known as plasma. The nuclei move randomly in the reactor core and occasionally come close enough for nuclear fusion to take place. Usually, the temperatures in the reactor core are too high and no material wall can be used to confine the plasma. Special techniques are used which confine the plasma for a time $t_0$ before the particles fly away from the core. If n is the density (number/volume) of deutrons, the product t $_0$ is called Lawson number. In one of the criteria, $a$ reactor is termed successful if Lawson number is greater than $5 \\times 10^{14} \\mathrm{scm}^{-3}$.\nIt may be helpful to use the following : Boltzmann constant $k=8.6 \\times 10^{-5} \\mathrm{eV} / \\mathrm{K}$; $\\frac{e^2}{4 \\pi \\varepsilon_0}=1.44 \\times 10^{-9} \\mathrm{eVm}$<strong>Question:</strong>\nAssume that two deuteron nuclei in the core of fusion reactor at temperature $T$ are moving towards each other, each with kinetic energy $1.5 \\mathrm{kT}$, when the separation between them is large enough to neglect Coulomb potential energy. Also neglect any interaction from other particles in the core. The minimum temperature $T$ required for them to reach a separation of $4 \\times 10^{-15} \\mathrm{~m}$ is in the range",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wiUu4",
+        "text": "\n$1.0 \\times 10^9 \\mathrm{~K} < T < 2.0 \\times 10^9 \\mathrm{~K}$",
+        "image": null
+      },
+      {
+        "id": "iJN28",
+        "text": "\n$20 \\times 10^9 \\mathrm{~K} < T < 3.0 \\times 10^9 \\mathrm{~K}$",
+        "image": null
+      },
+      {
+        "id": "aiYBu",
+        "text": "\n$3.0 \\times 10^9 \\mathrm{~K} < T < 4.0 \\times 10^9 \\mathrm{~K}$",
+        "image": null
+      },
+      {
+        "id": "NTrnx",
+        "text": "\n$4.0 \\times 10^9 \\mathrm{~K} < T < 5.0 \\times 10^9 \\mathrm{~K}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "wiUu4",
+    "solution_text": "From conservation of mechanical energy, we have\n$$\n\\begin{gathered}\nU_i+K_i=U_f+U_f \\\\\n0+2(1.5 k T)=\\frac{1}{4 \\pi \\varepsilon_0} \\cdot \\frac{(e)(e)}{d}+0\n\\end{gathered}\n$$\nSubstituting the values, we get\n$$\nT=1.4 \\times 10^9 \\mathrm{~K}\n$$",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afd2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nScientists are working hard to develop nuclear fusion reactor. Nuclei of heavy hydrogen, ${ }_1^2 \\mathrm{H}$ known as deuteron and denoted by $D$ can be thought of as a candidate for fusion reactor. The $D$ - $D$ reaction is ${ }_1^2 \\mathrm{H}+{ }_1^2 \\mathrm{H} \\rightarrow{ }_2^3 \\mathrm{He}+n+$ energy. In the core of fusion reactor. A gas of heavy hydrogen is fully ionized into deuteron nuclei and electrons. This collection of ${ }_1^4 \\mathrm{H}$ nuclei and electrons is known as plasma. The nuclei move randomly in the reactor core and occasionally come close enough for nuclear fusion to take place. Usually, the temperatures in the reactor core are too high and no material wall can be used to confine the plasma. Special techniques are used which confine the plasma for a time $t_0$ before the particles fly away from the core. If n is the density (number/volume) of deutrons, the product t $_0$ is called Lawson number. In one of the criteria, $a$ reactor is termed successful if Lawson number is greater than $5 \\times 10^{14} \\mathrm{scm}^{-3}$.\nIt may be helpful to use the following : Boltzmann constant $k=8.6 \\times 10^{-5} \\mathrm{eV} / \\mathrm{K}$; $\\frac{e^2}{4 \\pi \\varepsilon_0}=1.44 \\times 10^{-9} \\mathrm{eVm}$<strong>Question:</strong>\nIn the core of nuclear fusion reactor, the gas becomes plasma because of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "juyUw",
+        "text": "\nstrong nuclear force acting between the deuterons\n",
+        "image": null
+      },
+      {
+        "id": "7wyGV",
+        "text": "\nCoulomb fore acting between the deuterons\n",
+        "image": null
+      },
+      {
+        "id": "TO39D",
+        "text": "\nCoulomb force acting between deuteron-electron pairs\n",
+        "image": null
+      },
+      {
+        "id": "eSsgi",
+        "text": "\nthe high temperature maintained inside the reactor core",
+        "image": null
+      }
+    ],
+    "correct_answer": "eSsgi",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Nuclear reactions"
+  },
+  {
+    "question_id": "6a0be51344d287c9361e5cbb",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A nuclear reactor starts producing a radioactive nuclide $X$ from $t = 0$, at a constant rate of $\\alpha$ per second. Each decay of $X$ produces energy $E_0$, which is utilized to heat a liquid of mass $m$ and specific heat $s$. Assuming no heat loss from the liquid and taking $\\lambda$ as the decay constant of $X$, the rate of increase in the temperature of the liquid is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2sZr3",
+        "text": "$\\dfrac{\\alpha E_0}{m s}(1 - e^{-\\lambda t})$",
+        "image": null
+      },
+      {
+        "id": "7uGvZ",
+        "text": "$\\dfrac{\\alpha E_0}{m s}(e^{\\lambda t} - 1)$",
+        "image": null
+      },
+      {
+        "id": "pMX1c",
+        "text": "$\\dfrac{\\lambda E_0}{m s}(1 - e^{-\\lambda t})$",
+        "image": null
+      },
+      {
+        "id": "svcQ3",
+        "text": "$\\dfrac{E_0}{m s}(\\alpha - \\lambda e^{-\\lambda t})$",
+        "image": null
+      }
+    ],
+    "correct_answer": "2sZr3",
+    "solution_text": "Let $N$ be the number of active nuclei at time $t$. The rate of change of the number of nuclei is given by<br><br>$\\dfrac{dN}{dt} = \\alpha - \\lambda N$<br><br>Integrating with the initial condition $N = 0$ at $t = 0$:<br><br>$\\int_{0}^{N} \\dfrac{dN}{\\alpha - \\lambda N} = \\int_{0}^{t} dt$<br><br>$-\\dfrac{1}{\\lambda} \\ln\\left(\\dfrac{\\alpha - \\lambda N}{\\alpha}\\right) = t$<br><br>$N = \\dfrac{\\alpha}{\\lambda} (1 - e^{-\\lambda t})$<br><br>The rate of decay of the nuclide at time $t$ is<br><br>$A = \\lambda N = \\alpha (1 - e^{-\\lambda t})$<br><br>Since each decay produces energy $E_0$, the rate of energy production is<br><br>$\\dfrac{dE}{dt} = A E_0 = \\alpha E_0 (1 - e^{-\\lambda t})$<br><br>This energy is used to heat the liquid. The rate of heat absorption is<br><br>$\\dfrac{dQ}{dt} = m s \\dfrac{dT}{dt}$<br><br>Equating the rate of energy production to the rate of heat absorption:<br><br>$m s \\dfrac{dT}{dt} = \\alpha E_0 (1 - e^{-\\lambda t})$<br><br>$\\dfrac{dT}{dt} = \\dfrac{\\alpha E_0}{m s} (1 - e^{-\\lambda t})$<br><br>Answer: $\\dfrac{\\alpha E_0}{m s}(1 - e^{-\\lambda t})$",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16aa7f23ac7d519f9b660",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "In a radioactive decay process, the activity is defined as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mo>-</mo><mfrac><mrow><mi>d</mi><mi>N</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math>,&nbsp;where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>(</mo><mi>t</mi><mo>)</mo></math> is the number of radioactive nuclei&nbsp;at time <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>t</mi></mfenced></math>. Two radioactive sources, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;have same activity at time <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math>. At a later time, the activities of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub></math>,&nbsp;respectively. When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;have just completed their&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>3</mn><mi>rd</mi></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>7</mn><mi>th</mi></msup></math>&nbsp;half-lives,&nbsp;respectively, the ratio&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mfrac></math>&nbsp;is _____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "16",
+    "solution_text": "<blockquote><p>Activity for both the cases can be written as,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><msub><mi>&#955;</mi><mn>1</mn></msub><msub><mi>t</mi><mn>1</mn></msub></mrow></msup></math></p><p>also&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><msub><mi>&#955;</mi><mn>2</mn></msub><msub><mi>t</mi><mn>2</mn></msub></mrow></msup></math>.</p><p>Half-life for the reaction can be written as,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>t</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></msub></mfenced><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mi>ln</mi><mn>2</mn></mrow><msub><mi>&#955;</mi><mn>1</mn></msub></mfrac></math>&nbsp;and hence</p><p>at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mi>ln</mi><mn>2</mn></mrow><msub><mi>&#955;</mi><mn>1</mn></msub></mfrac></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><msub><mi>&#955;</mi><mn>1</mn></msub><mfenced><mfrac><mrow><mn>3</mn><mi>ln</mi><mn>2</mn></mrow><msub><mi>&#955;</mi><mn>1</mn></msub></mfrac></mfenced></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>A</mi><mn>1</mn></msub><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><mn>3</mn><mi>ln</mi><mn>2</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>&#160;</mo><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math></p><p>Similarly, for the second case, we can write</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><mn>7</mn><mfenced><mfrac><mrow><mi>ln</mi><mn>2</mn></mrow><msub><mi>&#955;</mi><mn>2</mn></msub></mfrac></mfenced></math>&nbsp;and therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><msub><mi>&#955;</mi><mn>2</mn></msub><mfenced><mfrac><mrow><mn>7</mn><mi>ln</mi><mn>2</mn></mrow><msub><mi>&#955;</mi><mn>2</mn></msub></mfrac></mfenced></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><mn>7</mn><mi>ln</mi><mn>2</mn></mrow></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>&#160;</mo><mfenced><mi>ii</mi></mfenced></math></p><p>From <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>ii</mi></mfenced></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mrow><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><mn>3</mn><mi>ln</mi><mn>2</mn></mrow></msup></mrow><mrow><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><mn>7</mn><mi>ln</mi><mn>2</mn></mrow></msup></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mrow><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mi>ln</mi><msup><mn>2</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></msup></mrow><mrow><msub><mi>A</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mi>ln</mi><msup><mn>2</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mn>2</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mn>2</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></mfrac><mo>=</mo><mn>16</mn></math></p><p>Therefore, required ration would be<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mfrac><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mfrac><mo>=</mo><mn>16</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16aa1f23ac7d519f9b62d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> shows different radioactive decay processes and List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> provides possible emitted particles. Match each entry in List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> with an appropriate entry from List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>, and choose the correct option.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\">List-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><msup><mrow></mrow><mn>238</mn></msup><mn>92</mn></msub><mi>U</mi><msub><msup><mo>&#8594;</mo><mn>234</mn></msup><mn>91</mn></msub><mi>P</mi><mi>a</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></td>\t\t\t<td>one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;particle and one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>+</mo></msup></math>&nbsp;particle</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><msup><mrow></mrow><mn>214</mn></msup><mn>82</mn></msub><mi>P</mi><mi>b</mi><msub><msup><mo>&#8594;</mo><mn>210</mn></msup><mn>82</mn></msub><mi>P</mi><mi>b</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></td>\t\t\t<td>three <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;particles and one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> particle</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><msup><mrow></mrow><mn>210</mn></msup><mn>81</mn></msub><mi>T</mi><mi>l</mi><msub><msup><mo>&#8594;</mo><mn>206</mn></msup><mn>82</mn></msub><mi>P</mi><mi>b</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math></td>\t\t\t<td>two <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;particles and one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;particle</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><msup><mrow/><mn>228</mn></msup><mn>91</mn></msub><mi>P</mi><mi>a</mi><msub><msup><mo>&#8594;</mo><mn>224</mn></msup><mn>88</mn></msub><mi>R</mi><mi>a</mi></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math></td>\t\t\t<td>one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> particle and one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;particle</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></td>\t\t\t<td>one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> particle and two <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>+</mo></msup></math>&nbsp;particles</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JEpVM",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "onr49",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "8KZln",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>5</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "NCQ1Y",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>5</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "JEpVM",
+    "solution_text": "<blockquote><p>In <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;decay mass number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> unit and atomic number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> unit.</p><p>In <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;decay mass number does not change but atomic number increases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> unit.</p><p>In <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>+</mo></msup></math>&nbsp;decay mass number does not change but atomic number decreases by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> unit.</p><p>So for</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>P</mi></mfenced><msub><msup><mo>&#160;</mo><mn>238</mn></msup><mn>92</mn></msub><mi>U</mi><msub><msup><mo>&#8594;</mo><mn>234</mn></msup><mn>91</mn></msub><mi>P</mi><mi>a</mi></math>.</p><p>Number of alpha particle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>238</mn><mo>-</mo><mn>234</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></math>. Due to alpha particle, atomic number should decrease by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;but it has decreased by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp;only, therefore&nbsp;an&nbsp;additional&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;decay is required, then net change in atomic number will be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn><mo>+</mo><mn>1</mn><mo>=</mo><mo>-</mo><mn>1</mn></math>. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>&#8594;</mo><mn>4</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>Q</mi></mfenced><msub><msup><mo>&#160;</mo><mn>214</mn></msup><mn>82</mn></msub><mi>P</mi><mi>b</mi><msub><msup><mo>&#8594;</mo><mn>210</mn></msup><mn>82</mn></msub><mi>P</mi><mi>b</mi></math>.</p><p>Number of alpha particle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>214</mn><mo>-</mo><mn>210</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></math>.&nbsp;Due to alpha particle, atomic number should decrease by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>, but there is no change in atomic number, which means two additional&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;decay is required, then net change in atomic number will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math>. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Q</mi><mo>&#8594;</mo><mn>3</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>R</mi></mfenced><msub><msup><mo>&#160;</mo><mn>210</mn></msup><mn>81</mn></msub><mi>T</mi><mi>l</mi><msub><msup><mo>&#8594;</mo><mn>206</mn></msup><mn>82</mn></msub><mi>P</mi><mi>b</mi></math>.</p><p>Number of alpha particle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>210</mn><mo>-</mo><mn>206</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></math>.&nbsp;Due to alpha particle, atomic number should decrease by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>,&nbsp;but atomic number has increased&nbsp;by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>, which means three additional&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;decay is required, then net change in atomic number will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>1</mn></math>. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>&#8594;</mo><mn>2</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>S</mi></mfenced><msub><msup><mo>&#160;</mo><mn>228</mn></msup><mn>91</mn></msub><mi>P</mi><mi>a</mi><msub><msup><mo>&#8594;</mo><mn>224</mn></msup><mn>88</mn></msub><mi>R</mi><mi>a</mi></math>.</p><p>Number of alpha particle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>228</mn><mo>-</mo><mn>224</mn></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></math>.&nbsp;Due to alpha particle, atomic number should decrease by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>,&nbsp;but atomic number has decreased by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>, which means one&nbsp;additional&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>+</mo></msup></math>&nbsp;is required, then&nbsp;net change in atomic number will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn><mo>-</mo><mn>1</mn><mo>=</mo><mo>-</mo><mn>3</mn></math>. Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>&#8594;</mo><mn>1</mn></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a9af23ac7d519f9b5eb",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "In a radioactive decay chain reaction, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow/><mn>90</mn><mn>230</mn></msubsup><mi>Th</mi></math>&nbsp;nucleus decays into <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Po</mi><mprescripts/><mn>84</mn><mn>214</mn></mmultiscripts></math>&nbsp;nucleus. The ratio of the number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> to number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi><mo>-</mo></msup></math>&nbsp;particles emitted in this process is _______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<blockquote><p>Let number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;particles are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mi>&#945;</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math>&nbsp;particles are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mi>&#946;</mi></msub></math>.</p><p>Given:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow/><mn>90</mn></msub><msup><mi>Th</mi><mn>230</mn></msup><msub><mo stretchy=\"false\">&#8594;</mo><mn>84</mn></msub><msup><mi>Po</mi><mn>214</mn></msup><mo>+</mo><msub><mi>n</mi><mi>&#945;</mi></msub><mi>&#945;</mi><mo>+</mo><msub><mi>n</mi><mi>&#946;</mi></msub><mi>&#946;</mi></math>.</p><p>Change in mass number is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>230</mn><mo>-</mo><mn>214</mn><mo>=</mo><mn>4</mn><msub><mi>n</mi><mi>&#945;</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>n</mi><mi>&#945;</mi></msub><mo>=</mo><mn>4</mn></math></p><p>Number of proton,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi><mi>&#946;</mi></msub><mo>=</mo><mn>84</mn><mo>-</mo><mfenced><mrow><mn>90</mn><mo>-</mo><mn>2</mn><msub><mi>n</mi><mi>a</mi></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>n</mi><mi>&#946;</mi></msub><mo>=</mo><mn>2</mn></math></p><p>So, the ratio,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>n</mi><mi>&#945;</mi></msub><msub><mi>n</mi><mi>&#946;</mi></msub></mfrac><mo>=</mo><mn>2</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a88f23ac7d519f9b545",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "A heavy nucleus&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;of half-life&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math>&nbsp;minutes undergoes alpha-decay with probability of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn><mo>%</mo></math>&nbsp; and beta-decay with probability of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>%</mo></math>. Initially, the number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;nuclei is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1000</mn></math>. The number of alpha-decays of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;in the first one hour is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JlTmA",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math>",
+        "image": null
+      },
+      {
+        "id": "q4ssx",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>75</mn></math>",
+        "image": null
+      },
+      {
+        "id": "smz73",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>350</mn></math>",
+        "image": null
+      },
+      {
+        "id": "NqRS2",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>525</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "NqRS2",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></msub><mo>=</mo><mn>20</mn><mo>&#160;</mo><mi>min</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mn>0</mn></msub><mo>=</mo><mn>1000</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>1</mn><mo>&#160;</mo><mi>hour</mi><mo>=</mo><mn>60</mn><mo>&#160;</mo><mi>min</mi><mo>=</mo><mn>3</mn><msub><mi>T</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp;Number of nuclei&nbsp;remain after&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp;hour,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>=</mo><mfrac><msub><mi>N</mi><mi>o</mi></msub><msup><mn>2</mn><mn>3</mn></msup></mfrac><mo>=</mo><mfrac><mn>1000</mn><mn>8</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>N</mi><mo>=</mo><mn>125</mn></math></p><p>It means&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>875</mn></math>&nbsp;nuclei&nbsp;has decayed,</p><p>Now,</p><p>Number of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;decayed Nucleus</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>875</mn><mo>&#215;</mo><mn>60</mn></mrow><mn>100</mn></mfrac><mo>=</mo><mn>525</mn></math></p>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a70f23ac7d519f9b46a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>In a radioactive sample, <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">K</mi></math> nuclei either decay into stable <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> nuclei with decay constant <math><mn>4.5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></math> per year or into stable <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi></math> nuclei with decay constant <math><mn>0.5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></math> per year. Given that in this sample all the stable <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> and <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi></math> nuclei are produced by the <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">K</mi></math> nuclei only. In time <math><mi mathvariant=\"normal\">t</mi><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>9</mn></mrow></msup></math> years, if the ratio of the sum of stable <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> and <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi></math> nuclei to the radioactive <math><msubsup><mrow><mi mathvariant=\"normal\"> </mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">K</mi></math> nuclei is <math><mn>99</mn><mo>,</mo></math> the value of t will be : [Given <math><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"> </mi><mn>10</mn><mo>=</mo><mn>2.3</mn></math> ]<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xycwymmewvkdmpybreczihkxuiuyrmeqtmexumbwjrzltamsyi.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eNZw7",
+        "text": "<math><mn>1.15</mn></math>",
+        "image": null
+      },
+      {
+        "id": "qWAOz",
+        "text": "<math><mn>2.3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "7utb6",
+        "text": "<math><mn>4.6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "qqqJd",
+        "text": "<math><mn>9.2</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "qqqJd",
+    "solution_text": "Given that,  <math><msubsup><mrow><mi> </mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>49</mn></mrow></msubsup><mi>K</mi></math>  decays in two stable  <math><msubsup><mrow><mi> </mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>C</mi><mi>a</mi><mi> </mi><mi>o</mi><mi>f</mi><mi> </mi><msubsup><mrow><mi> </mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>A</mi><mi>r</mi><mi> </mi></math> Nuclei. Let there be  <math><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></math>  active nuclei of  <math><msubsup><mrow><mi> </mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>K</mi></math>  present at  <math><mi>t</mi><mo>=</mo><mn>0</mn></math>  and none of  <math><msubsup><mrow><mi> </mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>C</mi><mi>a</mi></math>  and  <math><msubsup><mrow><mi> </mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>A</mi><mi>r</mi></math>  present of  <math><mi>t</mi><mo>=</mo><mn>0</mn></math> .<br >Where  <math><msub><mrow><mi>λ</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  (decay constant for  <math><mi>K</mi><mo>→</mo><mi>C</mi><mi>a</mi></math> )  <math><mo>=</mo><mn>4.5</mn><mo>×</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math>  and<br > <math><msub><mrow><mi>λ</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  (decay constant for  <math><mi>K</mi><mo>→</mo><mi>A</mi><mi>r</mi></math> )  <math><mo>=</mo><mn>0.5</mn><mo>×</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math> <br >These form two parallel nuclear reactions.<br > <math><mo>∴</mo></math>  Equivalent decay consent,  <math><mi>λ</mi><mo>=</mo><msub><mrow><mi>λ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>λ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>5</mn><mo>×</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math> <br >Now, number of active nuclei of  <math><msubsup><mrow><mi> </mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>K</mi></math>  left at  <math><mfenced separators=\"|\"><mrow><mi>t</mi><mo>=</mo><mi>t</mi></mrow></mfenced><mo>=</mo><mi>N</mi></math> <br >And according to Law of Radioactivity,<br > <math><mi>N</mi><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>λ</mi><mi>t</mi></mrow></msup></math>  ........(i)<br >Now, according to question,<br > <math><mfrac><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><mi>N</mi></mrow><mrow><mi>N</mi></mrow></mfrac><mo>=</mo><mn>99</mn><mo>⇒</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>100</mn><mi>N</mi><mo>⇒</mo><mi>N</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>100</mn></mrow></mfrac></math> <br >Then using equation (i)<br > <math><mfrac><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>λ</mi><mi>t</mi></mrow></msup></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mtext> </mtext><mn>100</mn><mo>=</mo><mi>λ</mi><mi>t</mi><mo>⇒</mo><mi>t</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>10</mn></mrow><mrow><mi>λ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>×</mo><mn>2.3</mn></mrow><mrow><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>9.2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>10</mn></mrow></msup><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">s</mi></math>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a66f23ac7d519f9b40f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> If the measurement errors in all the independent quantities are known, then it is possible to determine the error in any dependent quantity. This is done by the use of series expansion and truncating the expansion at the first power of the error. For example, consider the relation <math><mi>z</mi><mi>&#160;</mi><mo>=</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>y</mi></mrow></mfrac></math>. If the errors in <math><mi>x</mi><mo>,</mo><mi>&#160;</mi><mi>y</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mi>z</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi>&#160;</mi><mo>&#8710;</mo><mi>x</mi><mo>,</mo><mi>&#160;</mi><mo>&#8710;</mo><mi>y</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mo>&#8710;</mo><mi>z</mi></math> , respectively, then<br /><br /><math><mi>z</mi><mo>&#177;</mo><mo>&#8710;</mo><mi>z</mi><mo>=</mo><mfrac><mrow><mi>x</mi><mo>&#177;</mo><mo>&#8710;</mo><mi>x</mi></mrow><mrow><mi>y</mi><mo>&#177;</mo><mo>&#8710;</mo><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>y</mi></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>&#177;</mo><mfrac><mrow><mo>&#8710;</mo><mi>x</mi></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mfenced><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>&#177;</mo><mfrac><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br /><br />The series expansion for <math><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>&#177;</mo><mfrac><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, to first power in <math><mrow><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mo>/</mo><mrow><mi>y</mi></mrow></mrow><mo>,</mo><mi>&#160;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi>&#160;</mi><mn>1</mn><mo>&#8723;</mo><mfenced separators=\"|\"><mrow><mrow><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mo>/</mo><mrow><mi>y</mi></mrow></mrow></mrow></mfenced></math>. The relative errors in independent variables are always added. So the error in <math> <mi>z</mi> </math> will be<br /><br /><math> <mrow> <mtext>&#916;</mtext><mi>z</mi><mo>=</mo><mi>z</mi><mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mtext>&#916;</mtext><mi>x</mi></mrow> <mi>x</mi> </mfrac> <mo>+</mo><mfrac> <mrow> <mtext>&#916;</mtext><mi>y</mi></mrow> <mi>y</mi> </mfrac> </mrow> <mo>)</mo></mrow><mo>.</mo></mrow> </math><br /><br> <strong> Question : </strong>The above derivation makes the assumption that <math> <mrow> <mfrac> <mrow> <mtext>&#916;</mtext><mi>r</mi></mrow> <mi>x</mi> </mfrac> <mo>&#8810;</mo><mn>1</mn><mo>,</mo><mfrac> <mrow> <mtext>&#916;</mtext><mi>y</mi></mrow> <mi>y</mi> </mfrac> <mo>&#8810;</mo><mn>1</mn></mrow> </math>. Therefore, the higher powers of these quantities are neglected.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BtuRR",
+        "text": "<math> <mrow> <mn>0.04</mn></mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "wt988",
+        "text": "<math><mn>0.03</mn></math>",
+        "image": null
+      },
+      {
+        "id": "TdSyH",
+        "text": "<math><mn>0.02</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Uffom",
+        "text": "<math><mn>0.01</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "TdSyH",
+    "solution_text": "<math><mi>N</mi><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&#955;</mi><mi>t</mi></mrow></msup></math><br /><math><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><mi>N</mi></mrow></mrow><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mrow><mo>-</mo><mi>&#955;</mi><mi>t</mi></math><br /><math><mfrac><mrow><mn>d</mn><mi>N</mi></mrow><mrow><mi>N</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mn>d</mn><mi>&#955;</mi><mi>t</mi></math><br />Converting to error,<br /><math><mfrac><mrow><mo>&#8710;</mo><mi>N</mi></mrow><mrow><mi>N</mi></mrow></mfrac><mo>=</mo><mo>&#8710;</mo><mi>&#955;</mi><mi>t</mi></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mo>&#8710;</mo><mi>&#955;</mi><mo>=</mo><mfrac><mrow><mn>40</mn></mrow><mrow><mn>2000</mn><mo>&#215;</mo><mi>L</mi></mrow></mfrac><mo>=</mo><mn>0.02</mn></math> (<math> <mi>N</mi> </math> is number of nuclei left undecayed)",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b39c",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<math><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>131</mn></mrow></msup><mi>I</mi><mi>&#160;</mi><mi>i</mi><mi>s</mi></math> an isotope of Iodine that <math><mi>&#946;</mi><mi>&#160;</mi></math> decays to an isotope of Xenon with a half-life of <math><mn>8</mn><mi>&#160;</mi><mi>d</mi><mi>a</mi><mi>y</mi><mi>s</mi></math> . A small amount of a serum labelled with <math><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>131</mn></mrow></msup><mi>I</mi></math> is injected into the blood of a person. The activity of the amount of <math><msup><mrow><mi>&#160;</mi></mrow><mrow><mn>131</mn></mrow></msup><mi>I</mi></math> injected was <math><mn>2.4</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></math> Becquerel (Bq). It is known that the injected serum will get distributed uniformly in the blood stream in less than half an hour. After 11.5 hours, 2.5 ml of blood is drawn from the person&#39;s body, and gives an activity of <math><mn>115</mn><mi>&#160;</mi><mi>B</mi><mi>q</mi></math> . The total volume of blood in the person&#39;s body, in litres is approximately (you may use $\\mathrm{e}^{\\mathrm{x}} \\approx 1+\\mathrm{x}$ for $|\\mathrm{x}|<<1$ and $\\ln 2 \\approx 0.7$).",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p><math><msub><mrow><mi>t</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msub><mo>=</mo><mn>8</mn><mi>&nbsp;</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></math></p><p><math><mi>A</mi><mo>=</mo><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&nbsp;</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>&lambda;</mi><mi>t</mi></mrow></msup></math></p><p><math><msup><mrow><mi>e</mi></mrow><mrow><mi>&lambda;</mi><mi>t</mi></mrow></msup><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>115</mn></mrow></mfenced><mo>=</mo><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub></math></p><p><math><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>115</mn><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>&lambda;</mi><mi>t</mi></mrow></mfenced><mo>=</mo><mn>115</mn><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi mathvariant=\"script\">l</mi><mi>n</mi><mn>2</mn></mrow><mrow><msub><mrow><mi>t</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msub></mrow></mfrac><mo>&times;</mo><mn>11.5</mn></mrow></mfenced></math></p><p><math><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>115</mn><mo>&times;</mo><mn>1.042</mn><mo>=</mo><mn>119.82</mn></math></p><p><math><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&nbsp;</mi><mo>&cong;</mo><mn>120</mn><mi>&nbsp;</mi><mi>B</mi><mi>q</mi></math></p><p>120 Bq is the activity of 2.5 ml</p><p><math><mo>&there4;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mn>2.4</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup><mi>&nbsp;</mi><mi>B</mi><mi>q</mi></math>&nbsp; is the activity of <math><mfrac><mrow><mn>2.5</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow><mrow><mn>120</mn></mrow></mfrac><mo>&times;</mo><mn>2.4</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></math></p><p><math><mo>&there4;</mo></math>&nbsp;&nbsp;&nbsp; Total volume of blood = 5 litres</p>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a52f23ac7d519f9b35e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "An accident in a nuclear laboratory resulted in deposition of a certain amount of radioactive material of half-life 18 days inside the laboratory. Tests revealed that the radiation was 64 times more than the permissible level required for safe operation of the laboratory. What is the minimum number of days after which the laboratory can be considered safe for use?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FOJYQ",
+        "text": "64",
+        "image": null
+      },
+      {
+        "id": "q7sqi",
+        "text": "90",
+        "image": null
+      },
+      {
+        "id": "a1jwD",
+        "text": "108",
+        "image": null
+      },
+      {
+        "id": "RuSsf",
+        "text": "120",
+        "image": null
+      }
+    ],
+    "correct_answer": "a1jwD",
+    "solution_text": "<p>Given half-life of radioactive material&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mfrac bevelled=\"true\"><mn>1</mn><mn>2</mn></mfrac></msub><mo>=</mo><mn>18</mn><mo>&#160;</mo></math>days.</p><p>Let the permissible level have activity of <math><msub><mrow><mi>A</mi></mrow><mrow><mi>P</mi><mi>e</mi><mi>r</mi><mi>m</mi><mi>i</mi><mi>s</mi><mi>s</mi><mi>i</mi><mi>b</mi><mi>l</mi><mi>e</mi></mrow></msub></math><br />Thus, initially<br /><math><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>64</mn><mi>&#160;</mi><msub><mrow><mi>A</mi></mrow><mrow><mi>p</mi><mi>e</mi><mi>r</mi><mi>m</mi><mi>i</mi><mi>s</mi><mi>s</mi><mi>i</mi><mi>b</mi><mi>l</mi><mi>e</mi></mrow></msub></math> [Given]<br />Let number of days required be t.<br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mfrac><mrow><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msup><mrow><mn>2</mn></mrow><mrow><mfrac><mrow><mi>t</mi></mrow><mrow><mn>18</mn></mrow></mfrac></mrow></msup></mrow></mfrac><mo>=</mo><msub><mrow><mi>A</mi></mrow><mrow><mi>p</mi><mi>e</mi><mi>r</mi><mi>m</mi><mi>i</mi><mi>s</mi><mi>s</mi><mi>i</mi><mi>b</mi><mi>l</mi><mi>e</mi></mrow></msub></math><br /><math><mo>&#8756;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>t</mi><mo>=</mo><mn>108</mn><mi>&#160;</mi><mi>d</mi><mi>a</mi><mi>y</mi><mi>s</mi></math></p>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a46f23ac7d519f9b2f0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "For a radioactive material, its activity <math><mi mathvariant=\"normal\">A</mi></math> and rate of change of its activity <math><mi mathvariant=\"normal\">R</mi></math> are defined as <math><mi mathvariant=\"normal\">A</mi><mo>=</mo><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow></mfrac></math> and <math><mi mathvariant=\"normal\">R</mi><mo>=</mo><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">t</mi></mrow></mfrac></math> , where <math><mi mathvariant=\"normal\">N</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></math> is the number of nuclei at time <math><mi mathvariant=\"normal\">t</mi></math> . Two radioactive sources <math><mi mathvariant=\"normal\">P</mi></math> (mean life <math><mi mathvariant=\"normal\">&#964;</mi></math> ) and <math><mi mathvariant=\"normal\">Q</mi></math> (mean life <math><mn>2</mn><mi mathvariant=\"normal\">&#964;</mi></math> ) have the same activity at <math><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn></math> . Their rates of change of activities at <math><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">&#964;</mi></math> are <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></math> , respectively. If <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></mfrac></math> , then the value of <math><mi mathvariant=\"normal\">n</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<math><mi mathvariant=\"normal\">N</mi><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">λ</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> <br > <math><mi mathvariant=\"normal\">A</mi><mo>=</mo><mi mathvariant=\"normal\">λ</mi><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">λ</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> <br > <math><mi mathvariant=\"normal\">R</mi><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mn>2</mn></mrow></msup><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><mi mathvariant=\"normal\">λ</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">A</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></math>  at  <math><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><mi mathvariant=\"normal\">t</mi></mrow></msup><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub><mi mathvariant=\"normal\">t</mi></mrow></msup></math>  at  <math><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></math>                     ...(i) <br > <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac></mrow></mfenced><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><mn>2</mn><mi mathvariant=\"normal\">τ</mi></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub><mn>2</mn><mi mathvariant=\"normal\">τ</mi></mrow></msup></mrow></mfrac><mi mathvariant=\"normal\"> </mi></math> <br > <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac><mo>=</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">N</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac></mrow></mfenced><mfrac><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></mfrac><mi mathvariant=\"normal\"> </mi></math>             ...(ii)<br > <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">f</mi><mi mathvariant=\"normal\">e</mi></mrow></mfrac></mrow></mfenced></math>     <br >From equation (i) and equation (ii)<br > <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">P</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">Q</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></mfrac><mi> </mi><mo>⇒</mo><mi>n</mi><mo>=</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a40f23ac7d519f9b2b3",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "A nuclear power plant supplying electrical power to a village uses a radioactive material of half life <math><mi mathvariant=\"normal\">T</mi></math> years as the fuel. The amount of fuel at the beginning is such that the total power requirement of the village is 12.5% of the electrical power available from the plant at that time. If the plant is able to meet the total power needs of the village for a maximum period of <math><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">T</mi></math> years, then the value of <math><mi mathvariant=\"normal\">n</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<math><mn>12.5</mn><mi mathvariant=\"normal\">%</mi><mo>→</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math>  of initial power<br > <math><mo>∵</mo></math>  After each T, P will be half<br > <math><mi mathvariant=\"normal\">P</mi><mover accent=\"false\"><mo>→</mo><mrow><mi mathvariant=\"normal\">T</mi></mrow></mover><mfrac><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"normal\"> </mi><mover accent=\"false\"><mo>→</mo><mrow><mi mathvariant=\"normal\">T</mi></mrow></mover><mfrac><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mi mathvariant=\"normal\"> </mi><mover accent=\"false\"><mo>→</mo><mrow><mi mathvariant=\"normal\">T</mi></mrow></mover><mfrac><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>8</mn></mrow></mfrac></math> <br > <math><mo>∴</mo></math>  Total time  <math><mo>=</mo><mn>3</mn><mi mathvariant=\"normal\">T</mi></math> <br > <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>3</mn></math>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a27f23ac7d519f9b1d0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A freshly prepared sample of a radioisotope of half-life 1386 s&nbsp;has activity ${10}^{3}$ disintegrations per second. Given that In 2 = 0.693, the fraction of the initial number of nuclei (expressed in nearest integer percentage) that will decay in the first 80 s after preparation of the sample is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<math><mrow>  <mtext>f</mtext>  <mo>=</mo>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <mn>1</mn>      <mo>-</mo>      <msup>              <mtext>e</mtext>          <mrow>            <mo>-</mo>            <mi>&lambda;</mi>            <mtext>t</mtext>          </mrow>      </msup>    </mrow>  </mfenced>  <mo>=</mo>  <mn>1</mn>  <mo>-</mo>  <msup>          <mtext>e</mtext>      <mrow>        <mo>-</mo>        <mi>&lambda;</mi>        <mtext>t</mtext>      </mrow>  </msup>  <mo>&asymp;</mo>  <mn>1</mn>  <mo>-</mo>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <mn>1</mn>      <mo>-</mo>      <mi>&lambda;</mi>      <mtext>t</mtext>    </mrow>  </mfenced>  <mo>=</mo>  <mi>&lambda;</mi>  <mtext>t</mtext></mrow></math><br>f = 0.04<br>Hence&nbsp;<math><mrow>  <mtext>%</mtext>  <mo>decay&nbsp;</mo>  <mo>&asymp;&nbsp;</mo>  <mn>4</mn>  <mo>%</mo></mrow></math>",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a0cf23ac7d519f9b0db",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The activity of a freshly prepared radioactive sample is $10^{10}$ disintegrations per second, whose mean life is $10^{-9} \\mathrm{~s}$. The mass of an atom of this radioisotope is $10^{-25} \\mathrm{~kg}$. The mass (in $\\mathrm{mg}$ ) of the radioactive sample is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "Activity $\\left(-\\frac{d N}{d t}\\right)=\\lambda N=\\left(\\frac{1}{t_{\\text {mean }}}\\right) \\times N$\n$$\n\\begin{aligned}\n& \\therefore \\quad N=\\left(-\\frac{d N}{d t}\\right) \\times t_{\\text {mean }} \\\\\n& \\quad=\\text { Total number of atoms } \\\\\n& \\text { Mass of one atom is } 10^{-25} \\mathrm{~kg}=m \\text { (say) } \\\\\n& \\therefore \\quad \\text { Total mass of radioactive substance } \\\\\n& =(\\text { number of atoms) } \\\\\n& \\quad \\times(\\text { mass of one atom) } \\\\\n& =\\left(-\\frac{d N}{d t}\\right)\\left(t_{\\text {mean }}\\right)(m)\n\\end{aligned}\n$$\nSubstituting the values, we get\nTotal mass of radioactive substance\n$$\n=1 \\mathrm{mg}\n$$\n$\\therefore$ Answer is 1 .\nAnalysis of Question\nQuestion is very simple. Again in my opinion one can solve it.",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b16a04f23ac7d519f9b092",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "To determine the half-life of a radioactive element, a student plots a graph of $\\ln \\left|\\frac{d N(t)}{d t}\\right|$ versust. Here $\\frac{d N(t)}{d t}$ is the rate of radioactive decay at time $t$. If the number of radioactive nuclei of this element decreases by a factor of $p$ after $4.16 \\mathrm{yr}$, the value of $p$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cVWnejtFcY6cljXBHxMmON746JdsX22aYXuq-g9-vyg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "$\\left|\\frac{d N}{d t}\\right|=\\mid$ Activity of radioactive substance|\n$$\n=\\lambda N=\\lambda N_0 e^{-\\lambda t}\n$$\nTaking log both sides\n$$\n\\ln \\left|\\frac{d N}{d t}\\right|=\\ln \\left(\\lambda N_0\\right)-\\lambda t\n$$\nHence, $\\ln \\left|\\frac{d N}{d t}\\right|$ versus $t$ graph is a straight line with slope $-\\lambda$\nFrom the graph we can see that,\n$$\n\\lambda=\\frac{1}{2}=0.5 \\mathrm{yr}^{-1}\n$$\nNow applying the equation,\n$$\n\\begin{aligned}\nN & =N_0 e^{-\\lambda t} \\\\\n& =N_0 e^{-0.5 \\times 4.16} \\\\\n& =N_0 e^{-2.08}=0.125 N_0 \\\\\n& =\\frac{N_0}{8}\n\\end{aligned}\n$$\nie, nuclei decreases by a factor of 8 . Hence the answer is 8 .",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b169e7f23ac7d519f9af86",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "A radioactive sample $S_1$ having an activity of $5 \\mu \\mathrm{Ci}$ has twice the number of nuclei as another sample $S_2$ which has an activity of $10 \\mu \\mathrm{Ci}$. The half lives of $S_1$ and $S_2$ can be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ATY3X",
+        "text": "\n20 yr and 5 yr, respectively\n",
+        "image": null
+      },
+      {
+        "id": "Q2MnL",
+        "text": "\n20 yr and 10 yr, respectively\n",
+        "image": null
+      },
+      {
+        "id": "kwQfQ",
+        "text": "\n10 yr each\n",
+        "image": null
+      },
+      {
+        "id": "QTxIn",
+        "text": "\n5 yr each",
+        "image": null
+      }
+    ],
+    "correct_answer": "ATY3X",
+    "solution_text": "Activity of $S_1=\\frac{1}{2}$ (activity of $S_2$ )\nor\n$$\n\\lambda_2 N_1=\\frac{1}{2}\\left(\\lambda_2 N_2\\right) \\text { or } \\frac{\\lambda_1}{\\lambda_2}=\\frac{N_2}{2 N_1}\n$$\nor\n$$\n\\begin{aligned}\n& \\frac{T_1}{T_2}=\\frac{2 N_1}{N_2}\\left(T=\\text { half-life }=\\frac{\\ln 2}{\\lambda}\\right) \\\\\n& N_1=2 N_2 \\\\\n& \\frac{T_1}{T_2}=4\n\\end{aligned}\n$$\nGiven\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b169c7f23ac7d519f9ae65",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Match the following columns\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/UWvjzowOsy9s6gkOqAlYesntU2oLVtSYhsrLUqDtv3A.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4dEFA",
+        "text": "\n(a) p,q, (b) p, (c) p, (d) p,q\n",
+        "image": null
+      },
+      {
+        "id": "ZfsD7",
+        "text": "\n(a) p,q,r, (b) p, s, (c) p,r, (d) p,q,r\n",
+        "image": null
+      },
+      {
+        "id": "eQ0nQ",
+        "text": "\n(a) p,q, (b) p, r, (c) p,s, (d) p,q,r\n",
+        "image": null
+      },
+      {
+        "id": "g6gMJ",
+        "text": "\n(a) p,s, (b) p, s, (c) p, (d) p,q",
+        "image": null
+      }
+    ],
+    "correct_answer": "eQ0nQ",
+    "solution_text": "(a) $\\rightarrow$ p, q\n(b) $\\rightarrow \\mathrm{p}, \\mathrm{r}$\n(c) $\\rightarrow$ p, $s$\n(d) $\\rightarrow$ p, q, r",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  },
+  {
+    "question_id": "64b169c4f23ac7d519f9ae44",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Half-life of a radio active substance ' $A$ ' is 4 days. The probability that a nucleus will decay in two half-lives is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1xi31",
+        "text": "\n$\\frac{1}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "89qqa",
+        "text": "\n$\\frac{3}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "WxeHr",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "rcvtR",
+        "text": "\n1",
+        "image": null
+      }
+    ],
+    "correct_answer": "89qqa",
+    "solution_text": "After two half lives $\\frac{1}{4}$ th fraction of nuclei will remain undecayed. Or, $\\frac{3}{4}$ th fraction will decay. Hence, the probability that a nucleus decays in two half lives is $\\frac{3}{4}$.",
+    "solution_image": null,
+    "topic": "Radioactivity"
+  }
+]

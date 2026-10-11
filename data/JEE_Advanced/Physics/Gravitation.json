@@ -1,0 +1,691 @@
+[
+  {
+    "question_id": "64b16aa1f23ac7d519f9b626",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Two satellites <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> are moving in different circular orbits around the Earth(radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>). The heights of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math>&nbsp;from the Earth surface are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>h</mi><mi>P</mi></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>h</mi><mi>Q</mi></msub></math>, respectively, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>h</mi><mi>P</mi></msub><mo>=</mo><mfrac><mi>R</mi><mn>3</mn></mfrac></math>. The accelerations of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> due to Earth&rsquo;s gravity are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>g</mi><mi>P</mi></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>g</mi><mi>Q</mi></msub></math>,&nbsp;respectively. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>g</mi><mi>P</mi></msub><msub><mi>g</mi><mi>Q</mi></msub></mfrac><mo>=</mo><mfrac><mn>36</mn><mn>25</mn></mfrac></math>,&nbsp;what is the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>h</mi><mi>Q</mi></msub></math>?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "gwDKb",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><mi>R</mi></mrow><mn>5</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Gq3qd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>R</mi><mn>6</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "KZcKj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mi>R</mi></mrow><mn>5</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "2hXgP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>5</mn><mi>R</mi></mrow><mn>5</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "gwDKb",
+    "solution_text": "<blockquote><p>Acceleration due to gravity at any height from the Earth&#39;s surface is given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>=</mo><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><msup><mi>r</mi><mn>2</mn></msup></mfrac></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo></math>distance from the centre of the Earth.</p><p>Now, we can write</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>g</mi><mi>P</mi></msub><msub><mi>g</mi><mi>Q</mi></msub></mfrac><mo>=</mo><mfrac><mstyle displaystyle=\"true\"><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mstyle displaystyle=\"true\"><msup><mfenced><msub><mi>r</mi><mi>P</mi></msub></mfenced><mn>2</mn></msup></mstyle></mfrac></mstyle><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mstyle displaystyle=\"true\"><msup><mfenced><msub><mi>r</mi><mi>Q</mi></msub></mfenced><mn>2</mn></msup></mstyle></mfrac></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mfrac><mn>36</mn><mn>25</mn></mfrac><mo>=</mo><msup><mfenced><mfrac><msub><mi>r</mi><mi>Q</mi></msub><msub><mi>r</mi><mi>P</mi></msub></mfrac></mfenced><mn>2</mn></msup><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mfrac><mstyle displaystyle=\"true\"><msub><mi>r</mi><mi>Q</mi></msub></mstyle><mstyle displaystyle=\"true\"><msub><mi>r</mi><mi>P</mi></msub></mstyle></mfrac><mo>=</mo><mfrac><mn>6</mn><mn>5</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>r</mi><mi>Q</mi></msub><mo>=</mo><mfrac><mn>6</mn><mn>5</mn></mfrac><mo>&#215;</mo><mfenced><mrow><mi>R</mi><mo>+</mo><mfrac><mi>R</mi><mn>3</mn></mfrac></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>R</mi><mo>+</mo><msub><mi>h</mi><mi>Q</mi></msub><mo>=</mo><mfrac><mn>8</mn><mn>5</mn></mfrac><mi>R</mi><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>h</mi><mi>Q</mi></msub><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mi>R</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Acceleration Due to Gravity"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af46",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement 1 An astronaut in an orbiting space station above the earth experiences weightlessness.\nand Statement 2 An object moving around the earth under the influence of earth's gravitational force is in state of 'free fall'.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "sEAOe",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "ohahC",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "LZmJN",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "qjMC9",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "sEAOe",
+    "solution_text": "Force acting on astronaut is utilised in providing necessary centripetal force; thus he feels weightlessness or he is in a state of free fall.\n$$\n\\therefore \\text { correct option is (a) }\n$$",
+    "solution_image": null,
+    "topic": "Acceleration Due to Gravity"
+  },
+  {
+    "question_id": "64b16a70f23ac7d519f9b46d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>Consider a spherical gaseous cloud of mass density <math><mi mathvariant=\"normal\">ρ</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></math> in free space where <math><mi mathvariant=\"normal\">r</mi></math> is the radial distance from its center. The gaseous cloud is made of particles of equal mass m moving in circular orbits about the common center with the same kinetic energy <math><mi mathvariant=\"normal\">K</mi></math> . The force acting on the particles is their mutual gravitational force. If <math><mi mathvariant=\"normal\">ρ</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></math> is constant in time, the particle number density <math><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">ρ</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></mrow></math> is: [ <math><mi mathvariant=\"normal\">G</mi></math> is universal gravitational constant]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8gd7Q",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">π</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "KHd6C",
+        "text": "<math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">π</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "eqVg2",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>6</mn><mi mathvariant=\"normal\">π</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "Td8tF",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">π</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Td8tF",
+    "solution_text": "Given that all the particles of gaseous cloud has mass  <math><mi>‘</mi><mi>m</mi><mi>’</mi></math>  and are moving due to mutual attraction with same kinetic energy  <math><mi>‘</mi><mi>K</mi><mi>’</mi></math> .<br >Now in that cloud, let us consider a sphere of radius  <math><mi>‘</mi><mi>r</mi><mi>’</mi></math>  containing a group of particles adding to a total mass  <math><mi>‘</mi><mi>M</mi><mi>’</mi></math> .<br >Now, another particle of mass  <math><mi>‘</mi><mi>m</mi><mi>’</mi></math>  is moving with speed  <math><mi>‘</mi><mi>V</mi><mi>’</mi></math>  due to gravitational attraction of  <math><mi>M</mi><mo>,</mo></math>  in a circle of radius  <math><mi>‘</mi><mi>r</mi><mi>’</mi></math> .<br > <math><mo>∴</mo></math>  Centripetal force is here given by  <math><mi>‘</mi><mi>M</mi><mi>’</mi></math> <br > <math><mo>⇒</mo><mfrac><mrow><mi>G</mi><mi>M</mi><mo>⋅</mo><mi>m</mi></mrow><mrow><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>r</mi></mrow></mfrac></math>  ....(1)<br >But, kinetic energy,  <math><mi>K</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br > <math><mo>⇒</mo><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>K</mi></math> <br >Put it in  <math><mo>(</mo><mn>1</mn><mo>)</mo></math> <br > <math><mo>⇒</mo><mfrac><mrow><mi>G</mi><mi>M</mi><mi>m</mi></mrow><mrow><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi></mrow><mrow><mi>r</mi></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi>M</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi><mi>r</mi></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac></math> <br >Differentiating it we get,<br > <math><mi>d</mi><mi>M</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac><mo>⋅</mo><mi>d</mi><mi>r</mi></math>  .....(2)<br >Now, if density of cloud is  <math><mi>&prime;</mi><msup><mrow><mi>ρ</mi></mrow><mrow><mi>&prime;</mi></mrow></msup><mo>,</mo></math> <br >Then elementary mass,<br > <math><mi>d</mi><mi>M</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mn>4</mn><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>d</mi><mi>r</mi></mrow></mfenced><mo>⋅</mo><mi>ρ</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac><mo>⋅</mo><mi>d</mi><mi>r</mi></math> <br > <math><mo>⇒</mo><mi>ρ</mi><mo>=</mo><mfrac><mrow><mi>K</mi></mrow><mrow><mn>2</mn><mi>π</mi><mi>G</mi><mi>m</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Gravitational field"
+  },
+  {
+    "question_id": "64b16a39f23ac7d519f9b275",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "A planet of radius <math><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>&#215;</mo></math> (radius of Earth) has the same mass density as Earth. Scientists dig a well of depth <math><mfrac><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>5</mn></mrow></mfrac></math> on it and lower a wire of the same length and of linear mass density <math><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">g</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> into it. If the wire is not touching anywhere, the force applied at the top of the wire by a person holding it in place is (take the radius of Earth <math><mo>=</mo><mn>6</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>6</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi></math> and the acceleration due to gravity of Earth is <math><mn>10</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GnrHm",
+        "text": "96 N",
+        "image": null
+      },
+      {
+        "id": "AvCNz",
+        "text": "108 N",
+        "image": null
+      },
+      {
+        "id": "zWNkT",
+        "text": "120 N",
+        "image": null
+      },
+      {
+        "id": "WWl7i",
+        "text": "150 N",
+        "image": null
+      }
+    ],
+    "correct_answer": "AvCNz",
+    "solution_text": "Inside planet<br /><math><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">i</mi></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi></mrow></msub><mfrac><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">&#960;</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">&#961;</mi></math><br />Force to keep the wire at rest (F)<br />= weight of wire<br /><math><mo>=</mo><mrow><munderover><mo stretchy=\"false\">&#8747;</mo><mrow><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>5</mn></mrow></mfrac></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">&#955;</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">r</mi></mrow></mfenced></mrow></mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">&#960;</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">&#961;</mi></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">&#960;</mi><mi mathvariant=\"normal\">&#961;</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>9</mn><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></mfenced><msup><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br />Here, <math><mi mathvariant=\"normal\">&#961;</mi><mo>=</mo></math> density of earth <math><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi mathvariant=\"normal\">&#960;</mi><msubsup><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></math><br />Also, <math><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow><mrow><mn>10</mn></mrow></mfrac></math> ; putting all values, <math><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>108</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">N</mi></math>",
+    "solution_image": null,
+    "topic": "Gravitational field"
+  },
+  {
+    "question_id": "64b169dff23ac7d519f9af3e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "A spherically symmetric gravitational system of particles has a mass density\n$$\n\\rho=\\left\\{\\begin{array}{l}\n\\rho_0 \\text { for } r \\leq R \\\\\n0 \\text { for } r>R\n\\end{array}\\right.\n$$\nwhere $\\rho_0$ is a constant. A test mass can undergo circular motion under the influence of the gravitational field of particles. Its speed $v$ as a function of distance $r(0 < r < \\infty)$ from the centre of the system is represented by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rC7yo",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LA_vMBB7WhU2Vip7y_eiK1-zkU_SDBCOiBh6fpNcRvE.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "XFNtn",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OSf9wp55TuxJM9G6WaYwibu2xUu2N2abQyF2IXtTUak.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "d26t5",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9r4XEvZ2nmCJLJy-w_gGqxYumnEQB0ILHwTYuH9voJY.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "EXPuq",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c7v7l3sB9fKCfhxFSsS39jb0MepdzAJ1UM82vwi3us8.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "d26t5",
+    "solution_text": "For $r \\leq R$ :\n$$\n\\frac{m v^2}{r}=\\frac{G \\cdot m m^{\\prime}}{r^2}\n$$\nHere, $m^{\\prime}=\\left(\\frac{4}{3} \\pi r^3\\right) \\rho_0$\nSubstituting in Eq. (i) we get, $v \\propto r$\ni.e., $v-r$ graph is a straight line passing through origin.\nFor $r>R$ :\n$$\n\\frac{m v^2}{r}=\\frac{G \\cdot m\\left(\\frac{4}{3} \\pi R^3\\right) \\rho_0}{r^2}\n$$\nor $\\quad V \\propto \\frac{1}{\\sqrt{r}}$\nThe corresponding $v-r$ graph will be as shown in option (c).\n$\\therefore$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Gravitational field"
+  },
+  {
+    "question_id": "685102c36bba689a3eb09cb2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Consider a star of mass $m_2 \\mathrm{~kg}$ revolving in a circular orbit around another star of mass $m_1 \\mathrm{~kg}$ with $m_1 \\gg m_2$. The heavier star slowly acquires mass from the lighter star at a constant rate of $\\gamma \\mathrm{kg} / \\mathrm{s}$. In this transfer process, there is no other loss of mass. If the separation between the centers of the stars is $r$, then its relative rate of change $\\frac{1}{r} \\frac{\\mathrm{~d} r}{\\mathrm{~d} t}\\left(\\right.$ in s $\\left.^{-1}\\right)$ is given by:\n[Note: The original question was awarded bonus marks in the JEE Advanced 2025 exam. We have changed the options to make the question valid and solvable.]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EuyPi",
+        "text": "$\\frac{3 \\gamma}{2 m_2}$",
+        "image": null
+      },
+      {
+        "id": "SoelA",
+        "text": "$\\frac{2 \\gamma}{3 m_2}$",
+        "image": null
+      },
+      {
+        "id": "eXbZy",
+        "text": "$\\frac{2 \\gamma}{m_1}$",
+        "image": null
+      },
+      {
+        "id": "CqaxO",
+        "text": "$\\frac{3 \\gamma}{2 m_1}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SoelA",
+    "solution_text": "\\(\\begin{aligned} & v=v_0=\\sqrt{\\frac{G m_1}{r}} \\\\ & \\frac{d v_0}{d t}=\\frac{v_0}{2}\\left[\\frac{\\gamma}{m_1}-\\frac{1}{r} \\frac{d r}{d t}\\right]\\end{aligned}\\)\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mnui8WE.png\">\n\\(\\begin{aligned} & F \\alpha =m_2 \\frac{d v}{d t} \\\\ & \\frac{G m_1}{r^2} \\frac{v_r}{v}=\\frac{d v}{d t} \\\\ & \\frac{v_0}{r} \\cdot \\frac{d r}{d t} \\frac{1}{v_0}=\\frac{d v}{d t}\\end{aligned}\\)\n\\(\\frac{V_0}{\\gamma} \\frac{d \\gamma}{d t}=\\frac{X_0}{2}\\left[\\frac{r}{m_1}-\\frac{1}{r} \\frac{d r}{d t}\\right]\\)\n\\(\\frac{3}{2} \\frac{1}{\\gamma} \\frac{d \\gamma}{d t}=\\frac{r}{2 m_1} \\rightarrow \\frac{1}{\\gamma} \\frac{d r}{d t}=\\frac{\\gamma}{3 m_2}\\)",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b16a94f23ac7d519f9b5b4",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Two spherical stars <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;have densities <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#961;</mi><mi>A</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#961;</mi><mi>B</mi></msub></math>, respectively. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;have the same radius, and their masses <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>A</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>B</mi></msub></math> are related by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>B</mi></msub><mo>=</mo><mn>2</mn><msub><mi>M</mi><mi>A</mi></msub></math>. Due to an interaction process, star <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;loses some of its mass, so that its radius is halved, while its spherical shape is retained, and its density remains <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#961;</mi><mi>A</mi></msub></math>. The entire mass lost by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is deposited as a thick spherical shell on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;with the density of the shell being <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#961;</mi><mi>A</mi></msub></math>. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>A</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>B</mi></msub></math> are the escape velocities from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;after the interaction process, the ratio <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>v</mi><mi>B</mi></msub><msub><mi>v</mi><mi>A</mi></msub></mfrac><mo>=</mo><msqrt><mfrac><mrow><mn>10</mn><mi>n</mi></mrow><msup><mn>15</mn><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>3</mn></mfrac></mstyle></msup></mfrac></msqrt></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.3",
+    "solution_text": "<blockquote><p>Given here:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>A</mi></msub><mo>=</mo><msub><mi>R</mi><mi>B</mi></msub><mo>=</mo><mi>R</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>B</mi></msub><mo>=</mo><mn>2</mn><msub><mi>M</mi><mi>A</mi></msub></math>.</p><p>Now,&nbsp;after interaction process, radius of remaining star&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><msub><mi>R</mi><mi>A</mi></msub><mo>&#39;</mo></msup><mo>=</mo><mfrac><mi>R</mi><mn>2</mn></mfrac></math>&nbsp;and its mass is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><msub><mi>M</mi><mi>A</mi></msub><mo>&#39;</mo></msup><mo>=</mo><msub><mi>&#961;</mi><mi>A</mi></msub><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#960;</mi><msup><mfenced><mfrac><msub><mi>R</mi><mi>A</mi></msub><mn>2</mn></mfrac></mfenced><mn>3</mn></msup><mo>=</mo><mfrac><msub><mi>M</mi><mi>A</mi></msub><mn>8</mn></mfrac></math></p><p>Applying conservation of energy,</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>-</mo><mi>G</mi><msup><msub><mi>M</mi><mi>A</mi></msub><mo>&#39;</mo></msup><mi>m</mi></mrow><msup><msub><mi>R</mi><mi>A</mi></msub><mo>&#39;</mo></msup></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msubsup><mi>v</mi><mi>A</mi><mn>2</mn></msubsup><mo>=</mo><mn>0</mn></math></p><p>Escape velocity of star&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>A</mi></msub><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mi>M</mi><mi>A</mi></msub></mrow><mrow><mn>8</mn><mo>&#215;</mo><mfenced><mstyle displaystyle=\"true\"><mfrac><mi>R</mi><mn>2</mn></mfrac></mstyle></mfenced></mrow></mfrac></msqrt><mo>=</mo><mfrac><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></mfrac></math></p></blockquote><blockquote><p>Now, for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>,</mo></math>&nbsp;mass collected over&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><msub><mi>M</mi><mi>B</mi></msub><mo>&#39;</mo></msup><mo>=</mo><msub><mi>M</mi><mi>A</mi></msub><mo>-</mo><mfrac><msub><mi>M</mi><mi>A</mi></msub><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>7</mn><mn>8</mn></mfrac><msub><mi>M</mi><mi>A</mi></msub></math>.</p><p>Let the radius of star&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;after interaction&nbsp;becomes&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>.</p><p>Applying mass conservation,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#960;</mi><mfenced><mrow><msup><mi>r</mi><mn>3</mn></msup><mo>-</mo><msup><mi>R</mi><mn>3</mn></msup></mrow></mfenced><msub><mi>&#961;</mi><mi>A</mi></msub><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>&#960;</mi><msup><mi>R</mi><mn>3</mn></msup><mo>&#215;</mo><mfrac><mn>7</mn><mn>8</mn></mfrac><msub><mi>&#961;</mi><mi>A</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>r</mi><mo>=</mo><msup><mfenced><mfrac><mn>15</mn><mn>8</mn></mfrac></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mi>R</mi></math></p><p>Escape velocity of star&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><msub><mi>v</mi><mi>B</mi></msub><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><mo>&#215;</mo><mfenced><mrow><mn>2</mn><msub><mi>M</mi><mi>A</mi></msub><mo>+</mo><mstyle displaystyle=\"true\"><mfrac><mn>7</mn><mn>8</mn></mfrac></mstyle><msub><mi>M</mi><mi>A</mi></msub></mrow></mfenced></mrow><mrow><msup><mfenced><mn>15</mn></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup><mfenced><mstyle displaystyle=\"true\"><mfrac><mi>R</mi><mn>2</mn></mfrac></mstyle></mfenced></mrow></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mi>M</mi><mi>A</mi></msub></mrow><mi>R</mi></mfrac></msqrt><msqrt><mfrac><mrow><mn>2</mn><mfenced><mstyle displaystyle=\"true\"><mfrac><mrow><mn>16</mn><mo>+</mo><mn>7</mn></mrow><mn>8</mn></mfrac></mstyle></mfenced></mrow><msup><mfenced><mn>15</mn></mfenced><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>3</mn></mfrac></mstyle></msup></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>v</mi><mn>0</mn></msub><mo>&#215;</mo><msqrt><mfrac><mrow><mn>23</mn><mo>&#215;</mo><mn>2</mn></mrow><mrow><mn>8</mn><mo>&#215;</mo><msup><mfenced><mn>15</mn></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></mrow></mfrac></msqrt><mo>=</mo><mfrac><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></mfrac><mo>&#215;</mo><msqrt><mfrac><mn>23</mn><msup><mfenced><mn>15</mn></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></mfrac></msqrt></math></p><p>Now, the ratio&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>v</mi><mi>B</mi></msub><msub><mi>v</mi><mi>A</mi></msub></mfrac><mo>=</mo><msqrt><mfrac><mn>23</mn><msup><mfenced><mn>15</mn></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mo>.</mo><mn>30</mn><mo>&#215;</mo><mn>10</mn></mrow><msup><mfenced><mn>15</mn></mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>n</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>30</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b16a5ef23ac7d519f9b3c8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "A rocket is launched normal to the surface of the Earth, away from the Sun, along the line joining the Sun and the Earth. The Sun is <math><mn>3</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></math> times heavier than the Earth and is at a distance <math><mn>2.5</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><mi>&#160;</mi></math> times larger than the radius of the Earth. The escape velocity from Earth&#39;s gravitational field is <math><msub><mrow><mi>v</mi></mrow><mrow><mi>e</mi></mrow></msub><mo>=</mo><mn>11.2</mn><mi>&#160;</mi><mi>k</mi><mi>m</mi><mi>&#160;</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . The minimum initial velocity <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub></mrow></mfenced></math> required for the rocket to be able to leave the Sun-Earth system is closest to<br />(Ignore the rotation and revolution of the Earth and the presence of any other planet)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZF8xd",
+        "text": "<math><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mn>22</mn><mi> </mi><mi>k</mi><mi>m</mi><mi> </mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "9e6NY",
+        "text": "<math><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mn>72</mn><mi> </mi><mi>k</mi><mi>m</mi><mi> </mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "j2A2U",
+        "text": "<math><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mn>42</mn><mi>&nbsp;</mi><mi>k</mi><mi>m</mi><mi>&nbsp;</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "lz2Rn",
+        "text": "<math><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mn>62</mn><mi> </mi><mi>k</mi><mi>m</mi><mi> </mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "j2A2U",
+    "solution_text": "<p>Given&nbsp;<math><msub><mrow><mi>v</mi></mrow><mrow><mi>e</mi></mrow></msub><mo>=</mo><mn>11.2</mn><mrow><mrow><mi>k</mi><mi>m</mi></mrow><mo>/</mo><mrow><mi>s</mi><mi>e</mi><mi>c</mi></mrow></mrow><mo>=</mo><mi>&nbsp;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac></msqrt></math></p><p><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>-</mo><mfrac><mrow><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>s</mi></mrow></msub><mi>m</mi></mrow><mrow><mi>r</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub><mi>m</mi></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mn>0</mn><mo>-</mo><mn>0</mn></math>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where r = distance of rocket from Sun</p><p><math><mo>&rArr;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mi>&nbsp;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>s</mi></mrow></msub></mrow><mrow><mi>r</mi></mrow></mfrac></msqrt></math></p><p>Given&nbsp; <math><msub><mrow><mi>M</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mn>3</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup><mi>&nbsp;</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></math>&nbsp; and&nbsp; <math><mi>r</mi><mo>=</mo><mn>2.5</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></math></p><p><math><mo>&rArr;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mi>&nbsp;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>2</mn><mi>G</mi><mn>3</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><mn>2.5</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac></msqrt></math></p><p><math><mo>=</mo><mi>&nbsp;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>3</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>2.5</mn><mo>&times;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac></mrow></mfenced></msqrt></math></p><p><math><mo>=</mo><mi>&nbsp;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><msub><mrow><mi>M</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>&times;</mo><mn>13</mn></msqrt></math></p><p><math><mo>&rArr;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><msub><mrow><mi>v</mi></mrow><mrow><mi>s</mi></mrow></msub><mo>=</mo><mn>42</mn><mrow><mrow><mi>k</mi><mi>m</mi></mrow><mo>/</mo><mrow><mi>s</mi></mrow></mrow></math></p>",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b16a3ff23ac7d519f9b2b0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "A bullet is fired vertically upwards with velocity <math><mi mathvariant=\"normal\">&#965;</mi></math> from the surface of a spherical planet. When it reaches its maximum height, its acceleration due to the planet&#39;s gravity is <math><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mn>4</mn></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></mrow></mfrac></math> of its value at the surface of the planet. If the escape velocity from the planet is <math><msub><mrow><mi mathvariant=\"normal\">&#965;</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">c</mi></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">&#965;</mi><msqrt><mi mathvariant=\"normal\">N</mi></msqrt></math> , then the value of N is (ignore energy loss due to atmosphere)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image4-a3c8e0a3-2aed-4e60-9f36-9d9ef83e0f7b.jpg\"/><br ><math><msup><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mi mathvariant=\"normal\">′</mi></mrow></msup><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">h</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>4</mn></mrow></mfrac></math><br ><math><mn>1</mn><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">h</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math><br ><math><mi mathvariant=\"normal\">h</mi><mo>=</mo><mi mathvariant=\"normal\">R</mi></math> ...(i)<br >So velocity of particle becomes zero at <math><mi mathvariant=\"normal\">h</mi><mo>=</mo><mi mathvariant=\"normal\">R</mi></math><br >Given <math><msub><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">c</mi></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">v</mi><msqrt><mi mathvariant=\"normal\">N</mi></msqrt></math><br >So <math><msqrt><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac></msqrt><mo>=</mo><mi mathvariant=\"normal\">v</mi><msqrt><mi mathvariant=\"normal\">N</mi></msqrt></math> ...(ii)<br >Applying conservation of energy<br ><math><mfrac><mrow><mo>-</mo><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>+</mo><mn>0</mn></math><br >On solving<br ><math><msup><mrow><mi mathvariant=\"normal\">v</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac></math><br >So <math><mi mathvariant=\"normal\">v</mi><mo>=</mo><msqrt><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac></msqrt></math> putting in equation (ii)<br ><math><msqrt><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac></msqrt><mo>=</mo><mi mathvariant=\"normal\">v</mi><msqrt><mi mathvariant=\"normal\">N</mi></msqrt></math><br >Comparing <math><mi mathvariant=\"normal\">N</mi><mo>=</mo><mn>2</mn></math>",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b1fd",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "Two bodies, each of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math>, are kept fixed with a separation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>L</mi></math>. A particle of mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> is projected from the midpoint of the line joining their centers, perpendicular to the line. The gravitational constant is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi></math>. The correct statement (s) is (are) :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Oum1U",
+        "text": "The minimum&nbsp;initial velocity of the mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> to escape the gravitational field of the two bodies is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msqrt><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mi>L</mi></mfrac></msqrt></math>.",
+        "image": null
+      },
+      {
+        "id": "qEV8q",
+        "text": "The minimum&nbsp;initial velocity of the mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> to escape the gravitational field of the two bodies is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msqrt><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mi>L</mi></mfrac></msqrt></math>.",
+        "image": null
+      },
+      {
+        "id": "fXFyH",
+        "text": "The minimum&nbsp;initial velocity of the mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> to escape the gravitational field of the two bodies is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mn>2</mn><mi>G</mi><mi>M</mi></mrow><mi>L</mi></mfrac></msqrt></math>.",
+        "image": null
+      },
+      {
+        "id": "Iv60W",
+        "text": "The energy of the mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> remains constant.",
+        "image": null
+      }
+    ],
+    "correct_answer": "Iv60W",
+    "solution_text": "<p>Applying mechanical energy conservation,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>U</mi><mi mathvariant=\"normal\">i</mi></msub><mo>+</mo><mi>K</mi><msub><mi>E</mi><mi mathvariant=\"normal\">i</mi></msub><mo>=</mo><msub><mi>U</mi><mi mathvariant=\"normal\">f</mi></msub><mo>+</mo><mi>K</mi><msub><mi>E</mi><mi mathvariant=\"normal\">f</mi></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mrow><mi>G</mi><mi>M</mi><mi>m</mi></mrow><mi>L</mi></mfrac><mo>&#215;</mo><mn>2</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>+</mo><mn>0</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>v</mi><mtext>=</mtext><msqrt><mfrac><mrow><mn>4</mn><mi>G</mi><mi>M</mi></mrow><mi>L</mi></mfrac></msqrt></math><br /><u><strong><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012632_AnsExp2_1.jpg\" /></strong></u><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>v</mi><mtext>=</mtext><mo>&#160;</mo><mn>2</mn><msqrt><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mi>L</mi></mfrac></msqrt></math></p>",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b16a20f23ac7d519f9b192",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Two spherical planets $P$ and $Q$ have the same uniform density $\\rho$, masses $M_{P}$ and $M_{Q}$ and surface areas $A$ and 4A respectively. A spherical planet $R$ also has uniform density $\\rho$ and its mass is $\\left(M_{P}+M_{Q}\\right)$. The escape velocities from the planets $P, Q$ and $R$ are $V_{P}, V_{Q}$ and $V_{R}$, respectively. Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SnXVC",
+        "text": "$V_{Q}>V_{R}>V_{P}$",
+        "image": null
+      },
+      {
+        "id": "J1AE6",
+        "text": "$V_{R}>V_{Q}>V_{P}$",
+        "image": null
+      },
+      {
+        "id": "n9vo6",
+        "text": "$V_{R} / V_{P}=3$",
+        "image": null
+      },
+      {
+        "id": "3KSS3",
+        "text": "$V_{P} / V_{Q}=\\frac{1}{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3KSS3",
+    "solution_text": "Here Planets $P$ and $Q$ have the same uniform density ' $\\rho$ ' and surface areas $A$ and $4 A$ respectively. Let the mass of $P, M_{P}$ be $m$.\r\n\r\nThen $m=\\rho \\times \\frac{4}{3} \\pi r^{3}=\\rho \\times \\frac{4}{3} \\pi\\left[\\frac{A}{4 \\pi}\\right]^{3 / 2}$\r\n\r\nThe mass of $M_{Q}=\\rho \\times \\frac{4}{3} \\pi\\left[\\frac{4 A}{4 \\pi}\\right]^{3 / 2}=8 \\mathrm{~m}$\r\n\r\n$\\therefore \\quad$ The mass of Planet $R=8 \\mathrm{~m}+\\mathrm{m}=9 \\mathrm{~m}$\r\n\r\nIf the radius of $P=r$\r\n\r\nThen the radius of $Q=2 r$\r\n\r\n$\\left[\\because r_{Q}=\\left(\\frac{4 A}{4 \\pi}\\right)^{3 / 2}=2\\left(\\frac{A}{4 \\pi}\\right)^{3 / 2}\\right]$\r\n\r\nand radius of $R=9^{1 / 3} r$\r\n\r\n$\\left[\\begin{array}{l}\r\n\r\n\\because M_{R}=M_{P}+M_{Q} \\\\\r\n\r\nr_{R}^{3}=r^{3}+(2 r)^{3}=9 r^{3}\r\n\r\n\\end{array}\\right]$\r\n\r\nAs we know, escape velocity from the planet\r\n\r\n$\\begin{aligned} V_{e}=\\sqrt{\\frac{2 G M}{R}} & \\therefore v_{P}=\\sqrt{\\frac{2 G M_{P}}{R_{p}}}=\\sqrt{\\frac{2 G m}{r}} \\\\ v_{Q} &=\\sqrt{\\frac{2 G M_{Q}}{R_{Q}}}=\\sqrt{\\frac{2 G(8 \\mathrm{~m})}{2 r}}=2 v_{P} \\\\ v_{R} &=\\sqrt{\\frac{2 G(9 \\mathrm{~m})}{9^{1 / 3} r}}=9^{1 / 3} v_{P} \\end{aligned}$",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b16a12f23ac7d519f9b111",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "A satellite is moving with a constant speed $v$ in a circular orbit about the earth. An object of mass $m$ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of its ejection, the kinetic energy of the object is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DRgAo",
+        "text": "\n$\\frac{1}{2} m v^2$\n",
+        "image": null
+      },
+      {
+        "id": "gomDI",
+        "text": "\n$m v^2$\n",
+        "image": null
+      },
+      {
+        "id": "Y46dt",
+        "text": "\n$\\frac{3}{2} m v^2$\n",
+        "image": null
+      },
+      {
+        "id": "hT1Ux",
+        "text": "\n$2 m v^2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "gomDI",
+    "solution_text": "In circular orbit of a satellite, potential energy\n$$\n\\begin{aligned}\n& =-2 \\times(\\text { kinetic energy) } \\\\\n& =-2 \\times \\frac{1}{2} m v^2=-m v^2\n\\end{aligned}\n$$\nJust to escape from the gravitational pull, its total mechanical energy should be zero. Therefore, its kinetic energy should be $+m v^2$.\n$\\therefore$ Correct answer is (b).\nAnalysis of Question\n(i) Question is moderately difficult.\n(ii) In circular orbit of satellite $U=-\\frac{G M m}{r}$ and $K=\\frac{G M m}{2 r}$ or $U=-2 K$\nHere, $U$ is potential energy and $K$ is kinetic energy.",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b052",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Gravitational acceleration on the surface of a planet is $\\frac{\\sqrt{6}}{11} \\mathrm{~g}$, where $g$ is the gravitational acceleration on the surface of the earth. The average mass density of the planet is $\\frac{2}{3}$ times that of the earth. If the escape speed on the surface of the earth is taken to be 11 $\\mathrm{kms}^{-1}$, the escape speed on the surface of the planet in $\\mathrm{kms}^{-1}$ will be",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "$g=\\frac{G M}{R^2}=\\frac{G\\left(\\frac{4}{3} \\pi R^3\\right) \\rho}{R^2}$\nor $\\quad g \\propto \\rho R$\nor $\\quad R \\propto \\frac{g}{\\rho}$\nNow escape velocity, $v_e=\\sqrt{2 g R}$\nor $\\quad v_e \\propto \\sqrt{g R}$\nor $\\quad v_e \\propto \\sqrt{g \\times \\frac{g}{\\rho}} \\propto \\sqrt{\\frac{g^2}{\\rho}}$\n$\\therefore\\left(v_e\\right)_{\\text {planet }}=\\left(11 \\mathrm{~km}-\\mathrm{s}^{-1}\\right) \\sqrt{\\frac{6}{121} \\times \\frac{3}{2}}$\n$\\therefore$ The correct answer is 3 .",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "64b169faf23ac7d519f9b038",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A thin uniform annular disc (see figure) of mass $M$ has outer radius $4 R$ and inner radius $3 R$. The work required to take a unit mass from point $P$ on its axis to infinity is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/u1HhU5_8GCE3eAfbnGgQixJxmCei9YbhtDWUexYer5w.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WJSV9",
+        "text": "\n$\\frac{2 G M}{7 R}(4 \\sqrt{2}-5)$\n",
+        "image": null
+      },
+      {
+        "id": "IjQVX",
+        "text": "\n$-\\frac{2 G M}{7 R}(4 \\sqrt{2}-5)$\n",
+        "image": null
+      },
+      {
+        "id": "YPpU0",
+        "text": "\n$\\frac{G M}{4 R}$\n",
+        "image": null
+      },
+      {
+        "id": "pY5Yr",
+        "text": "\n$\\frac{2 G M}{5 R}(\\sqrt{2}-1)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "WJSV9",
+    "solution_text": "$$\n\\text { } \\begin{aligned}\nW=\\Delta U & =U_f-U_i=U_{\\infty}-U_p \\\\\n& =-U_P \\\\\n& =-m V_P \\\\\n& =-V_P \\quad(\\text { as } m=1)\n\\end{aligned}\n$$\nPotential at point $P$ will be obtained by integration as given below\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jJmBXKLu523-AnbaAkWokVGroIl4PK3pdsvhCw-qfao.original.fullsize.png\"><br>\n\nLet $d M$ be the mass of small ring as shown\n$$\n\\begin{aligned}\nd M & =\\frac{M}{\\pi(4 R)^2-\\pi(3 R)^2}(2 \\pi r) d r \\\\\n& =\\frac{2 M r d r}{7 R^2} \\\\\nd V_P & =-\\frac{G \\cdot d M}{\\sqrt{16 R^2+r^2}} \\\\\n& =-\\frac{2 G M}{7 R^2} \\int_{3 R}^{4 R} \\frac{r}{\\sqrt{16 R^2+r^2}} \\cdot d r \\\\\n& =-\\frac{2 G M}{7 R}(4 \\sqrt{2}-5) \\\\\n\\therefore \\quad W & =+\\frac{2 G M}{7 R}(4 \\sqrt{2}-5)\n\\end{aligned}\n$$\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Gravitational potential and Potential Energy"
+  },
+  {
+    "question_id": "6a0be51344d287c9361e5cbd",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A particle of mass $m$, and angular momentum $\\ell$ is moving in a circular orbit of radius $r_0$ under the influence of an attractive force $\\vec{F}(r) = -\\dfrac{k}{r^2}\\hat{r}$. Keeping its angular momentum unchanged, the particle is displaced radially by a small distance $\\delta r \\ll r_0$, due to which its radial distance varies periodically. The corresponding time period is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EXM37",
+        "text": "$\\dfrac{2\\pi\\ell^3}{m k^2}$",
+        "image": null
+      },
+      {
+        "id": "rLaEM",
+        "text": "$2\\pi\\sqrt{\\dfrac{m}{k}}$",
+        "image": null
+      },
+      {
+        "id": "6fIvc",
+        "text": "$\\dfrac{2\\pi\\ell^3}{3 m k^2}$",
+        "image": null
+      },
+      {
+        "id": "JShEM",
+        "text": "$\\dfrac{2\\pi\\ell^3}{5 m k^2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "EXM37",
+    "solution_text": "The equation of motion for the radial distance $r$ is given by:<br><br>$m \\dfrac{d^2r}{dt^2} = F(r) + \\dfrac{\\ell^2}{mr^3} = -\\dfrac{k}{r^2} + \\dfrac{\\ell^2}{mr^3}$<br><br>For a circular orbit of radius $r_0$, the radial acceleration is zero:<br><br>$-\\dfrac{k}{r_0^2} + \\dfrac{\\ell^2}{mr_0^3} = 0 \\Rightarrow r_0 = \\dfrac{\\ell^2}{mk}$<br><br>Let the particle be displaced by a small distance $x$ such that $r = r_0 + x$. The restoring force is:<br><br>$m \\dfrac{d^2x}{dt^2} = -\\dfrac{k}{(r_0+x)^2} + \\dfrac{\\ell^2}{m(r_0+x)^3}$<br><br>Using the binomial expansion for $x \\ll r_0$:<br><br>$m \\dfrac{d^2x}{dt^2} \\approx -\\dfrac{k}{r_0^2}\\left(1 - \\dfrac{2x}{r_0}\\right) + \\dfrac{\\ell^2}{mr_0^3}\\left(1 - \\dfrac{3x}{r_0}\\right)$<br><br>Since $\\dfrac{k}{r_0^2} = \\dfrac{\\ell^2}{mr_0^3}$, the constant terms cancel out:<br><br>$m \\dfrac{d^2x}{dt^2} \\approx \\left( \\dfrac{2k}{r_0^3} - \\dfrac{3\\ell^2}{mr_0^4} \\right) x$<br><br>Substituting $\\dfrac{\\ell^2}{mr_0^4} = \\dfrac{k}{r_0^3}$ into the equation:<br><br>$m \\dfrac{d^2x}{dt^2} = \\left( \\dfrac{2k}{r_0^3} - \\dfrac{3k}{r_0^3} \\right) x = -\\dfrac{k}{r_0^3} x$<br><br>This represents simple harmonic motion with angular frequency $\\omega = \\sqrt{\\dfrac{k}{mr_0^3}}$.<br><br>The time period is $T = \\dfrac{2\\pi}{\\omega} = 2\\pi \\sqrt{\\dfrac{mr_0^3}{k}}$.<br><br>Substituting $r_0 = \\dfrac{\\ell^2}{mk}$:<br><br>$T = 2\\pi \\sqrt{\\dfrac{m}{k} \\left( \\dfrac{\\ell^2}{mk} \\right)^3} = 2\\pi \\sqrt{\\dfrac{m \\ell^6}{k m^3 k^3}} = \\dfrac{2\\pi \\ell^3}{m k^2}$<br><br>Answer: $\\dfrac{2\\pi\\ell^3}{m k^2}$",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "685102c46bba689a3eb09cba",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A geostationary satellite above the equator is orbiting around the earth at a fixed distance $r_1$ from the center of the earth. A second satellite is orbiting in the equatorial plane in the opposite direction to the earth's rotation, at a distance $r_2$ from the center of the earth, such that $r_1=1.21 r_2$. The time period of the second satellite as measured from the geostationary satellite is $\\frac{24}{p}$ hours. The value of $p$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.33",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jKpQ6HTfHtrSqMo-D_gFNvnqR3tEyJWKvMUd-dwYpQo.original.fullsize.png\"><br>$\\mathrm{T} \\propto \\mathrm{r}^{3 / 2}$\n$\\frac{\\mathrm{T}_2}{\\mathrm{~T}_1}=\\left(\\frac{\\mathrm{r}_2}{\\mathrm{r}_1}\\right)^{3 / 2}$\n$\\frac{\\omega_2}{\\omega_1}=\\left(\\frac{r_1}{r_2}\\right)^{3 / 2}=(1.21)^{3 / 2}$\n$\\begin{aligned}\n& \\omega_2=\\omega_1(1.331) \\qquad ...(i)\\\\\n& \\left(\\omega_2+\\omega_1\\right) t_0=2 \\pi \\qquad ...(ii)\n\\end{aligned}$\n$t_0=\\frac{2 \\pi}{\\omega_2+\\omega_1}=\\frac{2 \\pi}{\\left(\\frac{4}{3}+1\\right) \\omega_1}=\\frac{6 \\pi}{7 \\omega_1}$\n$\\mathrm{t}_0=\\frac{6 \\pi}{2 \\pi} \\frac{\\left(\\mathrm{~T}_{\\mathrm{GSS}}\\right)}{(7)}$\n$\\mathrm{t}_0=\\frac{3 \\times 24 \\text { hours }}{7}=\\frac{24}{\\mathrm{p}} \\text { hours }$\n$\\mathrm{p}=\\frac{7}{3}=2.33$",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "66965dd3d603121f43a3fd8c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A particle of mass $m$ is under the influence of the gravitational field of a body of mass $M(\\gg m)$. The particle is moving in a circular orbit of radius $r_0$ with time period $T_0$ around the mass $M$. Then, the particle is subjected to an additional central force, corresponding to the potential energy $V_{\\mathrm{c}}(r)=m \\alpha / r^3$, where $\\alpha$ is a positive constant of suitable dimensions and $r$ is the distance from the center of the orbit. If the particle moves in the same circular orbit of radius $r_0$ in the combined gravitational potential due to $M$ and $V_{\\mathrm{c}}(r)$, but with a new time period $T_1$, then $\\left(T_1^2-T_0^2\\right) / T_1^2$ is given by\n[ $G$ is the gravitational constant.]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TqrGL",
+        "text": "$\\frac{3 \\alpha}{G M r_0^2}$",
+        "image": null
+      },
+      {
+        "id": "ASV8Q",
+        "text": "$\\frac{\\alpha}{2 G M r_0^2}$",
+        "image": null
+      },
+      {
+        "id": "HnbnG",
+        "text": "$\\frac{\\alpha}{G M r_0^2}$",
+        "image": null
+      },
+      {
+        "id": "RO4sW",
+        "text": "$\\frac{2 \\alpha}{G M r_0^2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "TqrGL",
+    "solution_text": "$\\begin{aligned} & \\mathrm{F}_1=\\frac{\\mathrm{GMm}}{\\mathrm{r}_0^2} \\\\ & \\mathrm{~F}_2=\\frac{\\mathrm{GMm}}{\\mathrm{r}_0^2}-\\frac{3 \\mathrm{~m} \\alpha}{\\mathrm{r}_0^4} \\\\ & \\frac{\\omega_1^2}{\\omega_0^2}=\\frac{\\mathrm{F}_2}{\\mathrm{~F}_1}=\\frac{\\frac{\\mathrm{GM}}{\\mathrm{r}_0^2}-\\frac{3 \\alpha}{\\mathrm{r}_0^4}}{\\frac{\\mathrm{GM}}{\\mathrm{r}_0^2}} \\\\ & \\frac{\\mathrm{T}_0^2}{\\mathrm{~T}_1^2}=1-\\frac{3 \\alpha}{\\mathrm{GMr}_0^2} \\\\ & \\frac{\\mathrm{T}_1^2-\\mathrm{T}_0^2}{\\mathrm{~T}_1^2}=\\frac{3 \\alpha}{\\mathrm{GMr}_0^2}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "64b16a90f23ac7d519f9b58c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<p>The distance between two stars of masses&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msub><mi mathvariant=\"normal\">M</mi><mi>S</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><msub><mi mathvariant=\"normal\">M</mi><mi>S</mi></msub></math>&nbsp;is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mi mathvariant=\"normal\">R</mi></math>. Here&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is the mean distance between the centres of the Earth and the Sun, and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mi>S</mi></msub></math>&nbsp;is the mass of the Sun. Two stars orbit around their common centre of mass in circular orbits with period&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mi>T</mi></math>, where<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>&nbsp;is the period of Earth&#39;s revolution around the Sun.</p><p>The value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;is _____.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi><msup><mi>R</mi><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup></mrow><msqrt><mi>G</mi><msub><mi>M</mi><mi>S</mi></msub></msqrt></mfrac></math></p><p>For binary stars,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>&#39;</mo><mo>=</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi><msup><mi>r</mi><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup></mrow><msqrt><mi>G</mi><mfenced><mrow><msub><mi>M</mi><mn>1</mn></msub><mo>+</mo><msub><mi>M</mi><mn>2</mn></msub></mrow></mfenced></msqrt></mfrac></math></p><p>Put&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn><msub><mi>M</mi><mi>S</mi></msub></math>,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>2</mn></msub><mo>=</mo><mn>6</mn><msub><mi>M</mi><mi>S</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mn>9</mn><mi mathvariant=\"normal\">R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>'</mo><mo>=</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>9</mn><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><msup><mi>R</mi><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup></mrow><msqrt><mi>G</mi><mfenced><mrow><mn>3</mn><msub><mi>M</mi><mi>S</mi></msub><mo>+</mo><mn>6</mn><msub><mi>M</mi><mi>S</mi></msub></mrow></mfenced></msqrt></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>&#960;</mi><mo>&#215;</mo><msup><mn>9</mn><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><msup><mi>R</mi><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup></mrow><mrow><msup><mn>9</mn><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msup><msqrt><mi>G</mi><msub><mi>M</mi><mi>S</mi></msub></msqrt></mrow></mfrac><mo>=</mo><mn>9</mn><mfenced><mfrac><mrow><mn>2</mn><mi>&#960;</mi><msup><mi>R</mi><mrow><mn>3</mn><mo>/</mo><mn>2</mn></mrow></msup></mrow><msqrt><mi>G</mi><msub><mi>M</mi><mi>S</mi></msub></msqrt></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mi>T</mi><mo>&#39;</mo><mo>=</mo><mn>9</mn><mi>T</mi></math></p><p>Value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>9</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "64b16a6bf23ac7d519f9b443",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "A planet of mass M, has two natural satellites with masses <math><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . The radii of their circular orbits are <math><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></math> respectively. Ignore the gravitational force between the satellites. Define <math><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></math> to be, respectively, the orbital speed, angular momentum, kinetic energy and time period of revolution of satellite <math><mn>1</mn><mo>;</mo><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and to be the corresponding quantities of satellite 2. Given <math><mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mo>/</mo><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow><mo>=</mo><mn>2</mn><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mo>/</mo><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math> , match the ratios in List-I to the numbers in List-II.<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST -I</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST-II</td>\t\t</tr>\t\t<tr>\t\t\t<td>A)</td>\t\t\t<td><math><mfrac><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math></td>\t\t\t<td>P)</td>\t\t\t<td><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B)</td>\t\t\t<td><math><mfrac><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math></td>\t\t\t<td>Q)</td>\t\t\t<td>1</td>\t\t</tr>\t\t<tr>\t\t\t<td>C)</td>\t\t\t<td><math><mfrac><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math></td>\t\t\t<td>R)</td>\t\t\t<td>2</td>\t\t</tr>\t\t<tr>\t\t\t<td>D)</td>\t\t\t<td><math><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math></td>\t\t\t<td>S)</td>\t\t\t<td>8</td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9CIOk",
+        "text": "a-p;b-q;c-s;d-r;",
+        "image": null
+      },
+      {
+        "id": "uq8Hz",
+        "text": "a-s;b-p;c-r;d-q;",
+        "image": null
+      },
+      {
+        "id": "9UF1c",
+        "text": "a-s;b-q;c-r;d-p;",
+        "image": null
+      },
+      {
+        "id": "MYCG1",
+        "text": "a-r;b-q;c-s;d-p;",
+        "image": null
+      }
+    ],
+    "correct_answer": "MYCG1",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/luifxbqbcwonrutsrttkrvnnaemralajxbaoexvmgviezymthl.jpeg\"/><br ><math><mfenced close=\"}\" open=\"\" separators=\"|\"><mrow><mtable><mtr><mtd><mfrac><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mtd></mtr></mtable></mrow></mfenced></math> given<br ><math><mfrac><mrow><mi>G</mi><mi>M</mi><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msubsup><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><msubsup><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>1</mn></mrow></msubsup></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math><br ><math><msubsup><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>,</mo><msubsup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math><br ><math><mfrac><mrow><msubsup><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>4</mn></math><br ><math><mfenced separators=\"|\"><mrow><mi>i</mi></mrow></mfenced></math> <math><mfrac><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>2</mn></math><br ><math><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi></mrow></mfenced></math> <math><mi>L</mi><mo>=</mo><mi>m</mi><mi>v</mi><mi>R</mi></math><br ><math><mfrac><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub><mi> </mi><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>2</mn><mo>×</mo><mn>2</mn><mo>×</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mn>1</mn></math><br ><math><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced></math> <math><mi>K</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br ><math><mfrac><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><msubsup><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub><msubsup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mn>2</mn><mo>×</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn></math><br ><math><mo>(</mo><mi>i</mi><mi>v</mi><mo>)</mo></math> <math><mi>T</mi><mo>=</mo><mrow><mrow><mn>2</mn><mi>π</mi><mi>R</mi></mrow><mo>/</mo><mrow><mi>V</mi></mrow></mrow></math><br ><math><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>×</mo><mfrac><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>×</mo><mfrac><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b051",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A binary star consists of two stars $A$ (mass $2.2 M_S$ ) and $B$ (mass $11 M_s$ ), where $M_S$ is the mass of the sun. They are separated by distance $d$ and are rotating about their centre of mass, which is stationary. The ratio of the total angular momentum of the binary star to the angular momentum of $\\operatorname{star} B$ about the centre of mass is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "$\\frac{L_{\\text {Total }}}{L_B}=\\frac{\\left(I_A+I_B\\right) \\omega}{I_B \\cdot \\omega}$ (as $\\omega$ will be same in both cases)\n$$\n\\begin{aligned}\n& =\\frac{I_A}{I_B}+1=\\frac{m_A r_A^2}{m_B r_B^2}+1 \\\\\n& \\left.=\\frac{r_A}{r_B}+1 \\quad \\quad \\text { (as } m_A r_A=m_B r_B\\right) \\\\\n& =\\frac{11}{2.2}+1 \\quad \\quad\\left(\\text { as } r \\propto \\frac{1}{m}\\right) \\\\\n& =6\n\\end{aligned}\n$$\n$\\therefore$ The correct answer is 6 .",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "64b169c4f23ac7d519f9ae48",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A double star system consists of two stars $A$ and $B$ which have time period $T_A$ and $T_B$. Radius $R_A$ and $R_B$ and mass $M_A$ and $M_B$. Choose the correct option.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "96YgM",
+        "text": "\nIf $T_A>T_B$, then $R_A>R_B$\n",
+        "image": null
+      },
+      {
+        "id": "5z4d8",
+        "text": "\nIf $T_A>T_B$, then $M_A>M_B$\n",
+        "image": null
+      },
+      {
+        "id": "cOsin",
+        "text": "\n$\\left(\\frac{T_A}{T_B}\\right)^2=\\left(\\frac{R_A}{R_B}\\right)^3$\n",
+        "image": null
+      },
+      {
+        "id": "qAWYS",
+        "text": "\n$T_A=T_B$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qAWYS",
+    "solution_text": "In case of binary star system angular velocity and hence the time period of both the stars are equal.",
+    "solution_image": null,
+    "topic": "Motion of satellite"
+  },
+  {
+    "question_id": "64b16a46f23ac7d519f9b2f1",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<p>A large spherical mass <math><mi mathvariant=\"normal\">M</mi></math> is fixed at one position and two identical point masses <math><mi mathvariant=\"normal\">m</mi></math> are kept on a line passing through the centre of <math><mi mathvariant=\"normal\">M</mi></math> (see figure). The point masses are connected by a rigid massless rod of length <math><mi mathvariant=\"normal\">l</mi></math> and this assembly is free to move along the line connecting them. All three masses interact only through their mutual gravitational interaction. When the point mass nearer to <math><mi mathvariant=\"normal\">M</mi></math> is at a distance <math><mi mathvariant=\"normal\">r</mi><mo>=</mo><mn>3</mn><mi mathvariant=\"normal\">l</mi></math> from <math><mi mathvariant=\"normal\">M</mi></math> , the tension in the rod is zero for <math><mi mathvariant=\"normal\">m</mi><mo>=</mo><mi mathvariant=\"normal\">k</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>288</mn></mrow></mfrac></mrow></mfenced></math> . The value of <math><mi mathvariant=\"normal\">k</mi></math> is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image5-5173a529-60b6-4425-b1dc-89ce80a6f1c1.jpg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<p>Due to gravitational interaction connected masses have some acceleration.<br >Let both small masses are moving with acceleration 'a' towards larger mass M<br ><br > <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image6-db67c1cc-3cf9-4c0c-863a-38201940e80d.jpg\"/> <br >Force equation for mass nearer to larger mass<br > <math><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn><mi mathvariant=\"script\">l</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi></math>   ...(i)<br >Force equation for mass away from larger mass<br > <math><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>4</mn><mi mathvariant=\"script\">l</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi></math>   ...(ii)<br >From equation (i) & (ii)<br > <math><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>9</mn><msup><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><msup><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>16</mn><msup><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">m</mi></mrow><mrow><msup><mrow><mi mathvariant=\"script\">l</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> <br > <math><mo>⇒</mo><mfrac><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>9</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">m</mi><mo>+</mo><mi mathvariant=\"normal\">m</mi></math> <br > <math><mfrac><mrow><mn>7</mn><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>144</mn></mrow></mfrac><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">m</mi></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">m</mi><mo>=</mo><mfrac><mrow><mn>7</mn><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>288</mn></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">k</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">M</mi></mrow><mrow><mn>288</mn></mrow></mfrac></mrow></mfenced></math> <br > <math><mo>⇒</mo><mi mathvariant=\"normal\">K</mi><mo>=</mo><mn>7</mn></math></p>",
+    "solution_image": null,
+    "topic": "Newton's Law of Gravitation"
+  }
+]

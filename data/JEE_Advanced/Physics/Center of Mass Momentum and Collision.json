@@ -1,0 +1,678 @@
+[
+  {
+    "question_id": "64b169edf23ac7d519f9afc3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Look at the drawing given in the figure, which has been drawn with ink of uniform line-thickness.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xNFfaYiituH7Vz9vRPx1wgTgYD4I1Vbby5q7GRnc9Fs.original.fullsize.png\"><br>\nThe mass of ink used to draw each of the two inner circles, and each of the two line segments is $m$. The mass of the ink used to draw the outer circle is $6 \\mathrm{~m}$. The coordinates of the centres of the different parts are, outer circle 10 , $0)$, left inner circle $(0,0)$, right inner circle $(a, a)$, vertical line $(0,0)$ and horizontal line $(0,-a)$. The $y$-coordinate of the centre of mass of the ink in this drawing is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CibPE",
+        "text": "\n$\\frac{a}{10}$\n",
+        "image": null
+      },
+      {
+        "id": "TOtTW",
+        "text": "\n$\\frac{a}{8}$\n",
+        "image": null
+      },
+      {
+        "id": "xQ3B4",
+        "text": "\n$\\frac{a}{12}$\n",
+        "image": null
+      },
+      {
+        "id": "Fuchx",
+        "text": "\n$\\frac{a}{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "CibPE",
+    "solution_text": "$y_{C M}$\n$$\n\\begin{gathered}\n=\\frac{m_1 y_1+m_2 y_2+m_3 y_3+m_4 y_4+m_5 y_5}{m_1+m_2+m_3+m_4+m_5} \\\\\n=\\frac{(6 m)(0)+(m)(a)+m(a)+m(0)}{6 m+m+m+m+m}=\\frac{a}{10}\n\\end{gathered}\n$$",
+    "solution_image": null,
+    "topic": "Centre of mass of discrete particles"
+  },
+  {
+    "question_id": "685102be6bba689a3eb09c80",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "In a scattering experiment, a particle of mass $2 m$ collides with another particle of mass $m$, which is initially at rest. Assuming the collision to be perfectly elastic, the maximum angular deviation $\\theta$ of the heavier particle, as shown in the figure, in radians is:<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3ZpvZVQ30gdI7GtuSNyflUQndGm_stjkgU2voN9Mv7Q.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mkArO",
+        "text": "$\\pi$",
+        "image": null
+      },
+      {
+        "id": "BZ4W9",
+        "text": "$\\tan ^{-1}\\left(\\frac{1}{2}\\right)$",
+        "image": null
+      },
+      {
+        "id": "SeKX2",
+        "text": "$\\frac{\\pi}{3}$",
+        "image": null
+      },
+      {
+        "id": "qvmpH",
+        "text": "$\\frac{\\pi}{6}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "qvmpH",
+    "solution_text": "$2 m v_1=2 m v_{1 \\mathrm{f}} \\cos \\theta+2 m v_{2 \\mathrm{f}} \\cos \\phi$ $\\qquad$....(i)\n$2 m m_{1 \\mathrm{f}} \\sin \\theta=m v_{2 \\mathrm{f}} \\sin \\phi$ $\\qquad$....(ii)\n$\\frac{1}{2}(2 m) v_1^2+\\frac{1}{2} m(0)^2=\\frac{1}{2}(2 m) v_{1 f}^2+\\frac{1}{2} m v_{2 f}^2$\n$2 v_1^2=2 v_{1 f}^2+v_{2 f}^2$ $\\qquad$....(iii)\nFrom (i), (ii), (iii),\n$\\begin{aligned} & 3 v_{1 \\mathrm{f}}^2-4 v_1 v_{1 \\mathrm{f}} \\cos \\theta+v_1^2=0 \\\\ & \\left(-4 v_1 \\cos \\theta\\right)^2-4(3)\\left(v_1^2\\right) \\geq 0 \\\\ & \\cos ^2 \\theta \\geq \\frac{3}{4} \\\\ & \\cos ^2 \\theta \\geq \\frac{\\sqrt{3}}{2} \\\\ & \\therefore \\theta=\\frac{\\pi}{6}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b16aa0f23ac7d519f9b623",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "A bar of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mo>=</mo><mn>1</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>kg</mi></math> and length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>20</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math> is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>10</mn><mo>&#160;</mo><mi>kg</mi></math> is moving on the same horizontal surface with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math> speed on a path perpendicular to the bar. It hits the bar at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>L</mi><mn>2</mn></mfrac></math> from the pivoted end and returns back on the same path with speed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math>. After this elastic collision, the bar rotates with an angular velocity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi></math>. Which of the following statement is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Peg8v",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>6</mn><mo>.</mo><mn>98</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>30</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "fAoyu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>3</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>30</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "47kLP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>3</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>10</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "mKWRQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>6</mn><mo>.</mo><mn>80</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>10</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Peg8v",
+    "solution_text": "<blockquote><p>Before:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3adaf25a-8b15-430d-903c-d5fe37c48647.png\" style=\"width: 250px; height: 362px;\" /></p><p>After:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cda84ada-8b9d-4a41-bc72-1a620e14b688.png\" style=\"width: 250px; height: 310px;\" /></p><p>Applying conservation of angular momentum about point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>m</mi><msub><mi>v</mi><mn>0</mn></msub></mrow></mfenced><mfrac><mi>L</mi><mn>2</mn></mfrac><mo>=</mo><mfenced><mfrac><mrow><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup></mrow><mn>3</mn></mfrac></mfenced><mi>&#969;</mi><mo>-</mo><mfenced><mrow><mi>m</mi><mi>v</mi></mrow></mfenced><mfrac><mi>L</mi><mn>2</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math></p><p>As the collision is elastic,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>e</mi><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mtext>velocity&#160;of&#160;separation(after&#160;collision)</mtext><mtext>velocity&#160;of&#160;approach(before&#160;collision)</mtext></mfrac><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mfrac><mrow><mi>L</mi><mi>&#969;</mi></mrow><mn>2</mn></mfrac><mo>-</mo><mfenced><mrow><mo>-</mo><mi>v</mi></mrow></mfenced></mrow><msub><mi>v</mi><mn>0</mn></msub></mfrac><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>v</mi><mo>=</mo><msub><mi>v</mi><mn>0</mn></msub><mo>-</mo><mfrac><mrow><mi>L</mi><mi>&#969;</mi></mrow><mn>2</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mi>ii</mi></mfenced></math></p><p>Using equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>ii</mi></mfenced></math>, we can write</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>m</mi><msub><mi>v</mi><mn>0</mn></msub></mrow></mfenced><mfrac><mi>L</mi><mn>2</mn></mfrac><mo>=</mo><mfenced><mfrac><mrow><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup></mrow><mn>3</mn></mfrac></mfenced><mi>&#969;</mi><mo>-</mo><mfenced><mrow><mi>m</mi><mfenced><mrow><msub><mi>v</mi><mn>0</mn></msub><mo>-</mo><mfrac><mrow><mi>L</mi><mi>&#969;</mi></mrow><mn>2</mn></mfrac></mrow></mfenced></mrow></mfenced><mfrac><mi>L</mi><mn>2</mn></mfrac></math></p><p>Given:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>kg</mi><mo>,</mo><mo>&#160;</mo><mi>M</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>kg</mi><mo>,</mo><mo>&#160;</mo><mi>L</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>&nbsp;and</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>0</mn></msub><mo>=</mo><mn>5</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>Therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><mn>5</mn></mrow></mfenced><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mfenced><mfrac><mrow><mn>1</mn><mo>&#215;</mo><msup><mfenced><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow></mfenced><mn>2</mn></msup></mrow><mn>3</mn></mfrac></mfenced><mi>&#969;</mi><mo>-</mo><mfenced><mrow><mn>0</mn><mo>.</mo><mn>1</mn><mfenced><mrow><mn>5</mn><mo>-</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn><mi>&#969;</mi></mrow><mn>2</mn></mfrac></mrow></mfenced></mrow></mfenced><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow><mn>2</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>04</mn></mrow><mn>3</mn></mfrac><mi>&#969;</mi><mo>-</mo><mfenced><mrow><mn>0</mn><mo>.</mo><mn>5</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>01</mn><mi>&#969;</mi></mrow></mfenced><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>1</mn><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>05</mn><mo>=</mo><mi>&#969;</mi><mfenced><mrow><mfrac><mrow><mn>0</mn><mo>.</mo><mn>04</mn></mrow><mn>3</mn></mfrac><mo>+</mo><mn>0</mn><mo>.</mo><mn>001</mn></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>&#969;</mi><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#215;</mo><mn>3</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>04</mn><mo>+</mo><mn>0</mn><mo>.</mo><mn>003</mn></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8776;</mo><mn>6</mn><mo>.</mo><mn>98</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>Now,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>v</mi><mo>=</mo><mn>5</mn><mo>-</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><mn>6</mn><mo>.</mo><mn>98</mn></mrow><mn>2</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8776;</mo><mn>4</mn><mo>.</mo><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b16a11f23ac7d519f9b10d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "A ball of mass $0.2 \\mathrm{~kg}$ rests on a vertical post of height $5 \\mathrm{~m}$. A bullet of mass $0.01 \\mathrm{~kg}$, travelling with a velocity $v \\mathrm{~m} / \\mathrm{s}$ in a horizontal direction, hits the centre of the ball. After the collision, the ball and bullet travel independently. The ball hits the ground at a distance of $20 \\mathrm{~m}$ and the bullet at a distance of $100 \\mathrm{~m}$ from the foot of the post. The initial velocity $v$ of the bullet is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/V6qjAqEBQ2prIXraDE2K8miAKuo6vC9S27QOT26tOQo.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HvDs7",
+        "text": "\n$250 \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "EPh3r",
+        "text": "\n$250 \\sqrt{2} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "9H3J2",
+        "text": "\n$400 \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "2X4Fi",
+        "text": "\n$500 \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "2X4Fi",
+    "solution_text": "Time taken by the bullet and ball to strike the ground is\n$$\nt=\\sqrt{\\frac{2 h}{g}}=\\sqrt{\\frac{2 \\times 5}{10}}=1 \\mathrm{~s}\n$$\nLet $v_1$ and $v_2$ are the velocities of ball and bullet after collision.\nThen applying\nWe have, $20=v_1 \\times 1$\nor $v_1=20 \\mathrm{~ms}^{-1}$\n$$\n100=v_2 \\times 1 \\text { or } v_2=100 \\mathrm{~m} / \\mathrm{s}^{-1}\n$$\nNow, from conservation of linear momentum before and after collision we have,\n$0.01 v=(0.2 \\times 20)+(0.01 \\times 100)$\nOn solving, we get\n$$\nv=500 \\mathrm{~ms}^{-1}\n$$\n$\\therefore$ Correct answer is (d).\nAnalysis of Question\nQuestion is moderately lengthy from calculation point of view, otherwise it is simple.",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169fbf23ac7d519f9b043",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A point mass of $1 \\mathrm{~kg}$ collides elastically with a stationary point mass of $5 \\mathrm{~kg}$. After their collision, the $1 \\mathrm{~kg}$ mass reverses its direction and moves with a speed of $2 \\mathrm{~ms}^{-1}$. Which of the following statement(s) is/are correct for the system of these two masses?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GtGg9",
+        "text": "\nTotal momentum of the system is $3 \\mathrm{~kg}-\\mathrm{ms}^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "BLtLq",
+        "text": "\nMomentum of $5 \\mathrm{~kg}$ mass after collision is $4 \\mathrm{~kg}-\\mathrm{ms}^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "dzX2b",
+        "text": "\nKinetic energy of the centre of mass is $0.75 \\mathrm{~J}$\n",
+        "image": null
+      },
+      {
+        "id": "V6Grq",
+        "text": "\nTotal kinetic energy of the system is $4 \\mathrm{~J}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "dzX2b",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/z_PhW8UfShvxIqh556cc7MWcXwR9YnrJGM4z7hNa3Po.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n& v_1^{\\prime}=\\left(\\frac{m_1-m_5}{m_1+m_5}\\right) v_1+\\left(\\frac{2 m_5}{m_1+m_5}\\right) v_5 \\\\\n& -2=\\left(\\frac{1-5}{1+5}\\right) v_1+0 \\quad\\left(\\text { as } v_5=0\\right) \\\\\n& \\therefore \\quad v_1=3 \\mathrm{~ms}^{-1} \\\\\n& v_5^{\\prime}=\\left(\\frac{m_5-m_1}{m_1+m_5}\\right) v_5+\\left(\\frac{2 m_1}{m_1+m_2}\\right) v_1 \\\\\n& =0+\\left(\\frac{2 \\times 1}{6}\\right)(3)=1 \\mathrm{~ms}^{-1} \\\\\n& P_{\\mathrm{CM}}=P_i=(1)(3) \\\\\n& =3 \\frac{\\mathrm{kg}-\\mathrm{m}}{\\mathrm{s}} \\\\\n& P_5{ }^{\\prime}=(5)(1)=5 \\frac{\\mathrm{kg}-\\mathrm{m}}{5} \\\\\n& K_{\\mathrm{CM}}=\\frac{P_{\\mathrm{CM}}^2}{2 M_{\\mathrm{CM}}} \\\\\n& =\\frac{9}{2 \\times 6}=0.75 \\mathrm{~J} \\\\\n& K_{\\text {total }}=\\frac{1}{2} \\times 1 \\times(3)^2 \\\\\n& =4.5 \\mathrm{~J} \\\\\n&\n\\end{aligned}\n$$\n$\\therefore$ correct options are (a) and (c).",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169f6f23ac7d519f9b010",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Three objects $A, B$ and $C$ are kept in a straight line on a frictionless horizontal surface. These have masses $m, 2 m$ and $m$, respectively. The object $A$ moves towards $B$ with a speed $9 \\mathrm{~ms}^{-1}$ and makes an elastic collision with it. Thereafter, $B$ makes completely inelastic collision with $C$. All motions occur on the same straight line. Find the final speed (in $\\mathrm{ms}^{-1}$ ) of the object $C$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zW9SGWwq_1moP5kJ51ynQVnFY0Fpenyy15farrFIcl0.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "After elastic collision,\n$$\n\\begin{aligned}\nv_A^{\\prime} & =\\left(\\frac{m-2 m}{m+2 m}\\right)(9)+\\frac{2(2 m)}{m+2 m}(0) \\\\\n& =-3 \\mathrm{~ms}^{-1}\n\\end{aligned}\n$$\nNow from conservation of linear momentum after all collisions are complete,\n$$\n\\begin{array}{rlrl}\nm\\left(+9 \\mathrm{~ms}^{-1}\\right) & =m\\left(-3 \\mathrm{~ms}^{-1}\\right)+3 m\\left(v_C\\right) \\\\\n& \\text { or } \\quad v_C & =4 \\mathrm{~ms}^{-1}\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169eef23ac7d519f9afc5",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Two small particles of equal masses start moving in opposite directions from a point $A$ in a horizontal circular orbit. Their tangential velocities are $v$ and $2 v$ respectively, as shown in the figure. Between collisions, the particles move with constant speeds. After making how many elastic collisions, other than that at $A$, these two particles will again reach the point $A$ ?\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LUO-op-gg-4W6HlSrRymYXOiQJSCK6F9HDghvhO5mxg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NRm6T",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "29ENE",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "eXc6s",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "NCI5J",
+        "text": "\n1",
+        "image": null
+      }
+    ],
+    "correct_answer": "eXc6s",
+    "solution_text": "At first collision one particle having speed $2 v$ will rotate $240^{\\circ}\\left(\\right.$ or $\\left.\\frac{4 \\pi}{3}\\right)$ while other particle having speed $v$ will rotate $120^{\\circ}$ (or $\\left.\\frac{2 \\pi}{3}\\right)$. At first collision they will exchange their velocities. Now as shown in figure, after two collisions they will again reach at point $A$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Bricntb7-F7VumJnUzIQRhEPzq2XkCY8sAliWPDZJdc.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169e1f23ac7d519f9af4f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA small block of mass $M$ moves on a frictionless surface of an inclined plane, as shown in figure. The angle of the incline suddenly changes from $60^{\\circ}$ to $30^{\\circ}$ at point $B$. The block is initially at rest at $A$. Assume that collisions between the block and the incline are totally inelastic $\\left(g=10 \\mathrm{~m} / \\mathrm{s}^2\\right)$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/823KW2eHMvGVM1emFpNp7o6zsW6lNXDO8IQ7NsK5ef8.original.fullsize.png\"><br><strong>Question:</strong>\nIf collision between the block and the incline is completely elastic, then the vertical (upward) component of the velocity of the block at point $B$, immediately after it strikes the second incline is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qeuSf",
+        "text": "\n$\\sqrt{30} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "GqydZ",
+        "text": "\n$\\sqrt{15} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "uFl1J",
+        "text": "\nzero\n",
+        "image": null
+      },
+      {
+        "id": "g2qYr",
+        "text": "\n$-\\sqrt{15} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "uFl1J",
+    "solution_text": "In elastic collision, component of $v_1$ parallel to $B C$ will remain unchanged, while component perpendicular to $B C$ will remain unchanged in magnitude but its direction will be reversed.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xIzsRP4HzcJ7OPT5wsEVVrJGT7ByYhltu4ezEse1Wis.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n& v_{\\|}=v_1 \\cos 30^{\\circ}=(\\sqrt{60})\\left(\\frac{\\sqrt{3}}{2}\\right)=\\sqrt{45} \\mathrm{~ms}^{-1} \\\\\n& v_{\\perp}=v_1 \\sin 30^{\\circ}=(\\sqrt{60})\\left(\\frac{1}{2}\\right)=\\sqrt{15} \\mathrm{~ms}^{-1}\n\\end{aligned}\n$$\nNow vertical component of velocity of block :\n$$\n\\begin{aligned}\nv & =v_{\\perp} \\cos 30^{\\circ}-v_{\\|} \\cos 60^{\\circ} \\\\\n& =(\\sqrt{15})\\left(\\frac{\\sqrt{3}}{2}\\right)-(\\sqrt{45})\\left(\\frac{1}{2}\\right)=0\n\\end{aligned}\n$$\n$\\therefore$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169e1f23ac7d519f9af4e",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA small block of mass $M$ moves on a frictionless surface of an inclined plane, as shown in figure. The angle of the incline suddenly changes from $60^{\\circ}$ to $30^{\\circ}$ at point $B$. The block is initially at rest at $A$. Assume that collisions between the block and the incline are totally inelastic $\\left(g=10 \\mathrm{~m} / \\mathrm{s}^2\\right)$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/823KW2eHMvGVM1emFpNp7o6zsW6lNXDO8IQ7NsK5ef8.original.fullsize.png\"><br><strong>Question:</strong>\nThe speed of the block at point $C$, immediately before it leaves the second incline is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "I395C",
+        "text": "\n$\\sqrt{120} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "hmkOS",
+        "text": "\n$\\sqrt{105} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "uLVCf",
+        "text": "\n$\\sqrt{90} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "4X1u2",
+        "text": "\n$\\sqrt{75} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "hmkOS",
+    "solution_text": "Height fallen by the block from $B$ to $C$. $h_2=3 \\sqrt{3} \\tan 30^{\\circ}=3 \\mathrm{~m}$\nLet $v_3$ be the speed of block, at point $C$, just before it leaves the second incline, then\n$$\n\\begin{aligned}\nv_3 & =\\sqrt{v_2^2+2 g h_2} \\\\\n& =\\sqrt{45+2 \\times 10 \\times 3} \\\\\n& =\\sqrt{105} \\mathrm{~ms}^{-1}\n\\end{aligned}\n$$\n$\\therefore$ correct option is (b).",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169e1f23ac7d519f9af4d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA small block of mass $M$ moves on a frictionless surface of an inclined plane, as shown in figure. The angle of the incline suddenly changes from $60^{\\circ}$ to $30^{\\circ}$ at point $B$. The block is initially at rest at $A$. Assume that collisions between the block and the incline are totally inelastic $\\left(g=10 \\mathrm{~m} / \\mathrm{s}^2\\right)$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/823KW2eHMvGVM1emFpNp7o6zsW6lNXDO8IQ7NsK5ef8.original.fullsize.png\"><br><strong>Question:</strong>\nThe speed of the block at point $B$ immediately after it strikes the second incline is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FLfz7",
+        "text": "\n$\\sqrt{60} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "kLQ48",
+        "text": "\n$\\sqrt{45} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "ADjX5",
+        "text": "\n$\\sqrt{30} \\mathrm{~m} / \\mathrm{s}$\n",
+        "image": null
+      },
+      {
+        "id": "fBbsC",
+        "text": "\n$\\sqrt{15} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kLQ48",
+    "solution_text": "Between $A$ and $B$, height fallen by block $h_1=\\sqrt{3} \\tan 60^{\\circ}=3 \\mathrm{~m}$.\n$\\therefore$ speed of block just before striking the second incline,\n$$\nv_1=\\sqrt{2 g h_1}=\\sqrt{2 \\times 10 \\times 3}=\\sqrt{60} \\mathrm{~ms}^{-1}\n$$\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EwbZJMMf6q6zuB0UupBlt4sElxLMY-JuAG7DSXN4FNk.original.fullsize.png\"><br>\nIn perfectly inelastic collision, component of $v_1$ perpendicular to $B C$ will become zero, while component of $v_1$ parallel to $B C$ will remain unchanged.\n$\\therefore$ speed of block $B$ immediately after it strikes the incline is,\n$$\n\\begin{aligned}\nv_2 & =\\text { component of } v_1 \\text { along } B C \\\\\n& =v_1 \\cos 30^{\\circ} \\\\\n& =(\\sqrt{60})\\left(\\frac{\\sqrt{3}}{2}\\right)=\\sqrt{45} \\mathrm{~ms}^{-1}\n\\end{aligned}\n$$\n$\\therefore$ correct option is (b)",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169d1f23ac7d519f9aec2",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Statement I In an elastic collision between two bodies, the relative speed of the bodies after collision is equal to the relative speed before the collision.\nStatement II In an elastic collision, the linear momentum of the system is conserved.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oOQtg",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "ZFoV2",
+        "text": "\nStatement I is true, Statement II is true; Statement II is NOT a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "eh1g6",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "gfNJ7",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZFoV2",
+    "solution_text": "In case of elastic collision, coefficient of restitution $e=1$ or relative speed of separation.\n$\\therefore$ Option (b) is correct.",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b169c5f23ac7d519f9ae54",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "There is a rectangular plate of mass $M \\mathrm{~kg}$ of dimensions $(a \\times b)$. The plate is held in horizontal position by striking $n$ small balls each of mass $m$ per unit area per unit time. These are striking in the shaded half region of the plate. The balls are colliding elastically with velocity $v$. What is $v$ ? It is given $n=100, M=3 \\mathrm{~kg}, m=0.01 \\mathrm{~kg}$; $b=2 \\mathrm{~m} ; a=1 \\mathrm{~m} ; g=10 \\mathrm{~m} / \\mathrm{s}^2$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vJSVNXoaYPf1U_0F5xfgHLe_kp2hDDhISVHsCGlvQiI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "$F=\\frac{\\Delta p}{\\Delta t}=n \\times\\left(a \\times \\frac{b}{2}\\right) \\times(2 m v)$\nEquating the torque about hinge side, we have\n$$\nn \\times\\left(a \\times \\frac{b}{2}\\right) \\times(2 m v) \\times \\frac{3 b}{4}=M g \\times \\frac{b}{2}\n$$\nSubstituting the given values we get,\n$$\nv=10 \\mathrm{~m} / \\mathrm{s}\n$$",
+    "solution_image": null,
+    "topic": "Collisions"
+  },
+  {
+    "question_id": "64b16a12f23ac7d519f9b115",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "A thin ring of mass $2 \\mathrm{~kg}$ and radius $0.5 \\mathrm{~m}$ is rolling without slipping on a horizontal plane with velocity 1 $\\mathrm{m} / \\mathrm{s}$. A small ball of mass $0.1 \\mathrm{~kg}$, moving with velocity $20 \\mathrm{~m} / \\mathrm{s}$ in the opposite directions, hits the ring at a height of $0.75 \\mathrm{~m}$ and goes vertically up with velocity 10 $\\mathrm{m} / \\mathrm{s}$. Immediately after the collision\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b_iTmXS449TQOBtntRYyDOl_btn80W1GvOxad36oYOY.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bfffF",
+        "text": "\nthe ring has pure rotation about its stationary $\\mathrm{CM}$\n",
+        "image": null
+      },
+      {
+        "id": "m30tJ",
+        "text": "\nthe ring comes to a complete stop\n",
+        "image": null
+      },
+      {
+        "id": "GFa79",
+        "text": "\nfriction between the ring and the ground is to the left\n",
+        "image": null
+      },
+      {
+        "id": "xFfQd",
+        "text": "\nthere is no friction between the ring and the ground",
+        "image": null
+      }
+    ],
+    "correct_answer": "GFa79",
+    "solution_text": "The data is incomplete. Let us assume that friction from ground on ring is not impulsive during impact.\nFrom linear momentum conservation in horizontal direction, we have\n$$\n\\begin{aligned}\n& (-2 \\times 1)+(0.1 \\times 20) \\\\\n& =(0.1 \\times 0)+(2 \\times v) \\stackrel{\\text {-ve }}{\\leftarrow} \\stackrel{+v e}{\\rightarrow}\n\\end{aligned}\n$$\nHere, $v$ is the velocity of $\\mathrm{CM}$ of ring after impact.\nSolving the above equation, we have\n$$\nv=0\n$$\nThus, CM becomes stationary.\n$\\therefore$ Correct answer is (a).\nLinear impulse during impact\n(i) In horizontal direction $J_1=\\Delta P=0.1 \\times 20=2 \\mathrm{Ns}$\n(ii) In vertical direction\n$$\nJ_2=\\Delta P=0.1 \\times 10=1 \\mathrm{Ns}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ow5BiaaU6F8Bf2ZfKVZjQC4-SC5QnholKJUAnm1RHr8.original.fullsize.png\"><br>\nWriting the equation (about $\\mathrm{CM}$ )\nAngular impulse\n$=$ Change in angular momentum\n$$\n\\begin{aligned}\n& 1 \\times\\left(\\frac{\\sqrt{3}}{2} \\times \\frac{1}{2}\\right)-2 \\times 0.5 \\times \\frac{1}{2} \\\\\n& =2 \\times(0.5)^2\\left[\\omega-\\frac{1}{0.5}\\right]\n\\end{aligned}\n$$\nSolving this equation $\\omega$ comes out to be positive or $\\omega$ anti-clockwise. So just after collision rightwards slipping is taking place.\nHence, friction is leftwards.\nTherefore, option (c) is also correct.\n$\\therefore$ Correct options are (a) and (c).\nNote In JEE 2011 official answer key, correct option were given $\\mathrm{a}, \\mathrm{ac}$.\nAnalysis of Question\n(i) Question is moderately difficult.\n(ii) In such type of problems impulse due to friction during collision is ignored.",
+    "solution_image": null,
+    "topic": "Impulse"
+  },
+  {
+    "question_id": "64b16a58f23ac7d519f9b393",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "A flat plate is moving normal to its plane through a gas under the action of a constant force F. The gas is kept at a very low pressure. The speed of the plate v I much less than the average speed u of the gas molecules. Which of the following options is true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "d776W",
+        "text": "At a later time the external force F balances the resistive force",
+        "image": null
+      },
+      {
+        "id": "MttLv",
+        "text": "The resistive force experienced by the plate is proportional to v",
+        "image": null
+      },
+      {
+        "id": "bct9z",
+        "text": "The plate will continue to move with constant non zero acceleration at all times",
+        "image": null
+      },
+      {
+        "id": "juPYV",
+        "text": "The pressure difference between the leading and trailing faces of the plate is proportional to <math><mi>u</mi><mi>v</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "juPYV",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2_solu_phys_pa1.jpg\"/></p><p><math><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi>u</mi><mo>+</mo><mn>2</mn><mi>v</mi></math></p><p><math><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mi>u</mi><mo>-</mo><mn>2</mn><mi>v</mi></mrow></mfenced></math></p><p><math><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>u</mi><mo>+</mo><mn>2</mn><mi>v</mi></mrow></mfenced></math></p><p><math><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mi>u</mi><mo>-</mo><mn>2</mn><mi>v</mi></mrow></mfenced></math></p><p><math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi>d</mi><msub><mrow><mi>p</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>ρ</mi><mi>A</mi><mfenced separators=\"|\"><mrow><mi>u</mi><mo>+</mo><mi>v</mi></mrow></mfenced><mi> </mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi>u</mi><mo>+</mo><mn>2</mn><mi>v</mi></mrow></mfenced></math></p><p><math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi>d</mi><msub><mrow><mi>p</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>ρ</mi><mi>A</mi><mfenced separators=\"|\"><mrow><mi>u</mi><mo>-</mo><mi>v</mi></mrow></mfenced><mi> </mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi>u</mi><mo>-</mo><mn>2</mn><mi>v</mi></mrow></mfenced></math></p><p><math><mo>=</mo><mn>2</mn><mi>ρ</mi><mi>A</mi><mi> </mi><msup><mrow><mfenced separators=\"|\"><mrow><mi>u</mi><mo>+</mo><mi>v</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math></p><p><math><mo>=</mo><mn>2</mn><mi>ρ</mi><mi>A</mi><mi> </mi><msup><mrow><mfenced separators=\"|\"><mrow><mi>u</mi><mo>-</mo><mi>v</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2_solu_phys_pa1_2.jpg\"/></p><p><math><mi mathvariant=\"normal\">Δ</mi><mi>F</mi><mo>=</mo><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math>       (<math><mi mathvariant=\"normal\">Δ</mi><mi>F</mi></math>net force due to the air molecules on the plate)</p><p><math><mo>=</mo><mn>2</mn><mi>ρ</mi><mi>A</mi><mi> </mi><mfenced separators=\"|\"><mrow><mn>4</mn><mi>u</mi><mi>v</mi></mrow></mfenced><mo>=</mo><mn>8</mn><mi>ρ</mi><mi>A</mi><mi>u</mi><mi>v</mi></math></p><p><math><mi>P</mi><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><mi>F</mi></mrow><mrow><mi>A</mi></mrow></mfrac><mo>=</mo><mn>8</mn><mi>ρ</mi><mfenced separators=\"|\"><mrow><mi>u</mi><mi>v</mi></mrow></mfenced></math></p><p><math><msub><mrow><mi>F</mi></mrow><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mi>F</mi><mo>-</mo><mi mathvariant=\"normal\">Δ</mi><mi>F</mi></mrow></mfenced><mo>=</mo><mi>m</mi><mi>a</mi></math>    (m is mass of the plate)</p><p><math><mi>F</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mn>8</mn><mi>ρ</mi><mi>A</mi><mi>u</mi></mrow></mfenced><mi>v</mi><mo>=</mo><mi>m</mi><mi>a</mi></math></p><p> </p>",
+    "solution_image": null,
+    "topic": "momentum"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afce",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BpRNG",
+        "text": "\nlinear momentum of the system does not change in time\n",
+        "image": null
+      },
+      {
+        "id": "ddTBP",
+        "text": "\nkinetic energy of the system does not change in time\n",
+        "image": null
+      },
+      {
+        "id": "mDymF",
+        "text": "\nangular momentum of the system does not change in time\n",
+        "image": null
+      },
+      {
+        "id": "x1kvm",
+        "text": "\npotential energy of the system does not change in time",
+        "image": null
+      }
+    ],
+    "correct_answer": "BpRNG",
+    "solution_text": "On a system of particles if,\n$$\n\\Sigma \\overrightarrow{\\mathbf{F}}_{\\mathrm{ext} .}=0\n$$\nthen $\\quad \\overrightarrow{\\mathbf{P}}_{\\text {system }}=$ constant\nNo other conclusions can be drawn.",
+    "solution_image": null,
+    "topic": "momentum"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af44",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Two balls, having linear momenta $\\overrightarrow{\\mathbf{p}}_1=p \\hat{\\mathbf{i}}$ and $\\overrightarrow{\\mathbf{p}}_2=-p \\hat{\\mathbf{i}}$, undergo a collision in free space. There is no external force acting on the balls. Let $\\overrightarrow{\\mathbf{p}}_1^{\\prime}$ and $\\overrightarrow{\\mathbf{p}}_2^{\\prime}$ be their final momenta. The following option(s) is/are NOT ALLOWED for any non-zero value of $p, a_1, a_2, b_1, b_2, c_1$ and $c_2$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4rkJc",
+        "text": "\n$\\overrightarrow{\\mathbf{p}}_1^{\\prime}=a_1 \\hat{\\mathbf{i}}+b_1 \\hat{\\mathbf{j}}+c_1 \\hat{\\mathbf{k}}, \\overrightarrow{\\mathbf{p}}_2^{\\prime}=a_2 \\hat{\\mathbf{i}}+b_2 \\hat{\\mathbf{j}}$\n",
+        "image": null
+      },
+      {
+        "id": "VAumo",
+        "text": "\n$\\overrightarrow{\\mathbf{p}}_1^{\\prime}=c_1 \\hat{\\mathbf{k}}, \\overrightarrow{\\mathbf{p}}_2^{\\prime}=c_2 \\hat{\\mathbf{k}}$\n",
+        "image": null
+      },
+      {
+        "id": "S4RRZ",
+        "text": "\n$\\overrightarrow{\\mathbf{p}}_1^{\\prime}=a_1 \\hat{\\mathbf{i}}+b_1 \\hat{\\mathbf{j}}+c_1 \\hat{\\mathbf{k}}$\n",
+        "image": null
+      },
+      {
+        "id": "wp9oj",
+        "text": "\n$\\overrightarrow{\\mathbf{p}}_1^{\\prime}=a_1 \\hat{\\mathbf{i}}+b_1 \\hat{\\mathbf{j}}$\n$\\overrightarrow{\\mathbf{p}}_2^{\\prime}=a_2 \\hat{\\mathbf{i}}+b_2 \\hat{\\mathbf{j}}-c_1 \\hat{\\mathbf{k}}$\n$\\overrightarrow{\\mathbf{p}}_2^{\\prime}=a_2 \\hat{\\mathbf{i}}+b_1 \\hat{\\mathbf{j}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "wp9oj",
+    "solution_text": "Initial momentum of the system $\\overrightarrow{\\mathbf{p}_1}+\\overrightarrow{\\mathbf{p}_2}=0$\n$\\therefore$ Final momentum $\\overrightarrow{\\mathbf{p}_1^{\\prime}}+\\overrightarrow{\\mathbf{p}_2^{\\prime}}$ should also be zero.\nOption (b) is allowed because if we putc $c_1=-c_2 \\neq 0, \\overrightarrow{\\mathbf{p}_1^{\\prime}}+\\overrightarrow{\\mathbf{p}_2^{\\prime}}$ will be zero. Similarly, we can check other options.\n$\\therefore$ correct options are (a) and (d).",
+    "solution_image": null,
+    "topic": "momentum"
+  },
+  {
+    "question_id": "66965dddd603121f43a421e0",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Two particles, 1 and 2 , each of mass $m$, are connected by a massless spring, and are on a horizontal frictionless plane, as shown in the figure. Initially, the two particles, with their center of mass at $x_0$, are oscillating with amplitude $a$ and angular frequency $\\omega$. Thus, their positions at time $t$ are given by $x_1(t)=\\left(x_0+d\\right)+a \\sin \\omega t$ and $x_2(t)=\\left(x_0-d\\right)-a \\sin \\omega t$, respectively, where $d>2 a$. Particle 3 of mass $m$ moves towards this system with speed $u_0=a \\omega / 2$, and undergoes instantaneous elastic collision with particle 2 , at time $t_0$. Finally, particles 1 and 2 acquire a center of mass speed $v_{\\mathrm{cm}}$ and oscillate with amplitude $b$ and the same angular frequency $\\omega$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U1gIdDrPHH_HVYmNqkdZMSFJ-X_rSc9_1vUT3z5R7II.original.fullsize.png\">\nIf the collision occurs at time $t_0=\\pi /(2 \\omega)$, then the value of $4 b^2 / a^2$ will be ________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 4.25,
+    "solution_text": "$t_0=\\frac{\\pi}{2 \\omega}=\\frac{T}{4}$\nParticles are at extreme position\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tIPiu7o8pzb5_rThXkckdLZ2XM2qMtqxzBm5BxUhaoo.original.fullsize.png\">\nAfter collision\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/v3Za4mSQgrnk7XSiwXW3pxDc0xB9y4HZaRT5nYWmjwU.original.fullsize.png\">\nin C-frame\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wiiH9aNVdAfRcZWY4ztF8i2l9Vjx-RdHsqcr_WEU9cE.original.fullsize.png\">\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/lRKp7cArOt0SQmauF3SvH9wp73agcxrDJ-s9VIyn4Jg.original.fullsize.png\">\nusing WET,\n$\\begin{aligned}\n& \\mathrm{W}_{\\text {spring }}=\\Delta \\mathrm{K} \\\\\n& \\frac{1}{2} \\mathrm{k}(2 \\mathrm{~b})^2-\\frac{1}{2} \\mathrm{k}(2 \\mathrm{a})^2=2 \\times \\frac{1}{2} \\mathrm{~m} \\times\\left(\\frac{\\mathrm{a} \\omega}{4}\\right)^2 \\quad(\\mathrm{k}=\\text { spring constant }) \\\\\n& 4 \\mathrm{~kb}{ }^2-4 \\mathrm{ka}^2=2 \\times \\mathrm{m} \\times \\frac{\\mathrm{a}^2}{16} \\times \\frac{2 \\mathrm{k}}{\\mathrm{m}} \\\\\n& 4 \\mathrm{~b}^2=\\frac{17}{4} \\mathrm{a}^2 \\\\\n& \\frac{4 \\mathrm{~b}^2}{\\mathrm{a}^2}=4.25\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Motion of centre of mass"
+  },
+  {
+    "question_id": "66965ddcd603121f43a41f46",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Paragraph II: Two particles, 1 and 2 , each of mass $m$, are connected by a massless spring, and are on a horizontal frictionless plane, as shown in the figure. Initially, the two particles, with their center of mass at $x_0$, are oscillating with amplitude $a$ and angular frequency $\\omega$. Thus, their positions at time $t$ are given by $x_1(t)=\\left(x_0+d\\right)+a \\sin \\omega t$ and $x_2(t)=\\left(x_0-d\\right)-a \\sin \\omega t$, respectively, where $d>2 a$. Particle 3 of mass $m$ moves towards this system with speed $u_0=a \\omega / 2$, and undergoes instantaneous elastic collision with particle 2 , at time $t_0$. Finally, particles 1 and 2 acquire a center of mass speed $v_{\\mathrm{cm}}$ and oscillate with amplitude $b$ and the same angular frequency $\\omega$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U1gIdDrPHH_HVYmNqkdZMSFJ-X_rSc9_1vUT3z5R7II.original.fullsize.png\">\nIf the collision occurs at time $t_0=0$, the value of $v_{\\mathrm{cm}} /(a \\omega)$ will be ________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 0.75,
+    "solution_text": "At $\\mathrm{t}_0=0$\nBefore collision\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/S9i7fzNJUpjRso0VmLJfitDUaMYRtVfiu7wUvLkV42w.original.fullsize.png\">\nAfter collision\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9hmJb4HI4_hJsR4ANh-AgQoR6Q-WJkUAMQO6LazJtKg.original.fullsize.png\">\n$\\begin{aligned} \\mathrm{v}_{\\mathrm{CM}} & =\\frac{\\mathrm{m} \\cdot \\frac{\\mathrm{a} \\omega}{2}+\\mathrm{m} \\cdot \\mathrm{a} \\omega}{\\mathrm{m}+\\mathrm{m}} \\\\ \\mathrm{v}_{\\mathrm{CM}} & =\\frac{3 \\mathrm{a} \\omega}{4} \\\\ \\frac{\\mathrm{V}_{\\mathrm{CM}}}{\\mathrm{a} \\omega} & =\\frac{3}{4} \\\\ \\frac{\\mathrm{V}_{\\mathrm{CM}}}{\\mathrm{a} \\omega} & =0.75\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Motion of centre of mass"
+  },
+  {
+    "question_id": "64b16a58f23ac7d519f9b392",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>A block of mass M has a circular cut with a frictionless surface as shown. The block rests on the horizontal frictionless surface of a fixed table. Initially the right edge of the block is at <math><mi>x</mi><mo>=</mo><mn>0</mn></math> , in a coordinate system fixed to the table. A point mass m is released from rest at the topmost point of the path as shown and it slides down. When the mass loses contact with the block its position is x and velocity is v. At that instant which of the following options is correct?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cwliqyotkcymhtzliwdasvimbhxqwctwdqhxhdnpmprbqarphv.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SYzU2",
+        "text": "The velocity of the point mass m is <math><mi>v</mi><mo>=</mo><msqrt><mfrac><mrow><mn>2</mn><mi>g</mi><mi>R</mi></mrow><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>m</mi></mrow><mrow><mi>M</mi></mrow></mfrac></mrow></mfrac></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "kSnS3",
+        "text": "The velocity of the block M is  <math><mi>v</mi><mo>=-</mo><mfrac><mrow><mi>m</mi></mrow><mrow><mi>M</mi></mrow></mfrac><msqrt><mn>2</mn><mi>g</mi><mi>R</mi></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "tQmns",
+        "text": "The position of the point mass is  <math><mi>x</mi><mo>=</mo><mo>-</mo><msqrt><mn>2</mn></msqrt><mfrac><mrow><mi>m</mi><mi>R</mi></mrow><mrow><mi>m</mi><mo>+</mo><mi>M</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "mkxjM",
+        "text": "The x component of displacement of the centre of the mass of block M is <math><mo>-</mo><mfrac><mrow><mi>m</mi><mi>R</mi></mrow><mrow><mi>m</mi><mo>+</mo><mi>M</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mkxjM",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1_solu_phys_pa1.jpg\"/></p><p>When the centre of mass of the system is at origin,</p><p><math><msub><mrow><mi>M</mi></mrow><mrow><mi>S</mi></mrow></msub><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>-</mo></mover></mrow><mrow><mi>c</mi><mi>m</mi></mrow></msub><mo>=</mo><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><mi mathvariant=\"normal\">Δ</mi><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>-</mo></mover><mo>+</mo><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>-</mo></mover></mrow><mrow><mn>2</mn></mrow></msub></math></p><p><math><mn>0</mn><mo>=</mo><mi>m</mi><mfenced separators=\"|\"><mrow><mo>+</mo><mi>R</mi><mo>+</mo><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>-</mo></mover></mrow></mfenced><mo>+</mo><mi>m</mi><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>-</mo></mover></math></p><p><math><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>-</mo></mover><mo>=</mo><mfrac><mrow><mo>-</mo><mi>m</mi><mi>R</mi></mrow><mrow><mi>M</mi><mo>+</mo><mi>m</mi></mrow></mfrac></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1_solu_phys_pa1_2.jpg\"/></p><p>The linear momentum of the system is conserved.</p><p><math><mn>0</mn><mo>=</mo><mi>m</mi><msub><mrow><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>-</mo></mover></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mi>M</mi><msub><mrow><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>-</mo></mover></mrow><mrow><mn>2</mn></mrow></msub></math></p><p><math><msub><mrow><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>-</mo></mover></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mo>-</mo><mfrac><mrow><mi>M</mi><msub><mrow><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>-</mo></mover></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mi>M</mi></mrow></mfrac></math></p><p>From energy conservation,</p><p><math><mi>m</mi><mi>g</mi><mi>R</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>M</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></math></p><p><math><mi>m</mi><mi>g</mi><mi>R</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>M</mi><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>m</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><mi>M</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math></p><p><math><mi>m</mi><mi>g</mi><mi>R</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>m</mi></mrow><mrow><mi>M</mi></mrow></mfrac></mrow></mfenced></math></p><p><math><msqrt><mfrac><mrow><mn>2</mn><mi>g</mi><mi>R</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mi>m</mi></mrow><mrow><mi>M</mi></mrow></mfrac></mrow></mfenced></mrow></mfrac></msqrt><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mn>1</mn></mrow></msub></math></p>",
+    "solution_image": null,
+    "topic": "Motion of centre of mass"
+  },
+  {
+    "question_id": "64b169d9f23ac7d519f9af05",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I If there is no external torque on a body about its centre of mass, then the velocity of the centre of mass remains constant.\nStatement II The linear momentum of an isolated system remains constant.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8X3zL",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement\n",
+        "image": null
+      },
+      {
+        "id": "dXQUr",
+        "text": "\nStatement I is true, Statement II is true; Statement II is NOT a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "e3znE",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "xkU6b",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "xkU6b",
+    "solution_text": "If a force is applied at centre of mass of a rigid body, its torque about centre of mass will be zero, but acceleration will be non-zero. Hence, velocity will change.\n$\\therefore$ Correct option is $(\\mathrm{d})$.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yCSMAN6PC8Zm5HMTYvh9XI3XxhFUNW8AbOUSFFi7Klo.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Motion of centre of mass"
+  }
+]

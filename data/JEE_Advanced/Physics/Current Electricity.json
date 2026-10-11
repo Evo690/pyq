@@ -1,0 +1,1016 @@
+[
+  {
+    "question_id": "64b16a32f23ac7d519f9b23c",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>Two ideal batteries of emf <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and three resistances <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></math> are connected as shown in the figure. The current in resistance <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></math> would be zero if<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image4-b75086e1-ba5b-4274-ae92-6663a39d9488.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RRbTr",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "533Fp",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "0AvX7",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "9I9Tl",
+        "text": "<math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9I9Tl",
+    "solution_text": "<p>In order that the current is zero, the potential drop on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub></math>&nbsp;due to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub></math>&nbsp;must be nullified by that due to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>2</mn></msub></math>.</p><p>Accordingly,</p><p><math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfrac><mo>&#8658;</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br /><math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mfrac><mo>&#8658;</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>3</mn></mrow></msub></math></p>",
+    "solution_image": null,
+    "topic": "Combination of Resistances"
+  },
+  {
+    "question_id": "64b16a19f23ac7d519f9b154",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "For the resistance network shown in the figure, choose the correct option(s)\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6kh85RY618i1nuYmfuZDE6YWM9z2GWBu39E_Dl2s1Fo.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PwOaC",
+        "text": "The current through PQ is zero.",
+        "image": null
+      },
+      {
+        "id": "Yw7Mb",
+        "text": "$\\mathrm{I}_{1}=3 \\mathrm{~A}$",
+        "image": null
+      },
+      {
+        "id": "DWDec",
+        "text": "The potential at $S$ is less than that at $Q$.",
+        "image": null
+      },
+      {
+        "id": "Iqxp3",
+        "text": "$\\mathrm{I}_{2}=2 \\mathrm{~A}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Iqxp3",
+    "solution_text": "Resistance of arm $P Q$ and $S T$ becomes ineffective as $P \\& Q$ and $S \\& T$ are at the same potential. The equivalent circuit is as shown in the figure.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/B7BBXe8Z6oGggW_I21s6-cVqBq4JuKLF1SyA9WPbDu8.original.fullsize.png\"><br>\r\n\r\nThe resistance of the upper arm \r\n\r\n$R_{1}=2 \\Omega+2 \\Omega+2 \\Omega=6 \\Omega$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mO1joa0Qolm34i6sprch_SS-TiGWkou49n0RX8LQs10.original.fullsize.png\"><br>\r\n\r\nThe resistance of the lower arm\r\n\r\n$R_{2}=4 \\Omega+4 \\Omega+4 \\Omega=12 \\Omega$\r\n\r\nEquivalent resistance of the circuit,\r\n\r\n$\\begin{array}{l}\r\n\r\nR_{\\mathrm{eq}}=\\frac{R_{1} R_{2}}{R_{1}+R_{2}}=\\frac{(6 \\Omega)(12 \\Omega)}{6 \\Omega+12 \\Omega}=4 \\Omega \\\\\r\n\r\n\\therefore I_{1}=\\frac{12 \\mathrm{~V}}{4 \\Omega}=3 \\mathrm{~A} \\\\\r\n\r\nI_{2}=\\left(\\frac{12}{6+12}\\right) \\times 3=2 \\mathrm{~A} \\\\\r\n\r\nI_{3}=I_{1}-I_{2}=1 \\mathrm{~A}\r\n\r\n\\end{array}$\r\n\r\nPotential difference across $A$ and $P$,\r\n\r\n$\\begin{array}{l}\r\n\r\nV_{A}-V_{P}=I_{2} \\times 2 \\Omega=(2 A)(2 \\Omega) \\\\\r\n\r\n12 V-V_{P}=4 V \\text { or } V_{P}=8 V\r\n\r\n\\end{array}$\r\n\r\nPotential difference across $A$ and $Q$,\r\n\r\n$\\begin{array}{l}\r\n\r\nV_{A}-V_{Q}=I_{3} \\times 2 \\Omega=(1 A)(4 \\Omega) \\\\\r\n\r\n12 V-V_{Q}=4 V \\\\\r\n\r\nV_{Q}=12 \\mathrm{~V}-4 \\mathrm{~V}=8 \\mathrm{~V}\r\n\r\n\\end{array}$\r\n\r\nPotential difference across $P$ and $S$,\r\n\r\n$\\begin{array}{l}\r\n\r\nV_{P}-V_{S}=(2 A)(2 W)=4 V \\\\\r\n\r\n8 V-V_{S}=4 V \\Rightarrow V_{S}=4 V \\\\\r\n\r\n\\therefore V_{S} < V_{Q}\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Combination of Resistances"
+  },
+  {
+    "question_id": "64b16a12f23ac7d519f9b116",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Two batteries of different emfs and different internal resistances are connected as shown. The voltage across $A B$ in volt is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/W2cdpJKmwYYphVd0NTggoakyZDVjRGpVU8m5_97fO6Y.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "$V_{A B}=$ Equivalent emf of two batteries in parallel.\n$$\n\\begin{aligned}\n& =\\frac{E_1 / r_1+E_1 / r_2}{1 / r_1+1 / r_2} \\\\\n& =\\frac{(6 / 1)+(3 / 2)}{(1 / 1)+(1 / 2)}=5 \\mathrm{~V}\n\\end{aligned}\n$$\n$\\therefore$ Answer is 5 .\nAnalysis of Question\n(i) In my opinion this is the simplest question of JEE 2011.\n(ii) When no current is drawn from this equivalent battery, then\n$$\nV_{A B}=V=E\n$$\nOtherwise, $V=E \\pm$ ir\n(iii) Similar type of question was asked in JEE 1981 and cancelled paper of JEE 1997.",
+    "solution_image": null,
+    "topic": "Electric Cell or Battery"
+  },
+  {
+    "question_id": "6a0be51344d287c9361e5cba",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A metal wire of cross-sectional area $0.5$ mm$^2$ and length $100$ m is connected across a battery of e.m.f. $2$ V and internal resistance $1\\ \\Omega$. The density, atomic mass and electrical conductivity of the metal are $6.35 \\times 10^3$ kg m$^{-3}$, $63.5$ gm/mole and $2 \\times 10^8$ mho m$^{-1}$, respectively. Assuming one conduction electron per atom of the metal, the drift velocity (in mm s$^{-1}$) of the electrons in the wire is:<br>[Take Avogadro's number as $6 \\times 10^{23}$ and charge of the electron as $1.6 \\times 10^{-19}$ C.]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CbwVd",
+        "text": "$0.052$",
+        "image": null
+      },
+      {
+        "id": "nYSFa",
+        "text": "$0.104$",
+        "image": null
+      },
+      {
+        "id": "xJ9DB",
+        "text": "$0.208$",
+        "image": null
+      },
+      {
+        "id": "nCIjG",
+        "text": "$0.156$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xJ9DB",
+    "solution_text": "The number density of conduction electrons $n$ is given by the number of atoms per unit volume, since there is one conduction electron per atom:<br><br>$n = \\dfrac{d \\times N_A}{M}$<br><br>Substituting the given values:<br><br>$n = \\dfrac{6.35 \\times 10^3 \\times 6 \\times 10^{23}}{63.5 \\times 10^{-3}} = 6 \\times 10^{28} \\text{ m}^{-3}$<br><br>The resistance of the wire $R$ is:<br><br>$R = \\dfrac{L}{\\sigma A}$<br><br>$R = \\dfrac{100}{2 \\times 10^8 \\times 0.5 \\times 10^{-6}} = \\dfrac{100}{10^2} = 1\\ \\Omega$<br><br>The total resistance of the circuit is $R_{total} = R + r = 1 + 1 = 2\\ \\Omega$.<br><br>The current in the circuit is:<br><br>$I = \\dfrac{E}{R_{total}} = \\dfrac{2}{2} = 1 \\text{ A}$<br><br>The drift velocity $v_d$ is given by the relation $I = n e A v_d$:<br><br>$v_d = \\dfrac{I}{n e A}$<br><br>$v_d = \\dfrac{1}{6 \\times 10^{28} \\times 1.6 \\times 10^{-19} \\times 0.5 \\times 10^{-6}}$<br><br>$v_d = \\dfrac{1}{4.8 \\times 10^3} \\text{ m s}^{-1}$<br><br>Converting to mm s$^{-1}$:<br><br>$v_d = \\dfrac{1000}{4800} \\text{ mm s}^{-1} = \\dfrac{5}{24} \\text{ mm s}^{-1} \\approx 0.208 \\text{ mm s}^{-1}$<br><br>Answer: $0.208$",
+    "solution_image": null,
+    "topic": "Electric Current and Drift of Electrons"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b36c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nConsider an evacuated cylindrical chamber of height $h$ having rigid conducting plates at the ends and an insulating curved surface as shown in the figure. A number of spherical balls made of a light weight and soft material and coated with a conducting material are placed on the bottom plate. The balls have a radius $r \\ll h$. Now a high voltage source $(HV)$ is connected across the conducting plates such that the bottom plate is at $+V_{0}$ and the top plate at $-V_{0} .$ Due to their conducting surface, the balls will get charged, will become equipotential with the plate and are repelled by it. The balls will eventually collide with the top plate, where the coefficient of restitution can be taken to be zero due to the soft nature of the material of the balls. The electric field in the chamber can be considered to be that of a parallel plate capacitor. Assume that there are no collisions between the balls and the interaction between them is negligible. (Ignore gravity)\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/X0iyOE6ZSfi3sQBAwhZMjz6Hr0rDVbqrliZikAjNnu0.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nWhich one of the following statements is correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UYsmR",
+        "text": "The balls will bounce back to the bottom plate carrying the opposite charge they went up with",
+        "image": null
+      },
+      {
+        "id": "fOQ7h",
+        "text": "The balls will execute simple harmonic motion between the two plates",
+        "image": null
+      },
+      {
+        "id": "RuceK",
+        "text": "The balls will bounce back to the bottom plate carrying the same charge they went up with",
+        "image": null
+      },
+      {
+        "id": "zrdEH",
+        "text": "The balls will stick to the top plate and remain there",
+        "image": null
+      }
+    ],
+    "correct_answer": "UYsmR",
+    "solution_text": "Balls placed on +ve plate become positive charge and move upward due to electric field. These balls on colliding with negative plate become negatively charged and move opposite to the direction of electric field.<br />Balls placed on +ve plate become positive charge and move upward due to electric field.<br />These balls on colliding with negative plate become negatively charged and move opposite to the direction of electric field.",
+    "solution_image": null,
+    "topic": "Electric Current and Drift of Electrons"
+  },
+  {
+    "question_id": "64b16a4df23ac7d519f9b32a",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "An infinite line charge of uniform electric charge density <math><mi>&#955;</mi></math> lies along the axis of an electrically conducting infinite cylindrical shell of radius R. At time t = 0, the space inside the cylinder is filled with a material of permittivity <math><mi>&#949;</mi></math> and electrical conductivity <math><mi>&#963;</mi></math> . The electrical conduction in the material follows Ohm&#39;s law.<br />Which one of the following graphs best describes the subsequent variation of the magnitude of current density j(t) at any point in the material?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kw3jh",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_5_A_.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "SB6XZ",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_5_B_.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "F1nEJ",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_5_C_.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "imHuq",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_5_D_.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kw3jh",
+    "solution_text": "This is the problem of RC circuit where the product RC is a constant.<br />So, due to leakage current, charge and current density will exponentially decay and will infinite time. So correct answer is A<br />For any small element<br />Resistance R = <math><mfrac><mrow><mi>d</mi><mi>r</mi></mrow><mrow><mi>&sigma;</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi>&pi;</mi><mi>r</mi><mi mathvariant=\"script\">l</mi></mrow></mfenced><mi>&nbsp;</mi></mrow></mfrac></math><br />Capacitance C <math><mo>=</mo><mfrac><mrow><mi>ϵ</mi><mi>&nbsp;</mi><mn>2</mn><mi>&pi;</mi><mi>r</mi><mi mathvariant=\"script\">l</mi></mrow><mrow><mi>d</mi><mi>r</mi></mrow></mfrac></math><br />Product <math><mi>R</mi><mo>&times;</mo><mi>C</mi><mo>=</mo><mfrac><mrow><mi>ϵ</mi></mrow><mrow><mi>&sigma;</mi></mrow></mfrac><mo>=</mo></math> constant<br /><math><mi>q</mi><mo>=</mo><msub><mrow><mi>q</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>t</mi><mi>&sigma;</mi></mrow><mrow><mi>ϵ</mi></mrow></mfrac></mrow></mfenced></mrow></msup></math><br /><math><mi>I</mi><mo>=</mo><mfrac><mrow><mi>d</mi><mi>q</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>q</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>&sigma;</mi></mrow><mrow><mi>ϵ</mi></mrow></mfrac><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>t</mi><mi>&sigma;</mi></mrow><mrow><mi>ϵ</mi></mrow></mfrac></mrow></mfenced></mrow></msup></math><br />Current density <math><mo>=</mo><mfrac><mrow><mi>I</mi></mrow><mrow><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>q</mi></mrow><mrow><mn>0</mn></mrow></msub><mfrac><mrow><mi>&sigma;</mi></mrow><mrow><mi>ϵ</mi></mrow></mfrac><mi>&nbsp;</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi><mi>&sigma;</mi></mrow><mrow><mi>ϵ</mi></mrow></mfrac></mrow></msup></mrow><mrow><mn>2</mn><mi>&pi;</mi><mi>r</mi><mi mathvariant=\"script\">l</mi></mrow></mfrac></math><br /><math><mi>j</mi><mi>&nbsp;</mi><mi>&infin;</mi><mi>&nbsp;</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mi>t</mi><mi>&sigma;</mi></mrow><mrow><mi>ϵ</mi></mrow></mfrac></mrow></msup></math>",
+    "solution_image": null,
+    "topic": "Electric Current and Drift of Electrons"
+  },
+  {
+    "question_id": "64b169c4f23ac7d519f9ae46",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Two bars of radius ' $r$ ' and ' $2 r$ ' are kept in contact as shown. An electric current $I$ is passed through the bars. Which one of the following is correct?\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3BJ3ax4_H0x5tjzPE6zxTmxBgcNfjjyHZfX_fLKfU5k.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0bTKW",
+        "text": "\nHeat produced in bar $B C$ is 4 times the heat produced in bar $A B$\n",
+        "image": null
+      },
+      {
+        "id": "5RSm8",
+        "text": "\nElectric field in both halves is equal\n",
+        "image": null
+      },
+      {
+        "id": "ELl1T",
+        "text": "\nCurrent density across $A B$ is doubled that of across $B C$\n",
+        "image": null
+      },
+      {
+        "id": "K3TqF",
+        "text": "\nPotential difference across $A B$ is 4 times that of across $B C$",
+        "image": null
+      }
+    ],
+    "correct_answer": "0bTKW",
+    "solution_text": "Current flowing through both the bars is equal. Now, the heat produced is given by\n$$\n\\begin{aligned}\nH & =I^2 R t \\text { or } H \\propto R \\text { or } \\frac{H_{A B}}{H_{B C}}=\\frac{R_{A B}}{R_{B C}} \\\\\n& =\\frac{\\left(\\frac{1}{2 r}\\right)^2}{\\left(\\frac{1}{r}\\right)^2} \\\\\n& =\\frac{1}{4} \\text { or } H_{B C}=4 H_{A B}\n\\end{aligned}\n$$\n$$\n\\left(\\text { as } R \\propto \\frac{1}{A} \\propto \\frac{1}{r^2}\\right)\n$$",
+    "solution_image": null,
+    "topic": "Electric Current and Drift of Electrons"
+  },
+  {
+    "question_id": "6a0be51444d287c9361e5cc6",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "As shown in the figure, the resistance of a galvanometer $G$ can be found by the half-deflection method. Here the resistance $R_2$ is adjusted such that when the key $K$ is closed the deflection in the galvanometer becomes half of the value as compared to when $K$ is open. Half-deflection is obtained at $R_2 = 4\\ \\Omega$ and thus the galvanometer resistance is found to be $6\\ \\Omega$. In this half-deflection condition the current (in mA) through the resistor $R_1$ is:<br><img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q31_d1.png\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "694.44",
+    "solution_text": "Let the resistance of the galvanometer be $G$ and the series resistance be $R_1$.<br>When the key $K$ is open, the current through the galvanometer is:<br>$I_1 = \\dfrac{V}{R_1 + G}$<br><br>When the key $K$ is closed, the total resistance of the circuit becomes:<br>$R_{eq} = R_1 + \\dfrac{G R_2}{G + R_2}$<br><br>The total current from the battery is $I = \\dfrac{V}{R_{eq}}$. The current through the galvanometer is:<br>$I_2 = I \\times \\dfrac{R_2}{G + R_2} = \\dfrac{V}{R_1 + \\dfrac{G R_2}{G + R_2}} \\times \\dfrac{R_2}{G + R_2} = \\dfrac{V R_2}{R_1(G + R_2) + G R_2}$<br><br>In the half-deflection condition, $I_2 = \\dfrac{I_1}{2}$:<br>$\\dfrac{V R_2}{R_1(G + R_2) + G R_2} = \\dfrac{V}{2(R_1 + G)}$<br><br>Cross-multiplying and simplifying:<br>$2 R_2 (R_1 + G) = R_1(G + R_2) + G R_2$<br>$2 R_1 R_2 + 2 G R_2 = R_1 G + R_1 R_2 + G R_2$<br>$R_1 R_2 + G R_2 = R_1 G$<br>$R_1(G - R_2) = G R_2$<br>$R_1 = \\dfrac{G R_2}{G - R_2}$<br><br>Given $G = 6\\ \\Omega$ and $R_2 = 4\\ \\Omega$, we can find $R_1$:<br>$R_1 = \\dfrac{6 \\times 4}{6 - 4} = \\dfrac{24}{2} = 12\\ \\Omega$<br><br>In the half-deflection condition (key $K$ closed), the total equivalent resistance of the circuit is:<br>$R_{eq} = 12 + \\dfrac{6 \\times 4}{6 + 4} = 12 + 2.4 = 14.4\\ \\Omega$<br><br>The current through the resistor $R_1$ is the total current from the battery:<br>$I = \\dfrac{V}{R_{eq}} = \\dfrac{10}{14.4} = \\dfrac{100}{144} = \\dfrac{25}{36}\\ \\text{A}$<br><br>Converting the current to mA:<br>$I = \\dfrac{25}{36} \\times 1000\\ \\text{mA} = \\dfrac{25000}{36}\\ \\text{mA} \\approx 694.44\\ \\text{mA}$",
+    "solution_image": null,
+    "topic": "Electric Instruments"
+  },
+  {
+    "question_id": "64b16a54f23ac7d519f9b36d",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nConsider an evacuated cylindrical chamber of height $h$ having rigid conducting plates at the ends and an insulating curved surface as shown in the figure. A number of spherical balls made of a light weight and soft material and coated with a conducting material are placed on the bottom plate. The balls have a radius $r \\ll h$. Now a high voltage source $(HV)$ is connected across the conducting plates such that the bottom plate is at $+V_{0}$ and the top plate at $-V_{0} .$ Due to their conducting surface, the balls will get charged, will become equipotential with the plate and are repelled by it. The balls will eventually collide with the top plate, where the coefficient of restitution can be taken to be zero due to the soft nature of the material of the balls. The electric field in the chamber can be considered to be that of a parallel plate capacitor. Assume that there are no collisions between the balls and the interaction between them is negligible. (Ignore gravity)\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/X0iyOE6ZSfi3sQBAwhZMjz6Hr0rDVbqrliZikAjNnu0.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe average current in the steady state registered by the ammeter in the circuit will be",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ua18q",
+        "text": "Proportional to <math><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup></math>",
+        "image": null
+      },
+      {
+        "id": "wajEL",
+        "text": "Proportional to <math><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></math>",
+        "image": null
+      },
+      {
+        "id": "jI6n3",
+        "text": "Proportional to the potential <math><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "aSDRV",
+        "text": "Zero",
+        "image": null
+      }
+    ],
+    "correct_answer": "wajEL",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_18_Ans_.jpg\" style=\"width: 251px; height: 56px;\" /><br /><math><mi>h</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>&#160;</mi><mi>a</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></math> [as u = 0]<br /><math><msqrt><mfrac><mrow><mn>2</mn><mi>h</mi><mi>m</mi></mrow><mrow><mi>q</mi><mi>E</mi></mrow></mfrac></msqrt><mo>=</mo><mi>t</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>t</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo>=</mo><mi>&#160;</mi><msqrt><mfrac><mrow><mn>2</mn><mi>m</mi></mrow><mrow><mi>q</mi><mo>&#8710;</mo><mi>V</mi></mrow></mfrac></msqrt></math><br /><math><mi>E</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>h</mi></mrow></mfrac></math><br /><math><mo>&#60;</mo><mi>c</mi><mi>u</mi><mi>r</mi><mi>r</mi><mi>e</mi><mi>n</mi><mi>t</mi><mo>&#62;</mo><mi>&#160;</mi><mo>=</mo><mfrac><mrow><mi>c</mi><mi>h</mi><mi>a</mi><mi>r</mi><mi>g</mi><mi>e</mi></mrow><mrow><mi>t</mi><mi>i</mi><mi>m</mi><mi>e</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>q</mi><msqrt><mi>q</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></msqrt></mrow><mrow><mn>2</mn><mi>m</mi><msup><mrow><mi>h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br /><math><mi>q</mi><mi>&#160;</mi><mi>&#8734;</mi><mi>&#160;</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></math><br /><math><mo>&#60;</mo><mi>I</mi><mo>&#62;</mo><mi>&#8734;</mi><mi>&#160;</mi><msubsup><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></math>",
+    "solution_image": null,
+    "topic": "Electric Instruments"
+  },
+  {
+    "question_id": "64b16a53f23ac7d519f9b367",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Consider two identical galvanometers and two identical resistors with resistance R. If the internal resistance of the galvanometers <math><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo>&#60;</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo></math> which of the following statement(s) about any one of the galvanometers<br />is(are) true ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hMoLq",
+        "text": "The maximum voltage range is obtained when all the components are connected in series",
+        "image": null
+      },
+      {
+        "id": "7ctgl",
+        "text": "The maximum voltage range is obtained when the two resistors and one galvanometer are connected in series, and the second galvanometer is connected in parallel to the first galvanometer",
+        "image": null
+      },
+      {
+        "id": "O44u9",
+        "text": "The maximum current range is obtained when all the components are connected in parallel",
+        "image": null
+      },
+      {
+        "id": "D6PFo",
+        "text": "The maximum current range is obtained when the two galvanometers are connected in series and the combination is connected in parallel with both the resistors.",
+        "image": null
+      }
+    ],
+    "correct_answer": "O44u9",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_12_Ans_1_.jpg\"/><br ><math><mi>i</mi><mo>=</mo><mfrac><mrow><mi>E</mi></mrow><mrow><mn>2</mn><mi>R</mi><mo>+</mo><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac></math> <math><msub><mrow><mi>V</mi></mrow><mrow><msub><mrow><mi>g</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></msub><mo>=</mo><mi>i</mi><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>E</mi><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mi>R</mi><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>E</mi><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow><mrow><mn>2</mn><mi>R</mi><mo>+</mo><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_12_Ans_2_.jpg\"/><br ><math><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi>E</mi></mrow><mrow><mn>2</mn><mi>R</mi><mo>+</mo><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac></math> <math><msub><mrow><mi>V</mi></mrow><mrow><msub><mrow><mi>g</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></math><br ><math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>E</mi></mrow><mrow><mn>2</mn><mi>R</mi><mo>+</mo><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac></mrow></mfenced><mo>×</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></math><br ><math><msub><mrow><mi>V</mi></mrow><mrow><msub><mrow><mi>g</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></msub><mo>=</mo><mfrac><mrow><mi>E</mi><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow><mrow><mn>4</mn><mi>R</mi><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac></math> ....(2)<br >Since <math><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo><</mo><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi> </mi></math> <math><mfenced separators=\"|\"><mrow><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo><</mo><mi>R</mi></mrow></mfenced></math><br ><math><mn>2</mn><mi>R</mi><mo>+</mo><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo><</mo><mn>3</mn><mi>R</mi></math><br ><math><msub><mrow><mi>V</mi></mrow><mrow><msub><mrow><mi>g</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></msub><mo>></mo><msub><mrow><mi>V</mi></mrow><mrow><msub><mrow><mi>g</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></msub></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_12_Ans_1___2_.jpg\"/><p> </p><br/><math><msub><mrow><mi>i</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>E</mi></mrow><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Phy_Papr2_13_Ans_1_.jpg\"/><br >Here <math><mi>i</mi><mo>=</mo><mfrac><mrow><mi>E</mi><mo>(</mo><mn>2</mn><mi>R</mi><mo>+</mo><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo>)</mo></mrow><mrow><mn>2</mn><mi>R</mi><mo>.</mo><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>E</mi><mo>(</mo><mi>R</mi><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo>)</mo></mrow><mrow><mn>2</mn><mi>R</mi><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac></math><br ><math><msub><mrow><mi>i</mi></mrow><mrow><mi>B</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>R</mi></mrow><mrow><mn>2</mn><mi>R</mi><mo>+</mo><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac><mo>×</mo><mfrac><mrow><mi>E</mi><mo>(</mo><mi>R</mi><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub><mo>)</mo></mrow><mrow><mn>2</mn><mi>R</mi><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>E</mi></mrow><mrow><mn>2</mn><msub><mrow><mi>R</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mfrac></math><br ><math><msub><mrow><mi>i</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>></mo><msub><mrow><mi>i</mi></mrow><mrow><mi>B</mi></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Electric Instruments"
+  },
+  {
+    "question_id": "64b169fbf23ac7d519f9b03d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "To verify Ohm's law, a student is provided with a test resistor $R_T$, a high resistance $R_1$, a small resistance $R_2$, two identical galvanometers $G_1$ and $G_2$, and a variable voltage source $V$. The correct circuit to carry out the experiment is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7NnsF",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/NTfm4R3CESuRYWjdLwkM5mLtReWptl3E9O19YO_mNcU.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "4O5jZ",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/w4-0tdmb_lC8pItkWVuInxDcK1iOf9Lq0LrFuSOxxQ0.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "jioY1",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/IKwaHmR5G8DBZTEgscDMeB4PFuCvF_bW1PvTz9qpCM8.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "sThsZ",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GZroKs7fZUBze7YQXg4QQsRUbOiZRO9AdqjRhos0sdI.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jioY1",
+    "solution_text": "We will require a voltmeter, an ammeter, a test resistor and a variable battery to verify Ohm's law.\nVoltmeter which is made by connecting a high resistance with a galvanometer is connected in parallel with the test resistor.\nFurther, an ammeter which is formed by connecting a low resistance in parallel with galvanometer is required to measure the current through test resistor.\nThe correct option is (c).",
+    "solution_image": null,
+    "topic": "Electric Instruments"
+  },
+  {
+    "question_id": "64b16a9bf23ac7d519f9b5f3",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>In Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> and Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;shown in the figures, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\">&Omega;</mi><mo>,</mo><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">&Omega;</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>3</mn><mi mathvariant=\"normal\">&Omega;</mi></math>.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub></math>&nbsp;are the power dissipations in Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp;and Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;when the switches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are in open conditions, respectively.<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>2</mn></msub></math>&nbsp;are the power dissipations in Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> and Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> when the switches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are in closed conditions, respectively.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eb963203-238d-4c48-9159-135cd902eea2-image.png\" style=\"width: 375px; height: 300px;\" />​​​​​​​</p><p>Which of the following statement(s) is(are) correct?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "11kpW",
+        "text": "When a voltage source of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi mathvariant=\"normal\">V</mi></math> is connected across&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math> in both circuits,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>&#60;</mo><msub><mi>P</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "vqB9j",
+        "text": "When a constant current source of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>Amp is connected across&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;in both circuits,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>&#62;</mo><msub><mi>P</mi><mn>2</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "egdKX",
+        "text": "When a voltage source&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi mathvariant=\"normal\">V</mi></math> is connected across&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;in Circuit-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><mo>&#62;</mo><msub><mi>P</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "3Qy9e",
+        "text": "When a constant current source of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> Amp is connected across&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;in both circuits,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>2</mn></msub><mo>&#60;</mo><msub><mi>Q</mi><mn>1</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "egdKX",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5fed65f2-4f86-46df-9cd4-313d5924a479-image.png\" style=\"width: 379px; height: 300px;\" /></p><p>When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are open</p><p>For circuit 1</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>R</mi><mi>eq</mi></msub></mfenced><mn>1</mn></msub><mo>=</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mn>5</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mrow><mn>5</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfrac><mo>=</mo><mn>1</mn><mo>+</mo><mfrac><mn>5</mn><mn>11</mn></mfrac><mo>=</mo><mfrac><mn>16</mn><mn>11</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><mfrac><msup><mi>V</mi><mn>2</mn></msup><msub><mi>R</mi><mi>eq</mi></msub></mfrac><mo>=</mo><mfrac><msup><mfenced><mn>6</mn></mfenced><mn>2</mn></msup><mn>16</mn></mfrac><mo>&#215;</mo><mn>11</mn><mo>=</mo><mfrac><mrow><mn>36</mn><mo>&#215;</mo><mn>11</mn></mrow><mn>16</mn></mfrac><mo>=</mo><mn>24</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p>For circuit 2</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>R</mi><mi>eq</mi></msub></mfenced><mn>2</mn></msub><mo>=</mo><mfrac><mn>6</mn><mn>11</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub><mo>=</mo><mfrac><msup><mi>V</mi><mn>2</mn></msup><msub><mi>R</mi><mi>eq</mi></msub></mfrac><mo>=</mo><mfrac><msup><mfenced><mn>6</mn></mfenced><mn>2</mn></msup><mn>6</mn></mfrac><mo>&#215;</mo><mn>11</mn><mo>=</mo><mfrac><mrow><mn>36</mn><mo>&#215;</mo><mn>11</mn></mrow><mn>6</mn></mfrac><mo>=</mo><mn>66</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub><mo>&#62;</mo><msub><mi>P</mi><mn>1</mn></msub></math></p><p>Option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is correct</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp; If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;A source is used in both&nbsp;cases.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msup><mi>i</mi><mn>2</mn></msup><msub><mfenced><msub><mi>R</mi><mrow><mi>eq</mi><mo>&#160;</mo></mrow></msub></mfenced><mn>1</mn></msub><mo>=</mo><msup><mfenced><mn>2</mn></mfenced><mn>2</mn></msup><mo>&#215;</mo><mfrac><mn>16</mn><mn>11</mn></mfrac><mo>=</mo><mfrac><mn>64</mn><mn>11</mn></mfrac><mo>=</mo><mn>5</mn><mo>.</mo><mn>818</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub><mo>=</mo><msup><mi>i</mi><mn>2</mn></msup><msub><mfenced><msub><mi>R</mi><mi>eq</mi></msub></mfenced><mn>2</mn></msub><mo>=</mo><mo>(</mo><mn>2</mn><msup><mo>)</mo><mn>2</mn></msup><mo>&#215;</mo><mfrac><mn>6</mn><mn>11</mn></mfrac><mo>=</mo><mfrac><mn>24</mn><mn>11</mn></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>1818</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>&#62;</mo><msub><mi>P</mi><mn>2</mn></msub></math></p><p>Option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>B</mi></mfenced></math>&nbsp;is correct.</p><p>When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>S</mi><mn>2</mn></msub></math>&nbsp;are closed</p><p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>eq</mi></msub><mo>=</mo><mfrac><mn>5</mn><mn>11</mn></mfrac><mi mathvariant=\"normal\">&#937;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><mfrac><msup><mi>V</mi><mn>2</mn></msup><msub><mi>R</mi><mi>eq</mi></msub></mfrac><mo>=</mo><mfrac><msup><mfenced><mn>6</mn></mfenced><mn>2</mn></msup><mfrac><mn>5</mn><mn>11</mn></mfrac></mfrac><mo>=</mo><mfrac><mrow><mn>36</mn><mo>&#215;</mo><mn>11</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>79</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><mn>24</mn><mo>.</mo><mn>75</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><mo>&#62;</mo><msub><mi>P</mi><mn>1</mn></msub></math></p><p>Option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>C</mi></mfenced></math>&nbsp;is correct.</p><p>For option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><msup><mi>i</mi><mn>2</mn></msup><msub><mi>R</mi><mi>eq</mi></msub><mo>=</mo><msup><mfenced><mn>2</mn></mfenced><mn>2</mn></msup><mo>&#215;</mo><mfrac><mn>5</mn><mn>11</mn></mfrac><mo>=</mo><mfrac><mn>20</mn><mn>11</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo><mn>81</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>2</mn></msub><mo>=</mo><msup><mi>i</mi><mn>2</mn></msup><msub><mi>R</mi><mi>eq</mi></msub><mo>=</mo><msup><mfenced><mn>2</mn></mfenced><mn>2</mn></msup><mo>&#215;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>2</mn></mfrac><mo>=</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">W</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Q</mi><mn>2</mn></msub><mo>&#62;</mo><msub><mi>Q</mi><mn>1</mn></msub></math></p><p>Option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced></math>&nbsp;is incorrect.</p>",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b16a32f23ac7d519f9b23b",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Heater of an electric kettle is made of a wire of length L and diameter d. It takes 4 minutes to raise the temperature of 0.5 kg water by 40 K. This heater is replaced by a new heater having two wires of the same material, each of length L and diameter 2d. The way these wires are connected is given in the options. How much time in minutes will it take to raise the temperature of the same amount of water by 40K?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YdayJ",
+        "text": "4 if wires are in parallel",
+        "image": null
+      },
+      {
+        "id": "7ryeQ",
+        "text": "2 if wires are in series",
+        "image": null
+      },
+      {
+        "id": "sX4hX",
+        "text": "1 if wires are in series",
+        "image": null
+      },
+      {
+        "id": "mXn5E",
+        "text": "0.5 if wires are in parallel.",
+        "image": null
+      }
+    ],
+    "correct_answer": "mXn5E",
+    "solution_text": "Joules law,\r\n\r\n\\(\\mathrm{H}=\\mathrm{I}^{2} \\mathrm{Rt}=\\frac{\\mathrm{V}^{2} \\mathrm{t}}{\\mathrm{R}}\\)\r\n\r\nAlso,\r\n\r\n\\(\\mathrm{R}=\\rho \\frac{1}{\\mathrm{~A}} \\Rightarrow \\mathrm{R} \\propto \\frac{1}{\\mathrm{~A}} \\Rightarrow \\mathrm{R} \\propto \\frac{1}{\\mathrm{r}^{2}}\\)\r\n\r\n\\(\\therefore R^{\\prime}=\\frac{R}{4}\\)\r\n\r\nparallel \\(\\Rightarrow \\mathrm{R}_{\\mathrm{p}}=\\left(\\frac{1}{\\mathrm{R} / 4}+\\frac{1}{\\mathrm{R} / 4}\\right)^{-1}=\\frac{\\mathrm{R}}{8}\\)\r\n\r\n\\(\\text { series } \\Rightarrow \\mathrm{R}_{\\mathrm{s}}=\\frac{\\mathrm{R}}{4}+\\frac{\\mathrm{R}}{4}=\\frac{\\mathrm{R}}{2}\\)\r\n\r\n\\(\\therefore \\frac{\\mathrm{V}^{2} 4}{\\mathrm{R}}=\\frac{\\mathrm{V}^{2} \\mathrm{t}_{\\mathrm{p}}}{\\mathrm{R}_{\\mathrm{p}}}=\\frac{\\mathrm{V}^{2} \\mathrm{t}_{\\mathrm{s}}}{\\mathrm{R}_\\mathrm{s}}\\)\r\n\r\n\\(\\Rightarrow \\mathrm{t}_{\\mathrm{p}}=0.5 \\mathrm{~min}, \\mathrm{t}_{\\mathrm{s}}=2 \\mathrm{~min}\\)",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b16a2df23ac7d519f9b206",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nA thermal power plant produces electric power of $600 \\mathrm{~kW}$ at $4000 \\mathrm{~V}$, which is to be transported to a place $20 \\mathrm{~km}$ away from the power plant for consumers' usage. It can be transported either directly with a cable of large current carrying capacity or by using a combination of step-up and step-down transformers at the two ends. The drawback of the direct transmission is the large energy dissipation. In the method using transformers, the dissipation is much smaller. In this method, a step-up transformer is used at the plant side so that the current is reduced to a smaller value. At the consumers' end, a step-down transformer is used to supply power to the consumers at the specified lower voltage. It is reasonable to assume that the power cable is purely resistive and the transformers are ideal with a power factor unity. All the currents and voltages mentioned are rms values.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIf the direct transmission method with a cable of resistance $0.4 \\Omega \\mathrm{km}^{-1}$ is used, the power dissipation (in \\%) during transmission is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IjSNX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math>",
+        "image": null
+      },
+      {
+        "id": "h8cTR",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math>",
+        "image": null
+      },
+      {
+        "id": "reFww",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn></math>",
+        "image": null
+      },
+      {
+        "id": "55TGo",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "h8cTR",
+    "solution_text": "<math> <mrow> <mtext>P</mtext> <mo>=</mo> <mn>6</mn> <mn>0</mn> <mn>0</mn> <mo>&#215;</mo> <mn>1</mn> <mn>0</mn> <mn>0</mn> <mn>0</mn> <mo>=</mo> <mn>4</mn> <mn>0</mn> <mn>0</mn> <mn>0</mn> <mo>&#215;</mo> <mtext>I</mtext> <mo>&#8658;</mo> <mtext>I</mtext> <mo>=</mo> <mn>1</mn> <mn>5</mn> <mn>0</mn> <mtext>A</mtext> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mtext>dH</mtext> </mrow> <mrow> <mtext>dt</mtext> </mrow> </mfrac> <mo>=</mo> <msup> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>1</mn> <mn>5</mn> <mn>0</mn> </mrow> </mfenced> </mrow> <mn>2</mn> </msup> <mo>&#215;</mo> <mtext>0.4</mtext> <mo>&#215;</mo> <mn>2</mn> <mn>0</mn> </mrow> </math><br />Which is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mo>%</mo></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>600</mn><mo>&#160;</mo><mi>kW</mi></math>.",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b04d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "When two identical batteries of internal resistance $1 \\Omega$ each are connected in series across a resistor $R$, the rate of heat produced in $R$ is $J_1$. When the same batteries are connected in parallel across $R$, the rate is $J_2$. If $J_1=2.25 J_2$ then the value of $R$ in $\\Omega$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "In series, $i=\\frac{2 E}{2+R}$\n$$\n\\therefore J_1=i^2 R=\\left(\\frac{2 E}{2+R}\\right)^2 \\cdot R\n$$\nIn parallel, $i=\\frac{E}{0.5+R}$\n$$\n\\begin{aligned}\n\\therefore \\quad J_2 & =i^2 R=\\left(\\frac{E}{0.5+R}\\right)^2 \\cdot R \\\\\n\\frac{J_1}{J_2} & =2.25=\\frac{4(0.5+R)^2}{(2+R)^2}\n\\end{aligned}\n$$\nor $1.5=\\frac{2(0.5+R)}{(2+R)}$\nSolving we get, $R=4 \\Omega$\n$\\therefore$ The answer is 4 .",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b169fbf23ac7d519f9b03c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Incandescent bulbs are designed by keeping in mind that the resistance of their filament increases with the increase in temperature. If at room temperature, $100 \\mathrm{~W}, 60 \\mathrm{~W}$ and $40 \\mathrm{~W}$ bulbs have filament resistances $R_{100}, R_{60}$ and $R_{40}$, respectively, the relation between these resistances is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zVZ9Y",
+        "text": "\n$\\frac{1}{R_{100}}=\\frac{1}{R_{40}}+\\frac{1}{R_{60}}$\n",
+        "image": null
+      },
+      {
+        "id": "9zohO",
+        "text": "\n$R_{100}=R_{40}+R_{60}$\n",
+        "image": null
+      },
+      {
+        "id": "dyYNl",
+        "text": "\n$R_{100}>R_{60}>R_{40}$\n",
+        "image": null
+      },
+      {
+        "id": "Kw51L",
+        "text": "\n$\\frac{1}{R_{100}}>\\frac{1}{R_{60}}>\\frac{1}{R_{40}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Kw51L",
+    "solution_text": "$R=\\frac{V^2}{P}$ or $R \\propto \\frac{1}{P}$ $\\therefore \\quad \\frac{1}{R_{100}}>\\frac{1}{R_{60}}>\\frac{1}{R_{40}}$\nHence, the correct option is (d).",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b169eef23ac7d519f9afcb",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "For the circuit shown in the figure\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Uqg_kDJSz9hsnqk0C36WKZTBDkEZSid6qovG06dwEU0.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rVLc0",
+        "text": "\nthe current $I$ through the battery is\n$$\n7.5 \\mathrm{~mA}\n$$\n",
+        "image": null
+      },
+      {
+        "id": "ElHZp",
+        "text": "\nthe potential difference across $R_L$ is $18 \\mathrm{~V}$\n",
+        "image": null
+      },
+      {
+        "id": "F1wGa",
+        "text": "\nratio of powers dissipated in $R_1$ and $R_2$ is 3\n",
+        "image": null
+      },
+      {
+        "id": "elT58",
+        "text": "\nif $R_1$ and $R_2$ are interchanged, magnitude of the power dissipated in $R_L$ will decrease by a factor of 9.",
+        "image": null
+      }
+    ],
+    "correct_answer": "elT58",
+    "solution_text": "$R_{\\text {total }}=2+\\frac{6 \\times 1.5}{6+1.5}=3.2 \\mathrm{k} \\Omega$\n(A) $I=\\frac{24 \\mathrm{~V}}{3.2 \\mathrm{k} \\Omega}=7.5 \\mathrm{~mA}=I_{R_1}$ $I_{R_2}=\\left(\\frac{R_L}{R_L+R_2}\\right) I$ $I=\\frac{1.5}{7.5} \\times 7.5=1.5 \\mathrm{~mA}$\n(B) $V_{R_L}=\\left(I_{R_L}\\right)\\left(R_L\\right)=9 \\mathrm{~V}$\n(C) $\\frac{P_{R_1}}{P_{R_2}}=\\frac{\\left(I_{R_1}^2\\right) R_1}{\\left(I_{R_2}^2\\right) R_2}=\\frac{(7.5)^2(2)}{(1.5)^2(6)}=\\frac{25}{3}$\n(D) When $R_1$ and $R_2$ are interchanged, then\n$$\n\\frac{R_2 R_L}{R_2+R_L}=\\frac{2 \\times 1.5}{3.5}=\\frac{6}{7} \\mathrm{k} \\Omega\n$$\nNow potential difference across $R_L$ will be\n$$\nV_L=24\\left[\\frac{6 / 7}{6+6 / 7}\\right]\n$$\nEarlier it was $9 \\mathrm{~V}$\nSince, $\\quad P=\\frac{V^2}{R}$ or $P \\propto V^2$\nIn new situation potential difference has been decreased three times. Therefore, power dissipated will decrease by a factor of 9.",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b169dff23ac7d519f9af41",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Figure shows three resistor configurations $R_1, R_2$ and $R_3$ connected to $3 \\mathrm{~V}$ battery. If the power dissipated by the configuration $R_1, R_2$ and $R_3$ is $P_1, P_2$ and $P_3$, respectively, then\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/FaDLcWdj6MIA-JqWZmTiJ6nR8EgzVH5Cszu_B_UC_vs.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "iCQen",
+        "text": "\n$P_1>P_2>P_3$\n",
+        "image": null
+      },
+      {
+        "id": "nODNy",
+        "text": "\n$P_1>P_3>P_2$\n",
+        "image": null
+      },
+      {
+        "id": "gyP6D",
+        "text": "\n$P_2>P_1>P_3$\n",
+        "image": null
+      },
+      {
+        "id": "Ha8Tm",
+        "text": "\n$P_3>P_2>P_1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "gyP6D",
+    "solution_text": "Applying $P=\\frac{V^2}{R}$\n$R_1=1 \\Omega, R_2=0.5 \\Omega$ and $R_3=2 \\Omega, V_1=V_2=V_3=3$ volt\n$\\therefore \\quad P_1=\\frac{(3)^2}{1}=9 \\mathrm{~W}$\n$\\quad P_2=\\frac{(3)^2}{0.5}=18 \\mathrm{~W}$ and $P_3=\\frac{(3)^2}{2}=4.5 \\mathrm{~W}$\n$\\therefore \\quad P_2>P_1>P_3$\n$\\therefore \\quad$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Electric Power and Heating Effect of Current"
+  },
+  {
+    "question_id": "64b16a95f23ac7d519f9b5bd",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>The figure shows a circuit having eight resistances of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&nbsp;</mo><mi mathvariant=\"normal\">&Omega;</mi></math> each, labelled <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>8</mn></msub></math>, and two ideal batteries with voltages <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&epsilon;</mi><mn>1</mn></msub><mo>=</mo><mn>12</mn><mo>&nbsp;</mo><mi mathvariant=\"normal\">V</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&epsilon;</mi><mn>2</mn></msub><mo>=</mo><mn>6</mn><mo>&nbsp;</mo><mi mathvariant=\"normal\">V</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/87eec753-63d1-4162-8637-a171d706d16b-image.png\" style=\"width: 220px; height: 220px;\" /></p><p>Which of the following statement(s) is(are) correct?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xZRak",
+        "text": "The magnitude of current flowing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "yG7Yi",
+        "text": "The magnitude of current flowing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "180HV",
+        "text": "The magnitude of current flowing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "0PcHK",
+        "text": "The magnitude of current flowing through <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>5</mn></msub></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "0PcHK",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8ae7fcb5-f1b4-4353-84c2-10602ed6b06d-image.png\" style=\"width: 240px; height: 239px;\" /></p><p>Point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;are at same potential so they can be merged/folded.</p><p>Now, let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>&nbsp;be the current flowing from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mo>&#160;</mo><mi mathvariant=\"normal\">V</mi></math>&nbsp;batteries.</p><p>The current distribution is shown below.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d8adf3cd-1037-49d5-880c-9158c3a9f348-image.png\" style=\"width: 350px; height: 207px;\" /></p><p>Applying Kirchhoff&#39;s voltage law,</p><p>For loop&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>:</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mo>-</mo><mn>1</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mfrac><mi>y</mi><mn>2</mn></mfrac><mo>=</mo><mo>-</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>4</mn><mo>&#160;</mo><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mo>-</mo><mn>12</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>12</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>1</mn></mfenced></math></p><p>For loop&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>:</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>y</mi><mo>+</mo><mn>1</mn><mi>y</mi><mo>+</mo><mn>12</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>y</mi><mo>+</mo><mfrac><mi>y</mi><mn>2</mn></mfrac><mo>+</mo><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mo>-</mo><mn>12</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>y</mi><mo>+</mo><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mo>-</mo><mn>12</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>y</mi><mo>+</mo><mi>x</mi><mo>=</mo><mo>-</mo><mn>24</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>2</mn></mfenced></math></p><p>Using,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced><mo>-</mo><mn>4</mn><mo>&#215;</mo><mfenced><mn>1</mn></mfenced></math>, we have</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>y</mi><mo>+</mo><mi>x</mi><mo>-</mo><mn>16</mn><mi>x</mi><mo>-</mo><mn>4</mn><mi>y</mi></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>24</mn><mo>-</mo><mn>48</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>15</mn><mi>x</mi><mo>=</mo><mo>-</mo><mn>72</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mn>72</mn><mn>15</mn></mfrac></math></p><p>Putting in equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced></math>,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mfenced><mfrac><mn>72</mn><mn>15</mn></mfrac></mfenced><mo>+</mo><mi>y</mi><mo>=</mo><mn>12</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mn>12</mn><mo>-</mo><mfrac><mn>288</mn><mn>15</mn></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>180</mn><mo>-</mo><mn>288</mn></mrow><mn>15</mn></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mo>-</mo><mn>108</mn></mrow><mn>15</mn></mfrac><mo>=</mo><mo>-</mo><mn>7</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>Now, current in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mn>7</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>Current in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mn>2</mn></mfrac><mo>=</mo><mfenced><mrow><mfrac><mn>72</mn><mn>15</mn></mfrac><mo>-</mo><mfrac><mn>108</mn><mn>15</mn></mfrac></mrow></mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mfrac><mn>36</mn><mn>15</mn></mfrac></mfenced><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>4</mn></mrow><mn>2</mn></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>Current in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mi>x</mi><mo>=</mo><mn>4</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p>Current in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>5</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p>",
+    "solution_image": null,
+    "topic": "Kirchoffs Laws"
+  },
+  {
+    "question_id": "64b16a7df23ac7d519f9b4e0",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>Shown in the figure is a semicircular metallic strip that has thickness <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi></math> and resistivity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math>. Its inner radius is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub></math> and outer radius is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub></math>. If a voltage <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>0</mn></msub></math> is applied between its two ends, a current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi></math> flows in it. In addition, it is observed that a transverse voltage <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></math> develops between its inner and outer surfaces due to purely kinetic effects of moving electrons (ignore any role of the magnetic field due to the current). Then (figure is schematic and not drawn to scale)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1ed65e18-7535-4d05-8587-e562b7c26394-D491.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6svOg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mrow><msub><mi>V</mi><mn>0</mn></msub><mi>t</mi></mrow><mrow><mi>&#960;</mi><mi>&#961;</mi></mrow></mfrac><mi>ln</mi><mfenced><mfrac><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>1</mn></msub></mfrac></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "VpYEp",
+        "text": "the outer surface is at a higher voltage than the inner surface",
+        "image": null
+      },
+      {
+        "id": "NTuRu",
+        "text": "the outer surface is at a lower voltage than the inner surface",
+        "image": null
+      },
+      {
+        "id": "37ywd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi>V</mi><mo>&#8733;</mo><msup><mi>I</mi><mn>2</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "37ywd",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/16401c73-4634-4b38-a094-0d8c0a11febf-D491.png\"/></p><p>Resistance of the strip <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>ρ</mi><mfrac><mrow><mi>π</mi><mi>r</mi></mrow><mi>tdr</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo></math>net resistance</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>R</mi></mfrac><mo>=</mo><mo>∫</mo><mfrac><mrow><mi>t</mi><mi>d</mi><mi>r</mi></mrow><mrow><mi>ρ</mi><mi>π</mi><mi>r</mi></mrow></mfrac><mfrac><mi>t</mi><mrow><mi>π</mi><mi>ρ</mi></mrow></mfrac><msubsup><mo>∫</mo><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub></msubsup><mfrac><mrow><mi>d</mi><mi>r</mi></mrow><mi>r</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mfrac><mrow><mi>π</mi><mi>ρ</mi></mrow><mrow><mi>t</mi><mi>ln</mi><mfenced><mfrac><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>1</mn></msub></mfrac></mfenced></mrow></mfrac></math></p><p>Hence, current i <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msub><mi>V</mi><mn>0</mn></msub><mi>R</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>V</mi><mn>0</mn></msub><mi>t</mi></mrow><mrow><mi>π</mi><mi>ρ</mi></mrow></mfrac><mi>ln</mi><mfenced><mfrac><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>1</mn></msub></mfrac></mfenced></math></p><p>for elementary dr,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>di</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>0</mn></msub><mrow><mi>ρ</mi><mfenced><mfrac><mrow><mi>π</mi><mi mathvariant=\"normal\">r</mi></mrow><mi>tdr</mi></mfrac></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mi mathvariant=\"normal\">V</mi><mn>0</mn></msub><mi>tdr</mi></mrow><mrow><mi>ρ</mi><mi>π</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">i</mi><mo>=</mo><mi>nAe</mi><mi>v</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>V</mi><mn>0</mn></msub><mi>t</mi><mi>d</mi><mi>r</mi></mrow><mrow><mi>ρ</mi><mi>π</mi><mi>r</mi></mrow></mfrac><mo>=</mo><mi>n</mi><mi>t</mi><mfenced><mrow><mi>d</mi><mi>r</mi></mrow></mfenced><mi>e</mi><mi>v</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>eE</mi><mo>=</mo><mi mathvariant=\"normal\">m</mi><mfrac><msup><mi mathvariant=\"normal\">v</mi><mn>2</mn></msup><mi mathvariant=\"normal\">r</mi></mfrac><mo>=</mo><mi mathvariant=\"normal\">m</mi><mfrac><msubsup><mi mathvariant=\"normal\">V</mi><mn>0</mn><mn>2</mn></msubsup><mrow><msup><mi mathvariant=\"normal\">n</mi><mn>2</mn></msup><msup><mi>ℓ</mi><mn>2</mn></msup><msup><mi>ρ</mi><mn>2</mn></msup><msup><mi>π</mi><mn>2</mn></msup><msup><mi mathvariant=\"normal\">r</mi><mn>2</mn></msup></mrow></mfrac><mo>×</mo><mfrac><mn>1</mn><mi mathvariant=\"normal\">r</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mfrac><msup><mi>v</mi><mn>2</mn></msup><mi>r</mi></mfrac><mo>=</mo><mi>m</mi><mfrac><msubsup><mi>V</mi><mn>0</mn><mn>2</mn></msubsup><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>ℓ</mi><mn>2</mn></msup><msup><mi>ρ</mi><mn>2</mn></msup><msup><mi>π</mi><mn>2</mn></msup><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac><mo>×</mo><mfrac><mn>1</mn><mi>r</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>∝</mo><mfrac><mn>1</mn><msup><mi>r</mi><mn>3</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mi>k</mi><mfrac><mn>1</mn><msup><mi>r</mi><mn>3</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>V</mi><mo>=</mo><mo>∫</mo><mi>E</mi><mi>d</mi><mi>r</mi><mo>=</mo><mi>k</mi><msubsup><mo>∫</mo><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub></msubsup><mfrac><mrow><mi>d</mi><mi>r</mi></mrow><msup><mi>r</mi><mn>2</mn></msup></mfrac><mo>∝</mo><msubsup><mi>V</mi><mn>0</mn><mn>2</mn></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mo>  </mo><mo>∝</mo><mo>  </mo><msup><mi>i</mi><mn>2</mn></msup></math></p>",
+    "solution_image": null,
+    "topic": "Resistance and Resistivity"
+  },
+  {
+    "question_id": "64b16a41f23ac7d519f9b2be",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>In an aluminum (Al) bar of square cross section, a square hole is drilled and is filled with iron (Fe) as shown in the figure. The electrical resistivities of Al and Fe are <math><mn>2.7</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>8</mn></mrow></msup><mi mathvariant=\"normal\">Ω</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi></math> and <math><mn>1.0</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup><mi mathvariant=\"normal\">Ω</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi></math> , respectively. The electrical resistance between the two faces P and Q of the composite bar is<br ><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image16-6eda3c21-83f7-479f-a805-7c2c140435fc.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "W611P",
+        "text": "<math><mfrac><mrow><mn>2475</mn></mrow><mrow><mn>64</mn></mrow></mfrac><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      },
+      {
+        "id": "3H9uR",
+        "text": "<math><mfrac><mrow><mn>1875</mn></mrow><mrow><mn>64</mn></mrow></mfrac><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      },
+      {
+        "id": "9yshx",
+        "text": "<math><mfrac><mrow><mn>1875</mn></mrow><mrow><mn>49</mn></mrow></mfrac><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      },
+      {
+        "id": "54pQ4",
+        "text": "<math><mfrac><mrow><mn>2475</mn></mrow><mrow><mn>132</mn></mrow></mfrac><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3H9uR",
+    "solution_text": "Aluminium<br > <math><mi mathvariant=\"normal\">A</mi><mo>=</mo><mfenced separators=\"|\"><mrow><msup><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>=</mo><mn>45</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br > <math><mi mathvariant=\"normal\">ρ</mi><mo>=</mo><mn>2.7</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>8</mn></mrow></msup><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi><mi mathvariant=\"normal\">m</mi></math> <br > <math><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>50</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>2.7</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>8</mn></mrow></msup><mo>×</mo><mn>50</mn></mrow><mrow><mn>45</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfrac><mi mathvariant=\"normal\">Ω</mi></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>30</mn><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\"> </mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>30</mn><mo>×</mo><mn>1250</mn></mrow><mrow><mn>1280</mn></mrow></mfrac></math> <br > <math><mo>=</mo><mfrac><mrow><mn>3</mn><mo>×</mo><mn>125</mn><mo>×</mo><mn>5</mn></mrow><mrow><mn>64</mn></mrow></mfrac></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">t</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>1875</mn></mrow><mrow><mn>64</mn></mrow></mfrac><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math> <br >Ferrous<br > <math><mi mathvariant=\"normal\">A</mi><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br > <math><mi mathvariant=\"normal\">ρ</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi><mi mathvariant=\"normal\">m</mi></math> <br > <math><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>50</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">m</mi></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>×</mo><mn>50</mn></mrow><mrow><mn>4</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfrac><mi mathvariant=\"normal\">Ω</mi></math> <br > <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>1250</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">μ</mi><mi mathvariant=\"normal\">Ω</mi></math>",
+    "solution_image": null,
+    "topic": "Resistance and Resistivity"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b046",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nElectrical resistance of certain materials, known as superconductors, changes abruptly from a non-zero value to zero as their temperature is lowered below a critical temperature $T_C(0)$. An interesting property of superconductors is that their critical temperature becomes smaller than $T_C(0)$ if they are placed in a magnetic field i.e., the critical temperature $T_C(B)$ is a function of the magnetic field strength $B$. The dependence of $T_C(B)$ on $B$ is shown in the figure.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_FYhQfph9ZU_3U1GDvqFWoqKuV9LURP8FOgdidn3QG8.original.fullsize.png\"><br><strong>Question:</strong>\nA superconductor has $T_C(0)=100 \\mathrm{~K}$. When a magnetic field of $7.5$ Tesla is applied, its $T_C$ decreases to $75 \\mathrm{~K}$. For this material one can definitely say that when (Note : $\\mathrm{T}$ = Tesla)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PrjXn",
+        "text": "\n$B=5 \\mathrm{~T}, T_C(B)=80 \\mathrm{~K}$\n",
+        "image": null
+      },
+      {
+        "id": "k34xu",
+        "text": "\n$B=5 \\mathrm{~T}, 75 \\mathrm{~K} < T_C(B) < 100 \\mathrm{~K}$",
+        "image": null
+      },
+      {
+        "id": "S4cSU",
+        "text": "\n$B=10 \\mathrm{~T}, 75 \\mathrm{~K} < T_C(B) < 100 \\mathrm{~K}$",
+        "image": null
+      },
+      {
+        "id": "3LnzI",
+        "text": "\n$B=10 \\mathrm{~T}, T_C(B)=70 \\mathrm{~K}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "k34xu",
+    "solution_text": "With increase in temperature, $T_C$ is decreasing.\n$$\n\\begin{aligned}\nT_C(0) & =100 \\mathrm{~K} \\\\\nT_C & =75 \\mathrm{~K} \\text { at } B=7.5 \\mathrm{~T}\n\\end{aligned}\n$$\nHence, at $B=5 \\mathrm{~T}, \\quad T_C$ should lie between $75 \\mathrm{~K}$ and $100 \\mathrm{~K}$. Hence, the correct option should be (b).",
+    "solution_image": null,
+    "topic": "Resistance and Resistivity"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b045",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nElectrical resistance of certain materials, known as superconductors, changes abruptly from a non-zero value to zero as their temperature is lowered below a critical temperature $T_C(0)$. An interesting property of superconductors is that their critical temperature becomes smaller than $T_C(0)$ if they are placed in a magnetic field i.e., the critical temperature $T_C(B)$ is a function of the magnetic field strength $B$. The dependence of $T_C(B)$ on $B$ is shown in the figure.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_FYhQfph9ZU_3U1GDvqFWoqKuV9LURP8FOgdidn3QG8.original.fullsize.png\"><br><strong>Question:</strong>\nIn the graphs below, the resistance $R$ of a superconductor is shown as a function of its temperature $T$ for two different magnetic fields $B_1$ (solid line) and $B_2$ (dashed line). If $B_2$ is larger than $B_1$, which of the following graphs shows the correct variation of $R$ with $T$ in these fields?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pgqZ6",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1qP5Xdu-jyN7Q9p7JcB3vR7W0mEGiBfwUL3daciHh5g.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "j8Rwt",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Eq6JNIWXnBI01sTDgigb7jHuZknso7zoWR6BAor3NXI.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "vYqRF",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_HDsS9GEl6BAgpFSfYdkHMdlHb5znmSRWfOnzHfAyn8.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "Obpwb",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iN-Jh5WFNNzafMGkO_5UaQ4zG1cmNJKWBoC5b0k21Jw.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "pgqZ6",
+    "solution_text": "If $B_2>B_1$, critical temperature, (at which resistance of semiconductors abruptly becomes zero) in case-2 will be less than compared to case- 1 .\n$\\therefore$ The correct option is (a).",
+    "solution_image": null,
+    "topic": "Resistance and Resistivity"
+  },
+  {
+    "question_id": "64b169fbf23ac7d519f9b03b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Consider a thin square sheet of side $L$ and thickness $t$, made of a material of resistivity $\\rho$. The resistance between two opposite faces, shown by the shaded areas in the figure is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jQWT8TUcKYNLj76kfHeUfDLbThIKMquc23PlGL0NDCw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GlS1v",
+        "text": "\ndirectly proportional to $L$\n",
+        "image": null
+      },
+      {
+        "id": "ZK54r",
+        "text": "\ndirectly proportional to $t$\n",
+        "image": null
+      },
+      {
+        "id": "rYcLj",
+        "text": "\nindependent of $L$\n",
+        "image": null
+      },
+      {
+        "id": "TDJiD",
+        "text": "\nindependent of $t$",
+        "image": null
+      }
+    ],
+    "correct_answer": "rYcLj",
+    "solution_text": "$R=\\frac{\\rho(L)}{A}=\\frac{\\rho L}{t L}=\\frac{\\rho}{t}$ ie, $R$ is independent of $L$. Hence the correct option is (c).",
+    "solution_image": null,
+    "topic": "Resistance and Resistivity"
+  },
+  {
+    "question_id": "64b16a9af23ac7d519f9b5ec",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>Two resistances <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mi>X</mi><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">&#937;</mi></math>&nbsp;are connected to a wire <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi></math> of uniform resistivity, as shown in the figure. The radius of the wire varies linearly along its axis from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#160;</mo><mi>mm</mi></math>&nbsp;at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>mm</mi></math>&nbsp;at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>. A galvanometer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>G</mi></mfenced></math>&nbsp;connected to the center of the wire, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#160;</mo><mi>cm</mi></math>&nbsp;from each end along its axis, shows zero deflection when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math> are connected to a battery. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi></math> is _______.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a438e06c-cf51-442f-97f4-1f973aa9a65f-image.png\" style=\"width: 395px; height: 220px;\" /></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<blockquote><p>Resistance of frustum shaped conductor shown is</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ac671557-50e4-49c7-9697-8ae8199b0d4d-image.png\" style=\"width: 199px; height: 150px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>&#961;</mi><mfrac><mi>I</mi><mrow><mi>&#960;</mi><mi>a</mi><mi>b</mi></mrow></mfrac></math></p><p>For the shown conductor in the diagram.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/529f4d37-5dc5-492c-a1b3-c7524f971417-image.png\" style=\"width: 277px; height: 150px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#160;</mo><mi>mm</mi></math></p><p>Thus, the resistance of left half is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mfrac><mrow><mi>&#961;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></mrow><mrow><mi>&#960;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>6</mn></mrow></mfrac></math></p><p>And the resistance of right half is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mfrac><mrow><mi>&#961;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></mrow><mrow><mi>&#960;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><mn>1</mn></mrow></mfrac></math></p><p>For Wheatstone to be balanced</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>R</mi><mn>1</mn></msub><mi>P</mi></mfrac><mo>=</mo><mfrac><msub><mi>R</mi><mn>2</mn></msub><mi>Q</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>X</mi><mi>&#960;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>6</mn></mrow><mrow><mi>&#961;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mi>&#960;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><mn>1</mn></mrow><mrow><mi>&#961;</mi><mo>&#215;</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#215;</mo><msup><mn>10</mn><mn>6</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>X</mi><mo>=</mo><mn>5</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Wheatstone Bridge"
+  },
+  {
+    "question_id": "64b16a83f23ac7d519f9b519",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>In the balanced condition, the values of the resistances of the four arms of a Wheatstone bridge are shown in the figure below. The resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub></math> has temperature coefficient <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>0004</mn><mo>°</mo><msup><mi mathvariant=\"normal\">C</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. If the temperature of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub></math> is increased by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>°</mo><mi mathvariant=\"normal\">C</mi><mo>,</mo></math> the voltage developed between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math> will be __________ volt.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/29bfb1e4-405b-48e9-bac4-b29265c22853-image.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.27",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>300</mn><mo>(</mo><mn>1</mn><mo>+</mo><mi>α</mi><mi>Δ</mi><mi>T</mi><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>300</mn><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>4</mn><mn>10000</mn></mfrac><mo>×</mo><mn>100</mn></mrow></mfenced><mo>=</mo><mn>312</mn></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a81f600d-3fcf-472a-8951-b7868cd6ae2e-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn mathvariant=\"italic\">1</mn></msub><mo>=</mo><mn>41</mn><mo>.</mo><mn>9354</mn><mo>=</mo><mn>41</mn><mo>.</mo><mn>94</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn mathvariant=\"italic\">2</mn></msub><mo>=</mo><mn>41</mn><mo>.</mo><mn>666</mn><mo>=</mo><mn>41</mn><mo>.</mo><mn>67</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub><mo>-</mo><msub><mi>V</mi><mn>2</mn></msub><mo>=</mo><mn>41</mn><mo>.</mo><mn>94</mn><mo>-</mo><mn>41</mn><mo>.</mo><mn>67</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>27</mn></math></p><p> </p>",
+    "solution_image": null,
+    "topic": "Wheatstone Bridge"
+  },
+  {
+    "question_id": "64b16a46f23ac7d519f9b2eb",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<p>In the following circuit, the current through the resistor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>(</mo><mo>=</mo><mn>2</mn><mo> </mo><mi mathvariant=\"normal\">Ω</mi><mo>)</mo></math> is <math><mi mathvariant=\"normal\">I</mi></math> Amperes. The value of <math><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\"> </mi></math> is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image2-b57f4680-8e25-4136-8b2c-57db4952460d.jpg\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image3-3897c34e-7744-45e9-88cc-542d03067bb6.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image3-3897c34e-7744-45e9-88cc-542d03067bb6.jpg\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image4-737329b1-9e5e-400a-95fd-2fd0b946c246.jpg\"/><br >Current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mi mathvariant=\"normal\">I</mi><mo>=</mo><mfrac><mrow><mn>6.5</mn><mo> </mo><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>6.5</mn><mo> </mo><mi mathvariant=\"normal\">Ω</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi></math>.",
+    "solution_image": null,
+    "topic": "Wheatstone Bridge"
+  },
+  {
+    "question_id": "64b16a0af23ac7d519f9b0cb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A meter bridge is set up as shown in figure, to determine an unknown resistance $X$ using a standard $10 \\Omega$ resistor. The galvanometer shows null point when tapping key is at $52 \\mathrm{~cm}$ mark. The end-corrections are $1 \\mathrm{~cm}$ and $2 \\mathrm{~cm}$ respectively for the ends $A$ and $B$. The determined value of $X$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-5wAQXPr0ogSu-GX8RP1V0KuFgaPpJl2ZFwXoZMVR7U.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bae3q",
+        "text": "\n$10.2 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "bue7J",
+        "text": "\n$10.6 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "V4UON",
+        "text": "\n$10.8 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "QMBYb",
+        "text": "\n$11.1 \\Omega$",
+        "image": null
+      }
+    ],
+    "correct_answer": "bue7J",
+    "solution_text": "Using the concept of balanced Wheatstone bridge, we have\n$$\n\\begin{array}{rlrl} \n& \\frac{P}{Q} & =\\frac{R}{S} \\\\\n\\therefore & & \\frac{X}{(52+1)} & =\\frac{10}{(48+2)} \\\\\n\\therefore & & X & =\\frac{10 \\times 53}{50}=10.6 \\Omega\n\\end{array}\n$$\n$\\therefore$ Correct option is (b).\nAnalysis of Question\nQuestion is moderately tough, because normally end corrections are not taught in the coaching/schools in this type of problem.",
+    "solution_image": null,
+    "topic": "Wheatstone Bridge"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af49",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement $1 \\mathrm{In}$ a Meter Bridge experiment, null point for an unknown resistance is measured. Now, the unknown resistance is put inside an enclosure maintained at a higher temperature. The null point can be obtained at the same point as before by decreasing the value of the standard resistance.\nand Statement 2 Resistance of a metal increase with increase in temperature.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZDO8r",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "acqx6",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "iBrys",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "sy13g",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "sy13g",
+    "solution_text": "With increase in temperature, the value of unknown resistance will increase.\nIn balanced Wheatstone bridge condition, $\\frac{R}{X}=\\frac{l_1}{l_2}$\nHere, $R=$ value of standard resistance,\n$X=$ value of unknown resistance .\nTo take null point at same point or $\\frac{l_1}{l_2}$ to remain unchanged, $\\frac{R}{X}$ should also remain unchanged. Therefore, if $X$ is increasing $R$ should also increase.\n$\\therefore$ correct option is (d).",
+    "solution_image": null,
+    "topic": "Wheatstone Bridge"
+  },
+  {
+    "question_id": "64b169d1f23ac7d519f9aebb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "A resistance of $2 \\Omega$ is connected across one gap of a meter-bridge (the length of the wire is $100 \\mathrm{~cm}$ ) and an unknown resistance, greater than $2 \\Omega$, is connected across the other gap. When these resistances are interchanged, the balance point shifts by $20 \\mathrm{~cm}$. Neglecting any corrections, the unknown resistance is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PmJSZ",
+        "text": "\n$3 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "XEl3H",
+        "text": "\n$4 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "Q8PGm",
+        "text": "\n$5 \\Omega$\n",
+        "image": null
+      },
+      {
+        "id": "zs5HT",
+        "text": "\n$6 \\Omega$",
+        "image": null
+      }
+    ],
+    "correct_answer": "PmJSZ",
+    "solution_text": "$$\n\\begin{aligned}\n& R & >2 \\Omega \\\\\n\\therefore & 100-x & >x \\\\\n\\text { Applying } & \\frac{P}{Q} & =\\frac{R}{S}\n\\end{aligned}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bj5wXDgKnTfN4Vg1PIwLyg-p-M4Vw5b76zBexKtpjvI.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/k0HDe0hHZT2EmygS2hd4fIRONvnb06ZJCeC2L7TIA9I.original.fullsize.png\"><br>\nWe have\n$$\n\\begin{aligned}\n& \\frac{2}{R}=\\frac{x}{100-x} \\\\\n& \\frac{R}{2}=\\frac{x+20}{80-x}\n\\end{aligned}\n$$\nSolving Eqs. (i) and (ii), we get\n$$\nR=3 \\Omega\n$$\n$\\therefore$ Answer is (a).",
+    "solution_image": null,
+    "topic": "Wheatstone Bridge"
+  }
+]

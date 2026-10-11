@@ -1,2 +1,19 @@
-# pyq
-....
+# PYQ Studio
+
+A static JEE previous-year-question practice workspace. Serve the repository root with any static web server (for example, `python3 -m http.server 4173`) and open the served page. The question bank is available as ordinary JSON files under `data/`, extracted from the checked-in `data.zip`, so standard static hosting can load each file directly. The ZIP fallback remains available for hosts that omit the extracted `/data` directory.
+
+## Practice experience
+
+- Practice and custom tests use randomized, topic/difficulty-balanced selection. Chapter sessions prefer newer exam years while remaining random within a year; questions you have not seen are preferred, and the least-recently-seen questions return when a pool is exhausted.
+- Timed tests use an immersive exam layout and request browser fullscreen when permitted. An in-app exam view remains available if fullscreen is blocked. Unfinished tests autosave answers, review marks, the current question, and an absolute deadline so the remaining time is preserved across reloads. Resume or discard a saved test from Overview or Test Studio.
+- Incorrect and skipped questions enter a spaced-review queue. Misses come back the next day; successful reviews expand through 1, 3, 7, 14, 30, 60, and 90-day intervals. Due questions can be launched as a focused review session.
+- Adaptive daily and weak-topic practice prioritizes due reviews, then blends lower-accuracy topics with general questions and adjusts difficulty preference to recent performance.
+- Progress analytics show per-topic accuracy and a short-term trend (latest five scored answers versus the previous five). Each completed custom test has a dedicated report page (open it from Test Studio or Progress history) with score, easy/medium/hard accuracy, topic breakdown, first-half versus second-half accuracy, per-question answer status, and time spent on each question (recorded for new tests). Topics with at least three recent scored answers and accuracy below 65% also get a focused-practice recommendation.
+- Save reusable test-builder setups for chapter selection, question count, time, year, and difficulty.
+- Flag a possible answer-key, solution, diagram, duplicate, or other question issue from the question view. Reports are stored locally and included in workspace backups; they are not uploaded automatically.
+- Keyboard controls: left/right arrows move between questions, 1–4 select an answer, M toggles a test review mark, C clears the current test answer, and Enter advances (or opens the final-submit prompt). Shortcuts pause while a modal or text field is active.
+- A persistent light/dark theme toggle remembers the student’s choice and restyles the full workspace, dialogs, analytics cards, and timed-test controls.
+- Chapter selection opens a dedicated workspace instead of a dialog. Practice sessions use a focused viewport with global navigation hidden; on small screens, primary destinations use a thumb-friendly bottom bar, dialogs become bottom sheets, controls respect device safe areas, and test/practice question navigation stays in a compact bottom dock.
+- Question, solution, and answer-option diagrams load lazily with asynchronous decoding, scale to the available desktop/mobile viewport, and show an accessible fallback when a source image cannot load.
+
+Progress and settings remain in this browser's local storage. Export a workspace backup before moving to another device. Run the focused logic tests with `node --test tests/experience.test.mjs`.

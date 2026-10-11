@@ -1,0 +1,632 @@
+[
+  {
+    "question_id": "6a0be51044d287c9361e5ca0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Two cylinders, both fitted with frictionless pistons, are filled with mixtures of He and Ar gases. In the first cylinder, the masses of He and Ar are $m_1$ and $m_2$, respectively. In the second cylinder, the masses of He and Ar are $m_2$ and $m_1$, respectively. The molar mass of Ar is $10$ times the molar mass of He. The external pressure applied by the piston on the first cylinder needs to be $5$ times that on the second cylinder so that the volume of the gas mixtures in both the cylinders are equal at the same temperature. Assuming He and Ar behave like ideal gases, the value of $(m_1/m_2)$ is ____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9.8",
+    "solution_text": "Let the molar mass of He be $M$. Then the molar mass of Ar is $10M$.<br><br>In the first cylinder, the total number of moles is given by:<br><br>$n_1 = \\dfrac{m_1}{M} + \\dfrac{m_2}{10M} = \\dfrac{10m_1 + m_2}{10M}$<br><br>In the second cylinder, the total number of moles is given by:<br><br>$n_2 = \\dfrac{m_2}{M} + \\dfrac{m_1}{10M} = \\dfrac{10m_2 + m_1}{10M}$<br><br>Using the ideal gas equation $PV = nRT$, since the volume and temperature are the same for both cylinders, the pressure is directly proportional to the number of moles. Thus, $\\dfrac{P_1}{P_2} = \\dfrac{n_1}{n_2}$.<br><br>Given that $P_1 = 5P_2$, we have:<br><br>$\\dfrac{n_1}{n_2} = 5$<br><br>Substituting the expressions for $n_1$ and $n_2$:<br><br>$\\dfrac{10m_1 + m_2}{10m_2 + m_1} = 5$<br><br>$10m_1 + m_2 = 50m_2 + 5m_1$<br><br>$5m_1 = 49m_2$<br><br>$\\dfrac{m_1}{m_2} = \\dfrac{49}{5} = 9.8$<br><br>Answer: $9.8$",
+    "solution_image": null,
+    "topic": "Gas laws and Ideal Gas Equation"
+  },
+  {
+    "question_id": "64b16a5af23ac7d519f9b3a7",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "An ideal gas is expanded from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi mathvariant=\"normal\">p</mi><mn>1</mn></msub><mi mathvariant=\"normal\">&#160;</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mi mathvariant=\"normal\">V</mi><mn>1</mn></msub><mi mathvariant=\"normal\">&#160;</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mi>to</mi><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><msub><mi mathvariant=\"normal\">p</mi><mn>2</mn></msub><mi mathvariant=\"normal\">&#160;</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub><mi mathvariant=\"normal\">&#160;</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub><mo>)</mo></math> under different conditions. The correct statement(s) among the following is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rmhwX",
+        "text": "The work done on the gas is maximum when it is compressed irreversibly from ( <math><msub><mrow><mi>p</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>&nbsp;</mi><mo>,</mo><mi>&nbsp;</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>)</mo></math> to <math><mo>(</mo><msub><mrow><mi>p</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&nbsp;</mi><mi>&nbsp;</mi><mo>,</mo><mi>&nbsp;</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>)</mo></math> against constant pressure <math><msub><mrow><mi>p</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "yBdKr",
+        "text": "If the expansion is carried out freely, it is simultaneously both isothermal as well as adiabatic",
+        "image": null
+      },
+      {
+        "id": "3yDlq",
+        "text": "The work done on the gas is less when it is expanded reversibly from <math><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&nbsp;</mi><mi>t</mi><mi>o</mi><mi>&nbsp;</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></math> under adiabatic conditions as compared to that when expanded reversibly from <math><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>&nbsp;</mi><mi>t</mi><mi>o</mi><mi>&nbsp;</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></math> under isothermal conditions.",
+        "image": null
+      },
+      {
+        "id": "1sB5O",
+        "text": "The change in internal energy of the gas (i) zero, if it is expanded reversibly with  <math><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi> </mi><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  , and (ii) positive, if it is expanded reversibly under adiabatic conditions with  <math><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><mo>≠</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3yDlq",
+    "solution_text": "<p>(I)</p><p> <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4_solu_chem_pa1.jpg\"/></p><p>(II) </p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4_solu_chem_pa1_2.jpg\"/></p><p>(III)  (i) <math><mi mathvariant=\"normal\">Δ</mi><mi>U</mi><mo>=</mo><mi>n</mi><msub><mrow><mi>C</mi></mrow><mrow><mi>v</mi></mrow></msub><mi> </mi><mi mathvariant=\"normal\">Δ</mi><mi>T</mi><mo>=</mo><mn>0</mn></math> (isothermal hence <math><mi mathvariant=\"normal\">Δ</mi><mi>T</mi><mo>=</mo><mn>0</mn></math>)</p><p>(ii)   <math><mi mathvariant=\"normal\">Δ</mi><mi>U</mi><mo>=</mo><mi>q</mi><mo>+</mo><mi>w</mi><mo>=</mo><mi> </mi><mo>-</mo><mi>v</mi><mi>e</mi><mi> </mi><mfenced separators=\"|\"><mrow><mi>q</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi> </mi><mi>w</mi><mo><</mo><mn>0</mn></mrow></mfenced></math></p><p>(IV)   <math><mi>q</mi><mo>=</mo><mn>0</mn></math> (adiabatic), <math><mi>w</mi><mo>=</mo><mn>0</mn></math> (free expansion)</p><p><math><mi mathvariant=\"normal\">Δ</mi><mi>U</mi><mo>=</mo><mn>0</mn><mi> </mi><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi mathvariant=\"normal\">Δ</mi><mi>T</mi><mo>=</mo><mn>0</mn></math> (isothermal)</p>",
+    "solution_image": null,
+    "topic": "Gas laws and Ideal Gas Equation"
+  },
+  {
+    "question_id": "64b16a36f23ac7d519f9b25a",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "If the value of Avogadro number is <math><mn>6.023</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>23</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">o</mi><msup><mrow><mi mathvariant=\"normal\">l</mi></mrow><mrow><mo>&#8211;</mo><mn>1</mn></mrow></msup></math> and the value of Boltzmann constant is <math><mn>1.380</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>23</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><msup><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> , then the number of significant digits in the calculated value of the universal gas constant is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>K</mtext><mo>=</mo><mfrac><mtext>R</mtext><msub><mtext>N</mtext><mtext>A</mtext></msub></mfrac></math></p><p><math> <mrow> <mo>&#8756;</mo> <mo>R</mo> <mo>=</mo> <msub> <mtext>k.N</mtext> <mtext>A</mtext> </msub> </mrow> </math></p><p><math> <mrow> <mo>=</mo> <mtext>6.023</mtext> <mo>&#215;</mo> <msup> <mtext>10</mtext> <mtext>23</mtext> </msup> <mo>&#215;</mo> <mtext>1.380</mtext> <mo>&#215;</mo> <msup> <mtext>10</mtext> <mrow> <mo>-</mo> <mn>2</mn> <mn>3</mn> </mrow> </msup> <msup> <mo>J. mol</mo> <mn>-1</mn> </msup> <msup> <mtext>k</mtext> <mn>-1</mn> </msup> </mrow> </math></p><p>There are 4 significant figures in each term.</p><p>Hence, these be 4 significant figure in R.</p>",
+    "solution_image": null,
+    "topic": "Gas laws and Ideal Gas Equation"
+  },
+  {
+    "question_id": "64b16a0ff23ac7d519f9b0f2",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "To an evacuated vessel with movable piston under external pressure of $1 \\mathrm{~atm}$, $0.1$ mole of He and $1.0$ mole of an unknown compound (vapour pressure $0.68 mathrm{~atm}$ at $0^{\\circ} \\mathrm{C}$ ) are introduced. Considering the ideal gas behaviour, the total volume (in litre) of the gases at $0^{\\circ} \\mathrm{C}$ is close to",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "Since, the external pressure is $1.0 \\mathrm{~atm}$, the gas pressure is also $1.0 \\mathrm{~atm}$ as piston is movable. Out of this $1.0 \\mathrm{~atm}$ partial pressure due to unknown compound is $0.68 \\mathrm{~atm}$. Therefore, partial pressure of $\\mathrm{He}=1.00-0.68=0.32 \\mathrm{~atm}$.\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad \\text { Volume }=\\frac{n(\\mathrm{He}) \\mathrm{RT}}{r(\\mathrm{He})}=\\frac{0.1 \\times 0.082 \\times 273}{0.32}=7 \\mathrm{~L} \\\\\n& \\Rightarrow \\text { Volume of container }=\\text { Volume of } \\mathrm{He} .\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Gas laws and Ideal Gas Equation"
+  },
+  {
+    "question_id": "6696579e623b9ed1d4637476",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "A closed vessel contains $10 \\mathrm{~g}$ of an ideal gas $\\mathbf{X}$ at $300 \\mathrm{~K}$, which exerts 2 atm pressure. At the same temperature, $80 \\mathrm{~g}$ of another ideal gas $\\mathbf{Y}$ is added to it and the pressure becomes $6 \\mathrm{~atm}$. The ratio of root mean square velocities of $\\mathbf{X}$ and $\\mathbf{Y}$ at $300 \\mathrm{~K}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "l7xcJ",
+        "text": "$2 \\sqrt{2}: \\sqrt{3}$",
+        "image": null
+      },
+      {
+        "id": "7Kngt",
+        "text": "$2 \\sqrt{2}: 1$",
+        "image": null
+      },
+      {
+        "id": "eTEMo",
+        "text": "$1: 2$",
+        "image": null
+      },
+      {
+        "id": "jO4fd",
+        "text": "$2: 1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "jO4fd",
+    "solution_text": "For Ideal Gas\n$\\mathrm{PV}=\\mathrm{nRT}$\n$\\therefore \\mathrm{n} \\propto \\mathrm{P}$ at constant $\\mathrm{T} \\& \\mathrm{~V}$.\n$\\because \\quad$ mole $=\\frac{\\text { Mass }}{\\text { Molar mass }}$\nFor gas $\\mathrm{X}: \\frac{10}{\\mathrm{M}_{\\mathrm{X}}} \\propto 2 \\mathrm{~atm}$ $\\quad$ $\\ldots$(1)\nFor gas $\\mathrm{X} \\& \\mathrm{Y}: \\frac{10}{\\mathrm{M}_{\\mathrm{X}}}+\\frac{80}{\\mathrm{M}_{\\mathrm{Y}}} \\propto 6 \\mathrm{~atm}$ $\\ldots$(2)\nFrom $(2)-(1)$\n$\\frac{80}{\\mathrm{M}_{\\mathrm{y}}} \\propto 4$ $\\ldots$(3)\nOn dividing (1) by (3)\n$\\frac{\\mathrm{M}_{\\mathrm{Y}}}{8 \\mathrm{M}_{\\mathrm{X}}}=\\frac{1}{2}$ \n$\\therefore \\quad \\frac{\\mathrm{M}_{\\mathrm{Y}}}{\\mathrm{M}_{\\mathrm{X}}}=4$ $\\ldots$(4)\n$\\because \\mathrm{V}_{\\mathrm{rms}}=\\sqrt{\\frac{3 \\mathrm{RT}}{\\mathrm{M}}} \\Rightarrow \\mathrm{v}_{\\mathrm{rms}} \\propto \\frac{1}{\\sqrt{\\mathrm{M}}}$\n$\\therefore \\quad \\frac{\\left(\\mathrm{V}_{\\mathrm{ms}}\\right)_{\\mathrm{X}}}{\\left(\\mathrm{V}_{\\mathrm{ms}}\\right)_{\\mathrm{Y}}}=\\sqrt{\\frac{\\mathrm{M}_{\\mathrm{Y}}}{\\mathrm{M}_{\\mathrm{x}}}}=\\sqrt{\\frac{4}{1}}=\\frac{2}{1}$",
+    "solution_image": null,
+    "topic": "Kinetic theory of gases"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4e8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>If the distribution of molecular speeds of a gas is as per the figure shown below, then the ratio of the most probable, the average, and the root mean square speeds, respectively, is</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/12d5af7c-5920-4946-ac0a-7dfc5d4d2e83-image.png\"/> </p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "b3Da8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "Gdx41",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn><mo>.</mo><mn>224</mn></math>",
+        "image": null
+      },
+      {
+        "id": "GRfGI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn><mo>.</mo><mn>128</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn><mo>.</mo><mn>224</mn></math>",
+        "image": null
+      },
+      {
+        "id": "zi7ZN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn><mo>.</mo><mn>128</mn><mo>&#160;</mo><mo>:</mo><mo>&#160;</mo><mn>1</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Gdx41",
+    "solution_text": "<p>Due to symmetrical graph given, the average value of velocities will be at the middle, symmetrical velocity<br />which is also most probable velocity.</p><p>While calculating rms speed, we have to take average of square of speeds and its root. In square of<br />speeds, higher speeds will give more contribution so the value will be more than the average value.</p>",
+    "solution_image": null,
+    "topic": "Kinetic theory of gases"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b481",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Which of the following statement(s) (are) correct regarding the root mean square speed <math><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">U</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">s</mi></mrow></msub></mrow></mfenced></math> and average translational kinetic energy <math><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">&#949;</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">v</mi></mrow></msub></mrow></mfenced></math> of a molecule in a gas at equilibrium?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9WcVI",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">U</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">s</mi></mrow></msub></math>  is doubled when its temperature is increased four times",
+        "image": null
+      },
+      {
+        "id": "6PWKQ",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">ε</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">v</mi></mrow></msub></math>  at a given temperature does not depend on its molecular mass",
+        "image": null
+      },
+      {
+        "id": "kHk5Z",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">U</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">s</mi></mrow></msub></math>  is inversely proportional to the square root of its molecular mass",
+        "image": null
+      },
+      {
+        "id": "67vE6",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">ε</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">v</mi></mrow></msub></math>  is doubled when its temperature is increased four times",
+        "image": null
+      }
+    ],
+    "correct_answer": "kHk5Z",
+    "solution_text": "<math><msub><mrow><mtext>U</mtext></mrow><mrow><mtext>rms</mtext></mrow></msub><mo>=</mo><msqrt><mfrac><mrow><mtext>3RT</mtext></mrow><mrow><mtext>M</mtext></mrow></mfrac></msqrt><mo>,</mo></math>   <math><msub><mrow><mtext>E</mtext></mrow><mrow><mtext>av</mtext></mrow></msub><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mtext>RT</mtext></math> <br >If temperature is made 4 times,  <math><msub><mrow><mtext>U</mtext></mrow><mrow><mtext>rms</mtext></mrow></msub></math>  between twice.<br >Avg. kinetic energy  <math><mo>(</mo><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>av</mtext></mrow></msub><mo>)</mo></math>  is independent of molecular man at a given temperature,<br > <math><msub><mrow><mtext>U</mtext></mrow><mrow><mtext>rms</mtext></mrow></msub></math>  inversely proportional to the square not of molecular mass.",
+    "solution_image": null,
+    "topic": "Kinetic theory of gases"
+  },
+  {
+    "question_id": "64b16a50f23ac7d519f9b347",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The diffusion coefficient of an ideal gas is proportional to its mean free path and mean speed. The absolute temperature of an ideal gas is increased <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> times and its pressure&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> times. As a result, the diffusion coefficient of this gas increases <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math> times. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math> is:",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Rate of diffusion <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mi mathvariant=\"normal\">&#955;</mi><mo>&#215;</mo><msub><mi mathvariant=\"normal\">U</mi><mi>Avg</mi></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mfrac><mn>1</mn><mrow><msqrt><mn>2</mn></msqrt><msup><mi>&#960;&#963;</mi><mn>2</mn></msup><msup><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">*</mi></msup></mrow></mfrac><mo>&#215;</mo><msub><mi mathvariant=\"normal\">U</mi><mi>Avg</mi></msub></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mfrac><mn>1</mn><mrow><msqrt><mn>2</mn></msqrt><msup><mi>&#960;&#963;</mi><mn>2</mn></msup><msup><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">*</mi></msup></mrow></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mi mathvariant=\"normal\">&#160;</mi><mfrac><mrow><msub><mi mathvariant=\"normal\">U</mi><mi>Avg</mi></msub><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mi>kT</mi></mfenced></mrow><mrow><msqrt><mn>2</mn></msqrt><msup><mi>&#960;&#963;</mi><mn>2</mn></msup><mi mathvariant=\"normal\">P</mi></mrow></mfrac></math><br />Rate of diffusion <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8733;</mo><mfrac><msup><mi mathvariant=\"normal\">T</mi><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><mi mathvariant=\"normal\">P</mi></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">r</mi><mi>final</mi></msub><msub><mi mathvariant=\"normal\">r</mi><mi>initial</mi></msub></mfrac><mo>=</mo><mfrac><msup><mfenced separators=\"|\"><mn>4</mn></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><mn>2</mn></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">r</mi><mi>final</mi></msub><msub><mi mathvariant=\"normal\">r</mi><mi>initial</mi></msub></mfrac><mo>=</mo><mn>4</mn></math>",
+    "solution_image": null,
+    "topic": "Kinetic theory of gases"
+  },
+  {
+    "question_id": "64b16a0df23ac7d519f9b0e4",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "According to kinetic theory of gases",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oHUl8",
+        "text": "\ncollisions are always elastic\n",
+        "image": null
+      },
+      {
+        "id": "8HgMx",
+        "text": "\nheavier molecules transfer more momentum to the wall of the container\n",
+        "image": null
+      },
+      {
+        "id": "0NTVT",
+        "text": "\nonly a small number of molecules have very high velocity\n",
+        "image": null
+      },
+      {
+        "id": "aSAJr",
+        "text": "\nbetween collisions, the molecules move in straight lines with constant velocities",
+        "image": null
+      }
+    ],
+    "correct_answer": "aSAJr",
+    "solution_text": "(a) According to a postulate of kinetic theory of gases, collision between the molecules as well as with the wall of container is perfectly elastic in nature.\n(b) If a gas molecule of man ' $m$ ' moving with speed ' $u$ ' collide to the wall of container, the change in momentum is $\\Delta p=-2 \\mathrm{mu}$. Therefore, heavier molecule will transfer more momentum to the wall as there will be greater change in momentum of the colliding gas malecule. However this was not postulated in kinetic theory of Gases.\n(c) According to Maxwell-Boltzmann distribution of molecular speed, very few molecules have either very high or very low speeds. Most of the molecules moves in a specific, intermediate speed range.\n(d) According to kinetic theory of gases, a gas molecule moves in straight line unless it collide with another molecular or to the wall of container and change in momentum is observed only after collision.",
+    "solution_image": null,
+    "topic": "Kinetic theory of gases"
+  },
+  {
+    "question_id": "64b169f8f23ac7d519f9b024",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "At $400 \\mathrm{~K}$, the root mean square (rms) speed of a gas $X$ (molecular weight $=40$ ) is equal to the most probable speed of gas $Y$ at $60 \\mathrm{~K}$. The molecular weight of the gas $Y$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yBU8f4tzlpEao7J6rrvJegC_Ym8Wh9PTv4aBpNDK5qM.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Kinetic theory of gases"
+  },
+  {
+    "question_id": "64b16a67f23ac7d519f9b41a",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<p>A closed tank has two compartments A and B<b>,</b> both filled with oxygen (assumed to be ideal gas). The partition separating the two compartments is fixed and is a perfect heat insulator (Figure<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>). If the old partition is replaced by a new partition which can slide and conduct heat but does not allow the gas to leak across (Figure <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>), the volume (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">m</mi><mn>3</mn></msup></math>) of the compartment A after the system attains equilibrium is _________.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d8c2dc36-7ac9-41e1-8862-60ff05f43d23-image.png\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/727e8dca-6013-4d4c-90e1-28b56146ccbb-image.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.22",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fe04aabf-fbe2-4958-a5c5-6fe0172776b1-image.png\"/>\r\n\r\nWhen equilibrium is established, the final <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> would be the same. Hence, volume ration would be equal to mole ratio.\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">v</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">v</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">n</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">n</mi><mn>2</mn></msub></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mfrac><msub><mi mathvariant=\"normal\">v</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">v</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mfrac><mn>5</mn><mrow><mn>400</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mfrac><mn>3</mn><mrow><mn>300</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>4</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mo> </mo><mfrac><msub><mi mathvariant=\"normal\">v</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">T</mi></msub></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mo> </mo><msub><mi mathvariant=\"normal\">v</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mo>×</mo><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">T</mi></msub><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mo>×</mo><mn>4</mn></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2.22</mn></math>",
+    "solution_image": null,
+    "topic": "Mixture of gases"
+  },
+  {
+    "question_id": "64b16a3cf23ac7d519f9b291",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\n$\\mathbf{X}$ and $\\mathbf{Y}$ are two volatile liquids with molar weights of $10 \\mathrm{~g} \\mathrm{~mol}^{-1}$ and $40 \\mathrm{~g} \\mathrm{~mol}^{-1}$ respectively. Two cotton plugs, one soaked in $\\mathbf{X}$ and the other soaked in $\\mathbf{Y}$, are simultaneously placed at the ends of a tube of length $L=24 \\mathrm{~cm}$, as shown in the figure. The tube is filled with an inert gas at $1$ atmosphere pressure and a temperature of $300 \\mathrm{~K}$. Vapours of $\\mathbf{X}$ and $\\mathbf{Y}$ react to form a product which is first observed at a distance $\\mathbf{d} \\mathrm{~cm}$ from the plug soaked in $\\mathbf{X}$. Take $\\mathbf{X}$ and $\\mathbf{Y}$ to have equal molecular diameters and assume ideal behaviour for the inert gas and the two vapours.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cgpNEtAUdihtBgGoT-6uPF_-HCjmaeHhLoauZE6yLPU.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe experimental value of $\\mathbf{d}$ is found to be smaller than the estimate obtained using Graham's law. This is due to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VKTnd",
+        "text": "Larger mean free path for X as compared to that of Y.",
+        "image": null
+      },
+      {
+        "id": "5CWEj",
+        "text": "Larger mean free path for Y as compared to that of X.",
+        "image": null
+      },
+      {
+        "id": "S59pB",
+        "text": "Increased collision frequency of Y with the inert gas as compared to that of X with the inert gas.",
+        "image": null
+      },
+      {
+        "id": "hFfUh",
+        "text": "Increased collision frequency of X with the inert gas as compared to that of Y with the inert gas.",
+        "image": null
+      }
+    ],
+    "correct_answer": "hFfUh",
+    "solution_text": "As the collision frequency increases then molecular speed decreases than the expected.",
+    "solution_image": null,
+    "topic": "Mixture of gases"
+  },
+  {
+    "question_id": "64b16a3cf23ac7d519f9b290",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\n$\\mathbf{X}$ and $\\mathbf{Y}$ are two volatile liquids with molar weights of $10 \\mathrm{~g} \\mathrm{~mol}^{-1}$ and $40 \\mathrm{~g} \\mathrm{~mol}^{-1}$ respectively. Two cotton plugs, one soaked in $\\mathbf{X}$ and the other soaked in $\\mathbf{Y}$, are simultaneously placed at the ends of a tube of length $L=24 \\mathrm{~cm}$, as shown in the figure. The tube is filled with an inert gas at $1$ atmosphere pressure and a temperature of $300 \\mathrm{~K}$. Vapours of $\\mathbf{X}$ and $\\mathbf{Y}$ react to form a product which is first observed at a distance $\\mathbf{d} \\mathrm{~cm}$ from the plug soaked in $\\mathbf{X}$. Take $\\mathbf{X}$ and $\\mathbf{Y}$ to have equal molecular diameters and assume ideal behaviour for the inert gas and the two vapours.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cgpNEtAUdihtBgGoT-6uPF_-HCjmaeHhLoauZE6yLPU.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe value of $\\mathbf{d}$ in $\\mathbf{c m}$ (shown in the figure), as estimated from Graham's law, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Mf4AS",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "aAleN",
+        "text": "12",
+        "image": null
+      },
+      {
+        "id": "RvWLx",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "psuFF",
+        "text": "20",
+        "image": null
+      }
+    ],
+    "correct_answer": "RvWLx",
+    "solution_text": "<math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mi mathvariant=\"normal\">y</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">d</mi></mrow><mrow><mn>24</mn><mo>-</mo><mi mathvariant=\"normal\">d</mi></mrow></mfrac><mo>=</mo><msqrt><mfrac><mrow><mn>40</mn></mrow><mrow><mn>10</mn></mrow></mfrac></msqrt><mo>=</mo><mn>2</mn></math><br /><math><mi mathvariant=\"normal\">d</mi><mo>=</mo><mn>48</mn><mo>-</mo><mn>2</mn><mi mathvariant=\"normal\">d</mi></math><br /><math><mn>3</mn><mi mathvariant=\"normal\">d</mi><mo>=</mo><mn>48</mn></math><br /><math><mi mathvariant=\"normal\">d</mi><mo>=</mo><mn>16</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">m</mi></math>",
+    "solution_image": null,
+    "topic": "Mixture of gases"
+  },
+  {
+    "question_id": "685102c06bba689a3eb09c98",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Molar volume $\\left(V_m\\right)$ of a van der Waals gas can be calculated by expressing the van der Waals equation as a cubic equation with $V_m$ as the variable. The ratio (in $\\mathrm{mol} \\mathrm{dm}^{-3}$ ) of the coefficient of $V_m^2$ to the coefficient of $V_m$ for a gas having van der Waals constants $a=6.0 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{~mol}^{-2}$ and $b=0.060 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$ at 300 K and 300 atm is _____ .\nUse: Universal gas constant $(R)=0.082 \\mathrm{dm}^3 \\mathrm{~atm} \\mathrm{~mol}{ }^{-1} \\mathrm{~K}^{-1}$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "-7.1",
+    "solution_text": "$\\begin{aligned}\n& \\left(P+\\frac{a}{V_m^2}\\right)\\left(V_m-b\\right)=R T \\\\\n& P V_m-b P+\\frac{a}{V_m}-\\frac{a b}{V_m^2}-R T=0 \\\\\n& \\Rightarrow \\quad P V_m^2-(b P+R T) V_m^2+a V_m-a b=0\n\\end{aligned}$\nCoefficient of $\\mathrm{V}_{\\mathrm{m}}^2=-(\\mathrm{bP}+\\mathrm{RT})$\nCoefficient of $\\mathrm{V}_{\\mathrm{m}}=\\mathrm{a}$\n$\\text { Ratio }=-\\frac{(\\mathrm{bP}+\\mathrm{RT})}{\\mathrm{a}}=-\\left[\\frac{0.06 \\times 300+24.6}{6}\\right]=-7.1 .$",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b16aa3f23ac7d519f9b639",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>A gas has a compressibility factor of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn></math> and a molar volume of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><msup><mi>dm</mi><mn>3</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> at a temperature of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>800</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> and pressure <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>&#160;</mo><mi>atm</mi></math>. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">y</mi><mo>&#160;</mo><msup><mi>dm</mi><mn>3</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . The value of<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi mathvariant=\"normal\">x</mi><mo>/</mo><mi mathvariant=\"normal\">y</mi></math> is _________</p><p>[Use: Gas constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi><mo>&#160;</mo><mi>atm</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> ]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "100",
+    "solution_text": "<blockquote><p>Compressibility factor&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">Z</mi><mo>)=</mo><mfrac><msub><mi mathvariant=\"normal\">V</mi><mrow><mi>real</mi><mo>&#160;</mo></mrow></msub><msub><mi mathvariant=\"normal\">V</mi><mi>ideal</mi></msub></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mrow><mi>real</mi><mo>&#160;</mo></mrow></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>4</mn><msup><mi>dm</mi><mn>3</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>0</mn><mo>.</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi><mo>/</mo><mi>mol</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><msub><mi mathvariant=\"normal\">V</mi><mrow><mi>ideal</mi><mo>&#160;</mo></mrow></msub><mo>=</mo><mfrac><mrow><mn>0</mn><mo>.</mo><mn>4</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi><mo>/</mo><mi>mol</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi><mo>/</mo><mi>mol</mi></math></p><p>Using ideal gas equation : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PV</mi><mo>=</mo><mi>nRT</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#215;</mo><mn>8</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#215;</mo><mn>800</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>8</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>80</mn><mo>&#160;</mo><mi>atm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mfrac><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">y</mi></mfrac><mo>=</mo><mfrac><mn>80</mn><mrow><mn>0</mn><mo>.</mo><mn>8</mn></mrow></mfrac><mo>=</mo><mn>100</mn></math></p><p>&nbsp;</p></blockquote>",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b309",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "One mole of a monoatomic real gas satisfied the equation <math><mi mathvariant=\"normal\">p</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">V</mi><mo>-</mo><mi mathvariant=\"normal\">b</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></math> where b is a constant. The relationship of interatomic potential V(r) and interatomic distance r for the gas is given by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6IXuK",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image12-86eb1173-94f0-4fbf-81ae-7752ab91649e.png\"/>",
+        "image": null
+      },
+      {
+        "id": "3oATW",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image13-48dd6756-0fc1-4ecb-8a24-987450fcf0b3.png\"/>",
+        "image": null
+      },
+      {
+        "id": "wSN7O",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image14-308943a0-fe59-4d8f-a672-e554f2c0de95.png\"/>",
+        "image": null
+      },
+      {
+        "id": "L7Sa2",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image15-49df9176-98fc-4d01-a05a-25e38c8e7444.png\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wSN7O",
+    "solution_text": "<math><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">V</mi><mo>-</mo><mi mathvariant=\"normal\">b</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></math><br /><math><mo>&rArr;</mo><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">V</mi><mo>-</mo><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi><mo>=</mo><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></math><br /><math><mo>&rArr;</mo><mfrac><mrow><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">V</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mfrac><mo>+</mo><mn>1</mn></math><br /><math><mo>&rArr;</mo><mi mathvariant=\"normal\">Z</mi><mo>=</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">b</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">T</mi></mrow></mfrac></math><br />Hence, <math><mi mathvariant=\"normal\">Z</mi><mo>&gt;</mo><mn>1</mn></math> at all pressures.<br />This means, repulsive tendencies will be dominant when interatomic distance are small. This means, interatomic potential is never negative but becomes positive at small interatomic distances.",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b16a1af23ac7d519f9b15d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "For one mole of a van der Waal's gas when $b=0$ and $\\mathrm{T}=300 \\mathrm{~K}$, the PV vs, $1 / \\mathrm{V}$ plot is shown below. The value of the van der Waal's constant $a$ (atm. liter ${ }^{2} \\mathrm{~mol}^{-2}$ ) is :\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ku8zTykkOmVuLrktWg0WPWEVa-Uh5hX9VUAXejmzkQw.original.fullsize.png\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0UoX4",
+        "text": "$1.0$",
+        "image": null
+      },
+      {
+        "id": "ZY6lU",
+        "text": "$4.5$",
+        "image": null
+      },
+      {
+        "id": "flv9Z",
+        "text": "$1.5$",
+        "image": null
+      },
+      {
+        "id": "HKkrB",
+        "text": "$3.0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "flv9Z",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ItJQAEDeaZBHL2jFz1iqa2hE-Mq_z--QqMX1p93C-Ro.original.fullsize.png\"><br>\r\n\r\n$\\begin{array}{l}\r\n\r\n\\left(P+\\frac{\\mathrm{a}}{V^{2}}\\right)(V)=R T \\\\\r\n\r\nP V+a / V=R T ; P V=R T-a(V) \\\\\r\n\r\ny=R T-a(x)\r\n\r\n\\end{array}$\r\n\r\nSo, slope $=a=\\frac{21.6-20.1}{3-2}=\\frac{1.5}{1}=1.5$",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b169f0f23ac7d519f9afd8",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The term that corrects for the attractive forces present in a real gas in the van der Waals' equation is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wjDGk",
+        "text": "\n$n b$\n",
+        "image": null
+      },
+      {
+        "id": "Wy6n8",
+        "text": "\n$n^2 a / V^2$\n",
+        "image": null
+      },
+      {
+        "id": "sFrhm",
+        "text": "\n$-\\left(n^2 a / V^2\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "2cGxX",
+        "text": "\n$-n b$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Wy6n8",
+    "solution_text": "In the van der Waals' equation\n$$\n\\left(p+\\frac{n^2 a}{V^2}\\right)(V-n b)=n R T\n$$\nThe pressure correction factor $\\left(n^2 a / V^2\\right)$ accounts for intermolecular attraction in real gas.",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af59",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "A gas described by van der Waals' equation",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eaSNl",
+        "text": "\nbehaves similar to an ideal gas in the limit of large molar volumes\n",
+        "image": null
+      },
+      {
+        "id": "SAlpZ",
+        "text": "\nbehaves similar to an ideal gas in the limit of large pressures\n",
+        "image": null
+      },
+      {
+        "id": "djliA",
+        "text": "\nis characterised by van der Waals' coefficients that are dependent on the identity of the gas but are independent of the temperature\n",
+        "image": null
+      },
+      {
+        "id": "CDEUP",
+        "text": "\nhas the pressure that is lower than the pressure exerted by the same gas behaving ideally",
+        "image": null
+      }
+    ],
+    "correct_answer": "CDEUP",
+    "solution_text": "The gas described by van der Waals' equation in the limit of large molar volume, in the intermediate range of pressure experience balancing by two factors.\n$$\n\\left(p+\\frac{a}{V^2}\\right)(V-b)=R T \\Rightarrow p V=\\frac{a}{V}-p b+\\frac{a b}{V^2}=R T\n$$\n(We can neglect the product of two very small constants, $\\frac{a b}{V^2}$ )\nSo,\n$$\np V+\\frac{a}{V}-p b=R T\n$$\nAs\n$$\n\\frac{a}{V}=p b\n$$\nThe gas behaves ideally, $p V=R T$\n- The van der Waals' constants ' $a$ ' and ' $b$ ' are characteristics of the gas. The value of these constants are determined by the critical constants of the gas\n$$\na=3 p_C V_C^2=3 p_C\\left(\\frac{3 R T_C}{8 p_C}\\right)^2=\\frac{27\\left(R T_C\\right)^2}{64 p_C} ; b=\\frac{1}{3}\\left(\\frac{3 R T_C}{8 p_C}\\right)=\\frac{R T_C}{8 p_C}\n$$\nQuestion is based on description by van der Waals' equation, that's why we have to ignore the effect of temperature on $a$ and $b$. Actually, the so-called constant varies to some extent with temperature and this shows that the van der Waals' equation is not a complete solution of the behaviour of real gas",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b169d5f23ac7d519f9aee2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Match the gases under specified conditions listed in Column I with their properties/laws in Column II. Indicate your answer by darkening the appropriate bubbles of $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ejgNRpWHs-ac66lvxqM62VDBFoI4F-mmsBx1r-RU0uI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pplQQ",
+        "text": "\nA-p; B-q; C-p; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "OsfTz",
+        "text": "\nA-p, q; B-r; C-r, s; D-p, q\n",
+        "image": null
+      },
+      {
+        "id": "8OR5b",
+        "text": "\nA-s; B-p; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "A8Uhw",
+        "text": "\nA-p, s; B-r; C-p, q; D-r",
+        "image": null
+      }
+    ],
+    "correct_answer": "A8Uhw",
+    "solution_text": "(A) $-p, s(\\mathrm{~B})-r$ (C) $-p, q$ (D) $-r$\nExplanation van der Waals' equation\n$$\n\\left(p+\\frac{n^2 a}{V_m^2}\\right)\\left(V_m-b\\right)=n R T\n$$\n\nFor hydrogen gas $(p=200 \\mathrm{~atm}, T=273 \\mathrm{~K})$\nAs pressure is large $V_m$ can be assumed small, thus ' $b$ ' can not be ignored, while due to high pressure $a / V_m^2$ can be considered negligible in comparison to $p$.\n$$\np\\left(V_m-b\\right)=R T \\quad \\text { and } \\quad Z=1+\\frac{p b}{R T}\n$$\nFor hydrogen gas $(p \\sim 0, T=273 \\mathrm{~K})$\nwhen pressure occurs of low about $1 \\mathrm{~atm}$ or less and temperature is not very close to the point of liquification $\\left[T_c\\left(\\mathrm{H}_2\\right)=33.3 \\mathrm{~K}\\right]$ gas behaves ideally.\nFor\n$$\nP V=n R T\n$$\nTemperature is close to the point of liquification $\\left[T_C\\left(\\mathrm{CO}_2\\right)=304.2\\right]$ thus, deviation from ideality appears very high (due to high attractive force of attraction).\nFor real gas with very large molar volume.\nAs molar volume is very large $a / V_m^2$ will be negligible and at the same time ' $b$ ' in comparison to $V_m$ is also considered negligible, thus, $p V_m=n R T$",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  },
+  {
+    "question_id": "64b169c9f23ac7d519f9ae78",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "The given graph represent the variations of compressibility factor $(Z)=\\frac{P V}{n R T}$ versus $P$, for three real gases $A, B$ and $C$. Identify the only incorrect statement\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/52Wx1mVwB4vyZ4MyG80f3pQP85ulQXzBavIvYDsPoPI.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/doMmwjz6OWgda2Ocr7mXg2RRo0HlCLjLWfsXTkufUb8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wnJzP",
+        "text": "\nFor the gas $A, a=0$ and its dependence on $P$ is linear at all pressure.\n",
+        "image": null
+      },
+      {
+        "id": "lufh6",
+        "text": "\nFor the gas $B, b=0$ and its dependence on $P$ is linear at all pressure.\n",
+        "image": null
+      },
+      {
+        "id": "IUzeW",
+        "text": "\nFor the gas $C$, which is typical real gas for which neither $a$ nor $b=0$. By knowing the minima and point of the intersection, with $Z=1, a$ and $b$ can be calculated.\n",
+        "image": null
+      },
+      {
+        "id": "i8SIV",
+        "text": "\nAt high pressure, the slope is positive for all real gases.",
+        "image": null
+      }
+    ],
+    "correct_answer": "lufh6",
+    "solution_text": "From the graph it is clear that the value of $Z$ decreases with increase of pressure. We can explain as follows on the basis of van der Waals' equation.\nAt high pressure, when ' $P$ ' is large, $V$ will be small and one can not ignore ' $b$ ' in comparison to $V$.\nHowever, the term $\\frac{a}{V^2}$ may be considered negligible in comparison to ' $p$ ' in van der Waals' equation\nor\n$$\n\\begin{aligned}\n\\left(p+\\frac{a}{V^2}\\right)(V-b) & =n R T \\\\\nP(V-b) & =n R T \\\\\np V-p b & =n R T \\\\\n\\frac{p V}{n R T} & =1+\\frac{p b}{n R T} \\\\\nZ & =1+\\frac{p b}{n R T}\n\\end{aligned}\n$$\nor\nHere, $Z$ is greater than one and it increases linearly with pressure. Hence, statement (b) is false.",
+    "solution_image": null,
+    "topic": "Real Gases and Van der Waal's Equation"
+  }
+]

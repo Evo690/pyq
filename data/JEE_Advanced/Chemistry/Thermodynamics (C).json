@@ -1,0 +1,1435 @@
+[
+  {
+    "question_id": "64b169f8f23ac7d519f9b021",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "In a constant volume calorimeter, $3.5 \\mathrm{~g}$ of a gas with molecular weight $=28$ was burnt in excess oxygen at $298.0 \\mathrm{~K}$. The temperature of the calorimeter was found to increases from $298.0 \\mathrm{~K}$ to $298.45 \\mathrm{~K}$ due to the combustion process. Given, that the heat capacity of the calorimeter is $2.5$ $\\mathrm{kJ} \\mathrm{K}^{-1}$, the numerical value for the enthalpy of combustion of the gas in $\\mathrm{kJ} \\mathrm{mol}^{-1}$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "The temperature rise is : $\\Delta T=T_2-T_1=298.45-298=0.45 \\mathrm{~K}$\nThis indicates that heat produced from combustion of $3.5 \\mathrm{~g}$ of compound rises temperature of calorimeter by $0.45 \\mathrm{~K}$.\nHeat produced $=0.45 \\mathrm{~K} \\times 2.5 \\mathrm{k} \\mathrm{JK}^{-1}=1.125 \\mathrm{~kJ}$\n$\\Rightarrow$ Heat produced from $28 \\mathrm{~g}$ of compound $(1.0 \\mathrm{~mol})=\\frac{1.125}{3.5} \\times 28=9 \\mathrm{~kJ}$",
+    "solution_image": null,
+    "topic": "Carnot engine"
+  },
+  {
+    "question_id": "64b169eaf23ac7d519f9afa2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Statement 1 There is a natural asymmetry between converting work to heat and converting heat to work.\nStatement 2 No process is possible in which the sole result in the absorption of heat from a reservoir and its complete conversion into work.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PChx4",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "Hoxyq",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "Y4P8p",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "JRmXE",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "PChx4",
+    "solution_text": "There is natural asymmetry between converting work to heat and converting heat to work because of the lapse of energy in this process which has been generalised in the form of second law of thermodynamics (Statement II).",
+    "solution_image": null,
+    "topic": "Carnot engine"
+  },
+  {
+    "question_id": "64b16aa9f23ac7d519f9b673",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>The entropy versus temperature plot for phases <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> bar pressure is given. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">T</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mn>0</mn></msub></math>&nbsp;are entropies of the phases at temperatures <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>, respectively.</p>\n\n<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0e77b90b-182d-480f-bdcd-05844a779e2a.png\" style=\"width: 350px; height: 203px;\" /></p>\n\n<p>The transition temperature for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> phase change is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>600</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub><mo>-</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. Assume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub><mo>-</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub></mrow></mfenced></math> is independent of temperature in the range of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>700</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>.</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub></math> are heat capacities of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> phases, respectively.</p>\n<br>The value of entropy change, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi>&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi>&#945;</mi></msub></math> (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Jmol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> ), at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is [Use: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mo>&#160;</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>69</mn></math>0.&nbsp;Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi>&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi>&#945;</mi></msub><mo>=</mo><mn>0</mn></math>&nbsp;at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> ]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.31",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>=</mo><msub><mi mathvariant=\"normal\">S</mi><mn>0</mn></msub><mo>+</mo><msub><mo>&#8747;</mo><mrow/></msub><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub><mfrac><mrow><mo>d</mo><mi mathvariant=\"normal\">T</mi></mrow><mi mathvariant=\"normal\">T</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">S</mi><mn>0</mn></msub><mo>+</mo><msub><mo>&#8747;</mo><mrow></mrow></msub><msub><mfenced close=\"]\" open=\"[\"><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub></mfenced><mi mathvariant=\"normal\">&#945;</mi></msub><mfrac><mrow><mo>d</mo><mi mathvariant=\"normal\">T</mi></mrow><mi mathvariant=\"normal\">T</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">S</mi><mn>0</mn></msub><mo>+</mo><msub><mo>&#8747;</mo><mrow></mrow></msub><msub><mfenced close=\"]\" open=\"[\"><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub></mfenced><mi mathvariant=\"normal\">&#946;</mi></msub><mfrac><mrow><mo>d</mo><mi mathvariant=\"normal\">T</mi></mrow><mi mathvariant=\"normal\">T</mi></mfrac></math></p><p>Now,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">S</mi><mn>0</mn></msub><mo>+</mo><mo>&#8747;</mo><mfenced close=\"]\" open=\"[\"><mrow><msub><mfenced close=\"]\" open=\"[\"><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub></mfenced><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mfenced close=\"]\" open=\"[\"><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub></mfenced><mi mathvariant=\"normal\">&#945;</mi></msub></mrow></mfenced><mfrac><mrow><mo>d</mo><mi mathvariant=\"normal\">T</mi></mrow><mi mathvariant=\"normal\">T</mi></mfrac></math></p><p>Given&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced close=\"]\" open=\"[\"><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub></mfenced><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mfenced close=\"]\" open=\"[\"><msub><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">p</mi></msub></mfenced><mi mathvariant=\"normal\">&#945;</mi></msub><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub><mo>=</mo><mi>lnT</mi><mo>+</mo><mi mathvariant=\"normal\">C</mi></math>&nbsp;at any temperature of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced close=\"]\" open=\"[\"><mrow><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub></mrow></mfenced><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></msub><mo>-</mo><msub><mfenced close=\"]\" open=\"[\"><mrow><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub></mrow></mfenced><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub></msub><mo>=</mo><msub><mi>lnT</mi><mn>2</mn></msub><mo>-</mo><msub><mi>lnT</mi><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub><mo>=</mo><mn>600</mn><mi mathvariant=\"normal\">K</mi><mo>&#160;</mo><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>=</mo><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>&#160;</mo><mi>and</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>at</mi><mo>&#160;</mo><mn>600</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><msub><mfenced close=\"]\" open=\"[\"><mrow><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub></mrow></mfenced><mn>300</mn></msub><mo>=</mo><mi>ln</mi><mn>600</mn><mo>&#160;</mo><mo>-</mo><mi>ln</mi><mn>300</mn><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">&#945;</mi></msub><mo>=</mo><mn>1</mn><mo>-</mo><mn>0</mn><mo>.</mo><mn>69</mn><mo>=</mo><mn>0</mn><mo>.</mo><mn>31</mn><mspace linebreak=\"newline\"></mspace></math>&nbsp;</p></blockquote>",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a9df23ac7d519f9b605",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>The correct option(s) about entropy (S) is(are)</p><p>[<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo></math> gas constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">F</mi><mo>=</mo></math> Faraday constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>=</mo></math> Temperature]</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mhrqu",
+        "text": "For the reaction, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>+</mo><mn>2</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mfenced><mi>aq</mi></mfenced><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>+</mo><msup><mi mathvariant=\"normal\">M</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced><mi>aq</mi></mfenced></math>, if <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>dE</mi><mrow><mi>cell</mi><mo>&#160;</mo></mrow></msub><mi>dT</mi></mfrac><mo>=</mo><mfrac><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">F</mi></mfrac></math> then the entropy change of the reaction is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math> (assume that entropy and internal energy changes are temperature independent).",
+        "image": null
+      },
+      {
+        "id": "LAMZt",
+        "text": "The cell reaction, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pt</mi><mfenced><mi>s</mi></mfenced><mo>&#8739;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mfenced><mrow><mi mathvariant=\"normal\">g</mi><mo>,</mo><mn>1</mn><mo>&#160;</mo><mi>bar</mi></mrow></mfenced><mfenced open=\"|\" close=\"|\"><mrow><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mfenced><mrow><mi>aq</mi><mo>,</mo><mn>0</mn><mo>.</mo><mn>01</mn><mi mathvariant=\"normal\">M</mi></mrow></mfenced><mo>&#8214;</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mfenced><mrow><mi>aq</mi><mo>,</mo><mn>0</mn><mo>.</mo><mn>1</mn><mi mathvariant=\"normal\">M</mi></mrow></mfenced></mrow></mfenced><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mfenced><mrow><mi mathvariant=\"normal\">g</mi><mo>,</mo><mn>1</mn><mi>bar</mi></mrow></mfenced><mo>&#8739;</mo><mi>Pt</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math> , is an entropy driven process.",
+        "image": null
+      },
+      {
+        "id": "S3Fow",
+        "text": "For racemization of an optically active compound, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi mathvariant=\"normal\">S</mi><mo>&#62;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "b6gKG",
+        "text": "\\(\\Delta \\mathrm{S}>0\\), for \\(\\left[\\mathrm{Ni}\\left(\\mathrm{H}_2 \\mathrm{O}\\right) 6\\right]^{2+}+3 \\mathrm{en} \\rightarrow[\\mathrm{Ni}(\\mathrm{en})_{3}]^{2+}+6 \\mathrm{H}_2 \\mathrm{O}\\) (where en \\(=\\) ethylenediamine)",
+        "image": null
+      }
+    ],
+    "correct_answer": "b6gKG",
+    "solution_text": "<p>(A)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced><mo>+</mo><mn>2</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mfenced><mi>aq</mi></mfenced><mo>&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>+</mo><msup><mi mathvariant=\"normal\">M</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mfenced><mi>aq</mi></mfenced></math></p><p>if <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>dE</mi><mrow><mi>cell</mi><mo>&#160;</mo></mrow></msub><mi>dT</mi></mfrac><mo>=</mo><mfrac><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">F</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi mathvariant=\"normal\">S</mi><mo>=</mo><mi>nF</mi><mfrac><mi>dE</mi><mi>dT</mi></mfrac><mo>=</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">F</mi><mfenced><mfrac><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">F</mi></mfrac></mfenced><mo>=</mo><mn>2</mn><mi>R</mi></math></p><p>(B)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mrow><mi>cell</mi><mo>&#160;</mo></mrow></msub><mo>=</mo><mfrac><mrow><mo>-</mo><mn>2</mn><mo>.</mo><mn>303</mn><mi>RT</mi></mrow><mi mathvariant=\"normal\">F</mi></mfrac><mi>log</mi><mfrac><mrow><mn>0</mn><mo>.</mo><mn>01</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>303</mn><mi>RT</mi></mrow><mi mathvariant=\"normal\">F</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>dE</mi><mrow><mi>cell</mi><mo>&#160;</mo></mrow></msub><mi>dT</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.</mo><mn>303</mn><mi mathvariant=\"normal\">R</mi></mrow><mi mathvariant=\"normal\">F</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>&#916;</mi><mi mathvariant=\"normal\">S</mi><mo>=</mo><mi>nF</mi><mfrac><mi>dE</mi><mi>dT</mi></mfrac><mo>&#62;</mo><mn>0</mn></math></p><p>It is an entropy driven process.</p><p>(C)&nbsp;It is correct</p><p>Racemisation is a thermodynamically favourable method, and it proceeds spontaneously&nbsp;if a suitable pathway is accessible for the interconversion of the enantiomers.&nbsp;</p><p>During racemisation of optically active compound, disorderness increases and hence, entropy increases.</p><p>(D)&nbsp;For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced close=\"]\" open=\"[\"><mrow><mi>Ni</mi><msub><mfenced><mrow><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced><mn>6</mn></msub></mrow></mfenced><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>3</mn><mi>en</mi><mo>&#8594;</mo><msup><mfenced close=\"]\" open=\"[\"><mrow><mi>Ni</mi><msub><mfenced><mi>en</mi></mfenced><mn>3</mn></msub></mrow></mfenced><mrow><mo>+</mo><mn>3</mn></mrow></msup><mo>+</mo><mn>6</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math><br />Entropy increases when bidentate ligands replace monodentate ligands due to increase in the number of molecules on the product side.</p><p>Hence, (B, C, D)&nbsp;are correct.</p>",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a6cf23ac7d519f9b44b",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "<p>For a reaction, <math><mi>A</mi><mo>⇌</mo><mi>P</mi></math> , the plots of <math><mi> </mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>A</mi></mrow></mfenced><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></math> with time at temperatures <math><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></math> are given below.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hfvjypyvnjrofprcwoemnluhkwpvqmdqzwkmbeapzfebsdgrwp.jpeg\"/><br >If <math><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>></mo><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></math> , the correct statement(s) is (are)<br >(Assume <math><mo>∆</mo><msup><mrow><mi>H</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mo>∆</mo><msup><mrow><mi>S</mi></mrow><mrow><mo>⊝</mo></mrow></msup></math> are independent of temperature and ratio of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mi>K</mi><mo> </mo><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi> </mi><msub><mi>T</mi><mn>1</mn></msub><mo> </mo><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mo> </mo><mi>ln</mi><mi>K</mi><mo> </mo><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi> </mi><msub><mi>T</mi><mn>2</mn></msub></math> is greater than <math><mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>/</mo><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mrow></math> . Here H, S , G and K are enthalpy, entropy, Gibbs energy and equilibrium constant, respectively.)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "X3kNm",
+        "text": "<math><mo>∆</mo><msup><mrow><mi>H</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&lt;</mo><mn>0</mn><mo>,</mo><mo>∆</mo><msup><mrow><mi>S</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "kGqXH",
+        "text": "<math><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&lt;</mo><mn>0</mn><mo>,</mo><mo>∆</mo><msup><mrow><mi>H</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "MTCbz",
+        "text": "<math><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&lt;</mo><mn>0</mn><mo>,</mo><mo>∆</mo><msup><mrow><mi>S</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "KkoLU",
+        "text": "<math><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&gt;</mo><mn>0</mn><mo>,</mo><mo>∆</mo><msup><mrow><mi>S</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mo>&gt;</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MTCbz",
+    "solution_text": "<p><math><mi>A</mi><mo>&#8652;</mo><mi>P</mi></math><br />Given <math><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#62;</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></math><br /><math><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mrow></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow></mrow></mfrac><mo>&#62;</mo><mfrac><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mrow><mo>&#62;</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>&#8289;</mo><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mrow></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mo>-</mo><mo>&#8710;</mo><msubsup><mrow><mi>G</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>0</mn></mrow></msubsup><mo>&#62;</mo><mo>-</mo><mo>&#8710;</mo><msubsup><mrow><mi>G</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>0</mn></mrow></msubsup></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mfenced separators=\"|\"><mrow><mo>-</mo><mo>&#8710;</mo><msup><mrow><mi>H</mi></mrow><mrow><mn>0</mn></mrow></msup><mo>+</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#8710;</mo><msup><mrow><mi>S</mi></mrow><mrow><mn>0</mn></mrow></msup></mrow></mfenced><mo>&#62;</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mo>&#8710;</mo><msup><mrow><mi>H</mi></mrow><mrow><mn>0</mn></mrow></msup><mo>+</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#8710;</mo><msup><mrow><mi>S</mi></mrow><mrow><mi>o</mi></mrow></msup></mrow></mfenced></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&#8710;</mo><msup><mrow><mi>S</mi></mrow><mrow><mn>0</mn></mrow></msup><mo>&#62;</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&#8710;</mo><msup><mrow><mi>S</mi></mrow><mrow><mn>0</mn></mrow></msup></math><br /><math><mo>&#8658;</mo><mi>&#160;</mi><mi>&#160;</mi><mi>&#160;</mi><mo>&#8710;</mo><msup><mrow><mi>S</mi></mrow><mrow><mi>o</mi></mrow></msup><mo>&#60;</mo><mn>0</mn></math></p><p>At&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub><mo>&#160;</mo></math>temperature concentration of product is decreases that shows reaction is exothermic.</p>",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a61f23ac7d519f9b3e3",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "For a reaction taking place in a container in equilibrium with its surroundings, the effect of temperature on its equilibrium constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>&nbsp;in terms of change in entropy is described by:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jJfvI",
+        "text": "with increase in temperature, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>&nbsp;for exothermic reaction decreases because the entropy change of the system is positive.",
+        "image": null
+      },
+      {
+        "id": "miIWj",
+        "text": "with increase in temperature, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>&nbsp;for endothermic reaction increases because unfavourable change in entropy of the surroundings decreases.",
+        "image": null
+      },
+      {
+        "id": "K4wPM",
+        "text": "with increase in temperature, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>&nbsp;for exothermic reaction decreases because favourable change in entropy of the surroundings decreases.",
+        "image": null
+      },
+      {
+        "id": "iIHGO",
+        "text": "with increase in temperature, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>&nbsp;for endothermic reaction increases because the entropy change of the system is negative.",
+        "image": null
+      }
+    ],
+    "correct_answer": "K4wPM",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;S</mi><mi>surrounding</mi></msub><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi mathvariant=\"normal\">q</mi><mi>process</mi></msub></mrow><msub><mi mathvariant=\"normal\">T</mi><mi>surrounding</mi></msub></mfrac></math></p><p>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;H</mi><mo>&#62;</mo><mn>0</mn></math>,&nbsp;on increasing temperature, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>equilibrium</mi></msub></math>&nbsp;also increase, so&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;S</mi><mi>surrounding</mi></msub><mo>&#60;</mo><mn>0</mn></math>&nbsp;(Surrounding is unfavourable).</p><p>If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;H</mi><mo>&#60;</mo><mn>0</mn></math>,&nbsp;on increasing temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi>equilibrium</mi></msub></math>, decreases, so <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;S</mi><mi>surrounding</mi></msub><mo>&#62;</mo><mn>0</mn></math>&nbsp;(Surrounding is favourable).</p>",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a43f23ac7d519f9b2d5",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Match the thermodynamic processes given under Column I with the expressions given under Column II.<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>Column I</strong></td>\t\t\t<td>&nbsp;</td>\t\t\t<td><strong>Column II</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>A.</td>\t\t\t<td>Freezing of water at 273 K and 1 atm</td>\t\t\t<td>P.</td>\t\t\t<td><math><mi mathvariant=\"normal\">q</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>B.</td>\t\t\t<td>Expansion of 1 mol of an ideal gas into a vacuum under isolated conditions</td>\t\t\t<td>Q.</td>\t\t\t<td><math><mi mathvariant=\"normal\">w</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>C.</td>\t\t\t<td>Mixing of equal volumes of two ideal gases at constant temperature and pressure in an isolated container</td>\t\t\t<td>R.</td>\t\t\t<td><math><mi mathvariant=\"normal\">&#916;</mi><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>&#60;</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>D.</td>\t\t\t<td>Reversible heating of <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math> at 1 atm from 300 K to 600 K, followed by reversible cooling to 300 K at 1 atm</td>\t\t\t<td>S.</td>\t\t\t<td><math><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>T.</td>\t\t\t<td><math><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">G</mi><mo>=</mo><mn>0</mn></math></td>\t\t</tr>\t</tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kPLav",
+        "text": "a-r;b-s,t;c-r,s,t;d-s,t;",
+        "image": null
+      },
+      {
+        "id": "U7N3P",
+        "text": "a-q,r;b-q;c-q;d-s,t;",
+        "image": null
+      },
+      {
+        "id": "6y0Cf",
+        "text": "a-r,t;b-p,q,s;c-p,q,s;d-p,q,s,t;",
+        "image": null
+      },
+      {
+        "id": "Tft9S",
+        "text": "a-q,r,s;b-s,t;c-q,r,s;d-t;",
+        "image": null
+      }
+    ],
+    "correct_answer": "6y0Cf",
+    "solution_text": "A - <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>(</mo><mi mathvariant=\"script\">l</mi><mo>)</mo><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo></math> at 273 K. &amp; 1 atm<br /><math><mo>∆</mo><mi mathvariant=\"normal\">H</mi><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mo>=</mo><mi mathvariant=\"normal\">q</mi></math><br /><math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>&lt;</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mo>∆</mo><mi mathvariant=\"normal\">G</mi><mo>=</mo><mn>0</mn></math><br /><math><mi mathvariant=\"normal\">w</mi><mo>≠</mo><mn>0</mn></math> (as water expands on freezing), <math><mo>∆</mo><mi mathvariant=\"normal\">U</mi><mo>≠</mo><mn>0</mn></math><br />B - Free expansion of ideal gas.<br />q = 0<br />w = 0<br /><math><mo>∆</mo><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>0</mn></math><br /><math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>&gt;</mo><mn>0</mn></math><br /><math><mo>∆</mo><mi mathvariant=\"normal\">G</mi><mo>&lt;</mo><mn>0</mn></math><br />C - Mixing of equal volume of ideal gases at constant pressure &amp; temp in an isolated container<br />q = 0, w = 0, <math><mo>∆</mo><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>0</mn></math> , <math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>&gt;</mo><mn>0</mn></math> , <math><mo>∆</mo><mi mathvariant=\"normal\">G</mi><mo>&lt;</mo><mn>0</mn></math><br />D - <math><mtable><mtr><mtd><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mn>300</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">K</mi></mtd><mtd><mtable><mtr><mtd><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi></mtd></mtr><mtr><mtd><mo>⟶</mo></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>1</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">m</mi></mtd></mtr></mtable></mtd><mtd><mn>600</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">K</mi></mtd></mtr></mtable><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">&nbsp;</mi><mtable><mtr><mtd><mtable><mtr><mtd><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">e</mi></mtd></mtr><mtr><mtd><mo>⟶</mo></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>1</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">m</mi></mtd></mtr></mtable></mtd><mtd><mn>300</mn><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">K</mi></mtd></mtr></mtable></math><br /><math><mi mathvariant=\"normal\">q</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>=</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mi mathvariant=\"normal\">w</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>=</mo><mi mathvariant=\"normal\">&nbsp;</mi><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&nbsp;</mi><mo>∆</mo><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>0</mn></math> , <math><mo>∆</mo><mi mathvariant=\"normal\">G</mi><mo>=</mo><mn>0</mn></math> , <math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>=</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a3bf23ac7d519f9b287",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "For the process <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"script\">l</mi></mrow></mfenced><mo>&#8594;</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi></math> at <math><mi mathvariant=\"normal\">T</mi><mo>=</mo><msup><mrow><mn>100</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">&#160;</mi></math> and 1 atmosphere pressure, the correct choice is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WD30m",
+        "text": "<math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>&gt;</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi></mrow></msub><mo>&gt;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "302if",
+        "text": "<math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>&gt;</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi></mrow></msub><mo>&lt;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "XHQNz",
+        "text": "<math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>&lt;</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi></mrow></msub><mo>&gt;</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "E5HQk",
+        "text": "<math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>&lt;</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi></mrow></msub><mo>&lt;</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "302if",
+    "solution_text": "At  <math><msup><mrow><mn>100</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></math>  and 1 atmosphere pressure  <math><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"script\">l</mi></mrow></mfenced><mo>⇌</mo><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></math>  is at equilibrium. For equilibrium  <math><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">l</mi></mrow></msub><mo>=</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>+</mo><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi></mrow></msub><mo>=</mo><mn>0</mn></math> <br > <math><mo>∴</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>&gt;</mo><mn>0</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">g</mi></mrow></msub><mo>&lt;</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a15f23ac7d519f9b130",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Match the transformation in Column I with appropriate options in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/TQElWvj8uVhqy8L6g1_0H549TaOc7nepzl4wiNxtBnw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fDOZj",
+        "text": "\n(A) p,q,r,s, (B) r,s, (C) t, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "jsvWp",
+        "text": "\n(A) p,s, (B) p,s, (C) s, (D) p,q,s\n",
+        "image": null
+      },
+      {
+        "id": "a6xpX",
+        "text": "\n(A) p,s, (B) q,r, (C) s, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "ScMqh",
+        "text": "\n(A) p,r,s, (B) r,s, (C) t, (D) p,q,t",
+        "image": null
+      }
+    ],
+    "correct_answer": "ScMqh",
+    "solution_text": "(A) $\\mathrm{CO}_2(\\mathrm{~s}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g})$\nIt is just a phase transition (sublimation) as no chemical change has occurred. Sublimation is always endothermic. Product is gas, more disordered, hence $\\Delta s$ is positive.\n(B) $\\mathrm{CaCO}_3(\\mathrm{~s}) \\longrightarrow \\mathrm{CaO}(\\mathrm{s})+\\mathrm{CO}_2(\\mathrm{~g})$\nIt is a chemical decomposition, not a phase change. Thermal decomposition occur at the expense of energy, hence endothermic. Product contain a gaseous species, hence, $\\Delta S>0$.\n(C) $2 \\mathrm{H} \\longrightarrow \\mathrm{H}_2(\\mathrm{~g})$\nA new $\\mathrm{H}-\\mathrm{H}$ covalent bond is being formed, hence, $\\Delta H < 0$.\nAlso, product is less disordered than reactant, $\\Delta S < 0$.\n(D) Allotropes are considered as different phase, hence $\\mathrm{P}_{\\text {(white, solid) }} \\rightarrow \\mathrm{P}_{\\text {(red, solid) }}$ is a phase transition as well as allotropic change.\nAlso, red phosphorus is more ordered than white phosphorus, $\\Delta S < 0$.",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "64b169c9f23ac7d519f9ae72",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "The direct conversion of $A$ to $B$ is difficult, hence it is carried out by the following shown path.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iJ5njgEP0uFQ1pVFhbAFJsbaHKjkZKwmpTu4qcej07g.original.fullsize.png\"><br>\nGiven $\\Delta S_{(A \\rightarrow C)}=50 \\mathrm{eu}, \\quad \\Delta S_{(C \\rightarrow D)}=30 \\mathrm{eu}, \\quad \\Delta S_{(B \\rightarrow D)}=20 \\mathrm{eu}$ where eu is entropy unit, then $\\Delta S_{(A \\rightarrow B)}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SSOIB",
+        "text": "\n$+100 \\mathrm{eu}$\n",
+        "image": null
+      },
+      {
+        "id": "lOUby",
+        "text": "\n$+60 \\mathrm{eu}$\n",
+        "image": null
+      },
+      {
+        "id": "WeJn7",
+        "text": "\n$-100 \\mathrm{eu}$\n",
+        "image": null
+      },
+      {
+        "id": "YHjWT",
+        "text": "\n$-60$ eu",
+        "image": null
+      }
+    ],
+    "correct_answer": "lOUby",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/T6t400ny5IwMNx15Gjzndta8lkrq8lZA6m3hH2r5tXo.original.fullsize.png\"><br>\nGiven: $\\quad \\Delta S_{(A \\rightarrow C)}=50 \\mathrm{eu}, \\Delta S_{(C \\rightarrow D)}=30 \\mathrm{eu}, \\Delta S_{(B \\rightarrow D)}=20 \\mathrm{eu}$ where eu is entropy unit.\n$$\n\\text { Therefore, } \\begin{aligned}\n\\Delta S_{(A \\rightarrow B)} & =\\Delta S_{(A \\rightarrow C)}+\\Delta S_{(C \\rightarrow D)}+\\Delta S_{(D \\rightarrow B)} \\\\\n& =\\Delta S_{(A \\rightarrow C)}+\\Delta S_{(C \\rightarrow D)}-\\Delta S_{(B \\rightarrow D)} \\\\\n& =50+30-20=60 \\mathrm{eu}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Entropy and Second law of thermodynamics"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c98",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "An ideal gas ($0.5$ mol), initially at $2$ bar pressure, is compressed at a constant temperature of $600$ K in two steps: first, against a constant external pressure of $P$ bar ($2 < P < 8$), and then against constant external pressure of $8$ bar. At each step, the compression is stopped only when the pressure of the gas becomes equal to the external pressure. The total work done on the gas in these steps is $W$. Considering all possible values of $P$ ($2 < P < 8$) and taking the gas constant as $R$ (in J K$^{-1}$ mol$^{-1}$), the minimum value of $|W|$ (in J) is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "KlKMW",
+        "text": "$207R$",
+        "image": null
+      },
+      {
+        "id": "HWRaI",
+        "text": "$600R$",
+        "image": null
+      },
+      {
+        "id": "8Cadr",
+        "text": "$630R$",
+        "image": null
+      },
+      {
+        "id": "XwePh",
+        "text": "$900R$",
+        "image": null
+      }
+    ],
+    "correct_answer": "HWRaI",
+    "solution_text": "Let the initial, intermediate, and final volumes of the gas be $V_1$, $V_2$, and $V_3$ respectively.<br><br>Using the ideal gas equation $V = \\dfrac{nRT}{P}$, we have:<br>$V_1 = \\dfrac{nRT}{2}$<br>$V_2 = \\dfrac{nRT}{P}$<br>$V_3 = \\dfrac{nRT}{8}$<br><br>The work done on the gas during the first step against a constant external pressure $P$ is:<br>$W_1 = -P_{ext,1}(V_2 - V_1) = -P \\left( \\dfrac{nRT}{P} - \\dfrac{nRT}{2} \\right) = nRT \\left( \\dfrac{P}{2} - 1 \\right)$<br><br>The work done on the gas during the second step against a constant external pressure of $8$ bar is:<br>$W_2 = -P_{ext,2}(V_3 - V_2) = -8 \\left( \\dfrac{nRT}{8} - \\dfrac{nRT}{P} \\right) = nRT \\left( \\dfrac{8}{P} - 1 \\right)$<br><br>The total work done on the gas is:<br>$W = W_1 + W_2 = nRT \\left( \\dfrac{P}{2} - 1 \\right) + nRT \\left( \\dfrac{8}{P} - 1 \\right) = nRT \\left( \\dfrac{P}{2} + \\dfrac{8}{P} - 2 \\right)$<br><br>To find the minimum value of $W$, we need to minimize the expression $\\left( \\dfrac{P}{2} + \\dfrac{8}{P} \\right)$.<br><br>Using the AM-GM inequality:<br>$\\dfrac{P}{2} + \\dfrac{8}{P} \\ge 2 \\sqrt{\\dfrac{P}{2} \\times \\dfrac{8}{P}} = 2 \\sqrt{4} = 4$<br><br>The minimum value is $4$, which occurs when $\\dfrac{P}{2} = \\dfrac{8}{P} \\Rightarrow P^2 = 16 \\Rightarrow P = 4$ bar. This value of $P$ lies within the given range $(2 < P < 8)$.<br><br>Substituting this minimum value back into the work equation:<br>$W_{min} = nRT (4 - 2) = 2nRT$<br><br>Given $n = 0.5$ mol and $T = 600$ K:<br>$W_{min} = 2 \\times 0.5 \\times R \\times 600 = 600R$<br><br>Answer: $600R$",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "685102c06bba689a3eb09c99",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Considering ideal gas behavior, the expansion work done (in kJ) when 144 g of water is electrolyzed completely under constant pressure at 300 K is _____\nUse: Universal gas constant $(\\mathrm{R})=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$; Atomic mass (in amu): $\\mathrm{H}=1, \\mathrm{O}=16$ (mark absolute value as answer)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "29.88",
+    "solution_text": "in official answer key answer was [-29.95 to -29.8] OR [29.8 to 29.95], we have updated the question to make it valid.\n$\\begin{array}{lcc}\n\\mathrm{H}_2 \\mathrm{O}(l) \\rightarrow & \\mathrm{H}_2(\\mathrm{~g})+ & \\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g}) \\\\\n144 \\mathrm{~g} & - & - \\\\\n8 \\mathrm{~mol} & 8 \\mathrm{~mol} & 4 \\mathrm{~mol} \\\\\n\\mathrm{~W}=-\\mathrm{P} \\Delta \\mathrm{~V}= & -(\\Delta \\mathrm{n}) \\mathrm{RT}\n\\end{array}$\n$\\begin{aligned}\n&\\text { Change in gaseous moles }=12\\\\\n&\\Rightarrow \\mathrm{W}=-\\frac{12 \\times 8.3 \\times 300}{1000} \\mathrm{~kJ}=-29.88 \\mathrm{~kJ} .\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16aa3f23ac7d519f9b63b",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>One mole of an ideal monoatomic gas undergoes two reversible processes <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">B</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math> as shown in the given figure:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/c0f9eca0-1921-4fb9-9579-db85df006fd9.png\" style=\"width: 420px; height: 351px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">B</mi></math> is an adiabatic process. If the total heat absorbed in the entire process <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">B</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mn>10</mn></math>,&nbsp;the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>logV</mi><mn>3</mn></msub></math> is<br />[Use molar heat capacity of the gas at constant pressure, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">m</mi></mrow></msub><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mi mathvariant=\"normal\">R</mi></math>]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mn>10</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">B</mi></mrow></msub><mo>=</mo><mn>0</mn></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&#160;(</mtext><mo>&#8757;</mo><mtext>&#160;adiabatic)&#160;</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">B</mi></mrow></msub><mo>+</mo><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">c</mi></mrow></msub><mo>=</mo><msub><mi>nRT</mi><mn>2</mn></msub><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math>&nbsp; &nbsp; &nbsp;...(i)</p><p>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;E</mi><mo>=</mo><mi mathvariant=\"normal\">q</mi><mo>+</mo><mi mathvariant=\"normal\">w</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;E</mi><mo>=</mo><mn>0</mn></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;(since isothermic)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">q</mi><mo>=</mo><mo>-</mo><mi mathvariant=\"normal\">w</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mfenced><mrow><mo>-</mo><msub><mi>nRT</mi><mn>2</mn></msub><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mrow></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>nRT</mi><mn>2</mn></msub><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">B</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi>nRT</mi><mn>2</mn></msub><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">B</mi><mo stretchy=\"false\">&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></mfenced><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>[</mo><mi>Since</mi><mo>&#160;</mo><mi mathvariant=\"normal\">n</mi><mo>&#160;</mo><mo>=</mo><mn>1</mn><mo>]</mo></math></p><p>From <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">B</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>&#160;</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>1</mn><mrow><mi mathvariant=\"normal\">&#947;</mi><mo>-</mo><mn>1</mn></mrow></msubsup><mo>=</mo><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub><mo>&#160;</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>2</mn><mrow><mi mathvariant=\"normal\">&#947;</mi><mo>-</mo><mn>1</mn></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>600</mn><mo>&#160;</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>1</mn><mrow><mi>&#947;</mi><mo>-</mo><mn>1</mn></mrow></msubsup><mo>=</mo><mn>60</mn><mo>&#160;</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>2</mn><mrow><mi>&#947;</mi><mo>-</mo><mn>1</mn></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>-</mo><mn>1</mn></mrow></msup><mo>=</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>2</mn><mrow><mi mathvariant=\"normal\">&#947;</mi><mo>-</mo><mn>1</mn></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mn>5</mn><mo>/</mo><mn>3</mn></mrow></msup><mo>=</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>2</mn><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>-</mo><mn>1</mn></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mn>5</mn><mo>/</mo><mn>3</mn></mrow></msup><mo>=</mo><msubsup><mi mathvariant=\"normal\">V</mi><mn>2</mn><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub><mo>=</mo><msup><mn>10</mn><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>&#215;</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>=</mo><msup><mn>10</mn><mfrac><mn>5</mn><mn>2</mn></mfrac></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub><mo>=</mo><msup><mn>10</mn><mfrac><mn>5</mn><mn>2</mn></mfrac></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo></math><br />From equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>)</mo></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi>nRT</mi><mn>2</mn></msub><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></mfenced></math><br />Given, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">q</mi><mrow><mi mathvariant=\"normal\">A</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi></mrow></msub><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mn>10</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mn>10</mn><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><mrow><mo>&#160;</mo><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mn>10</mn><mo>=</mo><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mn>10</mn><mo>=</mo><mi>ln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msup><mn>10</mn><mfrac><mn>5</mn><mn>2</mn></mfrac></msup></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msup><mn>10</mn><mfrac><mn>5</mn><mn>2</mn></mfrac></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><mo>=</mo><msup><mn>10</mn><mrow><mn>1</mn><mo>+</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup><mo>=</mo><msup><mn>10</mn><mfrac><mn>7</mn><mn>2</mn></mfrac></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>logV</mi><mn>3</mn></msub><mo>=</mo><mn>2</mn><mi>log</mi><msup><mn>10</mn><mrow><mn>7</mn><mo>/</mo><mn>2</mn></mrow></msup><mo>=</mo><mn>7</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b59e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "One mole of an ideal gas at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>900</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>, undergoes two reversible processes, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> followed by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>, as shown below. If the work done by the gas in the two processes are same, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></math> is<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b3bdc189-7931-4ec2-bb46-c10b595deea3-image.png\" style=\"width: 280px; height: 210px;\" /></p><p>(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">U</mi></math> : internal energy, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>:</mo></math> entropy, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">p</mi><mo>:</mo></math> pressure, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">V</mi><mo>:</mo></math> volume, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi></math> : gas constant)&nbsp;</p><p>(Given: molar heat capacity at constant volume, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">V</mi><mo>,</mo><mi mathvariant=\"normal\">m</mi></mrow></msub></math> of the gas is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>2</mn></mfrac><mi mathvariant=\"normal\">R</mi></math>)</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "<p><strong>Process -I:</strong> Adiabatic reversible process.</p><p>(Since entropy is constant)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">I</mi></msub><mo>=</mo><mi>&#916;U</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>450</mn><mo>&#8722;</mo><mn>2250</mn></mrow></mfenced><mi mathvariant=\"normal\">R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>1800</mn><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi></math></p><p><strong>Process II:</strong> Isothermal reversible process.</p><p>(since internal energy is constant and entropy is increased)</p><p>Work done:</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable equalcolumns=\"true\" equalrows=\"true\"><mtr><mtd><msub><mi mathvariant=\"normal\">W</mi><mi>II</mi></msub><mo>=</mo><mo>&#8722;</mo><mi>nRTln</mi><mfrac><msub><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">f</mi></msub><msub><mi mathvariant=\"normal\">V</mi><mi mathvariant=\"normal\">i</mi></msub></mfrac></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable><mtr><mtd><msub><mi mathvariant=\"normal\">W</mi><mi>II</mi></msub><mo>=</mo><mo>&#8722;</mo><mi>nRTln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></mfenced></mtd></mtr></mtable></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">W</mi><mi>II</mi></msub><mo>=</mo><mo>&#8722;</mo><mfrac><mn>900</mn><mn>5</mn></mfrac><mi>Rln</mi><mfenced><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">W</mi><mi>II</mi></msub></mfenced><mo>=</mo><mfrac><mn>900</mn><mn>5</mn></mfrac><mi>Rln</mi><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">U</mi><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mi>nRT</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>450</mn><mo>&#160;</mo><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mi>nRT</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>nRT</mi><mo>=</mo><mfrac><mn>900</mn><mn>5</mn></mfrac><mi mathvariant=\"normal\">R</mi></math></p><p>Given</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">W</mi><mi mathvariant=\"normal\">I</mi></msub></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\"><msub><mi mathvariant=\"normal\">W</mi><mi>II</mi></msub></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1800</mn><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfrac><mn>900</mn><mn>5</mn></mfrac><mi mathvariant=\"normal\">R</mi><mo>&#160;</mo><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub><msub><mi mathvariant=\"normal\">V</mi><mn>2</mn></msub></mfrac><mo>=</mo><mn>10</mn></math></p>",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a8bf23ac7d519f9b562",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "An ideal gas undergoes a reversible isothermal expansion from state <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> to state II followed by a reversible adiabatic expansion from state <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>&nbsp;to state <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi><mo>.</mo></math>&nbsp;The correct plot&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math> representing the changes from state&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> to state <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math>&nbsp;is(are)<p>(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">p</mi></math>: pressure, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">V</mi></math>: volume, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi></math>: temperature, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math>: enthalpy, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi></math>: entropy)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wKjld",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b0ddc9e5-4cbd-45ef-a179-6f2e363a3ebd-image.png\" style=\"width: 180px; height: 181px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "gjQJN",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ad1259a6-e1e2-4f03-8a24-a701a1cf19a6-image.png\" style=\"width: 180px; height: 173px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "Xf50y",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3f784a9f-2f04-4f90-9df0-e6abf5d142a1-image.png\" style=\"width: 180px; height: 181px;\" /></p>",
+        "image": null
+      },
+      {
+        "id": "9CitL",
+        "text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cea52900-7d8d-475b-82da-66a37fa83d87-image.png\" style=\"width: 180px; height: 177px;\" /></p>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9CitL",
+    "solution_text": "Reversible isothermal expansion from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi>II</mi></math>&nbsp;during this process<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>=</mo></math>&nbsp;constant</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;H</mi><mo>=</mo><mi>&#916;U</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi><mo>=</mo></math>&nbsp;constant.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;S</mi><mo>&#8800;</mo><mn>0</mn></math>&nbsp;Entropy will increase&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PV</mi><mo>=</mo></math>&nbsp;constant.</p><p>and during adiabatic reversible expansion.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">q</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;U</mi><mo>=</mo><mi mathvariant=\"normal\">w</mi><mo>=</mo><mo>&#8722;</mo><mi>ve</mi></math></p><p>so&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi></math>&nbsp;will decrease</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;H</mi><mo>=</mo><msub><mi>nc</mi><mi mathvariant=\"normal\">p</mi></msub><mi>&#916;T</mi><mo>=</mo><mo>-</mo><mi>ve</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math>&nbsp;will decrease</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;S</mi><mo>=</mo><mn>0</mn></math>&nbsp;(isoentropic process)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>=</mo></math>constant. and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>pv</mi><mi mathvariant=\"normal\">r</mi></msup><mo>=</mo></math>&nbsp;constant.</p><p>Keeping in mind&nbsp;correct graph are 1,2 and 4.</p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a7ef23ac7d519f9b4ee",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>In thermodynamics, the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>-</mo><mi mathvariant=\"normal\">V</mi></math>&nbsp;work done is given by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">w</mi><mo>=</mo><mo>-</mo><mo>&#8747;</mo><msub><mi>dVP</mi><mi>ext</mi></msub></math>.&nbsp;For a system undergoing a particular process, the work done is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">w</mi><mo>=</mo><mo>-</mo><mo>&#8747;</mo><mi>dV</mi><mfenced><mrow><mfrac><mi>RT</mi><mrow><mi mathvariant=\"normal\">V</mi><mo>-</mo><mi mathvariant=\"normal\">b</mi></mrow></mfrac><mo>-</mo><mfrac><mi mathvariant=\"normal\">a</mi><msup><mi mathvariant=\"normal\">V</mi><mn>2</mn></msup></mfrac></mrow></mfenced></math>.&nbsp;This equation is applicable to a</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "n80o8",
+        "text": "system that satisfies the van der Waals equation of state.",
+        "image": null
+      },
+      {
+        "id": "IJTF3",
+        "text": "process that is reversible and isothermal.",
+        "image": null
+      },
+      {
+        "id": "a4pYK",
+        "text": "process that is reversible and adiabatic.",
+        "image": null
+      },
+      {
+        "id": "0U7D6",
+        "text": "process that is irreversible and at constant pressure.",
+        "image": null
+      }
+    ],
+    "correct_answer": "a4pYK",
+    "solution_text": "\\(W=-\\int P_{\\text {ext }} d v\\)\r\n\r\nFrom van der waal equation of state for one mole gas \\(p+\\frac{a}{v^{2}}(v-b)=\\mathrm{RT}\\)\r\n\r\n\\(p=\\frac{\\mathrm{RT}}{(v-b)}-\\frac{a}{v^{2}}\\)\r\n\r\nFor reversible process\r\n\r\n\\(p_{\\text {ext }}=p_{\\text {gas }}\\)\r\n\r\n\\(W=-\\int \\frac{\\text {RT }}{(v-b)}-\\frac{a}{v^{2}}\\)\r\n\r\nprocess is only not applicable for irreversible process.",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a66f23ac7d519f9b415",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<p>A reversible cyclic process for an ideal gas is shown below. Here, <math><mi>P</mi><mo>,</mo><mi> </mi><mi>V</mi><mo>,</mo><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>T</mi></math> are pressure, volume and temperature, respectively. The thermodynamic parameters <math><mi>q</mi><mo>,</mo><mi> </mi><mi>w</mi><mo>,</mo><mi> </mi><mi>H</mi><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>U</mi></math> are heat, work, enthalpy and internal energy, respectively.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2fcdab9c-3af5-47c3-a08f-eca603449393-image.png\"/><br >The correct option(s) is (are)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3xd4J",
+        "text": "<math><msub><mrow><mi>q</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>U</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>w</mi></mrow><mrow><mi>A</mi><mi>B</mi></mrow></msub><mo>=</mo><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "AbW0C",
+        "text": "<math><mi> </mi><msub><mrow><mi>w</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>=</mo><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>q</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>H</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></msub><mi> </mi></math>",
+        "image": null
+      },
+      {
+        "id": "Hngrr",
+        "text": "<math><mo>∆</mo><msub><mrow><mi>H</mi></mrow><mrow><mi>C</mi><mi>A</mi></mrow></msub><mo>&lt;</mo><mo>∆</mo><msub><mrow><mi>U</mi></mrow><mrow><mi>C</mi><mi>A</mi></mrow></msub><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>q</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>U</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "GDSG0",
+        "text": "<math><mi> </mi><mi> </mi><msub><mrow><mi>q</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>H</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></msub><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\"> </mi><mo>∆</mo><msub><mrow><mi>H</mi></mrow><mrow><mi>C</mi><mi>A</mi></mrow></msub><mo>&gt;</mo><mo>∆</mo><msub><mrow><mi>U</mi></mrow><mrow><mi>C</mi><mi>A</mi></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "GDSG0",
+    "solution_text": "AC → Isochoric<br >AB → Isothermal<br >BC → Isobaric<br > <math><mo>#</mo><msub><mrow><mi>q</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>U</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>=</mo><mi>n</mi><msub><mrow><mi>C</mi></mrow><mrow><mi>V</mi></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math> <br > <math><msub><mrow><mi>W</mi></mrow><mrow><mi>A</mi><mi>B</mi></mrow></msub><mo>=</mo><mi>n</mi><mi>R</mi><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></mrow></mfenced></mrow></mrow></math>      A (wrong)<br > <math><mo>#</mo><msub><mrow><mi>q</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>H</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></msub><mo>=</mo><mi>n</mi><msub><mrow><mi>C</mi></mrow><mrow><mi>P</mi></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced></math> <br > <math><msub><mrow><mi>W</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>=</mo><mo>-</mo><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math>      B (correct)<br > <math><mo>#</mo><mi>n</mi><msub><mrow><mi>C</mi></mrow><mrow><mi>P</mi></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced><mo>&lt;</mo><mi>n</mi><msub><mrow><mi>C</mi></mrow><mrow><mi>V</mi></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math>              C (correct)<br > <math><mo>∆</mo><msub><mrow><mi>H</mi></mrow><mrow><mi>C</mi><mi>A</mi></mrow></msub><mo>&lt;</mo><mo>∆</mo><msub><mrow><mi>U</mi></mrow><mrow><mi>C</mi><mi>A</mi></mrow></msub></math> <br > <math><mo>#</mo><mi>D</mi></math>      (wrong)",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b339",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "One mole of an ideal gas at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> in thermal contact with its surroundings expands isothermally from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi></math>&nbsp;against a constant pressure of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi>atm</mi></math>. In this process, the change in entropy of the surroundings <math><mfenced separators=\"|\"><mrow><mo>&#8710;</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi></mrow></msub></mrow></mfenced></math> in <math><mi mathvariant=\"normal\">J</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> is:<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">L</mi><mo>&#160;</mo><mi>atm</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>101</mn><mo>.</mo><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></mrow></mfenced></math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MmEZ8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>.</mo><mn>763</mn></math>",
+        "image": null
+      },
+      {
+        "id": "MoPPs",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>013</mn></math>",
+        "image": null
+      },
+      {
+        "id": "kkyCY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>.</mo><mn>013</mn></math>",
+        "image": null
+      },
+      {
+        "id": "pKi56",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>5</mn><mo>.</mo><mn>763</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kkyCY",
+    "solution_text": "From <math><msup><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">t</mi></mrow></msup></math> law of thermodynamics,<br /><math><msub><mrow><mi mathvariant=\"normal\">q</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>=</mo><mo>&#8710;</mo><mi mathvariant=\"normal\">U</mi><mo>-</mo><mi mathvariant=\"normal\">w</mi><mo>=</mo><mn>0</mn><mo>-</mo><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">t</mi></mrow></msub><mo>.</mo><mo>&#8710;</mo><mi mathvariant=\"normal\">V</mi></mrow></mfenced></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">m</mi><mo>&#215;</mo><mfenced separators=\"|\"><mrow><mn>2.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">L</mi><mo>-</mo><mn>1.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">L</mi></mrow></mfenced><mo>=</mo><mn>3.0</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">L</mi><mo>&#160;</mo><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">m</mi></math><br /><math><mo>&#8756;</mo><mo>&#8710;</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">q</mi></mrow><mrow><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">v</mi></mrow></msub></mrow></mfenced></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">r</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">q</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">s</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfrac></math><br /><math><mo>=</mo><mo>-</mo><mfrac><mrow><mn>3.0</mn><mo>&#215;</mo><mn>101.3</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi></mrow><mrow><mn>300</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi></mrow></mfrac></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>1</mn><mo>.013</mo><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mo>/</mo><mi mathvariant=\"normal\">K</mi></math><br />Alternate solution:<br /><math><mo>&#8710;</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">surr</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">q</mi></mrow><mrow><mi mathvariant=\"normal\">surr</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">q</mi></mrow><mrow><mi mathvariant=\"normal\">sys</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">W</mi></mrow><mrow><mi mathvariant=\"normal\">sys</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfrac></math><br /><math><mo>&#8757;</mo></math> For the isothermal process:<br /><math><mo>&#8710;</mo><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>0</mn></math> &nbsp; &nbsp; <math><msub><mrow><mi mathvariant=\"normal\">q</mi></mrow><mrow><mi mathvariant=\"normal\">sys</mi></mrow></msub><mo>=</mo><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">W</mi></mrow><mrow><mi mathvariant=\"normal\">sys</mi></mrow></msub></math><br /><math><mo>&#8710;</mo><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mi mathvariant=\"normal\">surr.</mi></mrow></msub><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mi mathvariant=\"normal\">ext</mi></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mi mathvariant=\"normal\">f</mi></mrow></msub><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mi mathvariant=\"normal\">i</mi></mrow></msub></mrow></mfenced></mrow><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfrac></math><br /><math><mo>=</mo><mfrac><mrow><mo>-</mo><mn>3</mn><mo>(</mo><mn>2</mn><mo>-</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>300</mn></mrow></mfrac><mo>&#215;</mo><mn>101.3</mn></math><br /><math><mo>=</mo><mo>-</mo><mn>1.013</mn><mi mathvariant=\"normal\">&#160; J</mi><mo>/</mo><mi mathvariant=\"normal\">K</mi></math>",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a34f23ac7d519f9b24b",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>An ideal gas in a thermally insulated vessel at internal pressure = <math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>1</mn></mrow></msub></math> , volume = <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and absolute temperature = <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>1</mn></mrow></msub></math> expands irreversibly against zero external pressure, as shown in the diagram. The final internal pressure, volume and absolute temperature of the gas are <math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , respectively. For this expansion,<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image2-1ac2a0f3-ab7f-4534-9566-f76b23fbae75.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4Yvib",
+        "text": "<math><mi mathvariant=\"normal\">q</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "AsehV",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "Sbyc8",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "JkDRd",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn></mrow></msub><msubsup><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">γ</mi></mrow></msubsup><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>1</mn></mrow></msub><msubsup><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow><mrow><mi mathvariant=\"normal\">γ</mi></mrow></msubsup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Sbyc8",
+    "solution_text": "Since container is thermally insulated. So, q = 0, and it is a case of free expansion therefore W = 0 and <br > <math><mo>∆</mo><mi mathvariant=\"normal\">E</mi><mo>=</mo><mn>0</mn></math> <br >So,  <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  <br >Also,  <math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a2ef23ac7d519f9b217",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> A fixed mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi mathvariant=\"normal\">m</mi><mo>&#39;</mo></math> of a gas is subjected to transformation of states from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math> and back to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> as shown in the figure<br /><br><br /><br><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012647_Ques1_1..jpg\" style=\"width: 248px; height: 206px;\" /><br> <strong> Question : </strong>The pair of isochoric processes among the transformation of states is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pOP9j",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math>",
+        "image": null
+      },
+      {
+        "id": "rHFow",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>",
+        "image": null
+      },
+      {
+        "id": "obfu8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "x4Yp5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math>&nbsp;to&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "rHFow",
+    "solution_text": "<math> <mrow> <mtext>L</mtext> <mo>&#160;&#8594;&#160;</mo> <mtext>M</mtext> </mrow> </math> and <math> <mrow> <mtext>N</mtext> <mo>&#160;&#8594;&#160;</mo> <mtext>K</mtext> </mrow> </math>&nbsp;are isochoric processes at constant volume",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a2ef23ac7d519f9b216",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> A fixed mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#39;</mo><mi mathvariant=\"normal\">m</mi><mo>&#39;</mo></math> of a gas is subjected to transformation of states from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math> and back to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> as shown in the figure<br /><br><br /><br><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012647_Ques1_1..jpg\" style=\"width: 248px; height: 206px;\" /><br> <strong> Question : </strong>The succeeding operations that enable this transformation of states are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DgxEq",
+        "text": "Heating, cooling, heating, cooling",
+        "image": null
+      },
+      {
+        "id": "DoSlR",
+        "text": "Cooling, heating, cooling, heating",
+        "image": null
+      },
+      {
+        "id": "taFuI",
+        "text": "Heating, cooling, cooling, heating",
+        "image": null
+      },
+      {
+        "id": "UIIRB",
+        "text": "Cooling, heating, heating, cooling",
+        "image": null
+      }
+    ],
+    "correct_answer": "taFuI",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math> isobaric process, volume increases with increase in temperature i.e., Heating<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">L</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> isochoric process, pressures decreases with decrease in temperature i.e., cooling<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math> isobaric process, volume decreases with decrease in temp i.e., cooling<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">N</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math> isochoric process, pressures increases with increase in temperature i.e., heating",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a22f23ac7d519f9b1a4",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "The reversible expansion of an ideal gas under adiabatic and isothermal conditions is shown in the figure. Which of the following statement(s) is (are) correct?\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eo2Y8s7OU5kL5byObpI5g2PjgFs-pKTedMEUhZEyH5E.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PpwYm",
+        "text": "$T_{1}=T_{2}$",
+        "image": null
+      },
+      {
+        "id": "vVSBD",
+        "text": "$T_{3}>T_{1}$",
+        "image": null
+      },
+      {
+        "id": "SRqpk",
+        "text": "$w_{\\text {isothermal }}>w_{\\text {adiahatic }}$",
+        "image": null
+      },
+      {
+        "id": "h6LwO",
+        "text": "$\\Delta U_{\\text {isothermal }}>\\Delta U_{\\text {adiabatic }}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "h6LwO",
+    "solution_text": "$T_{1}=T_{2}$ because process is isothermal.\r\n\r\nWork done in adiabatic process is less than in isothermal process because area covered by isothermal curve is more than the area covered by the adiabatic curve.\r\n\r\nIn adiabatic process expansion occurs byusing internal energy, hence, it decreases while in isothermal process temperature remains constant, that's why no change in internal energy.",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a1bf23ac7d519f9b164",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "For an ideal gas, consider only P-V work in going from an initial state $\\mathrm{X}$ to the final state $\\mathrm{Z}$. The final state $\\mathrm{Z}$ can be reached by either of the two paths shown in the figure. Which of the following choice(s) is (are) correct?\r\n\r\n[Take $\\Delta \\mathrm{S}$ as change in entropy and w as work done].\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sUaDDrqK6xaVRvm7zYNxFwLWFJ_-V9oHMI5FoRk7u7Y.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0ZJoT",
+        "text": "$\\Delta \\mathrm{S}_{x \\rightarrow z}=\\Delta \\mathrm{S}_{x \\rightarrow y}+\\Delta \\mathrm{S}_{y \\rightarrow z}$",
+        "image": null
+      },
+      {
+        "id": "8hgao",
+        "text": "$\\mathrm{w}_{x \\rightarrow z}=\\mathrm{w}_{x \\rightarrow y}+\\mathrm{w}_{y \\rightarrow z}$",
+        "image": null
+      },
+      {
+        "id": "ujPjo",
+        "text": "$\\mathrm{w}_{x \\rightarrow y \\rightarrow z}=\\mathrm{w}_{x \\rightarrow y}$",
+        "image": null
+      },
+      {
+        "id": "4Jjiw",
+        "text": "$\\Delta \\mathrm{S}_{x \\rightarrow y \\rightarrow z}=\\Delta \\mathrm{S}_{x \\rightarrow y}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ujPjo",
+    "solution_text": "$\\Delta S_{X \\rightarrow Z}=\\Delta S_{X \\rightarrow Y}+\\Delta S_{Y \\rightarrow Z}$ [Entropy is a state function, hence additive]\r\n\r\n$w_{X \\rightarrow Y \\rightarrow Z}=w_{X \\rightarrow Y}$ [Work done in $Y \\rightarrow Z$ is zero because it is an isochoric process].",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b16a06f23ac7d519f9b0a7",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "One mole of an ideal gas is taken from $a$ to $b$ along two paths denoted by the solid and the dashed lines as shown in the graph below. If the work done along the solid line path is $W_s$ and that along the dotted line path is $W_d$, then the integer closest to the ratio $\\frac{W_d}{W_s}$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/v5OJsPNE5bM9jw0nhHQppgggg6_GeY4sEcPU19pQ4wg.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "Solid line represents reversible isothermal process.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sH7FLf3CnNk6SLizs2CpYGsL1ts_CnefDrRK8phgEt0.original.fullsize.png\"><br>\nSo, work $W_s=-4 \\times 0.5 \\ln \\left(\\frac{5.5}{0.5}\\right)=-2 \\ln 11 \\mathrm{~L}-\\mathrm{atm}$\nDotted line represents irreversible process\nSo, work\n$$\nW_d=-\\left\\{4 \\times 1.5+1 \\times 1+\\frac{2}{3} \\times 2.5\\right\\}=-\\left\\{6+1+\\frac{5}{3}\\right\\} \\mathrm{L}-\\mathrm{atm}=-\\frac{26}{3} \\mathrm{~L}-\\mathrm{atm}\n$$\nSo $\\quad \\frac{W_d}{W_s}=\\frac{26}{3 \\times 2 \\ln 11} \\approx 2$\nEnergetics\nConceptual\nIII",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "64b169c8f23ac7d519f9ae6b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A monoatomic ideal gas undergoes a process in which the ratio of $P$ to $V$ at any instant is constant and equals to 1 . What is the molar heat capacity of the gas?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7rt41",
+        "text": "\n$\\frac{4 R}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "5aJyY",
+        "text": "\n$\\frac{3 R}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "B6rhS",
+        "text": "\n$\\frac{5 R}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "zqoCl",
+        "text": "\n0",
+        "image": null
+      }
+    ],
+    "correct_answer": "7rt41",
+    "solution_text": "The molar heat capacity for any process is given by a following expression\n$C=C_V+\\frac{R}{1-\\gamma}$ when $p V^\\gamma=$ constant and $C_p / C_V=\\gamma$\nHere, $\\frac{p}{V}=1$ i.e., $p V^{-1}=$ constant\n$$\n\\therefore \\quad C=\\frac{3}{2} R+\\frac{R}{1-(-1)}=\\frac{3}{2} R+\\frac{R}{2}=\\frac{4}{2} R\n$$",
+    "solution_image": null,
+    "topic": "First Law and Basic Fundamentals of Thermodynamics"
+  },
+  {
+    "question_id": "6a0be51144d287c9361e5ca4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "List-I contains various physical/chemical processes, and List-II contains combinations of changes in enthalpy ($\\Delta H$) and entropy ($\\Delta S$). Match each entry in List-I to the appropriate entry in List-II, and choose the correct option.<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">List-I</th><th style=\"border: 1px solid black; padding: 10px;\">List-II</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(P) Physisorption</td><td style=\"border: 1px solid black; padding: 10px;\">(1) $\\Delta H > 0$ and $\\Delta S > 0$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(Q) Diamond $\\longrightarrow$ Graphite</td><td style=\"border: 1px solid black; padding: 10px;\">(2) $\\Delta H < 0$ and $\\Delta S < 0$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(R) Denaturation of protein</td><td style=\"border: 1px solid black; padding: 10px;\">(3) $\\Delta H < 0$ and $\\Delta S = 0$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(S) Propene $\\longrightarrow$ Cyclopropane</td><td style=\"border: 1px solid black; padding: 10px;\">(4) $\\Delta H > 0$ and $\\Delta S < 0$</td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\"></td><td style=\"border: 1px solid black; padding: 10px;\">(5) $\\Delta H < 0$ and $\\Delta S > 0$</td></tr></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bQ2Zw",
+        "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 3; R $\\rightarrow$ 5; S $\\rightarrow$ 4",
+        "image": null
+      },
+      {
+        "id": "3xf4G",
+        "text": "P $\\rightarrow$ 4; Q $\\rightarrow$ 3; R $\\rightarrow$ 5; S $\\rightarrow$ 1",
+        "image": null
+      },
+      {
+        "id": "uQshu",
+        "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 5; R $\\rightarrow$ 1; S $\\rightarrow$ 4",
+        "image": null
+      },
+      {
+        "id": "ZqpvF",
+        "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 5; R $\\rightarrow$ 1; S $\\rightarrow$ 3",
+        "image": null
+      }
+    ],
+    "correct_answer": "uQshu",
+    "solution_text": "(P) Physisorption is an exothermic process because attractive forces are formed between the adsorbate and the adsorbent, so $\\Delta H < 0$. The gas molecules are restricted on the solid surface, decreasing randomness, so $\\Delta S < 0$. This matches (2).<br><br>(Q) Diamond $\\longrightarrow$ Graphite is an exothermic process because graphite is the thermodynamically more stable allotrope of carbon at standard conditions ($\\Delta H < 0$). Graphite has a layered structure and is less dense, so it has higher entropy than the rigid 3D network of diamond ($\\Delta S > 0$). This matches (5).<br><br>(R) Denaturation of protein involves the breaking of hydrogen bonds and the unfolding of its specific 3D structure into a more random coil. Breaking these interactions requires energy ($\\Delta H > 0$) and the unfolding increases randomness ($\\Delta S > 0$). This matches (1).<br><br>(S) Propene $\\longrightarrow$ Cyclopropane is an endothermic process because cyclopropane has significant ring strain compared to the open-chain propene, making it less stable ($\\Delta H > 0$). The formation of a rigid ring restricts the degrees of freedom (such as rotation around single bonds), decreasing entropy ($\\Delta S < 0$). This matches (4).<br><br>Thus, P $\\rightarrow$ 2, Q $\\rightarrow$ 5, R $\\rightarrow$ 1, S $\\rightarrow$ 4.<br><br>Answer: P $\\rightarrow$ 2; Q $\\rightarrow$ 5; R $\\rightarrow$ 1; S $\\rightarrow$ 4",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "66965dc2d603121f43a3bb43",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Consider the following volume-temperature $(\\mathrm{V}-\\mathrm{T})$ diagram for the expansion of 5 moles of an ideal monoatomic gas.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nPZcpB7HUcvHWjGAM4o-muSdd4Zrh5Z3cyjpzQ6x1-I.original.fullsize.png\">\nConsidering only P-V work is involved, the total change in enthalpy (in Joule) for the transformation of state in the sequence $\\mathbf{X} \\rightarrow \\mathbf{Y} \\rightarrow \\mathbf{Z}$ is ________.\n[Use the given data: Molar heat capacity of the gas for the given temperature range, $\\mathrm{C}_{\\mathrm{V}, \\mathrm{m}}=12 \\mathrm{~J} \\mathrm{~K}^{-1}$ $\\mathrm{mol}^{-1}$ and gas constant, $\\left.\\mathrm{R}=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}\\right]$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 8120,
+    "solution_text": "For ideal gas\n$\\Delta \\mathrm{H}=\\mathrm{nC}_{\\mathrm{P}} \\Delta \\mathrm{T}$\n$\\because \\quad \\mathrm{C}_{\\mathrm{P}}=\\mathrm{C}_{\\mathrm{V}}+\\mathrm{R}=12+8.3=20.3 \\mathrm{~J} / \\mathrm{K}$-mole\n$\\therefore \\Delta H=5 \\times 20.3 \\times(415-335)$\n$\\Delta H=8120$ Joule",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b16aa9f23ac7d519f9b674",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>The entropy versus temperature plot for phases <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> bar pressure is given. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">T</mi></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">S</mi><mn>0</mn></msub></math>&nbsp;are entropies of the phases at temperatures <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>, respectively.</p>\n\n<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0e77b90b-182d-480f-bdcd-05844a779e2a.png\" style=\"width: 350px; height: 203px;\" /></p>\n\n<p>The transition temperature for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> phase change is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>600</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub><mo>-</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. Assume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub><mo>-</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub></mrow></mfenced></math> is independent of temperature in the range of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>700</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>.</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub></math> are heat capacities of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi></math> phases, respectively.</p>\n<br>The value of enthalpy change, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mi>&#946;</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">H</mi><mi>&#945;</mi></msub></math> (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Jmol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> ), at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "300",
+    "solution_text": "<blockquote><p>According to Kirchhoff&#39;s law&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;H</mi><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></msub><mo>-</mo><msub><mi>&#916;H</mi><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub></msub><mo>=</mo><mi mathvariant=\"normal\">n</mi><mo>&#215;</mo><mfenced><mrow><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub><mo>-</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub></mrow></mfenced><mo>(</mo><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub><mo>-</mo><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;H</mi><mn>600</mn></msub><mo>-</mo><msub><mi>&#916;H</mi><mn>300</mn></msub><mo>=</mo><mn>1</mn><mo>&#215;</mo><mfenced><mrow><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#946;</mi></mrow></msub><mo>-</mo><msub><mi mathvariant=\"normal\">C</mi><mrow><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi mathvariant=\"normal\">&#945;</mi></mrow></msub></mrow></mfenced><mo>(</mo><mn>600</mn><mo>-</mo><mn>300</mn><mo>)</mo></math></p><p>Now, at transition temperature,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi mathvariant=\"normal\">G</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;H</mi><mn>600</mn></msub><mo>=</mo><msub><mi>T&#916;S</mi><mn>600</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>600</mn><mo>&#215;</mo><mo>(</mo><mn>6</mn><mo>-</mo><mn>5</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>600</mn><mo>-</mo><msub><mi>&#916;H</mi><mn>300</mn></msub><mo>=</mo><mn>1</mn><mo>&#215;</mo><mn>1</mn><mo>&#215;</mo><mn>300</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;H</mi><mn>300</mn></msub><mo>=</mo><mn>600</mn><mo>-</mo><mn>300</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b16a96f23ac7d519f9b5c6",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#160;</mo><mi>mol</mi></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Hg</mi><mfenced><mi mathvariant=\"normal\">g</mi></mfenced></math> is combusted in a fixed volume bomb calorimeter with excess of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>atm</mi></math> into <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math>. During the reaction, temperature increases from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>312</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>. If heat capacity of the bomb calorimeter and enthalpy of formation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Hg</mi><mfenced><mi mathvariant=\"normal\">g</mi></mfenced></math> are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>.</mo><mn>00</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>61</mn><mo>.</mo><mn>32</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>, respectively, the&nbsp;calculated standard molar enthalpy of formation of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">X</mi><mo>&#160;</mo><msup><mi>kJmol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mi mathvariant=\"normal\">X</mi></mfenced></math> is___[Given: Gas constant&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>]",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "90.39",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>Hg</mi><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>+</mo><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mo>&#10230;</mo><mn>2</mn><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math></p><p>Heat capacity of calorimeter&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>20</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>Rise in temperature&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>14</mn><mo>.</mo><mn>8</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></p><p>Heat evolved&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>20</mn><mo>&#215;</mo><mn>14</mn><mo>.</mo><mn>8</mn><mo>=</mo><mn>296</mn><mo>&#160;</mo><mi>kJ</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;H</mi><mo>&#176;</mo><mo>=</mo><mi>&#916;U</mi><mo>&#176;</mo><mo>+</mo><msub><mi>&#916;n</mi><mi mathvariant=\"normal\">g</mi></msub><mi>RT</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>296</mn><mo>-</mo><mn>3</mn><mo>&#215;</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>&#215;</mo><mn>298</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>303</mn><mo>.</mo><mn>42</mn><mo>&#160;</mo><mi>kJ</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;H</mi><mo>&#176;</mo><mo>=</mo><mn>2</mn><msub><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi></msub><mo>&#176;</mo><mfenced><mrow><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mrow></mfenced><mo>-</mo><mn>2</mn><msub><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi></msub><mo>&#176;</mo><mfenced><mrow><mi>Hg</mi><mfenced><mi mathvariant=\"normal\">g</mi></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>303</mn><mo>.</mo><mn>42</mn><mo>=</mo><mn>2</mn><msub><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi></msub><mo>&#176;</mo><mfenced><mrow><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mrow></mfenced><mo>-</mo><mn>2</mn><mo>&#215;</mo><mn>61</mn><mo>.</mo><mn>32</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi></msub><mo>&#176;</mo><mfenced><mrow><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mrow></mfenced><mo>=</mo><mo>-</mo><mn>180</mn><mo>.</mo><mn>78</mn><mo>&#160;</mo><mi>kJ</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mrow><msub><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi></msub><mo>&#176;</mo><mfenced><mrow><mi>HgO</mi><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>90</mn><mo>.</mo><mn>39</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b52e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>Tin is obtained from cassiterite by reduction with coke. Use the data given below to determine the minimum temperature (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">K</mi></math>) at which the reduction of cassiterite by coke would take place.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>:</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">f</mi></msub><msup><mi mathvariant=\"normal\">H</mi><mn>0</mn></msup><mfenced><mrow><msub><mi>SnO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo></mrow></mfenced><mo>=</mo><mo>-</mo><mn>581</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">f</mi></msub><msup><mi mathvariant=\"normal\">H</mi><mn>0</mn></msup><mfenced><mrow><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></mrow></mfenced><mo>=</mo><mo>-</mo><mn>394</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mfenced><mrow><msub><mo>SnO</mo><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo></mrow></mfenced><mo>=</mo><mn>56</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><msup><mi>JK</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo><mo>&#160;</mo><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mo>(</mo><mi>Sn</mi><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>)</mo><mo>=</mo><mn>52</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><msup><mi>JK</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>)</mo><mo>=</mo><mn>6</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><msup><mi>JK</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo><mo>&#160;</mo><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mfenced><mrow><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></mrow></mfenced><mo>=</mo><mn>210</mn><mo>.</mo><mn>0</mn><mo>&#160;</mo><msup><mi>JK</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>Assume that the enthalpies and the entropies are temperature independent.</p><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "935",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mtext>SnO</mtext><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>+</mo><mtext>C</mtext><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>&#8594;</mo><mtext>Sn</mtext><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>+</mo><msub><mtext>CO</mtext><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;H</mi><mi>rxn</mi><mn>0</mn></msubsup><mo>=</mo><msubsup><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi><mn>0</mn></msubsup><mfenced><mrow><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></mrow></mfenced><mo>-</mo><msubsup><mi>&#916;H</mi><mi mathvariant=\"normal\">f</mi><mn>0</mn></msubsup><mfenced><mrow><msub><mi>SnO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>394</mn><mo>.</mo><mn>0</mn><mo>-</mo><mo>[</mo><mo>-</mo><mn>581</mn><mo>.</mo><mn>0</mn><mo>]</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>187</mn><mo>&#160;</mo><mi>KJ</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;S</mi><mi>rxn</mi><mn>0</mn></msubsup><mo>=</mo><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mo>(</mo><mi>Sn</mi><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>)</mo><mo>+</mo><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mfenced><mrow><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></mrow></mfenced><mo>-</mo><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mfenced close=\"\"><mrow><msub><mi>SnO</mi><mn>2</mn></msub><mo>,</mo><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>-</mo><msup><mi mathvariant=\"normal\">S</mi><mn>0</mn></msup><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>)</mo></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>52</mn><mo>+</mo><mn>210</mn><mo>-</mo><mn>56</mn><mo>-</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>200</mn><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;G</mi><mo>&#8728;</mo></msup><mo>=</mo><msup><mi>&#916;H</mi><mo>&#8728;</mo></msup><mo>-</mo><msup><mi>T&#916;S</mi><mo>&#8728;</mo></msup></math></p><p>For reaction to be spontaneous</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;G</mi><mo>&#8728;</mo></msup><mo>&#60;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;H</mi><mo>&#8728;</mo></msup><mo>-</mo><msup><mi>T&#916;S</mi><mo>&#8728;</mo></msup><mo>&#60;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>187</mn><mo>&#215;</mo><mn>1000</mn><mo>-</mo><mi mathvariant=\"normal\">T</mi><mo>&#215;</mo><mn>200</mn><mo>&#60;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>&#62;</mo><mn>935</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math></p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b16a73f23ac7d519f9b487",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Choose the reaction(s) from the following options, for which the standard enthalpy of reaction is equal to the standard enthalpy of formation.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pGoLK",
+        "text": "<math><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "1sdw8",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>8</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">s</mi></mrow></mfenced><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>→</mo><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "Go9Sr",
+        "text": "<math><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>→</mo><mn>2</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">l</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "Tgcpg",
+        "text": "<math><mn>2</mn><mi mathvariant=\"normal\">C</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>+</mo><mn>3</mn><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced><mo>→</mo><msub><mrow><mi mathvariant=\"normal\">C</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mn>6</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "1sdw8",
+    "solution_text": "Standard enthalpy formation of a compound is the amount of enthalpy charge involved when one mole of a compound is formed from the reactants present in their elementary form,",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b16a28f23ac7d519f9b1da",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "The standard enthalpies of formation of&nbsp;<math><mi>C</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>(</mo><mi>g</mi><mo>)</mo></math>&nbsp;<math><mrow><msub><mtext>, H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext mathvariant=\"italic\">l</mtext> </mrow> </mfenced> </mrow> </math> and glucose (s) at <math> <mrow> <mn>2</mn> <msup> <mn>5</mn> <mtext>o</mtext> </msup> <mo>C</mo> </mrow> </math> are&nbsp;<math> <mrow> <mo>-</mo> <mtext>400 kJ</mtext> <mo>/</mo> <mtext>mol</mtext> </mrow> </math>, <math> <mrow> <mo>-</mo> <mtext>300 kJ</mtext> <mo>/</mo> <mtext>mol</mtext> </mrow> </math> and <math> <mrow> <mo>-</mo> <mtext>1300 kJ</mtext> <mo>/</mo> <mtext>mol</mtext> </mrow> </math>, respectively. The standard enthalpy combustion per gram of glucose at <math> <mrow> <mn>2</mn> <msup> <mn>5</mn> <mtext>o</mtext> </msup> <mo>C</mo> </mrow> </math> is&nbsp;<math> <mrow> <mrow><mo>(</mo> <mrow> <mi>&#916;</mi><msubsup> <mi>H</mi> <mi>f</mi> <mn>0</mn> </msubsup> <mo>=</mo><mo>&#8722;</mo><mn>1300</mn><mtext>&#8201;</mtext><mi>k</mi><mi>J</mi><mtext>&#8201;</mtext><mi>m</mi><mi>o</mi><msup> <mi>l</mi> <mo>&#8722;</mo> </msup> <mtext>&#8201;</mtext><mi>f</mi><mi>o</mi><mi>r</mi><mtext>&#8201;</mtext><mtext>glucose</mtext> </mrow> <mo>)</mo></mrow> </mrow> </math>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "e2uXU",
+        "text": "<math> <mrow> <mo>+</mo> <mtext>2900 kJ</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "Pl9ET",
+        "text": "<math> <mrow> <mo>-</mo> <mtext>2900 kJ</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "CuOsH",
+        "text": "<math> <mrow> <mo>-</mo> <mtext>16.11 kJ</mtext> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "LaJmZ",
+        "text": "<math> <mrow> <mo>+</mo> <mtext>16.11 kJ</mtext> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "CuOsH",
+    "solution_text": "<p>Heat of combustion : It is the amount of heat evolved or absorbed (i.e. change in enthalpy) when one mole of the substance is completely burnt in air or oxygen.</p><p>Standard enthalpy of combustion of glucose reaction is given as<br />​<math> <mrow> <msub> <mtext>C</mtext> <mn>6</mn> </msub> <msub> <mtext>H</mtext> <mrow> <mn>1</mn> <mn>2</mn> </mrow> </msub> <msub> <mtext>O</mtext> <mrow> <mn>6</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>s</mtext> </mrow> </mfenced> </mrow> </msub> <mo>+</mo> <mn>6</mn> <msub> <mtext>O</mtext> <mrow> <mn>2</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>g</mtext> </mrow> </mfenced> </mrow> </msub> <mo>&#8594;</mo> <mn>6</mn> <msub> <mtext>CO</mtext> <mrow> <mn>2</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>g</mtext> </mrow> </mfenced> </mrow> </msub> <mo>+</mo> <mn>6</mn> <msub> <mtext>H</mtext> <mn>2</mn> </msub> <mtext>O</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext mathvariant=\"italic\">l</mtext> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <msubsup> <mtext>H</mtext> <mtext>C</mtext> <mtext>o</mtext> </msubsup> <mo>=</mo> <msub> <mi>&#931;</mi> <mtext>Product</mtext> </msub> <mo>&#916;</mo> <msubsup> <mtext>H</mtext> <mtext>f</mtext> <mtext>o</mtext> </msubsup> <mo>-</mo> <msub> <mi>&#931;</mi> <mtext>Reactant</mtext> </msub> <mo>&#916;</mo> <msubsup> <mtext>H</mtext> <mtext>f</mtext> <mtext>o</mtext> </msubsup> </mrow> </math><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <math> <mrow> <mo>=</mo> <msub> <mrow> <mfenced close=\"}\" open=\"{\" separators=\",\"> <mrow> <mn>6</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>4</mn> <mn>0</mn> <mn>0</mn> </mrow> </mfenced> <mo>+</mo> <mn>6</mn> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>-</mo> <mn>3</mn> <mn>0</mn> <mn>0</mn> </mrow> </mfenced> </mrow> </mfenced> </mrow> <mtext>Product</mtext> </msub> <mo>-</mo> <msub> <mrow> <mfenced close=\"}\" open=\"{\" separators=\",\"> <mrow> <mo>-</mo> <mn>1</mn> <mn>3</mn> <mn>0</mn> <mn>0</mn> <mo>&#215;</mo> <mn>1</mn> <mo>+</mo> <mn>6</mn> <mo>&#215;</mo> <mn>0</mn> </mrow> </mfenced> </mrow> <mtext>Reactant</mtext> </msub> </mrow> </math><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mn>2</mn><mn>4</mn><mn>0</mn><mn>0</mn><mo>-</mo><mn>1</mn><mn>8</mn><mn>0</mn><mn>0</mn><mo>+</mo><mn>1</mn><mn>3</mn><mn>0</mn><mn>0</mn><mo>=</mo><mo>-</mo><msup><mtext>2900 kJ mole</mtext><mn>-1</mn></msup></math><br />Molecular mass of glucose <math> <mrow> <mo>=</mo> <mn>7</mn> <mn>2</mn> <mo>+</mo> <mn>1</mn> <mn>2</mn> <mo>+</mo> <mn>9</mn> <mn>6</mn> <mo>=</mo> <mtext>180 g</mtext> <mo>/</mo> <mtext>mole</mtext> </mrow> </math><br /><math> <mrow> <mo>&#916;</mo> <msubsup> <mtext>H</mtext> <mtext>C</mtext> <mtext>o</mtext> </msubsup> <mo>/</mo> <mtext>gram of glucose</mtext> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mn>2</mn> <mn>9</mn> <mn>0</mn> <mn>0</mn> </mrow> <mrow> <mn>1</mn> <mn>8</mn> <mn>0</mn> </mrow> </mfrac> <mo>=</mo> <mo>-</mo> <mtext>16.11 kJ</mtext> <mo>/</mo> <mtext>g</mtext> </mrow> </math>.</p>",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b16a21f23ac7d519f9b19d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Using the data provided, calculate the multiple bond energy $\\left(\\mathrm{kJ} \\mathrm{mol}^{-1}\\right)$ of a $\\mathrm{C} \\equiv \\mathrm{C}$ bond in $\\mathrm{C}_{2} \\mathrm{H}_{2}$. That energy is (take the bond energy of a $\\mathrm{C}-\\mathrm{H}$ bond as $350 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ ) $2 \\mathrm{C}(\\mathrm{s})+\\mathrm{H}_{2}(\\mathrm{~g}) \\longrightarrow \\mathrm{HC}=\\mathrm{CH}(\\mathrm{g}) ; \\Delta \\mathrm{H}=225 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ $2 \\mathrm{C}(\\mathrm{s}) \\longrightarrow 2 \\mathrm{C}(\\mathrm{g}) ; \\Delta \\mathrm{H}=1410 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ $\\mathrm{H}_{2}(\\mathrm{~g}) \\longrightarrow 2 \\mathrm{H}(\\mathrm{g}) ; \\Delta \\mathrm{H}=330 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wi3Ow",
+        "text": "1165",
+        "image": null
+      },
+      {
+        "id": "TvAyq",
+        "text": "837",
+        "image": null
+      },
+      {
+        "id": "Q1vdC",
+        "text": "865",
+        "image": null
+      },
+      {
+        "id": "xcjQw",
+        "text": "815",
+        "image": null
+      }
+    ],
+    "correct_answer": "xcjQw",
+    "solution_text": "(i) $2 \\mathrm{C}(\\mathrm{s})+\\mathrm{H}_{2}(\\mathrm{~g}) \\longrightarrow \\mathrm{H}-\\mathrm{C} \\equiv \\mathrm{C}-\\mathrm{H}(\\mathrm{g})$\r\n\r\n$\\Delta \\mathrm{H}=225 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\r\n\r\n(ii) $2 \\mathrm{C}(\\mathrm{s}) \\longrightarrow 2 \\mathrm{C}(\\mathrm{g}) \\Delta \\mathrm{H}=1410 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\r\n\r\n(iii) $\\mathrm{H}_{2}$ (g) $\\longrightarrow 2 \\mathrm{H}$ (g) $\\Delta \\mathrm{H}=330 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\r\n\r\nFrom equation (i) :\r\n\r\n$\\begin{array}{l}\r\n\r\n225=\\left[2 \\times \\Delta \\mathrm{H}_{\\mathrm{C}(\\mathrm{s}) \\longrightarrow \\mathrm{C}(\\mathrm{g})}+1 \\times \\mathrm{BE}_{\\mathrm{H}-\\mathrm{H}}\\right] \\\\\r\n\r\n-\\left[2 \\times \\mathrm{BE}_{\\mathrm{C}-\\mathrm{H}}+1 \\times \\mathrm{BE}_{\\mathrm{C} \\equiv \\mathrm{C}}\\right] \\\\\r\n\r\n225=[1410+1 \\times 330]-\\left[2 \\times 350+1 \\times \\mathrm{BE}_{\\mathrm{C} \\equiv \\mathrm{C}}\\right] \\\\\r\n\r\n225=[1410+330]-\\left[700+\\mathrm{BE}_{\\mathrm{C} \\equiv \\mathrm{C}}\\right] \\\\\r\n\r\n225=1740-700-\\mathrm{BE}_{\\mathrm{C} \\equiv \\mathrm{C}} \\\\\r\n\r\n\\mathrm{BE}_{\\mathrm{C} \\equiv \\mathrm{C}}=815 \\mathrm{~kJ} \\mathrm{~mol}^{-1}\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b169fef23ac7d519f9b059",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The species which by definition has zero standard molar enthalpy of formation at $298 \\mathrm{~K}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fKsXf",
+        "text": "\n$\\mathrm{Br}_2(g)$\n",
+        "image": null
+      },
+      {
+        "id": "SNwo4",
+        "text": "\n$\\mathrm{Cl}_2(g)$\n",
+        "image": null
+      },
+      {
+        "id": "dHiBQ",
+        "text": "\n$\\mathrm{H}_2 \\mathrm{O}(g)$\n",
+        "image": null
+      },
+      {
+        "id": "RX86a",
+        "text": "\n$\\mathrm{CH}_4(g)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "SNwo4",
+    "solution_text": "$\\Delta H_f^{\\circ}\\left(\\mathrm{Cl}_2, g\\right)=0$\n$\\Delta H_f^{\\circ}$ of elements in their standard state is taken to be zero. $\\mathrm{Cl}_2$ is gas, $\\mathrm{Br}_2$ is liquid and $\\mathrm{I}_2$ is solid at room temperature.\nEnergetics\nConceptual, implication of rules/laws III",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b169cbf23ac7d519f9ae89",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "For the reaction, $2 \\mathrm{CO}+\\mathrm{O}_2 \\rightarrow 2 \\mathrm{CO}_2 ; \\Delta H=-560 \\mathrm{~kJ}$. Two moles of $\\mathrm{CO}$ and one mole of $\\mathrm{O}_2$ are taken in a container of volume $1 \\mathrm{~L}$. They completely form two moles of $\\mathrm{CO}_2$, the gases deviate appreciably from ideal behaviour. If the pressure in the vessel changes from 70 to $40 \\mathrm{~atm}$, find the magnitude (absolute value) of $\\Delta U$ at $500 \\mathrm{~K} .(1 \\mathrm{~L}-\\mathrm{atm}=0.1 \\mathrm{~kJ})$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "-557",
+    "solution_text": "$\\because$\n$$\n\\begin{array}{ll}\n\\because & \\Delta H=\\Delta U+\\Delta(P V) \\\\\n\\text { or } & \\Delta H=\\Delta U+V \\Delta P \\\\\n\\text { or } & \\Delta U=\\Delta H-V \\Delta P\n\\end{array}\n$$\nGiven that, $\\Delta H=-560 \\mathrm{~kJ}$\n$$\n\\Delta P=40-70=-30 \\mathrm{~atm}\n$$\n\n$$\n\\begin{array}{rlrl} \n& \\therefore & V \\Delta P & =1 \\mathrm{~L} \\times-30 \\mathrm{~atm}=-30 \\mathrm{~L} \\text { atom } \\\\\n& & 1 \\mathrm{~L} \\text {-atom } & =0.1 \\mathrm{~kJ} \\\\\n\\therefore & V \\Delta P & =-30 \\times 0.1 \\mathrm{~kJ} \\\\\n\\therefore & \\Delta U & =-560-(-30 \\times 0.1)=-557 \\mathrm{~kJ}\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Laws of Thermochemistry and Enthalpy Change"
+  },
+  {
+    "question_id": "64b169fef23ac7d519f9b05c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Among the following, intensive property is (properties are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6KpN3",
+        "text": "\nmolar conductivity\n",
+        "image": null
+      },
+      {
+        "id": "yhDMr",
+        "text": "\nelectromotive force\n",
+        "image": null
+      },
+      {
+        "id": "9ujSK",
+        "text": "\nresistance\n",
+        "image": null
+      },
+      {
+        "id": "tTpJ0",
+        "text": "\nheat capacity",
+        "image": null
+      }
+    ],
+    "correct_answer": "yhDMr",
+    "solution_text": "Intensive property is one whose magnitude does not depend on the mass of the substance. Opposite to that is extensive property.\nEnergetics\nConceptual, concept analysis\nIII",
+    "solution_image": null,
+    "topic": "System and surrounding"
+  },
+  {
+    "question_id": "64b169f7f23ac7d519f9b01a",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Among the following, the state function(s) is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "b6JcM",
+        "text": "\ninternal energy\n",
+        "image": null
+      },
+      {
+        "id": "uDW8g",
+        "text": "\nirreversible expansion work\n",
+        "image": null
+      },
+      {
+        "id": "i5RSV",
+        "text": "\nreversible expansion work\n",
+        "image": null
+      },
+      {
+        "id": "EecFm",
+        "text": "\nmolar enthalpy",
+        "image": null
+      }
+    ],
+    "correct_answer": "EecFm",
+    "solution_text": "State function are internal energy and molar enthalpy. Work is a path dependent function, however in reversible process the path is fixed i.e. between a given initial and final state there is just on reversible path and one work. Hence, reversible work is also a state function.",
+    "solution_image": null,
+    "topic": "System and surrounding"
+  },
+  {
+    "question_id": "64b16aa3f23ac7d519f9b63c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>In a one-litre flask, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math> moles of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi></math> undergoes the reaction <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">A</mi><mo>(</mo><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>&#8652;</mo><mi mathvariant=\"normal\">P</mi><mo>(</mo><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math>. The progress of product formation at two temperatures (in Kelvin), <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></math>, is shown in the figure:</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a9e9640a-d829-4a90-80f6-9b5af5a40c0f.png\" style=\"width: 287px; height: 175px;\" /></p><p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></math> and<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msubsup><mi>&#916;G</mi><mn>2</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>-</mo><msubsup><mi>&#916;G</mi><mn>1</mn><mi mathvariant=\"normal\">o</mi></msubsup></mrow></mfenced><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>lnx</mi></math> , then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi></math> is<br />[ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;G</mi><mn>1</mn><mi mathvariant=\"normal\">o</mi></msubsup></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;G</mi><mn>2</mn><mi mathvariant=\"normal\">o</mi></msubsup></math> are standard Gibb&#39;s free energy change for the reaction at temperatures <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></math>, respectively.]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<blockquote><p>The equilibrium moles can be calculated as follows,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mover><mo>&#8652;</mo><mrow></mrow></mover><mi mathvariant=\"normal\">P</mi><mfenced><mi mathvariant=\"normal\">g</mi></mfenced><mspace linebreak=\"newline\"></mspace><mi>initial</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>6</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mi>At</mi><mo>&#160;</mo><mi>equilibrium</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>6</mn><mo>-</mo><mi mathvariant=\"normal\">y</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">y</mi></math></p><p>at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>4</mn><mo>&#160;&#160;</mo></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; at&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub><mo>&#160;&#160;</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><msub><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub></mfenced><mn>1</mn></msub><mo>=</mo><mfrac><mn>4</mn><mn>2</mn></mfrac><mo>=</mo><mn>2</mn><mo>&#160;&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8756;</mo><msub><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub></mfenced><mn>2</mn></msub><mo>=</mo><mfrac><mn>2</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>The relation between Gibbs free energy and equilibrium constant,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mo>-</mo><msub><mi>nRTlnK</mi><mi>eq</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;G</mi><mn>1</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mo>-</mo><msub><mi>RT</mi><mn>1</mn></msub><mi>ln</mi><msub><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub></mfenced><mn>1</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;G</mi><mn>1</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mo>-</mo><mn>2</mn><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><msub><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub></mfenced><mn>1</mn></msub></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Given: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">T</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><msub><mi mathvariant=\"normal\">T</mi><mn>2</mn></msub></math>]</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mi>&#916;G</mi><mn>2</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mo>-</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><msub><mfenced><msub><mi mathvariant=\"normal\">K</mi><mi>eq</mi></msub></mfenced><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><msubsup><mi>&#916;G</mi><mn>2</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>-</mo><msubsup><mi>&#916;G</mi><mn>1</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mfrac><msup><mfenced><msub><mi mathvariant=\"normal\">K</mi><msub><mi>eq</mi><mn>1</mn></msub></msub></mfenced><mn>2</mn></msup><mfenced><msub><mi mathvariant=\"normal\">K</mi><msub><mi>eq</mi><mn>2</mn></msub></msub></mfenced></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mfrac><msup><mn>2</mn><mn>2</mn></msup><mfrac><mn>1</mn><mn>2</mn></mfrac></mfrac><mo>=</mo><msub><mi>RT</mi><mn>2</mn></msub><mi>ln</mi><mn>8</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><msubsup><mi>&#916;G</mi><mn>2</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>-</mo><msubsup><mi>&#916;G</mi><mn>1</mn><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mi>RTlnx</mi></math>&nbsp; has&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>8</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a8af23ac7d519f9b55c",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "For the reaction, $\\mathbf{X}(s) \\rightleftharpoons \\mathbf{Y}(s)+\\mathbf{Z}(g)$, the plot of $\\ln \\frac{p_{\\mathbf{Z}}}{p^{\\theta}}$ versus $\\frac{10^{4}}{T}$ is given below (in solid line), where $p_{\\mathbf{Z}}$ is the pressure (in bar) of the gas $\\mathbf{Z}$ at temperature $T$ and $p^{\\theta}=1$ bar.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/O3KPX_MwSVyabCGPvfrP2UF_XRyrV8G6SZztjXaUK-4.original.fullsize.png\"><br>(Given, $\\frac{\\mathrm{d}(\\ln K)}{\\mathrm{d}\\left(\\frac{1}{T}\\right)}=-\\frac{\\Delta H^{\\theta}}{R}$, where the equilibrium constant, $K=\\frac{p_{z}}{p^{\\theta}}$ and the gas constant, $\\mathrm{R}=8.314 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ )<br><p>The value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">o</mi></msup></math>&nbsp;(in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>)&nbsp;for the given reaction, at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is ___.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "141.34",
+    "solution_text": "According to graph when&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>=</mo><mn>1000</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mn>10</mn><mn>4</mn></msup><mi mathvariant=\"normal\">T</mi></mfrac><mo>=</mo><mn>10</mn></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub><msup><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">&#981;</mi></msup></mfrac><mo>=</mo><mo>&#8722;</mo><mn>3</mn></math><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><msup><mi>&#916;H</mi><mi mathvariant=\"normal\">o</mi></msup><mo>&#8722;</mo><mi mathvariant=\"normal\">T</mi><mo>&#160;</mo><msup><mi>&#916;S</mi><mi mathvariant=\"normal\">o</mi></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo><mi>RT</mi><mo>&#160;</mo><msub><mi>lnK</mi><mi mathvariant=\"normal\">p</mi></msub><mo>=</mo><msup><mi>&#916;H</mi><mi mathvariant=\"normal\">o</mi></msup><mo>&#8722;</mo><mi mathvariant=\"normal\">T</mi><mo>&#160;</mo><msup><mi>&#916;S</mi><mi mathvariant=\"normal\">o</mi></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>&#160;</mo><mi>ln</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">p</mi></msub><mo>=</mo><msup><mi>&#916;S</mi><mi mathvariant=\"normal\">o</mi></msup><mo>&#8722;</mo><mfrac><msup><mi>&#916;H</mi><mi mathvariant=\"normal\">o</mi></msup><mi mathvariant=\"normal\">T</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;S</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><msub><mi>RlnK</mi><mi mathvariant=\"normal\">p</mi></msub><mo>+</mo><mfrac><msup><mi>&#916;H</mi><mi mathvariant=\"normal\">o</mi></msup><mi mathvariant=\"normal\">T</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>lnK</mi><mi mathvariant=\"normal\">p</mi></msub><mo>=</mo><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub><msup><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">&#981;</mi></msup></mfrac><mo>=</mo><mo>&#8722;</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;S</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mo>&#8722;</mo><mn>3</mn><mi mathvariant=\"normal\">R</mi><mo>+</mo><mfrac><mrow><mn>166</mn><mo>.28</mo><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mi mathvariant=\"normal\">J</mi></mrow><mn>1000</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>166</mn><mo>.28</mo><mo>&#8722;</mo><mn>3</mn><mo>&#215;</mo><mn>8</mn><mo>.314</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;S</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mn>141</mn><mo>.34</mo></math></p>",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a8af23ac7d519f9b55b",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "For the reaction, $\\mathbf{X}(s) \\rightleftharpoons \\mathbf{Y}(s)+\\mathbf{Z}(g)$, the plot of $\\ln \\frac{p_{\\mathbf{Z}}}{p^{\\theta}}$ versus $\\frac{10^{4}}{T}$ is given below (in solid line), where $p_{\\mathbf{Z}}$ is the pressure (in bar) of the gas $\\mathbf{Z}$ at temperature $T$ and $p^{\\theta}=1$ bar.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/O3KPX_MwSVyabCGPvfrP2UF_XRyrV8G6SZztjXaUK-4.original.fullsize.png\"><br>(Given, $\\frac{\\mathrm{d}(\\ln K)}{\\mathrm{d}\\left(\\frac{1}{T}\\right)}=-\\frac{\\Delta H^{\\theta}}{R}$, where the equilibrium constant, $K=\\frac{p_{z}}{p^{\\theta}}$ and the gas constant, $\\mathrm{R}=8.314 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ )<br><p>The value of standard enthalpy,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><msup><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">o</mi></msup></math>&nbsp;(in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>kJ</mi><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>)&nbsp;for the given reaction is ___.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "166.28",
+    "solution_text": "Slop&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">g</mi></math>&nbsp;the Given graph<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mo>&#160;</mo><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub><msup><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">&#981;</mi></msup></mfrac></mrow><mrow><mi mathvariant=\"normal\">d</mi><mo>&#160;</mo><mfenced><mfrac><msup><mn>10</mn><mn>4</mn></msup><mi mathvariant=\"normal\">T</mi></mfrac></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>&#8722;</mo><mn>7</mn><mo>+</mo><mn>3</mn></mrow><mrow><mn>12</mn><mo>&#8722;</mo><mn>10</mn></mrow></mfrac><mo>=</mo><mo>&#8722;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">d</mi><mo>&#160;</mo><mi>ln</mi><mfrac><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub><msup><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">&#981;</mi></msup></mfrac></mrow><mrow><mi mathvariant=\"normal\">d</mi><mfrac><mn>1</mn><mi mathvariant=\"normal\">T</mi></mfrac></mrow></mfrac><mo>&#8722;</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mn>4</mn></msup><mo>=</mo><mo>&#8722;</mo><mfrac><msup><mi>&#916;H</mi><mi mathvariant=\"normal\">o</mi></msup><mi mathvariant=\"normal\">R</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#916;H</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mn>4</mn></msup><mo>&#215;</mo><mi mathvariant=\"normal\">R</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>&#215;</mo><mn>8</mn><mo>.314</mo><mo>&#215;</mo><mn>10</mn><mo>&#160;</mo><mi>kJ</mi><mo>/</mo><mi>mol</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>166</mn><mo>.</mo><mn>28</mn></math></p>",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a6df23ac7d519f9b451",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "The surface of copper gets tarnished by the formation of copper oxide. <math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> gas was passed to prevent the oxide formation during heating of copper at 1250 K. However, the <math><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math> gas contains 1 mole % of water vapour as impurity. The water vapour oxidises copper as per the reaction given below:\r\n\r\n\r\n\r\n<math><mn>2</mn><mi>C</mi><mi>u</mi><mfenced separators=\"|\"><mrow><mi>s</mi></mrow></mfenced><mo>+</mo><mi>&nbsp;</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>→</mo><mi>&nbsp;</mi><mi>C</mi><msub><mrow><mi>u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mo>(</mo><mi>s</mi><mo>)</mo><mi>&nbsp;</mi><mo>+</mo><mi>&nbsp;</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>(</mo><mi>g</mi><mo>)</mo></math>\r\n\r\n\r\n\r\n<math><msub><mrow><mi>P</mi></mrow><mrow><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></msub></math> Is the minimum partial pressure of <math><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub></math> (in bar) needed to prevent the oxidation at 1250 K. The value of <math><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mi>p</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></mrow></mrow></math> is ____.\r\n\r\n\r\n\r\n(Given: total pressure = 1 bar, R (universal gas constant) <math><mo>=</mo><mi>&nbsp;</mi><mn>8</mn><mi>&nbsp;</mi><mi>J</mi><mi>&nbsp;</mi><msup><mrow><mi>K</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>&nbsp;</mi><mi>m</mi><mi>o</mi><msup><mrow><mi>l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mn>10</mn></mrow></mfenced></mrow></mrow><mi>&nbsp;</mi><mo>=</mo><mi>&nbsp;</mi><mn>2.3</mn><mo>.</mo><mi>&nbsp;</mi><mi>C</mi><mi>u</mi><mo>(</mo><mi>s</mi><mo>)</mo><mi>&nbsp;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&nbsp;</mi><mi>C</mi><msub><mrow><mi>u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mo>(</mo><mi>s</mi><mo>)</mo><mi>&nbsp;</mi></math> are mutually immiscible.\r\n\r\n\r\n\r\nAt <math><mn>1250</mn><mi>&nbsp;</mi><mi>K</mi><mo>:</mo><mi>&nbsp;</mi><mn>2</mn><mi>C</mi><mi>u</mi><mfenced separators=\"|\"><mrow><mi>s</mi></mrow></mfenced><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>&nbsp;</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>→</mo><mi>&nbsp;</mi><mi>C</mi><msub><mrow><mi>u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mo>(</mo><mi>s</mi><mo>)</mo><mo>;</mo><mi>&nbsp;</mi><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mo>⊝</mo></mrow></msup><mi>&nbsp;</mi><mo>=</mo><mi>&nbsp;</mi><mo>-</mo><mi>&nbsp;</mi><mn>78,000</mn><mi>&nbsp;</mi><mi>J</mi><mi>&nbsp;</mi><mi>m</mi><mi>o</mi><msup><mrow><mi>l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>\r\n\r\n\r\n\r\n<math><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>→</mo><mi>&nbsp;</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mo>(</mo><mi>g</mi><mo>)</mo><mo>;</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><msup><mrow><mo>∆</mo></mrow><mrow><mo>⊝</mo></mrow></msup><mi>&nbsp;</mi><mo>=</mo><mi>&nbsp;</mi><mo>-</mo><mi>&nbsp;</mi><mn>1,78,000</mn><mi>&nbsp;</mi><mi>J</mi><mi>&nbsp;</mi><mi>m</mi><mi>o</mi><msup><mrow><mi>l</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>;</mo><mi>&nbsp;</mi><mi>G</mi><mi>&nbsp;</mi></math> is the Gibbs energy)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "-14.6",
+    "solution_text": "<math><mn>2</mn><mi>C</mi><mi>u</mi><mfenced separators=\"|\"><mrow><mi>s</mi></mrow></mfenced><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>→</mo><mn>1</mn><mi>&nbsp;</mi><mi>C</mi><msub><mrow><mi>u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mfenced separators=\"|\"><mrow><mi>s</mi></mrow></mfenced></math>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mn>0</mn></mrow></msup><mo>=</mo><mo>-</mo><mn>78</mn><mi>&nbsp;</mi><mi>k</mi><mi>J</mi></math><br /><math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>→</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi>&nbsp;<mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mi>o</mi></mrow></msup><mo>=</mo><mo>-</mo><mn>178</mn><mi>&nbsp;</mi><mi>k</mi><mi>J</mi></mrow></mfenced><mo>×</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1</mn></mrow></mfenced></math><br />Hence,&nbsp;&nbsp;<math><mn>2</mn><mi>C</mi><mi>u</mi><mfenced separators=\"|\"><mrow><mi>s</mi></mrow></mfenced><mo>+</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mo>→</mo><mi>C</mi><msub><mrow><mi>u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mo>+</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>g</mi></mrow></mfenced><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mi>o</mi></mrow></msup><mo>=</mo><mo>+</mo><mn>100</mn><mi>k</mi><mi>J</mi></math><br /><math><mo>∆</mo><mi>G</mi><mo>=</mo><mo>∆</mo><msup><mrow><mi>G</mi></mrow><mrow><mi>o</mi></mrow></msup><mo>+</mo><mi>R</mi><mi>T</mi><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mi>Q</mi></mrow></mrow></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>=</mo><mo>+</mo><mn>100</mn><mo>+</mo><mfrac><mn>8</mn><mn>1000</mn></mfrac><mo>×</mo><mn>1250</mn><mi>ln</mi><mo>⁡</mo><mfrac><msub><mi>P</mi><msub><mi>H</mi><mn>2</mn></msub></msub><mrow><mi>P</mi><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></mrow></mfrac></math><br /><math><mo>-</mo><mfrac><mrow><mn>100</mn><mo>×</mo><mn>1000</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mo>=</mo><mn>1250</mn><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><msub><mrow><msub><mrow><mi>P</mi></mrow><mrow><mi>H</mi></mrow></msub></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>100</mn></mrow></mfrac><mo>×</mo><mn>1</mn></mrow></mfenced></mrow></mfrac></mrow></mrow></math><br /><math><mrow><mrow><mi mathvariant=\"normal\">ln</mi></mrow><mo>⁡</mo><mrow><msub><mrow><mi>P</mi></mrow><mrow><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></msub><mo>=</mo><mo>-</mo><mn>14.6</mn></mrow></mrow></math>",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b16a60f23ac7d519f9b3dd",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "The standard state Gibb&#39;s free energies of formation of&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(graphite) and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(diamond) at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>=</mo><mn>298</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">K</mi></math> are<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">f</mi></msub><msup><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">o</mi></msup><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>&#160;</mo><mo>(</mo><mi>graphite</mi></mrow></mfenced><mo>=</mo><mn>0</mn><mi mathvariant=\"normal\">&#160;</mi><mi>kJ</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">f</mi></msub><msup><mi mathvariant=\"normal\">G</mi><mi mathvariant=\"normal\">o</mi></msup><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mo>&#160;</mo><mfenced separators=\"|\"><mi>diamond</mi></mfenced></mrow></mfenced><mo>=</mo><mn>2</mn><mo>.9</mo><mi mathvariant=\"normal\">&#160;</mi><mi>kJ</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br />The standard state means that the pressure should be 1 bar, and substance should be pure at a given temperature. The conversion of graphite [<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(graphite)] to diamond [<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(diamond)] reduces its volume by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">m</mi><mn>3</mn></msup><mo>&#160;</mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(graphite) is converted to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(diamond) isothermally at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">T</mi><mo>=</mo><mn>298</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math>, the pressure at which <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(graphite) is in equilibrium with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi></math>&nbsp;(diamond), is<br />[Useful information: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">J</mi><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi>kg</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi>Pa</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>kg</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>;</mo><mo>&#160;</mo><mn>1</mn><mi>bar</mi><mo>=</mo><msup><mn>10</mn><mn>5</mn></msup><mi>Pa</mi></math>]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "37mlo",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>14501</mn></math>&nbsp;bar",
+        "image": null
+      },
+      {
+        "id": "qmAx0",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>29001</mn></math>&nbsp;bar",
+        "image": null
+      },
+      {
+        "id": "ajm5K",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>58001</mn><mo>&#160;</mo><mi>bar</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Vu4j9",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1450</mn><mo>&#160;</mo><mi>bar</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "37mlo",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi><mfenced separators=\"|\"><mi>graphite</mi></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">C</mi><mfenced separators=\"|\"><mi>diamond</mi></mfenced><mo>;</mo><mo>&#160;</mo><msup><mi>&#916;G</mi><mi mathvariant=\"normal\">o</mi></msup><mo>=</mo><msub><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">f</mi></msub><msubsup><mi mathvariant=\"normal\">G</mi><mi>diamond</mi><mi mathvariant=\"normal\">o</mi></msubsup><mo>-</mo><msub><mi mathvariant=\"normal\">&#916;</mi><mi mathvariant=\"normal\">f</mi></msub><msubsup><mi mathvariant=\"normal\">G</mi><mi>graphite</mi><mi mathvariant=\"normal\">o</mi></msubsup><mo>=</mo><mn>2</mn><mo>.9</mo><mi mathvariant=\"normal\">&#160;</mi><mi>kJ</mi><mo>/</mo><mi>mol</mi></math>&nbsp; at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp;bar</p><p>As&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>dG</mi><mi mathvariant=\"normal\">T</mi></msub><mo>=</mo><mi mathvariant=\"normal\">V</mi><mo>.</mo><mi>dP</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munderover><mo>&#8747;</mo><msub><mi>&#916;G</mi><mn>1</mn></msub><msub><mi>&#916;G</mi><mn>2</mn></msub></munderover><mi mathvariant=\"normal\">d</mi><mfenced separators=\"|\"><msub><mi>&#916;G</mi><mi mathvariant=\"normal\">T</mi></msub></mfenced><mo>=</mo><mi mathvariant=\"normal\">&#160;</mi><munderover><mo>&#8747;</mo><msub><mi mathvariant=\"normal\">P</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub></munderover><mi>&#916;V</mi><mo>.</mo><mi>dP</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;G</mi><mn>2</mn></msub><mo>-</mo><msub><mi>&#916;G</mi><mn>1</mn></msub><mo>=</mo><mi>&#916;V</mi><mo>.</mo><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mrow><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><mo>-</mo><msub><mi mathvariant=\"normal\">P</mi><mn>1</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mn>2</mn><mo>.9</mo><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup><mo>-</mo><mn>0</mn></mrow></mfenced><mo>=</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><mo>-</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mn>2</mn><mo>.9</mo><mo>&#215;</mo><msup><mn>10</mn><mn>3</mn></msup></mrow><mrow><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow></mfrac><mi>Pa</mi><mo>=</mo><mn>1</mn><mo>.45</mo><mo>&#215;</mo><msup><mn>10</mn><mn>4</mn></msup><mi mathvariant=\"normal\">&#160;</mi><mi>bar</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">P</mi><mn>2</mn></msub><mo>=</mo><mn>14501</mn><mo>&#160;&#160;</mo><mi>bar</mi><mo>.</mo></math></p>",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b169e3f23ac7d519f9af60",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement 1 For every chemical reaction at equilibrium, standard Gibbs energy of reaction is zero.\nStatement 2 At constant temperature and pressure, chemical reactions are spontaneous in the direction of decreasing Gibbs energy.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5qYKT",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "37G6i",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "uRY49",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "ooULE",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "ooULE",
+    "solution_text": "At equilibrium, its free energy change, is zero and for a spontaneous process, $\\Delta G < 0$ but at equilibrium standard free energy is not zero.\nAnalysis of the Paragraph<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/tHsQvv8Onx_VMm13JsbgLaMcMgI1uOlms0UbX1PPBmw.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af17",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "For the process $\\mathrm{H}_2 \\mathrm{O}(\\mathrm{l})$ (1 bar, $\\left.273 \\mathrm{~K}\\right) \\longrightarrow \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$ (1 bar, $\\left.373 \\mathrm{~K}\\right)$, the correct set of thermodynamic parameters is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "IdoiW",
+        "text": "\n$\\Delta G=0, \\Delta S=+$ ve\n",
+        "image": null
+      },
+      {
+        "id": "pjPzC",
+        "text": "\n$\\Delta G=0, \\Delta S=-v e$\n",
+        "image": null
+      },
+      {
+        "id": "OFYIR",
+        "text": "\n$\\Delta G=+v e, \\Delta S=0$\n",
+        "image": null
+      },
+      {
+        "id": "Cq13f",
+        "text": "\n$\\Delta G=-v e, \\Delta S=+v e$",
+        "image": null
+      }
+    ],
+    "correct_answer": "IdoiW",
+    "solution_text": "$\\mathrm{H}_2 \\mathrm{O}(l)$ and $\\mathrm{H}_2 \\mathrm{O}(g)$ both exist together at same temperature and pressure, suggests the state of equilibrium\nHence, $\\quad \\Delta G=0$ and conversion of liquid into gas increases disorderness, entropy hence $\\Delta S=+v e$.",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b169d4f23ac7d519f9aed6",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "The value of $\\log _{10} \\mathrm{~K}$ for a reaction $A \\rightleftharpoons B$ is (Given: $\\Delta_{\\mathrm{r}} H_{298 \\mathrm{~K}}^{\\circ}=-54.07 \\mathrm{~kJ} \\mathrm{~mol}^{-1}, \\Delta_{\\mathrm{r}} S_{298 \\mathrm{~K}}^{\\circ}=10 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}$ and $R=8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} ; 2.303 \\times 8.314 \\times 298=5705$ )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yVpWK",
+        "text": "\n5\n",
+        "image": null
+      },
+      {
+        "id": "rHeu7",
+        "text": "\n10\n",
+        "image": null
+      },
+      {
+        "id": "VOHZn",
+        "text": "\n95\n",
+        "image": null
+      },
+      {
+        "id": "h3KQn",
+        "text": "\n100",
+        "image": null
+      }
+    ],
+    "correct_answer": "rHeu7",
+    "solution_text": "$$\n\\begin{aligned}\nA & \\rightleftharpoons B \\\\\n\\Delta G^{\\circ} & =\\Delta H^{\\circ}-T \\Delta S^{\\circ} \\\\\n\\Delta G^{\\circ} & =-2303 R T \\log K \\\\\n\\log K & =\\frac{\\Delta H^{\\circ}-T \\Delta S^{\\circ}}{-2303 R T} \\\\\n& =\\frac{-54.07 \\times 10^3-298 \\times 10}{-2303 \\times 8.314 \\times 298} \\\\\n& =\\frac{-57050}{-5705}=10\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  },
+  {
+    "question_id": "64b169c9f23ac7d519f9ae73",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mDD0jGXX6OV1AR-ZiUfP1pQsYDLICFAUyr4BWER6He8.original.fullsize.png\"><br>\nWhich is correct statement if $\\mathrm{N}_2$ is added at equilibrium condition?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8sl5e",
+        "text": "\nThe equilibrium will shift to forward direction because according to IInd law of thermodynamics the entropy must increases in the direction of spontaneous reaction.\n",
+        "image": null
+      },
+      {
+        "id": "7LFGW",
+        "text": "\nThe condition for equilibrium is $G_{\\mathrm{N}_2}+3 G_{\\mathrm{H}_2}=2 G_{\\mathrm{NH}_3}$ where $G$ is Gibbs free energy per mole of the gaseous species measured at the partial pressure. The condition of equilibrium is unaffected by the use of catalyst, which increases the rate of both the forward and backward reactions to the same extent.\n",
+        "image": null
+      },
+      {
+        "id": "lct0i",
+        "text": "\nThe catalyst will increase the rate of forward reaction by $\\alpha$ and that of backward reaction by $\\beta$.\n",
+        "image": null
+      },
+      {
+        "id": "HNwaj",
+        "text": "\nCatalyst will not alter the rate of either of the reaction.",
+        "image": null
+      }
+    ],
+    "correct_answer": "7LFGW",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/USmQlSPUj1K_-DRsZdEIV5xKkcnpjajwJ3M-vY850tY.original.fullsize.png\"><br>\n$K_p$ or $K_c$ remains constant for above reaction at constant temperature.\nAlthough in presence of catalyst rate of forward and backward reaction is increased in same order (extent) due to decreasing the activation energy of both reaction. So the equilibrium is established in short time i.e., catalyst is able to increase the concentration of reactants and products in same order, so the value of $K_C$ or $K_p$ remains constant. Hence equilibrium state is not effected in presence of catalyst. Hence, at equilibrium $\\Delta G=0$\n$$\n\\begin{aligned}\n& \\because \\quad \\Delta G=2 G \\text { of } \\mathrm{NH}_3-\\left(\\mathrm{G} \\text { of } \\mathrm{H}_2+3 \\times G \\text { of } \\mathrm{NH}_3\\right) \\\\\n& \\therefore G_{\\mathrm{N}_2}+3 G_{\\mathrm{H}_2}=2 G_{\\mathrm{NH}_3}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Third law of thermodynamics"
+  }
+]

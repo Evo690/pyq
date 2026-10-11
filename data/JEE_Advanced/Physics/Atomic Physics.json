@@ -1,0 +1,826 @@
+[
+  {
+    "question_id": "685102bf6bba689a3eb09c8e",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "List-I shows various functional dependencies of energy $(E)$ on the atomic number $(Z)$. Energies associated with certain phenomena are given in List-II.\\nChoose the option that describes the correct match between the entries in List-I to those in List-II.<br> <table> <thead> <tr> <th> </th> <th>List-I </th> <th> </th> <th>List-II </th> </tr> </thead> <tbody> <tr> <td>$(P)$ </td> <td>$E \\\\propto Z^2$ </td> <td>$(1)$ </td> <td>energy of characteristic x-rays </td> </tr> <tr> <td>$(Q)$ </td> <td>$E \\\\propto(Z-1)^2$ </td> <td>$(2)$ </td> <td>electrostatic part of the nuclear binding energy for stable nuclei with mass numbers in the range 30 to 170 </td> </tr> <tr> <td>$(R)$ </td> <td>$E \\\\propto Z(Z-1)$ </td> <td>$(3)$ </td> <td>energy of continuous x-rays </td> </tr> <tr> <td>$(S)$ </td> <td>$E$ is practically independent of $Z$ </td> <td>$(4)$ </td> <td>average nuclear binding energy per nucleon for stable nuclei with mass number in the range 30 to 170 </td> </tr> <tr> <td> </td> <td> </td> <td>$(5)$ </td> <td>energy of radiation due to electronic transitions from hydrogen-like atoms </td> </tr> </tbody> </table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1MDqd",
+        "text": "$\\mathrm{P} \\rightarrow 4, \\mathrm{Q} \\rightarrow 3, \\mathrm{R} \\rightarrow 1, \\mathrm{~S} \\rightarrow 2$",
+        "image": null
+      },
+      {
+        "id": "KSf79",
+        "text": "$\\mathrm{P} \\rightarrow 5, \\mathrm{Q} \\rightarrow 2, \\mathrm{R} \\rightarrow 1, \\mathrm{~S} \\rightarrow 4$",
+        "image": null
+      },
+      {
+        "id": "Adm26",
+        "text": "$\\mathrm{P} \\rightarrow 5, \\mathrm{Q} \\rightarrow 1, \\mathrm{R} \\rightarrow 2, \\mathrm{~S} \\rightarrow 4$",
+        "image": null
+      },
+      {
+        "id": "etNbj",
+        "text": "$\\mathrm{P} \\rightarrow 3, \\mathrm{Q} \\rightarrow 2, \\mathrm{R} \\rightarrow 1, \\mathrm{~S} \\rightarrow 5$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Adm26",
+    "solution_text": "(P) Energy of H -like atom is\n$\\begin{aligned} & \\mathrm{E}=-13.6 \\frac{\\mathrm{Z}^2}{\\mathrm{n}^2} \\text { So } \\\\ & \\mathrm{E} \\propto \\mathrm{Z}^2 \\\\ & \\mathrm{P} \\rightarrow(5)\\end{aligned}$\n(Q) Energy of characteristic X-ray by moseley's correction\n$\\begin{aligned} & E=-13.6(Z-1)^2\\left[\\frac{1}{n_1^2}-\\frac{1}{n_2^2}\\right] \\text { So } \\\\ & E \\propto(Z-1)^2 \\\\ & Q \\rightarrow(1)\\end{aligned}$\n(R) Electrostatics binding energy is proportional to $Z(Z-1)$\n$R \\rightarrow(2)$\n(S) For stable nuclei with mass no. in range 30 to 170 . Binding energy per nucleon is constant \\& graph is straight line\n$S \\rightarrow(4)$\nAns. (C) is correct",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b16a89f23ac7d519f9b54f",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "Which of the following statement(s) is (are) correct about the spectrum of hydrogen atom?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2kgTv",
+        "text": "The ratio of the longest wavelength to the shortest wavelength in Balmer series is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mn>5</mn></mfrac></math>.",
+        "image": null
+      },
+      {
+        "id": "pjBEc",
+        "text": "There is an overlap between the wavelength ranges of Balmer and Paschen series.",
+        "image": null
+      },
+      {
+        "id": "8kQNL",
+        "text": "The wavelengths of Lyman series are given by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><msup><mi>m</mi><mn>2</mn></msup></mfrac></mrow></mfenced><msub><mi>&#955;</mi><mn>0</mn></msub></math>, where&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi><mn>0</mn></msub></math>&nbsp;is the shortest wavelength of Lyman series and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>&nbsp;is an integer.",
+        "image": null
+      },
+      {
+        "id": "ehU7n",
+        "text": "The wavelength ranges of Lyman and Balmer series do not overlap.",
+        "image": null
+      }
+    ],
+    "correct_answer": "ehU7n",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1871e619-19fd-40a4-bc7e-c81ab3fa89b0-image.png\" style=\"width: 300px; height: 189px;\" /></p><p>For Balmer Series:</p><p>Shortest wavelength,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>E</mi><mi>o</mi></msub><mn>4</mn></mfrac><mo>=</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><msub><mi>&#955;</mi><mi>s</mi></msub></mfrac></math></p><p>Longest wavelength,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><msub><mi>E</mi><mi>o</mi></msub><mn>4</mn></mfrac><mo>&#8722;</mo><mfrac><msub><mi>E</mi><mn>0</mn></msub><mn>9</mn></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><msub><mi>&#955;</mi><mi>l</mi></msub></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><msub><mi>E</mi><mi>o</mi></msub></mrow><mn>36</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mfrac><msub><mi>&#955;</mi><mi>l</mi></msub><msub><mi>&#955;</mi><mi>s</mi></msub></mfrac><mo>=</mo><mfrac><mn>9</mn><mn>5</mn></mfrac></math></p><p>Range of energy level in Balmer series,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mrow><mn>5</mn><msub><mi>E</mi><mn>0</mn></msub></mrow><mn>36</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><msub><mi>E</mi><mn>0</mn></msub><mn>4</mn></mfrac></mrow></mfenced></math></p><p>Range of energy level in Paschen&nbsp;series,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mrow><mn>7</mn><msub><mi>E</mi><mn>0</mn></msub></mrow><mn>144</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><msub><mi>E</mi><mn>0</mn></msub><mn>9</mn></mfrac></mrow></mfenced></math></p><p>Hence, no overlap.</p><p>For Lyman series:</p><p>For shortest wavelength,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mn>0</mn></msub><mo>=</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><msub><mi>&#955;</mi><mn>0</mn></msub></mfrac></math></p><p>For general wavelength,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>E</mi><mn>0</mn></msub><mo>-</mo><mfrac><msub><mi>E</mi><mn>0</mn></msub><msup><mi>n</mi><mn>2</mn></msup></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mi>&#955;</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mfenced><mrow><mn>1</mn><mo>&#8722;</mo><mfrac><mn>1</mn><msup><mi>n</mi><mn>2</mn></msup></mfrac></mrow></mfenced></mfrac><mo>=</mo><mfrac><mi>&#955;</mi><msub><mi>&#955;</mi><mn>0</mn></msub></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>&#955;</mi><mo>=</mo><mfenced><mfrac><msup><mi>n</mi><mn>2</mn></msup><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>1</mn></mrow></mfrac></mfenced><msub><mi>&#955;</mi><mn>0</mn></msub></math></p><p>or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mo>=</mo><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>1</mn></mrow></mfrac></mrow></mfenced><msub><mi>&#955;</mi><mn>0</mn></msub></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><msup><mi>m</mi><mn>2</mn></msup></mfrac></mrow></mfenced><msub><mi>&#955;</mi><mn>0</mn></msub></math></p><p>as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>&nbsp;should be an integer.</p><p>Range of energy level in Lyman series,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mrow><mn>3</mn><msub><mi>E</mi><mn>0</mn></msub></mrow><mn>4</mn></mfrac><mo>,</mo><mo>&#160;</mo><msub><mi>E</mi><mn>0</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Lyman and Balmer series wavelengths do not overlap.</p>",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b336",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "A hydrogen atom in its ground state is irradiated by light of wavelength <math><mn>970</mn><mi>&#160;</mi><mi>&#8491;</mi><mo>.</mo></math> Taking hc/e = <math><mn>1.237</mn><mo>&#215;</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>6</mn></mrow></msup><mi>&#160;</mi><mi>e</mi><mi>V</mi></math> m and the ground state energy of hydrogen atom as <math><mo>-</mo><mn>13.6</mn><mi>&#160;</mi><mi>e</mi><mi>V</mi></math> , the number of lines present in the emission spectrum is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<math><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mrow><mi>λ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>12370</mn></mrow><mrow><mn>970</mn></mrow></mfrac></math> <br > <math><mo>-</mo><mn>13.6</mn><mo>+</mo><mn>12.7</mn><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><mn>13.6</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> <br > <math><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn></math> <br > <math><mi>n</mi><mo>=</mo><mn>4</mn></math> <br >Number of lines  <math><mo>=</mo><msup><mrow/><mrow><mi>n</mi></mrow></msup><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>6</mn></math>",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b16a0af23ac7d519f9b0ca",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The wavelength of the first spectral line in the Balmer series of hydrogen atom is $6561 Å$. The wavelength of the second spectral line in the Balmer series of singly ionized helium atom is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TsSaJ",
+        "text": "\n$1215 Å$\n",
+        "image": null
+      },
+      {
+        "id": "lLhad",
+        "text": "\n$1640 Å$\n",
+        "image": null
+      },
+      {
+        "id": "tKz6x",
+        "text": "\n$2430 Å$\n",
+        "image": null
+      },
+      {
+        "id": "vmiRT",
+        "text": "\n$4687 Å$",
+        "image": null
+      }
+    ],
+    "correct_answer": "TsSaJ",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/XRJ6v1JVlrCZBqpa-LQ4pLfbcmoBQqnYVCizhODhtqU.original.fullsize.png\"><br>\nFor hydrogen or hydrogen type atoms\n$$\n\\frac{1}{\\lambda}=R Z^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)\n$$\nIn the transition from $n_i \\longrightarrow n_f$\n$$\n\\begin{aligned}\n& \\therefore \\quad \\lambda \\propto \\frac{1}{Z^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)} \\\\\n& \\therefore \\quad \\frac{\\lambda_2}{\\lambda_1}=\\frac{Z_1^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)_1}{Z_2^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)_2} \\\\\n&\n\\end{aligned}\n$$\n\n$$\n\\lambda_2=\\frac{\\lambda_1 Z_1^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)_1}{Z_2^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)_2}\n$$\nSubstituting the values, we have\n$$\n=\\frac{(6561 Å)(1)^2\\left(\\frac{1}{2^2}-\\frac{1}{3^2}\\right)}{(2)^2\\left(\\frac{1}{2^2}-\\frac{1}{4^2}\\right)}=1215 Å\n$$\n$\\therefore$ Correct option is (a).\nAnalysis of Question\n(i) Question is simple.\n(ii) In modern physics, mostly questions are asked on the emission of photon by the transition of electron from some higher energy state to some lower energy state.\n(iii) For hydrogen and hydrogen like atoms which have only single electron, we can use the formula\n$$\n\\frac{1}{\\lambda}=R Z^2\\left(\\frac{1}{n_f^2}-\\frac{1}{n_i^2}\\right)\n$$\n(iv) Further, the student should also remember different series, as shown in figure below.\n$\\mathrm{I} \\rightarrow$ Lymen series\nII $\\rightarrow$ Balmer series\nIII $\\rightarrow$ Paschen series\nIV $\\rightarrow$ Brackett series\n$\\mathrm{V} \\rightarrow$ Pfund series",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af4c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nIn a mixture of $\\mathrm{H}-\\mathrm{H}^{+}$gas $\\left(\\mathrm{He}^{+}\\right.$is singly ionised $\\mathrm{He}$ atom), $\\mathrm{H}$ atoms and $\\mathrm{He}^{+}$ions are excited to their respective first excited states. Subsequently, $\\mathrm{H}$ atoms transfer their total excitation energy to $\\mathrm{He}^{+}$ions (by collisions). Assume that the Bohr model of atom is exactly valid.<strong>Question:</strong>\nThe ratio of the kinetic energy of the $n=2$ electron for the $\\mathrm{H}$ atom to that of $\\mathrm{He}^{+}$ ion is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "T9JUn",
+        "text": "\n$\\frac{1}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "R9H7c",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "DNq6y",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "A794T",
+        "text": "\n2",
+        "image": null
+      }
+    ],
+    "correct_answer": "T9JUn",
+    "solution_text": "Kinetic energy $K \\propto Z^2$\n$$\n\\frac{K_H}{K_{\\mathrm{He}^{+}}}=\\left(\\frac{1}{2}\\right)^2=\\frac{1}{4}\n$$\n$\\therefore$ correct option is (a).",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af4b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nIn a mixture of $\\mathrm{H}-\\mathrm{H}^{+}$gas $\\left(\\mathrm{He}^{+}\\right.$is singly ionised $\\mathrm{He}$ atom), $\\mathrm{H}$ atoms and $\\mathrm{He}^{+}$ions are excited to their respective first excited states. Subsequently, $\\mathrm{H}$ atoms transfer their total excitation energy to $\\mathrm{He}^{+}$ions (by collisions). Assume that the Bohr model of atom is exactly valid.<strong>Question:</strong>\nThe wavelength of light emitted in the visible region by $\\mathrm{He}^{+}$ions after collisions with $\\mathrm{H}$ atoms is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2TBVH",
+        "text": "\n$6.5 \\times 10^{-7} \\mathrm{~m}$\n",
+        "image": null
+      },
+      {
+        "id": "rZxPY",
+        "text": "\n$5.6 \\times 10^{-7} \\mathrm{~m}$\n",
+        "image": null
+      },
+      {
+        "id": "3wc1c",
+        "text": "\n$4.8 \\times 10^{-7} \\mathrm{~m}$\n",
+        "image": null
+      },
+      {
+        "id": "gg38M",
+        "text": "\n$4.0 \\times 10^{-7} \\mathrm{~m}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3wc1c",
+    "solution_text": "Visible light lies in the range, $\\lambda_1=4000 Å$ to $\\lambda_2=7000 Å$.\nEnergy of photons corresponding to these wavelengths (in $\\mathrm{eV}$ ) would be;\n$$\n\\begin{aligned}\n& E_1=\\frac{12375}{4000}=3.09 \\mathrm{eV} \\\\\n& E_2=\\frac{12375}{7000}=1.77 \\mathrm{eV}\n\\end{aligned}\n$$\nFrom energy level diagram of $\\mathrm{He}^{+}$atom we can see that in transition from $n=4$ to $n=3$, energy of photon released will lie between $E_1$ and $E_2$.\n$$\n\\Delta E_{43}=-3.4-(-6.04)=2.64 \\mathrm{eV}\n$$\nWavelength of photon corresponding to this energy.\n$$\n\\lambda=\\frac{12375}{2.64} Å=4687.5 Å=4.68 \\times 10^{-7} \\mathrm{~m}\n$$\nTherefore, (c) is the most correct option.",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b169e0f23ac7d519f9af4a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nIn a mixture of $\\mathrm{H}-\\mathrm{H}^{+}$gas $\\left(\\mathrm{He}^{+}\\right.$is singly ionised $\\mathrm{He}$ atom), $\\mathrm{H}$ atoms and $\\mathrm{He}^{+}$ions are excited to their respective first excited states. Subsequently, $\\mathrm{H}$ atoms transfer their total excitation energy to $\\mathrm{He}^{+}$ions (by collisions). Assume that the Bohr model of atom is exactly valid.<strong>Question:</strong>\nThe quantum number $n$ of the state finally populated in $\\mathrm{He}^{+}$ions is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Dl0uG",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "OAHqY",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "Q6Ew7",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "ahO9y",
+        "text": "\n5",
+        "image": null
+      }
+    ],
+    "correct_answer": "Q6Ew7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/r6y4Y5YL5_LJaLt87AYv_LVqSQ1_jK42VKAGQxJKFOQ.original.fullsize.png\"><br>\nEnergy given by $\\mathrm{H}$-atom in transition from $n=2$ to $n=1$ is equal to energy taken by $\\mathrm{He}^{+}$ atom in transition from $n=2$ to $n=4$.\n$\\therefore$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b169d1f23ac7d519f9aebe",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "The largest wavelength in the ultraviolet region of the hydrogen spectrum is $122 \\mathrm{~nm}$. The smallest wavelength in the infrared region of the hydrogen spectrum (to the nearest integer) is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1OtXt",
+        "text": "\n$802 \\mathrm{~nm}$\n",
+        "image": null
+      },
+      {
+        "id": "Vs5hm",
+        "text": "\n$823 \\mathrm{~nm}$\n",
+        "image": null
+      },
+      {
+        "id": "BfzOX",
+        "text": "\n$1882 \\mathrm{~nm}$\n",
+        "image": null
+      },
+      {
+        "id": "RPJky",
+        "text": "\n$1648 \\mathrm{~nm}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Vs5hm",
+    "solution_text": "The series in $U-V$ region is Lymen series. Longest wavelength corresponds to minimum energy which occurs in transition from $n=2$ to $n=1$.\n$$\n\\therefore \\quad 122=\\frac{\\frac{1}{R}}{\\left(\\frac{1}{1^2}-\\frac{1}{2^2}\\right)}\n$$\nThe smallest wavelength in the infrared region corresponds to maximum energy of Paschen series.\n$$\n\\lambda=\\frac{\\frac{1}{R}}{\\left(\\frac{1}{3^2}-\\frac{1}{\\infty}\\right)}\n$$\nSolving Eqs. (i) and (ii), we get\n$\\therefore$ Correct option is (b).\n$$\n\\lambda=823.5 \\mathrm{~nm}\n$$",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "64b169c6f23ac7d519f9ae57",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If the wavelength of the $n^{\\text {th }}$ line of Lyman series is equal to the de-Broglie wavelength of electron in initial orbit of a hydrogen like element $(Z=11)$. Find the value of $n$.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "24",
+    "solution_text": "$n^{\\text {th }}$ line of Lyman series means transition from $(n+1)$ th state to first state.\n$$\n\\begin{aligned}\n& \\frac{1}{\\lambda}=R Z^2\\left[1-\\frac{1}{(n+1)^2}\\right] \\\\\n& \\text { de-Broglie wavelength, } \\quad \\lambda=\\frac{h}{m v}=\\frac{h r}{m v r}=\\frac{(2 \\pi)(h r)}{(n+1) h}=\\frac{2 \\pi r}{(n+1)} \\\\\n& \\frac{1}{\\lambda}=\\frac{(n+1)}{2 \\pi r} \\\\\n&\n\\end{aligned}\n$$\nor\nEquating (i) and (ii), we get\n$$\n\\left(\\frac{n+1}{2 \\pi r}\\right)=R Z^2\\left[\\frac{n(n+2)}{(n+1)^2}\\right]\n$$\nNow, as\n$$\n\\begin{aligned}\n& r \\propto \\frac{n^2}{Z} \\\\\n& r=\\frac{(n+1)^2}{11} r_0\n\\end{aligned}\n$$\n$$\n\\therefore \\quad r=\\frac{(n+1)^2}{11} r_0\n$$\nSubstituting in equations (iii), we get\n$$\n\\frac{11}{2 \\pi r_0}=\\frac{R(11)^2(n)(n+2)}{(n+1)}\n$$\nor\n$$\n(n+1)=\\left(1.09 \\times 10^7\\right)(11)(2 \\pi) \\times\\left(0.529 \\times 10^{-10}\\right)\\left(n^2+2 n\\right)\n$$\nSolving this equation we get, $n=24$",
+    "solution_image": null,
+    "topic": "Atomic Spectrum"
+  },
+  {
+    "question_id": "6696579c623b9ed1d4637469",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "A particle of mass $m$ is moving in a circular orbit under the influence of the central force $F(r)=-k r$, corresponding to the potential energy $V(r)=k r^2 / 2$, where $k$ is a positive force constant and $r$ is the radial distance from the origin. According to the Bohr's quantization rule, the angular momentum of the particle is given by $L=n \\hbar$, where $\\hbar=h /(2 \\pi), h$ is the Planck's constant, and $n$ a positive integer. If $v$ and $E$ are the speed and total energy of the particle, respectively, then which of the following expression(s) is(are) correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0eqSP",
+        "text": "$r^2=n \\hbar \\sqrt{\\frac{1}{m k}}$",
+        "image": null
+      },
+      {
+        "id": "HlRuN",
+        "text": "$v^2=n \\hbar \\sqrt{\\frac{k}{m^3}}$",
+        "image": null
+      },
+      {
+        "id": "r5O8X",
+        "text": "$\\frac{L}{m r^2}=\\sqrt{\\frac{k}{m}}$",
+        "image": null
+      },
+      {
+        "id": "SlSJl",
+        "text": "$E=\\frac{n \\hbar}{2} \\sqrt{\\frac{k}{m}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "r5O8X",
+    "solution_text": "The central force will provide necessary centripetal force\n$\\Rightarrow \\mathrm{kr}=\\frac{\\mathrm{mv}^2}{\\mathrm{r}}$\nor, $\\mathrm{kr}^2=\\mathrm{mv}^2$    ...(1)\nBy quantisation rule\n$\\mathrm{n} \\hbar=\\mathrm{mvr}$\nor, $\\frac{\\mathrm{n} \\hbar}{\\mathrm{r}}=\\mathrm{mv}$  ...(2)\n$\\begin{aligned} & \\frac{(1)}{(2)^2} \\Rightarrow \\frac{\\mathrm{kr}^2}{\\frac{\\mathrm{n}^2 \\hbar^2}{\\mathrm{r}^2}}=\\frac{\\mathrm{mv}^2}{\\mathrm{~m}^2 \\mathrm{v}^2} \\\\ & \\Rightarrow \\frac{\\mathrm{k}}{\\mathrm{n}^2 \\hbar^2} \\mathrm{r}^4=\\frac{1}{\\mathrm{~m}} \\\\ & \\Rightarrow \\mathrm{r}=\\left(\\frac{\\mathrm{n}^2 \\hbar^2}{\\mathrm{~km}}\\right)^{\\frac{1}{4}} \\Rightarrow \\mathrm{r}^2=\\frac{\\mathrm{n} \\hbar}{\\sqrt{\\mathrm{mk}}}\\end{aligned}$\n$\\begin{aligned} & \\text {(2) Using (1), } \\mathrm{K} \\cdot \\frac{\\mathrm{n} \\hbar}{\\sqrt{\\mathrm{mk}}}=\\mathrm{mv}^2 \\\\ & \\Rightarrow \\mathrm{v}^2=\\mathrm{n} \\hbar \\sqrt{\\frac{\\mathrm{k}}{\\mathrm{m}^3}}\\end{aligned}$\n(3) $\\frac{\\mathrm{L}}{\\mathrm{mr}^2}=\\frac{\\mathrm{mvr}}{\\mathrm{mr}^2}=\\frac{\\mathrm{v}}{\\mathrm{r}}=\\sqrt{\\frac{\\mathrm{k}}{\\mathrm{m}}}$ from (1)\n$\\begin{aligned} & \\text{(4) } \\mathrm{E}=\\frac{1}{2} \\mathrm{mv}^2+\\frac{1}{2} \\mathrm{kr}^2=\\frac{\\mathrm{n} \\hbar}{2} \\sqrt{\\frac{\\mathrm{k}}{\\mathrm{m}}}+\\frac{1}{2} \\mathrm{k} \\frac{\\mathrm{n} \\hbar}{\\sqrt{\\mathrm{mk}}} \\\\ & \\mathrm{E}=\\mathrm{n} \\hbar \\sqrt{\\frac{\\mathrm{k}}{\\mathrm{m}}}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Atomic Structure"
+  },
+  {
+    "question_id": "6a0be50e44d287c9361e5c8c",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Consider a hydrogen atom with $v_k$, $r_k$, and $K_k$ denoting the velocity, orbital radius and kinetic energy of the electron in the $k^{\\text{th}}$ orbit, respectively. The electron undergoes a transition from the $n^{\\text{th}}$ orbit, emitting radiation corresponding to the Lyman series. Considering $h$ to be the Planck's constant and $\\epsilon_0$ the permittivity of the free space, the correct statement(s) is/are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "WDnq2",
+        "text": "Magnitude of change in kinetic energy of electron can be expressed as $\\dfrac{h}{4\\pi}\\left|\\dfrac{n v_n}{r_n} - \\dfrac{v_1}{r_1}\\right|$.",
+        "image": null
+      },
+      {
+        "id": "yXT1e",
+        "text": "Magnitude of change in de Broglie wavelength of the electron can be expressed as $\\dfrac{e^2}{4\\epsilon_0}\\left|\\dfrac{1}{K_n} - \\dfrac{1}{K_1}\\right|$.",
+        "image": null
+      },
+      {
+        "id": "rw0kT",
+        "text": "Frequency of the radiation emitted can be expressed as $\\dfrac{e^2}{8\\pi\\epsilon_0 h}\\left(\\dfrac{1}{r_1} - \\dfrac{1}{r_n}\\right)$.",
+        "image": null
+      },
+      {
+        "id": "BFrOm",
+        "text": "Magnitude of change in total energy of the electron can be expressed as $\\dfrac{h}{2\\pi}\\left|\\dfrac{v_1}{r_1} - \\dfrac{n v_n}{r_n}\\right|$.",
+        "image": null
+      }
+    ],
+    "correct_answer": "rw0kT",
+    "solution_text": "From Bohr's quantization condition, the angular momentum of an electron in the $k^{\\text{th}}$ orbit is given by:<br><br>$m v_k r_k = \\dfrac{k h}{2\\pi}$<br><br>The kinetic energy of the electron in the $k^{\\text{th}}$ orbit is:<br><br>$K_k = \\dfrac{1}{2} m v_k^2 = \\dfrac{1}{2} (m v_k r_k) \\dfrac{v_k}{r_k}$<br><br>Substituting the value of angular momentum:<br><br>$K_k = \\dfrac{1}{2} \\left( \\dfrac{k h}{2\\pi} \\right) \\dfrac{v_k}{r_k} = \\dfrac{k h v_k}{4\\pi r_k}$<br><br>The magnitude of change in kinetic energy for a transition from the $n^{\\text{th}}$ orbit to the $1^{\\text{st}}$ orbit is:<br><br>$|\\Delta K| = |K_n - K_1| = \\dfrac{h}{4\\pi} \\left| \\dfrac{n v_n}{r_n} - \\dfrac{v_1}{r_1} \\right|$<br><br>This makes statement (A) correct.<br><br>Since the total energy $E_k = -K_k$, the magnitude of change in total energy is equal to the magnitude of change in kinetic energy:<br><br>$|\\Delta E| = |\\Delta K| = \\dfrac{h}{4\\pi} \\left| \\dfrac{n v_n}{r_n} - \\dfrac{v_1}{r_1} \\right|$<br><br>This makes statement (D) incorrect.<br><br>The electrostatic force provides the necessary centripetal force:<br><br>$\\dfrac{m v_k^2}{r_k} = \\dfrac{e^2}{4\\pi\\epsilon_0 r_k^2} \\Rightarrow K_k = \\dfrac{1}{2} m v_k^2 = \\dfrac{e^2}{8\\pi\\epsilon_0 r_k}$<br><br>The total energy is $E_k = -K_k = -\\dfrac{e^2}{8\\pi\\epsilon_0 r_k}$. The energy of the emitted photon during the transition is:<br><br>$\\Delta E = E_n - E_1 = -\\dfrac{e^2}{8\\pi\\epsilon_0 r_n} - \\left( -\\dfrac{e^2}{8\\pi\\epsilon_0 r_1} \\right) = \\dfrac{e^2}{8\\pi\\epsilon_0} \\left( \\dfrac{1}{r_1} - \\dfrac{1}{r_n} \\right)$<br><br>The frequency of the emitted radiation is $\\nu = \\dfrac{\\Delta E}{h}$:<br><br>$\\nu = \\dfrac{e^2}{8\\pi\\epsilon_0 h} \\left( \\dfrac{1}{r_1} - \\dfrac{1}{r_n} \\right)$<br><br>This makes statement (C) correct.<br><br>The de Broglie wavelength of the electron is $\\lambda_k = \\dfrac{h}{m v_k}$. Using Bohr's quantization $m v_k = \\dfrac{k h}{2\\pi r_k}$, we get:<br><br>$\\lambda_k = \\dfrac{2\\pi r_k}{k}$<br><br>From the kinetic energy relation $r_k = \\dfrac{e^2}{8\\pi\\epsilon_0 K_k}$, substituting $r_k$ gives:<br><br>$\\lambda_k = \\dfrac{2\\pi}{k} \\left( \\dfrac{e^2}{8\\pi\\epsilon_0 K_k} \\right) = \\dfrac{e^2}{4\\epsilon_0 k K_k}$<br><br>The magnitude of change in de Broglie wavelength is:<br><br>$|\\Delta \\lambda| = |\\lambda_n - \\lambda_1| = \\dfrac{e^2}{4\\epsilon_0} \\left| \\dfrac{1}{n K_n} - \\dfrac{1}{K_1} \\right|$<br><br>This makes statement (B) incorrect.<br><br>Answer: Magnitude of change in kinetic energy of electron can be expressed as $\\dfrac{h}{4\\pi}\\left|\\dfrac{n v_n}{r_n} - \\dfrac{v_1}{r_1}\\right|$.; Frequency of the radiation emitted can be expressed as $\\dfrac{e^2}{8\\pi\\epsilon_0 h}\\left(\\dfrac{1}{r_1} - \\dfrac{1}{r_n}\\right)$.",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "685102c36bba689a3eb09cb8",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A hydrogen atom, initially at rest in its ground state, absorbs a photon of frequency $v_1$ and ejects the electron with a kinetic energy of 10 eV . The electron then combines with a positron at rest to form a positronium atom in its ground state and simultaneously emits a photon of frequency $v_2$. The center of mass of the resulting positronium atom moves with a kinetic energy of 5 eV . It is given that positron has the same mass as that of electron and the positronium atom can be considered as a Bohr atom, in which the electron and the positron orbit around their center of mass. Considering no other energy loss during the whole process, the difference between the two photon energies (in eV ) is $\\qquad$",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "11.8",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uZPF5tMaHm_Wq6tVlIUQTYUftGydPHcwD7cW5hmpCsQ.original.fullsize.png\"><br>$\\mathrm{h} v_1=13.6+10=23.6 \\mathrm{eV} \\qquad ....(1)$\nEnergy of positronium in ground state\n$\\begin{aligned} & =-13.6 \\frac{\\mu}{m}\\left(\\frac{z}{n}\\right)^2 \\mathrm{eV} \\\\ & =-13.6 \\times \\frac{1}{2} \\mathrm{eV}=-6.8 \\mathrm{eV}\\end{aligned}$\nSo to make positronium 6.8 eV must release \\& 5 eV is the KE of COM . So total energy of photon released $\\left(h v_2\\right)$ will be :\n$\\mathrm{h} v_2=(10-5)+6.8=11.8 \\mathrm{eV} \\qquad ....(2)$\n$\\therefore \\quad$ Difference in energy $=23.6-11.8=11.8 \\mathrm{eV}$",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "685102bf6bba689a3eb09c8b",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Consider an electron in the $n=3$ orbit of a hydrogen-like atom with atomic number $Z$. At absolute temperature $T$, a neutron having thermal energy $k_{\\mathrm{B}} T$ has the same de Broglie wavelength as that of this electron. If this temperature is given by $T=\\frac{Z^2 h^2}{\\alpha \\pi^2 a_0^2 m_N k_B}$, (where $h$ is the Planck's constant, $k_B$ is the Boltzmann constant, $m_{\\mathrm{N}}$ is the mass of the neutron and $a_0$ is the first Bohr radius of hydrogen atom) then the value of $\\alpha$ is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "72",
+    "solution_text": "$\\frac{\\mathrm{mv}^2}{\\mathrm{r}}=\\frac{\\mathrm{KZe}^2}{\\mathrm{r}^2}$\n$\\mathrm{mv}^2 \\mathrm{r}=\\frac{1}{4 \\pi \\epsilon_0} \\mathrm{Ze}^2$\n$\\mathrm{mvr}=\\frac{\\mathrm{nh}}{2 \\pi}$\n(1)/(2) gives\n$\\mathrm{v}=\\frac{\\frac{\\mathrm{Ze}^2}{4 \\pi \\epsilon_0}}{\\frac{\\mathrm{nh}}{2 \\pi}}=\\frac{\\mathrm{Ze}^2}{2 \\epsilon_0 \\mathrm{nh}}$\n$\\begin{aligned} & \\frac{h}{m v}=\\frac{h}{\\sqrt{2 m_N \\cdot K_B T}} \\\\ & T=\\frac{m^2 Z^2 e^4}{8 \\epsilon_0^2 n^2 h^2 m_N K_B} \\\\ & n=3 \\Rightarrow T=\\frac{m^2 Z^2 e^4}{72 \\epsilon_0^2 h^2 m_N K_B} \\\\ & \\frac{(1)}{(2)^2} \\Rightarrow \\frac{1}{m r}=\\frac{\\frac{Z e^2}{4 \\pi \\epsilon_0}}{\\frac{n^2 h^2}{4 \\pi^2}}\\end{aligned}$\n$\\begin{aligned} & \\mathrm{r}=\\frac{\\mathrm{n}^2 \\mathrm{~h}^2 \\epsilon_0}{\\pi \\mathrm{Ze}^2 \\cdot \\mathrm{~m}} \\Rightarrow \\mathrm{a}_0=\\frac{\\mathrm{h}^2 \\epsilon_0}{\\pi \\mathrm{e}^2 \\mathrm{~m}} \\\\ & \\mathrm{a}_0^2=\\frac{\\mathrm{h}^4 \\epsilon_0^2}{\\pi^2 \\mathrm{e}^4 \\mathrm{~m}^2} \\\\ & \\mathrm{Ta}_0^2=\\frac{\\mathrm{m}^2 \\mathrm{Z}^2 \\mathrm{e}^4}{72 \\epsilon_0 \\mathrm{~h}^2 \\mathrm{~m}_{\\mathrm{N}} \\mathrm{k}_{\\mathrm{B}}} \\cdot \\frac{\\mathrm{h}^4 \\epsilon_0^2}{\\pi^2 \\mathrm{e}^4 \\mathrm{~m}^2} \\\\ & \\mathrm{~T}=\\frac{\\mathrm{h}^2 \\mathrm{Z}^2}{72 \\pi^2 \\mathrm{a}_0^2 \\mathrm{~m}_{\\mathrm{N}} \\mathrm{k}_{\\mathrm{B}}} \\Rightarrow \\alpha=72\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a7cf23ac7d519f9b4dc",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "A particle of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> moves in circular orbits with potential energy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>U</mi><mfenced><mi>r</mi></mfenced><mo>=</mo><mi>F</mi><mi>r</mi></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math> is a positive constant and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> is its distance from the origin. Its energies are calculated using the Bohr model. If the radius of the particle&#39;s orbit is denoted by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> and its speed and energy are denoted by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>&nbsp;respectively, then for the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>n</mi><mi>th</mi></msup></math> orbit (here <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi></math> is the Planck&#39;s constant)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xf8gT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#8733;</mo><msup><mi>n</mi><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>&#8733;</mo><msup><mi>n</mi><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "sDNrL",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#8733;</mo><msup><mi>n</mi><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>&#8733;</mo><msup><mi>n</mi><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "C6cgT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><msup><mfenced><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>h</mi><mn>2</mn></msup><msup><mi>F</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup><mi>m</mi></mrow></mfrac></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "XCPTW",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mn>2</mn><msup><mfenced><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>h</mi><mn>2</mn></msup><msup><mi>F</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup><mi>m</mi></mrow></mfrac></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "C6cgT",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>U</mi><mo>=</mo><mi>F</mi><mo>&#183;</mo><mi>r</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi><mi>c</mi></msub><mo>=</mo><mo>-</mo><mfrac><mrow><mi>d</mi><mi>U</mi></mrow><mrow><mi>d</mi><mi>r</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mi>F</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mi>r</mi></mfrac><mo>=</mo><mi>F</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mi>u</mi><mi>r</mi><mo>=</mo><mfrac><mrow><mi>n</mi><mi>h</mi></mrow><mrow><mn>2</mn><mi>&#960;</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mfenced><mrow><mi>m</mi><mi>u</mi><msup><mi>r</mi><mn>2</mn></msup></mrow></mfenced><mrow><mi>m</mi><mi>u</mi><mfenced><mrow><mn>4</mn><mi>r</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>h</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup><mo>&#183;</mo><mi>F</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>m</mi><msup><mi>r</mi><mn>3</mn></msup><mo>=</mo><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>h</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup><mi>F</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>r</mi><mo>=</mo><msup><mfenced><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>h</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup><mi>m</mi><mi>F</mi></mrow></mfrac></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>r</mi><mo>&#8733;</mo><msup><mi>n</mi><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mi>U</mi><mo>+</mo><mi>K</mi><mo>=</mo><mi>F</mi><mo>&#183;</mo><mi>r</mi><mo>+</mo><mn>1</mn><mo>/</mo><mn>2</mn><mo>&#160;</mo><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi mathvariant=\"normal\">F</mi><mo>&#183;</mo><mi mathvariant=\"normal\">r</mi><mo>+</mo><mn>1</mn><mo>/</mo><mn>2</mn><mi mathvariant=\"normal\">F</mi><mo>&#183;</mo><mi mathvariant=\"normal\">r</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mn>3</mn><mo>/</mo><mn>2</mn><mi mathvariant=\"normal\">F</mi><mo>&#183;</mo><mi mathvariant=\"normal\">r</mi></math></p><p>Put value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>F</mi><mi>r</mi><msup><mfenced><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><msup><mi>h</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn><msup><mi>&#960;</mi><mn>2</mn></msup><mi>m</mi><mi>F</mi></mrow></mfrac></mfenced><mrow><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup></math></p>",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a76f23ac7d519f9b4a6",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "A free hydrogen atom after absorbing a photon of wavelength <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></math> gets excited from the state <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>1</mn></math> to the state <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn><mo>.</mo></math> Immediately after that the electron jumps to <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mi mathvariant=\"normal\">m</mi></math> state by emitting a photon of wavelength <math><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub><mo>.</mo></math> Let the change in momentum of atom due to the absorption and the emission are <math><mi mathvariant=\"normal\">&#916;</mi><msub><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></math> and <math><mi mathvariant=\"normal\">&#916;</mi><msub><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub><mo>,</mo></math> respectively. If <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#955;</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mrow><msub><mrow><mi>&#955;</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>.</mo></math> Which of the option(s) is/are correct?<br />[Use <math><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">c</mi><mo>=</mo><mn>1242</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">V</mi><mtext>&#8201;</mtext><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi><mo>,</mo><mtext>&#8201;</mtext><mn>1</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>9</mn></mrow></msup><mtext>&#8201;</mtext><mi mathvariant=\"normal\">m</mi><mo>,</mo></math> <math><mi mathvariant=\"normal\">h</mi></math> and <math><mi mathvariant=\"normal\">c</mi></math> are Planck&#39;s constant and speed of light, respectively]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HTi1n",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">λ</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub><mo>=</mo><mn>418</mn><mtext> </mtext><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi></math>",
+        "image": null
+      },
+      {
+        "id": "PmtSn",
+        "text": "The ratio of kinetic energy of the electron in the state <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mi mathvariant=\"normal\">m</mi></math> to the state <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>1</mn></math> is <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "eW65m",
+        "text": "<math><mi mathvariant=\"normal\">m</mi><mo>=</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "id": "JUTIP",
+        "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mi mathvariant=\"normal\">a</mi></mrow></msub></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "eW65m",
+    "solution_text": "Energy for transition of electron from one orbit to other is given by-<br /><math><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mn>13.6</mn></mrow></mfenced><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mrow><mi>λ</mi></mrow></mfrac></math><br /><math><mo>⇒</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>λ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>13.6</mn></mrow><mrow><mi>h</mi><mi>c</mi></mrow></mfrac><mo>.</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></mrow></mfenced></math><br />Now as per question<br /><math><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>13.6</mn></mrow><mrow><mi>h</mi><mi>c</mi></mrow></mfrac><mo>.</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mn>4</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></math><br />and <math><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>13.6</mn></mrow><mrow><mi>h</mi><mi>c</mi></mrow></mfrac><mo>.</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mn>4</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfenced></math><br /><math><mo>⇒</mo><mfrac><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mrow><mfenced separators=\"|\"><mrow><mn>15</mn></mrow></mfenced><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>&nbsp;</mi></mrow><mrow><mn>16</mn><mo>-</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br />But <math><mfrac><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi></mrow></mfenced></math><br /><math><mo>⇒</mo><mfrac><mrow><mn>16</mn><mo>-</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>15</mn><mi>&nbsp;</mi><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mo>⇒</mo><mn>16</mn><mo>-</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>3</mn><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math><mo>⇒</mo><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn></math><br /><math><mo>⇒</mo><mi>m</mi><mo>=</mo><mn>2</mn><mi>&nbsp;</mi><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> is correct<br />Now,<br /><math><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>13.6</mn></mrow><mrow><mi>h</mi><mi>c</mi></mrow></mfrac><mo>.</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mfenced></math><br /><math><mo>=</mo><mfrac><mrow><mn>13.6</mn></mrow><mrow><mn>1242</mn></mrow></mfrac><mo>×</mo><mn>1</mn><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mfenced><mi>&nbsp;</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi>h</mi><mi>c</mi><mo>=</mo><mn>1242</mn><mi>&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">&nbsp;</mi><mi>z</mi><mo>=</mo><mn>1</mn></mrow></mfenced></math><br /><math><mo>⇒</mo><msub><mrow><mi>λ</mi></mrow><mrow><mi>e</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>1242</mn></mrow><mrow><mn>13.6</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><mn>16</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mn>487</mn><mi>&nbsp;</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&nbsp;</mi><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> is incorrect<br />Now, kinetic energy of electron<br /><math><mi>K</mi><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br /><math><mo>⇒</mo><mfrac><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>K</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math> is correct<br />Also, <math><mo>∆</mo><mi>P</mi><mo>=</mo><mfrac><mrow><mi>h</mi></mrow><mrow><mi>λ</mi></mrow></mfrac></math><br /><math><mo>⇒</mo><mfrac><mrow><mo>∆</mo><msub><mrow><mi>P</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow><mrow><mo>∆</mo><msub><mrow><mi>P</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>e</mi></mrow></msub></mrow><mrow><msub><mrow><mi>λ</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mfrac><mo>=</mo><mn>5</mn></math><br /><math><mo>⇒</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">D</mi></mrow></mfenced></math> is incorrect.",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a6bf23ac7d519f9b441",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "Consider a hydrogen-like ionized atom with atomic number <math> <mi>Z</mi> </math> with a single electron. In the emission spectrum of this atom, the photon emitted in the <math><mi>n</mi><mo>=</mo><mn>2</mn><mi>&#160;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi>&#160;</mi><mi>n</mi><mo>=</mo><mi>&#160;</mi><mn>1</mn></math> transition has energy <math><mn>74.8</mn><mi>&#160;</mi><mi>eV</mi></math> higher than the photon emitted in the <math><mi>n</mi><mo>=</mo><mn>3</mn><mi>&#160;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi>&#160;</mi><mi>n</mi><mo>=</mo><mn>2</mn></math> transition. Given that the ionization energy of the hydrogen atom is <math><mn>13.6</mn><mi>&#160;</mi><mi>eV</mi></math>, what is the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math>?",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<math><mo>∆</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn> <mo>&#x2192;</mo><mn>1</mn></mrow></msub><mo>=</mo><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced></math><br /><math><mo>∆</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn> <mo>&#x2192;</mo><mn>2</mn></mrow></msub><mo>=</mo><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>36</mn></mrow></mfrac></mrow></mfenced></math><br /><math><mo>∆</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>2</mn> <mo>&#x2192;</mo><mn>1</mn></mrow></msub><mo>=</mo><mo>∆</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>3</mn><mo>-</mo><mn>2</mn></mrow></msub><mo>+</mo><mn>74.8</mn></math><br /><math><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>36</mn></mrow></mfrac></mrow></mfenced><mo>+</mo><mn>74.8</mn></math><br /><math><mn>13.6</mn><mo>×</mo><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>36</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>74.8</mn></math><br /><math><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>9</mn></math><br /><math><mi>Z</mi><mo>=</mo><mo>+</mo><mn>3</mn></math>",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b399",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "An electron in a hydrogen atom undergoes a transition from an orbit with a quantum number <math><msub><mrow><mi>n</mi></mrow><mrow><mi>i</mi></mrow></msub></math> to another quantum number <math><msub><mrow><mi>n</mi></mrow><mrow><mi>f</mi></mrow></msub></math> . <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mi>i</mi></msub><mi>&#160;</mi><mtext>and</mtext><mi>&#160;</mi><msub><mi>V</mi><mi>f</mi></msub></math> are the initial and final potential energies of the electron. If <math><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mfrac><mo>=</mo><mn>6.25</mn></math> then the smallest <math><msub><mrow><mi>n</mi></mrow><mrow><mi>f</mi></mrow></msub></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p><math><mi>U</mi><mo>=</mo><mi>&nbsp;</mi><mo>-</mo><mfrac><mrow><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mi>&nbsp;</mi><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></math></p><p><math><mi>Z</mi><mo>=</mo><mn>1</mn></math></p><p><math><mi>U</mi><mo>=</mo><mo>-</mo><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p><p><math><mfrac><mrow><msub><mrow><mi>U</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow><mrow><msub><mrow><mi>U</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msubsup><mrow><mi>n</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><msubsup><mrow><mi>n</mi></mrow><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac><mo>=</mo><mn>6.25</mn></math></p><p>Taking&nbsp;&nbsp;<math><msub><mrow><mi>n</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>=</mo><mn>2</mn></math></p><p><math><msub><mrow><mi>n</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mn>5</mn></math></p>",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a4df23ac7d519f9b330",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "Highly excited states for hydrogen like atoms (also called Rydberg states) with nuclear charge Ze are defined by their principal quantum number n, where n &gt;&gt; 1. Which of the following statement(s) is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VJMn5",
+        "text": "Relative change in the radii of two consecutive orbitals does not depend on Z",
+        "image": null
+      },
+      {
+        "id": "H2Qri",
+        "text": "Relative change in the radii of two consecutive oribitals varies as 1/n",
+        "image": null
+      },
+      {
+        "id": "BWKKL",
+        "text": "Relative change in the energy of two consecutive orbitals varies as 1/ <math><msup><mrow><mi>n</mi></mrow><mrow><mn>3</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "VKdrh",
+        "text": "Relative change in the angular momenta of two consecutive orbitals varies as 1/n",
+        "image": null
+      }
+    ],
+    "correct_answer": "VKdrh",
+    "solution_text": "As radius  <math><mi>r</mi><mi> </mi><mo>∝</mo><mfrac><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>z</mi></mrow></mfrac><mn>0</mn></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mfrac><mrow><mo>∆</mo><mi>r</mi></mrow><mrow><mi>r</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>z</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>n</mi></mrow><mrow><mi>z</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>n</mi></mrow><mrow><mi>z</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>≈</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>n</mi></mrow></mfrac><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></math>  <br >As energy  <math><mi>E</mi><mi> </mi><mo>∝</mo><mfrac><mrow><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mfrac><mrow><mo>∆</mo><mi>E</mi></mrow><mrow><mi>E</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mrow><mfrac><mrow><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>.</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>.</mo><mi> </mi><msup><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math>  <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mfrac><mrow><mo>∆</mo><mi>E</mi></mrow><mrow><mi>E</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>≃</mo><mfrac><mrow><mn>2</mn><mi>n</mi></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></math>  <br >As angular momentum  <math><mi>L</mi><mo>=</mo><mfrac><mrow><mi>n</mi><mi>h</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi> </mi><mi> </mi><mfrac><mrow><mo>∆</mo><mi>L</mi></mrow><mrow><mi>L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mfenced separators=\"|\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mi>h</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>n</mi><mi>h</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></mrow><mrow><mfrac><mrow><mi>n</mi><mi>h</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac><mi> </mi><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b1fc",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The radius of the orbit of an electron in a Hydrogen-like atom is 4.5 a<sub>0</sub>, where a<sub>0</sub> is the Bohr radius. Its orbital angular momentum is <math> <mrow> <mfrac> <mrow> <mn>3</mn> <mtext>h</mtext> </mrow> <mrow> <mn>2</mn> <mtext>&#960;</mtext> </mrow> </mfrac><mn>.</mn> </mrow> </math> It is given that h is Planck&#39;s constant and R is Rydberg constant. the possible wavelength (s), when the atom de-excites, is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "c66Uh",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>9</mn> </mrow> <mrow> <mn>3</mn> <mn>2</mn> <mtext>R</mtext> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "poVEa",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>9</mn> </mrow> <mrow> <mn>1</mn> <mn>6</mn> <mtext>R</mtext> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "9S73m",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>9</mn> </mrow> <mrow> <mn>5</mn> <mtext>R</mtext> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "KVQbV",
+        "text": "<math><mrow>  <mfrac>    <mrow>      <mn>4</mn>    </mrow>    <mrow>      <mn>3</mn>            <mtext>R</mtext>    </mrow>  </mfrac></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "9S73m",
+    "solution_text": "<math> <mrow> <msub> <mtext>R</mtext> <mtext>n</mtext> </msub> <mo>=</mo> <mtext>4.5</mtext> <msub> <mtext>a</mtext> <mn>0</mn> </msub><mo>&#160;&#160;&#8658;&#160;&#160;</mo> <msub> <mtext>a</mtext> <mn>0</mn> </msub> <msup> <mtext>n</mtext> <mn>2</mn> </msup> <mo>/</mo> <mtext>z</mtext> <mo>=</mo> <mtext>4.5&#160;</mtext> <msub> <mtext>a</mtext> <mn>0</mn> </msub> </mrow> </math><br /><math> <mrow> <mo>&#8756;&#160;&#160;&#160;</mo> <mtext>n</mtext> <mo>=</mo> <mn>3</mn> <mo>,&#160;</mo> <mtext>z</mtext> <mo>=</mo> <mn>2</mn> </mrow> </math><br /><math> <mrow> <mtext>L</mtext> <mo>=</mo> <mtext>mvr</mtext> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mtext>h</mtext> </mrow> <mrow> <mn>2</mn> <mi>&#960;</mi> </mrow> </mfrac> <mspace width=\"0.5em\"></mspace> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mtext>as n</mtext> <mo>=</mo> <mn>3</mn> <mtext>,</mtext> <mspace width=\"0.5em\"></mspace> <mtext>z</mtext> <mo>=</mo> <mn>2</mn> </mrow> </mfenced> </mrow> </math><br /><u><strong><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012629_AnsExp1_1.jpg\" /></strong></u><br /><math> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mi>&#955;</mi> </mrow> </mfrac> <mo>=</mo> <msup> <mtext>Rz</mtext> <mn>2</mn> </msup> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <msubsup> <mtext>n</mtext> <mtext>f</mtext> <mn>2</mn> </msubsup> </mrow> </mfrac> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <msubsup> <mtext>n</mtext> <mtext>1</mtext> <mn>2</mn> </msubsup> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <msub> <mi>&#955;</mi> <mrow> <mn>3</mn> <mo>&#8594;</mo> <mn>1</mn> </mrow> </msub> </mrow> </mfrac> <mo>=</mo> <mtext>R</mtext> <mn>4</mn> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>1</mn> </mrow> </mfrac> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>9</mn> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mn>4</mn> <mtext>R</mtext> <mfrac> <mrow> <mn>8</mn> </mrow> <mrow> <mn>9</mn> </mrow> </mfrac> <mo>&#8658;</mo> <msub> <mi>&#955;</mi> <mrow> <mn>3</mn> <mo>&#8594;</mo> <mn>1</mn> </mrow> </msub> <mo>=</mo> <mfrac> <mrow> <mn>9</mn> </mrow> <mrow> <mn>3</mn> <mn>2</mn> <mtext>R</mtext> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <msub> <mi>&#955;</mi> <mrow> <mn>2</mn> <mo>&#8594;</mo> <mn>1</mn> </mrow> </msub> </mrow> </mfrac> <mo>=</mo> <mtext>R</mtext> <mn>4</mn> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>1</mn> </mrow> </mfrac> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> <mn>4</mn> <mtext>R</mtext> <mo>&#8658;</mo> <msub> <mi>&#955;</mi> <mrow> <mn>2</mn> <mo>&#8594;</mo> <mn>1</mn> </mrow> </msub> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>3</mn> <mtext>R</mtext> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <msub> <mi>&#955;</mi> <mrow> <mn>3</mn> <mo>&#8594;</mo> <mn>2</mn> </mrow> </msub> </mrow> </mfrac> <mo>=</mo> <mtext>R</mtext> <mn>4</mn> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>9</mn> </mrow> </mfrac> </mrow> </mfenced> <mo>=</mo> <mfrac> <mrow> <mn>5</mn> </mrow> <mrow> <mn>3</mn> <mn>6</mn> </mrow> </mfrac> <mn>4</mn> <mtext>R</mtext> <mo>&#8658;</mo> <msub> <mi>&#955;</mi> <mrow> <mn>3</mn> <mo>&#8594;</mo> <mn>2</mn> </mrow> </msub> <mo>=</mo> <mfrac> <mrow> <mn>9</mn> </mrow> <mrow> <mn>5</mn> <mtext>R</mtext> </mrow> </mfrac> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a05f23ac7d519f9b099",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe key feature of Bohr's theory of spectrum of hydrogen atom is the quantization of angular momentum when an electron is revolving around a proton. We will extend this to a general rotational motion to find quantized rotational energy of a diatomic molecule assuming it to be rigid. The rule to be applied is Bohr's quantization condition.<strong>Question:</strong>\nIn a CO molecule, the distance between $\\mathrm{C}$ (mass $=12 \\mathrm{amu}$ ) and $\\mathrm{O}$ (mass = $16 \\mathrm{amu}$ ), where $1 \\mathrm{amu}=\\frac{5}{3} \\times 10^{-27} \\mathrm{~kg}$, is close to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pY2Hn",
+        "text": "\n$2.4 \\times 10^{-10} \\mathrm{~m}$\n",
+        "image": null
+      },
+      {
+        "id": "wedOT",
+        "text": "\n$1.9 \\times 10^{-10} \\mathrm{~m}$\n",
+        "image": null
+      },
+      {
+        "id": "F1qwl",
+        "text": "\n$1.3 \\times 10^{-10} \\mathrm{~m}$\n",
+        "image": null
+      },
+      {
+        "id": "oooDP",
+        "text": "\n$4.4 \\times 10^{-11} \\mathrm{~m}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "F1qwl",
+    "solution_text": "$I=\\mu r^2$ ( where $\\mu=$ reduced mass) $\\mu=\\frac{m_1 m_2}{m_1+m_2}=\\frac{48}{7} \\mathrm{amu}$ $=11.43 \\times 10^{-27} \\mathrm{~kg}$\nSubstituting in $I=\\mu r^2$ we get,\n$$\n\\begin{aligned}\nr & =\\sqrt{\\frac{I}{\\mu}}=\\sqrt{\\frac{1.87 \\times 10^{-46}}{11.43 \\times 10^{-27}}} \\\\\n& =1.28 \\times 10^{-10} \\mathrm{~m}\n\\end{aligned}\n$$\n$\\therefore$ The correct answer is (c).",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a05f23ac7d519f9b098",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe key feature of Bohr's theory of spectrum of hydrogen atom is the quantization of angular momentum when an electron is revolving around a proton. We will extend this to a general rotational motion to find quantized rotational energy of a diatomic molecule assuming it to be rigid. The rule to be applied is Bohr's quantization condition.<strong>Question:</strong>\nIt is found that the excitation frequency from ground to the first excited state of rotation for the $\\mathrm{CO}$ molecule is close to $\\frac{4}{\\pi} \\times 10^{11} \\mathrm{~Hz}$. Then the moment of inertia of CO molecule about its centre of mass is close to (Take $h=2 \\pi \\times 10^{-34} J-s$ )",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8Oma8",
+        "text": "\n$2.76 \\times 10^{-46} \\mathrm{~kg}-\\mathrm{m}^2$\n",
+        "image": null
+      },
+      {
+        "id": "CoVhi",
+        "text": "\n$1.87 \\times 10^{-46} \\mathrm{~kg}-\\mathrm{m}^2$\n",
+        "image": null
+      },
+      {
+        "id": "bjsOh",
+        "text": "\n$4.67 \\times 10^{-47} \\mathrm{~kg}-\\mathrm{m}^2$\n",
+        "image": null
+      },
+      {
+        "id": "qs69J",
+        "text": "\n$1.17 \\times 10^{-47} \\mathrm{~kg}-\\mathrm{m}^2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "CoVhi",
+    "solution_text": "$$\n\\begin{gathered}\nh v=K_2-K_1=\\frac{3 h^2}{8 \\pi^2 I} \\\\\n\\therefore I=\\frac{3 h}{8 \\pi^2 f}=\\frac{3 \\times 2 \\pi \\times 10^{-34} \\times \\pi}{8 \\times \\pi^2 \\times 4 \\times 10^{11}}\n\\end{gathered}\n$$\n$$\n=1.87 \\times 10^{-46} \\mathrm{~kg}-\\mathrm{m}^2\n$$\n$\\therefore$ The correct answer is (b).",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b16a05f23ac7d519f9b097",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe key feature of Bohr's theory of spectrum of hydrogen atom is the quantization of angular momentum when an electron is revolving around a proton. We will extend this to a general rotational motion to find quantized rotational energy of a diatomic molecule assuming it to be rigid. The rule to be applied is Bohr's quantization condition.<strong>Question:</strong>\nA diatomic molecule has moment of inertia I. By Bohr's quantization condition its rotational energy in the $n$th level ( $n=0$ is not allowed) is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Z4zca",
+        "text": "\n$\\frac{1}{n^2}\\left(\\frac{h^2}{8 \\pi^2 I}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "hic9h",
+        "text": "\n$\\frac{1}{n}\\left(\\frac{h^2}{8 \\pi^2 I}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "wUoEA",
+        "text": "\n$n\\left(\\frac{h^2}{8 \\pi^2 I}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "yYnHm",
+        "text": "\n$n^2\\left(\\frac{h^2}{8 \\pi^2 I}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "yYnHm",
+    "solution_text": "$$\n\\begin{aligned}\nL=I \\omega & =\\frac{n h}{2 \\pi} \\therefore \\omega=\\frac{n h}{2 \\pi I} \\\\\nK & =\\frac{1}{2} I \\omega^2=\\frac{1}{2} I\\left(\\frac{n h}{2 \\pi I}\\right)^2 \\\\\n& =\\frac{n^2 h^2}{8 \\pi^2 I}\n\\end{aligned}\n$$\n$\\therefore$ The correct answer is (d).",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afd1",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nWhen a particle is restricted to move along $x$-axis between $x=0$ and $x=a$, where $a$ is of nanometer dimension, its energy can take only certain specific values. The allowed energies of the particle moving in such a restricted region, correspond to the formation of standing waves with nodes at its ends $x=0$ and $x=a$. The wavelength of this standing wave is related to the liner momentum $p$ of the particle according to the de Broglie relation. The energy of the particle of mass $m$ is related to its linear momentum as $E=\\frac{p^2}{2 m}$. Thus, the energy of the particle can be denoted by a quantum number $n$ taking values $1,2,3, \\ldots(n=1$, called the ground state) corresponding to the number of loops in the standing wave.\nUse the model described above to answer the following three questions for a particle moving in the line $x=0$ to $x=a$ [Take $h=6.6 \\times 10^{-34} \\mathrm{Js}$ and $e=1.6 \\times 10^{-19} \\mathrm{C}$ ]<strong>Question:</strong>\nThe speed of the particle that can take discrete values is proportional to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZzsmF",
+        "text": "\n$n^{-3 / 2}$\n",
+        "image": null
+      },
+      {
+        "id": "LlViy",
+        "text": "\n$n^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "TJBAx",
+        "text": "\n$n^{1 / 2}$\n",
+        "image": null
+      },
+      {
+        "id": "bP1OM",
+        "text": "\n$n$",
+        "image": null
+      }
+    ],
+    "correct_answer": "bP1OM",
+    "solution_text": "From Eq. (i)",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afd0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nWhen a particle is restricted to move along $x$-axis between $x=0$ and $x=a$, where $a$ is of nanometer dimension, its energy can take only certain specific values. The allowed energies of the particle moving in such a restricted region, correspond to the formation of standing waves with nodes at its ends $x=0$ and $x=a$. The wavelength of this standing wave is related to the liner momentum $p$ of the particle according to the de Broglie relation. The energy of the particle of mass $m$ is related to its linear momentum as $E=\\frac{p^2}{2 m}$. Thus, the energy of the particle can be denoted by a quantum number $n$ taking values $1,2,3, \\ldots(n=1$, called the ground state) corresponding to the number of loops in the standing wave.\nUse the model described above to answer the following three questions for a particle moving in the line $x=0$ to $x=a$ [Take $h=6.6 \\times 10^{-34} \\mathrm{Js}$ and $e=1.6 \\times 10^{-19} \\mathrm{C}$ ]<strong>Question:</strong>\nIf the mass of the particle is $m=1.0 \\times 10^{-30} \\mathrm{~kg}$ and $a=6.6 \\mathrm{~nm}$, the energy of the particle in its ground state is closest to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jwvqb",
+        "text": "\n$0.8 \\mathrm{meV}$\n",
+        "image": null
+      },
+      {
+        "id": "4dYzL",
+        "text": "\n$8 \\mathrm{meV}$\n",
+        "image": null
+      },
+      {
+        "id": "7309u",
+        "text": "\n$80 \\mathrm{meV}$\n",
+        "image": null
+      },
+      {
+        "id": "MqUj7",
+        "text": "\n$800 \\mathrm{meV}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "4dYzL",
+    "solution_text": "From Eq. (i)\n$$\nE=\\frac{n^2 h^2}{8 a^2 m}\n$$\nIn ground state $n=1$\n$$\n\\therefore \\quad E_1=\\frac{h^2}{8 m a^2}\n$$\nSubstituting the values, we get\n$$\nE_1=8 \\mathrm{meV}\n$$",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  },
+  {
+    "question_id": "64b169eff23ac7d519f9afcf",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nWhen a particle is restricted to move along $x$-axis between $x=0$ and $x=a$, where $a$ is of nanometer dimension, its energy can take only certain specific values. The allowed energies of the particle moving in such a restricted region, correspond to the formation of standing waves with nodes at its ends $x=0$ and $x=a$. The wavelength of this standing wave is related to the liner momentum $p$ of the particle according to the de Broglie relation. The energy of the particle of mass $m$ is related to its linear momentum as $E=\\frac{p^2}{2 m}$. Thus, the energy of the particle can be denoted by a quantum number $n$ taking values $1,2,3, \\ldots(n=1$, called the ground state) corresponding to the number of loops in the standing wave.\nUse the model described above to answer the following three questions for a particle moving in the line $x=0$ to $x=a$ [Take $h=6.6 \\times 10^{-34} \\mathrm{Js}$ and $e=1.6 \\times 10^{-19} \\mathrm{C}$ ]<strong>Question:</strong>\nThe allowed energy for the particle for a particular value of $n$ is proportional to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dZmGP",
+        "text": "\n$a^{-2}$\n",
+        "image": null
+      },
+      {
+        "id": "Gdmk4",
+        "text": "\n$a^{-3 / 2}$\n",
+        "image": null
+      },
+      {
+        "id": "3OdRW",
+        "text": "\n$a^{-1}$\n",
+        "image": null
+      },
+      {
+        "id": "kpBmO",
+        "text": "\n$a^2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "dZmGP",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-S8_dG1o737Zw4q1aXyRbIfCMhQCFP25n8zQXUG9Y3s.original.fullsize.png\"><br>\n$$\n\\begin{array}{rlrl} \n& a & =\\frac{n \\lambda}{2} \\\\\n\\therefore & \\lambda & =\\frac{2 a}{n}=\\frac{h}{p}=\\frac{h}{\\sqrt{2 E m}} \\\\\n\\text { or } & \\sqrt{E} \\propto \\frac{1}{a} \\Rightarrow E \\propto \\frac{1}{a^2}\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Bohr's Atomic Model"
+  }
+]

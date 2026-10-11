@@ -1,0 +1,657 @@
+[
+  {
+    "question_id": "66965de9d603121f43a44a93",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "Let $S=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0, y \\geq 0, y^2 \\leq 4 x, y^2 \\leq 12-2 x\\right.$ and $\\left.3 y+\\sqrt{8} x \\leq 5 \\sqrt{8}\\right\\}$. If the area of the region $S$ is $\\alpha \\sqrt{2}$, then $\\alpha$ is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cw6ix",
+        "text": "$\\frac{17}{2}$",
+        "image": null
+      },
+      {
+        "id": "ij62p",
+        "text": "$\\frac{17}{3}$",
+        "image": null
+      },
+      {
+        "id": "eHAGq",
+        "text": "$\\frac{17}{4}$",
+        "image": null
+      },
+      {
+        "id": "JNEBx",
+        "text": "$\\frac{17}{5}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ij62p",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/84c0TXNZua3KytwpqFsRxx4EDqXFv1GLPTkSjLx_xqo.original.fullsize.png\">\nPoint of intersection of all curves is $(2,2 \\sqrt{2})$\nArea $=\\mathrm{A}_1+\\mathrm{A}_2$\n$\\alpha \\sqrt{2}=\\int_0^2 2 \\sqrt{\\mathrm{x}} \\mathrm{dx}+\\frac{1}{2} \\times 3 \\times 2 \\sqrt{2}$\n$\\begin{aligned} & \\alpha \\sqrt{2}=2\\left[\\frac{x^{\\frac{3}{2}}}{\\frac{3}{2}}\\right]_0^2+3 \\sqrt{2} \\\\ & \\alpha \\sqrt{2}=\\frac{17 \\sqrt{2}}{3} \\\\ & \\alpha=\\frac{17}{3}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b16a9ff23ac7d519f9b615",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "Consider the functions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>,</mo><mi>g</mi><mo>:</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> defined by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced open=\"{\" close=\"\"><mtable><mtr><mtd><mn>2</mn><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mn>4</mn><mfenced open=\"|\" close=\"|\"><mi>x</mi></mfenced></mrow><mn>3</mn></mfrac></mrow></mfenced><mo>,</mo></mtd><mtd><mfenced open=\"|\" close=\"|\"><mi>x</mi></mfenced><mo>&#8804;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mtd></mtr><mtr><mtd><mn>0</mn><mo>,</mo></mtd><mtd><mfenced open=\"|\" close=\"|\"><mi>x</mi></mfenced><mo>&#62;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mtd></mtr></mtable></mfenced></math><br />If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> is the area of the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"{\" close=\"}\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>&#215;</mo><mi mathvariant=\"normal\">&#8477;</mi><mo>:</mo><mfenced open=\"|\" close=\"|\"><mi>x</mi></mfenced><mo>&#8804;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo><mn>0</mn><mo>&#8804;</mo><mi>y</mi><mo>&#8804;</mo><mi>min</mi><mfenced open=\"{\" close=\"}\"><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>,</mo><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></mrow></mfenced></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mi>&#945;</mi></math> is _____ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<blockquote><p>Plotting the diagram of the given function we have,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eb681505-f65f-4fcb-bfab-3cc76e54e4e0-image.png\" style=\"width: 396px; height: 300px;\" />Now by diagram we can see twice of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub></math>&nbsp;will be the required area,</p><p>So, required area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mo>&#183;</mo><mfenced><mrow><msub><mi>A</mi><mn>1</mn></msub><mo>+</mo><msub><mi>A</mi><mn>2</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#945;</mi><mo>=</mo><mfenced><mrow><msubsup><mo>&#8747;</mo><mn>0</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></msubsup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></mrow></mfenced><mi>d</mi><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mo>&#183;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced><mo>&#215;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#945;</mi><mo>=</mo><mfenced><mrow><msubsup><mfenced close=\"|\" open=\"\"><mfenced><mrow><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac><mo>+</mo><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>12</mn></mfrac></mrow></mfenced></mfenced><mn>0</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></msubsup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8901;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#8901;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced><mo>&#215;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>&#945;</mi><mo>=</mo><mfenced><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>12</mn></mfrac></mrow></mfenced><mo>&#215;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><mi>&#945;</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#8658;</mo><mn>9</mn><mi>&#945;</mi><mo>=</mo><mn>6</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b16a8cf23ac7d519f9b569",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "The area of the region<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"{\" close=\"}\"><mrow><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo><mo>:</mo><mn>0</mn><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mn>9</mn><mn>4</mn></mfrac><mo>,</mo><mo>&#160;&#160;</mo><mn>0</mn><mo>&#8804;</mo><mi>y</mi><mo>&#8804;</mo><mn>1</mn><mo>,</mo><mo>&#160;&#160;</mo><mi>x</mi><mo>&#8805;</mo><mn>3</mn><mi>y</mi><mo>,</mo><mo>&#160;&#160;</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>&#8805;</mo><mn>2</mn></mrow></mfenced></math>&nbsp;is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2O5cy",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>11</mn><mn>32</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "0KebQ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>35</mn><mn>96</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "maGh1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>37</mn><mn>96</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "cRAZc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>13</mn><mn>32</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2O5cy",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5a4b5416-1473-4d8f-ab32-b75092d8ce2c-image.png\" style=\"width: 340px; height: 217px;\" /></p><p>The region is a quadrilateral&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi><mi>D</mi></math></p><p>Now, area of the quadrilateral&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi><mi>D</mi><mo>=</mo></math>area of triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>D</mi><mo>+</mo></math>area of the triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>C</mi><mi>D</mi></math>&nbsp;</p><p>So, area&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced open=\"|\" close=\"|\"><mtable><mtr><mtd><mfrac><mn>3</mn><mn>2</mn></mfrac></mtd><mtd><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mfrac><mn>9</mn><mn>4</mn></mfrac></mtd><mtd><mfrac><mn>3</mn><mn>4</mn></mfrac></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfenced><mrow><mfrac><mn>9</mn><mn>4</mn></mfrac><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#215;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced open=\"{\" close=\"}\"><mrow><mo>-</mo><mn>2</mn><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mfenced><mo>-</mo><mfenced><mrow><mfrac><mn>9</mn><mn>8</mn></mfrac><mo>-</mo><mfrac><mn>9</mn><mn>8</mn></mfrac></mrow></mfenced></mrow></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>&#215;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>32</mn></mfrac><mo>=</mo><mfrac><mn>11</mn><mn>32</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b16a80f23ac7d519f9b4fc",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Let the functions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mo>:</mo><mi>R</mi><mo>&#8594;</mo><mi>R</mi></math> be defined by<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></msup><mo>&#8722;</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></mfenced></mrow></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>&#8722;</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>&#8722;</mo><mi>x</mi></mrow></msup></mrow></mfenced></math>.<br />Then the area of the region in the first quadrant bounded by the curves <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mi>g</mi><mfenced><mi>x</mi></mfenced></math> and <math> <mrow> <mi>x</mi><mo>=</mo><mn>0</mn></mrow> </math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "raXB6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>&#8722;</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>e</mi><mo>&#8722;</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "sKDUI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>+</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>e</mi><mo>&#8722;</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "y2sYH",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>&#8722;</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>e</mi><mo>+</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "b0s64",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>+</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>e</mi><mo>+</mo><msup><mi>e</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "raXB6",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfenced></mrow></msup><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\" columnspacing=\"1.4ex\"><mtr><mtd><mn>0</mn><mo>,</mo></mtd><mtd><mi>x</mi><mo>≤</mo><mn>1</mn></mtd></mtr><mtr><mtd><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>−</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></msup><mo>,</mo></mtd><mtd><mi>x</mi><mo>></mo><mn>1</mn></mtd></mtr></mtable></mfenced></math> and</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced></math></p><p>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo> </mo><mi>f</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mn>0</mn><mo> </mo><mo>&</mo><mo> </mo><mi>g</mi><mfenced><mn>0</mn></mfenced><mo>=</mo><mfrac><mrow><mi>e</mi><mo>+</mo><msup><mi>e</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow><mn>2</mn></mfrac></math></p><p>At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo> </mo><mi>f</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mn>0</mn><mo> </mo><mo>&</mo><mo> </mo><mi>g</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msup><mi>e</mi><mrow><mn>1</mn><mo>-</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p>For point of intersection of the two curves for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>></mo><mn>1</mn></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>g</mi><mfenced><mi>x</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>−</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>2</mn><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>−</mo><mn>2</mn><msup><mi>e</mi><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></msup><mo>=</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>3</mn><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><msup><mfenced><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup></mfenced><mn>2</mn></msup><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>x</mi><mo>=</mo><mn>1</mn><mo>+</mo><mi>ln</mi><msqrt><mn>3</mn></msqrt></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/372a8e3f-1bc1-4b19-b957-c8b4b8f5dfab-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo></math>Required area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> Area of the shaded region</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mn>1</mn></msubsup><mi>g</mi><mfenced><mi>x</mi></mfenced><mi>d</mi><mi>x</mi><mo>+</mo><msubsup><mo>∫</mo><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>ln</mi><msqrt><mn>3</mn></msqrt></mrow></msubsup><mfenced close=\"}\" open=\"{\"><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>−</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mn>1</mn></msubsup><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced><mi>d</mi><mi>x</mi><mo>+</mo><msubsup><mo>∫</mo><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>ln</mi><msqrt><mn>3</mn></msqrt></mrow></msubsup><mfenced close=\"}\" open=\"{\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced><mo>−</mo><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>−</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced></mrow></mfenced><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msubsup><mo>∫</mo><mn>0</mn><mn>1</mn></msubsup><mfenced><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced><mi>d</mi><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msubsup><mo>∫</mo><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>ln</mi><msqrt><mn>3</mn></msqrt></mrow></msubsup><mfenced><mrow><mn>3</mn><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup><mo>-</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup></mrow></mfenced><mi>d</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msubsup><mfenced close=\"]\" open=\"[\"><mrow><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>-</mo><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup></mrow></mfenced><mn>0</mn><mn>1</mn></msubsup><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msubsup><mfenced close=\"]\" open=\"[\"><mrow><mn>3</mn><msup><mi>e</mi><mrow><mn>1</mn><mo>−</mo><mi>x</mi></mrow></msup><mo>+</mo><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup></mrow></mfenced><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>ln</mi><msqrt><mn>3</mn></msqrt></mrow></msubsup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>e</mi><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></mfenced><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced close=\"]\" open=\"[\"><mrow><mn>2</mn><msqrt><mn>3</mn></msqrt><mo>−</mo><mn>4</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi>e</mi><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><mn>2</mn></mfrac><mo>+</mo><mfenced><mrow><mn>2</mn><mo>−</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b16a1ef23ac7d519f9b17c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Let $\\mathrm{S}$ be the area of the region enclosed by $y=e^{-x^{2}}$, $y=0, x=0$ and $x=1$; then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7t04D",
+        "text": "$S \\geq \\frac{1}{e}$",
+        "image": null
+      },
+      {
+        "id": "aRKW2",
+        "text": "$S \\geq 1-\\frac{1}{e}$",
+        "image": null
+      },
+      {
+        "id": "Uip9b",
+        "text": "$S \\leq \\frac{1}{4}\\left(1+\\frac{1}{\\sqrt{e}}\\right)$",
+        "image": null
+      },
+      {
+        "id": "yb0OO",
+        "text": "$S \\leq \\frac{1}{\\sqrt{2}}+\\frac{1}{\\sqrt{e}}\\left(1-\\frac{1}{\\sqrt{2}}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "yb0OO",
+    "solution_text": "The given curve $y=e^{-x^{2}}$ Draw a rough sketch of curve at $x=0, y=1$ and at $x=1, y=1 / e$ $\\because y=e^{-x^{2}}$ $\\Rightarrow \\frac{d y}{d x}=-2 x e^{-x^{2}} < 0 \\quad \\forall x \\in(0,1)$\r\n\r\n$\\therefore y=e^{-x^{2}}$ is decreasing on $(0,1)$\r\n\r\nHence its graph is as shown in figure given below<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EsW5pZYCySy0dpsUUr6Q7PG_G-p7oYK6ONlT1YJfaKg.original.fullsize.png\"><br>\r\n\r\nNow, $\\mathrm{S}=$ area exclosed by curve $=\\mathrm{XYCO}$\r\n\r\nand area of rectangle $\\mathrm{OCYL}=\\frac{1}{e}$\r\n\r\nClearly $S>\\frac{1}{e} \\quad \\therefore$ a is true.\r\n\r\nFor $x \\in[0,1] \\Rightarrow x^{2} < x$\r\n\r\n$\\begin{array}{l}\r\n\r\n\\Rightarrow-x^{2}>-x \\quad \\Rightarrow e^{-x^{2}} \\geq e^{-x} \\forall x \\in[0,1] \\\\\r\n\r\n\\Rightarrow \\int_{0}^{1} e^{-x^{2}} d x>\\int_{0}^{1} e^{-x} d x=1-\\frac{1}{e} \\\\\r\n\r\n\\Rightarrow S>1-\\frac{1}{e} \\quad \\therefore \\text { (b) is true. }\r\n\r\n\\end{array}$\r\n\r\nNow $S < $ area of rectangle $\\mathrm{XADO}+$ area of rectangle $\\mathrm{ZDCN}$ $\\Rightarrow S < \\frac{1}{\\sqrt{2}} \\times 1+\\left(1-\\frac{1}{\\sqrt{2}}\\right) \\frac{1}{\\sqrt{e}}$ $\\therefore S < \\frac{1}{\\sqrt{2}}+\\frac{1}{\\sqrt{e}}\\left(1-\\frac{1}{\\sqrt{2}}\\right) \\quad \\because(\\mathrm{d})$ is true\r\n\r\nAlso as $\\frac{1}{4}\\left(1+\\frac{1}{\\sqrt{e}}\\right) < 1-\\frac{1}{e} \\quad \\therefore$ (c) is incorrect.",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b16a09f23ac7d519f9b0be",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nConsider the polynomial $f(x)=1+2 x+3 x^2+4 x^3$. Let $s$ be the sum of all distinct real roots of $f(x)$ and let $t=|s|$.<strong>Question:</strong>\nThe area bounded by the curve $y=f(x)$ and the lines $x=0, y=0$ and $x=t$, lies in the interval",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5PBh5",
+        "text": "\n$\\left(\\frac{3}{4}, 3\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "ijsxb",
+        "text": "\n$\\left(\\frac{21}{64}, \\frac{11}{16}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "wx6Pr",
+        "text": "\n$(9,10)$\n",
+        "image": null
+      },
+      {
+        "id": "GAGyJ",
+        "text": "\n$\\left(0, \\frac{21}{64}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "5PBh5",
+    "solution_text": "$\\int_0^{1 / 2} f(x) d x < \\int_0^t f(x) d x < \\int_0^{3 / 4} f(x) d x$ Now, $\\int f(x) d x$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Y1rOmN-ABGVZnGrMYQXtd39YRuXI_W0Y9AEChDFAJoQ.original.fullsize.png\"><br>\n\n$$\n\\begin{gathered}\n=\\int\\left(1+2 x+3 x^2+4 x^3\\right) d x \\\\\n=x+x^2+x^3+x^4 \\\\\n\\Rightarrow \\quad \\int_0^{1 / 2} f(x) d x=\\frac{15}{16}>\\frac{3}{4} \\\\\n\\int_0^{3 / 4} f(x) d x=\\frac{530}{256} < 3\n\\end{gathered}\n$$",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b169f3f23ac7d519f9aff4",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Area of the region bounded by the curve $y=e^x$ and lines $x=0$ and $y=e$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PQwtk",
+        "text": "\n$e-1$\n",
+        "image": null
+      },
+      {
+        "id": "bv7M2",
+        "text": "\n$\\int_1^e \\ln (e+1-y) d y$\n",
+        "image": null
+      },
+      {
+        "id": "yk3Pp",
+        "text": "\n$e-\\int_0^1 e^x d x$\n",
+        "image": null
+      },
+      {
+        "id": "2u4yQ",
+        "text": "\n$\\int_1^e \\ln y d y$",
+        "image": null
+      }
+    ],
+    "correct_answer": "2u4yQ",
+    "solution_text": "Shaded area $=e-\\left(\\int_0^1 e^x d x\\right)=1$\nAlso, $\\quad \\int_1^e \\ln (e+1-y) d y$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/oZ4wxm1sBB6e6-hxsJA-BK35ZdmsmKWhMSod8yCCHEg.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n& =\\int_e^q \\ln t(-d t) \\\\\n& \\text { [put } e+1-y=t \\Rightarrow-d y=d t \\text { ] } \\\\\n& =\\int_1^e \\ln t d t=\\int_1^e \\ln y d y=1\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b169ebf23ac7d519f9afb0",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "The area of the region between the curves $y=\\sqrt{\\frac{1+\\sin x}{\\cos x}}$ and $y=\\sqrt{\\frac{1-\\sin x}{\\cos x}}$ bounded by the lines $x=0$ and $x=\\frac{\\pi}{4}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ZPqCz",
+        "text": "\n$\\int_0^{\\sqrt{2}-1} \\frac{t}{\\left(1+t^2\\right) \\sqrt{1-t^2}} d t$\n",
+        "image": null
+      },
+      {
+        "id": "DsWOq",
+        "text": "\n$\\int_0^{\\sqrt{2}-1} \\frac{4 t}{\\left(1+t^2\\right) \\sqrt{1-t^2}} d t$\n",
+        "image": null
+      },
+      {
+        "id": "euxm6",
+        "text": "\n$\\int_0^{\\sqrt{2}+1} \\frac{4 t}{\\left(1+t^2\\right) \\sqrt{1-t^2}} d t$\n",
+        "image": null
+      },
+      {
+        "id": "YNoYL",
+        "text": "\n$\\int_0^{\\sqrt{2}+1} \\frac{t}{\\left(1+t^2\\right) \\sqrt{1-t^2}} d t$",
+        "image": null
+      }
+    ],
+    "correct_answer": "DsWOq",
+    "solution_text": "$$\n\\begin{aligned}\n& \\text { Required area }=\\int_0^{\\pi / 4}\\left(\\sqrt{\\frac{1+\\sin x}{\\cos x}}-\\sqrt{\\frac{1-\\sin x}{\\cos x}}\\right) d x \\quad\\left[\\because \\frac{1+\\sin x}{\\cos x}>\\frac{1-\\sin x}{\\cos x}>0\\right] \\\\\n& \\left.=\\int_0^{\\pi / 4} \\sqrt{\\frac{1+\\frac{2 \\tan \\frac{x}{2}}{1+\\tan ^2 \\frac{x}{2}}}{\\frac{1-\\tan ^2 \\frac{x}{2}}{1+\\tan ^2 \\frac{x}{2}}}} \\sqrt{\\frac{1-\\frac{2 \\tan \\frac{x}{2}}{1+\\tan ^2 \\frac{x}{2}}}{\\frac{1-\\tan ^2 \\frac{x}{2}}{1+\\tan ^2 \\frac{x}{2}}}}\\right) d x \\\\\n& \\left.=\\int_0^{\\pi / 4} \\sqrt{\\frac{1+\\tan \\frac{x}{2}}{1-\\tan \\frac{x}{2}}}-\\sqrt{\\frac{1-\\tan \\frac{x}{2}}{1+\\tan \\frac{x}{2}}}\\right) d x \\\\\n&\n\\end{aligned}\n$$\n\n$$\n=\\int_0^{\\pi / 4} \\frac{1+\\tan \\frac{x}{2}-1+\\tan \\frac{x}{2}}{\\sqrt{1-\\tan ^2 \\frac{x}{2}}} d x=\\int_0^{\\pi / 4} \\frac{2 \\tan \\frac{x}{2}}{\\sqrt{1-\\tan ^2 \\frac{x}{2}}} d x\n$$\nPut $\\tan \\frac{x}{2}=t$\n$$\n\\begin{aligned}\n\\Rightarrow \\quad \\frac{1}{2} \\sec ^2 \\frac{x}{2} d x & =d t \\\\\n\\therefore \\text { Required area } & =\\int_0^{\\tan \\frac{\\pi}{8}} \\frac{4 t d t}{\\left(1+t^2\\right) \\sqrt{1-t^2}} \\\\\n& =\\int_0^{\\sqrt{2}-1} \\frac{4 t}{\\left(1+t^2\\right) \\sqrt{1-t^2}} d t \\quad\\left[\\text { astan } \\frac{\\pi}{8}=\\sqrt{2}-1\\right]\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "64b169e6f23ac7d519f9af7c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nConsider the functions defined implicitly by the equation $y^3-3 y+x=0$ on various intervals in the real line. If $x \\in(-\\infty,-2) \\cup(2, \\infty)$, the equation implicitly defines a unique real valued differentiable function $y=f(x)$. If $x \\in(-2,2)$, the equation implicitly defines a unique real valued differentiable function $y=g(x)$, satisfying $g(0)=0$.<strong>Question:</strong>\nThe area of the region bounded by the curve $y=f(x)$, the $X$-axis and the lines $x=a$ and $x=b$, where $-\\infty < a < b < -2$, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3AqJ5",
+        "text": "\n$\\int_a^b \\frac{x}{3\\left[f(x)^2-1\\right]} d x+b f(b)-a f(a)$\n",
+        "image": null
+      },
+      {
+        "id": "6P7pt",
+        "text": "\n$-\\int_a^b \\frac{x}{3\\left[(f(x))^2-1\\right]} d x+b f(b)-a f(a)$\n",
+        "image": null
+      },
+      {
+        "id": "QCGf1",
+        "text": "\n$\\int_a^b \\frac{x}{3\\left[(f(x))^2-1\\right]} d x-b f(b)+a f(a)$\n",
+        "image": null
+      },
+      {
+        "id": "RLdSP",
+        "text": "\n$-\\int_a^b \\frac{x}{3\\left[f(x)^2-1\\right]} d x-b f(b)-a f(a)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3AqJ5",
+    "solution_text": "Required area $=\\int_a^b y d x=\\int_a^b f(x) d x$\n$$\n=[f(x) \\cdot x]_a^b-\\int_a^b f^{\\prime}(x) \\cdot x d x=b f(b)-a f(a)-\\int_a^b f^{\\prime}(x) \\cdot x d x\n$$\n$$\n=b f(b)-a f(a)+\\int_a^b \\frac{x}{3\\left[(f(x))^2-1\\right]} d x\n$$\nAs, $\\quad f^{\\prime}(x)=\\frac{d y}{d x}=-\\frac{1}{3\\left(y^2-1\\right)}=-\\frac{1}{3\\left[(f(x))^2-1\\right]}$",
+    "solution_image": null,
+    "topic": "Area bounded by Miscellaneous Curves"
+  },
+  {
+    "question_id": "6a0be51344d287c9361e5cb9",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "<strong>Passage:</strong> Consider the ellipses given by $x^2 + 4y^2 = 1$ and $4x^2 + y^2 = 1$.<br><br><strong>Question:</strong> If $\\alpha$ is the area of the common region that lies inside both the given ellipses, then the value of $\\cot\\alpha$ is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.75",
+    "solution_text": "The given ellipses are $E_1: x^2 + 4y^2 = 1$ and $E_2: 4x^2 + y^2 = 1$.<br><br>By symmetry, the common region is symmetric about both the coordinate axes and the lines $y = x$ and $y = -x$. The total area $\\alpha$ is $8$ times the area of the region in the first quadrant bounded by $\\theta = 0$ and $\\theta = \\dfrac{\\pi}{4}$.<br><br>In polar coordinates, substituting $x = r\\cos\\theta$ and $y = r\\sin\\theta$ into the equation of $E_2$ (which is the inner boundary for $0 \\le \\theta \\le \\dfrac{\\pi}{4}$), we get:<br>$4r^2\\cos^2\\theta + r^2\\sin^2\\theta = 1 \\Rightarrow r^2 = \\dfrac{1}{4\\cos^2\\theta + \\sin^2\\theta}$<br><br>The area of this sector is given by:<br>$A = \\dfrac{1}{2} \\int_{0}^{\\dfrac{\\pi}{4}} r^2 d\\theta = \\dfrac{1}{2} \\int_{0}^{\\dfrac{\\pi}{4}} \\dfrac{1}{4\\cos^2\\theta + \\sin^2\\theta} d\\theta$<br><br>Dividing the numerator and the denominator by $\\cos^2\\theta$:<br>$A = \\dfrac{1}{2} \\int_{0}^{\\dfrac{\\pi}{4}} \\dfrac{\\sec^2\\theta}{4 + \\tan^2\\theta} d\\theta$<br><br>Substituting $t = \\tan\\theta$, we have $dt = \\sec^2\\theta d\\theta$. The limits change from $0$ to $1$:<br>$A = \\dfrac{1}{2} \\int_{0}^{1} \\dfrac{dt}{4 + t^2} = \\dfrac{1}{2} \\left[ \\dfrac{1}{2} \\arctan\\left(\\dfrac{t}{2}\\right) \\right]_{0}^{1} = \\dfrac{1}{4} \\arctan\\left(\\dfrac{1}{2}\\right)$<br><br>The total area $\\alpha$ of the common region is:<br>$\\alpha = 8A = 8 \\times \\dfrac{1}{4} \\arctan\\left(\\dfrac{1}{2}\\right) = 2 \\arctan\\left(\\dfrac{1}{2}\\right)$<br><br>We need to find the value of $\\cot\\alpha$:<br>$\\cot\\alpha = \\cot\\left(2 \\arctan\\left(\\dfrac{1}{2}\\right)\\right)$<br><br>Let $\\phi = \\arctan\\left(\\dfrac{1}{2}\\right)$, which implies $\\tan\\phi = \\dfrac{1}{2}$.<br><br>Using the double angle formula for tangent:<br>$\\tan(2\\phi) = \\dfrac{2\\tan\\phi}{1 - \\tan^2\\phi} = \\dfrac{2 \\left(\\dfrac{1}{2}\\right)}{1 - \\left(\\dfrac{1}{2}\\right)^2} = \\dfrac{1}{1 - \\dfrac{1}{4}} = \\dfrac{4}{3}$<br><br>Therefore, $\\cot\\alpha = \\dfrac{1}{\\tan(2\\phi)} = \\dfrac{3}{4}$.<br><br>Answer: $3/4$",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "6a0be51344d287c9361e5cb7",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "<strong>Passage:</strong> Consider the curve $C_1$ given by $y = e^{-x}$ for $x \\in [0, 10\\pi]$, and the curve $C_2$ given by $y = e^{-x}(\\sin x + \\cos x)$ for $x \\in [0, 10\\pi]$. Let $n$ be the total number of points of intersection of the curves $C_1$ and $C_2$. Suppose that $\\alpha_1, \\alpha_2, \\ldots, \\alpha_n \\in [0, 10\\pi]$ are the $x$-coordinates of the points of intersection of the curves $C_1$ and $C_2$ such that $\\alpha_1 < \\alpha_2 < \\cdots < \\alpha_n$.<br><br><strong>Question:</strong> Let $\\beta$ be the area of the region enclosed between the curves $C_1$, $C_2$, and the lines $x = \\alpha_1$ and $x = \\alpha_4$. Then the value of $-\\dfrac{1}{\\pi}\\log_e\\left(\\beta - 2 e^{-\\frac{\\pi}{2}}\\right)$ is ___________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.5",
+    "solution_text": "To find the points of intersection of the curves $C_1$ and $C_2$, we equate their equations:<br><br>$e^{-x} = e^{-x}(\\sin x + \\cos x)$<br><br>Since $e^{-x} \\neq 0$, we have:<br><br>$\\sin x + \\cos x = 1$<br><br>$\\Rightarrow \\sqrt{2}\\sin\\left(x + \\dfrac{\\pi}{4}\\right) = 1 \\Rightarrow \\sin\\left(x + \\dfrac{\\pi}{4}\\right) = \\dfrac{1}{\\sqrt{2}}$<br><br>The general solution is $x + \\dfrac{\\pi}{4} = 2k\\pi + \\dfrac{\\pi}{4}$ or $x + \\dfrac{\\pi}{4} = 2k\\pi + \\dfrac{3\\pi}{4}$ for any integer $k$.<br><br>Thus, $x = 2k\\pi$ or $x = 2k\\pi + \\dfrac{\\pi}{2}$.<br><br>For $x \\in [0, 10\\pi]$, the first four points of intersection are:<br><br>$\\alpha_1 = 0$<br><br>$\\alpha_2 = \\dfrac{\\pi}{2}$<br><br>$\\alpha_3 = 2\\pi$<br><br>$\\alpha_4 = 2\\pi + \\dfrac{\\pi}{2} = \\dfrac{5\\pi}{2}$<br><br>The area $\\beta$ enclosed between the curves from $x = \\alpha_1$ to $x = \\alpha_4$ is given by:<br><br>$\\beta = \\int_{0}^{\\dfrac{5\\pi}{2}} |e^{-x}(\\sin x + \\cos x - 1)| dx$<br><br>We analyze the sign of $\\sin x + \\cos x - 1$ in the intervals $(0, \\dfrac{\\pi}{2})$, $(\\dfrac{\\pi}{2}, 2\\pi)$, and $(2\\pi, \\dfrac{5\\pi}{2})$:<br><br>For $x \\in (0, \\dfrac{\\pi}{2})$, $\\sin x + \\cos x > 1$<br><br>For $x \\in (\\dfrac{\\pi}{2}, 2\\pi)$, $\\sin x + \\cos x < 1$<br><br>For $x \\in (2\\pi, \\dfrac{5\\pi}{2})$, $\\sin x + \\cos x > 1$<br><br>Let $I = \\int e^{-x}(\\sin x + \\cos x - 1) dx$. Using integration by parts or standard formulas, we get:<br><br>$\\int e^{-x}\\sin x dx = -\\dfrac{e^{-x}}{2}(\\sin x + \\cos x)$<br><br>$\\int e^{-x}\\cos x dx = \\dfrac{e^{-x}}{2}(\\sin x - \\cos x)$<br><br>$\\Rightarrow \\int e^{-x}(\\sin x + \\cos x) dx = -e^{-x}\\cos x$<br><br>Thus, $I = -e^{-x}\\cos x + e^{-x} = e^{-x}(1 - \\cos x)$.<br><br>Now, we evaluate the area $\\beta$ by splitting the integral:<br><br>$\\beta = \\int_{0}^{\\dfrac{\\pi}{2}} e^{-x}(\\sin x + \\cos x - 1) dx - \\int_{\\dfrac{\\pi}{2}}^{2\\pi} e^{-x}(\\sin x + \\cos x - 1) dx + \\int_{2\\pi}^{\\dfrac{5\\pi}{2}} e^{-x}(\\sin x + \\cos x - 1) dx$<br><br>$\\beta = \\left[ e^{-x}(1 - \\cos x) \\right]_{0}^{\\dfrac{\\pi}{2}} - \\left[ e^{-x}(1 - \\cos x) \\right]_{\\dfrac{\\pi}{2}}^{2\\pi} + \\left[ e^{-x}(1 - \\cos x) \\right]_{2\\pi}^{\\dfrac{5\\pi}{2}}$<br><br>$\\beta = (e^{-\\dfrac{\\pi}{2}} - 0) - (0 - e^{-\\dfrac{\\pi}{2}}) + (e^{-\\dfrac{5\\pi}{2}} - 0)$<br><br>$\\beta = 2e^{-\\dfrac{\\pi}{2}} + e^{-\\dfrac{5\\pi}{2}}$<br><br>We are required to find the value of $-\\dfrac{1}{\\pi}\\log_e\\left(\\beta - 2 e^{-\\dfrac{\\pi}{2}}\\right)$:<br><br>$\\beta - 2 e^{-\\dfrac{\\pi}{2}} = e^{-\\dfrac{5\\pi}{2}}$<br><br>$\\Rightarrow -\\dfrac{1}{\\pi}\\log_e\\left(e^{-\\dfrac{5\\pi}{2}}\\right) = -\\dfrac{1}{\\pi} \\times \\left(-\\dfrac{5\\pi}{2}\\right) = \\dfrac{5}{2} = 2.5$<br><br>Answer: $2.5$",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "685102c16bba689a3eb09ca0",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Then the area of the region $\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x>0, y>\\frac{1}{x}, 5 x-4 y-1>0,4 x+4 y-17 <0\\right\\}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FfLYy",
+        "text": "$\\frac{17}{16}-\\log _e 4$",
+        "image": null
+      },
+      {
+        "id": "uXGRq",
+        "text": "$\\frac{33}{8}-\\log _e 4$",
+        "image": null
+      },
+      {
+        "id": "IQedI",
+        "text": "$\\frac{57}{8}-\\log _e 4$",
+        "image": null
+      },
+      {
+        "id": "bEXmc",
+        "text": "$\\frac{17}{2}-\\log _e 4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "uXGRq",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/21e79ZxJxfmDejluRgh9UOVAR60QJelNraOiDENbnmw.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/KmSajaHLiIgRQnUz4DtDJVGZSC0F5zf9b7Rg1s_7PnU.original.fullsize.png\"><br>Area $=\\frac{13}{8}+\\frac{20}{8}-\\log _e 4=\\left(\\frac{33}{8}-\\log _e 4\\right)$",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16aa4f23ac7d519f9b644",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math> be the function defined by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>17</mn><mn>36</mn></mfrac></math>. Consider the square region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#215;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math>. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mi>S</mi><mo>:</mo><mi>y</mi><mo>&#62;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math> be called the green region and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mi>S</mi><mo>:</mo><mi>y</mi><mo>&#60;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math> be called the red region. Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>h</mi></mrow></mfenced><mo>&#8712;</mo><mi>S</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></math> be the horizontal line drawn at a height <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math>. Then which of the following statements is(are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "a0p77",
+        "text": "<p>There exists an<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced></math>&nbsp;such that the area of the green region above the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math>&nbsp;equals the area of the&nbsp;green region below the line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math></p>",
+        "image": null
+      },
+      {
+        "id": "vx5oo",
+        "text": "There exists an&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced></math>&nbsp;such that the area of the red region above the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math> equals the area of the red&nbsp;region below the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math>",
+        "image": null
+      },
+      {
+        "id": "VfuSR",
+        "text": "There exists an&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced></math>&nbsp;such that the area of the green region above the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math> equals the area of the&nbsp;red region below the line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math>",
+        "image": null
+      },
+      {
+        "id": "6IQfy",
+        "text": "There exists an&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced></math>&nbsp;such that the area of the red region above the line <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math> equals the area of the green&nbsp;region below the line&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "6IQfy",
+    "solution_text": "<p>Given,</p><p>Function&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>17</mn><mn>36</mn></mfrac></math></p><p>Square region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#215;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math></p><p>Green region given by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mi>S</mi><mo>:</mo><mi>y</mi><mo>&#62;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></p><p>Red region is given by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><mi>S</mi><mo>:</mo><mi>y</mi><mo>&#60;</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mi>h</mi></msub><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mfenced><mrow><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>h</mi></mrow></mfenced><mo>&#8712;</mo><mi>S</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></math> be the horizontal line drawn at a height <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math></p><p>Now plotting the diagram of the above function we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a3440f96-6c5e-4bef-afa8-d37d1e5fd2d0.png\" style=\"width: 300px; height: 246px;\" /></p><p>Now differentiating the function,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><msup><mi>x</mi><mn>3</mn></msup><mn>3</mn></mfrac><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>17</mn><mn>36</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mfrac><mn>5</mn><mn>9</mn></mfrac></math></p><p>For maxima/minima,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi><mo>&#39;</mo></msup><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>0</mn><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p>Now finding the area of red region we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>R</mi></msub><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mn>1</mn></msubsup><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#160;</mo><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>So, area of the green region will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>G</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>, as total area is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp;sq.unit</p><p>Now solving option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">A</mi></mfenced></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>-</mo><mi>h</mi><mo>=</mo><mi>h</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8658;</mo><mi>h</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>&#62;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math></p><p>So, option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">A</mi></mfenced></math> is incorrect</p><p>For option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">B</mi></mfenced></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>-</mo><mi>h</mi><mo>&#8658;</mo><mi>h</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math></p><p>So, option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">B</mi></mfenced></math> is correct as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mfenced></math></p><p>Now solving option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math>&nbsp;we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mo>&#8747;</mo><mn>0</mn><mn>1</mn></msubsup><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#160;</mo><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mn>1</mn></msubsup><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#8658;</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mn>1</mn></msubsup><mfenced><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mi>d</mi><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>h</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p>So, option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math> is correct.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">D</mi></mfenced></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo></math>&nbsp;Option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math> is correct <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math> option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">D</mi></mfenced></math> is also correct.</p>",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16a74f23ac7d519f9b491",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "The area of the region <math><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>,</mo><mi mathvariant=\"normal\">y</mi></mrow></mfenced><mo>:</mo><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\">y</mi><mo>&#8804;</mo><mn>8</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>1</mn><mo>&#8804;</mo><mi mathvariant=\"normal\">y</mi><mo>&#8804;</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8n1Jn",
+        "text": "<math><mn>16</mn><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><mn>2</mn><mo>-</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "Dq4a3",
+        "text": "<math><mn>8</mn><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><mn>2</mn><mo>-</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "0hvT3",
+        "text": "<math><mn>8</mn><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><mn>2</mn><mo>-</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "QAbsZ",
+        "text": "<math><mn>16</mn><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mi mathvariant=\"normal\">e</mi></mrow></msub></mrow><mo>⁡</mo><mrow><mn>2</mn><mo>-</mo><mn>6</mn></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "8n1Jn",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cwbmsusgjqhdrjaqfmwqkaqbhfkycqbbpofozssoivqjnnodkr.png\"/><br >To draw the inequality, let us draw the equation<br ><math><mi>x</mi><mi>y</mi><mo>=</mo><mn>8</mn></math> and <math><mi>y</mi><mo>=</mo><mn>1</mn></math> and <math><mi>y</mi><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br >For point of intersection<br >(i) <math><mi>x</mi><mi>y</mi><mo>=</mo><mn>8</mn></math> and <math><mi>y</mi><mo>=</mo><mn>1</mn><mo>⇒</mo><mi>A</mi><mo>(</mo><mn>8,1</mn><mo>)</mo></math><br >(ii) <math><mi>x</mi><mi>y</mi><mo>=</mo><mn>8</mn></math> and <math><mi>y</mi><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>⇒</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>=</mo><mn>8</mn><mi> </mi><mo>⇒</mo><mi>x</mi><mo>=</mo><mn>2</mn><mi> </mi><mo>⇒</mo><mi>B</mi><mo>(</mo><mn>2</mn><mo>,</mo><mi> </mi><mn>4</mn><mo>)</mo></math><br >(iii) <math><mi>y</mi><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math> and <math><mi>y</mi><mo>=</mo><mn>1</mn><mo>⇒</mo><mi>C</mi><mfenced separators=\"|\"><mrow><mn>1</mn><mo>,</mo><mi> </mi><mn>1</mn></mrow></mfenced></math> and <math><mi>D</mi><mfenced separators=\"|\"><mrow><mi> </mi><mn>1</mn><mo>,</mo><mi> </mi><mn>1</mn></mrow></mfenced></math><br >Now <math><mi>x</mi><mi>y</mi><mo>≤</mo><mn>8</mn><mo>⇒</mo></math> region which contains origin<br ><math><mi>y</mi><mo>≥</mo><mn>1</mn><mo>⇒</mo></math> region above line <math><mi>y</mi><mo>=</mo><mn>1</mn></math><br ><math><mi>y</mi><mo>≤</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>⇒</mo></math> region outside the parabola<br >Now required area<br >Method I:<br >Using x-axis:<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><munderover><mo stretchy=\"true\">∫</mo><mn>1</mn><mn>2</mn></munderover><mfenced separators=\"|\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>⋅</mo><mi>d</mi><mi>x</mi><mo>+</mo><munderover><mo stretchy=\"true\">∫</mo><mn>2</mn><mn>8</mn></munderover><mfenced separators=\"|\"><mrow><mfrac><mn>8</mn><mi>x</mi></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced><mo>⋅</mo><mi>d</mi><mi>x</mi></math><br ><math><mi>A</mi><mo>=</mo><msubsup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mfrac><mo>-</mo><mi>x</mi></mrow></mfenced></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><msubsup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>8</mn><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mi>x</mi><mo>-</mo><mi>x</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup></math><br ><math><mi>A</mi><mo>=</mo><mo>-</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>+</mo><mn>16</mn><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn></math><br >Method II:<br >Using y-axis:<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><munderover><mo stretchy=\"true\">∫</mo><mn>1</mn><mn>4</mn></munderover><mfenced separators=\"|\"><mrow><mfrac><mn>8</mn><mi>y</mi></mfrac><mo>-</mo><msqrt><mi>y</mi></msqrt></mrow></mfenced><mo>⋅</mo><mi>d</mi><mi>y</mi></math><br ><math><mi>A</mi><mo>=</mo><msubsup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>8</mn><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mi>y</mi><mo>-</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mi>y</mi></mrow><mrow><mfrac bevelled=\"true\"><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow></mfenced></mrow><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mo>⇒</mo><mi>A</mi><mo>=</mo><mo>-</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>+</mo><mn>16</mn><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>2</mn></math><br >Note: The question should include bounded area term as in <math><msup><mrow><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi></mrow></msup></math> quadrant there exist a area which satisfy the inequality and is unbounded.",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16a69f23ac7d519f9b42f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "A farmer <math><msub><mrow><mi>F</mi></mrow><mrow><mn>1</mn></mrow></msub></math> has a land in the shape of a triangle with vertices at <math><mi>P</mi><mo>(</mo><mn>0, 0</mn><mo>)</mo><mo>,</mo><mi>Q</mi><mo>(</mo><mn>1, 1</mn><mo>)</mo></math> and <math> <mi>R</mi><mo>(</mo><mn>2, 0</mn><mo>)</mo><mo>.</mo></math> From this land, a neighbouring farmer <math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> takes away the region which lies between the side <math><mi>P</mi><mi>Q</mi></math> and a curve of the form <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><msup><mi>x</mi><mi>n</mi></msup><mo>,</mo><mo>&#160;</mo><mi>n</mi><mo>&#62;</mo><mn>1</mn></math>. If the area of the region taken away by the farmer <math><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math> is exactly <math> <mrow> <mn>30%</mn> </mrow> </math> of the area of <math><mo>&#8710;</mo><mi>P</mi><mi>Q</mi><mi>R</mi><mo>,</mo></math> then the value of <math> <mi>n</mi> </math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wwtfwinnnqffqrvboqskhnaazwphrqxvpzuklhcdbezuudeyyl.jpeg\"/><br >Area <math><mo>=</mo><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mi>n</mi></mrow></msup></mrow></mfenced><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>10</mn></mrow></mfrac></mrow></mrow></math><br ><math><msubsup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>10</mn></mrow></mfrac></math><br ><math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>10</mn></mrow></mfrac></math> <math><mo>∴</mo><mi> </mi><mi> </mi><mi>n</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>5</mn></math><br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mi>n</mi><mo>=</mo><mn>4</mn></math>",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16a63f23ac7d519f9b3f8",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "If the line <math><mi>x</mi><mo>=</mo><mi>&#945;</mi></math> divides the area of the region <math><mi>R</mi><mo>=</mo><mo>{</mo><mfenced separators=\"|\"><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>:</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>&#8804;</mo><mi>y</mi><mo>&#8804;</mo><mi>x</mi><mo>,</mo><mi>&#160;</mi><mn>0</mn><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mn>1</mn><mo>}</mo></math> into two equal parts, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FO86g",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>&lt;</mo><mi>α</mi><mo>&lt;</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "id": "JOxm6",
+        "text": "<math><msup><mrow><mi>α</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>4</mn><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "X2J8y",
+        "text": "<math><mn>0</mn><mo>&lt;</mo><mi>α</mi><mo>≤</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "wIknc",
+        "text": "<math><mn>2</mn><msup><mrow><mi>α</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>-</mo><mn>4</mn><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wIknc",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/49_solu_chem_pa_2.jpg\"/></p><p><math><mi>A</mi><mo>=</mo><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfenced></mrow></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></p><p>Area of curvilinear triangle <math><mi>O</mi><mi>P</mi><mi>Q</mi><mo>=</mo><mfrac><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math></p><p><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>1</mi></mrow></munderover><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>-</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfenced></mrow></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><mn>2</mn><msup><mrow><mi>α</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>-</mo><mn>4</mn><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p><math><mo>⇒</mo><mi> </mi><mi> </mi><mi> </mi><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi> </mi><mo>⇒</mo><mi> </mi><mi> </mi><msup><mrow><mi>α</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math></p>so α lies between 0.5 and 1",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16a56f23ac7d519f9b381",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Area of the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>{</mo><mfenced separators=\"|\"><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><mo>&#8712;</mo><msup><mi>R</mi><mn>2</mn></msup><mo>:</mo><mo>&#160;</mo><mi>y</mi><mo>&#8805;</mo><msqrt><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></msqrt><mo>,</mo></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mi>y</mi><mo>&#8804;</mo><mi>x</mi><mo>+</mo><mn>9</mn><mo>&#8804;</mo><mn>15</mn><mo>}</mo></math> is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zsbob",
+        "text": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "LJPdY",
+        "text": "<math><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "tm2xA",
+        "text": "<math><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "5IPFt",
+        "text": "<math><mfrac><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tm2xA",
+    "solution_text": "<p>If <math> <mi>x</mi><mo>+</mo><mn>3</mn><mo><</mo><mn>0</mn><mo>⇒</mo><mi>y</mi><mo>≥</mo><msqrt> <mrow> <mo>−</mo><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo stretchy=\"false\">)</mo> </mrow> </msqrt> <mtext> </mtext><mtext> </mtext><mtext> </mtext><mo>&</mo><mi> y</mi><mo>≥</mo><mn>0</mn> </math><br >If <math> <mi>x</mi><mo>+</mo><mn>3</mn><mo>≥</mo><mn>0</mn><mo>⇒</mo><mi>y</mi><mo>≥</mo><msqrt> <mrow> <mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo stretchy=\"false\">)</mo> </mrow> </msqrt> <mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mo>&</mo><mi> y</mi><mo>≥</mo><mn>0</mn> </math><br >Also<br ><math> <mn>5</mn><mi>y</mi><mo>≤</mo><mi>x</mi><mo>+</mo><mn>9</mn><mo>≤</mo><mn>15</mn> </math><br ><math> <mo>⇒</mo><mi>x</mi><mo>−</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>≥</mo><mn>0</mn><mtext> </mtext><mtext> </mtext><mtext> </mtext><mo>&</mo><mtext> </mtext><mtext> </mtext><mtext> </mtext><mi>x</mi><mo>≤</mo><mn>6</mn> </math><br >Intersection point of line & parabolas<br ><math> <mn>5</mn><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>9</mn><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mo>&</mo><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><msup> <mi>y</mi> <mn>2</mn> </msup> <mo>=</mo><mrow><mo>|</mo> <mrow> <mi>x</mi><mo>+</mo><mn>3</mn> </mrow> <mo>|</mo></mrow><mtext> </mtext><mo stretchy=\"false\">(</mo><mi>y</mi><mo>≥</mo><mn>0</mn><mo stretchy=\"false\">)</mo> </math><br ><math> <msup> <mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mi>x</mi><mo>+</mo><mn>9</mn> </mrow> <mn>5</mn> </mfrac> </mrow> <mo>)</mo></mrow> <mn>2</mn> </msup> <mo>=</mo><mrow><mo>|</mo> <mrow> <mi>x</mi><mo>+</mo><mn>3</mn> </mrow> <mo>|</mo></mrow> </math><br ><math> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo><mn>18</mn><mi>x</mi><mo>+</mo><mn>81</mn><mo>=</mo><mn>25</mn><mi>x</mi><mo>+</mo><mn>75</mn><mtext> </mtext><mtext> </mtext><mi>o</mi><mi>r</mi><mtext> </mtext><mtext> </mtext><mo>−</mo><mn>25</mn><mi>x</mi><mo>−</mo><mn>75</mn> </math><br ><math> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn><mtext> </mtext><mtext> </mtext><mi>o</mi><mi>r</mi><mtext> </mtext><mtext> </mtext><msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo><mn>43</mn><mi>x</mi><mo>+</mo><mn>156</mn><mo>=</mo><mn>0</mn> </math><br ><math> <mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>6</mn><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mi>o</mi><mi>r</mi><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext><mi>x</mi><mo>=</mo><mo>−</mo><mn>39</mn><mo>,</mo><mo>−</mo><mn>4</mn> </math><br >So Clearly,  <math> <mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>y</mi><mo>=</mo><mn>2</mn> </math><br >and when  <math> <mi>x</mi><mo>=</mo><mo>−</mo><mn>4</mn><mo>,</mo><mi>y</mi><mo>=</mo><mn>1</mn> </math> are required points<br >Drawing all these, we get this graph.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Maths_38_solu.jpg\"/><br >Shaded portion is required area.<br >Clearly required area = area (trapezium ABCD) - <math><mfenced separators=\"|\"><mrow><msub><mrow><mi>A</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> .......(i)<br >area (trapezium ABCD) <math><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced separators=\"|\"><mrow><mn>5</mn></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><msub><mrow><mi>A</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mo>-</mo><mn>4</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></munderover><mrow><msqrt><mo>-</mo><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></msqrt></mrow></mrow><mi>d</mi><mi>x</mi></math><br ><math><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math><br >and <math><msub><mrow><mi>A</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi> </mi><mrow><munderover><mo stretchy=\"false\">∫</mo><mrow><mo>-</mo><mn>3</mn></mrow><mrow><mn>1</mn></mrow></munderover><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mn>16</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mo>∴</mo></math> From equation (i), we get required area <math><mo>=</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>16</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16a29f23ac7d519f9b1e8",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "<p>The area enclosed by the curves&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>x</mi></math> and&nbsp;<math> <mrow> <mtext>y</mtext> <mo>=</mo> <mfenced close=\"|\" open=\"|\" separators=\",\"> <mrow> <mtext>cos x</mtext> <mo>-</mo> <mtext>sin x</mtext> </mrow> </mfenced> </mrow> </math>&nbsp;over the interval&nbsp;<math> <mrow> <mfenced close=\"]\" open=\"[\" separators=\",\"> <mrow> <mn>0</mn> <mtext>,</mtext> <mfrac> <mrow> <mi>&#960;</mi> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math>&nbsp;is</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VACC8",
+        "text": "<math><mrow>  <mn>4</mn>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <msqrt>        <mn>2</mn>      </msqrt>      <mo>-</mo>      <mn>1</mn>    </mrow>  </mfenced></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "UEelU",
+        "text": "<math> <mrow> <mn>2</mn> <msqrt> <mn>2</mn> </msqrt> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msqrt> <mn>2</mn> </msqrt> <mo>-</mo> <mn>1</mn> </mrow> </mfenced> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "PjhtG",
+        "text": "<math><mrow>  <mn>2</mn>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <msqrt>        <mn>2</mn>      </msqrt>      <mo>+</mo>      <mn>1</mn>    </mrow>  </mfenced></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "lRVhh",
+        "text": "<math><mrow>  <mn>2</mn>  <msqrt>    <mn>2</mn>  </msqrt>  <mfenced open=\"(\" close=\")\" separators=\",\">    <mrow>      <msqrt>        <mn>2</mn>      </msqrt>      <mo>+</mo>      <mn>1</mn>    </mrow>  </mfenced></mrow></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UEelU",
+    "solution_text": "<p>The given curves are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>x</mi><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>cos</mi><mi>x</mi><mo>-</mo><mi>sin</mi><mi>x</mi></mrow></mfenced></math></p><p><math> <mrow> <msub> <mtext>y</mtext> <mn>1</mn> </msub> <mo>=</mo> <mtext>sin x</mtext> <mo>+</mo> <mtext>cos x</mtext> <mo>=</mo> <msqrt> <mn>2</mn> </msqrt> <mtext>&#160;sin</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>x</mtext> <mo>+</mo> <mfrac> <mrow> <mi>&#960;</mi> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> </mrow> </mfenced> </mrow> </math><br /><math> <mrow> <msub> <mtext>y</mtext> <mn>2</mn> </msub> <mo>=</mo> <msqrt> <mn>2</mn> </msqrt> <mo>|</mo> <mtext>sin</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mfrac> <mrow> <mi>&#960;</mi> </mrow> <mrow> <mn>4</mn> </mrow> </mfrac> <mo>-</mo> <mtext>x</mtext> </mrow> </mfenced> <mo>|</mo> </mrow> </math><br />So, Required Area<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><munderover><mo>&#8747;</mo><mn>0</mn><mfrac><mi>&#960;</mi><mn>4</mn></mfrac></munderover><mfenced><mrow><mfenced><mrow><mtext>sin x</mtext><mo>+</mo><mtext>cos x</mtext></mrow></mfenced><mo>-</mo><mfenced><mrow><mtext>cos x</mtext><mo>-</mo><mtext>sin x</mtext></mrow></mfenced></mrow></mfenced><mtext>dx</mtext><mo>+</mo><munderover><mo>&#8747;</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></munderover><mfenced><mrow><mfenced><mrow><mtext>sin x</mtext><mo>+</mo><mtext>cos x</mtext></mrow></mfenced><mo>-</mo><mfenced><mrow><mtext>sin x</mtext><mo>-</mo><mtext>cos x</mtext></mrow></mfenced></mrow></mfenced><mtext>dx</mtext></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msubsup><mo>&#8747;</mo><mn>0</mn><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>4</mn></mfrac></msubsup><mi>sin</mi><mi>x</mi><mi>d</mi><mi>x</mi><mo>+</mo><mn>2</mn><msubsup><mo>&#8747;</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>4</mn></mfrac><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>2</mn></mfrac></msubsup><mi>cos</mi><mi>x</mi><mi>d</mi><mi>x</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4</mn><mo>-</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mo>=</mo><mn>2</mn><msqrt><mn>2</mn></msqrt><mfenced><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math>.</p>",
+    "solution_image": null,
+    "topic": "Area bounded by two curves"
+  },
+  {
+    "question_id": "64b16aa5f23ac7d519f9b64a",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#8805;</mo><mn>2</mn></math>&nbsp;be a natural number and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>:</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced><mo>&#8594;</mo><mi mathvariant=\"normal\">&#8477;</mi></math> be the function defined by</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced open=\"{\" close=\"\"><mtable><mtr><mtd><mi>n</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>n</mi><mi>x</mi></mrow></mfenced></mtd><mtd><mi>if</mi></mtd><mtd><mn>0</mn><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>n</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mn>2</mn><mi>n</mi><mfenced><mrow><mn>2</mn><mi>n</mi><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mtd><mtd><mi>if</mi></mtd><mtd><mfrac><mn>1</mn><mrow><mn>2</mn><mi>n</mi></mrow></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mn>3</mn><mrow><mn>4</mn><mi>n</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mn>4</mn><mi>n</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>n</mi><mi>x</mi></mrow></mfenced></mtd><mtd><mi>if</mi></mtd><mtd><mfrac><mn>3</mn><mrow><mn>4</mn><mi>n</mi></mrow></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac></mtd></mtr><mtr><mtd><mfrac><mi>n</mi><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mfenced><mrow><mi>n</mi><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mtd><mtd><mi>if</mi></mtd><mtd><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math><br /><br />If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is such that the area of the region bounded by the curves <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mn>0</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>, then the maximum value of the function <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<blockquote><p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable><mtr><mtd><mtable><mtr><mtd><mi>n</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>n</mi><mi>x</mi></mrow></mfenced><mo>,</mo></mtd><mtd><mn>0</mn><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>n</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mn>2</mn><mi>n</mi><mfenced><mrow><mn>2</mn><mi>n</mi><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>,</mo></mtd><mtd><mfrac><mn>1</mn><mrow><mn>2</mn><mi>n</mi></mrow></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#60;</mo><mfrac><mn>3</mn><mrow><mn>4</mn><mi>n</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mn>4</mn><mi>n</mi><mfenced><mrow><mn>1</mn><mo>-</mo><mi>n</mi><mi>x</mi></mrow></mfenced><mo>,</mo></mtd><mtd><mfrac><mn>3</mn><mrow><mn>4</mn><mi>n</mi></mrow></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac></mtd></mtr><mtr><mtd><mfrac><mi>n</mi><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mfenced><mrow><mi>n</mi><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>,</mo></mtd><mtd><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>&#8804;</mo><mi>x</mi><mo>&#8804;</mo><mn>1</mn></mtd></mtr></mtable></mtd></mtr></mtable></mfenced></math></p><p>Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>n</mi><mo>-</mo><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mi>x</mi></math>&nbsp;is decreasing in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>n</mi></mrow></mfrac></mrow></mfenced></math>&nbsp;</p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mn>4</mn><mi>n</mi></math>&nbsp;increasing in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mrow><mn>2</mn><mi>n</mi></mrow></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>3</mn><mrow><mn>4</mn><mi>n</mi></mrow></mfrac></mrow></mfenced></math></p><p>And <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>4</mn><mi>n</mi><mo>-</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mi>x</mi></math>&nbsp;decreasing in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>3</mn><mrow><mn>4</mn><mi>n</mi></mrow></mfrac><mo>,</mo><mo>&#160;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac></mrow></mfenced></math></p><p>And <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><mi>x</mi><mo>-</mo><mi>n</mi></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math>&nbsp;increasing in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>,</mo><mo>&#160;</mo><mn>1</mn></mrow></mfenced></math></p><p>Now plotting the graph of above function we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3bd70984-de3a-458c-a400-1700a8803b3b.png\" style=\"width: 300px; height: 169px;\" /></p><p>Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>n</mi></mrow></mfenced></math></p><p>Now from above diagram area will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>4</mn></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"}\" open=\"{\"><mrow><mtext>as</mtext><mo>&#160;</mo><mi>n</mi><mo>&#8805;</mo><mn>2</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mi>n</mi><mn>2</mn></mfrac><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>n</mi><mo>=</mo><mn>8</mn></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><msub><mfenced><mi>x</mi></mfenced><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mrow></msub><mo>=</mo><mi>n</mi><mo>=</mo><mn>8</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Area of Curve along axis"
+  },
+  {
+    "question_id": "64b16a0ff23ac7d519f9b0f4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Let the straight line $x=b$ divide the area enclosed by $y=(1-x)^2, y=0$ and $x=0$ into two parts $R_1(0 \\leq x \\leq b)$ and $R_2(b \\leq x \\leq 1)$ such that $R_1-R_2=\\frac{1}{4}$. Then, $b$ equals to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kcMxQ",
+        "text": "\n$\\frac{3}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "lgvXs",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "hCkGd",
+        "text": "\n$\\frac{1}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "2yBlf",
+        "text": "\n$\\frac{1}{4}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "lgvXs",
+    "solution_text": "Here, area between 0 to $b$ is $R_1$ and $b$ to\n$$\n\\begin{aligned}\n& 1 \\text { is } R_2 \\\\\n& \\therefore \\int_0^b(1-x)^2 d x-\\int_b^1(1-x)^2 d x=\\frac{1}{4} \\\\\n& \\Rightarrow \\quad\\left(\\frac{(1-x)^3}{-3}\\right)_0^b-\\left(\\frac{(1-x)^3}{-3}\\right)_b^1=\\frac{1}{4} \\\\\n& \\Rightarrow-\\frac{1}{3}\\left\\{(1-b)^3-1\\right\\}+\\frac{1}{3}\\left\\{0-(1-b)^3\\right\\} \\\\\n& =\\frac{1}{4}\n\\end{aligned}\n$$\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad-\\frac{2}{3}(1-b)^3=-\\frac{1}{3}+\\frac{1}{4}=-\\frac{1}{12} \\\\\n& \\Rightarrow \\quad(1-b)^3=\\frac{1}{8} \\\\\n& \\Rightarrow \\quad(1-b)=\\frac{1}{2} \\Rightarrow b=\\frac{1}{2} \\\\\n&\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Area of Curve along axis"
+  }
+]

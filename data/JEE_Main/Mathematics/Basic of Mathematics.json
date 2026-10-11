@@ -1,0 +1,636 @@
+[
+  {
+    "question_id": "69d8075081239f6567c4f449",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (04 April Shift 1)",
+    "paper_year_short": "2026 (04 April Shift 1)",
+    "held_on": "2026-04-04T09:00:00.000Z",
+    "question_text": "If the set of all solutions of $|x^2 + x - 9| = |x| + |x^2 - 9|$ is $[\\alpha, \\beta] \\cup [\\gamma, \\infty)$, then $(\\alpha^2 + \\beta^2 + \\gamma^2)$ is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1DSZh",
+        "text": "$9$",
+        "image": null
+      },
+      {
+        "id": "jP2yo",
+        "text": "$18$",
+        "image": null
+      },
+      {
+        "id": "fx64O",
+        "text": "$36$",
+        "image": null
+      },
+      {
+        "id": "ynbrs",
+        "text": "$72$",
+        "image": null
+      }
+    ],
+    "correct_answer": "jP2yo",
+    "solution_text": "The given equation is $|x^2 + x - 9| = |x| + |x^2 - 9|$.<br><br>Let $A = x$ and $B = x^2 - 9$. Then $A + B = x^2 + x - 9$.<br><br>The equation is of the form $|A + B| = |A| + |B|$, which holds true if and only if $A \\cdot B \\ge 0$.<br><br>Substituting the values of $A$ and $B$:<br><br>$x(x^2 - 9) \\ge 0$<br><br>$x(x - 3)(x + 3) \\ge 0$<br><br>The critical points are $-3, 0, 3$. Using the wavy curve method, the solution set is:<br><br>$x \\in [-3, 0] \\cup [3, \\infty)$<br><br>Comparing this with the given solution set $[\\alpha, \\beta] \\cup [\\gamma, \\infty)$, we get:<br><br>$\\alpha = -3$, $\\beta = 0$, $\\gamma = 3$<br><br>We need to find the value of $\\alpha^2 + \\beta^2 + \\gamma^2$:<br><br>$\\alpha^2 + \\beta^2 + \\gamma^2 = (-3)^2 + 0^2 + 3^2 = 9 + 0 + 9 = 18$<br><br>Answer: $18$",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "6983c19e8bfdbb24356396fe",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (24 January Shift 1)",
+    "paper_year_short": "2026 (24 January Shift 1)",
+    "held_on": "2026-01-24T09:00:00.000Z",
+    "question_text": "The number of the real solutions of the equation: $x|x+3|+|x-1|-2=0$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "P5Pak",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "uvoJa",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "Fh53P",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "BNuHA",
+        "text": "5",
+        "image": null
+      }
+    ],
+    "correct_answer": "Fh53P",
+    "solution_text": "Critical points: $x=-3$ and $x=1$.<br>Case $x < -3$:<br>$x^2+4x+1=0 \\Rightarrow x=-2\\pm\\sqrt{3}$.<br>Only $x=-2-\\sqrt{3} \\approx -3.73$ lies in $(-\\infty,-3)$. (1 solution)<br>Case $-3 \\le x < 1$:<br>$x^2+2x-1=0 \\Rightarrow x=-1\\pm\\sqrt{2}$.<br>Both $x=-1+\\sqrt{2} \\approx 0.41$ and $x=-1-\\sqrt{2} \\approx -2.41$ lie in $[-3,1)$. (2 solutions)<br>Case $x \\ge 1$:<br>$x^2+4x-3=0 \\Rightarrow x=-2\\pm\\sqrt{7}$.<br>Neither root $\\ge 1$. (0 solutions)<br>Total number of real solutions $= 3$.",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d68583",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (11 Apr Shift 1)",
+    "paper_year_short": "2023 (11 Apr Shift 1)",
+    "held_on": "2023-04-11T09:00:00.000Z",
+    "question_text": "The number of integral solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>2</mn></mfrac></mrow></mfenced></msub><msup><mfenced><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></mfenced><mn>2</mn></msup><mo>&#8805;</mo><mn>0</mn></math>&nbsp;is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pDSev",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>",
+        "image": null
+      },
+      {
+        "id": "uVsrS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "id": "RD2Cd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "cFhe4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "RD2Cd",
+    "solution_text": "<blockquote><p>We have been given that<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>2</mn></mfrac></mrow></mfenced></msub><msup><mfenced><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></mfenced><mn>2</mn></msup><mo>&#8805;</mo><mn>0</mn></math></p><p>We need to find the domain.</p><p>For&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></msub><mfenced><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math>&nbsp;is&nbsp;defined when&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>&#62;</mo><mn>0</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&#62;</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&#8800;</mo><mn>1</mn></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#62;</mo><mfrac><mrow><mo>-</mo><mn>7</mn></mrow><mn>2</mn></mfrac></math></p><p>Also,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>&#8800;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#8800;</mo><mfrac><mrow><mo>-</mo><mn>5</mn></mrow><mn>2</mn></mfrac></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8800;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#8800;</mo><mn>7</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8800;</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math></p><p>Domain : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>,</mo><mo>&#8734;</mo></mrow></mfenced><mo>-</mo><mfenced close=\"}\" open=\"{\"><mrow><mfrac><mrow><mo>-</mo><mn>5</mn></mrow><mn>2</mn></mfrac><mo>,</mo><mn>0</mn><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced></math></p><p>Now let us take different cases.</p><p>Case I: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#60;</mo><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>&#60;</mo><mn>1</mn></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>&#60;</mo><mi>x</mi><mo>&#60;</mo><mo>-</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></mfenced><mn>2</mn></msup><mo>&#8804;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>-</mo><mn>1</mn><mo>&#8804;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8804;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>+</mo><mn>1</mn><mo>&#8805;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8805;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>10</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8805;</mo><mn>0</mn><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/f30cb77d-6d61-4df2-9dae-21d79ad0e070-image.png\" style=\"width: 200px; height: 108px;\" /></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>-</mo><mn>1</mn><mo>&#8804;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8804;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mo>-</mo><mi>x</mi><mo>-</mo><mn>4</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8804;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8805;</mo><mn>0</mn><mo>.</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>3</mn><mo>)</mo></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/13daeaf2-89a8-49a3-8a01-d61a28251a39-image.png\" style=\"width: 200px; height: 95px;\" /></p><p>From <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>1</mn></mfenced><mo>,</mo><mfenced><mn>2</mn></mfenced><mo>,</mo><mfenced><mn>3</mn></mfenced></math>&nbsp;we can tell that there is no intersection, no solution</p><p>Case II:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>&#62;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#62;</mo><mo>-</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></mfenced><mn>2</mn></msup><mo>&#8805;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced close=\"|\" open=\"|\"><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></mfenced><mo>&#8805;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8804;</mo><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#8712;</mo><mfenced close=\"]\"><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>10</mn><mn>3</mn></mfrac></mrow></mfenced></math></p><p>Or,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8805;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>7</mn><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8805;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>&#8804;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>&#8712;</mo><mfenced open=\"[\"><mrow><mo>-</mo><mn>4</mn><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mo>-</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced><mo>&#8746;</mo><mfenced close=\"]\"><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>10</mn><mn>3</mn></mfrac></mrow></mfenced></math></p><p>Hence there are total 6 integers <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"{\" close=\"}\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn></mrow></mfenced></math>.</p><p>Hence this is the required option.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a6d417cc3fb48d67cb5",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (28 Jul Shift 2)",
+    "paper_year_short": "2022 (28 Jul Shift 2)",
+    "held_on": "2022-07-28T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>&#8712;</mo><mfenced open=\"[\" close=\"]\"><mrow><mo>-</mo><mn>6</mn><mo>,</mo><mn>3</mn></mrow></mfenced><mo>-</mo><mfenced open=\"{\" close=\"}\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>:</mo><mfrac><mrow><mfenced open=\"|\" close=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mo>-</mo><mn>1</mn></mrow><mrow><mfenced open=\"|\" close=\"|\"><mi>x</mi></mfenced><mo>-</mo><mn>2</mn></mrow></mfrac><mo>&#8805;</mo><mn>0</mn></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>Z</mi><mo>:</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>7</mn><mfenced open=\"|\" close=\"|\"><mi>x</mi></mfenced><mo>+</mo><mn>9</mn><mo>&#8804;</mo><mn>0</mn></mrow></mfenced></math>. Then the number of elements in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>&#8745;</mo><mi>T</mi></math> is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8tL1v",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>",
+        "image": null
+      },
+      {
+        "id": "5ohfX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "vmIkE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "id": "eM2aw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "eM2aw",
+    "solution_text": "<blockquote><p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mn>2</mn></msup><mo>-</mo><mn>7</mn><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mo>+</mo><mn>9</mn><mo>&#8804;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mo>&#8804;</mo><mfrac><mrow><mn>7</mn><mo>&#177;</mo><msqrt><mn>13</mn></msqrt></mrow><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mo>&#8712;</mo><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mrow><mn>7</mn><mo>-</mo><msqrt><mn>13</mn></msqrt></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><mn>7</mn><mo>+</mo><msqrt><mn>13</mn></msqrt></mrow><mn>2</mn></mfrac></mrow></mfenced></math></p><p>Also given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mtext>Integers</mtext></math>, so&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;can be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#177;</mo><mn>2</mn><mo>,</mo><mo>&#160;</mo><mo>&#177;</mo><mn>3</mn><mo>,</mo><mo>&#160;</mo><mo>&#177;</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mo>&#177;</mo><mn>5</mn></math></p><p>Now out of these values of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;only&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>,</mo><mo>&#160;</mo><mo>-</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mo>-</mo><mn>5</mn></math>&nbsp;will satisfy&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mrow><mfenced close=\"|\" open=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mo>-</mo><mn>1</mn></mrow><mrow><mfenced close=\"|\" open=\"|\"><mi>x</mi></mfenced><mo>-</mo><mn>2</mn></mrow></mfrac><mo>&#8805;</mo><mn>0</mn></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>&#8745;</mo><mi>T</mi><mo>&#8712;</mo><mo>&#160;</mo><mfenced close=\"}\" open=\"{\"><mrow><mn>3</mn><mo>,</mo><mo>&#160;</mo><mo>-</mo><mn>4</mn><mo>,</mo><mo>&#160;</mo><mo>-</mo><mn>5</mn></mrow></mfenced></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mfenced><mrow><mi>S</mi><mo>&#8745;</mo><mi>T</mi></mrow></mfenced><mo>=</mo><mn>3</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67931",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2022 (25 Jun Shift 2)",
+    "paper_year_short": "2022 (25 Jun Shift 2)",
+    "held_on": "2022-06-25T14:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>&#60;</mo><mn>2</mn></mrow></mfenced></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mfenced open=\"|\" close=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>&#8805;</mo><mn>2</mn></mrow></mfenced></math>. Then which one the following statements is NOT true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RQ3Ub",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>-</mo><mi>B</mi><mo>=</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "axyqE",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>-</mo><mi>A</mi><mo>=</mo><mi>R</mi><mo>-</mo><mfenced><mrow><mo>-</mo><mn>3</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "8f3Kg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8745;</mo><mi>B</mi><mo>=</mo><mo>(</mo><mo>-</mo><mn>3</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>]</mo></math>",
+        "image": null
+      },
+      {
+        "id": "pIT0M",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8746;</mo><mi>B</mi><mo>=</mo><mi>R</mi><mo>-</mo><mo>[</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "axyqE",
+    "solution_text": "<p>Given,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>&#60;</mo><mn>2</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>A</mi><mo>=</mo><mfenced><mrow><mo>-</mo><mn>3</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mfenced close=\"|\" open=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>&#8805;</mo><mn>2</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>B</mi><mo>=</mo><mo>(</mo><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>1</mn><mo>]</mo><mo>&#8746;</mo><mo>[</mo><mn>3</mn><mo>,</mo><mo>&#8734;</mo><mo>)</mo></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>-</mo><mi>A</mi><mo>=</mo><mo>(</mo><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>3</mn><mo>]</mo><mo>&#8746;</mo><mo>[</mo><mn>3</mn><mo>,</mo><mo>&#8734;</mo><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>B</mi><mo>-</mo><mi>A</mi><mo>=</mo><mi>R</mi><mo>-</mo><mfenced><mrow><mo>-</mo><mn>3</mn><mo>,</mo><mn>3</mn></mrow></mfenced></math></p><p>So, option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;is not true.</p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d6756d",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (27 Aug Shift 1)",
+    "paper_year_short": "2021 (27 Aug Shift 1)",
+    "held_on": "2021-08-27T09:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mo>{</mo><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mo>|</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>|</mo><mo>&#62;</mo><mn>1</mn><mo>}</mo><mo>,</mo><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><msqrt><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn></msqrt><mo>&#62;</mo><mn>1</mn></mrow></mfenced><mo>,</mo><mi>C</mi><mo>=</mo><mo>{</mo><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mo>|</mo><mi>x</mi><mo>-</mo><mn>4</mn><mo>|</mo><mo>&#10878;</mo><mn>2</mn><mo>}</mo></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math> is the set of all integers, then the number of subsets of the set <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>A</mi><mo>&#8745;</mo><mi>B</mi><mo>&#8745;</mo><mi>C</mi><msup><mo>)</mo><mi>c</mi></msup><mo>&#8745;</mo><mi>Z</mi></math> is _________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "256",
+    "solution_text": "<blockquote><p>For First set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mo>{</mo><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mo>|</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>|</mo><mo>&#62;</mo><mn>1</mn><mo>}</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Value which&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;contains lies from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mn>1</mn></mrow></mfenced><mo>&#8746;</mo><mfenced><mrow><mn>3</mn><mo>,</mo><mo>&#8734;</mo></mrow></mfenced></math></p><p>For second set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfenced close=\"}\" open=\"{\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><msqrt><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn></msqrt><mo>&#62;</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Value which&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;contains lies from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#8746;</mo><mfenced><mrow><mn>2</mn><mo>,</mo><mo>&#8734;</mo></mrow></mfenced></math></p><p>For third set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mo>=</mo><mo>{</mo><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mo>|</mo><mi>x</mi><mo>-</mo><mn>4</mn><mo>|</mo><mo>&#10878;</mo><mn>2</mn><mo>}</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo></math>&nbsp;Value which&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>&nbsp;contains lies from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mo>(</mo><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mn>2</mn><mo>]</mo><mo>&#8746;</mo><mo>[</mo><mn>6</mn><mo>,</mo><mo>&#8734;</mo><mo>)</mo></math></p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#8746;</mo><mo>[</mo><mn>6</mn><mo>,</mo><mo>&#8734;</mo><mo>)</mo><mo>&#8712;</mo><mfenced><mrow><mi>A</mi><mo>&#8745;</mo><mi>B</mi><mo>&#8745;</mo><mi>C</mi></mrow></mfenced></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mi>A</mi><mo>&#8745;</mo><mi>B</mi><mo>&#8745;</mo><mi>C</mi></mrow></mfenced><mi>c</mi></msup><mo>&#8745;</mo><mi>Z</mi><mo>=</mo><mfenced open=\"{\" close=\"}\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn></mrow></mfenced></math></p><p>Number of Subsets of above set&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msup><mn>2</mn><mn>8</mn></msup><mo>=</mo><mn>256</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "6557bb2fd43b5ec151ee546d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (09 Jan Shift 2)",
+    "paper_year_short": "2020 (09 Jan Shift 2)",
+    "held_on": "2020-01-09T14:00:00.000Z",
+    "question_text": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mfenced open=\"|\" close=\"|\" separators=\"|\"><mi>x</mi></mfenced><mo>&#60;</mo><mn>2</mn></mrow></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mo>:</mo><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#8805;</mo><mn>3</mn></mrow></mfenced><mo>;</mo></math> then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "T9BM4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8745;</mo><mi>B</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "LQxmw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>-</mo><mi>A</mi><mo>=</mo><mi>R</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>5</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "k5fFF",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8746;</mo><mi>B</mi><mo>=</mo><mi>R</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mo>,</mo><mn>5</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "l7ihU",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>-</mo><mi>B</mi><mo>=</mo><mfenced open=\"[\" separators=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LQxmw",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>2,2</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mo>(</mo><mo>-</mo><mi>&#8734;</mi><mo>,</mo><mo>-</mo><mn>1</mn><mo>]</mo><mo>&#8746;</mo><mo>[</mo><mn>5</mn><mo>,</mo><mfenced open=\"\" separators=\"|\"><mi>&#8734;</mi></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8745;</mo><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mo>(</mo><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>]</mo></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8746;</mo><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mi>&#8734;</mi><mo>,</mo><mn>2</mn></mrow></mfenced><mo>&#8746;</mo><mfenced open=\"[\" close=\"\" separators=\"|\"><mrow><mn>5</mn><mo>,</mo><mi>&#8734;</mi><mo>)</mo></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>-</mo><mi>B</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mfenced separators=\"|\"><mrow><mo>-</mo><mn>1,2</mn></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>-</mo><mi>A</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>:</mo><mi>x</mi><mo>&#8712;</mo><mfenced close=\"\" separators=\"|\"><mrow><mo>-</mo><mi>&#8734;</mi><mo>,</mo><mfenced open=\"\" close=\"]\" separators=\"|\"><mrow><mo>-</mo><mn>2</mn></mrow></mfenced><mo>&#8746;</mo></mrow></mfenced><mfenced open=\"[\" close=\"\" separators=\"|\"><mrow><mn>5</mn><mo>,</mo><mfenced open=\"\" separators=\"|\"><mi>&#8734;</mi></mfenced></mrow></mfenced></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a65417cc3fb48d66255",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2018 (08 Apr)",
+    "paper_year_short": "2018 (08 Apr)",
+    "held_on": "2018-04-08T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfenced open=\"{\" close=\"}\" separators=\"|\"><mrow><mi>x</mi><mo>&#8712;</mo><mi>R</mi><mi>&#160;</mi><mo>:</mo><mi>x</mi><mo>&#8805;</mo><mn>0</mn><mi>&#160;</mi><mo>&#38;</mo><mi>&#160;</mi><mn>2</mn><mfenced open=\"|\" close=\"|\" separators=\"|\"><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><mn>3</mn></mrow></mfenced><mo>+</mo><msqrt><mi>x</mi></msqrt><mi>&#160;</mi><mfenced separators=\"|\"><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><mn>6</mn></mrow></mfenced><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></mfenced></math> . Then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math>:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4uzaj",
+        "text": "Contains exactly four elements",
+        "image": null
+      },
+      {
+        "id": "JONYC",
+        "text": "Is an empty set",
+        "image": null
+      },
+      {
+        "id": "SceGi",
+        "text": "Contains exactly one element",
+        "image": null
+      },
+      {
+        "id": "bxwmd",
+        "text": "Contains exactly two elements",
+        "image": null
+      }
+    ],
+    "correct_answer": "bxwmd",
+    "solution_text": "<p><math><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><mn>3</mn></mrow></mfenced><mo>+</mo><msqrt><mi>x</mi></msqrt><mfenced separators=\"|\"><mrow><msqrt><mi>x</mi></msqrt><mo>-</mo><mn>6</mn></mrow></mfenced><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math><br /><br />Let <math><msqrt><mi>x</mi></msqrt><mo>=</mo><mi>t</mi><mo>&#62;</mo><mn>0</mn></math><br /><br /><math><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>t</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>+</mo><mi>t</mi><mfenced separators=\"|\"><mrow><mi>t</mi><mo>-</mo><mn>6</mn></mrow></mfenced><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math><br /><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>t</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>t</mi><mo>+</mo><mn>6</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>t</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>t</mi><mo>+</mo><mn>9</mn></mrow></mfenced><mo>+</mo><mn>3</mn></math><br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/46a64de1-6570-472c-8d67-991a6cb4b189-image.png\" style=\"width: 270px; height: 270px;\" /><br /><br />So the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>&nbsp;solutions.</p>",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a63417cc3fb48d65ca3",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2013 (23 Apr Online)",
+    "paper_year_short": "2013 (23 Apr Online)",
+    "held_on": "2013-04-23T09:00:00.000Z",
+    "question_text": "The least integral value $\\alpha$ of $x$ such that $\\frac{x-5}{x^2+5 x-14}>0$, satisfies :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LPSZL",
+        "text": "\n$\\alpha^2+3 \\alpha-4=0$\n",
+        "image": null
+      },
+      {
+        "id": "uQTID",
+        "text": "\n$\\alpha^2-5 \\alpha+4=0$\n",
+        "image": null
+      },
+      {
+        "id": "Bk8en",
+        "text": "\n$\\alpha^2-7 \\alpha+6=0$\n",
+        "image": null
+      },
+      {
+        "id": "iSdd8",
+        "text": "\n$\\alpha^2+5 \\alpha-6=0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "LPSZL",
+    "solution_text": "$$\n\\text { } \\begin{aligned}\n& \\frac{x-5}{x^2+5 x-14}>0 \\Rightarrow x^2+5 x-14 < x-5 \\\\\n& \\Rightarrow x^2+4 x-9 < 0 \\\\\n& \\Rightarrow \\alpha=-5,-4,-3,-2,-1,0,1\n\\end{aligned}\n$$\n$\\alpha=-5$ does not satisfy any of the options\n$\\alpha=-4$ satisfy the option (a) $\\alpha^2+3 \\alpha-4=0$",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a62417cc3fb48d6586c",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2008",
+    "paper_year_short": "2008",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement - 1: For every natural number $n \\geq 2, \\frac{1}{\\sqrt{1}}+\\frac{1}{\\sqrt{2}}+\\ldots+\\frac{1}{\\sqrt{n}}>\\sqrt{n}$.\nStatement $-2$ : For every natural number $n \\geq 2, \\sqrt{n(n+1)} < n+1$.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "74I5H",
+        "text": "\nStatement $-1$ is false, Statement $-2$ is true\n",
+        "image": null
+      },
+      {
+        "id": "eVCUX",
+        "text": "\nStatement $-1$ is true, Statement $-2$ is true, Statement $-2$ is a correct explanation for Statement $-1$\n",
+        "image": null
+      },
+      {
+        "id": "kGvuF",
+        "text": "\nStatement $-1$ is true, Statement $-2$ is true; Statement $-2$ is not a correct explanation for Statement $-1$.\n",
+        "image": null
+      },
+      {
+        "id": "mLqTc",
+        "text": "\nStatement $-1$ is true, Statement $-2$ is false.",
+        "image": null
+      }
+    ],
+    "correct_answer": "kGvuF",
+    "solution_text": "$$\n\\begin{aligned}\n& P(n)=\\frac{1}{\\sqrt{1}}+\\frac{1}{\\sqrt{2}}+\\ldots+\\frac{1}{\\sqrt{n}} \\\\\n& P(2)=\\frac{1}{\\sqrt{1}}+\\frac{1}{\\sqrt{2}}>\\sqrt{2}\n\\end{aligned}\n$$\nLet us assume that $P(k)=\\frac{1}{\\sqrt{1}}+\\frac{1}{\\sqrt{2}}+\\ldots+\\frac{1}{\\sqrt{k}}>\\sqrt{k}$ is true $\\therefore P(k+1)=\\frac{1}{\\sqrt{1}}+\\frac{1}{\\sqrt{2}}+\\ldots+\\frac{1}{\\sqrt{k}}+\\frac{1}{\\sqrt{k+1}}>\\sqrt{k+1}$ has to be true. L.H.S. $>\\sqrt{\\mathrm{k}}+\\frac{1}{\\sqrt{\\mathrm{k}+1}}=\\frac{\\sqrt{\\mathrm{k}(\\mathrm{k}+1)}+1}{\\sqrt{\\mathrm{k}+1}}$\nSince $\\sqrt{k(k+1)}>k \\quad(\\forall k \\geq 0)$\n$$\n\\therefore \\frac{\\sqrt{\\mathrm{k}(\\mathrm{k}+1)}+1}{\\sqrt{\\mathrm{k}+1}}>\\frac{\\mathrm{k}+1}{\\sqrt{\\mathrm{k}+1}}=\\sqrt{\\mathrm{k}+1}\n$$\nLet $P(n)=\\sqrt{n(n+1)} < n+1$\nStatement $-1$ is correct.\n$$\nP(2)=\\sqrt{2 \\times 3} < 3\n$$\nIf $P(k)=\\sqrt{k(k+1)} < (k+1)$ is true\nNow $P(k+1)=\\sqrt{(k+1)(k+2)} < k+2$ has to be true\nSince $(k+1) < k+2$\n$$\n\\therefore \\sqrt{(\\mathrm{k}+1)(\\mathrm{k}+2)} < (\\mathrm{k}+2)\n$$\nHence Statement $-2$ is not a correct explanation of Statement $-1$.",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "648b5a61417cc3fb48d65439",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2002",
+    "paper_year_short": "2002",
+    "held_on": "2002-04-30T09:00:00.000Z",
+    "question_text": "If $a, b, c$ are distinct $+v e$ real numbers and $a^2+b^2+c^2=1$ then $a b+b c+c a$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5sMaR",
+        "text": "\nless than 1\n",
+        "image": null
+      },
+      {
+        "id": "KmKKG",
+        "text": "\nequal to 1\n",
+        "image": null
+      },
+      {
+        "id": "VFmL7",
+        "text": "\ngreater than 1\n",
+        "image": null
+      },
+      {
+        "id": "BARXq",
+        "text": "\nany real no.",
+        "image": null
+      }
+    ],
+    "correct_answer": "5sMaR",
+    "solution_text": "$a b+b c+c a=\\frac{(a+b+c)^2-1}{2} < 1$",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "69d8073881239f6567c4f330",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2026 (08 April Shift 2)",
+    "paper_year_short": "2026 (08 April Shift 2)",
+    "held_on": "2026-04-08T14:00:00.000Z",
+    "question_text": "The sum of squares of all the real solutions of the equation $\\log_{(x+1)}(2x^2+5x+3) = 4 - \\log_{(2x+3)}(x^2+2x+1)$ is equal to ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "For the logarithms to be defined, we must satisfy the following conditions:<br>1. Base of the first logarithm: $x+1 > 0 \\Rightarrow x > -1$ and $x+1 \\neq 1 \\Rightarrow x \\neq 0$.<br>2. Base of the second logarithm: $2x+3 > 0 \\Rightarrow x > -\\dfrac{3}{2}$ and $2x+3 \\neq 1 \\Rightarrow x \\neq -1$.<br>3. Arguments must be positive: $2x^2+5x+3 > 0$ and $x^2+2x+1 > 0$.<br>Taking the intersection of all these conditions, the domain of the equation is $x \\in (-1, 0) \\cup (0, \\infty)$.<br><br>Now, factorizing the arguments of the logarithms:<br>$2x^2+5x+3 = (2x+3)(x+1)$<br>$x^2+2x+1 = (x+1)^2$<br><br>Substitute these into the given equation:<br>$\\log_{(x+1)}((2x+3)(x+1)) = 4 - \\log_{(2x+3)}((x+1)^2)$<br><br>Using the properties of logarithms:<br>$\\log_{(x+1)}(2x+3) + \\log_{(x+1)}(x+1) = 4 - 2\\log_{(2x+3)}(x+1)$<br>$\\log_{(x+1)}(2x+3) + 1 = 4 - \\dfrac{2}{\\log_{(x+1)}(2x+3)}$<br><br>Let $t = \\log_{(x+1)}(2x+3)$. The equation becomes:<br>$t + 1 = 4 - \\dfrac{2}{t}$<br>$t - 3 + \\dfrac{2}{t} = 0$<br>$t^2 - 3t + 2 = 0$<br>$(t-1)(t-2) = 0$<br>$\\Rightarrow t = 1$ or $t = 2$<br><br>Case 1: $t = 1$<br>$\\log_{(x+1)}(2x+3) = 1$<br>$2x+3 = x+1$<br>$x = -2$<br>This value is rejected because $x = -2$ does not fall in the domain $x > -1$.<br><br>Case 2: $t = 2$<br>$\\log_{(x+1)}(2x+3) = 2$<br>$2x+3 = (x+1)^2$<br>$2x+3 = x^2+2x+1$<br>$x^2 = 2$<br>$x = \\pm\\sqrt{2}$<br><br>Since $x > -1$, $x = -\\sqrt{2}$ is rejected. The only valid solution is $x = \\sqrt{2}$.<br><br>The sum of squares of all the real solutions is $(\\sqrt{2})^2 = 2$.<br><br>Answer: $2$",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "67a2ee84c8b73881fdaea093",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2025 (22 Jan Shift 1)",
+    "paper_year_short": "2025 (22 Jan Shift 1)",
+    "held_on": "2025-01-22T09:00:00.000Z",
+    "question_text": "The product of all solutions of the equation $\\mathrm{e}^{5\\left(\\log _{\\mathrm{e}} x\\right)^2+3}=x^8, x\\gt0$, is :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uWkfm",
+        "text": "$e^{8 / 5}$",
+        "image": null
+      },
+      {
+        "id": "NamIb",
+        "text": "$e^{6 / 5}$",
+        "image": null
+      },
+      {
+        "id": "4CWmh",
+        "text": "$\\mathrm{e}^2$",
+        "image": null
+      },
+      {
+        "id": "Z02PC",
+        "text": "e",
+        "image": null
+      }
+    ],
+    "correct_answer": "uWkfm",
+    "solution_text": "$\\begin{aligned} & \\mathrm{e}^{5(\\ln x)^2+3}=\\mathrm{x}^8 \\\\ & \\Rightarrow \\ell \\mathrm{ne}^{5(\\ln x)^2+3}=\\ell \\mathrm{nn}^8 \\\\ & \\Rightarrow 5(\\ln \\mathrm{x})^2+3=8 \\ell \\mathrm{nx} \\\\ & (\\ell \\mathrm{nx}=\\mathrm{t}) \\\\ & \\Rightarrow 5 \\mathrm{t}^2-8 \\mathrm{t}+3=0 \\\\ & \\quad \\mathrm{t}_1+\\mathrm{t}_2=\\frac{8}{5} \\\\ & \\quad \\ln \\mathrm{x}_1 \\mathrm{x}_2=\\frac{8}{5} \\\\ & \\mathrm{x}_1 \\mathrm{X}_2=\\mathrm{e}^{8 / 5}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "648b5a70417cc3fb48d684e6",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (10 Apr Shift 1)",
+    "paper_year_short": "2023 (10 Apr Shift 1)",
+    "held_on": "2023-04-10T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>,</mo><mo>&#160;</mo><mi>b</mi><mo>,</mo><mo>&#160;</mo><mi>c</mi></math> be the three distinct positive real numbers such that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mn>2</mn><mi>a</mi></mrow></mfenced><mrow><msub><mi>log</mi><mi>e</mi></msub><mi>a</mi></mrow></msup><mo>=</mo><msup><mfenced><mrow><mi>b</mi><mi>c</mi></mrow></mfenced><mrow><msub><mi>log</mi><mi>e</mi></msub><mi>b</mi></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>b</mi><mrow><msub><mi>log</mi><mi>e</mi></msub><mn>2</mn></mrow></msup><mo>=</mo><msup><mi>a</mi><mrow><msub><mi>log</mi><mi>e</mi></msub><mi>c</mi></mrow></msup></math>&nbsp;Then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi>a</mi><mo>+</mo><mn>5</mn><mi>b</mi><mi>c</mi></math> is equal to ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<blockquote><p>Given equation:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mn>2</mn><mi>a</mi></mrow></mfenced><mrow><mi>ln</mi><mfenced><mi>a</mi></mfenced></mrow></msup><mo>=</mo><msup><mfenced><mrow><mi>b</mi><mi>c</mi></mrow></mfenced><mrow><mi>ln</mi><mfenced><mi>b</mi></mfenced></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mfenced><mi>a</mi></mfenced><mo>&#183;</mo><mfenced><mrow><mi>ln</mi><mfenced><mrow><mn>2</mn><mi>a</mi></mrow></mfenced></mrow></mfenced><mo>=</mo><mi>ln</mi><mfenced><mi>b</mi></mfenced><mo>&#183;</mo><mi>ln</mi><mfenced><mrow><mi>b</mi><mi>c</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mfenced><mi>a</mi></mfenced><mo>&#183;</mo><mfenced><mrow><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>+</mo><mi>ln</mi><mfenced><mi>a</mi></mfenced></mrow></mfenced><mo>=</mo><mi>ln</mi><mfenced><mi>b</mi></mfenced><mo>&#183;</mo><mfenced><mrow><mi>ln</mi><mfenced><mi>b</mi></mfenced><mo>+</mo><mi>ln</mi><mfenced><mi>c</mi></mfenced></mrow></mfenced></math></p><p>let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><mi>a</mi></mfenced><mo>=</mo><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>ln</mi><mfenced><mi>b</mi></mfenced><mo>=</mo><mi>y</mi><mo>,</mo><mo>&#160;</mo><mi>ln</mi><mfenced><mi>c</mi></mfenced><mo>=</mo><mi>z</mi><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8800;</mo><mi>y</mi><mo>&#8800;</mo><mi>z</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mfenced><mrow><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>+</mo><mi>x</mi></mrow></mfenced><mo>=</mo><mi>y</mi><mfenced><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>y</mi><mi>z</mi></math>&nbsp;........(i)</p><p>Similarly, from second equation</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>&#183;</mo><mi>ln</mi><mfenced><mi>b</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mi>c</mi></mfenced><mo>&#183;</mo><mi>ln</mi><mfenced><mi>a</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><mfrac><mrow><mi>x</mi><mi>z</mi></mrow><mi>y</mi></mfrac></math>&nbsp;......(ii)</p><p>Substitute&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>e</mi><mi>q</mi><mfenced><mrow><mi>i</mi><mi>i</mi></mrow></mfenced><mo>&#160;</mo><mtext>in</mtext><mo>&#160;</mo><mi>e</mi><mi>q</mi><mfenced><mi>i</mi></mfenced></math>,</p><p>We get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>y</mi><mn>3</mn></msup><mo>-</mo><mi>y</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mi>z</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mi>z</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>y</mi><mn>2</mn></msup><mfenced><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfenced><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mfenced><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mfenced><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mi>y</mi></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mfenced><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mo>&#160;</mo><mi>x</mi><mo>&#8800;</mo><mi>y</mi><mo>&#8658;</mo><mfenced><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfenced><mfenced><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mo>-</mo><mi>y</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi><mo>=</mo><mo>-</mo><mi>z</mi><mo>&#160;</mo><mtext>and</mtext><mo>&#160;</mo><mi>x</mi><mo>=</mo><mi>z</mi></math></p><p>But&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><mfrac><mrow><mi>x</mi><mi>z</mi></mrow><mi>y</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><mfrac><mrow><mi>x</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mo>-</mo><mi>x</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mfenced><mn>2</mn></mfenced><mo>=</mo><mo>-</mo><mi>ln</mi><mfenced><mi>a</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>-</mo><mi>ln</mi><mo>&#160;</mo><mn>2</mn><mo>&#8658;</mo><mi>a</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>&nbsp;and</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>y</mi><mo>=</mo><mo>-</mo><mi>z</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>ln</mi><mfenced><mi>b</mi></mfenced><mo>=</mo><mo>-</mo><mi>ln</mi><mfenced><mi>c</mi></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>b</mi><mi>c</mi><mo>=</mo><mn>1</mn></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mi>a</mi><mo>+</mo><mn>5</mn><mi>b</mi><mi>c</mi><mo>=</mo><mn>6</mn><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mo>+</mo><mn>5</mn><mfenced><mn>1</mn></mfenced><mo>=</mo><mn>8</mn></math></p><p>Hence this is the required answer.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "648b5a6f417cc3fb48d6820a",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2023 (30 Jan Shift 1)",
+    "paper_year_short": "2023 (30 Jan Shift 1)",
+    "held_on": "2023-01-30T09:00:00.000Z",
+    "question_text": "If the solution of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mi>cos</mi><mi>x</mi></mrow></msub><mfenced><mrow><mi>cot</mi><mi>x</mi></mrow></mfenced><mo>+</mo><mn>4</mn><msub><mi>log</mi><mrow><mi>sin</mi><mi>x</mi></mrow></msub><mfenced><mrow><mi>tan</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mrow><mi>&#945;</mi><mo>+</mo><msqrt><mi>&#946;</mi></msqrt></mrow><mn>2</mn></mfrac></mfenced></math>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>,</mo><mi>&#946;</mi></math> are integers, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>+</mo><mi>&#946;</mi></math> is equal to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "scA85",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "id": "sQxCT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "id": "EGPXZ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "id": "tKid0",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "tKid0",
+    "solution_text": "<p>Given:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mi>cos</mi><mi>x</mi></mrow></msub><mfenced><mrow><mi>cot</mi><mi>x</mi></mrow></mfenced><mo>+</mo><mn>4</mn><msub><mi>log</mi><mrow><mi>sin</mi><mi>x</mi></mrow></msub><mfenced><mrow><mi>tan</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>lncos</mi><mi>x</mi><mo>-</mo><mi>lnsin</mi><mi>x</mi></mrow><mrow><mi>lncos</mi><mi>x</mi></mrow></mfrac><mo>+</mo><mn>4</mn><mfenced><mfrac><mrow><mi>lnsin</mi><mi>x</mi><mo>-</mo><mi>lncos</mi><mi>x</mi></mrow><mrow><mi>lnsin</mi><mi>x</mi></mrow></mfrac></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>-</mo><mfenced><mfrac><mrow><mi>lnsin</mi><mi>x</mi></mrow><mrow><mi>lncos</mi><mi>x</mi></mrow></mfrac></mfenced><mo>+</mo><mn>4</mn><mfenced><mrow><mn>1</mn><mo>-</mo><mfrac><mrow><mi>lncos</mi><mi>x</mi></mrow><mrow><mi>lnsin</mi><mi>x</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mfrac><mrow><mi>lnsin</mi><mi>x</mi></mrow><mrow><mi>lncos</mi><mi>x</mi></mrow></mfrac></mfenced><mo>+</mo><mn>4</mn><mfenced><mfrac><mrow><mi>lncos</mi><mi>x</mi></mrow><mrow><mi>lnsin</mi><mi>x</mi></mrow></mfrac></mfenced><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>(</mo><mi>lnsin</mi><mi>x</mi><msup><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>(</mo><mi>lnsin</mi><mi>x</mi><mo>)</mo><mo>(</mo><mi>lncos</mi><mi>x</mi><mo>)</mo><mo>+</mo><mn>4</mn><mo>(</mo><mi>lncos</mi><mi>x</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mi>lnsin</mi><mi>x</mi><mo>-</mo><mn>2</mn><mi>lncos</mi><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>lnsin</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>lncos</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>lnsin</mi><mi>x</mi><mo>=</mo><msup><mi>lncos</mi><mn>2</mn></msup><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mi>sin</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>=</mo><mi>sin</mi><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mi>sin</mi><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mn>1</mn><mo>+</mo><msqrt><mn>5</mn></msqrt></mrow><mn>2</mn></mfrac></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mo>-</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>&#946;</mi><mo>=</mo><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>&#945;</mi><mo>+</mo><mi>&#946;</mi><mo>=</mo><mn>4</mn></math></p>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "648b5a6c417cc3fb48d67725",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (31 Aug Shift 2)",
+    "paper_year_short": "2021 (31 Aug Shift 2)",
+    "held_on": "2021-08-31T14:00:00.000Z",
+    "question_text": "<p>The sum of the roots of the equation,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mi>log</mi><mn>4</mn></msub><mfenced><mrow><mn>10</mn><mo>-</mo><msup><mn>2</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn><mo>,</mo></math>&nbsp;is :</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "zeCks",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>2</mn></msub><mn>14</mn></math>",
+        "image": null
+      },
+      {
+        "id": "fxN9B",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>2</mn></msub><mn>12</mn></math>",
+        "image": null
+      },
+      {
+        "id": "pOQgS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>2</mn></msub><mn>13</mn></math>",
+        "image": null
+      },
+      {
+        "id": "t46fN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>2</mn></msub><mn>11</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "t46fN",
+    "solution_text": "<p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mi>log</mi><mn>4</mn></msub><mfenced><mrow><mn>10</mn><mo>-</mo><msup><mn>2</mn><mrow><mo>-</mo><mi>x</mi></mrow></msup></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mi>log</mi><msup><mn>2</mn><mn>2</mn></msup></msub><mfenced><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><msup><mn>2</mn><mi>x</mi></msup></mfrac></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><msup><mn>2</mn><mi>x</mi></msup></mfrac></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><mn>2</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><msub><mi>log</mi><mn>2</mn></msub><msup><mn>2</mn><mi>x</mi></msup><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><msub><mi>log</mi><mn>2</mn></msub><msup><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mi>x</mi><msub><mi>log</mi><mn>2</mn></msub><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>-</mo><msub><mi>log</mi><mn>2</mn></msub><msup><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced close=\"]\" open=\"[\"><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><msup><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mn>2</mn></msup></mfrac></mfenced><mo>-</mo><mi>x</mi><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced close=\"]\" open=\"[\"><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><msup><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mn>2</mn></msup></mfrac></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced close=\"]\" open=\"[\"><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><msup><mfenced><mrow><mn>3</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfenced><mn>2</mn></msup></mfrac></mfenced><mo>=</mo><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced close=\"]\" open=\"[\"><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><mrow><mn>9</mn><mo>+</mo><msup><mfenced><msup><mn>2</mn><mi>x</mi></msup></mfenced><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfrac></mfenced><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow><mrow><mn>9</mn><mo>+</mo><msup><mfenced><msup><mn>2</mn><mi>x</mi></msup></mfenced><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mfenced><mrow><mn>10</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>9</mn><mo>+</mo><msup><mfenced><msup><mn>2</mn><mi>x</mi></msup></mfenced><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><msup><mn>2</mn><mi>x</mi></msup></mfenced><mn>2</mn></msup><mo>-</mo><mn>14</mn><mo>.</mo><msup><mn>2</mn><mi>x</mi></msup><mo>+</mo><mn>11</mn><mo>=</mo><mn>0</mn></math></p><p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>x</mi></msup><mo>=</mo><mi>y</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>14</mn><mi>y</mi><mo>+</mo><mn>11</mn><mo>=</mo><mn>0</mn></math></p><p>Let roots are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mn>1</mn></msub><mo>=</mo><msup><mn>2</mn><msub><mi>x</mi><mn>1</mn></msub></msup><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><msub><mi>y</mi><mn>2</mn></msub><mo>=</mo><msup><mn>2</mn><msub><mi>x</mi><mn>2</mn></msub></msup></math></p><p>Product of roots,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>=</mo><msup><mn>2</mn><msub><mi>x</mi><mn>1</mn></msub></msup><mo>&#215;</mo><msup><mn>2</mn><msub><mi>x</mi><mn>2</mn></msub></msup><mo>=</mo><msup><mn>2</mn><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub></mrow></msup><mo>=</mo><mn>11</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>log</mi><msup><mn>2</mn><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub></mrow></msup><mo>=</mo><mi>log</mi><mn>11</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub></mrow></mfenced><mi>log</mi><mn>2</mn><mo>=</mo><mi>log</mi><mn>11</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mi>log</mi><mn>11</mn></mrow><mrow><mi>log</mi><mn>2</mn></mrow></mfrac></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mn>11</mn></math></p>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "6557bb40d43b5ec151ee546e",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (20 Jul Shift 2)",
+    "paper_year_short": "2021 (20 Jul Shift 2)",
+    "held_on": "2021-07-20T14:00:00.000Z",
+    "question_text": "The number of solutions of the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></msub><mfenced><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mo>+</mo><msub><mi>log</mi><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo></mrow></msub><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#62;</mo><mn>0</mn><mo>,</mo></math>&nbsp;is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<p>We have,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></msub><mfenced><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mo>+</mo><msub><mi>log</mi><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo></mrow></msub><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>&#62;</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mi>log</mi><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mo>+</mo><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mi>log</mi><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mo>+</mo><mn>1</mn><mo>+</mo><mn>2</mn><msub><mi>log</mi><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mo>+</mo><mn>2</mn><msub><mi>log</mi><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mo>+</mo><mfrac><mn>2</mn><mrow><msub><mi>log</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></msub><mfenced><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mn>3</mn></math></p><p>Put&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></msub><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo><mo>=</mo><mi>t</mi></math>, then</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>+</mo><mfrac><mn>2</mn><mi>t</mi></mfrac><mo>=</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn><mi>t</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>t</mi><mo>=</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mn>2</mn></math></p><p>Then,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></msub><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo><mo>=</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></msub><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>=</mo><mi>x</mi><mo>+</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>=</mo><msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mo>-</mo><mn>4</mn></math>&nbsp;(rejected) as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#62;</mo><mn>0</mn></math></p><p>And,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>=</mo><msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></math></p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>2</mn></math>&nbsp;(rejected)</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>2</mn></math></p><p>Number of solution is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66ea9",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (16 Mar Shift 1)",
+    "paper_year_short": "2021 (16 Mar Shift 1)",
+    "held_on": "2021-03-16T09:00:00.000Z",
+    "question_text": "<p>If for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced><mo>,</mo><msub><mi>log</mi><mn>10</mn></msub><mi>sin</mi><mi>x</mi><mo>+</mo><msub><mi>log</mi><mn>10</mn></msub><mi>cos</mi><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>10</mn></msub><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msub><mi>log</mi><mn>10</mn></msub><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>,</mo><mi>n</mi><mo>&#62;</mo><mn>0</mn></math>,&nbsp;then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is equal to :&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "vUYIu",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn></math>",
+        "image": null
+      },
+      {
+        "id": "wQ1Z4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn></math>",
+        "image": null
+      },
+      {
+        "id": "ZriuN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>",
+        "image": null
+      },
+      {
+        "id": "EyiKN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "wQ1Z4",
+    "solution_text": "<p>Given&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>10</mn></msub><mi>sin</mi><mi>x</mi><mo>+</mo><msub><mi>log</mi><mn>10</mn></msub><mi>cos</mi><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mn>10</mn></msub><mi>sin</mi><mi>x</mi><mo>.</mo><mi>cos</mi><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>.</mo><mi>cos</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>10</mn></mfrac></math>&nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>10</mn></msub><mfenced><mrow><mi>sin</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>x</mi></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><msub><mi>log</mi><mn>10</mn></msub><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mi>x</mi><mo>+</mo><mi>cos</mi><mi>x</mi><mo>=</mo><msup><mn>10</mn><mfenced><mrow><msub><mi>log</mi><mn>10</mn></msub><msqrt><mi>n</mi></msqrt><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></msup><mo>=</mo><msup><mn>10</mn><mfenced><mrow><msub><mi>log</mi><mn>10</mn></msub><msqrt><mi>n</mi></msqrt><mo>-</mo><msub><mi>log</mi><mn>10</mn></msub><msqrt><mn>10</mn></msqrt></mrow></mfenced></msup><mo>=</mo><msqrt><mfrac><mi>n</mi><mn>10</mn></mfrac></msqrt></math></p><p>By squaring we get,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sin</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>cos</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>2</mn><mi>sin</mi><mi>x</mi><mi>cos</mi><mi>x</mi><mo>=</mo><mfrac><mi>n</mi><mn>10</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>+</mo><mn>2</mn><mi>sin</mi><mi>x</mi><mo>.</mo><mi>cos</mi><mi>x</mi><mo>=</mo><mfrac><mi>n</mi><mn>10</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>=</mo><mfrac><mi>n</mi><mn>10</mn></mfrac><mo>&#8658;</mo><mi>n</mi><mo>=</mo><mn>12</mn></math></p>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "648b5a6b417cc3fb48d674b7",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2021 (26 Feb Shift 1)",
+    "paper_year_short": "2021 (26 Feb Shift 1)",
+    "held_on": "2021-02-26T09:00:00.000Z",
+    "question_text": "The number of solutions of the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>4</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math> is ______.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>4</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>log</mi><mn>2</mn></msub><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msup><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msup><mo>=</mo><mi>x</mi><mo>-</mo><mn>3</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mo>-</mo><mn>6</mn><mi>x</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>10</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mn>2</mn><mo>,</mo><mn>5</mn></math></p><p>But <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8800;</mo><mn>2</mn></math> because it is not satisfying the domain of given equation i.e <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>&#8594;</mo></math> its domain <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#62;</mo><mn>3</mn></math>&nbsp;finally <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math> No. of solutions <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "648b5a69417cc3fb48d66dc2",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Main 2020 (09 Jan Shift 1)",
+    "paper_year_short": "2020 (09 Jan Shift 1)",
+    "held_on": "2020-01-09T09:00:00.000Z",
+    "question_text": "The number of distinct solutions of the equation, <math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msub></mrow><mo>&#8289;</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>x</mi></mrow></mrow></mrow></mfenced><mo>=</mo></mrow></mrow><mn>2</mn><mo>-</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msub></mrow><mo>&#8289;</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>x</mi></mrow></mrow></mrow></mfenced></mrow></mrow></math> in the interval <math><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi></mi><mn>2</mn><mi>&#960;</mi></mrow></mfenced><mo>,</mo></math> is ________",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow></mrow></mfenced><mo>=</mo><mn>2</mn><mo>-</mo><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub></mrow><mo>⁡</mo><mrow><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow></mrow></mfenced></mrow></mrow></mrow></mrow></math>  <br/><math><msub><mrow><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub><mi></mi><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi><mi></mi></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow></mrow></mfenced><mo>=</mo><mn>2</mn></math>  <br/><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>x</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>x</mi></mrow></mrow></mrow></mrow></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math>  <br/><math><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mn>2</mn><mi>x</mi><mo>=</mo><mo>±</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></math>  <br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_main/85fe5890-aa81-489d-be54-d09a1fae8d11.jpeg\"> <br/>Number of solution <math><mo>=</mo><mn>8</mn></math> .",
+    "solution_image": null,
+    "topic": "Logarithm"
+  }
+]

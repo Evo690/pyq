@@ -1,0 +1,876 @@
+[
+  {
+    "question_id": "64b16a78f23ac7d519f9b4b2",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "The cyanide process of gold extraction involves leaching out gold from its ore with <math><msup><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow><mrow><mo>-</mo></mrow></msup></math> in the presence of <math><mi mathvariant=\"normal\">Q</mi></math> in water to form <math><mi mathvariant=\"normal\">R</mi></math> . Subsequently, <math><mi mathvariant=\"normal\">R</mi></math> is treated with <math><mi mathvariant=\"normal\">T</mi></math> to obtain <math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">u</mi></math> and <math><mi mathvariant=\"normal\">Z</mi></math> . Choose the correct option(s).",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uFgv2",
+        "text": "<math><mi mathvariant=\"normal\">T</mi></math> is <math><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi></math>",
+        "image": null
+      },
+      {
+        "id": "V668R",
+        "text": "<math><mi mathvariant=\"normal\">R</mi></math> is <math><msup><mrow><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">u</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mo>-</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "kArM9",
+        "text": "<math><mi mathvariant=\"normal\">Z</mi></math> is <math><msup><mrow><mfenced open=\"[\" close=\"]\" separators=\"|\"><mrow><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">N</mi></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn><mo>-</mo></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "FE8JH",
+        "text": "<math><mi mathvariant=\"normal\">Q</mi></math> is <math><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "FE8JH",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/60e087e0-395d-4b54-9d64-915a3d085e91-image.png\"/>",
+    "solution_image": null,
+    "topic": "Concentration of the Ore"
+  },
+  {
+    "question_id": "64b16aa2f23ac7d519f9b631",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "The correct statement(s) related to processes involved in the extraction of metals is(are)<br />&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VO7z6",
+        "text": "Roasting of Malachite produces Cuprite<br />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "JtBsC",
+        "text": "Calcination of Calamine produces Zincite<br />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "UxtzX",
+        "text": "Copper pyrites is heated with silica in a reverberatory furnace to remove iron<br />&nbsp;",
+        "image": null
+      },
+      {
+        "id": "Z5rW7",
+        "text": "Impure silver is treated with aqueous <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>KCN</mi></math> in the presence of oxygen followed by reduction with zinc metal",
+        "image": null
+      }
+    ],
+    "correct_answer": "Z5rW7",
+    "solution_text": "<p>The ore Calamine contain&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ZnCO</mi><mn>3</mn></msub></math>. The Calamine on heating produces&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ZnO</mi></math>.<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ZnCO</mi><mn>3</mn></msub><mover><mo>&#8594;</mo><mo>&#8710;</mo></mover><mi>ZnO</mi><mo>+</mo><msub><mi>CO</mi><mn>2</mn></msub></math></p><p>Cyanide process, also called Macarthur-forrest Process, method of extracting silver from impure&nbsp;ores by dissolving them in a dilute solution of sodium cyanide in the presence of oxygen. The complex formed in the above process reduced to silver metal by the treatment with zinc.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><mi>Ag</mi><mo>+</mo><mi>NaCN</mi><mover><mo>&#8594;</mo><mrow></mrow></mover><mi>Na</mi><mfenced close=\"]\" open=\"[\"><mrow><mi>Ag</mi><msub><mfenced><mi>CN</mi></mfenced><mn>2</mn></msub></mrow></mfenced><mo>+</mo><mi>NaOH</mi><mspace linebreak=\"newline\"></mspace><mi>Na</mi><mfenced close=\"]\" open=\"[\"><mrow><mi>Ag</mi><msub><mfenced><mi>CN</mi></mfenced><mn>2</mn></msub></mrow></mfenced><mover><mo>&#8594;</mo><mi>Zn</mi></mover><msub><mi>Na</mi><mn>2</mn></msub><mfenced close=\"]\" open=\"[\"><mrow><mi>Zn</mi><msub><mfenced><mi>CN</mi></mfenced><mn>4</mn></msub></mrow></mfenced><mo>+</mo><mi>Ag</mi><mspace linebreak=\"newline\"></mspace></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SiO</mi><mn>2</mn></msub></math>​&nbsp;(Silica) is a flux material. It removes impurities as slag. Here, slag consists of Iron in Sulphide ore of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cu</mi></math>, here impurity is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>FeO</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>FeO</mi><mo>+</mo><msub><mi>SiO</mi><mn>2</mn></msub><mover><mo>&#8594;</mo><mrow></mrow></mover><msub><mi>FeSiO</mi><mn>3</mn></msub></math></p><p>Malachite green is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuCO</mi><mn>3</mn></msub><mo>.</mo><mi>Cu</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub></math>&nbsp;and cuprite is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cu</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>. The ore malachite green on heating gives cupric oxide but not cuprous oxide.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuCO</mi><mn>3</mn></msub><mo>.</mo><mi>Cu</mi><msub><mfenced><mi>OH</mi></mfenced><mn>2</mn></msub><mover><mo>&#8594;</mo><mo>&#8710;</mo></mover><mn>2</mn><mi>CuO</mi><mo>+</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a9df23ac7d519f9b607",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "The correct option(s) related to the extraction of iron from its ore in the blast furnace operating in the temperature range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>900</mn><mo>-</mo><mn>1500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kOydp",
+        "text": "Limestone is used to remove silicate impurity.",
+        "image": null
+      },
+      {
+        "id": "r1fic",
+        "text": "Pig iron obtained from blast furnace contains about <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>%</mo></math> carbon.",
+        "image": null
+      },
+      {
+        "id": "uu55E",
+        "text": "Coke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math>converts <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>&nbsp;to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>CO</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "Pemqc",
+        "text": "Exhaust gases consist of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NO</mi><mn>2</mn></msub></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>CO</mi></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "uu55E",
+    "solution_text": "<p>(A) Limestone is added to remove silica as impurity.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>CaO</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><msub><mi>SiO</mi><mn>2</mn></msub><mo>&#160;</mo><mo>&#8594;</mo><mo>&#160;</mo><msub><mi>CaSiO</mi><mn>3</mn></msub><mo>&#160;</mo><mo>(</mo><mi>in</mi><mo>&#160;</mo><mi>the</mi><mo>&#160;</mo><mi>temperature</mi><mo>&#160;</mo><mi>range</mi><mo>&#160;</mo><mn>900</mn><mo>&#160;</mo><mo>&#8211;</mo><mo>&#160;</mo><mn>1500</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>)</mo></math></p><p>(B) Pig iron obtained from blast furnace contains <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>%</mo></math> carbon and many other impurities (eg. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>,</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi>Si</mi><mo>,</mo><mi>Mn</mi></math>) in small amount.</p><p>&nbsp;In fusion zone molten iron becomes heavy by absorbing elemental impurities and produces Pig iron. (in the temperature range 900 &ndash; 1500 K)</p><p>(C) Coke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math> converts <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>&nbsp;in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>CO</mi></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">C</mi><mo>+</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>&#8594;</mo><mn>2</mn><mi>CO</mi></math></p><p>(D) Exhaust gases consist of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>CO</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>.</p><p>Exhaust gases does not contain NO<sub>2</sub></p><p>Hence, (A,B,C)&nbsp;are correct.</p>",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5d0",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "The electrochemical extraction of aluminium from bauxite ore involves",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UKU9w",
+        "text": "the reaction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math> with coke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math> at a temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#62;</mo><mn>2500</mn><mo>&#176;</mo><mi mathvariant=\"normal\">C</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "w3V0g",
+        "text": "the neutralization of aluminate solution by passing <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math> gas to precipitate hydrated alumina <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>.</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mfenced></math>.",
+        "image": null
+      },
+      {
+        "id": "bpnCC",
+        "text": "the dissolution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math> in hot aqueous <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "MiNuT",
+        "text": "the electrolysis of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math> mixed with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>3</mn></msub><msub><mi>AlF</mi><mn>6</mn></msub></math> to give <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Al</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "MiNuT",
+    "solution_text": "<blockquote><p>(A) The reduction of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math> with coke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math> at a temperature <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#62;</mo><mn>2500</mn><mo>&#160;</mo><mo>&#176;</mo><mi mathvariant=\"normal\">C</mi></math> is not carried out due to the formation of carbides.</p><p>(B) It is correct as neutralisation of aluminate solution is done by passing <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math> gas to precipitate hydrated alumina.</p><p>(C) Reaction of powdered one is carried out with hot concentrated <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaOH</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>473</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi><mo>-</mo><mn>523</mn><mo>&#160;</mo><mi mathvariant=\"normal\">K</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn><mo>-</mo><mn>36</mn></math>&nbsp;bar pressure.</p><p>(D)Aluminium In the metallurgy of aluminium, purified Al<sub>2</sub>O<sub>3</sub> is mixed with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>3</mn></msub><msub><mi>AlF</mi><mn>6</mn></msub></math>&nbsp;or CaF<sub>2</sub> which lowers the melting point of the mixture and brings conductivity.Thus electrolysis of the molten mass is carried out in an electrolytic cell using carbon electrodes. The oxygen liberated at anode reacts with the carbon of anode producing CO and CO<sub>2</sub>&nbsp;and Al at the cathode.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a84f23ac7d519f9b526",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Which among the following statement(s) is (are) true for the extraction of aluminium from bauxite?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tJiCd",
+        "text": "Hydrated <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math> precipitates, when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math> is bubbled through a solution of sodium aluminate.",
+        "image": null
+      },
+      {
+        "id": "Ks3qW",
+        "text": "Addition of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>3</mn></msub><msub><mi>AlF</mi><mn>6</mn></msub></math> lowers the melting point of alumina.",
+        "image": null
+      },
+      {
+        "id": "TsKl1",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math> is evolved at the anode during electrolysis.",
+        "image": null
+      },
+      {
+        "id": "ZIfqJ",
+        "text": "The cathode is a steel vessel with a lining of carbon.",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZIfqJ",
+    "solution_text": "<p>(A)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi>NaAlO</mi><mn>2</mn></msub><mo>+</mo><mn>3</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>&#10230;</mo><mn>2</mn><mi>Al</mi><mo>(</mo><mi>OH</mi><msub><mo>)</mo><mn>3</mn></msub><mo>+</mo><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>CO</mi><mn>3</mn></msub></math></p><p>(B)&nbsp;In Hall-Heroult process&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>3</mn></msub><mi>Al</mi><mo>/</mo><msub><mi mathvariant=\"normal\">F</mi><mn>6</mn></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CaF</mi><mn>2</mn></msub></math>&nbsp;is mixed with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Al</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub></math>&nbsp;to lower melting point and&nbsp;increase conductivity.</p><p>(C)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Anode</mi><mtext>&#8196;C</mtext><mo>(</mo><mtext>s</mtext><mo>)</mo><mo>+</mo><mn>2</mn><msup><mtext>O</mtext><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msup><mo>(</mo><mtext>melt</mtext><mo>)</mo><mo>&#8594;</mo><msub><mtext>CO</mtext><mn>2</mn></msub><mo>(</mo><mtext>g</mtext><mo>)</mo><mo>+</mo><mn>4</mn><msup><mtext>e</mtext><mo>&#8722;</mo></msup></math></p><p>(D)&nbsp;Steel cathode with carbon lining and&nbsp;graphite anode are used.</p>",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a43f23ac7d519f9b2d0",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Copper is purified by electrolytic refining of blister copper. The correct statement(s) about this process is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yymnz",
+        "text": "Impure Cu strip is used as cathode",
+        "image": null
+      },
+      {
+        "id": "fZ15Z",
+        "text": "Acidified aqueous  <math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>  is used as electrolyte",
+        "image": null
+      },
+      {
+        "id": "dNY0g",
+        "text": "Pure Cu deposits at cathode",
+        "image": null
+      },
+      {
+        "id": "jblje",
+        "text": "Impurities settle as anode-mud.",
+        "image": null
+      }
+    ],
+    "correct_answer": "jblje",
+    "solution_text": "Impure Cu is used as anode pure Cu deposited at cathode. Electrolyte is acidified solution of  <math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>  impurities settle as anode mud.",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a27f23ac7d519f9b1d7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "Sulfide ores are common for the metals&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "KIh2l",
+        "text": "Ag, Cu and Pb",
+        "image": null
+      },
+      {
+        "id": "0XBR3",
+        "text": "Ag, Cu and&nbsp;Sn",
+        "image": null
+      },
+      {
+        "id": "btdRA",
+        "text": "Ag, Mg and Pb",
+        "image": null
+      },
+      {
+        "id": "G9JEx",
+        "text": "Al, Cu and Pb",
+        "image": null
+      }
+    ],
+    "correct_answer": "KIh2l",
+    "solution_text": "<p><math> <mrow> <mtable> <mtr> <mtd> <msub> <mtext>Cu</mtext> <mn>2</mn> </msub> <mtext>S</mtext> <mo>-</mo> <mtext>Copper glance</mtext> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>Ag</mtext> <mn>2</mn> </msub> <mtext>S</mtext> <mo>-</mo> <mtext>Silver glance</mtext> </mtd> </mtr> <mtr> <mtd> <mtext>PbS</mtext> <mo>-</mo> <mtext>galena</mtext></mtd></mtr></mtable></mrow></math></p><p>Common ore for :&nbsp;</p><p>Al : Al<sub>2</sub>O<sub>3</sub></p><p>Mg : MgCl<sub>2</sub></p><p>Sn : SnO<sub>2</sub></p>",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a21f23ac7d519f9b198",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "In the cyanide extraction process of silver from argentite ore, the oxidising and reducing agents used are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "i2XjE",
+        "text": "$\\mathrm{O}_{2}$ and $\\mathrm{CO}$ respectively",
+        "image": null
+      },
+      {
+        "id": "mkhXV",
+        "text": "$\\mathrm{O}_{2}$ and $\\mathrm{Zn}$ dust respectively",
+        "image": null
+      },
+      {
+        "id": "13YUP",
+        "text": "$\\mathrm{HNO}_{3}$ and $\\mathrm{Zn}$ dust respectively",
+        "image": null
+      },
+      {
+        "id": "HSYOu",
+        "text": "$\\mathrm{HNO}_{3}$ and $\\mathrm{CO}$ respectively",
+        "image": null
+      }
+    ],
+    "correct_answer": "mkhXV",
+    "solution_text": "The reactions involved in cyanide extraction process are:\r\n\r\n$\\underset{\\text { (argentite) }}{\\mathrm{Ag}_{2} \\mathrm{~S}}+4 \\mathrm{NaCN} \\rightarrow 2 \\mathrm{Na}\\left[\\mathrm{Ag}(\\mathrm{CN})_{2}\\right]+\\mathrm{Na}_{2} \\mathrm{~S}$\r\n\r\n$4 \\mathrm{Na}_{2} \\mathrm{~S}+\\underset{\\text { Oxiding agent }}{5 \\mathrm{O}_{2}}+2 \\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{Na}_{2} \\mathrm{SO}_{4}+4 \\mathrm{NaOH}+2 \\mathrm{~S}$\r\n\r\n$2 \\mathrm{Na}\\left[\\mathrm{Ag}(\\mathrm{CN})_{2}\\right]+\\underset{\\begin{array}{c}\\text { (reducing } \\\\ \\text { agent) }\\end{array}}{\\mathrm{Zn}} \\rightarrow \\mathrm{Na}_{2}\\left[\\mathrm{Zn}(\\mathrm{CN})_{4}\\right]+2 \\mathrm{Ag} \\downarrow$",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b16a0df23ac7d519f9b0e5",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Extraction of metal from the ore cassiterite involves",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bzRSy",
+        "text": "\ncarbon reduction of an oxide ore\n",
+        "image": null
+      },
+      {
+        "id": "cwRIR",
+        "text": "\nself-reduction of a sulphide ore\n",
+        "image": null
+      },
+      {
+        "id": "KCv7H",
+        "text": "\nremoval of copper impurity\n",
+        "image": null
+      },
+      {
+        "id": "Bpr21",
+        "text": "\nremoval of iron impurity",
+        "image": null
+      }
+    ],
+    "correct_answer": "Bpr21",
+    "solution_text": "The important ore of tin is cassiterite $\\left(\\mathrm{SnO}_2\\right)$. Tin is extracted from cassiterite ore by carbon reduction method in a blast furnace. $\\mathrm{SnO}_2+2 \\mathrm{C} \\rightarrow \\mathrm{Sn}+2 \\mathrm{CO}$\nThe product often contain traces of iron which is removed by blowing air through the melt to oxidise to $\\mathrm{FeO}$ which then floats to the surface.\n$2 \\mathrm{Fe}+\\mathrm{O}_2 \\rightarrow 2 \\mathrm{FeO}$",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b061",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nCopper is the most noble of the first row transition metals and occurs in small deposits in several countries. Ores of copper include chalcanthite $\\left(\\mathrm{CuSO}_4 \\cdot 5 \\mathrm{H}_2 \\mathrm{O}\\right)$, atacamite $\\left(\\mathrm{Cu}_2 \\mathrm{Cl}(\\mathrm{OH})_3\\right)$, cuprite $\\left(\\mathrm{Cu}_2 \\mathrm{O}\\right)$, copper glance $\\left(\\mathrm{Cu}_2 \\mathrm{~S}\\right)$ and malachite $\\left(\\mathrm{Cu}_2(\\mathrm{OH})_2 \\mathrm{CO}_3\\right)$. However, 80\\% of the world copper production comes from the ore chalcopyrite $\\left(\\mathrm{CuFeS}_2\\right)$. The extraction of copper from chalcopyrite involves partial roasting, removal of iron and self-reduction.<strong>Question:</strong>\nPartial roasting of chalcopyrite produces",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kk8N1",
+        "text": "\n$\\mathrm{Cu}_2 \\mathrm{~S}$ and $\\mathrm{FeO}$\n",
+        "image": null
+      },
+      {
+        "id": "cJU83",
+        "text": "\n$\\mathrm{Cu}_2 \\mathrm{O}$ and $\\mathrm{FeO}$\n",
+        "image": null
+      },
+      {
+        "id": "o0sgx",
+        "text": "\n$\\mathrm{CuS}$ and $\\mathrm{Fe}_2 \\mathrm{O}_3$\n",
+        "image": null
+      },
+      {
+        "id": "SQ0Wl",
+        "text": "\n$\\mathrm{Cu}_2 \\mathrm{O}$ and $\\mathrm{Fe}_2 \\mathrm{O}_3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "kk8N1",
+    "solution_text": "$2 \\mathrm{CuFeS}_2+4 \\mathrm{O}_2 \\longrightarrow \\mathrm{Cu}_2 \\mathrm{~S}$\n$$\n+2 \\mathrm{FeO}+3 \\mathrm{SO}_2\n$$",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b169e1f23ac7d519f9af54",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Native silver metal forms a water soluble complex with a dilute aqueous solution of $\\mathrm{NaCN}$ in the presence of",
+    "question_image": null,
+    "options": [
+      {
+        "id": "P09Jy",
+        "text": "\nnitrogen\n",
+        "image": null
+      },
+      {
+        "id": "EFlpC",
+        "text": "\noxygen\n",
+        "image": null
+      },
+      {
+        "id": "2q7Mg",
+        "text": "\ncarbon dioxide\n",
+        "image": null
+      },
+      {
+        "id": "fNkBj",
+        "text": "\nargon",
+        "image": null
+      }
+    ],
+    "correct_answer": "EFlpC",
+    "solution_text": "A water soluble complex of silver with a dilute aqueous solution of $\\mathrm{NaCN}$ is sodium argentocyanide. In the cyanide process, the native form is crushed and treated with $0.1-0.2 \\%$ solution of $\\mathrm{NaCN}$ and aerated.\n$$\n4 \\mathrm{Ag}+8 \\mathrm{NaCN}+2 \\mathrm{H}_2 \\mathrm{O}+\\mathrm{O}_2 \\longrightarrow 4 \\mathrm{Na}\\left[\\mathrm{Ag}(\\mathrm{CN})_2\\right]+4 \\mathrm{NaOH}\n$$\nArgentocyanide is soluble. Further, metals are recovered from the complex by reduction with zinc",
+    "solution_image": null,
+    "topic": "Extraction of Metals"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b062",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nCopper is the most noble of the first row transition metals and occurs in small deposits in several countries. Ores of copper include chalcanthite $\\left(\\mathrm{CuSO}_4 \\cdot 5 \\mathrm{H}_2 \\mathrm{O}\\right)$, atacamite $\\left(\\mathrm{Cu}_2 \\mathrm{Cl}(\\mathrm{OH})_3\\right)$, cuprite $\\left(\\mathrm{Cu}_2 \\mathrm{O}\\right)$, copper glance $\\left(\\mathrm{Cu}_2 \\mathrm{~S}\\right)$ and malachite $\\left(\\mathrm{Cu}_2(\\mathrm{OH})_2 \\mathrm{CO}_3\\right)$. However, 80\\% of the world copper production comes from the ore chalcopyrite $\\left(\\mathrm{CuFeS}_2\\right)$. The extraction of copper from chalcopyrite involves partial roasting, removal of iron and self-reduction.<strong>Question:</strong>\nIron is removed from chalcopyrite as",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3qDGq",
+        "text": "\n$\\mathrm{FeO}$\n",
+        "image": null
+      },
+      {
+        "id": "gAJdR",
+        "text": "\n$\\mathrm{FeS}$\n",
+        "image": null
+      },
+      {
+        "id": "FfIt5",
+        "text": "\n$\\mathrm{Fe}_2 \\mathrm{O}_3$\n",
+        "image": null
+      },
+      {
+        "id": "ed9Nz",
+        "text": "\n$\\mathrm{FeSiO}_3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ed9Nz",
+    "solution_text": "Iron is removed in the form of slag of $\\mathrm{FeSiO}_3$",
+    "solution_image": null,
+    "topic": "Flux and Refractory materials"
+  },
+  {
+    "question_id": "64b16a72f23ac7d519f9b47e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Calamine, malachite, magnetite and cryolite, respectively are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qMPKp",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">S</mi><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">F</mi><msub><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">I</mi><msub><mrow><mi mathvariant=\"normal\">F</mi></mrow><mrow><mn>3</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "qKF9P",
+        "text": "<math><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>.</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">F</mi><msub><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">I</mi><msub><mrow><mi mathvariant=\"normal\">F</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "PiZIx",
+        "text": "<math><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">F</mi><msub><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>3</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">I</mi><msub><mrow><mi mathvariant=\"normal\">F</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "aH53x",
+        "text": "<math><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">F</mi><msub><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">N</mi><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>3</mn></mrow></msub><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">F</mi></mrow><mrow><mn>6</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "qKF9P",
+    "solution_text": "Fact based  <math><mfenced separators=\"|\"><mrow><msub><mrow><mtext>CuCO</mtext></mrow><mrow><mtext>3</mtext></mrow></msub></mrow></mfenced></math>  malachite  <math><mfenced separators=\"|\"><mrow><msub><mrow><mtext>CuCO</mtext></mrow><mrow><mtext>3</mtext></mrow></msub><mo>.</mo><mtext>Cu</mtext><msub><mrow><mfenced separators=\"|\"><mrow><mtext>OH</mtext></mrow></mfenced></mrow><mrow><mtext>2</mtext></mrow></msub></mrow></mfenced></math> , magnetic  <math><mfenced separators=\"|\"><mrow><msub><mrow><mtext>Fe</mtext></mrow><mrow><mtext>3</mtext></mrow></msub><msub><mrow><mtext>O</mtext></mrow><mrow><mtext>4</mtext></mrow></msub></mrow></mfenced></math>  cryolite  <math><mfenced separators=\"|\"><mrow><msub><mrow><mtext>CuCO</mtext></mrow><mrow><mtext>3</mtext></mrow></msub><mo>.</mo><mtext>Cu</mtext><msub><mrow><mfenced separators=\"|\"><mrow><mtext>OH</mtext></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Minerals and ores"
+  },
+  {
+    "question_id": "64b16a43f23ac7d519f9b2d4",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Match the anionic species given in Column I that are present in the ores(s) given in Column II.\r\n\r\n<table border=\"1\">\r\n\r\n\t<tbody>\r\n\r\n\t\t<tr>\r\n\r\n\t\t\t<td>&nbsp;</td>\r\n\r\n\t\t\t<td><strong>Column I</strong></td>\r\n\r\n\t\t\t<td>&nbsp;</td>\r\n\r\n\t\t\t<td><strong>Column II</strong></td>\r\n\r\n\t\t</tr>\r\n\r\n\t\t<tr>\r\n\r\n\t\t\t<td>A.</td>\r\n\r\n\t\t\t<td>Carbonate</td>\r\n\r\n\t\t\t<td>P.</td>\r\n\r\n\t\t\t<td>Siderite</td>\r\n\r\n\t\t</tr>\r\n\r\n\t\t<tr>\r\n\r\n\t\t\t<td>B.</td>\r\n\r\n\t\t\t<td>Sulphide</td>\r\n\r\n\t\t\t<td>Q.</td>\r\n\r\n\t\t\t<td>Malachite</td>\r\n\r\n\t\t</tr>\r\n\r\n\t\t<tr>\r\n\r\n\t\t\t<td>C.</td>\r\n\r\n\t\t\t<td>Hydroxide</td>\r\n\r\n\t\t\t<td>R.</td>\r\n\r\n\t\t\t<td>Bauxite</td>\r\n\r\n\t\t</tr>\r\n\r\n\t\t<tr>\r\n\r\n\t\t\t<td>D.</td>\r\n\r\n\t\t\t<td>Oxide</td>\r\n\r\n\t\t\t<td>S.</td>\r\n\r\n\t\t\t<td>Calamine</td>\r\n\r\n\t\t</tr>\r\n\r\n\t\t<tr>\r\n\r\n\t\t\t<td>&nbsp;</td>\r\n\r\n\t\t\t<td>&nbsp;</td>\r\n\r\n\t\t\t<td>T.</td>\r\n\r\n\t\t\t<td>Argentite</td>\r\n\r\n\t\t</tr>\r\n\r\n\t</tbody>\r\n\r\n</table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dLD8i",
+        "text": "a-s;b-r;c-r;d-s,t;",
+        "image": null
+      },
+      {
+        "id": "hpd97",
+        "text": "a-p,q,s;b-t;c-q,r;d-r;",
+        "image": null
+      },
+      {
+        "id": "D21j9",
+        "text": "a-r;b-s;c-t;d-r,s;",
+        "image": null
+      },
+      {
+        "id": "QTWhc",
+        "text": "a-s;b-t;c-r,s;d-t;",
+        "image": null
+      }
+    ],
+    "correct_answer": "hpd97",
+    "solution_text": "P - Siderite - <math><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br />Q - Malachite - <math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>&#8901;</mo><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msub></math><br />R - Bauxite - <math><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">l</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mi mathvariant=\"normal\">x</mi></mrow></msub><msub><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">H</mi></mrow></mfenced></mrow><mrow><mn>3</mn><mo>-</mo><mn>2</mn><mi mathvariant=\"normal\">x</mi></mrow></msub></math><br />S - Calamine - <math><mi mathvariant=\"normal\">Z</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>3</mn></mrow></msub></math><br />T - Argentite - <math><mi mathvariant=\"normal\">A</mi><msub><mrow><mi mathvariant=\"normal\">g</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math>",
+    "solution_image": null,
+    "topic": "Minerals and ores"
+  },
+  {
+    "question_id": "64b16a13f23ac7d519f9b11e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Oxidation states of the metal in the minerals haematite and magnetite, respectively, are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cTycd",
+        "text": "\nII, III in haematite and III in magnetite\n",
+        "image": null
+      },
+      {
+        "id": "tUNgT",
+        "text": "\nII, III in haematite and II in magnetite\n",
+        "image": null
+      },
+      {
+        "id": "aVKjf",
+        "text": "\nII in haematite and II, III in magnetite\n",
+        "image": null
+      },
+      {
+        "id": "v9lqY",
+        "text": "\nIII in haematite and II, III in magnetite",
+        "image": null
+      }
+    ],
+    "correct_answer": "v9lqY",
+    "solution_text": "Haematite is $\\mathrm{Fe}_2 \\mathrm{O}_3$, in which oxidation number of iron is III. Magnetite is $\\mathrm{Fe}_3 \\mathrm{O}_4$ which is infact a mixed oxide (FeO $\\cdot \\mathrm{Fe}_2 \\mathrm{O}_3$ ) hence, iron is present in both II and III oxidation state.",
+    "solution_image": null,
+    "topic": "Minerals and ores"
+  },
+  {
+    "question_id": "64b16a8bf23ac7d519f9b563",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "The correct statement&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">s</mi></mfenced></math> related to the metal extraction processes is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GLJMe",
+        "text": "A mixture of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PbS</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PbO</mi></math> undergoes self-reduction to produce <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Pb</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>SO</mi><mn>2</mn></msub><mo>.</mo></math>",
+        "image": null
+      },
+      {
+        "id": "SSXpF",
+        "text": "In the extraction process of copper from copper pyrites, silica is added to produce copper silicate.",
+        "image": null
+      },
+      {
+        "id": "lNXYx",
+        "text": "Partial oxidation of sulphide ore of copper by roasting, followed by self-reduction produces blister copper.",
+        "image": null
+      },
+      {
+        "id": "4GBLX",
+        "text": "In cyanide process, zinc powder is utilized to precipitate gold from&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Na</mi><mfenced open=\"[\" close=\"]\"><mrow><mi>Au</mi><msub><mfenced><mi>CN</mi></mfenced><mn>2</mn></msub></mrow></mfenced><mo>.</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4GBLX",
+    "solution_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">A</mi></mfenced></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PbS</mi><mo>+</mo><mi>PbO</mi><mo>&#8594;</mo><mi>Pb</mi><mo>+</mo><msub><mi>SO</mi><mn>2</mn></msub></math><p>It is self-reduction reaction.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">B</mi></mfenced></math>&nbsp;In the extraction process of copper from copper pyrites, silica is added to produce Iron silicate.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math>&nbsp;Partial oxidation of sulphide ore of copper by roasting, followed by self-reduction produces&nbsp;blister copper.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cu</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo>+</mo><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><munder><mo>&#8594;</mo><mrow/></munder><msub><mi>Cu</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mi>SO</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cu</mi><mn>2</mn></msub><mi mathvariant=\"normal\">S</mi><mo>+</mo><mn>2</mn><msub><mi>Cu</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><munder><mo>&#8594;</mo><mrow><mi>self</mi><mo>&#8722;</mo><mi>reduction</mi></mrow></munder><mn>6</mn><mi>Cu</mi><mo>+</mo><msub><mi>SO</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">D</mi></mfenced></math>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Zn</mi><mo>+</mo><mn>2</mn><mi>Na</mi><mfenced open=\"[\" close=\"]\"><mrow><mi>Au</mi><msub><mfenced><mi>CN</mi></mfenced><mn>2</mn></msub></mrow></mfenced><mo>&#8594;</mo><msub><mi>Na</mi><mn>2</mn></msub><mfenced open=\"[\" close=\"]\"><mrow><mi>Zn</mi><msub><mfenced><mi>CN</mi></mfenced><mn>4</mn></msub></mrow></mfenced><mo>+</mo><mn>2</mn><mi>Au</mi></math></p>",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b16a55f23ac7d519f9b376",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "Extraction of copper from copper pyrite <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfenced></math> involves",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7OQxP",
+        "text": "Crushing followed by concentration of the ore by froth-flotation",
+        "image": null
+      },
+      {
+        "id": "kwxsM",
+        "text": "Removal of iron as slag",
+        "image": null
+      },
+      {
+        "id": "3Mmff",
+        "text": "Self-reduction step to produce 'blister copper' following evolution of <math><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "y0rRw",
+        "text": "Refining of 'blister copper' by carbon reduction",
+        "image": null
+      }
+    ],
+    "correct_answer": "3Mmff",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.27_Ans_1..jpg\"/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.27_Ans_2.jpg\"/>",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b16a35f23ac7d519f9b251",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Upon heating with <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi></math> , the reagent(s) that give copper metal is/are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bxGPC",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "2GkDo",
+        "text": "CuO",
+        "image": null
+      },
+      {
+        "id": "VmrTt",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi></math>",
+        "image": null
+      },
+      {
+        "id": "8FfOp",
+        "text": "<math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "8FfOp",
+    "solution_text": "A]       <math><mn>2</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><msub><mrow><mi mathvariant=\"normal\">S</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mover accent=\"false\"><mo>→</mo><mrow><mo>∆</mo></mrow></mover><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">F</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">S</mi><mo>+</mo><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >        B]  <math><mn>4</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">O</mi><mover accent=\"false\"><mo>→</mo><mrow><msup><mrow><mn>1100</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></mrow></mover><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >         <math><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mover accent=\"false\"><mo>→</mo><mrow><mo>∆</mo></mrow></mover><mn>6</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mo>+</mo><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>      <br >        C]  <math><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mover accent=\"false\"><mo>→</mo><mrow><mo>∆</mo></mrow></mover><mn>6</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mo>+</mo><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >        D]  <math><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>4</mn></mrow></msub><mover accent=\"false\"><mo>→</mo><mrow><msup><mrow><mn>720</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></mrow></mover><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">O</mi><mo>+</mo><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >         <math><mn>4</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">O</mi><mover accent=\"false\"><mo>→</mo><mrow><msup><mrow><mn>1100</mn></mrow><mrow><mi mathvariant=\"normal\">o</mi></mrow></msup><mi mathvariant=\"normal\">C</mi></mrow></mover><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math> <br >         <math><mn>2</mn><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">O</mi><mo>+</mo><mi mathvariant=\"normal\">C</mi><msub><mrow><mi mathvariant=\"normal\">u</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\">S</mi><mover accent=\"false\"><mo>→</mo><mrow><mo>∆</mo></mrow></mover><mn>6</mn><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">u</mi><mo>+</mo><mi mathvariant=\"normal\">S</mi><msub><mrow><mi mathvariant=\"normal\">O</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b16a2ef23ac7d519f9b210",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "The carbon-based reduction method is NOT used for the extraction of&nbsp;",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5SBHR",
+        "text": "tin from&nbsp;<math><mrow>  <mi>S</mi><mo>&ApplyFunction;</mo>  <mi>n</mi>  <msub>        <mrow>          <mi>O</mi><mo>&ApplyFunction;</mo>        </mrow>        <mn>2</mn>  </msub></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "RRqDz",
+        "text": "iron from <math><mrow>  <msub>          <mtext  mathvariant=\"italic\">Fe</mtext>        <mn>2</mn>  </msub>  <msub>        <mrow>          <mi>O</mi><mo>&ApplyFunction;</mo>        </mrow>        <mn>3</mn>  </msub></mrow></math>",
+        "image": null
+      },
+      {
+        "id": "mxXLM",
+        "text": "aluminium from <math> <mrow> <msub> <mtext mathvariant=\"italic\">Al</mtext> <mn>2</mn> </msub> <msub> <mrow> <mi></mi><mi></mi><mi>O</mi><mo>⁡</mo> </mrow> <mn>3</mn> </msub> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "UFOkY",
+        "text": "magnesium from <math> <mrow> <msub> <mtext mathvariant=\"italic\">MgCO</mtext> <mn>3</mn> </msub> <mo>&middot;</mo> <msub> <mtext mathvariant=\"italic\">CaCO</mtext> <mn>3</mn> </msub> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "UFOkY",
+    "solution_text": "<p>Smelting : The process of extracting a metal in the state of fusion is called smelting. In this process the ore is mixed with carbon, obtained after the above reactions and heated in suitable furnace.</p><p>SnO<sub>2</sub> and Fe<sub>2</sub>O<sub>3</sub> are reduced by C reduction method.<br />Al<sub>2</sub>O<sub>3</sub> and MgCO<sub>3</sub>. CaCO<sub>3</sub> are reduced by electrolytic reduction.</p>",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b169fff23ac7d519f9b063",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nCopper is the most noble of the first row transition metals and occurs in small deposits in several countries. Ores of copper include chalcanthite $\\left(\\mathrm{CuSO}_4 \\cdot 5 \\mathrm{H}_2 \\mathrm{O}\\right)$, atacamite $\\left(\\mathrm{Cu}_2 \\mathrm{Cl}(\\mathrm{OH})_3\\right)$, cuprite $\\left(\\mathrm{Cu}_2 \\mathrm{O}\\right)$, copper glance $\\left(\\mathrm{Cu}_2 \\mathrm{~S}\\right)$ and malachite $\\left(\\mathrm{Cu}_2(\\mathrm{OH})_2 \\mathrm{CO}_3\\right)$. However, 80\\% of the world copper production comes from the ore chalcopyrite $\\left(\\mathrm{CuFeS}_2\\right)$. The extraction of copper from chalcopyrite involves partial roasting, removal of iron and self-reduction.<strong>Question:</strong>\nIn self-reduction, the reducing species is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "fngPD",
+        "text": "\n$\\mathrm{S}$\n",
+        "image": null
+      },
+      {
+        "id": "eXEKv",
+        "text": "\n$\\mathrm{O}^{2-}$\n",
+        "image": null
+      },
+      {
+        "id": "XMqBt",
+        "text": "\n$\\mathrm{S}^{2-}$\n",
+        "image": null
+      },
+      {
+        "id": "nbhFg",
+        "text": "\n$\\mathrm{SO}_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "XMqBt",
+    "solution_text": "$\\mathrm{S}^{2-}$ acts as reducing species $2 \\mathrm{Cu}_2 \\mathrm{O}+\\mathrm{Cu}_2 \\mathrm{~S}^{2-} \\longrightarrow 6 \\mathrm{Cu}+\\mathrm{SO}_2$\nMetallurgy\nConceptual\nIII, II, II",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b169ebf23ac7d519f9afaa",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Match the conversions in Column I with the type(s) given in Column II. Indicate your answer by darkening the appropriate bubbles of the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ucomvVlKQ_CiBxOlv7mu0IFQfu05rElGpRWCcPrudJI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AlODh",
+        "text": "\n(A) p, (B) q, (C) p,r, (D) p,r,s\n",
+        "image": null
+      },
+      {
+        "id": "zFPlc",
+        "text": "\n(A) q,r, (B) p,q, (C) s, (D) q,r,s\n",
+        "image": null
+      },
+      {
+        "id": "DpeZA",
+        "text": "\n(A) p, (B) q,s, (C) r, (D) q,r\n",
+        "image": null
+      },
+      {
+        "id": "89zV1",
+        "text": "\n(A) p,q, (B) q, (C) p,q, (D) q,s",
+        "image": null
+      }
+    ],
+    "correct_answer": "AlODh",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RTlN6ixNP8LakoAWNPJ2h8GaTB8etWo-T-TqYSxfK94.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b169d3f23ac7d519f9aed0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "Extraction for zinc from zinc blende is achieved by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YY1wT",
+        "text": "\nelectrolytic reduction\n",
+        "image": null
+      },
+      {
+        "id": "ahmw3",
+        "text": "\nroasting followed by reduction with carbon\n",
+        "image": null
+      },
+      {
+        "id": "MiSAU",
+        "text": "\nroasting followed by reduction with another metal\n",
+        "image": null
+      },
+      {
+        "id": "4uSze",
+        "text": "\nroasting followed by self-reduction",
+        "image": null
+      }
+    ],
+    "correct_answer": "ahmw3",
+    "solution_text": "Zinc blende is roasted and then treated with coke for the reduction.\n$$\n\\begin{gathered}\n2 \\mathrm{ZnS}+3 \\mathrm{O}_2 \\stackrel{\\Delta}{\\longrightarrow} 2 \\mathrm{ZnO}+2 \\mathrm{SO}_2 \\uparrow \\\\\n\\mathrm{ZnO}+\\mathrm{C} \\stackrel{\\Delta}{\\longrightarrow} \\mathrm{Zn}+\\mathrm{CO} \\uparrow\n\\end{gathered}\n$$",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  },
+  {
+    "question_id": "64b169ccf23ac7d519f9ae8c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Match the extraction processes listed in column I with metals listed in column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/T1XuJuazCxU0ENveihRFEqo1WSHuTkcfu_MEsZeXbXA.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XGoSV",
+        "text": "\n(A) P,S, (B) R, (C) P,Q, (D) P,S\n",
+        "image": null
+      },
+      {
+        "id": "qD3e8",
+        "text": "\n(A) Q,S, (B) R, (C) S, (D) S\n",
+        "image": null
+      },
+      {
+        "id": "kgu0t",
+        "text": "\n(A) P,R, (B) P, R, (C) Q, (D) R\n",
+        "image": null
+      },
+      {
+        "id": "AhpHW",
+        "text": "\n(A) P,R, (B) P, (C) Q, (D) S",
+        "image": null
+      }
+    ],
+    "correct_answer": "AhpHW",
+    "solution_text": "Column I\nColumn II\n(A) Self reduction $\\left[\\begin{array}{c}P \\text { - Lead } \\\\ R \\text { - Copper }\\end{array}\\right]$\n$$\n\\begin{aligned}\n& \\text { i.e., } A \\rightleftarrows P \\text { and } R \\\\\n& \\text { In lead metal } \\\\\n& \\qquad\\left\\{\\begin{array}{c}\n2 \\mathrm{PbS}+3 \\mathrm{O}_2 \\longrightarrow 2 \\mathrm{PbO}+2 \\mathrm{SO}_2 \\\\\n2 \\mathrm{PbO}+\\mathrm{PbS} \\longrightarrow 3 \\mathrm{~Pb}+\\mathrm{SO}_2\n\\end{array}\\right.\n\\end{aligned}\n$$\n(self reduction)\nIn copper metal\n$$\n\\begin{aligned}\n& 2 \\mathrm{Cu}_2 \\mathrm{~S}+3 \\mathrm{O}_2 \\longrightarrow 2 \\mathrm{Cu}_2 \\mathrm{O}+2 \\mathrm{SO}_2 \\\\\n& \\mathrm{Cu}_2 \\mathrm{~S}+2 \\mathrm{Cu}_2 \\mathrm{O} \\longrightarrow 6 \\mathrm{Cu}+\\mathrm{SO}_2\n\\end{aligned}\n$$\n(self reduction)\n(B) Carbon reduction $P$-lead\n$$\n\\begin{aligned}\n& \\text { i.e., } \\mathrm{B}-\\mathrm{P} \\\\\n& \\text { In lead metal } \\\\\n& \\qquad \\mathrm{PbO}+\\mathrm{C} \\longrightarrow \\mathrm{Pb}+\\mathrm{CO} \\\\\n& \\mathrm{PbO}+\\mathrm{CO} \\longrightarrow \\mathrm{Pb}+\\mathrm{CO}_2\n\\end{aligned}\n$$\nCarbon reduction process is used for the reduction of oxides of electropositive metals like $\\mathrm{Fe}, \\mathrm{Pb}$ etc. This reduction is carried out with coal or coke on strongly heating.\n(C) Complex formation and displacement by metal.\ni.e., $C-Q$ (silver)\n\nIn silver metal\nArgentite mineral of $\\mathrm{Ag}\\left(\\mathrm{Ag}_2 \\mathrm{~S}\\right)$ is treated with $0.7 \\% \\mathrm{NaCN}$ solution in presence of air, therefore firstly sodium argento cyanide complex is formed which on heating with zinc metal, therefore by displacement silver is isolated.\n$$\n\\begin{aligned}\n& \\mathrm{Ag}_2 \\mathrm{~S}+4 \\mathrm{NaCN} \\longrightarrow 2 \\mathrm{Na}\\left[\\mathrm{Ag}(\\mathrm{CN})_2\\right]+\\mathrm{Na}_2 \\mathrm{~S} \\\\\n& 2 \\mathrm{Na}\\left[\\mathrm{Ag}(\\mathrm{CN})_2\\right]+\\mathrm{Zn} \\longrightarrow \\mathrm{Na}\\left[\\mathrm{Zn}(\\mathrm{CN})_4\\right]+\\underset{\\text { Soluble }}{2 \\mathrm{Ag}} \\downarrow\n\\end{aligned}\n$$\n(D) Decomposition of iodide-(S) Boron\n$$\n\\text { i.e., }(D)-(S)\n$$\nBy decomposition of iodide boron metal is isolated.",
+    "solution_image": null,
+    "topic": "Reduction to Crude Metal"
+  }
+]

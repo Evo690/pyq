@@ -1,0 +1,1324 @@
+[
+  {
+    "question_id": "66965dc7d603121f43a3d07c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "List-I contains various reaction sequences and List-II contains different phenolic compounds.\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Iic68M_rQJbbL49Tl7ap9USUbh4fTZPpj3JjIAVCA5c.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cXUSg",
+        "text": "$\\mathrm{P}-2, \\mathrm{Q}-3, \\mathrm{R}-4, \\mathrm{~S}-5$",
+        "image": null
+      },
+      {
+        "id": "DUUKa",
+        "text": "$\\mathrm{P}-2, \\mathrm{Q}-3, \\mathrm{R}-5, \\mathrm{~S}-1$",
+        "image": null
+      },
+      {
+        "id": "3l8jL",
+        "text": "$\\mathrm{P}-3, \\mathrm{Q}-5, \\mathrm{R}-4, \\mathrm{~S}-1$",
+        "image": null
+      },
+      {
+        "id": "bi7UI",
+        "text": "$\\mathrm{P}-3, \\mathrm{Q}-2, \\mathrm{R}-5, \\mathrm{~S}-4$",
+        "image": null
+      }
+    ],
+    "correct_answer": "3l8jL",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qYyssKUWif3I-5Ben2uPh0Uaeu4gFi9VyWnvPCABMR0.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/IDc3dRVUmdKFiXkUOr2hqHpIp094Zs_1MxfRtqg5v7w.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5w9wD5TrBda5j2srXlCi-TslpSurZFNHL4qfCII-stE.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amides"
+  },
+  {
+    "question_id": "64b16a56f23ac7d519f9b37e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nTreatment of compound $\\mathbf{O}$ with $\\mathrm{KMnO}_{4} / \\mathrm{H}^{+}$gave $\\mathbf{P}$, which on heating with ammonia gave $\\mathbf{Q}$. The compound $\\mathbf{Q}$ on treatment with $\\mathrm{Br}_{2} / \\mathrm{NaOH}$ produced $\\mathbf{R}$. On strong heating, $\\mathbf{Q}$ gave $\\mathbf{S}$, which on further treatment with ethyl $2-$bromopropanoate in the presence of $\\mathrm{KOH}$ followed by acidification, gave a compound $\\mathbf{T}$.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/YojvyX-pD0foQoAv-nEPdjiwmnyPVOAmeyvFzzq4gG8.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nThe compound $\\mathbf{R}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ijmPz",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.17_Opp_1.jpg\" style=\"width: 130px; height: 95px;\" />",
+        "image": null
+      },
+      {
+        "id": "SQ0zd",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.17_Opp_2.jpg\" style=\"width: 130px; height: 130px;\" />",
+        "image": null
+      },
+      {
+        "id": "fWzZF",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.17_Opp_3.jpg\" style=\"width: 130px; height: 110px;\" />",
+        "image": null
+      },
+      {
+        "id": "MOGZ0",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.17_Opp_4.jpg\" style=\"width: 130px; height: 121px;\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "ijmPz",
+    "solution_text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_2_Chem_Q.35_Ans_1.jpg\" style=\"width: 689px; height: 437px;\" /><br />Q to R is Hoffmann&#39;s bromamide degradation reaction<br />S to T is Gabriel&#39;s phthalimide systhesis",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amides"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b299",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<p>Match the four starting materials (P, Q, R, S) given in List I with the corresponding reaction schemes<br >\r\n\r\n(I, II, III, IV) provided in List II and select the correct answer using the code given below the lists.<br/>\r\n\r\n \r\n\r\n</p><table border=\"1\"><tbody><tr><td> </td><td>List – I</td><td> </td><td>List – II</td></tr><tr><td>A.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image35-cb4a4830-5439-4ab1-8795-d0455f7b0d96.jpg\"/></td><td>P.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image36-82e8db68-938c-43a2-8e28-274f975df8d6.jpg\"/></td></tr><tr><td>B.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image37-8fe1b260-4fd3-4461-9cf6-0c54185b11bb.jpg\"/></td><td>Q.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image38-89e87840-dfa5-4b33-a709-deae17f089d1.jpg\"/></td></tr><tr><td>C.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image39-95d2aa6c-02f8-455b-80c7-e82b7db6cf35.jpg\"/></td><td>R.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image40-58632105-7df4-4409-8013-5880d1602f09.jpg\"/></td></tr><tr><td>D.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image41-3031b9d6-aa55-4483-bc32-a84596ccead0.jpg\"/></td><td>S.</td><td><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image42-620c6937-6bf4-42ae-8767-4b7aab5a9723.jpg\"/></td></tr></tbody></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DTz36",
+        "text": "a-s;b-q;c-p;d-r;",
+        "image": null
+      },
+      {
+        "id": "OYeHt",
+        "text": "a-p;b-q;c-r;d-s;",
+        "image": null
+      },
+      {
+        "id": "KzuKL",
+        "text": "a-p;b-q;c-r;d-s;",
+        "image": null
+      },
+      {
+        "id": "MZN6O",
+        "text": "a-r;b-s;c-q;d-p;",
+        "image": null
+      }
+    ],
+    "correct_answer": "MZN6O",
+    "solution_text": "<ol><li> A - Follows R-scheme to give para-nitrophenol.</li></ol><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aa960b28-94e0-4ea5-b0c0-0bc3629a167d-image.png\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/227e7b43-3e08-4942-bc95-079ba65d85df-image.png\"/></p><p>    2. resorcinol is converted to 4-nitrobenzene-1,3-diol  by Following S-scheme</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/514a7883-03f1-4368-afe2-4b98b0ff6182-image.png\"/></p><ul><li>      Nitro benzene is 2-nitro-aniline. by Following Q-scheme<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/88faaa50-cf32-4344-ba38-6d932e787df0-image.png\"/></li></ul><p> </p><ul><li>para-nitro toluene is converted to 4-nitro-benzamide  by Following P-scheme</li></ul><p><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/23a1f665-de4b-4baf-92d5-3672c7f3a808-image.png\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amides"
+  },
+  {
+    "question_id": "64b16a3bf23ac7d519f9b289",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "For the identification of <math><mi mathvariant=\"normal\">&#946;</mi></math> -naphthol using dye test, it is necessary to use",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kh11h",
+        "text": "Dichloromethane solution of  <math><mi mathvariant=\"normal\">β</mi></math> -naphthol.",
+        "image": null
+      },
+      {
+        "id": "YYVt8",
+        "text": "Acidic solution of  <math><mi mathvariant=\"normal\">β</mi></math>  -naphthol.",
+        "image": null
+      },
+      {
+        "id": "f9TtU",
+        "text": "Neutral solution of  <math><mi mathvariant=\"normal\">β</mi></math> -naphthol.",
+        "image": null
+      },
+      {
+        "id": "i8j65",
+        "text": "Alkaline solution of  <math><mi mathvariant=\"normal\">β</mi></math> -naphthol.",
+        "image": null
+      }
+    ],
+    "correct_answer": "i8j65",
+    "solution_text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image1-77f32165-a366-4f3e-8d1f-75dd4dc168cf.jpg\"/>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amides"
+  },
+  {
+    "question_id": "64b16a35f23ac7d519f9b253",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "<p>In the reaction shown below, the major product(s) formed is/are<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image11-788a2d2f-bc1e-4cbc-b523-e236d08932e2.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2uvtS",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image12-5f496f5d-c2e0-4820-bf6d-a186b26cdf8a.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "310dp",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image13-3f7c485e-2b13-4e61-8a6a-ebc180ed5f23.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "zNRxu",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image14-ef893983-0211-4889-bfa5-2ed4147b3820.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "dTot9",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image15-943e5cc1-2fcf-40b9-aaca-6e086f40a65c.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2uvtS",
+    "solution_text": "<p>Only amines undergo acetylation and not acid amides.<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image16-7dcae031-b1d3-4980-bb7b-55a57c13e2ff.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amides"
+  },
+  {
+    "question_id": "64b169d3f23ac7d519f9aed1",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "In the following reaction,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/BeYLjJnusd9Xzxl0vznAVx5d0UUSSlQE221UaLXUoJc.original.fullsize.png\"><br>\n$$\n\\text { The structure of the major product } X \\text { is }\n$$",
+    "question_image": null,
+    "options": [
+      {
+        "id": "8HwAE",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/26YC4HDKD_i5rzE2S69CDLXPFvNtlToWRf3zX9dT5rs.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "0pTIT",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RMr84-hG7z5Kz2mC9SK5vlioGK4LCoSiGYozBfbXyUE.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "oG1Yt",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0GMRPjdKfsKZ3p2JjvHqXxJU5b7ymc8nbnUpmhTnxG4.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "9vn8Y",
+        "text": "\n < smiles>O=C(Nc1cccc([N+](=O)[O-])c1)c1ccccc1 < /smiles>",
+        "image": null
+      }
+    ],
+    "correct_answer": "0pTIT",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/H9cdbc58aJUxa1ExyAOXQsSe72xfyiieY5zntgW4w3g.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wgJoK_F7PbJi-ma8hY9layaKmAHf498O9xvDMW8tGzU.original.fullsize.png\"><br>\nRing 1 is more active, electrophilic substitution takes place over ring 1. - $\\mathrm{NH}-\\mathrm{C}-\\mathrm{Ph}$ is ortho-para directing, para product is predominating.",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amides"
+  },
+  {
+    "question_id": "6a0be51744d287c9361e5cdc",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "<strong>Passage:</strong> Consider the following reaction sequence in which $\\textbf{J}$, $\\textbf{K}$, $\\textbf{L}$ and $\\textbf{M}$ are the major products.<br><img style=\"width: 600px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q53_d1.png\" /><br>Given:<br>Atomic mass (in amu): H : $1$, C : $12$, N : $14$, O : $16$, S : $32$, Br : $80$, Ba : $137$<br><br><strong>Question:</strong> The volume of $1$ M aqueous $\\text{H}_2\\text{SO}_4$ required to completely neutralize the ammonia evolved from $5.72$ g of $\\textbf{L}$ in Kjeldahl's method of nitrogen estimation is ____ mL.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "The reaction sequence proceeds as follows:<br><br>1. Friedel-Crafts Acylation: Reaction of $m$-xylene (1,3-dimethylbenzene) with chloroacetyl chloride ($\\text{ClCH}_2\\text{COCl}$) in the presence of anhydrous $\\text{AlCl}_3$ occurs at the less sterically hindered activated position (position 4) to give 1-(2,4-dimethylphenyl)-2-chloroethan-1-one.<br><br>2. Finkelstein Reaction: Heating with $\\text{NaI}$ replaces the chloride with iodide, yielding 1-(2,4-dimethylphenyl)-2-iodoethan-1-one.<br><br>3. Williamson Ether Synthesis: Reaction with sodium 3-nitrophenoxide gives compound $\\textbf{J}$, which is 1-(2,4-dimethylphenyl)-2-(3-nitrophenoxy)ethan-1-one.<br><br>4. Reduction and Bromination: $\\text{NaBH}_4$ reduces the ketone group in $\\textbf{J}$ to a secondary alcohol without affecting the nitro group. Subsequent reaction with $\\text{PBr}_3$ converts the alcohol to a bromide, yielding compound $\\textbf{K}$, 1-(1-bromo-2-(3-nitrophenoxy)ethyl)-2,4-dimethylbenzene.<br>The molecular formula of $\\textbf{K}$ is $\\text{C}_{16}\\text{H}_{16}\\text{BrNO}_3$.<br>Molar mass of $\\textbf{K} = (16 \\times 12) + (16 \\times 1) + 80 + 14 + (3 \\times 16) = 192 + 16 + 80 + 14 + 48 = 350 \\text{ g/mol}$, which matches the given data.<br><br>5. Amination: Reaction of $\\textbf{K}$ with excess $\\text{NH}_3$ results in nucleophilic substitution of the bromide to form a primary amine, compound $\\textbf{L}$, 1-(2,4-dimethylphenyl)-2-(3-nitrophenoxy)ethanamine.<br>The molecular formula of $\\textbf{L}$ is $\\text{C}_{16}\\text{H}_{18}\\text{N}_2\\text{O}_3$.<br>Molar mass of $\\textbf{L} = (16 \\times 12) + (18 \\times 1) + (2 \\times 14) + (3 \\times 16) = 192 + 18 + 28 + 48 = 286 \\text{ g/mol}$.<br><br>Moles of $\\textbf{L}$ taken = $\\dfrac{5.72 \\text{ g}}{286 \\text{ g/mol}} = 0.02 \\text{ mol}$.<br><br>In Kjeldahl's method, nitrogen present in nitro ($-\\text{NO}_2$) groups is not converted to ammonium sulfate and thus is not estimated. Only the nitrogen from the primary amine ($-\\text{NH}_2$) group will evolve as ammonia ($\\text{NH}_3$).<br>Therefore, 1 mole of $\\textbf{L}$ yields 1 mole of $\\text{NH}_3$.<br>Moles of $\\text{NH}_3$ evolved = $0.02 \\text{ mol}$.<br><br>The neutralization reaction with sulfuric acid is:<br>$2\\text{NH}_3 + \\text{H}_2\\text{SO}_4 \\rightarrow (\\text{NH}_4)_2\\text{SO}_4$<br><br>Moles of $\\text{H}_2\\text{SO}_4$ required = $\\dfrac{0.02}{2} = 0.01 \\text{ mol}$.<br><br>Given the molarity of $\\text{H}_2\\text{SO}_4$ is $1 \\text{ M}$:<br>Volume of $\\text{H}_2\\text{SO}_4 = \\dfrac{\\text{Moles}}{\\text{Molarity}} = \\dfrac{0.01 \\text{ mol}}{1 \\text{ mol/L}} = 0.01 \\text{ L} = 10 \\text{ mL}$.<br><br>Answer: $10$",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "6a0be51644d287c9361e5cd3",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "In the following reaction sequence, $\\textbf{P}$, $\\textbf{Q}$, $\\textbf{S}$ and $\\textbf{T}$ are the major products.<br><img style=\"width: 600px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p2_english__q44_d1.png\" /><br>The correct statement(s) about $\\textbf{P}$, $\\textbf{Q}$, $\\textbf{S}$ and $\\textbf{T}$ is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "7sW3s",
+        "text": "$\\textbf{Q}$ on treatment with ethanol generates an aromatic aldehyde.",
+        "image": null
+      },
+      {
+        "id": "gObXQ",
+        "text": "$\\textbf{S}$ gives positive phthalein dye test.",
+        "image": null
+      },
+      {
+        "id": "Vl8UM",
+        "text": "$\\textbf{P}$ is a dinitro compound.",
+        "image": null
+      },
+      {
+        "id": "91Irz",
+        "text": "$\\textbf{T}$ is a coloured compound.",
+        "image": null
+      }
+    ],
+    "correct_answer": "91Irz",
+    "solution_text": "In the first reaction sequence:<br>Step 1: Aniline reacts with acetic anhydride in the presence of pyridine to undergo acetylation, forming acetanilide.<br>Step 2: Acetanilide is treated with a nitrating mixture (conc. $\\text{HNO}_3$ and conc. $\\text{H}_2\\text{SO}_4$) at $288 \\text{ K}$. The $-\\text{NHCOCH}_3$ group is moderately activating and ortho/para directing. Due to steric hindrance, the major product $\\textbf{P}$ is $p$-nitroacetanilide.<br>Step 3: $\\textbf{P}$ is hydrolyzed with $\\text{H}_3\\text{O}^+$ to yield $p$-nitroaniline.<br>Step 4: $p$-nitroaniline is diazotized using $\\text{NaNO}_2/\\text{HCl}$ at $273-278 \\text{ K}$ to form the diazonium salt $\\textbf{Q}$, which is $p$-nitrobenzenediazonium chloride.<br><br>In the second reaction sequence:<br>Step 1: Cumene (isopropylbenzene) is oxidized by $\\text{O}_2$ followed by acid hydrolysis ($\\text{H}_3\\text{O}^+$) to produce phenol and acetone. The major aromatic product is phenol.<br>Step 2: Phenol undergoes the Kolbe-Schmitt reaction with $\\text{NaOH}$ and $\\text{CO}_2$ to form sodium salicylate.<br>Step 3: Acidification with $\\text{H}_3\\text{O}^+$ yields salicylic acid as the major product $\\textbf{S}$.<br><br>In the final reaction:<br>Salicylic acid ($\\textbf{S}$) reacts with $p$-nitrobenzenediazonium chloride ($\\textbf{Q}$) in an aqueous $\\text{NaOH}$ medium. This is an electrophilic aromatic substitution (azo coupling). The phenoxide ion formed is highly activating, and coupling occurs at the para position with respect to the $-\\text{OH}$ group (position 5 of salicylic acid). The resulting product $\\textbf{T}$ is an azo dye, which is a highly conjugated and coloured compound.<br><br>Evaluating the options:<br>(A) Treatment of $\\textbf{Q}$ ($p$-nitrobenzenediazonium chloride) with ethanol reduces the diazonium group, yielding nitrobenzene, not an aromatic aldehyde. (Incorrect)<br>(B) The phthalein dye test is a characteristic test for phenols. Salicylic acid ($\\textbf{S}$) contains a phenolic $-\\text{OH}$ group with a free para position (position 5) and gives a positive phthalein dye test when heated with phthalic anhydride and conc. $\\text{H}_2\\text{SO}_4$. (Correct)<br>(C) $\\textbf{P}$ is $p$-nitroacetanilide, which is a mononitro compound, not a dinitro compound. (Incorrect)<br>(D) $\\textbf{T}$ is an azo dye, which is a coloured compound. (Correct)<br><br>Answer: $\\textbf{S}$ gives positive phthalein dye test.; $\\textbf{T}$ is a coloured compound.",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "6a0be51144d287c9361e5ca7",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "Match the major products obtained in the reactions given in List-I with the corresponding structures in List-II and choose the correct option.<br><table style=\"border: 1px solid black; border-collapse: collapse; width: auto;\"><tr><th style=\"border: 1px solid black; padding: 10px;\">List-I</th><th style=\"border: 1px solid black; padding: 10px;\">List-II</th></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(P) <img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d1.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(1) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d5.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(Q) <img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d2.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(2) <img style=\"width: 200px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d6.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(R) <img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d3.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(3) <img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d7.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\">(S) <img style=\"width: 400px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d4.png\" /></td><td style=\"border: 1px solid black; padding: 10px;\">(4) <img style=\"width: 250px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d8.png\" /></td></tr><tr><td style=\"border: 1px solid black; padding: 10px;\"></td><td style=\"border: 1px solid black; padding: 10px;\">(5) <img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q48_d9.png\" /></td></tr></table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0e199",
+        "text": "P $\\rightarrow$ 2; Q $\\longrightarrow$ 1; R $\\rightarrow$ 5; S $\\longrightarrow$ 4",
+        "image": null
+      },
+      {
+        "id": "f580Y",
+        "text": "P $\\rightarrow$ 1; Q $\\longrightarrow$ 2; R $\\rightarrow$ 4; S $\\longrightarrow$ 5",
+        "image": null
+      },
+      {
+        "id": "WVDvQ",
+        "text": "P $\\rightarrow$ 1; Q $\\longrightarrow$ 2; R $\\rightarrow$ 3; S $\\longrightarrow$ 4",
+        "image": null
+      },
+      {
+        "id": "dms4P",
+        "text": "P $\\rightarrow$ 2; Q $\\longrightarrow$ 1; R $\\rightarrow$ 3; S $\\longrightarrow$ 5",
+        "image": null
+      }
+    ],
+    "correct_answer": "f580Y",
+    "solution_text": "For the reaction in (P), 2-bromo-5-nitrobenzaldehyde oxime reacts with aqueous NaOH. The strong base deprotonates the oxime group. The resulting oximate anion undergoes intramolecular nucleophilic aromatic substitution ($S_NAr$), attacking the ortho-carbon and displacing the bromide ion to form a 1,2-benzisoxazole intermediate. Since it is derived from an aldoxime, this intermediate has a hydrogen atom at the C3 position. In the presence of NaOH, it undergoes base-catalyzed Kemp elimination (ring opening) to form 2-hydroxy-5-nitrobenzonitrile, which corresponds to structure (1). Thus, P $\\rightarrow$ 1.<br><br>In reaction (Q), the aldoxime is treated with acetic anhydride, which acetylates the oxime group to form an O-acetate. Subsequent treatment with the mild base $Na_2CO_3$ causes the elimination of acetic acid, converting the aldoxime acetate into a nitrile. The bromide is not displaced under these mild conditions. The product is 2-bromo-5-nitrobenzonitrile, which corresponds to structure (2). Thus, Q $\\rightarrow$ 2.<br><br>For the reaction in (R), 2-bromo-5-nitroacetophenone oxime reacts with aqueous NaOH. Similar to (P), the oximate anion is formed and displaces the ortho-bromide via $S_NAr$ to form a 1,2-benzisoxazole ring. However, because it is derived from a ketoxime, there is a methyl group at the C3 position instead of a hydrogen. Therefore, Kemp elimination cannot occur, and the reaction stops at the stable 3-methyl-5-nitro-1,2-benzisoxazole, which corresponds to structure (4). Thus, R $\\rightarrow$ 4.<br><br>In reaction (S), the O-acetate of the ketoxime is treated with aqueous $Na_2CO_3$. Since it is a ketoxime derivative, it cannot undergo elimination to form a nitrile. The mild base simply hydrolyzes the acetate group back to the oxime. The base is not strong enough to promote the subsequent $S_NAr$ ring closure. The product is 2-bromo-5-nitroacetophenone oxime, which corresponds to structure (5). Thus, S $\\rightarrow$ 5.<br><br>Combining these results gives the sequence P $\\rightarrow$ 1, Q $\\rightarrow$ 2, R $\\rightarrow$ 4, S $\\rightarrow$ 5.<br><br>Answer: P $\\rightarrow$ 1; Q $\\longrightarrow$ 2; R $\\rightarrow$ 4; S $\\longrightarrow$ 5",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "685102c56bba689a3eb09cc5",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "For the reaction sequence given below, the correct statement(s) is(are)\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/HbDKDnhqD7Rg8UWQJFXsS1BmX7qsgc6sHpTNCO2CP9w.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LCPxQ",
+        "text": "Both $\\mathbf{X}$ and $\\mathbf{Y}$ are oxygen containing compounds.",
+        "image": null
+      },
+      {
+        "id": "Nl1Ok",
+        "text": "$\\mathbf{Y}$ on heating with $\\mathrm{CHCl}_3 / \\mathrm{KOH}$ forms isocyanide.",
+        "image": null
+      },
+      {
+        "id": "rHf0j",
+        "text": "$\\mathbf{Z}$ reacts with Hinsberg's reagent.",
+        "image": null
+      },
+      {
+        "id": "ySRCy",
+        "text": "$\\mathbf{Z}$ is an aromatic primary amine.",
+        "image": null
+      }
+    ],
+    "correct_answer": "rHf0j",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/y69PW6n-2AcrTCZLGSZRo8uDXTTerLXDOfdgh1EOC-s.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "685102c16bba689a3eb09c9e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "Match the compounds in List-I with the appropriate observations in List-II and choose the correct option.\n <table> <thead> <tr> <th> </th> <th>LIST - I </th> <th> </th> <th>LIST - II </th> </tr> </thead> <tbody> <tr> <td>(P) </td> <td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xxPxUo8EI4vLLbcZ2pLqzeaB1w9mU-BCLo3ahmxDOFM.original.fullsize.png\"><br> </td> <td>(1) </td> <td>Reaction with phenyl diazonium salt gives #ff0 dye. </td> </tr> <tr> <td>(Q) </td> <td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4Qe2Dk3wC8KuospSXfUaA9QuMA5gbpXg-tL-lb-_KMA.original.fullsize.png\"><br> </td> <td>(2) </td> <td>Reaction with ninhydrin gives purple color and it also reacts with $\\mathrm{FeCl}_3$ to give violet color. </td> </tr> <tr> <td>(R) </td> <td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/47mGH4V_v7mjB9psmTpFyFQkrEYU23FiOBoBZccwEEY.original.fullsize.png\"><br> </td> <td>(3) </td> <td>Reaction with glucose will give corresponding hydrazone. </td> </tr> <tr> <td>(S) </td> <td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RO81iJvzYuc4PaPTgYJ7l0b0oZHdTYv0p6GYSDWSdgU.original.fullsize.png\"><br> </td> <td>(4) </td> <td>Lassiagne extract of the compound treated with dilute HCl followed by addition of aqueous $\\mathrm{FeCl}_3$ gives blood red color. </td> </tr> <tr> <td> </td> <td> </td> <td>(5) </td> <td>After complete hydrolysis,it will give ninhydrin test and it DOES NOT give positive phthalein dye test. </td> </tr> </tbody> </table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "yjcn9",
+        "text": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 5 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 2$",
+        "image": null
+      },
+      {
+        "id": "8UW36",
+        "text": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 5 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 3$",
+        "image": null
+      },
+      {
+        "id": "dmJXr",
+        "text": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 4$",
+        "image": null
+      },
+      {
+        "id": "5sYy1",
+        "text": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 1 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 3$",
+        "image": null
+      }
+    ],
+    "correct_answer": "8UW36",
+    "solution_text": "(P)\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_ixXbF8CxqJOviz4wXcgQorOsymNEMME91tUwYEhXAw.original.fullsize.png\"><br>Gives $\\mathrm{FeCl}_3$ test because of presence of phenolic group and ninhydrin test.<br>(Q)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/RtBtxl1ejyDdnd6nKI_v8Rs-nJZSUozOCUvPRDThnj4.original.fullsize.png\"><br>Amino acid obtained gives $(+)$ Ninhydrin test but not phthalein dye test.<br>(R)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EAN3ZRR5lKbQouNPd4Arjoz5yOWOUT5SsvfnMALXx1Y.original.fullsize.png\"><br>Reaction with phenyl diazonium salt gives yellow dye.<br>(S)<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fXmVsYGcxWTrRls1u8GDaWcTk54DljIG87u8q5rmUOY.original.fullsize.png\"><br>Compound will form hydrazone derivative with aldehydic group of glucose.",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "685102c16bba689a3eb09c9d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match each entry in List-I with the appropriate entry in List-II and choose the correct options.<br> <table> <thead> <tr> <th> </th> <th>LIST - I </th> <th> </th> <th>LIST - II </th> </tr> </thead> <tbody> <tr> <td>(P) </td> <td>Stephen reaction </td> <td>(1) </td> <td>$\\text{Toluene}\\xrightarrow{\\substack{\\text{(i)}\\mathrm{CrO}_2 \\mathrm{Cl}_2 / \\mathrm{CS}_2 \\\\ \\text{(ii)}\\mathrm{H}_3 \\mathrm{O}^{+}}}$ </td> </tr> <tr> <td>(Q) </td> <td>Sandmeyer reaction </td> <td>(2) </td> <td>$\\text{Benzoic acid}\\xrightarrow{\\substack{\\text{(i)}\\mathrm{PCL}_5 \\\\ \\text{(ii)}\\mathrm{H}_3 \\\\ \\text{(iii)}\\mathrm{P}_4 \\mathrm{O}_{10},\\Delta}}$ </td> </tr> <tr> <td>(R) </td> <td>Hoffmann bromamide degradation reaction </td> <td>(3) </td> <td>$\\text{Nitrobenzene}\\xrightarrow{\\begin{array}{l}\\text{(i) Fe,}\\mathrm{HCl}\\\\ \\text{(ii)}\\mathrm{HCl},\\mathrm{NaNO}\\\\ (273-278 \\mathrm{~K}),\\mathrm{H}_2 \\mathrm{O}\\end{array}}$ </td> </tr> <tr> <td>(S) </td> <td>Cannizzaro reaction </td> <td>(4) </td> <td>$\\text{Toluene}\\xrightarrow{\\begin{array}{l}\\text{(i)}\\mathrm{Cl}_2 / \\mathrm{hv},\\mathrm{H}_2 \\mathrm{O}\\\\ \\text{(ii)}\\mathrm{Tollen's}\\text{reagent}\\\\ \\text{(iii)}\\mathrm{SO}_2 \\mathrm{Cl}_2 \\\\ \\text{(iv)}\\mathrm{NH}_3 \\end{array}}$ </td> </tr> <tr> <td> </td> <td> </td> <td>(5) </td> <td>$\\text{Aniline}\\xrightarrow{\\begin{array}{l}\\text{(i)}\\left(\\mathrm{CH}_3 \\mathrm{CO}\\right)_2 \\mathrm{O},\\text{Pyridine}\\\\ \\text{(ii)}\\mathrm{HNO}_3,\\mathrm{H}_2 \\mathrm{O}_4,288 \\mathrm{~K}\\\\ \\text{(iii) aq.}\\mathrm{NaOH}\\end{array}}$ </td> </tr> </tbody> </table>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0Ggo4",
+        "text": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 3$",
+        "image": null
+      },
+      {
+        "id": "7T94P",
+        "text": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 1$",
+        "image": null
+      },
+      {
+        "id": "tJ4JO",
+        "text": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 2$",
+        "image": null
+      },
+      {
+        "id": "qAFHO",
+        "text": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 1$",
+        "image": null
+      }
+    ],
+    "correct_answer": "7T94P",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/TP-gULahc2J_vnesBsyRAbCVBEqgYe_iQ8rVFxEn_WQ.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/07Wjh8zlwFZ1ED_JyGjUI7FVJweLSe0UMqFZBqCCP_U.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ioiSkx8_OM2aqsOHacyJ6vZU0yPKZfOIw2CPHPTmNUE.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/m6wMouK5-mEXGf6qp7dBIoIF89npCuF6djlj2zR1zPk.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/KSAgCCz0STxutAznjvNserqP5ohuSmIGxfGdpOboY30.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16aa3f23ac7d519f9b63d",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>The total number of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sp</mi><mn>2</mn></msup></math> hybridised carbon atoms in the major product <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">P</mi></math> (a non-heterocyclic compound) of the following reaction is</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/973162f4-76d6-4624-a757-93a1a93048c4.png\" style=\"width: 429px; height: 94px;\" /></p><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "28",
+    "solution_text": "<blockquote><p>Lithium aluminium hydride is a strong reducing agent. It reduces cyanide to primary amine with no loss of carbon. Primary amine can undergo nucleophilic addition reaction with acetophenone to produce imine derivative. The carbon with one pi bond are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sp</mi><mn>2</mn></msup></math>&nbsp;hybridised carbon. All the carbon in benzene ring are&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sp</mi><mn>2</mn></msup></math>&nbsp;hybridised. Hence, totally 28&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>sp</mi><mn>2</mn></msup></math>&nbsp;carbon are present in the molecule.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/01aa90e1-603a-4f09-b202-0196bd6b0522.png\" style=\"width: 559px; height: 419px;\" /></p><p>&nbsp;</p></blockquote>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a98f23ac7d519f9b5d7",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>Match the compounds in LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> with the observations in LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>, and choose the correct option.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math></td>\t\t\t<td>&nbsp;</td>\t\t\t<td>LIST-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math></td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced></math></td>\t\t\t<td>Aniline</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math></td>\t\t\t<td>Sodium fusion extract of the compound on boiling with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeSO</mi><mn>4</mn></msub></math>, followed by acidification with conc.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>, gives Prussian blue color.</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">o</mi><mo>-</mo></math>Cresol</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">Q</mi></mfenced></math></td>\t\t\t<td>Sodium fusion extract of the compound on treatment with sodium nitroprusside gives blood red color.</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>III</mi></mfenced></math></td>\t\t\t<td>Cysteine</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math></td>\t\t\t<td>Addition of the compound to a saturated solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaHCO</mi><mn>3</mn></msub></math> results in effervescence.</td>\t\t</tr>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced></math></td>\t\t\t<td>Caprolactam</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math></td>\t\t\t<td>The compound reacts with bromine water to give a white precipitate.</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math></td>\t\t\t<td>Treating the compound with neutral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeCl</mi><mn>3</mn></msub></math> solution produces violet color.</td>\t\t</tr>\t</tbody></table><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "eqjsT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">Q</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi></math>",
+        "image": null
+      },
+      {
+        "id": "i6gyA",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      },
+      {
+        "id": "vIjbc",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">T</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">S</mi></math>",
+        "image": null
+      },
+      {
+        "id": "cLBJK",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>;</mo><mi>II</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">T</mi><mo>;</mo><mi>III</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">Q</mi><mo>,</mo><mi mathvariant=\"normal\">R</mi><mo>;</mo><mi>IV</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "cLBJK",
+    "solution_text": "<blockquote><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7bc63779-5fde-4629-8bdd-b7bc6d44bde9-image.png\" style=\"width: 80px; height: 117px;\" /></p><p>Since it contains both carbon and nitrogen so its sodium fusion extract with boiling&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeSO</mi><mn>4</mn></msub></math>, followed by&nbsp;acidification with conc.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>&nbsp;gives Prussian blue colour.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>6</mn><msup><mi>CN</mi><mo>-</mo></msup><mo>&#8594;</mo><msup><mfenced close=\"]\" open=\"[\"><mrow><mi>Fe</mi><msub><mfenced><mi>CN</mi></mfenced><mn>6</mn></msub></mrow></mfenced><mrow><mn>4</mn><mo>-</mo></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><mfenced><msub><mi>CN</mi><mn>6</mn></msub></mfenced></mrow></mfenced><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>+</mo><mn>4</mn><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup><mover><mo>&#8594;</mo><mrow><msub><mi>xH</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></mrow></mover><msub><mi>Fe</mi><mn>4</mn></msub><msub><mfenced open=\"[\" close=\"]\"><mrow><mi>Fe</mi><msub><mfenced><mi>CN</mi></mfenced><mn>6</mn></msub></mrow></mfenced><mn>3</mn></msub><mo>.</mo><msub><mi>xH</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mspace linebreak=\"newline\"/><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>Prussian</mi><mo>&#160;</mo><mi>blue</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2c4df51e-9fcc-451c-9d55-4e9047678b1b-image.png\" style=\"width: 400px; height: 171px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>-</mo><mfenced><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math><mo>,</mo><mi mathvariant=\"normal\">S</mi></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced></math>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">o</mi><mo>-</mo></math>Cresol</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6129d54c-53a6-41c8-aab3-22af086f5d8c-image.png\" style=\"width: 220px; height: 112px;\" />&nbsp;Violet coloured complex</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>III</mi></mfenced></math>&nbsp;Cysteine</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9b1ee1a2-e261-4fdb-a8d8-143319ee2b12-image.png\" style=\"width: 200px; height: 114px;\" /></p><p>Since it has both, sulphur and nitrogen, so its sodium fusion extract will give blood red colour with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Fe</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup></math>&nbsp;and&nbsp;it has carboxylic group so it will give effervescence with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaHCO</mi><mn>3</mn></msub></math>.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced></math>&nbsp;Caprolactam</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f469202d-011a-4d1f-957c-8c0d453e16ea-image.png\" style=\"width: 90px; height: 106px;\" /></p><p>Its sodium fusion extract will give Prussian blue colour on boiling with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>FeSO</mi><mn>4</mn></msub></math>&nbsp;followed by acidification with conc.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a97f23ac7d519f9b5d3",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>Considering the following reaction sequence,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/e6c18995-39ed-47bd-9d02-053222bf064b-image.png\" style=\"width: 400px; height: 176px;\" /></p><p>the correct option(s) is(are)</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "67mMH",
+        "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 400px;\">\t<tbody>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi>Pd</mi></mfrac></math>, ethanol</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfrac><msub><mi>NaNO</mi><mn>2</mn></msub><mi>HCl</mi></mfrac></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>1</mn><mo>.</mo><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub></math><br />\t\t\t<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><msub><mi>KMnO</mi><mn>4</mn></msub><mo>-</mo><mi>KOH</mi></math>, heat</td>\t\t</tr>\t</tbody></table>",
+        "image": null
+      },
+      {
+        "id": "ckmtD",
+        "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>=</mo><mfrac><mi>Sn</mi><mi>HCl</mi></mfrac></math></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>&nbsp;</mo><mo>=</mo><mo>&nbsp;</mo><msub><mi>HNO</mi><mn>2</mn></msub></math></td>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8f39eccc-05be-4539-9d7b-66e2d5a724a7-image.png\" style=\"width: 220px; height: 89px;\" /></td>\t\t\t<td>&nbsp;</td>\t\t</tr>\t</tbody></table>",
+        "image": null
+      },
+      {
+        "id": "W2aGq",
+        "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/18d7b9b4-4a50-4466-8035-6f47c6a5b3dc-image.png\" style=\"width: 200px; height: 83px;\" /></td>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5a293a6d-e129-49aa-9e96-579f56044756-image.png\" style=\"width: 200px; height: 85px;\" /></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">U</mi><mo>=</mo><mn>1</mn><mo>&middot;</mo><msub><mi>CH</mi><mn>3</mn></msub><msub><mi>CH</mi><mn>2</mn></msub><mi>OH</mi></math><br />\t\t\t<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mo>&nbsp;</mo><msub><mi>KMnO</mi><mn>4</mn></msub><mo>-</mo><mi>KOH</mi></math>, heat</td>\t\t</tr>\t</tbody></table>",
+        "image": null
+      },
+      {
+        "id": "aLgyI",
+        "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4157debb-91ee-4092-8bec-ed2cbb6ab7e5-image.png\" style=\"width: 200px; height: 72px;\" /></td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">R</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi>Pd</mi></mfrac></math>, ethanol</td>\t\t\t<td><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a89f7608-ab19-4c5d-a334-8eefdbb5d34a-image.png\" style=\"width: 200px; height: 69px;\" /></td>\t\t</tr>\t</tbody></table>",
+        "image": null
+      }
+    ],
+    "correct_answer": "W2aGq",
+    "solution_text": "<p>First step of the reaction involves reduction of nitro group to primary amine this can be done using Sn in presence of HCl or H<sub>2</sub>/Pd, but&nbsp;aromatic nitro compounds on reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>LiAlH</mi><mn>4</mn></msub></math>produces&nbsp;azo products.&nbsp;</p><p>Second step of the reaction involves diazotization, which involves the use of HNO<sub>2</sub>&nbsp;(or) NaNO<sub>2</sub>&nbsp;in HCl as the reagent ,Para toluene&nbsp;diazonium chloride formed is formed which on hydrolysis produces para-cresol.</p><p>And&nbsp;Para toluene&nbsp;diazonium chloride can be converted to benzoic acid by using&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub><mo>&#160;</mo><mi>or</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">C</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">H</mi><mn>5</mn></msub><mi>OH</mi></math>&nbsp;followed by reaction with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub><mo>&#160;</mo><mi>in</mi><mo>&#160;</mo><mi>alkaline</mi><mo>&#160;</mo><mi>medium</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8b0c3af1-6c87-415e-a763-e4255ab8e6a0-image.png\" style=\"width: 450px; height: 256px;\" /></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi mathvariant=\"normal\">P</mi></math> may be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mfrac><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi>Pd</mi></mfrac></math>, ethanol;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>Sn</mi><mi>HCl</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi mathvariant=\"normal\">R</mi></math> may be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><msub><mi>NaNO</mi><mn>2</mn></msub><mo>/</mo><mi>HCl</mi><mo>;</mo><msub><mi>HNO</mi><mn>2</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mi mathvariant=\"normal\">U</mi></math>&nbsp;may be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo></math> (i) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>3</mn></msub><msub><mi>PO</mi><mn>2</mn></msub></math>, (ii) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub><mo>-</mo><mi>KOH</mi><mo>,</mo><mi>&#916;</mi></math> or (i) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CH</mi><mn>3</mn></msub><mo>-</mo><msub><mi>CH</mi><mn>2</mn></msub><mo>-</mo><mi>OH</mi></math>, (ii)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KMnO</mi><mn>4</mn></msub><mo>-</mo><mi>KOH</mi><mo>,</mo><mi>&#916;</mi></math></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b528",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "<p>Consider the following four compounds I, II, III, and IV.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/a71981bc-6caa-48dc-be6d-78323bed3ecc-image.png\"/></p><p>Choose the correct statement(s).</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JXbWd",
+        "text": "The order of basicity is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi><mo>&#62;</mo><mi mathvariant=\"normal\">I</mi><mo>&#62;</mo><mi>III</mi><mo>&#62;</mo><mi>IV</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "y5uDX",
+        "text": "The magnitude of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>pK</mi><mi mathvariant=\"normal\">b</mi></msub></math> difference between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math>&nbsp;is more than that between <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "PMUEp",
+        "text": "Resonance effect is more in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math> than in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math>.",
+        "image": null
+      },
+      {
+        "id": "lfDC4",
+        "text": "Steric effect makes compound <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math> more basic than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math>.",
+        "image": null
+      }
+    ],
+    "correct_answer": "lfDC4",
+    "solution_text": "<p>The correct basic strength order is</p><p>(A)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">K</mi><mi mathvariant=\"normal\">b</mi></msub><mo>:</mo><mi>IV</mi><mo>&#62;</mo><mi>II</mi><mo>&#62;</mo><mo>&#8739;</mo><mo>&#62;</mo><mi>III</mi><mo>;</mo></math></p><ul>\t<li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math> is strongest base due to SIR effect.</li>\t<li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math> is weakest base due to<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi mathvariant=\"normal\">M</mi></math> group of three nitro groups present at Ortho and Para positions.</li>\t<li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Il</mi></math> is stronger than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> since <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math> is tertiary and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math> primary aromatic amine.</li></ul><p>(B)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math> is found to be <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>,</mo><mn>000</mn></math>&nbsp;times more basic than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math>. While <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi></math> differ very little in basic strength.</p><p>(C,D) Due to SIR effect in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math> both <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><msub><mi>NO</mi><mn>2</mn></msub></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi mathvariant=\"normal\">N</mi><msub><mfenced><msub><mi>CH</mi><mn>3</mn></msub></mfenced><mn>2</mn></msub></math> will be out of plane hence resonance effect is more in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi></math>&nbsp;than in&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi></math>.<br />in III than in $\\mathrm{V}$.</p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a73f23ac7d519f9b48c",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "<p>Scheme <math><mn>1</mn></math> and <math><mn>2</mn></math> describe the conversion of <math><mi mathvariant=\"normal\">P</mi></math> to <math><mi mathvariant=\"normal\">Q</mi></math> and <math><mi mathvariant=\"normal\">R</mi></math> to <math><mi mathvariant=\"normal\">S</mi><mo>,</mo></math> respectively. Scheme <math><mn>3</mn></math> describes the synthesis of <math><mi mathvariant=\"normal\">T</mi></math> from <math><mi mathvariant=\"normal\">Q</mi></math> and <math><mi mathvariant=\"normal\">S</mi><mo>.</mo></math> The total number of <math><mi mathvariant=\"normal\">B</mi><mi mathvariant=\"normal\">r</mi></math> atoms in a molecule of <math><mi mathvariant=\"normal\">T</mi></math> is<br >Scheme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>:<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bd4c6d54-bd53-40d5-9923-616689602dd5-image.png\"/><br >Scheme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>:<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/75944ac9-ea32-4827-8878-391eee4408e2-image.png\"/><br >Scheme<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mn>3</mn></math>:<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4d09ee65-0c97-428a-b2cf-dbf41a1f57e3-image.png\"/></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/432bb2e5-efba-4a92-9b5b-553e2de82b66-image.png\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/324c9d98-74da-4e03-a278-6379b93b59cc-image.png\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ad1b7107-8945-47d4-af2e-347b3d465a48-image.png\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/21a3acbb-ef1c-4dbf-9a11-215aa605fd16-image.png\"/></p><p><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/82ff9361-b0bf-4357-9f76-eecb5948fe54-image.png\"/>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dd72d677-3154-49c3-9ae8-e83824b10c18-image.png\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a6cf23ac7d519f9b448",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "<p>Aniline reacts with mixed acid (conc. <math><mi>H</mi><mi>N</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math> and conc. <math><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math> ) at <math><mn>288</mn><mi> </mi><mi>K</mi><mi> </mi><mi>t</mi><mi>o</mi><mi> </mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">e</mi><mi> </mi><mi>P</mi><mi> </mi><mo>(</mo><mn>51</mn><mi> </mi><mi>%</mi><mo>)</mo><mo>,</mo><mi> </mi><mi>Q</mi><mi> </mi><mo>(</mo><mn>47</mn><mi>%</mi><mo>)</mo><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>R</mi><mi> </mi><mo>(</mo><mn>2</mn><mi>%</mi><mo>)</mo></math> . The major product(s) of the following reaction sequence is (are)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fvfdworziiwroxsbzshnbflwobngxhtwargqmyiksjyzjldsig.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EzDNe",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ifrjqydutizhplytxoeidvzvpecrvewwcerjavsjwuwsjotfiv.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "A4F7Y",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uubqpdptwwpunsdyxqrpfmarjkqjjqyukciduxeefbyxaaoyxe.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "rYp1c",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/jfqrzilhsbxmaxhmzfyjxzqaevloldsgsjjqxzazphqdscdxbw.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "MiDyo",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gurtrsgxznemsqjhokxieptecsiyglhcqbiyjmovsyhamnyqyb.jpeg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MiDyo",
+    "solution_text": "<p style=\"text-align: justify;\">Aniline undergoes nitration reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>HNO</mi><mn>3</mn></msub><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub><mo>)</mo></math>. Although amino group is ortho and para directing but due to presence on lone pair on both the nitrogen, it will cause repulsion, hence the yield of ortho nitro aniline will be only 2%., para product (51%) and meta product (47%)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/csxopylybwuvsjadjcfeogksbaqjarbntfjvztrqyiplosvkzi.jpeg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rnaehimndbrcedbvdoqwwodpcwwdunabvpqvxromqliyreoocn.jpeg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mnbqszilbipvxwlzmohzcsohoxrccnaojmsyujiqeahylvjyng.jpeg\"/><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/naygciotkugaflruvjzwyxpfsgtmajurkqdjpwaabotnlrdszs.jpeg\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a60f23ac7d519f9b3df",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>What is the order of basicity among the following compounds?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kpxqdjqyykzusjykkkfdufcntexgmemkyhuttvvekcatvjlxny.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nNh28",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>II</mi><mo>&#62;</mo><mi mathvariant=\"normal\">I</mi><mo>&#62;</mo><mi>IV</mi><mo>&#62;</mo><mi>III</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Cfsvy",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi><mo>&#62;</mo><mi>II</mi><mo>&#62;</mo><mi>III</mi><mo>&#62;</mo><mi mathvariant=\"normal\">I</mi></math>",
+        "image": null
+      },
+      {
+        "id": "sCYkv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">I</mi><mo>&#62;</mo><mi>IV</mi><mo>&#62;</mo><mi>III</mi><mo>&#62;</mo><mi>II</mi></math>",
+        "image": null
+      },
+      {
+        "id": "uF0Ps",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IV</mi><mo>&#62;</mo><mi mathvariant=\"normal\">I</mi><mo>&#62;</mo><mi>II</mi><mo>&#62;</mo><mi>III</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "uF0Ps",
+    "solution_text": "<p>Basic strength <math><mo>∝</mo></math> stability of conjugated acid.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∝</mo><mo>+</mo><mi mathvariant=\"normal\">M</mi><mo>/</mo><mo>+</mo><mi mathvariant=\"normal\">H</mi><mo>/</mo><mo>+</mo><mi mathvariant=\"normal\">I</mi></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/24_solu_chem_pa_2.jpg\"/></p><p>Conjugated acid is stabilized by two equivalent Resonating Structure</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/24_solu_chem_pa_2_1.jpg\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/24_solu_chem_pa_2_2.jpg\"/></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/24_solu_chem_pa_2_3.jpg\"/></p><p>Conjugated acid is stabilized by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math> equivalent R.S.</p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a60f23ac7d519f9b3de",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>The major product of the following reaction is<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wfqpvwrjoqkklylgdlfhncqumrpztwoofnnxvxwlvjttvihqoo.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Wkexv",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kcsceggvmvdvtckjyfyaiivfaqqgpufortmuvzwmxgrboymsex.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "m4xkN",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cygjlgavfdvwukltirqwzyfezmesiqauritilberfwsrwuozha.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "hvgYf",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/recchxtibuobzulhluqgjzbbsfmfaxngjxxuciymplyrgjesak.jpeg\"/>",
+        "image": null
+      },
+      {
+        "id": "ScaFz",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pfrwjuyhpwttkprsgjwyrpbsnbtqlqnzgjgsrkexfbgsydhuoj.jpeg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "hvgYf",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/23_solu_chem_pa_2.jpg\"/>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a4ff23ac7d519f9b340",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "<p>The product(s) of the following reaction sequence is(are)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.9.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "DxBX1",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.9_Opp_1.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "fCvUa",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.9_Opp_2.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "homyk",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.9_Opp_3.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "c9c2O",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.9_Opp_4.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "fCvUa",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_Paper_1_Chem_Q._27_Ans_1_..jpg\"/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_Paper_1_Chem_Q._27_Ans_2_..jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a49f23ac7d519f9b30c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<p>In the following reactions, the major product W is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image29-bad152db-d3d5-4dd6-bd4c-4fc9691c5547.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3K0uX",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image30-d57e20f1-6a0b-45d5-8092-d86ebc8e413b.png\"/>",
+        "image": null
+      },
+      {
+        "id": "Oj8f2",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image31-409febe3-36c9-4fef-92dd-d187a0500ddd.png\"/>",
+        "image": null
+      },
+      {
+        "id": "cjLZY",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image32-c8035bd9-ba39-4e06-a0f6-d678e8da1efb.png\"/>",
+        "image": null
+      },
+      {
+        "id": "5rFri",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image33-83ddfcb3-7b88-44ce-9d29-649ba7ae9778.png\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "3K0uX",
+    "solution_text": "<p style=\"text-align: justify;\">Aniline form benzene diazonium salt on reaction with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NaNO</mi><mn>2</mn></msub><mo>+</mo><mi>HCl</mi></math> (V) which gives coupling reaction 2-naphthol. </p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image34-f0d20b9d-a847-4761-a1d8-6af1001809f7.png\"/><br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image35-83fdcf14-40d8-4111-949c-b410b15c4601.png\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a42f23ac7d519f9b2ce",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>The major product of the reaction is<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image53-68b93959-c9ba-4431-b27b-30d4c61f933b.jpg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "0kjtc",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image54-c9c29529-78c3-4866-bf6d-0271c958fd7b.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "YReje",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image55-73a723b0-b1a6-49bd-a295-1ccaef01b516.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "woFU7",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image56-7a272412-3e99-4013-9b52-c733fa3d7644.jpg\"/>",
+        "image": null
+      },
+      {
+        "id": "5b6eF",
+        "text": "<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image57-1fcfd2aa-17e5-4943-a453-1f0fc6769454.jpg\"/>",
+        "image": null
+      }
+    ],
+    "correct_answer": "woFU7",
+    "solution_text": "<p style=\"text-align: justify;\">Treating with nitrous acid (diazotization) gives a hydroxyl group in the place of the amino group. The reaction occurs stereospecifically with retention in configuration.<br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image58-3b0dc315-6343-4360-bdf9-c447872d812f.jpg\"/></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a29f23ac7d519f9b1e5",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "The total number of lone pairs of electrons in melamine is&nbsp;",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<p>Structure of melamine is as follows<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/d6047e15-9a2f-456e-87e1-edcb2344345b-image.png\"/> <br >Total no. of lone pairs of electron is '6'.</p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a14f23ac7d519f9b121",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "Amongst the compounds given, the one that would form a brilliant coloured dye on treatment with $\\mathrm{NaNO}_2$ in dil. $\\mathrm{HCl}$ followed by addition to an alkaline solution of $\\beta$-naphthol is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "L5Va8",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mQ-BS1F3lcaW9px3IYKgxkGB_DU0EalH19k0RQlvJQg.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "Ds4RZ",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hH39OZYv9JS3aVtao692gBsysk2jzAV5wCmVqF9IHhw.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "jwP4v",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/wdTrtd5glbmjWpCGRy2P-V_cVmw414733MSMbZfgziU.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "k23bR",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-6j4s02v4yqgr57bpjac9YYSCvou2_kNFVFtWIk8cXc.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "jwP4v",
+    "solution_text": "As we know, benzenediazonium salt forms brilliant coloured dye with $\\beta$-naphthol, the compound under consideration must be $p$-toludine (c) as it is a primary aromatic amine. Primary aromatic amine, on treatment with $\\mathrm{NaNO}_2$ in dil. $\\mathrm{HCl}$ forms the corresponding diazonium chloride salt.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3Jskadp3YQ0Ek6wFzvnzKRKAsV2LXoPiQgOeJrI_FoQ.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b16a0cf23ac7d519f9b0de",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The major product of the following reaction is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/lh0_INxc7OX6W4ob4oDr3E7UOOL2542bF-c8IJP35Fc.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mRKcX",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/fpYJTUKv8yDLVc5YLPbIZk7cBRJ5wwyHKsvALs5lQAQ.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "IfQyZ",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-5QbZjQAM1ugZsv0WMrUyaCw7u9QgzqUs4b4tEDJzFM.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "pG6fP",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aTDXxOCHz7QylfUuGoy6uCg-Jwnxg0IHEr5w16_XWaU.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "4SW3S",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GAds1b1SMKyU1lcKE12Y1Jpg6vwu1snRPFZPwe2Aieg.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mRKcX",
+    "solution_text": "It is the first step of Gabriel's phthalimide synthesis. The hydrogen bonded to nitrogen is sufficiently acidic due to two $\\alpha$-carbonyls.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/MpnEYdJ1f8onZDPwkextCp1o9AxM-68WlKCLasdgo8A.original.fullsize.png\"><br>\nThe conjugate base formed above act as nucleophile in the subsequent step of reaction. As shown above, the nucleophile exist in three resonating form, one may think of oxygen being the donor atom in the nucleophilic attack. However, nitrogen act as donor as it is better donor than oxygen.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/hZVnJUCQWIQNQThoHTPjsAuy-_t2OXdFoSbBZMthPOA.original.fullsize.png\"><br>\nBromine is not substituted in the above reaction as it is in resonance with benzene ring giving partial double bond character to $\\mathrm{C}-\\mathrm{Br}$ bond, hence difficult to break.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/TlGg23g9rmm8w6E90tvBxn16wIOKwVTC99xBlYY_EQA.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169f1f23ac7d519f9afe8",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\np-amino-N, N-dimethylaniline is added to a strongly acidic solution of $X$. The resulting solution is treated with a few drops of aqueous solution of $Y$ to yield blue colouration due to the formation of methylene blue. Treatment of the aqueous solution of $Y$ with the reagent potassium  hexacyanoferrate(II) leads to the formation of an intense blue precipitate. The precipitate dissolves an excess addition of the reagent. Similarly, treatment of the solution of $Y$ with the solution of potassium hexacyanoferrate(III) leads to a brown colouration due to the formation of $Z$.<strong>Question:</strong>\nThe compound $Z$, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jOTkl",
+        "text": "\n$\\mathrm{Mg}_2\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$\n",
+        "image": null
+      },
+      {
+        "id": "V7wRN",
+        "text": "\n$\\mathrm{Fe}\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]$\n",
+        "image": null
+      },
+      {
+        "id": "w1hFE",
+        "text": "\n$\\mathrm{Fe}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_3$\n",
+        "image": null
+      },
+      {
+        "id": "GHSq0",
+        "text": "\n$\\mathrm{K}_2 \\mathrm{Zn}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "V7wRN",
+    "solution_text": "$p$-amino- $\\mathrm{N}$, N-dimethylaniline reacts with sulphide ion $\\left(\\mathrm{S}^{2-}\\right)$ in presence of $\\mathrm{Fe}^{3+}$ ion to form blue coloured solution of methylene blue :\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/NZw4_QD8GSLGGMqrQZSpuv_AIQiOAXhksXIRa3V8Zsc.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169f1f23ac7d519f9afe7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\np-amino-N, N-dimethylaniline is added to a strongly acidic solution of $X$. The resulting solution is treated with a few drops of aqueous solution of $Y$ to yield blue colouration due to the formation of methylene blue. Treatment of the aqueous solution of $Y$ with the reagent potassium  hexacyanoferrate(II) leads to the formation of an intense blue precipitate. The precipitate dissolves an excess addition of the reagent. Similarly, treatment of the solution of $Y$ with the solution of potassium hexacyanoferrate(III) leads to a brown colouration due to the formation of $Z$.<strong>Question:</strong>\nThe compound $Y$, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cFHjW",
+        "text": "\n$\\mathrm{MgCl}_2$\n",
+        "image": null
+      },
+      {
+        "id": "iKOSh",
+        "text": "\n$\\mathrm{FeCl}_2$\n",
+        "image": null
+      },
+      {
+        "id": "BrNRr",
+        "text": "\n$\\mathrm{FeCl}_3$\n",
+        "image": null
+      },
+      {
+        "id": "HHeM0",
+        "text": "\n$\\mathrm{ZnCl}_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "BrNRr",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169f1f23ac7d519f9afe6",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\np-amino-N, N-dimethylaniline is added to a strongly acidic solution of $X$. The resulting solution is treated with a few drops of aqueous solution of $Y$ to yield blue colouration due to the formation of methylene blue. Treatment of the aqueous solution of $Y$ with the reagent potassium  hexacyanoferrate(II) leads to the formation of an intense blue precipitate. The precipitate dissolves an excess addition of the reagent. Similarly, treatment of the solution of $Y$ with the solution of potassium hexacyanoferrate(III) leads to a brown colouration due to the formation of $Z$.<strong>Question:</strong>\nThe compound $X$, is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wVRS3",
+        "text": "\n$\\mathrm{NaNO}_3$\n",
+        "image": null
+      },
+      {
+        "id": "RQ4Qk",
+        "text": "\n$\\mathrm{NaCl}$\n",
+        "image": null
+      },
+      {
+        "id": "hvFob",
+        "text": "\n$\\mathrm{Na}_2 \\mathrm{SO}_4$\n",
+        "image": null
+      },
+      {
+        "id": "Gn3Fr",
+        "text": "\n$\\mathrm{Na}_2 \\mathrm{~S}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Gn3Fr",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169eaf23ac7d519f9afa3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Statement 1 Aniline on reaction with $\\mathrm{NaNO}_2 / \\mathrm{HCl}$ at $0^{\\circ} \\mathrm{C}$ followed by coupling with $\\beta$-naphthol gives a dark coloured precipitate.\nStatement 2 The colour of the compound formed in the reaction of aniline with $\\mathrm{NaNO}_2 / \\mathrm{HCl}$ at $0^{\\circ} \\mathrm{C}$ followed by coupling with $\\beta$-naphthol is due to the extended conjugation.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pxiaR",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "Ds7yT",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "VUNAM",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "gjMuO",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "pxiaR",
+    "solution_text": "Statement II is correct. Statement I appears correct in the light of Statement II. What is the colour of a dye that dye is not in included in JEE syllabus but what is the cause and understanding behind a colour could be essentially expected.\nConcept Usually a certain proportion of the flight is absorbed and the rest reflected, the substance has the colour of the reflected light.\nIf only a single band is absorbed, the substance has the complementary colour.\n- The wavelength of photon absorbed depends on the energy difference between the excited and ground states. The smaller the difference, the longer being the wavelength.\n- The larger the number of electrons involved in resonance, the smaller is the energy difference between the ground and excited state. Hence, the more extended the conjugation in a molecule and the greater the contribution of charged structures, the longer is the wavelength of the photon required to excite the molecule.\n- Especially, the presence of $+I /+M$ and $-I /-M$ groups in the conjugated system will both extend the conjugation and increase the contributions of charged structures to the resonance hybrid. Therefore, in these circumstances, the wavelength should become progressively longer.\n- Depending on this discussion it is apparent that the concerned resultant azodye will absorb higher wavelength.\n$\\begin{array}{ccc}\\text { Wavelength } & \\text { Colour absorbed } & \\text { Complimentary colour } \\\\ 490-500 & \\text { Blue-green } & \\text { Red } \\\\ 580-595 & \\text { Yellow } & \\text { Blue } \\\\ 605-750 & \\text { Red } & \\text { Blue-green }\\end{array}$",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169caf23ac7d519f9ae7e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\n$$\n\\mathrm{RCONH}_2 \\text { is converted into } \\mathrm{RNH}_2 \\text { by means of Hofmann bromamide degradation. }\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kUvdLVZCCRDn5vZcz3oaK6cUZX7TS8jt4MnQjqIiZ1U.original.fullsize.png\"><br>\nIn this reaction, $R \\mathrm{CONHBr}$ is formed from which this reaction has derived its name. Electron donating group at phenyl activates the reaction. Hofmann degradation reaction is an intramolecular reaction.<strong>Question:</strong>\nWhat are the constituent amines formed when the mixture of (i) and (ii) undergoes Hofmann bromamide degradation?<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xUil9dp4OC-2i_JpT3k-Ay0mZhy3yc_KoxGe_XOoTO8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "mYHze",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9oEoYy5QRFL2XT7ezsHdF5ARJDl0lEN4arnP9U2UCIA.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "A4Bt1",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/raLseyC7J4jpeBdxdouJO8i1ntB1EL77OiciIHqKM7A.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "SQYVA",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/XWvYR9onQwF915KtQ4fuwkz0nopYgxeL-dAMd-1wlrc.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "MAmbs",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-f4PlSCzDHo1546w2x7iTwaj1AXy5kUxT2pDP5IEnWc.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "A4Bt1",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Oe_E6km97d_rshVwsJnXpBtvih6O1N6XCJ0vI3uSC5I.original.fullsize.png\"><br>\n$$\n\\text { Since the overall reaction is intermolecular, hence there will be no effect on product formation. }\n$$",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169caf23ac7d519f9ae7d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\n$$\n\\mathrm{RCONH}_2 \\text { is converted into } \\mathrm{RNH}_2 \\text { by means of Hofmann bromamide degradation. }\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kUvdLVZCCRDn5vZcz3oaK6cUZX7TS8jt4MnQjqIiZ1U.original.fullsize.png\"><br>\nIn this reaction, $R \\mathrm{CONHBr}$ is formed from which this reaction has derived its name. Electron donating group at phenyl activates the reaction. Hofmann degradation reaction is an intramolecular reaction.<strong>Question:</strong>\nWhich is the rate determining step in Hofmann bromamide degradation?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "BKl6E",
+        "text": "\nFormation of (i)\n",
+        "image": null
+      },
+      {
+        "id": "d2e2q",
+        "text": "\nFormation of (ii)\n",
+        "image": null
+      },
+      {
+        "id": "84VvN",
+        "text": "\nFormation of (iii)\n",
+        "image": null
+      },
+      {
+        "id": "zIRXA",
+        "text": "\nFormation of (iv)",
+        "image": null
+      }
+    ],
+    "correct_answer": "zIRXA",
+    "solution_text": "The rate determining step is probably elimination of $\\mathrm{Br}^{-}$to form isocyanate because it is slower step of given conversion.",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169caf23ac7d519f9ae7c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\n$$\n\\mathrm{RCONH}_2 \\text { is converted into } \\mathrm{RNH}_2 \\text { by means of Hofmann bromamide degradation. }\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/kUvdLVZCCRDn5vZcz3oaK6cUZX7TS8jt4MnQjqIiZ1U.original.fullsize.png\"><br>\nIn this reaction, $R \\mathrm{CONHBr}$ is formed from which this reaction has derived its name. Electron donating group at phenyl activates the reaction. Hofmann degradation reaction is an intramolecular reaction.<strong>Question:</strong>\nHow can the conversion of (i) to (ii) be brought about?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ehl8W",
+        "text": "\n$\\mathrm{KBr}$\n",
+        "image": null
+      },
+      {
+        "id": "up6Cc",
+        "text": "\n$\\mathrm{KBr}+\\mathrm{CH}_3 \\mathrm{ONa}$\n",
+        "image": null
+      },
+      {
+        "id": "oeOJV",
+        "text": "\n$\\mathrm{KBr}+\\mathrm{KOH}$\n",
+        "image": null
+      },
+      {
+        "id": "NYGkQ",
+        "text": "\n$\\mathrm{Br}_2+\\mathrm{KOH}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "NYGkQ",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zDNTmjvVgpklMj_DLaJFK3heYy8d8GQqzVcSCiltWI4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Amines"
+  },
+  {
+    "question_id": "64b169caf23ac7d519f9ae79",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "The smallest ketone and its next homologoue are reacted with $\\mathrm{NH}_2 \\mathrm{OH}$ to form oxime",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Okx7d",
+        "text": "\ntwo different oximes are formed\n",
+        "image": null
+      },
+      {
+        "id": "TzMc4",
+        "text": "\nthree different oximes are formed\n",
+        "image": null
+      },
+      {
+        "id": "eAMNP",
+        "text": "\ntwo oximes are optically active\n",
+        "image": null
+      },
+      {
+        "id": "fztg2",
+        "text": "\nall oximes are optically active",
+        "image": null
+      }
+    ],
+    "correct_answer": "TzMc4",
+    "solution_text": "Lowest ketone is $\\mathrm{CH}_3 \\mathrm{COCH}_3$ (which form an oxime) and its next homologue is $\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{COCH}_3$ which form oxime with $\\mathrm{NH}_2 \\mathrm{OH}$. Such oxime shows the property of geometrical isomerism, i.e., it shows two isomers, symmetric and antisymmertic. (These are differ w.r.t. arrangement towards the space of $-\\mathrm{C}=\\mathrm{N}$, their different behaviour, can be confirmed with the help of Beckmann's rearrangement.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EWRM37fa9BtKe7lTnyup6dAulowJ4gn46tYeyO_eSUE.original.fullsize.png\"><br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/piTLmcB5fVTIitK6u_WWUOlNpuukGwUWmlkLBHrK3qA.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Cyanides"
+  },
+  {
+    "question_id": "64b16a90f23ac7d519f9b58f",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Correct option(s) for the following sequence of reactions is(are)<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/034675cd-0d48-4073-b2e3-cbca9d44e31a-loppk.png\" style=\"width: 500px; height: 167px;\" />&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Nhrf6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">Q</mi><mo>=</mo><msub><mi>KNO</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"bold\">W</mi><mo>=</mo><msub><mi>LiAlH</mi><mn>4</mn></msub></math>",
+        "image": null
+      },
+      {
+        "id": "yBBQw",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">R</mi><mo>=</mo></math>benzenamine,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">V</mi><mo>=</mo><mi>KCN</mi></math>",
+        "image": null
+      },
+      {
+        "id": "2xu1p",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">Q</mi><mo>=</mo><msub><mi>AgNO</mi><mn>2</mn></msub><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"bold\">R</mi><mo>=</mo></math> phenylmethanamine",
+        "image": null
+      },
+      {
+        "id": "5WHqj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold\">W</mi><mo>=</mo><msub><mi>LiAlH</mi><mn>4</mn></msub><mo>,</mo><mo>&#160;</mo><mi mathvariant=\"bold\">V</mi><mo>=</mo><mi>AgCN</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "5WHqj",
+    "solution_text": "<p><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/90db8e41-3403-4690-b579-51671bbaf568-imhhj.jpeg\" style=\"width: 700px; height: 240px;\" /></p>",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Isocyanides"
+  },
+  {
+    "question_id": "64b16a68f23ac7d519f9b420",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong> An organic acid <math><mi>P</mi><mi>&#160;</mi><mo>(</mo><msub><mrow><mi>C</mi></mrow><mrow><mn>11</mn></mrow></msub><msub><mrow><mi>H</mi></mrow><mrow><mn>12</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>)</mo></math> can easily be oxidized to a dibasic acid which reacts with ethyleneglycol to produce a polymer dacron. Upon ozonolysis, P gives an aliphatic ketone as one of the products. P undergoes the following reaction sequences to furnish R via Q. The compound P also undergoes another set of reactions to produce S.<br /><br /><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xqyzunzlolnsopunhofyoxjkkdfxqdnbggscpuvernhqpfatab.jpeg\" /><br /><br> <strong> Question : </strong>The compound R is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ewsvy",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uzaohizfzeadglltxaobqgsnjilkififfmdbmbpflsaroalfru.jpeg\" />",
+        "image": null
+      },
+      {
+        "id": "WfahJ",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pwivbhbenczdsglukaklrgfjrvuaejjwnghucfnlhqrollcmoi.jpeg\" />",
+        "image": null
+      },
+      {
+        "id": "1gkNT",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uzepipjjcgulpgarknmlravywistarmalixtzghraptybcxtok.jpeg\" />",
+        "image": null
+      },
+      {
+        "id": "NjWOC",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zxtnodoqariwxkhybtehjemoathfrhmjqxdcqvlwllipxleikc.jpeg\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "ewsvy",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/oltoczmmzjvqkskmxizesuqjzguarjweeoevzcvcetzzwmgrgv.jpeg\" />\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ntunolvhwcigcmyiiphdvusgdrthxhrruxontyolespyhfjmge.jpeg\" />\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ocbpohqejqdtnivltvatnmqpnnkydfpaqswnyhbfybbtxbjknj.jpeg\" />",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Isocyanides"
+  },
+  {
+    "question_id": "64b169c9f23ac7d519f9ae70",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "$\\mathrm{CH}_3 \\mathrm{NH}_2+\\mathrm{CHCl}_3+\\mathrm{KOH} \\rightarrow$ Nitrogen containing compound $+\\mathrm{KCl}+\\mathrm{H}_2 \\mathrm{O}$. Nitrogen containing compound is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CUji7",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/A_1q5aGunq7DPFBBiriEIrJRuKWB6MM1Gmr_iTQTi40.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "xbEo7",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SnKyxqtkwcHky7_hoLsc7piAoHmpbYECE7ke4-moDUI.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "aAFoi",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/BlpAWdMlMVe06WBukkkUJtiXPvvYJHs-7mVWhElMUWg.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "2KQAc",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5-QWyE3ce6q4seY-y3iZrqY6MBAJ2KAnD2fKv0G2h1w.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "2KQAc",
+    "solution_text": "$\\mathrm{CH}_3 \\mathrm{NH}_2+\\mathrm{CHCl}_3+3 \\mathrm{KOH} \\rightarrow \\mathrm{CH}_3 \\mathrm{NC}+3 \\mathrm{KCl}+3 \\mathrm{H}_2 \\mathrm{O}$ $\\mathrm{CH}_3 \\mathrm{NC}$ or $\\mathrm{CH}_3-\\mathrm{N}^{+} \\equiv \\overline{\\mathrm{C}}$ Methyl isocyanide or Methyl carbyl amine This reaction is an example of carbyl amine reaction and its is used for the distinction of $p$-amines with $s$ - and $t$-amines or identification of $p$-amino group.",
+    "solution_image": null,
+    "topic": "Preparation and Properties of Isocyanides"
+  }
+]

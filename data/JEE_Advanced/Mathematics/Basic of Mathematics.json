@@ -1,0 +1,167 @@
+[
+  {
+    "question_id": "64b169edf23ac7d519f9afc1",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Match the Statements/Expressions in Column I with the Statements/Expressions in Column II.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/NV6MxxlCrdeWHLs9r4Y0EOApcJx3jyAt7MA2okb20P0.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "b8qKo",
+        "text": "\n(A) r, (B) q,r, (C) s, (D) p,r\n",
+        "image": null
+      },
+      {
+        "id": "XhihE",
+        "text": "\n(A) s, (B) q,s, (C) r, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "YfPGY",
+        "text": "\n(A) s, (B) q,r, (C) s, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "Cosfd",
+        "text": "\n(A) r, (B) q,s, (C) r, (D) p,r",
+        "image": null
+      }
+    ],
+    "correct_answer": "Cosfd",
+    "solution_text": "(A) Let $y=\\frac{x^2+2 x+4}{x+2}$\n$$\n\\begin{aligned}\n& \\Rightarrow x^2+(2-y) x+(4-2 y)=0 \\\\\n& \\Rightarrow \\quad(2-y)^2-4(4-2 y) \\geq 0 \\\\\n& \\Rightarrow \\quad y^2+4 y-12 \\geq 0 \\\\\n& \\Rightarrow \\quad y \\leq-6, y \\geq 2 \\\\\n&\n\\end{aligned}\n$$\n$\\therefore$ Minimum value of $y$ is 2 .\n(B) Since, $(A+B)(A-B)=(A-B)(A+B)$\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad A^2-A B+B A-B^2=A^2+A B-B A-B^2 \\\\\n& \\Rightarrow \\quad A B=B A \\\\\n& \\text { and } \\quad(A B)^t=(-1)^k A B \\\\\n& \\Rightarrow \\quad B^t A^t=(-1)^k A B \\\\\n& \\Rightarrow \\quad-B A=(-1)^k A B \\quad\\left[\\because B^t=-B, A^t=A\\right] \\\\\n& \\Rightarrow \\quad B A=(-1)^{k+1} A B \\\\\n& \\Rightarrow \\quad(-1)^{k+1}=1 \\\\\n&\n\\end{aligned}\n$$\n\n$\\therefore k+1$ is even or $k$ is odd.\n(C) $1 < 2^{\\left(-k+3^{-a}\\right)} < 2 \\Rightarrow 0 < -k+3^{-a} < 1$\nGiven, $a=\\log _3 \\log _3 2 \\Rightarrow 3^a=\\log _3 2$\n$$\n\\begin{array}{lc}\n\\Rightarrow & 3^{-a}=\\log _2 3 \\\\\n\\therefore & k < \\log _2 3 < 2 \\\\\n\\text { and } & 1+k>\\log _2 3>1 \\Rightarrow k>0\n\\end{array}\n$$\nFrom Eqs. (ii) and (iii), $0 < k < 2 \\Rightarrow k=1$\n$[\\because k$ is an integer]\n$$\n\\begin{array}{rlrl}\n\\text { (D) } & \\sin \\theta & =\\cos \\phi \\\\\n\\Rightarrow & \\cos \\left(\\frac{\\pi}{2}-\\theta\\right) & =\\cos \\phi \\\\\n\\Rightarrow & \\frac{\\pi}{2}-\\theta & =2 n \\pi \\pm \\phi, n \\in Z \\\\\n\\Rightarrow & & \\theta \\pm \\phi-\\frac{\\pi}{2} & =-2 n \\pi, n \\in Z \\\\\n\\Rightarrow & & \\frac{1}{\\pi}\\left(\\theta \\pm \\phi-\\frac{\\pi}{2}\\right) & =-2 n, n \\in Z\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Inequalities"
+  },
+  {
+    "question_id": "66965dcdd603121f43a3e5d1",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Let $a=3 \\sqrt{2}$ and $b=\\frac{1}{5^{1 / 6} \\sqrt{6}}$. If $x, y \\in \\mathbb{R}$ are such that\n$\\begin{gathered}3 x+2 y=\\log _a(18)^{\\frac{5}{4}} \\\\2 x-y=\\log _b(\\sqrt{1080})\\end{gathered}$\nand then $4 x+5 y$ is equal to . ________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 8,
+    "solution_text": "$\\begin{aligned} & 3 x+2 y=\\log _{3 \\sqrt{2}}(3 \\sqrt{2})^{\\frac{5}{2}}=\\frac{5}{2} \\\\ & \\Rightarrow \\quad 6 x+4 y=5 \\quad \\ldots \\ldots(1)\\end{aligned}$\n$2 x-y=\\log _{\\frac{1}{5^{1 / 6} \\sqrt{6}}}\\left(5^{\\frac{1}{6}} \\sqrt{6}\\right)^3=-3$\n$\\begin{array}{ll}\\Rightarrow & 2 x-y=-3 \\quad.....(2)\\\\ & \\text { equation (1) }-(2) \\\\ \\Rightarrow \\quad & 4 x+5 y=8\\end{array}$",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "64b16a9ef23ac7d519f9b611",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "The product of all positive real values of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> satisfying the equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mfenced><mrow><mn>16</mn><msup><mfenced><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow></mfenced><mn>3</mn></msup><mo>-</mo><mn>68</mn><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow></mfenced></msup><mo>=</mo><msup><mn>5</mn><mrow><mo>-</mo><mn>16</mn></mrow></msup></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1",
+    "solution_text": "<blockquote><p>Taking log to the base <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math>&nbsp;on both sides</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>16</mn><msup><mfenced><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow></mfenced><mn>3</mn></msup><mo>-</mo><mn>68</mn><mfenced><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow></mfenced></mrow></mfenced><mfenced><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow></mfenced><mo>=</mo><mo>-</mo><mn>16</mn></math></p><p>Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow></mfenced><mo>=</mo><mi>t</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn><msup><mi>t</mi><mn>4</mn></msup><mo>-</mo><mn>68</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>4</mn><msup><mi>t</mi><mn>4</mn></msup><mo>-</mo><mn>16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfenced><mrow><mn>4</mn><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow></mfenced><mo>=</mo><mn>0</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>t</mi><mo>=</mo><mo>&#177;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mo>&#177;</mo><mn>2</mn></math></p><p>So <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi><mo>=</mo><mo>&#177;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math> or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#177;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><msup><mn>5</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></msup><mo>,</mo><mo>&#160;</mo><msup><mn>5</mn><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac></msup><mo>,</mo><mo>&#160;</mo><msup><mn>5</mn><mn>2</mn></msup><mo>,</mo><mo>&#160;</mo><msup><mn>5</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></p><p>Hence, the product is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>5</mn></msqrt><mo>&#215;</mo><mfrac><mn>1</mn><msqrt><mn>5</mn></msqrt></mfrac><mo>&#215;</mo><mn>25</mn><mo>&#215;</mo><mfrac><mn>1</mn><mn>25</mn></mfrac><mo>=</mo><mn>1</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "64b16a68f23ac7d519f9b428",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "The value of <math><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><mn>9</mn></mrow></mrow></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><mfenced separators=\"|\"><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><mn>9</mn></mrow></mrow></mrow></mfenced></mrow></mrow></mrow></mfrac></mrow></msup><mo>&#215;</mo><msup><mrow><mfenced separators=\"|\"><mrow><msqrt><mn>7</mn></msqrt></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow><mo>&#8289;</mo><mrow><mn>7</mn></mrow></mrow></mrow></mfrac></mrow></msup></math> is_____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "8",
+    "solution_text": "<math><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>⁡</mo><mrow><msup><mrow><mn>9</mn></mrow><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mo>⁡</mo><mrow><mn>9</mn></mrow></mrow></mrow></mfenced></mrow></mrow></mrow></mfrac></mrow></msup><mo>×</mo><msup><mrow><mn>7</mn></mrow><mrow><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mrow><mrow><msub><mrow><mi mathvariant=\"normal\">log</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow><mo>⁡</mo><mrow><mn>7</mn></mrow></mrow></mrow></mfrac></mrow></msup></mrow></mrow></math><br /><math> <mrow><mo>=</mo>  <msup>   <mrow>    <mrow><mo>(</mo>     <mrow>      <msub>       <mrow>        <mi>log</mi></mrow>       <mn>2</mn>      </msub>      <mn>9</mn></mrow>    <mo>)</mo></mrow></mrow>   <mrow>    <mn>2</mn><msub>     <mrow>      <mi>log</mi></mrow>     <mrow>      <mrow><mo>(</mo>       <mrow>        <msub>         <mrow>          <mi>log</mi></mrow>         <mn>2</mn>        </msub>        <mn>9</mn></mrow>      <mo>)</mo></mrow></mrow>    </msub>    <mn>2</mn></mrow>  </msup>  <mo>&#x00D7;</mo><msup>   <mn>7</mn>   <mrow>    <mfrac>     <mn>1</mn>     <mn>2</mn>    </mfrac>    <msub>     <mrow>      <mi>log</mi></mrow>     <mn>7</mn>    </msub>    <mn>4</mn></mrow>  </msup>  </mrow></math><br /><math> <mrow>  <mo>=</mo><msup>   <mrow>    <mrow><mo>(</mo>     <mrow>      <msub>       <mrow>        <mi>log</mi></mrow>       <mn>2</mn>      </msub>      <mn>9</mn></mrow>    <mo>)</mo></mrow></mrow>   <mrow>    <msub>     <mrow>      <mi>log</mi></mrow>     <mrow>      <mrow><mo>(</mo>       <mrow>        <msub>         <mrow>          <mi>log</mi></mrow>         <mn>2</mn>        </msub>        <mn>9</mn></mrow>      <mo>)</mo></mrow></mrow>    </msub>    <msup>     <mn>2</mn>     <mn>2</mn>    </msup>    </mrow>  </msup>  <mo>&#x00D7;</mo><msup>   <mn>7</mn>   <mrow>    <msub>     <mrow>      <mi>log</mi></mrow>     <mn>7</mn>    </msub>    <msup>     <mn>4</mn>     <mrow>      <mfrac>       <mn>1</mn>       <mn>2</mn>      </mfrac>      </mrow>    </msup>    </mrow>  </msup>  </mrow></math><br /><math> <mrow>  <mo>=</mo><msup>   <mn>2</mn>   <mn>2</mn>  </msup>  <mo>&#x00D7;</mo><msup>   <mn>4</mn>   <mrow>    <mfrac>     <mn>1</mn>     <mn>2</mn>    </mfrac>    </mrow>  </msup>  </mrow></math><br /><math><mo>=</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mn>4</mn><mo>×</mo><mn>2</mn><mo>=</mo><mn>8</mn></math>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "64b16a30f23ac7d519f9b223",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "<p>If&nbsp;<math> <mrow> <msup> <mn>3</mn> <mtext>x</mtext> </msup> <mo>=</mo> <msup> <mn>4</mn> <mrow> <mtext>x</mtext> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mrow> </math>,&nbsp;then x =</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MEEaW",
+        "text": "<math> <mrow> <mfrac> <mrow> <msub> <mtext>2 log</mtext> <mn>3</mn> </msub> <mn>2</mn> </mrow> <mrow> <msub> <mtext>2 log</mtext> <mn>3</mn> </msub> <mn>2</mn> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "TEKr3",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> </mrow> <mrow> <mn>2</mn> <mo>-</mo> <msub> <mtext>log</mtext> <mn>2</mn> </msub> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "ToOWG",
+        "text": "<math> <mrow> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>1</mn> <mo>-</mo> <msub> <mtext>log</mtext> <mn>4</mn> </msub> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "lu8i9",
+        "text": "<math> <mrow> <mfrac> <mrow> <msub> <mtext>2 log</mtext> <mn>2</mn> </msub> <mn>3</mn> </mrow> <mrow> <msub> <mtext>2 log</mtext> <mn>2</mn> </msub> <mn>3</mn> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "ToOWG",
+    "solution_text": "3<sup>x</sup> = 4<sup>x</sup><sup> - 1</sup><br />x = (x - 1) log<sub>3</sub> 4<br />x ( 1 - 2 log<sub>3</sub> 2) = -2log<sub>3</sub> 2<br /><math> <mrow> <mtext>x</mtext> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> <msub> <mtext>log</mtext> <mn>3</mn> </msub> <mn>2</mn> </mrow> <mrow> <mn>2</mn> <msub> <mtext>log</mtext> <mn>3</mn> </msub> <mn>2</mn> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </math><br />x log<sub>2</sub> 3 = (x - 1).2<br />x (log<sub>2</sub> 3 - 2) = -2<br /><math> <mrow> <mtext>x</mtext> <mo>=</mo> <mfrac> <mrow> <mn>2</mn> </mrow> <mrow> <mn>2</mn> <msub> <mrow> <mo>-</mo> <mtext>log</mtext> </mrow> <mn>2</mn> </msub> <mn>3</mn> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <mtext>x</mtext> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>1</mn> <mo>-</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <msub> <mtext>log</mtext> <mn>2</mn> </msub> <mn>3</mn> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> </mrow> <mrow> <mn>1</mn> <mo>-</mo> <msub> <mtext>log</mtext> <mn>4</mn> </msub> <mn>3</mn> </mrow> </mfrac> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Logarithm"
+  },
+  {
+    "question_id": "64b16a0ff23ac7d519f9b0f7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Let $\\left(x_0, y_0\\right)$ be the solution of the following equations $(2 x)^{\\log 2}=(3 y)^{\\log 3}$, $3^{\\log x}=2^{\\log y}$, then $x_0$ is equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "rIweA",
+        "text": "\n$\\frac{1}{6}$\n",
+        "image": null
+      },
+      {
+        "id": "Lwepk",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "QcTOM",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "cDfc0",
+        "text": "\n6",
+        "image": null
+      }
+    ],
+    "correct_answer": "QcTOM",
+    "solution_text": "Taking log on both sides,\n$$\n\\log 2 \\cdot \\log (2 x)=\\log 3(\\log 3 y)\n$$\n\n\n$$\n\\begin{array}{ll}\n\\Rightarrow & \\log 2\\{\\log 2+\\log x\\} \\\\\n& =\\log 3\\{\\log 3+\\log y\\} \\\\\n\\text { and } & \\log x \\cdot \\log 3=\\log y \\log 2 \\\\\n& \\log y=\\frac{\\log x \\cdot \\log 3}{\\log 2}\n\\end{array}\n$$\nFrom Eqs. (i) and (ii), we get\n$$\n\\begin{aligned}\n& \\log 2\\{\\log 2+\\log x\\} \\\\\n&=\\log 3 \\cdot\\left\\{\\log 3+\\frac{\\log x \\cdot \\log 3}{\\log 2}\\right\\} \\\\\n& \\Rightarrow \\quad(\\log 2)^2+\\log 2 \\cdot \\log x \\\\\n&=(\\log 3)^2+\\frac{(\\log 3)^2}{(\\log 2)} \\cdot \\log x \\\\\n& \\Rightarrow \\quad \\log x\\left\\{\\frac{(\\log 3)^2}{\\log 2}-\\log 2\\right\\} \\\\\n&=(\\log 2)^2-(\\log 3)^2\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad \\log x=-\\log 2=\\log 2^{-1} \\\\\n& \\therefore \\quad x=\\frac{1}{2}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Logarithm"
+  }
+]

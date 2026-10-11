@@ -1,0 +1,970 @@
+[
+  {
+    "question_id": "64b16a0cf23ac7d519f9b0dc",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "Bombardment of aluminium by $\\alpha$-particle leads to its artificial disintegration in two ways, (i) and (ii) as shown. Products $X, Y$ and $Z$ respectively are\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/NttJfS2pRzHJSAGvhz5rdWwpxT7jPV4BJtMEXjHfsVI.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "HLTUq",
+        "text": "\nproton, neutron, positron\n",
+        "image": null
+      },
+      {
+        "id": "PileE",
+        "text": "\nneutron, positron, proton\n",
+        "image": null
+      },
+      {
+        "id": "fppir",
+        "text": "\nproton, positron, neutron\n",
+        "image": null
+      },
+      {
+        "id": "tA7z0",
+        "text": "\npositron, proton, neutron",
+        "image": null
+      }
+    ],
+    "correct_answer": "HLTUq",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8N5KwQEz5Jq6ccdlQUbt_fj6SNJIACegYxEAcvQagW4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Atomic Mass and Atomic Size"
+  },
+  {
+    "question_id": "64b16a00f23ac7d519f9b06b",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "The number of neutrons emitted when ${ }_{92}^{235} \\mathrm{U}$ undergoes controlled nuclear fission to ${ }_{54}^{142} \\mathrm{Xe}$ and ${ }_{38}^{90} \\mathrm{Sr}$ is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "${ }_{92} \\mathrm{U}^{235} \\longrightarrow{ }_{54} \\mathrm{Xe}^{142}+{ }_{38} \\mathrm{Sr}^{90}+3{ }_0 n^1$\nNuclear chemistry\nBasic application\nII",
+    "solution_image": null,
+    "topic": "Atomic Mass and Atomic Size"
+  },
+  {
+    "question_id": "64b169f0f23ac7d519f9afdd",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "Given, that the abundances of isotopes, ${ }_{54} \\mathrm{Fe},{ }_{56} \\mathrm{~F}$ and ${ }_{57} \\mathrm{Fe}$ are $5 \\%$, $90 \\%$ and $5 \\%$, respectively, the atomic mass of $\\mathrm{Fe}$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OT4i7",
+        "text": "\n$55.85$\n",
+        "image": null
+      },
+      {
+        "id": "8bVDg",
+        "text": "\n$55.95$\n",
+        "image": null
+      },
+      {
+        "id": "a5ZLi",
+        "text": "\n$55.75$\n",
+        "image": null
+      },
+      {
+        "id": "H8KJe",
+        "text": "\n$56.05$",
+        "image": null
+      }
+    ],
+    "correct_answer": "8bVDg",
+    "solution_text": "Average atomic weight\n$$\n\\frac{54 \\times 5+56 \\times 90+57 \\times 5}{100}=55.95\n$$",
+    "solution_image": null,
+    "topic": "Atomic Mass and Atomic Size"
+  },
+  {
+    "question_id": "6a0be51644d287c9361e5cd5",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "$\\text{X}^{a+}$ and $\\text{Y}^{b+}$ are hydrogen-like species. The wavelength of light absorbed during the transition between the states with principal quantum numbers $n = 1$ and $n = 2$ of $\\text{X}^{a+}$ is $\\lambda$. The wavelength of light absorbed during the transition between the states with principal quantum numbers $n = 2$ and $n = 4$ of $\\text{Y}^{b+}$ is $9\\lambda$. The lowest possible value of $(a + b)$ is ____.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "For a hydrogen-like species, the wavelength of the absorbed light during a transition from $n_1$ to $n_2$ is given by the Rydberg formula:<br><br>$\\dfrac{1}{\\lambda} = R Z^2 \\left( \\dfrac{1}{n_1^2} - \\dfrac{1}{n_2^2} \\right)$<br><br>For $\\text{X}^{a+}$, the transition is from $n = 1$ to $n = 2$:<br><br>$\\dfrac{1}{\\lambda} = R Z_X^2 \\left( \\dfrac{1}{1^2} - \\dfrac{1}{2^2} \\right) = \\dfrac{3}{4} R Z_X^2 \\Rightarrow \\lambda = \\dfrac{4}{3 R Z_X^2}$<br><br>For $\\text{Y}^{b+}$, the transition is from $n = 2$ to $n = 4$:<br><br>$\\dfrac{1}{9\\lambda} = R Z_Y^2 \\left( \\dfrac{1}{2^2} - \\dfrac{1}{4^2} \\right) = R Z_Y^2 \\left( \\dfrac{1}{4} - \\dfrac{1}{16} \\right) = \\dfrac{3}{16} R Z_Y^2 \\Rightarrow 9\\lambda = \\dfrac{16}{3 R Z_Y^2}$<br><br>Substituting the expression for $\\lambda$ from the first equation into the second:<br><br>$9 \\left( \\dfrac{4}{3 R Z_X^2} \\right) = \\dfrac{16}{3 R Z_Y^2}$<br><br>$\\dfrac{12}{Z_X^2} = \\dfrac{16}{3 Z_Y^2}$<br><br>$36 Z_Y^2 = 16 Z_X^2$<br><br>$9 Z_Y^2 = 4 Z_X^2 \\Rightarrow 3 Z_Y = 2 Z_X$<br><br>$\\dfrac{Z_X}{Z_Y} = \\dfrac{3}{2}$<br><br>For the lowest possible integer values of atomic numbers, we get $Z_X = 3$ and $Z_Y = 2$.<br><br>Since $\\text{X}^{a+}$ and $\\text{Y}^{b+}$ are hydrogen-like species, they must contain exactly $1$ electron. Therefore, the charge on the ion is $(Z - 1)$.<br><br>For $\\text{X}^{a+}$ ($Z_X = 3$): $a = 3 - 1 = 2$<br><br>For $\\text{Y}^{b+}$ ($Z_Y = 2$): $b = 2 - 1 = 1$<br><br>The lowest possible value of $(a + b)$ is $2 + 1 = 3$.<br><br>Answer: $3$",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "6a0be51044d287c9361e5c9c",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "The 2s and the 2p orbital energies of hydrogen atom are $E_{2s}(\\text{H})$ and $E_{2p}(\\text{H})$, respectively. The 2s and the 2p orbital energies of lithium atom are $E_{2s}(\\text{Li})$ and $E_{2p}(\\text{Li})$, respectively. The correct option(s) about the orbital energies is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "l4nz2",
+        "text": "$E_{2s}(\\text{Li}) < E_{2p}(\\text{Li})$",
+        "image": null
+      },
+      {
+        "id": "868GU",
+        "text": "$E_{2s}(\\text{H}) = E_{2p}(\\text{H})$",
+        "image": null
+      },
+      {
+        "id": "zKBv5",
+        "text": "$E_{2p}(\\text{H}) < E_{2s}(\\text{Li})$",
+        "image": null
+      },
+      {
+        "id": "4eMC0",
+        "text": "$E_{2s}(\\text{H}) > E_{2s}(\\text{Li})$",
+        "image": null
+      }
+    ],
+    "correct_answer": "4eMC0",
+    "solution_text": "For hydrogen atom (a single-electron system), the energy of an orbital depends only on the principal quantum number $n$. Thus, the 2s and 2p orbitals are degenerate.<br><br>$E_{2s}(\\text{H}) = E_{2p}(\\text{H})$<br><br>For lithium atom (a multi-electron system), the energy depends on both $n$ and $l$. Due to the penetration effect, the 2s electron penetrates closer to the nucleus and experiences a higher effective nuclear charge than the 2p electron. Thus, the 2s orbital has lower energy than the 2p orbital.<br><br>$E_{2s}(\\text{Li}) < E_{2p}(\\text{Li})$<br><br>The energy of an orbital is given by $E \\propto -\\dfrac{Z_{\\text{eff}}^2}{n^2}$.<br><br>For hydrogen, $Z_{\\text{eff}} = 1$. For the 2s electron in lithium, the nuclear charge is $Z=3$, and it is shielded by the $1s^2$ electrons. The effective nuclear charge $Z_{\\text{eff}}$ for the 2s electron in Li is greater than 1 (approximately 1.3).<br><br>Since $Z_{\\text{eff}}(\\text{Li}, 2s) > Z_{\\text{eff}}(\\text{H}, 2s)$, the energy of the 2s orbital in Li is more negative than that in H.<br><br>$E_{2s}(\\text{Li}) < E_{2s}(\\text{H}) \\Rightarrow E_{2s}(\\text{H}) > E_{2s}(\\text{Li})$<br><br>Since $E_{2p}(\\text{H}) = E_{2s}(\\text{H})$, we also have $E_{2p}(\\text{H}) > E_{2s}(\\text{Li})$.<br><br>Answer: $E_{2s}(\\text{Li}) < E_{2p}(\\text{Li})$; $E_{2s}(\\text{H}) = E_{2p}(\\text{H})$; $E_{2s}(\\text{H}) > E_{2s}(\\text{Li})$",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "66965dded603121f43a4235d",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "According to Bohr's model, the highest kinetic energy is associated with the electron in the",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oEqzT",
+        "text": "first orbit of H atom",
+        "image": null
+      },
+      {
+        "id": "Li2HA",
+        "text": "first orbit of He+",
+        "image": null
+      },
+      {
+        "id": "lQZyL",
+        "text": "second orbit of He+",
+        "image": null
+      },
+      {
+        "id": "XVwxl",
+        "text": "second orbit of Li2+",
+        "image": null
+      }
+    ],
+    "correct_answer": "Li2HA",
+    "solution_text": "$K E=+13.6 \\times \\frac{Z^2}{n^2}$\n(A) $\\mathrm{KE}_{1,11}=+13.6 \\times \\frac{1^2}{1^2}=13.6 \\mathrm{eV}$\n(B) $\\mathrm{KE}_{1, \\mathrm{Hc}}=+13.6 \\times \\frac{2^2}{1^2}=13.6 \\times 4 \\mathrm{eV}$\n(C) $\\mathrm{KE}_{2, \\mathrm{He}^{+}}=+13.6 \\times \\frac{2^2}{2^2}=13.6 \\mathrm{eV}$\n(D) $\\mathrm{KE}_{2, \\mathrm{Li}}{ }^{\\mathrm{i}^{+}}=+13.6 \\times \\frac{3^2}{2^2}=13.6 \\times \\frac{9}{4} \\mathrm{eV}$",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "66965dc0d603121f43a3b36c",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "Among the following, the correct statement(s) for electrons in an atom is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "CkFQa",
+        "text": "Uncertainty principle rules out the existence of definite paths for electrons.",
+        "image": null
+      },
+      {
+        "id": "rc3Pc",
+        "text": "The energy of an electron in $2 s$ orbital of an atom is lower than the energy of an electron that is infinitely far away from the nucleus.",
+        "image": null
+      },
+      {
+        "id": "PrKTs",
+        "text": "According to Bohr's model, the most negative energy value for an electron is given by $\\mathrm{n}=1$, which corresponds to the most stable orbit.",
+        "image": null
+      },
+      {
+        "id": "VJtro",
+        "text": "According to Bohr's model, the magnitude of velocity of electrons increases with increase in values of $n$.",
+        "image": null
+      }
+    ],
+    "correct_answer": "PrKTs",
+    "solution_text": "(1) Uncertainity principle talks about probability of finding electrons in different regions around the nucleus rather than definite paths.\n(2) With increase in distance of electron from the nucleus, its energy increases.\n(3) Energy of electron $E_n=-13.6 \\times \\frac{\\mathrm{Z}^2}{\\mathrm{n}^2} \\mathrm{eV} /$ atom.\n(4) Velocity of electron $V_n=2.19 \\times 10^6 \\times \\frac{Z}{n} \\mathrm{~m} / \\mathrm{sec}$.",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16aa9f23ac7d519f9b670",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "<p>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>He</mi><mo>+</mo></msup></math>, a transition takes place from the orbit of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>105</mn><mo>.</mo><mn>8</mn><mi>pm</mi></math> to the orbit of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>26</mn><mo>.</mo><mn>45</mn><mi>pm</mi></math>. The wavelength (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>nm</mi></math> ) of the emitted photon during the transition is</p><p>Bohr radius, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">a</mi><mo>=</mo><mn>52</mn><mo>.</mo><mn>9</mn><mo>&#160;</mo><mi>pm</mi></math><br />Rydberg constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi></msub><mo>=</mo><mn>2</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>18</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi></math><br />Planck&#39;s constant, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">h</mi><mo>=</mo><mn>6</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>34</mn></mrow></msup><mi>Js</mi></math><br />Speed of light, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">c</mi><mo>=</mo><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup><mo>&#160;</mo><msup><mi>ms</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> ]</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "30",
+    "solution_text": "<blockquote><p>The radius of the n<sup>th</sup>&nbsp;orbit can be represented as,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi><mo>=</mo><mn>52</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><mfrac><msup><mi mathvariant=\"normal\">n</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mfrac><mi>pm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;&#160;</mo><mn>105</mn><mo>.</mo><mn>8</mn><mo>=</mo><mfrac><mrow><mn>52</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><msup><mi mathvariant=\"normal\">n</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac><mo>&#160;&#160;</mo><mo>&#8756;</mo><msub><mi mathvariant=\"normal\">n</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn></math></p><p>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>26</mn><mo>.</mo><mn>45</mn><mo>=</mo><mn>52</mn><mo>.</mo><mn>9</mn><mo>&#215;</mo><mfrac><msup><mi mathvariant=\"normal\">n</mi><mn>2</mn></msup><mn>2</mn></mfrac><mo>&#160;&#160;</mo><mo>&#8756;</mo><msub><mi mathvariant=\"normal\">n</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mi>&#916;E</mi><mo>=</mo><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi></msub><mi>hC</mi><mo>&#215;</mo><msup><mi mathvariant=\"normal\">z</mi><mn>2</mn></msup><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">n</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>-</mo><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">n</mi><mn>2</mn><mn>2</mn></msubsup></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>hc</mi><mi mathvariant=\"normal\">&#955;</mi></mfrac><mo>=</mo><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">H</mi></msub><mi>hC</mi><mo>&#215;</mo><msup><mi mathvariant=\"normal\">z</mi><mn>2</mn></msup><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">n</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>-</mo><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">n</mi><mn>2</mn><mn>2</mn></msubsup></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>34</mn></mrow></msup><mo>&#215;</mo><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup></mrow><mi>&#955;</mi></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>18</mn></mrow></msup><mo>&#215;</mo><mn>4</mn><mo>&#215;</mo><mfenced close=\"]\" open=\"[\"><mrow><mfrac><mn>1</mn><mn>1</mn></mfrac><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>34</mn></mrow></msup><mo>&#215;</mo><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mn>8</mn></msup></mrow><mi>&#955;</mi></mfrac><mo>=</mo><mn>2</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>18</mn></mrow></msup><mo>&#215;</mo><mn>4</mn><mo>&#215;</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>&#955;</mi><mo>=</mo><mn>300</mn><mo>&#160;</mo><mi mathvariant=\"normal\">A</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi mathvariant=\"normal\">&#955;</mi><mo>=</mo><mn>30</mn><mo>&#160;</mo><mi>nm</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a85f23ac7d519f9b52c",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "The figure below is the plot of potential energy versus internuclear distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo></math> of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub></math> molecule in the electronic ground state. What is the value of the net potential energy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">E</mi><mn>0</mn></msub></math> (as indicated in the figure) in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>kJ</mi><mo> </mo><msup><mi>mol</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>,</mo></math> for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">d</mi><mo>=</mo><msub><mi mathvariant=\"normal\">d</mi><mn>0</mn></msub></math> at which the electron-electron repulsion and the nucleus-nucleus repulsion energies are absent? As reference, the potential energy of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math> atom is taken as zero when its electron and the nucleus are infinitely far apart.\r\n\r\nUse Avogadro constant as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>.023</mo><mo>×</mo><msup><mn>10</mn><mn>23</mn></msup><mo> </mo><msup><mi>mol</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8e4d1137-096f-418b-821a-2578e86e44a0-image.png\"/>\r\nMark total potential energy for 2 H-atom (per mole) as answer.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "-5246.5",
+    "solution_text": "<p>For one <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">H</mi></math> atom</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>.</mo><mi mathvariant=\"normal\">E</mi><mo>.</mo><mtext>&#8196;</mtext><mo>=-</mo><mfrac><mrow><msub><mi>kq</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">q</mi><mn>2</mn></msub></mrow><mi mathvariant=\"normal\">r</mi></mfrac><mo>=-</mo><mfrac><mrow><mn>9</mn><mo>&#215;</mo><msup><mn>10</mn><mn>9</mn></msup><mo>&#215;</mo><msup><mfenced open=\"[\" close=\"]\"><mrow><mn>1</mn><mo>.6</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>19</mn></mrow></msup></mrow></mfenced><mn>2</mn></msup></mrow><mrow><mn>0</mn><mo>.529</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>10</mn></mrow></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=-</mo><mfrac><mrow><mn>9</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><mn>1</mn><mo>.</mo><mn>6</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>529</mn></mrow></mfrac><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>19</mn></mrow></msup></math></p><p>Total potential energy for 2 H-atom (per mole)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=-</mo><mfrac><mrow><mn>2</mn><mo>&#215;</mo><mn>9</mn><mo>&#215;</mo><mn>1</mn><mo>.6</mo><mo>&#215;</mo><mn>1</mn><mo>.6</mo></mrow><mrow><mn>0</mn><mo>.529</mo></mrow></mfrac><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>19</mn></mrow></msup><mo>&#215;</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>23</mn></msup><mo>=</mo><mn>-5246</mn><mo>.5</mo><mtext>&#8196;</mtext><mi>kJ</mi><mo>/</mo><mi>mole</mi></math></p>",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a79f23ac7d519f9b4c1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Consider the Bohr&#39;s model of a one-electron atom where the electron moves around the nucleus. In the following List-I contains some quantities for the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit of the atom and List-II contains options showing how they depend on <math><mi>n</mi></math> .<br />&nbsp;<table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th><strong>List - I</strong></th>\t\t\t<th><strong>List - II</strong></th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td>(I) Radius of the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(II) Angular momentum of the electron in the <math><msup><mrow><mi>n</mi></mrow><mrow><mi>t</mi><mi>h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Q</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(III) Kinetic energy of the electron in the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>0</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(IV) Potential energy of the electron in the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">U</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>2</mn></mrow></mrow></mrow></msup></math></td>\t\t</tr>\t</tbody></table><br />Which of the following options has the correct combination considering List-I and List-II?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ryvry",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "KJiOu",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Q</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "5VESY",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">V</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">U</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "kTU3L",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kTU3L",
+    "solution_text": "According to Bohr’s atomic model: <br/>Radius of orbit <math><mo>∝</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></math>  <br/>Angular Momentum <math><mo>∝</mo><mi>n</mi></math>  <br/>Kinetic energy <math><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>  <br/>Potential energy <math><mo>∝</mo><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a79f23ac7d519f9b4c0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "Consider the Bohr&#39;s model of a one-electron atom where the electron moves around the nucleus. In the following List-I contains some quantities for the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit of the atom and List-II contains options showing how they depend on <math><mi>n</mi></math> .<br />&nbsp;<table border=\"1px solid\">\t<thead>\t\t<tr>\t\t\t<th><strong>List - I</strong></th>\t\t\t<th><strong>List - II</strong></th>\t\t</tr>\t</thead>\t<tbody>\t\t<tr>\t\t\t<td>(I) Radius of the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(II) Angular momentum of the electron in the <math><msup><mrow><mi>n</mi></mrow><mrow><mi>t</mi><mi>h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Q</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(III) Kinetic energy of the electron in the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>0</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(IV) Potential energy of the electron in the <math><msup><mrow><mi>n</mi></mrow><mrow><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi></mrow></msup></math> orbit</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">S</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">U</mi></mrow></mfenced></math> <math><mo>&#8733;</mo><msup><mrow><mi>n</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>2</mn></mrow></mrow></mrow></msup></math></td>\t\t</tr>\t</tbody></table><br />Which of the following options has the correct combination considering List-I and List-II?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "J7DZv",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "Ayljv",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "DB3D9",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "6Y3bo",
+        "text": "<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mfenced><mo>,</mo><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Q</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "DB3D9",
+    "solution_text": "According to Bohr’s atomic model: <br/>Radius of orbit <math><mo>∝</mo><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></math>  <br/>Angular Momentum <math><mo>∝</mo><mi>n</mi></math>  <br/>Kinetic energy <math><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>  <br/>Potential energy <math><mo>∝</mo><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a42f23ac7d519f9b2c7",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "Not considering the electronic spin, the degeneracy of the second excited state (n = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>) of H atom is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn></math>, while the degeneracy of the second excited state of <math><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>-</mo></mrow></msup></math> is :",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "Energy order of orbitals of H is decided by only principle quantum number (n) while energy order of <math><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>-</mo></mrow></msup></math> is decided by <math><mo>(</mo><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"script\">l</mi><mo>)</mo></math> rule:<br />Electronic configuration of <math><mi mathvariant=\"normal\">&#8242;</mi><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>-</mo></mrow></msup><mi mathvariant=\"normal\">&#8242;</mi></math> is <math><mo>-</mo><mn>1</mn><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mn>2</mn></mrow></msup></math> its energy order is decided by <math><mi mathvariant=\"normal\">n</mi><mo>+</mo><mi mathvariant=\"script\">l</mi></math> rule.<br /><math><msup><mrow><mi mathvariant=\"normal\">H</mi></mrow><mrow><mo>-</mo></mrow></msup><mo>=</mo><mn>1</mn><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mn>2</mn></mrow></msup><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">s</mi></mrow><mrow><mn>0</mn></mrow></msup><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">p</mi></mrow><mrow><mn>0</mn></mrow></msup></math><br />Its <math><msup><mrow><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi></mrow></msup><mi mathvariant=\"normal\">&#160;</mi></math> excited state is 2p<br />And degeneracy <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">p</mi><mo>&#160;</mo><mi>is</mi><mo>&#160;</mo><mn>3</mn></math>.",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a1af23ac7d519f9b15b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "The kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is $\\left[a_{0}\\right.$ is Bohr radius $]$ :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "z86lu",
+        "text": "$\\frac{h^{2}}{4 \\pi^{2} m a_{0}^{2}}$",
+        "image": null
+      },
+      {
+        "id": "iDtia",
+        "text": "$\\frac{h^{2}}{16 \\pi^{2} m a_{0}^{2}}$",
+        "image": null
+      },
+      {
+        "id": "YseRt",
+        "text": "$\\frac{h^{2}}{32 \\pi^{2} m a_{0}^{2}}$",
+        "image": null
+      },
+      {
+        "id": "qPjyl",
+        "text": "$\\frac{h^{2}}{64 \\pi^{2} m a_{0}^{2}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "YseRt",
+    "solution_text": "As per Bohr's postulate,\r\n\r\n$\\begin{array}{l}\r\n\r\nm v r=\\frac{n h}{2 \\pi} \\quad \\text { So, } v=\\frac{n h}{2 \\pi m r} \\\\\r\n\r\n\\mathrm{KE}=\\frac{1}{2} m v^{2} \\quad \\text { So, } \\mathrm{KE}=\\frac{1}{2} m\\left(\\frac{n h}{2 \\pi m r}\\right)^{2}\r\n\r\n\\end{array}$\r\n\r\n$\\text { Since, } r=\\frac{a_{\\mathrm{o}} \\times n^{2}}{z}$\r\n\r\nSo, for $2^{\\text {nd }}$ Bohr orbit\r\n\r\n$\\begin{array}{l}\r\n\r\nr=\\frac{a_{\\mathrm{o}} \\times 2^{2}}{1}=4 a_{\\mathrm{o}} \\\\\r\n\r\n\\mathrm{KE}=\\frac{1}{2} m\\left(\\frac{2^{2} h^{2}}{4 \\pi^{2} m^{2} \\times\\left(4 a_{\\mathrm{o}}\\right)^{2}}\\right)=\\frac{h^{2}}{32 \\pi^{2} m a_{\\mathrm{o}}^{2}}\r\n\r\n\\end{array}$",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a07f23ac7d519f9b0ae",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe hydrogen-like species $\\mathrm{Li}^{2+}$ is in a spherically symmetric state $S_1$ with one radial node. Upon absorbing light the ion undergoes transition to a state $S_2$. The state $S_2$ has one radial node and its energy is equal to the ground state energy of the hydrogen atom.<strong>Question:</strong>\nEnergy of the state $S_1$ in units of the hydrogen atom ground state energy is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "K8uOF",
+        "text": "\n$0.75$\n",
+        "image": null
+      },
+      {
+        "id": "LnAZb",
+        "text": "\n$1.50$\n",
+        "image": null
+      },
+      {
+        "id": "cax1Y",
+        "text": "\n$2.25$\n",
+        "image": null
+      },
+      {
+        "id": "dR6jG",
+        "text": "\n$4.50$",
+        "image": null
+      }
+    ],
+    "correct_answer": "cax1Y",
+    "solution_text": "Energy of state, $S_1=-13.6\\left(\\frac{3^2}{2^2}\\right) \\mathrm{eV} /$ atom $=\\frac{9}{4}$ of energy of $\\mathrm{H}$-atom in ground state $=2.25$ of energy of $\\mathrm{H}$-atom in ground state",
+    "solution_image": null,
+    "topic": "Bohr's model"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b59f",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Consider a helium <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>He</mi></mfenced></math> atom that absorbs a photon of wavelength <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>330</mn><mo>&#160;</mo><mi>nm</mi></math>. The change in the velocity (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cm</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>He</mi></math> atom after the photon absorption is ______ .<br />(Assume: Momentum is conserved when photon is absorbed.<br />Use: Planck constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>.</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>34</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">J</mi><mo>&#160;</mo><mi mathvariant=\"normal\">s</mi></math>, Avocados number <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>23</mn></msup><msup><mrow><mo>&#160;</mo><mi>mol</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, Molar mass of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>He</mi><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi mathvariant=\"normal\">g</mi><msup><mrow><mo>&#160;</mo><mi>mol</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "30",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#955;</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mv</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">&#955;</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">v</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">h</mi><mi>m&#955;</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">v</mi><mo>=</mo><mfrac><mrow><mn>6</mn><mo>.6</mo><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>34</mn></mrow></msup><mo>&#215;</mo><mn>6</mn><mo>&#215;</mo><msup><mn>10</mn><mn>23</mn></msup></mrow><mrow><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>330</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>9</mn></mrow></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">v</mi><mo>=</mo><mn>3</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>/</mo><mi mathvariant=\"normal\">s</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">v</mi><mo>=</mo><mn>30</mn><mo>&#160;</mo><mi>cm</mi><mo>/</mo><mi mathvariant=\"normal\">s</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi mathvariant=\"normal\">v</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">f</mi></msub><mo>-</mo><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">i</mi></msub><mo>=</mo><mi mathvariant=\"normal\">v</mi><mo>-</mo><mn>0</mn><mo>=</mo><mi mathvariant=\"normal\">v</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>30</mn><mo>&#160;</mo><mi>cm</mi><mo>/</mo><mi mathvariant=\"normal\">s</mi></math></p>",
+    "solution_image": null,
+    "topic": "Dual Behaviour of Matter and Heisenberg Uncertainty Principle"
+  },
+  {
+    "question_id": "64b16a29f23ac7d519f9b1e1",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "The atomic masses of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>He</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ne</mi></math>&nbsp;are <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#160;</mo><mi>amu</mi></math>, respectively. The value of the de Broglie wavelength of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>He</mi></math> gas at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>73</mn><mo>&#176;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi></math> is &quot;M&quot; times that of the de Broglie&nbsp;wavelength of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ne</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>727</mn><mo>&#176;</mo><mo>&#160;</mo><mi mathvariant=\"normal\">C</mi></math>. M is:",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "DeBroglie wave length is given as<br /><math> <mrow> <mi>&lambda;</mi> <mo>=</mo> <mfrac> <mrow> <mtext>h</mtext> </mrow> <mrow> <msqrt> <mn>2</mn> <mtext>m</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>K.E</mtext> </mrow> </mfenced> </msqrt> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mtext>h</mtext> </mrow> <mrow> <msqrt> <mn>2</mn> <mtext>m</mtext> <mfrac> <mrow> <mn>3</mn> </mrow> <mrow> <mn>2</mn> </mrow> </mfrac> <msub> <mtext>k</mtext> <mtext>b</mtext> </msub> <mo>&middot;</mo> <mtext>T</mtext> </msqrt> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mtext>h</mtext> </mrow> <mrow> <msqrt> <msub> <mtext>3 k</mtext> <mtext>b</mtext> </msub> <mtext>m T</mtext> </msqrt> </mrow> </mfrac> </mrow> </math><br /><math> <mrow> <msub> <mtext>k</mtext> <mtext>b</mtext> </msub> </mrow> </math> is Boltzmann&#39;s constant<br /><math> <mrow> <msub> <mi>&lambda;</mi> <mtext>He</mtext> </msub> <mo>=</mo> <mfrac> <mrow> <mtext>h</mtext> </mrow> <mrow> <msqrt> <msub> <mtext>3 k</mtext> <mtext>b</mtext> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>2</mn> <mn>0</mn> <mn>0</mn> </mrow> </mfenced> <mn>4</mn> <mo>&times;</mo> <mtext>1.66</mtext> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>2</mn> <mn>7</mn> </mrow> </msup> </msqrt> </mrow> </mfrac> <mo>}</mo> <mtable> <mtr> <mtd> <mtext>T</mtext> <mo>=</mo> <mtext>200 K</mtext> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>m</mtext> <mtext>He</mtext> </msub> <mo>=</mo> <mn>4</mn> <mo>&times;</mo> <mtext>1.66</mtext> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>2</mn> <mn>7</mn> </mrow> </msup> <mtext>&nbsp;kgs</mtext> </mtd> </mtr> </mtable> </mrow> </math><br /><math> <mrow> <msub> <mi>&lambda;</mi> <mtext>Ne</mtext> </msub> <mo>=</mo> <mfrac> <mrow> <mtext>h</mtext> </mrow> <mrow> <msqrt> <msub> <mtext>3 k</mtext> <mtext>b</mtext> </msub> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mn>1</mn> <mn>0</mn> <mn>0</mn> <mn>0</mn> </mrow> </mfenced> <mn>2</mn> <mn>0</mn> <mo>&times;</mo> <mtext>1.66</mtext> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>2</mn> <mn>7</mn> </mrow> </msup> </msqrt> </mrow> </mfrac> <mo>}</mo> <mtable> <mtr> <mtd> <mtext>T</mtext> <mo>=</mo> <mtext>1000 K</mtext> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>m</mtext> <mtext>Ne</mtext> </msub> <mo>=</mo> <mn>2</mn> <mn>0</mn> <mo>&times;</mo> <mtext>1.66</mtext> <mo>&times;</mo> <mn>1</mn> <msup> <mn>0</mn> <mrow> <mo>-</mo> <mn>2</mn> <mn>7</mn> </mrow> </msup> <mtext>&nbsp;kgs</mtext> </mtd> </mtr> </mtable> </mrow> </math><br /><math> <mrow> <mfrac> <mrow> <msub> <mi>&lambda;</mi> <mtext>He</mtext> </msub> </mrow> <mrow> <msub> <mi>&lambda;</mi> <mtext>Ne</mtext> </msub> </mrow> </mfrac> <mo>=</mo> <msqrt> <mfrac> <mrow> <mn>1</mn> <mn>0</mn> <mn>00</mn> <mo>&times;</mo> <mn>2</mn> <mn>0</mn> </mrow> <mrow> <mn>2</mn> <mn>0</mn> <mn>0</mn> <mo>&times;</mo> <mn>4</mn> </mrow> </mfrac> </msqrt> <mo>=</mo> <msqrt> <mn>2</mn> <mn>5</mn> </msqrt> <mo>=</mo> <mn>5</mn> </mrow> </math>",
+    "solution_image": null,
+    "topic": "Dual Behaviour of Matter and Heisenberg Uncertainty Principle"
+  },
+  {
+    "question_id": "64b16a0ef23ac7d519f9b0ef",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The work function ( $\\Phi$ ) of some metals is listed below. The number of metals which will show photoelectric effect when light of $300 \\mathrm{~nm}$ wavelength falls on the metal is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qjg8-cy_nIyPUEtxddRWQLX42FJA540xJOu1flYoXEk.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "Energy of photon $=\\frac{h c}{\\lambda} \\mathrm{J}=\\frac{h c}{e \\lambda} \\mathrm{eV}=\\frac{6.625 \\times 10^{-34} \\times 3 \\times 10^8}{300 \\times 10^{-9} \\times 1.602 \\times 10^{-19}}=4.14 \\mathrm{eV}$\nFor photoelectric effect to occur, energy of incident photons must be greater than work function of metal. Hence, only $\\mathrm{Li}, \\mathrm{Na}, \\mathrm{K}$ and $\\mathrm{Mg}$ have work functions less than $4.14 \\mathrm{~V}$.",
+    "solution_image": null,
+    "topic": "Dual Behaviour of Matter and Heisenberg Uncertainty Principle"
+  },
+  {
+    "question_id": "64b169ccf23ac7d519f9ae8e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "According to Bohr's theory $E_n=$ Total energy, $K_n=$ Kinetic energy, $V_n=$ Potential energy, $r_n=$ Radius of $n$th orbit\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Cb6U5AB4zBiuysMvwpBDhXLurpODMACUGrh8ZacVi7c.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "wY2sr",
+        "text": "\n(A) R, (B) Q, (C) P, (D) Q\n",
+        "image": null
+      },
+      {
+        "id": "qtOjF",
+        "text": "\n(A) S, (B) R, (C) R, (D) S\n",
+        "image": null
+      },
+      {
+        "id": "FCnt0",
+        "text": "\n(A) R, (B) Q, (C) P, (D) S\n",
+        "image": null
+      },
+      {
+        "id": "K12L8",
+        "text": "\n(A) S, (B) P, (C) R, (D) Q",
+        "image": null
+      }
+    ],
+    "correct_answer": "FCnt0",
+    "solution_text": "According to Bohr's theory,\nTotal energy is $E_n=K_n+V_n$\nKinetic energy $=K_n=\\frac{1}{8 \\pi \\varepsilon_0} \\cdot \\frac{Z e^2}{r}$\nPotential energy $=V_n=\\frac{1}{4 \\pi \\varepsilon_0} \\cdot \\frac{Z e^2}{r}$\n$\\therefore \\quad E_n=\\frac{1}{8 \\pi \\varepsilon_0} \\cdot \\frac{Z e^2}{r}-\\frac{1}{4 \\pi \\varepsilon_0} \\cdot \\frac{Z e^2}{r}$\nRadius of $n$th orbit $\\left(r_n\\right)=\\frac{n^2 h^2 \\varepsilon_0}{\\pi m Z e^2}$ $$ E_n=-\\frac{m e^4}{8 \\varepsilon_0^2 h^2} \\times \\frac{1}{n^2} $$ (A) $\\frac{V_n}{K_n}=\\frac{-\\frac{1}{4 \\pi \\varepsilon_0} \\cdot \\frac{Z e^2}{r}}{\\frac{1}{8 \\pi \\varepsilon_0} \\cdot \\frac{Z e^2}{r}}=-2$\nHence, $(A)$ match with $(R)$.\n(B) $E_n \\propto \\frac{1}{n^2}$ or $E_n \\propto \\frac{1}{r_n}$\nRadius of $n$th orbit $r_n \\propto E_n^x$ $\\therefore \\quad x=-1$\nHence, (B) match with (Q).\n(C) Angular momentum $=\\frac{h}{2 \\pi} \\sqrt{l(l+1) l}=0,1,2, \\ldots$\nFor the lower orbit $n=1$\n$\\therefore \\quad l=0$ and $m=0$\nHence, angular momentum of lowest orbit $=\\frac{h}{2 \\pi} \\sqrt{0(0 H)}=0$\n(C) match with (P)\n(D) $\\frac{1}{r^n} \\propto Z^y$ as $r_n \\propto \\frac{1}{Z} \\therefore y=1$\nHence, (D) match with (S).",
+    "solution_image": null,
+    "topic": "Dual Behaviour of Matter and Heisenberg Uncertainty Principle"
+  },
+  {
+    "question_id": "64b16a36f23ac7d519f9b259",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "In an atom, the total number of electrons having quantum numbers <math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>|</mo><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub><mo>|</mo><mo>=</mo><mn>1</mn></math> and <math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>=</mo><mo>&#8211;</mo><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>2</mn></mrow></mrow></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<math><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn><mi mathvariant=\"normal\">&#160;</mi></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>0,1</mn><mo>,</mo><mn>2,3</mn></math><br /><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub></mrow></mfenced><mo>=</mo><mn>1</mn><mo>&#8658;</mo><mo>&#177;</mo><mn>1</mn></math><br /><math><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi></mrow></msub><mo>=</mo><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br />For <math><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub><mo>=</mo><mn>0</mn></math><br /><math><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub><mo>=</mo><mo>-</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><mn>1</mn></math><br /><math><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub><mo>=</mo><mo>-</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>,</mo><mo>+</mo><mn>1</mn><mo>,</mo><mo>+</mo><mn>2</mn></math><br /><math><mi mathvariant=\"script\">l</mi><mo>=</mo><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub><mo>=</mo><mo>-</mo><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>-</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>-</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><mn>2</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mo>+</mo><mn>3</mn><mi mathvariant=\"normal\">&#160;</mi></math><br />So, six electrons can have <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mi mathvariant=\"script\">l</mi></mrow></msub></mrow></mfenced><mo>=</mo><mn>1</mn></math> &amp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">s</mi></msub><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math> .<br />&nbsp;",
+    "solution_image": null,
+    "topic": "Electronic configuration"
+  },
+  {
+    "question_id": "64b16a06f23ac7d519f9b0a0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Assuming that Hund's rule is violated, the bond order and magnetic nature of the diatomic molecule $\\mathrm{B}_2$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "6WKJU",
+        "text": "\n1 and diamagnetic\n",
+        "image": null
+      },
+      {
+        "id": "hSuYx",
+        "text": "\n0 and diamagnetic\n",
+        "image": null
+      },
+      {
+        "id": "XIkpf",
+        "text": "\n1 and paramagnetic\n",
+        "image": null
+      },
+      {
+        "id": "uoSQw",
+        "text": "\n0 and paramagnetic",
+        "image": null
+      }
+    ],
+    "correct_answer": "6WKJU",
+    "solution_text": "$\\mathrm{B}_2$ : Total electrons $=10$\nConfiguration : $\\sigma 1 s^2 \\sigma^* 1 s^2 \\sigma 2 s^2 \\sigma^* 2 s^2 \\pi 2 p_x^1=\\pi 2 p_y^1$\nIf Hunds rule is violated, then\n$$\n\\sigma 1 s^2 \\sigma^* 1 s^2 \\sigma 2 s^2 \\sigma^* 2 s^2 \\quad \\pi 2 p_x^2=\\pi 2 p_y^0\n$$\nSo, diamagnetic\n$$\n\\text { Bond order }=\\frac{6-4}{2}=1\n$$\nChemical bonding\nConceptual\nII",
+    "solution_image": null,
+    "topic": "Electronic configuration"
+  },
+  {
+    "question_id": "64b169e2f23ac7d519f9af5e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "Statement 1 The plot of atomic number ( $Y$-axis) versus number of neutrons ( $x$-axis) for stable nuclei shows a curvature towards $X$-axis from the line of $45^{\\circ}$ slope as the atomic number is increased.\nStatement 2 Proton-proton electrostatic repulsions begin to overcome attractive forces involving protons and neutrons in heavier nuclides.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YVhHd",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "Gvsom",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "44NRv",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "IBYjf",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "YVhHd",
+    "solution_text": "The stability relationship can be represented by a line with a slope of $45^{\\circ}$, i.e. the maximum stability is attained, when $N=Z$.\nRight or the curve a radioactive nuclide would be neutron rich and would decay be $\\beta$-emission to produce a daughter nucleus with a lower $\\frac{n}{p}$ ratio.\nFor heavier nuclides, $p-p$ repulsions start to offset the attractive forces and an excess of neutrons over protons, is required for stability\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Py3NCU1zmM9XeBrO2-gMDPphNiQtSfAi1bDOb_oNNgk.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Hydrogen spectrum"
+  },
+  {
+    "question_id": "64b169dbf23ac7d519f9af1c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I Band gap in germanium is small.\nStatement II The energy spread of each germanium atomic energy level is infinitesimally small.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "JcZO3",
+        "text": "\nStatement I is true, Statement II is true, Statement II is a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "YoxGl",
+        "text": "\nStatement I is true, Statement II is true, Statement II is not a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "bH0Vn",
+        "text": "\nStatement-I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "xZXNE",
+        "text": "\nStatement-I is talse, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "bH0Vn",
+    "solution_text": "Germanium, semi-conductor substance, has small band gap in comparison to insulator (non-metal).\nOn moving top to bottom in the group 14 band gap decreases.",
+    "solution_image": null,
+    "topic": "Hydrogen spectrum"
+  },
+  {
+    "question_id": "64b16a78f23ac7d519f9b4b4",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 2)",
+    "paper_year_short": "2019 (Paper 2)",
+    "held_on": "2019-04-30T14:00:00.000Z",
+    "question_text": "The ground state energy of hydrogen atom is <math><mo>-</mo><mn>13.6</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">V</mi></math> . Consider an electronic state <math><mi mathvariant=\"normal\">&#936;</mi></math> of <math><msup><mrow><mi mathvariant=\"normal\">H</mi><mi mathvariant=\"normal\">e</mi></mrow><mrow><mo>+</mo></mrow></msup></math> whose energy, azimuthal quantum number and magnetic quantum number are <math><mo>-</mo><mn>3.4</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">V</mi><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mn>2</mn></math> and <math><mn>0</mn></math> respectively. Which of the following statement(s) is(are) true for the state <math><mi mathvariant=\"normal\">&#936;</mi></math> ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qp2LT",
+        "text": "It has <math><mn>2</mn></math> angular nodes",
+        "image": null
+      },
+      {
+        "id": "uyMmF",
+        "text": "It has <math><mn>3</mn></math> radial nodes",
+        "image": null
+      },
+      {
+        "id": "rBHEA",
+        "text": "It is a <math><mn>4</mn><mi mathvariant=\"normal\">d</mi></math> state",
+        "image": null
+      },
+      {
+        "id": "0UR4u",
+        "text": "The nuclear charge experienced by the electron in this state is less than <math><mn>2</mn><mi mathvariant=\"normal\">e</mi></math> , where e is the magnitude of the electronic charge.",
+        "image": null
+      }
+    ],
+    "correct_answer": "rBHEA",
+    "solution_text": "<math><mo>∵</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>H</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow></msub><mo>=</mo><mfrac><mrow><mo>-</mo><mn>13.6</mn><mfenced separators=\"|\"><mrow><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>-</mo><mn>13.6</mn><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mo>-</mo><mn>3.4</mn></math>  <br/><math><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>16</mn></math>  <br/><math><mo>∴</mo><mi>n</mi><mo>=</mo><mn>4</mn></math>  <br/><math><mi>n</mi><mo>=</mo><mn>4</mn><mo>,</mo><mi>l</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>m</mi><mo>=</mo><mn>0</mn></math> belongs to <math><mn>4</mn><msub><mrow><mi>d</mi></mrow><mrow><mi>y</mi><mi>z</mi></mrow></msub></math> orbital <br/><math><mo>→</mo></math> Radial nodes <math><mo>⇒</mo><mi>n</mi><mo>-</mo><mi>l</mi><mo>-</mo><mn>1</mn></math>  <br/><math><mo>→</mo></math> Angular nodes <math><mo>⇒</mo><mn>4</mn><mo>-</mo><mn>2</mn><mo>-</mo><mn>1</mn><mo>=</mo><mn>1</mn></math>  <br/><math><mo>→</mo></math> Angular nodes <math><mo>⇒</mo><mi>l</mi><mo>⇒</mo><mn>2</mn></math>  <br/>Since <math><mi>H</mi><msup><mrow><mi>e</mi></mrow><mrow><mo>+</mo></mrow></msup></math> is a single <math><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo></mrow></msup></math> ion, its nuclear charge experienced.",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a5bf23ac7d519f9b3b2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>The wave function, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub></math> is a mathematical function whose value depends upon spherical polar coordinates <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced></math> of the electron and characterized by the quantum numbers <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></math> . Here <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi></math> is the distance from the nucleus, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">θ</mi></math> is colatitude and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">ϕ</mi></math> is azimuth. In the mathematical functions given in the Table, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi><mo> </mo></math>is the atomic number and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></math> is Bohr radius<br/> </p><table border=\"1\"><tbody><tr><td>Column  1</td><td>Column  2</td><td>Column 3</td></tr><tr><td>(I) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">s</mi></math> orbital</td><td>(i) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>∝</mo><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><mi mathvariant=\"normal\"> </mi><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>Zr</mi><msub><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced></mrow></msup></math></td><td>(P) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ocuqfvsnrpqeizngiuobtdlbjdsbrsbhifdcofdyttqdefrjyw.jpeg\"/></td></tr><tr><td>(II) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">s</mi></math> orbital</td><td>(ii) One radial node</td><td>(Q) Probability density at the nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∝</mo><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi><mn>3</mn></msubsup></mfrac></math>.</td></tr><tr><td>(III) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub></math> orbital</td><td>(iii) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>∝</mo><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced><mfrac><mn>5</mn><mn>2</mn></mfrac></msup><msup><mi>re</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>Zr</mi><mrow><mn>2</mn><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mrow></mfrac></mfenced></mrow></msup><mi>cos</mi><mo>⁡</mo><mi mathvariant=\"normal\">θ</mi></math></td><td>(R) Probability density is maximum at the nucleus.</td></tr><tr><td>(IV) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msubsup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">z</mi><mn>2</mn></msubsup></math> orbital</td><td>(iv) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>xy</mi></math> -plane is a nodal plane</td><td>(S) Energy needed to excite an electron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math> state to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn></math> state is <math><mfrac><mrow><mn>27</mn></mrow><mrow><mn>32</mn></mrow></mfrac></math> times the energy needed to excite are electron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math> state to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>6</mn></math> state.</td></tr></tbody></table>For the given orbital in column 1, the only correct combination for any hydrogen-like species is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bTXDT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>III</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>iii</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">P</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "IwDB7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>ii</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">S</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "QE3o6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>IV</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>iv</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "Ddhg6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>II</mi><mo>)&#160;(</mo><mi>ii</mi><mo>)&#160;(</mo><mi mathvariant=\"normal\">P</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ddhg6",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi mathvariant=\"normal\">A</mi></mfenced><mo>  </mo><mfenced separators=\"|\"><mi>IV</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi>iv</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi mathvariant=\"normal\">R</mi></mfenced><mo>⇒</mo></math> incorrect, because, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">d</mi><mrow><msup><mi mathvariant=\"normal\">z</mi><mn>2</mn></msup><mi mathvariant=\"normal\"> </mi></mrow></msub></math> has no nodal plane.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi mathvariant=\"normal\">B</mi></mfenced><mi mathvariant=\"normal\"> </mi><mo> </mo><mfenced separators=\"|\"><mi>II</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi>ii</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi mathvariant=\"normal\">P</mi></mfenced><mo>⇒</mo></math> correct, because <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">s</mi><mo> </mo></math>orbital has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo> </mo></math>radial node.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/33_solu_chem_pa1.jpg\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi mathvariant=\"normal\">C</mi></mfenced><mo>  </mo><mfenced separators=\"|\"><mi>III</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi>iii</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi mathvariant=\"normal\">P</mi></mfenced><mo>⇒</mo></math> incorrect, because probability density for <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">p</mi><mo> </mo></math>at nucleus is zero.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mi mathvariant=\"normal\">D</mi></mfenced><mi mathvariant=\"normal\"> </mi><mo> </mo><mfenced separators=\"|\"><mi mathvariant=\"normal\">I</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi>ii</mi></mfenced><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mi mathvariant=\"normal\">S</mi></mfenced><mo>⇒</mo></math> incorrect, because <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">s</mi><mo> </mo></math>orbital has no radial node.</p><p> </p>",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a5bf23ac7d519f9b3b1",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>The wave function, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub></math> is a mathematical function whose value depends upon spherical polar coordinates <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced></math> of the electron and characterized by the quantum numbers <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></math> . Here <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi></math> is the distance from the nucleus, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">θ</mi></math> is colatitude and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">ϕ</mi></math> is azimuth. In the mathematical functions given in the Table, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi><mo> </mo></math>is the atomic number and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></math> is Bohr radius<br/> </p><table border=\"1\"><tbody><tr><td>Column  1</td><td>Column  2</td><td>Column 3</td></tr><tr><td>(I) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">s</mi></math> orbital</td><td>(i) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>∝</mo><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><mi mathvariant=\"normal\"> </mi><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>Zr</mi><msub><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced></mrow></msup></math></td><td>(P) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ocuqfvsnrpqeizngiuobtdlbjdsbrsbhifdcofdyttqdefrjyw.jpeg\"/></td></tr><tr><td>(II) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi mathvariant=\"normal\">s</mi></math> orbital</td><td>(ii) One radial node</td><td>(Q) Probability density at the nucleus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∝</mo><mfrac><mn>1</mn><msubsup><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi><mn>3</mn></msubsup></mfrac></math>.</td></tr><tr><td>(III) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub></math> orbital</td><td>(iii) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>∝</mo><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced><mfrac><mn>5</mn><mn>2</mn></mfrac></msup><msup><mi>re</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>Zr</mi><mrow><mn>2</mn><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mrow></mfrac></mfenced></mrow></msup><mi>cos</mi><mo>⁡</mo><mi mathvariant=\"normal\">θ</mi></math></td><td>(R) Probability density is maximum at the nucleus.</td></tr><tr><td>(IV) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msubsup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">z</mi><mn>2</mn></msubsup></math> orbital</td><td>(iv) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>xy</mi></math> -plane is a nodal plane</td><td>(S) Energy needed to excite an electron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math> state to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn></math> state is <math><mfrac><mrow><mn>27</mn></mrow><mrow><mn>32</mn></mrow></mfrac></math> times the energy needed to excite are electron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math> state to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>6</mn></math> state.</td></tr></tbody></table>For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>He</mi><mo>+</mo></msup></math> ion, the only incorrect combination",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uMukj",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">S</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "Yi14L",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "MqL5h",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>iii</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "nh7fP",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>II</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>ii</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">Q</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "MqL5h",
+    "solution_text": "The option (iii) is incorrect because in the wave function of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">s</mi><mo>&#160;</mo></math>orbital, no angular function should be present.",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a5bf23ac7d519f9b3b0",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "<p>The wave function, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub></math> is a mathematical function whose value depends upon spherical polar coordinates <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">ϕ</mi></mrow></mfenced></math> of the electron and characterized by the quantum numbers <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></math> . Here <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi></math> is distance from nucleus, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">θ</mi></math> is colatitude and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">ϕ</mi></math> is azimuth. In the mathematical functions given in the Table, Z is atomic number and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></math> is Bohr radius.<br/> </p><table border=\"1\"><tbody><tr><td>Column – 1</td><td>Column – 2</td><td>Column – 3</td></tr><tr><td>(I) Is orbital</td><td>(i) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>∝</mo><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><mi mathvariant=\"normal\"> </mi><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>Zr</mi><msub><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced></mrow></msup></math></td><td>(P) <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ocuqfvsnrpqeizngiuobtdlbjdsbrsbhifdcofdyttqdefrjyw.jpeg\"/></td></tr><tr><td>(II) 2s orbital</td><td>(ii) One radial node</td><td>(Q) Probability density at nucleus <math><mo>∝</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msubsup><mrow><mi>a</mi></mrow><mrow><mi>o</mi></mrow><mrow><mn>3</mn></mrow></msubsup></mrow></mfrac></math></td></tr><tr><td>(III) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">z</mi></msub></math> orbital</td><td>(iii) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">ψ</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">l</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><msub><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">l</mi></msub></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>∝</mo><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mfrac></mfenced><mfrac><mn>5</mn><mn>2</mn></mfrac></msup><msup><mi>re</mi><mrow><mo>-</mo><mfenced separators=\"|\"><mfrac><mi>Zr</mi><mrow><mn>2</mn><msub><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">o</mi></msub></mrow></mfrac></mfenced></mrow></msup><mi>cos</mi><mo>⁡</mo><mi mathvariant=\"normal\">θ</mi></math></td><td>(R) Probability density is maximum at nucleus</td></tr><tr><td>(IV) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msubsup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">z</mi><mn>2</mn></msubsup></math> orbital</td><td>(iv) <math><mi>x</mi><mi>y</mi></math> -plane is a nodal plane</td><td>(S) Energy needed to excite an electron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math> state to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn></math> state is <math><mfrac><mrow><mn>27</mn></mrow><mrow><mn>32</mn></mrow></mfrac></math> times the energy needed to excite electron from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math> state to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>6</mn></math> state.</td></tr></tbody></table>For hydrogen atom, what is the only <strong>CORRECT </strong>combination?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "moF6t",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">P</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "SuaOT",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>II</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">Q</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "F0gHv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi>iv</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "nDlxJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">I</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mi mathvariant=\"normal\">&#160;</mi><mo>(</mo><mi mathvariant=\"normal\">S</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "nDlxJ",
+    "solution_text": "<p>We have to select only correct combination hence, the option (iv) is correct.</p><p>For 1s orbital : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#968;</mi><mrow><mi mathvariant=\"normal\">n</mi><mo>,&#160;</mo><mi mathvariant=\"normal\">l</mi><mo>,&#160;</mo><mi mathvariant=\"normal\">m</mi></mrow></msub><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#945;</mi><msup><mfenced separators=\"|\"><mfrac><mi mathvariant=\"normal\">Z</mi><msub><mi mathvariant=\"normal\">a</mi><mn>0</mn></msub></mfrac></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">e</mi><mfrac><mrow><mo>-</mo><mi>zr</mi></mrow><msub><mi mathvariant=\"normal\">a</mi><mn>0</mn></msub></mfrac></msup></math></p><p>Energy needed to excite an electron&nbsp;: from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;E</mi><mrow><mn>2</mn><mo>-</mo><mn>4</mn></mrow></msub><mo>=</mo><mn>13</mn><mo>.6</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">Z</mi><mn>2</mn></msup><mo>&#215;</mo><mfrac><mn>3</mn><mn>16</mn></mfrac><mi>eV</mi></math></p><p>Energy needed to excite&nbsp;an electron :&nbsp;from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>2</mn></math>&nbsp;to&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>6</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;E</mi><mrow><mn>2</mn><mo>-</mo><mn>6</mn></mrow></msub><mo>=</mo><mn>13</mn><mo>.6</mo><mi mathvariant=\"normal\">&#160;</mi><msup><mi mathvariant=\"normal\">Z</mi><mn>2</mn></msup><mo>&#215;</mo><mfrac><mn>8</mn><mn>36</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#916;E</mi><mrow><mn>2</mn><mo>-</mo><mn>4</mn></mrow></msub><mo>=</mo><mfrac><mn>27</mn><mn>32</mn></mfrac><mi mathvariant=\"normal\">&#160;</mi><msub><mi mathvariant=\"normal\">E</mi><mrow><mn>2</mn><mo>-</mo><mn>6</mn></mrow></msub></math>&nbsp;&nbsp;(hence, true)</p>",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a4ef23ac7d519f9b338",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> is the probability of finding the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">s</mi></math> electron of the hydrogen atom in a spherical shell of infinitesimal thickness, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>dr</mi></math>, at a distance,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi></math>, from the nucleus. The volume of this shell is <math><mn>4</mn><mi mathvariant=\"normal\">&#960;</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">r</mi></math>. The qualitative sketch of the dependence of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi></math> is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Jo13v",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.1_Opp_1.jpg\" style=\"width: 200px; height: 154px;\" />",
+        "image": null
+      },
+      {
+        "id": "CoGXU",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.1_Opp_2.jpg\" style=\"width: 200px; height: 152px;\" />",
+        "image": null
+      },
+      {
+        "id": "6JFrO",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.1_Opp_3.jpg\" style=\"width: 200px; height: 150px;\" />",
+        "image": null
+      },
+      {
+        "id": "P8Zx6",
+        "text": "<img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/Jee_advance_paper_1_Chem_Q.1_Opp_4.jpg\" style=\"width: 200px; height: 150px;\" />",
+        "image": null
+      }
+    ],
+    "correct_answer": "6JFrO",
+    "solution_text": "For <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi mathvariant=\"normal\">s</mi></math>, the radial part of the wave function is:<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">&#936;</mi><mrow><mo>(</mo><mi mathvariant=\"normal\">r</mi><mo>)</mo></mrow></msub><mo>=</mo><mn>2</mn><msup><mfenced separators=\"|\"><mfrac><mn>1</mn><msub><mi mathvariant=\"normal\">a</mi><mn>0</mn></msub></mfrac></mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></msup><msup><mi mathvariant=\"normal\">e</mi><mrow><mo>-</mo><mfrac><mi mathvariant=\"normal\">r</mi><msub><mi mathvariant=\"normal\">a</mi><mn>0</mn></msub></mfrac></mrow></msup></math><br />Probability of finding an <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">e</mi><mo>&#8211;</mo></msup></math> in a spherical shell of thickness, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>'</mo><mi>dr</mi><mo>'</mo></math>&nbsp;at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>'</mo><mi mathvariant=\"normal\">r</mi><mo>'</mo></math> from the nucleus:<br /><math><mi mathvariant=\"normal\">P</mi><mo>=</mo><msubsup><mrow><mi mathvariant=\"normal\">&#936;</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msubsup><mo>.</mo><mn>4</mn><mi mathvariant=\"normal\">&#960;</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">r</mi></math><br /><math><mo>=</mo><mn>16</mn><mi mathvariant=\"normal\">&#960;</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">e</mi></mrow><mrow><mfrac><mrow><mo>-</mo><mn>2</mn><mi mathvariant=\"normal\">r</mi></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></msup><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">r</mi></math><br />So, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">P</mi></math> is zero at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi><mo>=</mo><mn>0</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">r</mi><mo>=</mo><mi mathvariant=\"normal\">&#8734;</mi></math>.<br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/41561564465105.jpg\" style=\"width: 150px; height: 112px;\" /><br />So, the plot of radial probability function, <math><mn>4</mn><mi mathvariant=\"normal\">&#960;</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">r</mi><mo>.</mo><msubsup><mrow><mi mathvariant=\"normal\">&#936;</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msubsup></math>&nbsp;V/s&nbsp;<math><mtext>r</mtext></math> is as shown above.",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a0ef23ac7d519f9b0ec",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "The maximum number of electrons that can have principal quantum number, $n=3$ and spin quantum number, $m_s=-\\frac{1}{2}$, is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "9",
+    "solution_text": "When $n=3, l=0,1,2$ i.e., there are $3 s, 3 p$ and $3 d$ orbitals. If all these orbitals are completely occupied as\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/--JalBtpZ6vJYh3xV-8N3LQdEEDqdYJirgMbN3GBHeE.original.fullsize.png\"><br>\n$$\n\\text { Total } 18 \\text { electrons, } 9 \\text { electrons with } s=+\\frac{1}{2} \\text { and } 9 \\text { with } s=-\\frac{1}{2} .\n$$\nAlternatively In any $n$th orbit, there can be a maximum of $2 n^2$ electrons. Hence, when $n=3$, number of maximum electrons $=18$. Out of these 18 electrons, 9 can have spin $-\\frac{1}{2}$ and remaining nine with spin $=+\\frac{1}{2}$.",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a07f23ac7d519f9b0af",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe hydrogen-like species $\\mathrm{Li}^{2+}$ is in a spherically symmetric state $S_1$ with one radial node. Upon absorbing light the ion undergoes transition to a state $S_2$. The state $S_2$ has one radial node and its energy is equal to the ground state energy of the hydrogen atom.<strong>Question:</strong>\nThe orbtial angular momentum quantum number of the state $S_2$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "PU1H5",
+        "text": "\n0\n",
+        "image": null
+      },
+      {
+        "id": "fSqWM",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "2VMwb",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "CiBiP",
+        "text": "\n3",
+        "image": null
+      }
+    ],
+    "correct_answer": "fSqWM",
+    "solution_text": "For $p$-orbital, orbital angular momentum quantum number $=1$ Atomic structure Conceptual data analysis IV",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b16a07f23ac7d519f9b0ad",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nThe hydrogen-like species $\\mathrm{Li}^{2+}$ is in a spherically symmetric state $S_1$ with one radial node. Upon absorbing light the ion undergoes transition to a state $S_2$. The state $S_2$ has one radial node and its energy is equal to the ground state energy of the hydrogen atom.<strong>Question:</strong>\nThe state $S_1$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4D6jL",
+        "text": "\n$1 s$\n",
+        "image": null
+      },
+      {
+        "id": "JQMJb",
+        "text": "\n$2 \\mathrm{~s}$\n",
+        "image": null
+      },
+      {
+        "id": "lrvny",
+        "text": "\n$2 p$\n",
+        "image": null
+      },
+      {
+        "id": "91joh",
+        "text": "\n$3 \\mathrm{~s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "JQMJb",
+    "solution_text": "Given : Hydrogen like species, $\\mathrm{Li}^{2+}$\nSpherically symmetric state, $S_1 \\Rightarrow s$-orbital\n$S_1$ has radial node $1 \\Rightarrow 2 s \\quad$ (No. of radial node $=1=n-l-1$, so $n=2$ ) Species undergoes state $S_2$\n$S_2$ has energy equal to the ground state energy of $\\mathrm{H}$-atom $=-13.6 \\mathrm{eV}$\nSo, $\\quad-13.6=-13.6\\left(\\frac{3^2}{n^2}\\right)$\n$n=3$\nAgain radial node $=1=n-1-1$\nor $1=3-l-1 \\quad$ so $\\quad l=1$\nIt suggests $S_2$ is $3 p$",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  },
+  {
+    "question_id": "64b169ebf23ac7d519f9afab",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Match the entries in Column I with the correctly related quantum number(s) in Column II. Indicate your answer by darkening the appropriate bubbles of the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2J3KeSRuERC1Xe6fSQAoOrICdqN8QJF--5LumNR_PWQ.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "GNnMV",
+        "text": "\n(A) q, (B) q,r,s, (C) p,q,r,s, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "0NbXX",
+        "text": "\n(A) p, (B) p,q,s, (C) p,q,s, (D) p\n",
+        "image": null
+      },
+      {
+        "id": "XuKKI",
+        "text": "\n(A) p, (B) q,r,s, (C) p,q,r,s, (D) p,q\n",
+        "image": null
+      },
+      {
+        "id": "N6ZHY",
+        "text": "\n(A) q, (B) p,q,r,s, (C) p,q,r, (D) p",
+        "image": null
+      }
+    ],
+    "correct_answer": "N6ZHY",
+    "solution_text": "A-q; B-p, q, r, s; C-p, q, r; D-p, q, r\n(B) A hydrogen-like one electron wave function obeying Pauli's principle First, as it is the wave function so it will be characterised by $n, l$ and $m$. Further, it obeys the Pauli's principle, that's why it will be characterised completely by adding spin quantum number also.\n(D) Radial probability density of electron at the nucleus basically depends on azimuthal quantum number, but as it is the function of radius depends on principal quantum number, When angular probability density is included, that depends on magnetic quantum number.",
+    "solution_image": null,
+    "topic": "Quantum mechanical model"
+  }
+]

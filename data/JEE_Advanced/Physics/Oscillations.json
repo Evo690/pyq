@@ -1,0 +1,995 @@
+[
+  {
+    "question_id": "6a0be50e44d287c9361e5c90",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A tank contains two immiscible liquids of densities $6\\rho$ and $2\\rho$. The higher density liquid is filled up to a height $L/2$ from the bottom. A thin rod of density $\\rho$ and length $L$ is fully immersed and hinged at the bottom so that it can oscillate freely, as shown in the figure. If the rod is slightly disturbed from its equilibrium, the time period of small oscillations is $\\dfrac{2\\pi}{n}\\sqrt{\\dfrac{L}{g}}$, where $g$ is the acceleration due to gravity. The value of $n$ is:<br><img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q25_d1.png\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.73",
+    "solution_text": "Let $A$ be the cross-sectional area of the rod.<br><br>Mass of the rod, $M = \\rho A L$.<br><br>Weight of the rod, $W = \\rho A L g$, acting at a distance $L/2$ from the hinge.<br><br>When the rod is displaced by a small angle $\\theta$, the restoring torque is provided by the buoyant forces from the two liquids.<br><br>Buoyant force due to the lower liquid, $F_{B1} = (6\\rho) A (L/2) g = 3\\rho A L g$.<br><br>This force acts at the center of the immersed part in the lower liquid, which is at a distance $L/4$ from the hinge.<br><br>Torque due to $F_{B1}$ is $\\tau_{B1} = F_{B1} (L/4) \\theta = (3\\rho A L g) (L/4) \\theta = \\dfrac{3}{4} \\rho A L^2 g \\theta$.<br><br>Buoyant force due to the upper liquid, $F_{B2} = (2\\rho) A (L/2) g = \\rho A L g$.<br><br>This force acts at the center of the immersed part in the upper liquid, which is at a distance $L/2 + L/4 = 3L/4$ from the hinge.<br><br>Torque due to $F_{B2}$ is $\\tau_{B2} = F_{B2} (3L/4) \\theta = (\\rho A L g) (3L/4) \\theta = \\dfrac{3}{4} \\rho A L^2 g \\theta$.<br><br>Destabilizing torque due to gravity is $\\tau_g = W (L/2) \\theta = (\\rho A L g) (L/2) \\theta = \\dfrac{1}{2} \\rho A L^2 g \\theta$.<br><br>Net restoring torque, $\\tau_{net} = \\tau_{B1} + \\tau_{B2} - \\tau_g = \\left(\\dfrac{3}{4} + \\dfrac{3}{4} - \\dfrac{1}{2}\\right) \\rho A L^2 g \\theta = \\rho A L^2 g \\theta$.<br><br>Moment of inertia of the rod about the hinge, $I = \\dfrac{M L^2}{3} = \\dfrac{\\rho A L^3}{3}$.<br><br>The equation of motion is $I \\alpha = -\\tau_{net}$<br><br>$\\dfrac{\\rho A L^3}{3} \\alpha = -\\rho A L^2 g \\theta$<br><br>$\\alpha = -\\dfrac{3g}{L} \\theta$<br><br>This represents simple harmonic motion with $\\omega^2 = \\dfrac{3g}{L}$.<br><br>Time period, $T = \\dfrac{2\\pi}{\\omega} = \\dfrac{2\\pi}{\\sqrt{3}} \\sqrt{\\dfrac{L}{g}}$.<br><br>Answer: $\\sqrt{3} = 1.73$",
+    "solution_image": null,
+    "topic": "Angular oscillations"
+  },
+  {
+    "question_id": "64b16aa1f23ac7d519f9b62c",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 1)",
+    "paper_year_short": "2023 (Paper 1)",
+    "held_on": "2023-04-30T09:00:00.000Z",
+    "question_text": "<p>Two point-like objects of masses <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mo>&#160;</mo><mi>gm</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mo>&#160;</mo><mi>gm</mi></math> are fixed at the two ends of a rigid massless rod of length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mo>&#160;</mo><mi>cm</mi></math>. This system is suspended vertically from a rigid ceiling using a thin wire attached to its center of mass, as shown in the figure. The resulting torsional pendulum undergoes small oscillations. The torsional constant of the wire is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>8</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi>rad</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>. The angular frequency of the oscillations in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>&#8722;</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>&#8722;</mo><mn>1</mn></mrow></msup></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is _____.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/480dda46-b40a-43ff-bb5a-611c14bfc28a.png\" style=\"width: 300px; height: 335px;\" /></p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "10",
+    "solution_text": "<blockquote><p>Given:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mn>1</mn></msub><mo>=</mo><mn>30</mn><mo>&#160;</mo><mi>gm</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mn>2</mn></msub><mo>=</mo><mn>20</mn><mo>&#160;</mo><mi>gm</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/44dec14f-d89e-433e-b6ba-9e8d25b2b006.png\" style=\"width: 400px; height: 468px;\" /></p><p>Moment of inertia about the axis of rotation is</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><msub><mi>m</mi><mn>1</mn></msub><msup><msub><mi>r</mi><mn>1</mn></msub><mn>2</mn></msup><mo>+</mo><msub><mi>m</mi><mn>2</mn></msub><msup><msub><mi>r</mi><mn>2</mn></msub><mn>2</mn></msup></math></p><p>X-coordinate of the centre of mass can be written as,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi><mrow><mi>C</mi><mi>M</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mi>m</mi><mn>1</mn></msub><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>m</mi><mn>2</mn></msub><msub><mi>x</mi><mn>2</mn></msub></mrow><mrow><msub><mi>m</mi><mn>1</mn></msub><mo>+</mo><msub><mi>m</mi><mn>2</mn></msub></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mrow><mn>0</mn><mo>+</mo><mfenced><mrow><mn>20</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>&#215;</mo><mfenced><mrow><mn>10</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfenced><mrow><mn>30</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>+</mo><mfenced><mrow><mn>20</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup></mrow></mfenced></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mn>4</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mspace linebreak=\"newline\"></mspace><mo>=</mo><mn>4</mn><mo>&#160;</mo><mi>cm</mi><mo>=</mo><msub><mi>r</mi><mn>1</mn></msub></math></p><p>Therefore,&nbsp;</p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>r</mi><mn>2</mn></msub><mo>=</mo><mfenced><mrow><mn>10</mn><mo>-</mo><mn>4</mn></mrow></mfenced><mo>&#160;</mo><mi>cm</mi><mo>=</mo><mn>6</mn><mo>&#160;</mo><mi>cm</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><mi>I</mi><mo>=</mo><mfenced><mrow><mn>30</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>16</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup></mrow></mfenced><mo>+</mo><mfenced><mrow><mn>20</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#215;</mo><mn>36</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>I</mi><mo>=</mo><mn>1200</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math></p><p>If the system is rotated by small angle &lsquo;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi></math>&rsquo;, the restoring torque is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#964;</mi><mfenced><mi>R</mi></mfenced></msub><mo>=</mo><mo>-</mo><mi>k</mi><mi>&#952;</mi></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>d</mi><mn>2</mn></msup><mi>&#952;</mi></mrow><mrow><mi>d</mi><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>-</mo><mi>k</mi></mrow><mi>I</mi></mfrac><mo>&#183;</mo><mi>&#952;</mi><mo>=</mo><mo>-</mo><msup><mi>&#969;</mi><mn>2</mn></msup><mi>&#952;</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></mrow><mrow><mn>1200</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>7</mn></mrow></msup></mrow></mfrac><mo>&#183;</mo><mi>&#952;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mo>&#160;</mo><msup><mi>&#969;</mi><mn>2</mn></msup><mo>=</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>&#969;</mi><mo>=</mo><mn>10</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>10</mn></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Angular oscillations"
+  },
+  {
+    "question_id": "64b16a0bf23ac7d519f9b0cf",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A metal rod of length $L$ and mass $m$ is pivoted at one end. A thin disc of mass $M$ and radius $R( < L)$ is attached at its centre to the free end of the rod. Consider two ways the disc is attached. Case A-the disc is not free to rotate about its centre and case $B$-the disc is free to rotate about its centre. The rod-disc system performs\nSHM in vertical plane after being released from the same displaced position. Which of the following statement(s) is/are true?<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2Z9bbEPubSFDgbkK7f83upg2RB4bCyUHjrCj_uu9Q6U.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QvAv1",
+        "text": "\nRestoring torque in case $A=$ Restoring torque in case $B$\n",
+        "image": null
+      },
+      {
+        "id": "A3SI6",
+        "text": "\nRestoring torque in case $A < $ Restoring torque in case $B$",
+        "image": null
+      },
+      {
+        "id": "pg8C4",
+        "text": "\nAngular frequency for case $A>$ Angular frequency for case $B$\n",
+        "image": null
+      },
+      {
+        "id": "ZAXL4",
+        "text": "\nAngular frequency for case $A < $ Angular frequency for case $B$",
+        "image": null
+      }
+    ],
+    "correct_answer": "A3SI6",
+    "solution_text": "$\\tau_A=\\tau_B=m g \\frac{L}{2} \\sin \\theta+\\operatorname{MgL} \\sin \\theta$\n$=$ Restoring torque about point $O$.\nIn case $A$, moment of inertia will be more. Hence, angular acceleration $(\\alpha=\\tau / I)$ will be less. Therefore, angular frequency will be less.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1s5RswcuRs38mBLtlc7w0I0vX4MgAYvlJTzjP3tzLLk.original.fullsize.png\"><br>\n$\\therefore$ Correct options are (a) and (d).\nAnalysis of Question\nQuestion is difficult from my point of view. Because this type of SHM is rarely taught in the class and questions of this type are not given in standard books.",
+    "solution_image": null,
+    "topic": "Angular oscillations"
+  },
+  {
+    "question_id": "685102c36bba689a3eb09cb1",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "As shown in the figures, a uniform rod $O O^{\\prime}$ of length $l$ is hinged at the point $O$ and held in place vertically between two walls using two massless springs of same spring constant. The springs are connected at the midpoint and at the top-end $\\left(O^{\\prime}\\right)$ of the rod, as shown in Fig. 1 and the rod is made to oscillate by a small angular displacement. The frequency of oscillation of the rod is $f_1$. On the other hand, if both the springs are connected at the midpoint of the rod, as shown in Fig. 2 and the rod is made to oscillate by a small angular displacement, then the frequency of oscillation is $f_2$. Ignoring gravity and assuming motion only in the plane of the diagram, the value of $\\frac{f_1}{f_2}$ is:\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iIwyIRT4zRp4iBt6Fi_26alzm-GoorxTuInCD-3ZF-k.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MoPs2",
+        "text": "$2$",
+        "image": null
+      },
+      {
+        "id": "x0KnN",
+        "text": "$\\sqrt{2}$",
+        "image": null
+      },
+      {
+        "id": "ouMyo",
+        "text": "$\\sqrt{\\frac{5}{2}}$",
+        "image": null
+      },
+      {
+        "id": "E7VzG",
+        "text": "$\\sqrt{\\frac{2}{5}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ouMyo",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/lRJvttmh_5m3UDIHM9ECFEdt81sqKawf5-fpzEb12D0.original.fullsize.png\"><br>$\\begin{aligned} & \\frac{\\mathrm{ML}^2}{3} \\ddot{\\theta}+\\mathrm{K} \\cdot \\frac{\\ell}{2} \\theta \\cdot \\frac{\\ell}{2}+\\mathrm{K} \\cdot \\ell \\cdot \\theta \\cdot \\ell=0 \\\\ & \\ddot{\\theta}+\\frac{15}{4} \\frac{\\mathrm{k}}{\\mathrm{M}} \\theta=0 \\\\ & \\ddot{\\theta}=-\\left(\\frac{15}{4} \\frac{\\mathrm{k}}{\\mathrm{M}}\\right) \\theta \\\\ & \\omega_1=\\sqrt{\\frac{15 \\mathrm{~K}}{4 \\mathrm{M}}}\\end{aligned}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mBLFAPPId53XHMAdLMdO5HZqMgEKXnOvwo_6Mfi4kg4.original.fullsize.png\"><br>$\\frac{1}{3} \\mathrm{ML}^2 \\ddot{\\theta}+2 \\mathrm{~K} \\frac{\\mathrm{~L}}{2} \\theta \\cdot \\frac{\\mathrm{~L}}{2}=0$\n$\\begin{aligned} & \\ddot{\\theta}+\\frac{3}{2} \\frac{K}{M} \\theta=0 \\\\ & \\ddot{\\theta}=-\\frac{3}{2} \\frac{K}{M} \\theta \\\\ & \\omega_2=\\sqrt{\\frac{3}{2} \\frac{K}{M}} \\\\ & \\frac{\\omega_1}{\\omega_2}=\\sqrt{\\frac{15}{4} \\times \\frac{2}{3}}=\\sqrt{\\frac{5}{2}}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Applications of SHM"
+  },
+  {
+    "question_id": "64b16a65f23ac7d519f9b407",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "A spring - block system is resting on a frictionless floor as shown in the figure. The spring constant is <math><mn>2.0</mn><mi> </mi><mi>N</mi><mi> </mi><msup><mrow><mi>m</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> and the mass of the block is <math><mn>2.0</mn><mi> </mi><mi>k</mi><mi>g</mi></math> . Ignore the mass of the spring. Initially the spring is in an unstretched condition. Another block of mass 1.0kg moving with a speed of <math><mn>2.0</mn><mi> </mi><mi>m</mi><mi> </mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> collides elastically with the first block. The collision is such that the 2.0kg block does not hit the wall. The distance, in metres, between the two blocks when the spring returns to its unstretched position for the first time after the collision is _________.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/10_ques.jpg\"/>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2.09",
+    "solution_text": "<p>Given here: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>0</mn><mo> </mo><mi>kg</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mo>=</mo><mn>2</mn><mo>.</mo><mn>0</mn><mo> </mo><mi mathvariant=\"normal\">N</mi><mo> </mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.</p><p>Time period of spring is given as <math><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt><mfrac><mrow><mi>m</mi></mrow><mrow><mi>k</mi></mrow></mfrac></msqrt><mo>=</mo><mn>2</mn><mi>π</mi><mi> </mi><mi>s</mi><mi>e</mi><mi>c</mi></math><br >Block returns to original position in <math><mfrac><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mi>π</mi><mi> </mi><mi>s</mi><mi>e</mi><mi>c</mi></math></p><p>The speed of block after collision is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mo>×</mo><mn>2</mn></mrow><mrow><mn>2</mn><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo> </mo><mi mathvariant=\"normal\">m</mi><mo>/</mo><mi mathvariant=\"normal\">s</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>'</mo><mo>=</mo><mfrac><mn>2</mn><mrow><mn>2</mn><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo> </mo><mi mathvariant=\"normal\">m</mi><mo>/</mo><mi mathvariant=\"normal\">s</mi></math>.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/10_solu.jpg\"/><br >The distance between the two blocks is <math><mi>d</mi><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mi>π</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mn>3.14</mn></mrow></mfenced><mo>=</mo><mn>2.0933</mn><mi>m</mi></math><br ><math><mi>d</mi><mo>=</mo><mn>2.09</mn><mi> </mi><mi>m</mi></math></p>",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a53f23ac7d519f9b368",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 2)",
+    "paper_year_short": "2016 (Paper 2)",
+    "held_on": "2016-04-30T14:00:00.000Z",
+    "question_text": "A block with mass M is connected by a massless spring with stiffness constant k to a rigid wall and moves without friction on a horizontal surface. The block oscillates with small amplitude A about an equilibrium position <math> <mrow> <msub> <mi>x</mi> <mn>0</mn> </msub> </mrow> </math>. Consider two cases : (i) when the block is at <math> <mrow> <msub> <mi>x</mi> <mn>0</mn> </msub> <mtext>;</mtext> </mrow> </math> and (ii) when the block is at <math> <mrow> <mi>x</mi> <mo>=</mo> <msub> <mi>x</mi> <mn>0</mn> </msub> <mo>+</mo> <mtext>A</mtext> <mtext>.</mtext> </mrow> </math> In both the cases, a particle with mass m <math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mo>&#60;</mo> <mtext>M</mtext> </mrow> </mfenced> </mrow> </math> is softly placed on the block after which they stick to each other. Which of the following statement(s) is(are) true about the motion after the mass m is placed on the mass M?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ky7yJ",
+        "text": "The amplitude of oscillation in the first case changes by a factor of <math> <mrow> <msqrt> <mfrac> <mrow> <mtext>M</mtext> </mrow> <mrow> <mtext>m</mtext> <mo>+</mo> <msup> <mtext>M</mtext> <mo>&prime;</mo> </msup> </mrow> </mfrac> </msqrt> </mrow> </math> whereas in the second case it remains unchanged",
+        "image": null
+      },
+      {
+        "id": "osHsH",
+        "text": "The final time period of oscillation in both the cases is same",
+        "image": null
+      },
+      {
+        "id": "6hRhA",
+        "text": "The total energy decreases in both the cases",
+        "image": null
+      },
+      {
+        "id": "wqxYv",
+        "text": "The instantaneous speed at <math> <mrow> <msub> <mi>x</mi> <mn>0</mn> </msub> </mrow> </math> of the combined masses decreases in both the cases.",
+        "image": null
+      }
+    ],
+    "correct_answer": "wqxYv",
+    "solution_text": "<math> <mrow> <msub> <mtext>T</mtext> <mtext>i</mtext> </msub> <mo>=</mo> <mn>2</mn> <mi>&pi;</mi> <msqrt> <mfrac> <mrow> <mtext>M</mtext> </mrow> <mrow> <mtext>K</mtext> </mrow> </mfrac> </msqrt> <mo>,</mo> <msub> <mtext>T</mtext> <mtext mathvariant=\"italic\">f</mtext> </msub> <mo>=</mo> <mn>2</mn> <mi>&pi;</mi> <msqrt> <mfrac> <mrow> <mtext>M</mtext> <mo>+</mo> <mtext>m</mtext> </mrow> <mrow> <mtext>K</mtext> </mrow> </mfrac> </msqrt> </mrow> </math><br />Case (i):<br /><math> <mrow> <mtext>M</mtext> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>A</mtext> <mi>&omega;</mi> </mrow> </mfenced> <mo>=</mo> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <mtext>M</mtext> <mo>+</mo> <mtext>m</mtext> </mrow> </mfenced> <mtext>V</mtext> </mrow> </math><br /><math> <mrow> <mo>&there4;</mo> </mrow> </math> Velocity decreases at equilibrium position.<br />By energy conservation<br /><math> <mrow> <msub> <mtext>A</mtext> <mi>f</mi> </msub> <mo>=</mo> <msub> <mtext>A</mtext> <mtext>i</mtext> </msub> <msqrt> <mfrac> <mrow> <mtext>M</mtext> </mrow> <mrow> <mtext>M</mtext> <mo>+</mo> <mtext>m</mtext> </mrow> </mfrac> </msqrt> </mrow> </math><br />Case (ii):<br />No energy loss, amplitude remains same<br />At equilibrium <math> <mrow> <mfenced close=\")\" open=\"(\" separators=\",\"> <mrow> <msub> <mi>x</mi> <mn>0</mn> </msub> </mrow> </mfenced> <mo>velocity</mo> <mo>=</mo> <mtext>A</mtext> <mi>&omega;</mi> </mrow> </math><br />In both cases <math> <mrow> <mi>&omega;</mi> </mrow> </math> decrease so velocity decreases in both cases",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a40f23ac7d519f9b2b8",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>Two independent harmonic oscillators of equal mass are oscillating about the origin with angular frequencies <math><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msub></math> and have total energies <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , respectively. The variations of their momenta <math><mi mathvariant=\"normal\">p</mi></math> with positions <math><mi mathvariant=\"normal\">x</mi></math> are shown in the figures. If <math><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">b</mi></mrow></mfrac><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msup></math> and <math><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">n</mi></math> , then the correct equation(s) is (are)<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image10-cec115ad-7e25-4320-a012-eabe44823b93.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TjQR9",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "okGBL",
+        "text": "<math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "FYikn",
+        "text": "<math><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "8YKjq",
+        "text": "<math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">ω</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "8YKjq",
+    "solution_text": "<math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">x</mi></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">b</mi></math><br /><math><msub><mrow><mi mathvariant=\"normal\">P</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">x</mi></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">r</mi><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mi mathvariant=\"normal\">R</mi></math><br /><math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math><br /><math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"normal\">m</mi><msubsup><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"normal\">m</mi><msubsup><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup><msup><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">E</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">E</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><msubsup><mi mathvariant=\"normal\">&#969;</mi><mn>1</mn><mn>2</mn></msubsup><msubsup><mi mathvariant=\"normal\">&#969;</mi><mn>2</mn><mn>2</mn></msubsup></mfrac><mfrac><msup><mi mathvariant=\"normal\">a</mi><mn>2</mn></msup><msup><mi mathvariant=\"normal\">R</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><msubsup><mi mathvariant=\"normal\">&#969;</mi><mn>1</mn><mn>2</mn></msubsup><msubsup><mi mathvariant=\"normal\">&#969;</mi><mn>2</mn><mn>2</mn></msubsup></mfrac><msup><mi mathvariant=\"normal\">n</mi><mn>2</mn></msup><mo>=</mo><mfrac><msubsup><mi mathvariant=\"normal\">&#969;</mi><mn>1</mn><mn>2</mn></msubsup><msubsup><mi mathvariant=\"normal\">&#969;</mi><mn>2</mn><mn>2</mn></msubsup></mfrac><mfrac><msub><mi mathvariant=\"normal\">&#969;</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">&#969;</mi><mn>1</mn></msub></mfrac></math><br /><math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math><br /><math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">E</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">&#969;</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b049",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nWhen a particle of mass $m$ moves on the $x$-axis in a potential of the form $V(x)=k x^2$, it performs simple harmonic motion.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JO88T86U1WBTz3r9tZnSSGCHdiXBMHNTHb4YYwVukEs.original.fullsize.png\"><br>\nThe corresponding time period is proportional to $\\sqrt{\\frac{m}{k}}$, as can be seen easily using dimensional analysis. However, the motion of a particle can be periodic even when its potential energy increases on both sides of $x=0$ in a way different from $k x^2$ and its total energy is such that the particle does not escape to infinity. Consider a particle of mass $\\mathrm{m}$ moving on the $x$-axis. Its potential energy is $V(x)=\\alpha x^4(\\alpha>0)$ for $|x|$ near the origin and becomes a constant equal to $V_0$ for $|x| \\geq X_0$ (see figure).<strong>Question:</strong>\nThe acceleration of this particle for $|x|>X_0$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "RTxvl",
+        "text": "\nproportional to $V_0$\n",
+        "image": null
+      },
+      {
+        "id": "OPUTM",
+        "text": "\nproportional to $\\frac{V_0}{m X_0}$\n",
+        "image": null
+      },
+      {
+        "id": "eoPOo",
+        "text": "\nproportional to $\\sqrt{\\frac{V_0}{m X_0}}$\n",
+        "image": null
+      },
+      {
+        "id": "2n77g",
+        "text": "\nZero",
+        "image": null
+      }
+    ],
+    "correct_answer": "2n77g",
+    "solution_text": "For $|x|>X_0$, potential energy is constant. Hence, kinetic energy, speed or velocity will also remain constant.\n$\\therefore$ Acceleration will be zero.\nHence, the correct option is (d).",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b048",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nWhen a particle of mass $m$ moves on the $x$-axis in a potential of the form $V(x)=k x^2$, it performs simple harmonic motion.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JO88T86U1WBTz3r9tZnSSGCHdiXBMHNTHb4YYwVukEs.original.fullsize.png\"><br>\nThe corresponding time period is proportional to $\\sqrt{\\frac{m}{k}}$, as can be seen easily using dimensional analysis. However, the motion of a particle can be periodic even when its potential energy increases on both sides of $x=0$ in a way different from $k x^2$ and its total energy is such that the particle does not escape to infinity. Consider a particle of mass $\\mathrm{m}$ moving on the $x$-axis. Its potential energy is $V(x)=\\alpha x^4(\\alpha>0)$ for $|x|$ near the origin and becomes a constant equal to $V_0$ for $|x| \\geq X_0$ (see figure).<strong>Question:</strong>\nFor periodic motion of small amplitude $A$, the time period $T$ of this particle is proportional to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cmKTf",
+        "text": "\n$A \\sqrt{\\frac{m}{\\alpha}}$\n",
+        "image": null
+      },
+      {
+        "id": "N75Tv",
+        "text": "\n$\\frac{1}{A} \\sqrt{\\frac{m}{\\alpha}}$\n",
+        "image": null
+      },
+      {
+        "id": "V9E0U",
+        "text": "\n$A \\sqrt{\\frac{\\alpha}{m}}$\n",
+        "image": null
+      },
+      {
+        "id": "OYNnk",
+        "text": "\n$\\frac{1}{A} \\sqrt{\\frac{\\alpha}{m}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "N75Tv",
+    "solution_text": "$[\\alpha]=\\left[\\frac{\\mathrm{PE}}{x^4}\\right]=\\left[\\frac{\\mathrm{ML}^2 \\mathrm{~T}^{-2}}{\\mathrm{~L}^4}\\right]=\\left[\\mathrm{ML}^{-2} \\mathrm{~T}^{-2}\\right]$\n$$\n\\begin{array}{ll}\n\\therefore & {\\left[\\frac{m}{\\alpha}\\right]=\\left[\\mathrm{L}^2 \\mathrm{~T}^2\\right]} \\\\\n\\therefore & {\\left[\\frac{1}{A} \\sqrt{\\frac{m}{\\alpha}}\\right]=[\\mathrm{T}]}\n\\end{array}\n$$\nAs dimensions of amplitude $A$ is [L].\nHence, the correct option is (b).",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169fcf23ac7d519f9b047",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nWhen a particle of mass $m$ moves on the $x$-axis in a potential of the form $V(x)=k x^2$, it performs simple harmonic motion.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/JO88T86U1WBTz3r9tZnSSGCHdiXBMHNTHb4YYwVukEs.original.fullsize.png\"><br>\nThe corresponding time period is proportional to $\\sqrt{\\frac{m}{k}}$, as can be seen easily using dimensional analysis. However, the motion of a particle can be periodic even when its potential energy increases on both sides of $x=0$ in a way different from $k x^2$ and its total energy is such that the particle does not escape to infinity. Consider a particle of mass $\\mathrm{m}$ moving on the $x$-axis. Its potential energy is $V(x)=\\alpha x^4(\\alpha>0)$ for $|x|$ near the origin and becomes a constant equal to $V_0$ for $|x| \\geq X_0$ (see figure).<strong>Question:</strong>\nIf the total energy of the particle is $E$, it will perform periodic motion only if",
+    "question_image": null,
+    "options": [
+      {
+        "id": "44ax4",
+        "text": "\n$E < 0$",
+        "image": null
+      },
+      {
+        "id": "JY332",
+        "text": "\n$E>0$\n",
+        "image": null
+      },
+      {
+        "id": "Ex73T",
+        "text": "\n$V_0>E>0$\n",
+        "image": null
+      },
+      {
+        "id": "ceOpE",
+        "text": "\n$E>V_0$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ex73T",
+    "solution_text": "If $E>V_0$, particle will escape. But simultaneously for oscillations, $E>0$. Hence, the correct answer is $V_0>E>0$ or the correct option is (c).",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169e6f23ac7d519f9af82",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "A block $(B)$ is attached to two unstretched $S_1$ and $S_2$ with spring constants $k$ and $4 k$, respectively (see figure I). The other ends are attached to identical supports $M_1$ and $M_2$ not attached to the walls. The springs and supports have negligible mass. There is no friction anywhere. The block $B$ is displaced towards wall 1 by a small distance $x$ (figure II) and released. The block returns and moves a maximum distance $y$ towards wall 2 . Displacements $x$ and $y$ are measured with respect to the equilibrium position of the block $B$. The ratio $\\frac{y}{-1}$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/pyRS7t-PQUH-2VBz541B_XC14w4GSMqF35DFyqE66fo.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "O1Ze1",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "AP9Mg",
+        "text": "\n2\n",
+        "image": null
+      },
+      {
+        "id": "p65ub",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "BO39E",
+        "text": "\n$\\frac{1}{4}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "p65ub",
+    "solution_text": "From energy conservation,\n$$\n\\begin{aligned}\n\\frac{1}{2} k x^2 & =\\frac{1}{2}(4 k) y^2 \\\\\n\\frac{y}{x} & =\\frac{1}{2}\n\\end{aligned}\n$$\n$\\therefore$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af0f",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Column I describes some situations in which a small object moves. Column II describes some characteristics of these motions. Match the situations in Column I with the characteristics in Column II and indicate your answer by darkening appropriate bubbles in the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/r-gAAZvz8yPUnIXR2inQDq09yI4uh7JKQ1NdLpZ0wDQ.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5eWrl",
+        "text": "\nA-p; B-q; C-p; D-q, r\n",
+        "image": null
+      },
+      {
+        "id": "XU1jo",
+        "text": "\nA-p; B-r; C-r, s; D-p, q\n",
+        "image": null
+      },
+      {
+        "id": "14dIj",
+        "text": "\nA-s; B-p; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "Yiahz",
+        "text": "\nA-p; B-r; C-p, q; D-r",
+        "image": null
+      }
+    ],
+    "correct_answer": "5eWrl",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Energy of Simple Harmonic Motion"
+  },
+  {
+    "question_id": "685102be6bba689a3eb09c7f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 1)",
+    "paper_year_short": "2025 (Paper 1)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "The center of a disk of radius $r$ and mass $m$ is attached to a spring of spring constant $k$, inside a ring of radius $R>r$ as shown in the figure. The other end of the spring is attached on the periphery of the ring. Both the ring and the disk are in the same vertical plane. The disk can only roll along the inside periphery of the ring, without slipping. The spring can only be stretched or compressed along the periphery of the ring, following the Hooke's law. In equilibrium, the disk is at the bottom of the ring. Assuming small displacement of the disc, the time period of oscillation of center of mass of the disk is written as $T=\\frac{2 \\pi}{\\omega}$. The correct expression for $\\omega$ is ( $g$ is the acceleration due to gravity):\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/LnkMeUFKXeprZyqxnqCsioQqGDM2HCSVlzpI4lNTfY8.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xTMY5",
+        "text": "$\\sqrt{\\frac{2}{3}\\left(\\frac{g}{R-r}+\\frac{k}{m}\\right)}$",
+        "image": null
+      },
+      {
+        "id": "MDPVF",
+        "text": "$\\sqrt{\\frac{2 g}{3(R-r)}+\\frac{k}{m}}$",
+        "image": null
+      },
+      {
+        "id": "xpG7h",
+        "text": "$\\sqrt{\\frac{1}{6}\\left(\\frac{g}{R-r}+\\frac{k}{m}\\right)}$",
+        "image": null
+      },
+      {
+        "id": "MKqGB",
+        "text": "$\\sqrt{\\frac{1}{4}\\left(\\frac{g}{R-r}+\\frac{k}{m}\\right)}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xTMY5",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/eKat2tkrJYIzVjYC0iqtfMEj1gey18uHs-JrFDWjgyw.original.fullsize.png\"><br>$E=\\frac{1}{2} k(R-r)^2 \\theta^2+m g(R-r)(1-\\cos \\theta)+\\frac{1}{2} m v^2+\\frac{1}{2} \\frac{m r^2}{2} \\omega^2$\nDifferentiating wrt t ,\n$\\begin{aligned} 0 & =\\frac{1}{2} \\mathrm{k}(\\mathrm{R}-\\mathrm{r})^2 \\cdot 2 \\theta \\frac{\\mathrm{~d} \\theta}{\\mathrm{dt}}+\\mathrm{mg}(\\mathrm{R}-\\mathrm{r}) \\cdot \\frac{\\mathrm{d}}{\\mathrm{dt}}\\left(2 \\frac{\\theta^2}{4}\\right)+\\frac{1}{2} \\mathrm{~m} \\cdot 2 \\mathrm{v} \\frac{\\mathrm{dv}}{\\mathrm{dt}}+\\frac{\\mathrm{mr}^2}{4} \\cdot 2 \\omega \\frac{\\mathrm{~d} \\omega}{\\mathrm{dt}} \\\\ \\Rightarrow & 0=\\mathrm{k}(\\mathrm{R}-\\mathrm{r})^2 \\theta \\frac{\\mathrm{~d} \\theta}{\\mathrm{dt}}+\\mathrm{mg}(\\mathrm{R}-\\mathrm{r}) \\theta \\frac{\\mathrm{d} \\theta}{\\mathrm{dt}}+\\mathrm{mv} \\frac{\\mathrm{dv}}{\\mathrm{dt}}+\\frac{\\mathrm{mr}^2}{2} \\omega \\frac{\\mathrm{~d} \\omega}{\\mathrm{dt}}\\end{aligned}$\nAlso, $\\frac{d \\theta}{d t}=\\frac{V}{(R-r)} \\Rightarrow \\frac{d^2 \\theta}{d t^2}=\\frac{1}{(R-r)} \\frac{d v}{d t}=\\frac{1}{R-r} a$\n$\\begin{aligned} & \\therefore \\mathrm{k}(\\mathrm{R}-\\mathrm{r})^2 \\cdot \\theta \\frac{\\mathrm{~V}}{\\mathrm{R}-\\mathrm{r}}+\\mathrm{mg}(\\mathrm{R}-\\mathrm{r}) \\theta \\frac{\\mathrm{V}}{\\mathrm{R}-\\mathrm{r}}=-\\mathrm{mv} \\alpha \\mathrm{r}-\\frac{\\mathrm{mr}^2}{2} \\frac{\\mathrm{~V}}{\\mathrm{r}} \\alpha \\\\ & \\Rightarrow \\mathrm{k}(\\mathrm{R}-\\mathrm{r})+\\mathrm{mg} \\theta=-\\frac{3}{2} \\mathrm{mr} \\alpha \\\\ & \\Rightarrow-[\\mathrm{k}(\\mathrm{R}-\\mathrm{r})+\\mathrm{mg}] \\theta=\\frac{3}{2} \\mathrm{~m}(\\mathrm{R}-\\mathrm{r}) \\frac{\\mathrm{d}^2 \\theta}{\\mathrm{dt}^2} \\\\ & \\Rightarrow-\\frac{2}{3}\\left[\\frac{\\mathrm{k}}{\\mathrm{m}}+\\frac{\\mathrm{g}}{\\mathrm{R}-\\mathrm{r}}\\right]=\\frac{\\mathrm{d}^2 \\theta}{\\mathrm{dt}^2}\\end{aligned}$\nCompering with standard equation of SHM\n$\\omega=\\sqrt{\\frac{2}{3}\\left[\\frac{\\mathrm{k}}{\\mathrm{m}}+\\frac{\\mathrm{g}}{\\mathrm{R}-\\mathrm{r}}\\right]}$\nHence answer is option(A)\n$\\mathrm{OR}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/W7rz1tmNqSgEYtx95pEk2h7vBmnz9dbCeSTzR6BhXDE.original.fullsize.png\"><br>$\\mathrm{kx}+\\mathrm{mg} \\sin \\theta-\\mathrm{f}=\\mathrm{ma}$\n$\\begin{aligned} & \\Rightarrow \\mathrm{kx}+\\mathrm{mg} \\frac{\\mathrm{x}}{(\\mathrm{R}-\\mathrm{r})}-\\mathrm{f}=\\mathrm{ma} \\\\ & \\mathrm{fr}=\\frac{\\mathrm{mr}^2}{2} \\cdot \\alpha \\Rightarrow \\mathrm{f}=\\frac{\\mathrm{ma}}{2} \\\\ & \\therefore\\left(\\alpha+\\frac{\\mathrm{mg}}{\\mathrm{R}-\\mathrm{r}}\\right) \\mathrm{x}=\\frac{3 \\mathrm{ma}}{2} \\\\ & \\therefore \\omega=\\sqrt{\\frac{2}{3}\\left[\\frac{\\mathrm{k}}{\\mathrm{m}}+\\frac{\\mathrm{g}}{\\mathrm{R}-\\mathrm{r}}\\right]}\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "6696579c623b9ed1d4637468",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "A block of mass $5 \\mathrm{~kg}$ moves along the $x$-direction subject to the force $F=(-20 x+10) \\mathrm{N}$, with the value of $x$ in metre. At time $t=0 \\mathrm{~s}$, it is at rest at position $x=1 \\mathrm{~m}$. The position and momentum of the block at $t=(\\pi / 4) \\mathrm{s}$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "1jHnW",
+        "text": "$-0.5 \\mathrm{~m}, 5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      },
+      {
+        "id": "jX5OM",
+        "text": "$0.5 \\mathrm{~m}, 0 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      },
+      {
+        "id": "VDN0D",
+        "text": "$0.5 \\mathrm{~m},-5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      },
+      {
+        "id": "Q1bXC",
+        "text": "$-1 \\mathrm{~m}, 5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "VDN0D",
+    "solution_text": "$\\mathrm{F}=-20\\left(\\mathrm{x}-\\frac{1}{2}\\right)=-20 \\mathrm{X} \\quad\\left(\\mathrm{X}=\\mathrm{x}-\\frac{1}{2}\\right)$\n$\\therefore$ Particle will perform SHM about $\\mathrm{x}=\\frac{1}{2}$ with $\\omega=2 \\mathrm{rad} / \\mathrm{sec} \\Rightarrow \\mathrm{T}=\\pi \\mathrm{sec}$.\n$\\therefore$ Phase covered in $t=\\frac{\\pi}{4}$ second $=90^{\\circ}$.\nGiven particle is at rest at $\\mathrm{x}=1 \\mathrm{~m} \\Rightarrow \\mathrm{x}=1$ is extreme position.\n$\\therefore$ In $\\frac{\\pi}{4}$ sec, it will be at equilibrium\n$\\therefore \\mathrm{x}=0.5 \\mathrm{~m}$ and momentum $=\\mathrm{m} \\omega \\mathrm{A}=5 \\times 2 \\times 0.5=5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$ Direction will be towards -ve $\\mathrm{x}$.\nHence option (3)",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a9af23ac7d519f9b5ea",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "A particle of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi>kg</mi></math> is subjected to a force which depends on the position as&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>F</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><mi>k</mi><mfenced><mrow><mi>x</mi><mover><mi>i</mi><mo>^</mo></mover><mo>+</mo><mi>y</mi><mover><mi>j</mi><mo>^</mo></mover></mrow></mfenced><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>&nbsp;with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>. At time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the particle&#39;s position&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>r</mi><mo>&#8594;</mo></mover><mo>=</mo><mfenced><mrow><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mover><mi>i</mi><mo>^</mo></mover><mo>+</mo><msqrt><mn>2</mn></msqrt><mover><mi>j</mi><mo>^</mo></mover></mrow></mfenced><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>&nbsp;and its velocity&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>v</mi><mo>&#8594;</mo></mover><mo>=</mo><mfenced><mrow><mo>-</mo><msqrt><mn>2</mn></msqrt><mover><mi>i</mi><mo>^</mo></mover><mo>+</mo><msqrt><mn>2</mn></msqrt><mover><mi>j</mi><mo>^</mo></mover><mo>+</mo><mfrac><mn>2</mn><mi>&#960;</mi></mfrac><mover><mi>k</mi><mo>^</mo></mover></mrow></mfenced><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>. Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>x</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>y</mi></msub></math>&nbsp;denote the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;and the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>&nbsp;components of the particle&#39;s velocity, respectively. Ignore gravity. When&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>z</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>, the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><msub><mi>v</mi><mi>y</mi></msub><mo>-</mo><mi>y</mi><msub><mi>v</mi><mi>x</mi></msub></mrow></mfenced></math>&nbsp;is ______&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<blockquote><p>Given here:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>F</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><mi>k</mi><mfenced><mrow><mi>x</mi><mover><mi>i</mi><mo>^</mo></mover><mo>+</mo><mi>y</mi><mover><mi>j</mi><mo>^</mo></mover></mrow></mfenced><mo>&#160;</mo><mi>kg</mi><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>kg</mi></math></p><p>In x-direction,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi><mi>x</mi></msub><mo>=</mo><mo>-</mo><mi>x</mi><mo>=</mo><mi>m</mi><msub><mi>a</mi><mi>x</mi></msub></math></p><p>So, acceleration,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub><mo>=</mo><mfrac><mrow><msup><mi>d</mi><mn>2</mn></msup><mi>x</mi></mrow><mrow><mi>d</mi><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mo>-</mo><mi>x</mi></math></p><p>Now, for particle executing SHM, displacement along x-direction is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>x</mi><mo>=</mo><msub><mi>A</mi><mi>x</mi></msub><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>x</mi></msub></mrow></mfenced></math>, here, angular frequency,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi>rad</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>&nbsp;and velocity,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>x</mi></msub><mo>=</mo><msub><mi>A</mi><mi>x</mi></msub><mi>&#969;</mi><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>x</mi></msub></mrow></mfenced></math></p><p>Given at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo>&#160;</mo><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>x</mi></msub><mo>=</mo><mo>-</mo><msqrt><mn>2</mn></msqrt><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>So, putting the values, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mo>=</mo><msub><mi>A</mi><mi>x</mi></msub><mi>sin</mi><msub><mi>&#981;</mi><mi>x</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><msqrt><mn>2</mn></msqrt><mo>=</mo><msub><mi>A</mi><mi>x</mi></msub><mi>cos</mi><msub><mi>&#981;</mi><mi>x</mi></msub></math></p><p>From above two equations,</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>tan</mi><msub><mi>&#981;</mi><mi>x</mi></msub><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>1</mn></mfenced></math></p><p>And&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>x</mi></msub><mo>=</mo><msqrt><mfrac><mn>5</mn><mn>2</mn></mfrac></msqrt><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>2</mn></mfenced></math></p></blockquote><blockquote><p>Similarly, along y-direction,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi><mi>y</mi></msub><mo>=</mo><mo>-</mo><mi>y</mi><mo>=</mo><mi>m</mi><msub><mi>a</mi><mi>y</mi></msub></math>,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mi>a</mi><mi>y</mi></msub><mo>=</mo><mfrac><mrow><msup><mi>d</mi><mn>2</mn></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mo>-</mo><mi>y</mi></math></p><p>So, displacement,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><msub><mi>A</mi><mi>y</mi></msub><mi>sin</mi><mfenced separators=\"|\"><mrow><mi>&#969;</mi><mi mathvariant=\"normal\">t</mi><mo>+</mo><msub><mi>&#981;</mi><mi mathvariant=\"normal\">y</mi></msub></mrow></mfenced></math>&nbsp; and velocity&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>y</mi></msub><mo>=</mo><msub><mi>A</mi><mi>y</mi></msub><mi>&#969;</mi><mi>cos</mi><mfenced separators=\"|\"><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced></math></p><p>Given at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>,</mo><mspace width=\"1em\"></mspace><mi>y</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mi>y</mi></msub><mo>=</mo><msqrt><mn>2</mn></msqrt><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p><p>So, putting the values, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt><mo>=</mo><msub><mi>A</mi><mi>y</mi></msub><mi>sin</mi><msub><mi>&#981;</mi><mi>y</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt><mo>=</mo><msub><mi>A</mi><mi>y</mi></msub><mi>cos</mi><msub><mi>&#981;</mi><mi>y</mi></msub></math></p><p>From above two relations, we have</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8658;</mo><msub><mi>&#981;</mi><mi>y</mi></msub><mo>=</mo><mfrac><mi>&#960;</mi><mn>4</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>3</mn></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mi>y</mi></msub><mo>=</mo><mn>2</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mfenced><mn>4</mn></mfenced></math></p><p>Now, the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><msub><mi>v</mi><mi>y</mi></msub><mo>-</mo><mi>y</mi><msub><mi>v</mi><mi>x</mi></msub></mrow></mfenced><mo>=</mo><msqrt><mfrac><mn>5</mn><mn>2</mn></mfrac></msqrt><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>x</mi></msub></mrow></mfenced><mo>&#215;</mo><mn>2</mn><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced><mo>-</mo><mn>2</mn><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced><mo>&#215;</mo><msqrt><mfrac><mn>5</mn><mn>2</mn></mfrac></msqrt><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>x</mi></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msqrt><mfrac><mn>5</mn><mn>2</mn></mfrac></msqrt><mo>&#215;</mo><mn>2</mn><mfenced close=\"\"><mrow><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>x</mi></msub></mrow></mfenced><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced><mo>-</mo><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced><mo>&#215;</mo><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi><mo>+</mo><msub><mi>&#981;</mi><mi>x</mi></msub></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msqrt><mn>10</mn></msqrt><mi>sin</mi><mfenced><mrow><msub><mi>&#981;</mi><mi>x</mi></msub><mo>-</mo><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msqrt><mn>10</mn></msqrt><mfenced><mrow><mi>sin</mi><msub><mi>&#981;</mi><mi>x</mi></msub><mi>cos</mi><msub><mi>&#981;</mi><mi>y</mi></msub><mo>-</mo><mi>cos</mi><msub><mi>&#981;</mi><mi>x</mi></msub><mi>sin</mi><msub><mi>&#981;</mi><mi>y</mi></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msqrt><mn>10</mn></msqrt><mfenced><mrow><mfrac><mn>1</mn><msqrt><mn>5</mn></msqrt></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mo>-</mo><mfenced><mrow><mo>-</mo><mfrac><mn>2</mn><msqrt><mn>5</mn></msqrt></mfrac></mrow></mfenced><mo>&#215;</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a64f23ac7d519f9b404",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "Two vectors <math><mover accent=\"true\"><mrow><mi>A</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> are defined as <math><mover accent=\"true\"><mrow><mi>A</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mi>a</mi><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mi>a</mi><mfenced separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><mi>t</mi><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>&#8289;</mo><mrow><mi>&#969;</mi><mi>t</mi></mrow></mrow><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mrow></mrow></mfenced></math>, where a is a constant and <math><mi>&#969;</mi><mo>=</mo><mfrac><mrow><mi>&#960;</mi></mrow><mrow><mn>6</mn></mrow></mfrac><mi>&#160;</mi><mi>r</mi><mi>a</mi><mi>d</mi><mi>&#160;</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>.</mo></math> If <math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>A</mi></mrow><mo>&#8594;</mo></mover><mo>+</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></mrow></mfenced><mo>=</mo><msqrt><mn>3</mn></msqrt><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>A</mi></mrow><mo>&#8594;</mo></mover><mo>-</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></mrow></mfenced></math> at time <math><mi>t</mi><mo>=</mo><mi>&#964;</mi></math> for the first time, the value of <math><mi>&#964;</mi></math> in seconds, is_______",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/habcwzezikhwaaeymgjwxsuihilmdsqovvfnjgryjzbkymtfbr.jpeg\"/><br ><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>A</mi></mrow><mo>→</mo></mover><mo>+</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></mrow></mfenced><mo>=</mo><mn>2</mn><mi> </mi><mi>a</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>ω</mi><mi>t</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></math><br ><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>A</mi></mrow><mo>→</mo></mover><mo>-</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></mrow></mfenced><mo>=</mo><mn>2</mn><mi>a</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>ω</mi><mi>t</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></math><br >So <math><mn>2</mn><mi>a</mi><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>ω</mi><mi>t</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><msqrt><mn>3</mn></msqrt><mfenced separators=\"|\"><mrow><mn>2</mn><mi>a</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>ω</mi><mi>t</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></mrow></mfenced></mrow></mrow></math><br ><math><mrow><mrow><mi mathvariant=\"normal\">tan</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>ω</mi><mi>t</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math><br ><math><mfrac><mrow><mi>ω</mi><mi>t</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac><mo>⇒</mo><mi>ω</mi><mi>t</mi><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac><mi>t</mi><mo>=</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mi>t</mi><mo>=</mo><mn>2.00</mn><mi> </mi><mi>s</mi><mi>e</mi><mi>c</mi></math>",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b1fe",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "A particle of mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> is attached to one end of a massless spring of force constant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi></math>, lying on a frictionless horizontal plane. The other end of the spring is fixed. The particle starts moving horizontally from its equilibrium position at time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math> with an initial velocity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>u</mi><mn>0</mn></msub></math>. When the speed of the particle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><msub><mi>u</mi><mn>0</mn></msub></math>, it collides elastically with a rigid wall. After this collision :",
+    "question_image": null,
+    "options": [
+      {
+        "id": "c32es",
+        "text": "The speed of the particle when it returns to its equilibrium position is u<sub>0</sub>",
+        "image": null
+      },
+      {
+        "id": "fmb1l",
+        "text": "The time at which the particle passes through the equilibrium position for the first time is <math> <mrow> <mtext>t</mtext> <mo>=</mo> <mi>&pi;</mi> <msqrt> <mfrac> <mrow> <mtext>m</mtext> </mrow> <mrow> <mtext>k</mtext> </mrow> </mfrac> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "nFRM0",
+        "text": "The time at which the maximum compression of the spring occurs is <math> <mrow> <mtext>t</mtext> <mo>=</mo> <mfrac> <mrow> <mn>4</mn> <mi>&pi;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <msqrt> <mfrac> <mrow> <mtext>m</mtext> </mrow> <mrow> <mtext>k</mtext> </mrow> </mfrac> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "id": "xiHYN",
+        "text": "The time at which the particle passes through the equilibrium position for the second time is <math> <mrow> <mtext>t</mtext> <mo>=</mo> <mfrac> <mrow> <mn>5</mn> <mi>&pi;</mi> </mrow> <mrow> <mn>3</mn> </mrow> </mfrac> <msqrt> <mfrac> <mrow> <mtext>m</mtext> </mrow> <mrow> <mtext>k</mtext> </mrow> </mfrac> </msqrt> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "xiHYN",
+    "solution_text": "<p>Let the equation of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>H</mi><mi>M</mi></math>&nbsp;be,</p><p style=\"margin-left: 40px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mi>A</mi><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p style=\"margin-left: 40px;\">Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;is the position of the particle at any time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi></math></p><p style=\"margin-left: 80px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;is the amplitude of the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>H</mi><mi>M</mi></math></p><p style=\"margin-left: 80px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi></math>&nbsp;is the Angular frequency of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>H</mi><mi>M</mi></math></p><p>So, equation for the velocity will be,</p><p style=\"margin-left: 40px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mi>A</mi><mi>&#969;</mi><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>v</mi><mo>=</mo><msub><mi>u</mi><mn>0</mn></msub><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mo>&#160;</mo><mo>&#160;</mo><mo>(</mo><mi>since</mi><mo>&#160;</mo><mi>velocity</mi><mo>&#160;</mo><mi>at</mi><mo>&#160;</mo><mi mathvariant=\"normal\">t</mi><mo>=</mo><mn>0</mn><mo>&#160;</mo><mi>is</mi><mo>&#160;</mo><msub><mi mathvariant=\"normal\">u</mi><mn>0</mn></msub><mo>,</mo><mo>&#160;</mo><mi>so</mi><mo>&#160;</mo><mi>&#969;A</mi><mo>=</mo><msub><mi mathvariant=\"normal\">u</mi><mn>0</mn></msub><mo>)</mo></math></p><p>Now, during collision speed of particle was&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>u</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><mn>0</mn><mo>.</mo><mn>5</mn><msub><mi>u</mi><mn>0</mn></msub></math></p><p>and time be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mn>1</mn></msub></math></p><p>So, Substituting the values in equation of velocity we get,</p><p style=\"margin-left: 40px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><msub><mi>u</mi><mn>0</mn></msub><mo>=</mo><msub><mi>u</mi><mn>0</mn></msub><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><msub><mi>t</mi><mn>1</mn></msub></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><msub><mi>t</mi><mn>1</mn></msub></mrow></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>&#969;</mi><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>3</mn></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mrow><mn>3</mn><mi>&#969;</mi></mrow></mfrac></math></p><p>As the energy will be conserve, so it will take same time to reach Equlibrium position first time,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>.</mo><mi>e</mi><mo>.</mo></math>,<br />Time at which particle crosses equlibrium first time,&nbsp;</p><p style=\"margin-left: 40px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msub><mi>T</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><mn>2</mn><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mrow><mn>3</mn><mi>&#969;</mi></mrow></mfrac></math></p><p><br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012659_AnsExp1_1.jpg\" /><br />Now, for the second half of the Oscillation, particle dosen&#39;t undergo collision that&#39;s why it will have normal Time period,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>.</mo><mi>e</mi><mo>.</mo></math></p><p>Time taken for the particle to go to the left will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>T</mi><mn>4</mn></mfrac></math>, as it was in the general case.</p><p style=\"margin-left: 40px;\">Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi></math>&nbsp;is time period of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>H</mi><mi>M</mi></math>.</p><p>So to come back to Equlibrium position for second time time required will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>T</mi><mn>2</mn></mfrac></math>.</p><p>Now,</p><p style=\"margin-left: 40px;\">&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mi>&#969;</mi></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mfrac><mi>T</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mi>&#969;</mi></mfrac></math></p><p>So total time required will be,</p><p style=\"margin-left: 40px;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">&#960;</mi><mi>&#969;</mi></mfrac><mo>+</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mrow><mn>3</mn><mi>&#969;</mi></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mfrac><mrow><mn>5</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mrow><mn>3</mn><mi>&#969;</mi></mrow></mfrac></math></p><p>Here,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi></math>&nbsp;is the angular frequency,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>.</mo><mi>e</mi><mo>.</mo></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>=</mo><msqrt><mfrac><mi>k</mi><mi>m</mi></mfrac></msqrt></math></p><p>Substituting it above we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo>&#160;</mo><mi>T</mi><mi>a</mi><mi>k</mi><mi>e</mi><mi>n</mi><mo>=</mo><mfrac><mrow><mn>5</mn><mi mathvariant=\"normal\">&#960;</mi></mrow><mn>3</mn></mfrac><msqrt><mfrac><mi>m</mi><mi>k</mi></mfrac></msqrt></math><br />&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a11f23ac7d519f9b10b",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "A wooden block performs SHM on a frictionless surface with frequency $v_0$. The block carries a charge $+Q$ on its surface. If now a uniform electric field $\\mathbf{E}$ is switched on as shown, then the SHM of the block will be\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qXPG7CDJEoYLFvBG9vbluBL11de7ItNaHitrFT3js1A.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xsK6Y",
+        "text": "\nof the dame frequency and with shifted mean position\n",
+        "image": null
+      },
+      {
+        "id": "Fn3B9",
+        "text": "\nof the same frequency and with the same mean position\n",
+        "image": null
+      },
+      {
+        "id": "PYeoh",
+        "text": "\nof changed frequency and with shifted mean position\n",
+        "image": null
+      },
+      {
+        "id": "ObWAA",
+        "text": "\nof changed frequency and with the same mean position",
+        "image": null
+      }
+    ],
+    "correct_answer": "xsK6Y",
+    "solution_text": "Frequency or time period of SHM depends on variable forces. It does not depend on constant external force. Constant external force can only change the mean position. For example, in the given question mean position is at natural length of spring in the absence of electric field. Whereas in the presence of electric field mean position will be obtained after a compression of $x_0$. Where $x_0$ is given by\nor\n$$\n\\begin{aligned}\nk x_0 & =Q E \\\\\nx_0 & =\\frac{Q E}{k}\n\\end{aligned}\n$$\n$\\therefore$ Correct answer is (a).\nAnalysis of Question\n(i) Question is simple.\n(ii) I think almost all the serious aspirants of JEE can solve this problem easily.",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a0bf23ac7d519f9b0d4",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nPhase space diagrams are useful tools in analyzing all kinds of dynamical problems. They are especially useful in studying the changes in motion as initial position and momentum are changed. Here we consider some simple dynamical systems in one-dimension. For such systems, phase space is a plane in which position is plotted along horizontal axis and momentum is plotted along vertical axis. The phase space diagram is $x(t) v s p(t)$ curve in this plane. The arrow on the\ncurve indicates the time flow. For example, the phase space diagram for a particle moving with constant velocity is a straight line as shown in the figure. We use the sign convention in which position or momentum upwards (or to right) is positive and downwards (or to left) is negative.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/XUS9yb1oVClHFXXo1R2Su7FpnIAGiALCHaAWRaCkIxo.original.fullsize.png\"><br><strong>Question:</strong>\nConsider the spring-mass system, with the mass submerged in water, as shown in the figure. The phase space diagram for one cycle of this system is<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/53Ml_Imd8sWvUpsp5WkZHm9H8FJc-nQ-pugQxJm97ok.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "3AYXn",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ScSj_MoI5Vsl88sva79sD-8B0WCxi3NsGEbXVJF6aSk.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "Ymsn0",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sxdjVykv7RJmtA94RFRt8YswTOqvFAE_UO9XD0rEZDg.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "rRDlI",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1uohWBNlMxXa1WJwPMqyZzuNWvjiQRx4QgWq1YHS0qo.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "z61dA",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/1RyOg2mbKfACyAAqKJwVlK_79ZsVcgCMrL5fa53TRSY.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Ymsn0",
+    "solution_text": "In all the given four figures, at mean position the position coordinate is zero. At the same time mass is starting from the extreme position in all fours cases. In figures (c) and (d), extreme position is more than the initial extreme position. But due to viscosity opposite should be the case. Hence, the answer should be either option (a) or option (b).\nCorrect answer is (b), because mass starts from positive extreme position (from uppermost position). Then, it will move downwards or momentum should be negative.\nAnalysis of Question\nQuestion is simple but (a) and (b) options are confusing.",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a0bf23ac7d519f9b0d3",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nPhase space diagrams are useful tools in analyzing all kinds of dynamical problems. They are especially useful in studying the changes in motion as initial position and momentum are changed. Here we consider some simple dynamical systems in one-dimension. For such systems, phase space is a plane in which position is plotted along horizontal axis and momentum is plotted along vertical axis. The phase space diagram is $x(t) v s p(t)$ curve in this plane. The arrow on the\ncurve indicates the time flow. For example, the phase space diagram for a particle moving with constant velocity is a straight line as shown in the figure. We use the sign convention in which position or momentum upwards (or to right) is positive and downwards (or to left) is negative.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/XUS9yb1oVClHFXXo1R2Su7FpnIAGiALCHaAWRaCkIxo.original.fullsize.png\"><br><strong>Question:</strong>\nThe phase space diagram for simple harmonic motion is a circle centered at the origin. In the figure, the two circles represent the same oscillator but for different initial conditions, and $E_1$ and $E_2$ are the total mechanical energies respectively. Then,<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/9d_CDTvM8AdXVdLzqYCWwC2MYHrM0IHhSY55oxNI0tQ.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "I6EAZ",
+        "text": "\n$E_1=\\sqrt{2} E_2$\n",
+        "image": null
+      },
+      {
+        "id": "UAQ7i",
+        "text": "\n$E_1=2 E_2$\n",
+        "image": null
+      },
+      {
+        "id": "v8Ex1",
+        "text": "\n$E_1=2 E_2$\n",
+        "image": null
+      },
+      {
+        "id": "rkh0o",
+        "text": "\n$E_1=16 E_2$",
+        "image": null
+      }
+    ],
+    "correct_answer": "v8Ex1",
+    "solution_text": "$E=\\frac{1}{2} m \\omega^2 A^2$\nor\n$$\n\\begin{aligned}\nE & \\propto A^2 \\\\\n\\frac{E_2}{E_1} & =\\left(\\frac{A_2}{A_1}\\right)^2 \\\\\n& =\\left(\\frac{a}{2 a}\\right)^2\n\\end{aligned}\n$$\nor $\\quad E_1=4 E_2$\n$\\therefore$ Correct option is (c).\nAnalysis of Question\n(i) Question is simple.\n(ii) Since, oscillator is same, $\\omega_1=\\omega_2$",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169f4f23ac7d519f9b002",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "The mass $M$ shown in the figure oscillates in simple harmonic motion with amplitude $A$. The amplitude of the point $P$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qNHPtmQUqjn_4Y0wNq4MzTRZTsXxFflTW9vRyMulmy4.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9w4HG",
+        "text": "\n$\\frac{k_a A}{k_2}$\n",
+        "image": null
+      },
+      {
+        "id": "SLlAQ",
+        "text": "\n$\\frac{k_2 A}{k_1}$\n",
+        "image": null
+      },
+      {
+        "id": "BAbkC",
+        "text": "\n$\\frac{k_1 A}{k_1+k_2}$\n",
+        "image": null
+      },
+      {
+        "id": "Wffsr",
+        "text": "\n$\\frac{k_2 A}{k_1+k_2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "Wffsr",
+    "solution_text": "$x_1+x_2=A$ and $k_1 x_1=k_2 x_2$ or $\\frac{x_1}{x_2}=\\frac{k_2}{k_1}$\nSolving these equations, we get\n$$\nx_1=\\left(\\frac{k_2}{k_1+k_2}\\right) A\n$$",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169eef23ac7d519f9afc8",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "The $x-t$ graph of a particle undergoing simple harmonic motion is shown below. The acceleration of the particle at $t=\\frac{4}{3} \\mathrm{~s}$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/U6hJmmO4R4N41xZzVh1AYNPenYB5HABlK_NaZjcprJU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "G4mgB",
+        "text": "\n$\\frac{\\sqrt{3}}{32} \\pi^2 \\mathrm{cms}^{-2}$\n",
+        "image": null
+      },
+      {
+        "id": "zT9Ch",
+        "text": "\n$\\frac{-\\pi^2}{32} \\mathrm{cms}^{-2}$\n",
+        "image": null
+      },
+      {
+        "id": "Dgnjf",
+        "text": "\n$\\frac{\\pi^2}{32} \\mathrm{cms}^{-2}$\n",
+        "image": null
+      },
+      {
+        "id": "xTyor",
+        "text": "\n$-\\frac{\\sqrt{3}}{32} \\pi^2 \\mathrm{cms}^{-2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "xTyor",
+    "solution_text": "$T=8 \\mathrm{~s}, \\omega=\\frac{2 \\pi}{T}=\\left(\\frac{\\pi}{4}\\right) \\operatorname{rads}^{-1}$\n$$\n\\begin{aligned}\nx & =A \\sin \\omega t \\\\\n\\therefore \\quad a=-\\omega^2 x & =-\\left(\\frac{\\pi^2}{16}\\right) \\sin \\left(\\frac{\\pi}{4} t\\right)\n\\end{aligned}\n$$\nSubstituting $t=\\frac{4}{3} \\mathrm{~s}$, we get\n$$\na=-\\left(\\frac{\\sqrt{3}}{32} \\pi^2\\right) \\mathrm{cms}^{-2}\n$$",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169e8f23ac7d519f9af90",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA uniform thin cylindrical disk of mass $M$ and radius $R$ is attached to two identical massless springs of spring constant $k$ which are fixed to the wall as shown in the figure. The springs are attached to the axle of the disk symmetrically on either side at a distance $d$ from its centre. The axle is massless and both the springs and the axle are in a horizontal plane. The unstretched length of each spring is $L$. The disk is initially at its equilibrium position with its centre of mass $(C M)$ at a distance Lfrom the wall. The disk rolls without slipping with velocity $\\mathbf{v}_0=v_0 \\hat{\\mathbf{i}}$ The coefficient of friction is $\\mu$.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qu5zp1fIdDHdtmpnI98KAcjT1WguzSHA0bjLfwtOGvg.original.fullsize.png\"><br><strong>Question:</strong>\nThe maximum value of $v_0$ for which the disk will roll without slipping is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OJt6M",
+        "text": "\n$\\mu g \\sqrt{\\frac{M}{k}}$\n",
+        "image": null
+      },
+      {
+        "id": "hkMXx",
+        "text": "\n$\\mu g \\sqrt{\\frac{M}{2 k}}$\n",
+        "image": null
+      },
+      {
+        "id": "WQGXG",
+        "text": "\n$\\mu g \\sqrt{\\frac{3 M}{k}}$\n",
+        "image": null
+      },
+      {
+        "id": "wned7",
+        "text": "\n$\\mu g \\sqrt{\\frac{5 M}{2 k}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "WQGXG",
+    "solution_text": "In case of pure rolling, mechanical energy will remain conserved.\n$$\n\\begin{array}{rlrl} \n& \\therefore & \\frac{1}{2} M v_0^2+\\frac{1}{2}\\left(\\frac{1}{2} M R^2\\right)\\left(\\frac{v_0}{R}\\right)^2 & =2\\left[\\frac{1}{2} k x_{\\max }^2\\right] \\\\\n& \\therefore & x_{\\max } & =\\sqrt{\\frac{3 M}{4 k}} v_0 \\\\\n& \\text { As } & & =\\frac{2 k x}{3} \\\\\n& f_{\\max } & =\\mu M g=\\frac{2 k x_{\\max }}{3}=\\frac{2 k}{3} \\sqrt{\\frac{3 M}{4 k}} v_0 \\\\\n& v_0 & =\\mu g \\sqrt{\\frac{3 M}{k}}\n\\end{array}\n$$\n$\\therefore$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169e8f23ac7d519f9af8f",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA uniform thin cylindrical disk of mass $M$ and radius $R$ is attached to two identical massless springs of spring constant $k$ which are fixed to the wall as shown in the figure. The springs are attached to the axle of the disk symmetrically on either side at a distance $d$ from its centre. The axle is massless and both the springs and the axle are in a horizontal plane. The unstretched length of each spring is $L$. The disk is initially at its equilibrium position with its centre of mass $(C M)$ at a distance Lfrom the wall. The disk rolls without slipping with velocity $\\mathbf{v}_0=v_0 \\hat{\\mathbf{i}}$ The coefficient of friction is $\\mu$.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qu5zp1fIdDHdtmpnI98KAcjT1WguzSHA0bjLfwtOGvg.original.fullsize.png\"><br><strong>Question:</strong>\nThe centre of mass of the disk undergoes simple harmonic motion with angular frequency $\\omega$ equal to",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Hvhv5",
+        "text": "\n$\\sqrt{\\frac{k}{M}}$\n",
+        "image": null
+      },
+      {
+        "id": "Joln7",
+        "text": "\n$\\sqrt{\\frac{2 k}{M}}$\n",
+        "image": null
+      },
+      {
+        "id": "Vo61p",
+        "text": "\n$\\sqrt{\\frac{2 k}{3 M}}$\n",
+        "image": null
+      },
+      {
+        "id": "OV625",
+        "text": "\n$\\sqrt{\\frac{4 k}{3 M}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "OV625",
+    "solution_text": "$$\n\\begin{aligned}\n& F_{\\text {net }}=-\\left(\\frac{4 k}{3}\\right) \\cdot x \\\\\n& \\therefore a=\\frac{F_{\\text {net }}}{M}=-\\left(\\frac{4 k}{3 M}\\right) x=-\\omega^2 x \\\\\n& \\therefore \\omega=\\sqrt{\\frac{4 k}{3 M}}\n\\end{aligned}\n$$\n$\\therefore$ correct option is (d).",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b169e8f23ac7d519f9af8e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nA uniform thin cylindrical disk of mass $M$ and radius $R$ is attached to two identical massless springs of spring constant $k$ which are fixed to the wall as shown in the figure. The springs are attached to the axle of the disk symmetrically on either side at a distance $d$ from its centre. The axle is massless and both the springs and the axle are in a horizontal plane. The unstretched length of each spring is $L$. The disk is initially at its equilibrium position with its centre of mass $(C M)$ at a distance Lfrom the wall. The disk rolls without slipping with velocity $\\mathbf{v}_0=v_0 \\hat{\\mathbf{i}}$ The coefficient of friction is $\\mu$.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qu5zp1fIdDHdtmpnI98KAcjT1WguzSHA0bjLfwtOGvg.original.fullsize.png\"><br><strong>Question:</strong>\nThe net external force acting on the disk when its centre of mass is at displacement $x$ with respect to its equilibrium position is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TszrA",
+        "text": "\n$-k x$\n",
+        "image": null
+      },
+      {
+        "id": "HnvW6",
+        "text": "\n$-2 k x$\n",
+        "image": null
+      },
+      {
+        "id": "YjgTT",
+        "text": "\n$-\\frac{2 k x}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "ZZ7RN",
+        "text": "\n$-\\frac{4 k x}{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ZZ7RN",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/87zdN1DOmFxV1uHxFl1sCju3IHy07z3Cawmy6uu8Uts.original.fullsize.png\"><br>\n$\\therefore \\quad \\frac{2 k x-f}{M}=R\\left[\\frac{f \\cdot R}{\\frac{1}{2} M R^2}\\right]$\nSolving this equation, we get $f=\\frac{2 k x}{3}$\n$$\n\\therefore\\left|F_{\\text {net }}\\right|=2 k x-f=2 k x-\\frac{2 k x}{3}=\\frac{4 k x}{3}\n$$\nThis is opposite to displacement.\n$$\n\\therefore \\quad F_{\\text {net }}=-\\frac{4 k x}{3}\n$$\n$\\therefore$ correct option is (d).",
+    "solution_image": null,
+    "topic": "Simple Harmonic Motion"
+  },
+  {
+    "question_id": "64b16a12f23ac7d519f9b10f",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "A point mass is subjected to two simultaneous sinusoidal displacements in $x$-direction, $x_1(t)=A \\sin \\omega t$ and $x_2(t)=A \\sin \\left(\\omega t+\\frac{2 \\pi}{3}\\right)$. Adding a third sinusoidal displacement $x_3(t)=B \\sin (\\omega t+\\phi)$ bring the mass to a complete rest. The values of $B$ and $\\phi$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Rdk3S",
+        "text": "\n$\\sqrt{2 A}, \\frac{3 \\pi}{4}$\n",
+        "image": null
+      },
+      {
+        "id": "U8cvX",
+        "text": "\n$A, \\frac{4 \\pi}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "VBigA",
+        "text": "\n$\\sqrt{3} A, \\frac{5 \\pi}{6}$\n",
+        "image": null
+      },
+      {
+        "id": "1W80B",
+        "text": "\n$A, \\frac{\\pi}{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "U8cvX",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aUgqUfC-c6FUMydFnyL-WX3gfqcC22f0LCjoN10xBxo.original.fullsize.png\"><br>\nResultant amplitude of $x_1$ and $x_2$ is $A$ at angle $\\left(\\frac{\\pi}{3}\\right)$ from $A_1$. To make resultant of $x_1, x_2$ and $x_3$ to be zero. $A_3$ should be equal to $A$ at angle $\\phi=\\frac{4 \\pi}{3}$ as shown in figure.\n$\\therefore$ Correct answer is (b).\nAlternate Solution\nIf we substitute,\n$$\nx_1+x_2+x_3=0\n$$\nor $A \\sin \\omega t+A \\sin \\left(\\omega t+\\frac{2 \\pi}{3}\\right)$\n$$\n+B \\sin (\\omega t+\\phi)=0\n$$\nThen, by applying simple mathematics, we can prove that\n$$\n\\begin{array}{rlrl}\nB & =A \\\\\n\\text { and } & \\phi & =\\frac{4 \\pi}{3}\n\\end{array}\n$$\nAnalysis of Question\n(i) Question is simple.\n(ii) Question can be solved by applying mathematics also.\n(iii) Amplitudes of two or more sine or cosine functions of same frequency $\\omega$ can be added by vector method.",
+    "solution_image": null,
+    "topic": "Superposition of S.H.M's and Resonance"
+  },
+  {
+    "question_id": "64b169fdf23ac7d519f9b04f",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "When two progressive waves $y_1=4 \\sin (2 x-6 t) \\quad$ and $y_2=3 \\sin \\left(2 x-6 t-\\frac{\\pi}{2}\\right) \\quad$ are superimposed, the amplitude of the resultant wave is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "Phase difference between the two waves is $90^{\\circ}$. Amplitudes are added by vector method.\n$\\therefore$ Answer is 5 .",
+    "solution_image": null,
+    "topic": "Superposition of S.H.M's and Resonance"
+  },
+  {
+    "question_id": "64b169c5f23ac7d519f9ae52",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Function $x=A \\sin ^2 \\omega t+B \\cos ^2 \\omega t+C$ $\\sin \\omega t \\cos \\omega t$ represents SHM.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TGoiV",
+        "text": "\nFor any value of $A, B$ and $C$ (except $C=0$ ) \n",
+        "image": null
+      },
+      {
+        "id": "ghqHD",
+        "text": "\nIf $A=-B, C=2 B$, amplitude $=|B \\sqrt{2}|$\n",
+        "image": null
+      },
+      {
+        "id": "mcI5o",
+        "text": "\nIf $A=B ; C=0$\n",
+        "image": null
+      },
+      {
+        "id": "wqkRq",
+        "text": "\nIf $A=B ; C=2 B$, amplitude $=|B|$",
+        "image": null
+      }
+    ],
+    "correct_answer": "wqkRq",
+    "solution_text": "For $A=-B$ and $C=2 B$\n$$\nX=B \\cos 2 \\omega t+B \\sin 2 \\omega t=\\sqrt{2 B} \\sin \\left(2 \\omega t+\\frac{\\pi}{4}\\right)\n$$\nThis is equation of SHM of amplitude $\\sqrt{2} B$\nIf $A=B$ and $C=2 B$, then $X=B+B \\sin 2 \\omega t$\nThis is also equation of SHM about the point $X=B$. Function oscillates between $X=0$ and $X=2 B$ with amplitude $B$.",
+    "solution_image": null,
+    "topic": "Superposition of S.H.M's and Resonance"
+  },
+  {
+    "question_id": "64b16a9bf23ac7d519f9b5f0",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>On a frictionless horizontal plane, a bob of mass <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi>kg</mi></math>&nbsp;is attached to a spring with natural length <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>l</mi><mn>0</mn></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>.&nbsp;The spring constant is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>k</mi><mn>1</mn></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>009</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> when the length of the spring <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>&#62;</mo><msub><mi>l</mi><mn>0</mn></msub></math>&nbsp;and is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>k</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn><mo>.</mo><mn>016</mn><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>&nbsp;when&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>&#60;</mo><msub><mi>l</mi><mn>0</mn></msub></math>. Initially the bob is released from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>15</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi></math>. Assume that Hooke&#39;s law remains valid throughout the motion. If the time period of the full oscillation is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mfenced><mrow><mi>n</mi><mi>&#960;</mi></mrow></mfenced><mi mathvariant=\"normal\">s</mi></math>, then the integer closest to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is _______.</p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "<blockquote><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/032fdb4e-e8cb-4931-9adf-1a55e1d50649-image.png\" style=\"width: 200px; height: 124px;\" /></p><p>Angular frequency for different values of spring constant will be given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#969;</mi><mn>1</mn></msub><mo>=</mo><msqrt><mfrac><msub><mi>k</mi><mn>1</mn></msub><mi>m</mi></mfrac></msqrt></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#969;</mi><mn>2</mn></msub><mo>=</mo><msqrt><mfrac><msub><mi>k</mi><mn>2</mn></msub><mi>m</mi></mfrac></msqrt></math></p><p>Time period for a spring of fix spring constant,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi></math>&nbsp;is given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mi>&#960;</mi><msqrt><mfrac><mi>m</mi><mi>k</mi></mfrac></msqrt></math>.</p><p>As per question, spring constant is having different values, hence we will have to find half of the time period for the given parts, first for the right half part of the oscillations &amp; next for the left half part of the oscillation from the mean position.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo></math>&nbsp; Time period&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>&#960;</mi><msqrt><mfrac><mi>m</mi><msub><mi>k</mi><mn>1</mn></msub></mfrac></msqrt><mo>+</mo><mi>&#960;</mi><msqrt><mfrac><mi>m</mi><msub><mi>k</mi><mn>2</mn></msub></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>&#960;</mi><msqrt><mfrac><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>009</mn></mrow></mfrac></msqrt><mo>+</mo><mi>&#960;</mi><msqrt><mfrac><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>016</mn></mrow></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>&#960;</mi><mrow><mn>0</mn><mo>.</mo><mn>3</mn></mrow></mfrac><mo>+</mo><mfrac><mi>&#960;</mi><mrow><mn>0</mn><mo>.</mo><mn>4</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>&#960;</mi><mo>&#215;</mo><mfenced><mfrac><mrow><mn>4</mn><mo>+</mo><mn>3</mn></mrow><mn>12</mn></mfrac></mfenced><mo>&#215;</mo><mn>10</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>70</mn><mn>12</mn></mfrac><mi>&#960;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>.</mo><mn>83</mn><mi>&#960;</mi></math></p><p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>6</mn></math>.</p></blockquote>",
+    "solution_image": null,
+    "topic": "Time Period and Frequency"
+  },
+  {
+    "question_id": "64b169f4f23ac7d519f9b000",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "A uniform rod of length $L$ and mass $M$ is pivoted at the centre. Its two ends are attached to two springs of equal spring constants $k$. The springs are fixed to rigid supports as shown in the figure, and rod is free to oscillate in the horizontal plane. The rod is gently pushed through a small angle $\\theta$ in one direction and released. The frequency of oscillation is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/zEebOkNjPBbVUWGAOGgVtZ1z2igySczwe95j7PSisvY.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "54Rc6",
+        "text": "\n$\\frac{1}{2 \\pi} \\sqrt{\\frac{2 k}{M}}$\n",
+        "image": null
+      },
+      {
+        "id": "ZeKyM",
+        "text": "\n$\\frac{1}{2 \\pi} \\sqrt{\\frac{k}{M}}$\n",
+        "image": null
+      },
+      {
+        "id": "ru8hl",
+        "text": "\n$\\frac{1}{2 \\pi} \\sqrt{\\frac{6 k}{M}}$\n",
+        "image": null
+      },
+      {
+        "id": "yGLfV",
+        "text": "\n$\\frac{1}{2 \\pi} \\sqrt{\\frac{24 k}{M}}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ru8hl",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/DrdMlLTmdrM4vZuHYllhDZoQTWGug-jp8kdYa7DO4KM.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n& \\text { Restoring torque }=-(2 k x) \\cdot \\frac{L}{2} \\\\\n& \\qquad \\alpha=-\\frac{k L(L / 2 \\theta)}{I}=-\\left[\\frac{k L^2 / 2}{M L^2 / 12}\\right] \\cdot \\theta\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n& =-\\left(\\frac{6 k}{M}\\right) \\theta \\\\\n\\therefore \\quad f & =\\frac{1}{2 \\pi} \\sqrt{\\left|\\frac{\\alpha}{\\theta}\\right|}=\\frac{1}{2 \\pi} \\sqrt{\\frac{6 k}{M}}\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Time Period and Frequency"
+  }
+]

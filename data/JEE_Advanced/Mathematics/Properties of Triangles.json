@@ -1,0 +1,826 @@
+[
+  {
+    "question_id": "64b16a99f23ac7d519f9b5df",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math>&nbsp;be the triangle with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>A</mi><mi>C</mi><mo>=</mo><mn>3</mn></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8736;</mo><mi>B</mi><mi>A</mi><mi>C</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math>. If a circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#62;</mo><mn>0</mn></math>&nbsp;touches the sides <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>,</mo><mi>A</mi><mi>C</mi></math>&nbsp;and also touches internally the circumcircle of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math>, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> is ______. (round-off the value to two decimal place)",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.84",
+    "solution_text": "<blockquote><p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;be the origin&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math>&nbsp;on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo></math>axis,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math>&nbsp;on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>-</mo></math>axis,</p><p>So on&nbsp;plotting the diagram we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5e78c3da-dbb0-440f-abdd-be6e63e79dda-image.png\" style=\"width: 180px; height: 152px;\" /></p><p>Now equation of circumcircle is given by&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mi>y</mi><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mfenced><mn>2</mn></msup><mo>=</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>1</mn></mfenced></math></p><p>Required equation of circle touches <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>C</mi></math>&nbsp;and have radius&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>&nbsp;so its equation is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mi>r</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mi>y</mi><mo>-</mo><mi>r</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8943;</mo><mfenced><mn>2</mn></mfenced></math></p><p>Now given circle in equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mn>2</mn></mfenced></math>&nbsp;touches circumcircle internally, so by property distance between the centre will be equal to modulus of difference of radii,</p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>d</mi><mrow><msub><mi>c</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub></mrow></msub><mo>=</mo><mfenced close=\"|\" open=\"|\"><mrow><msub><mi>r</mi><mn>1</mn></msub><mo>-</mo><msub><mi>r</mi><mn>2</mn></msub></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>-</mo><mi>r</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>-</mo><mi>r</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><msup><mfenced><mfenced close=\"|\" open=\"|\"><mrow><msqrt><mfrac><mn>5</mn><mn>2</mn></mfrac></msqrt><mo>-</mo><mi>r</mi></mrow></mfenced></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup><mo>-</mo><mi>r</mi><mo>+</mo><mfrac><mn>9</mn><mn>4</mn></mfrac><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn><mi>r</mi><mo>=</mo><msup><mfenced><mrow><msqrt><mfrac><mn>5</mn><mn>2</mn></mfrac></msqrt><mo>-</mo><mi>r</mi></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><msup><mi>r</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>r</mi><mo>+</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup><mo>-</mo><msqrt><mn>10</mn></msqrt><mi>r</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>r</mi><mo>=</mo><mn>0</mn></math>&nbsp;or&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mn>4</mn><mo>-</mo><msqrt><mn>10</mn></msqrt><mo>=</mo><mn>0</mn><mo>.</mo><mn>837</mn></math></p><p>So,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>84</mn></math>&nbsp; (on rounding off)</p></blockquote>",
+    "solution_image": null,
+    "topic": "Circle and Polygon"
+  },
+  {
+    "question_id": "64b16aabf23ac7d519f9b685",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "Consider an obtuse angled triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math> in which the difference between the largest and the smallest angle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math> and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie on a circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.<br />\n(There are two questions based on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PARAGRAPH</mi><mo>&#160;</mo><mo>&#34;</mo><mo>&#160;</mo><mn>1</mn><mo>&#160;</mo><mo>&#34;</mo></math>, the question given below is one of them)<br>Then the inradius of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.25",
+    "solution_text": "<blockquote><p>Let angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;be obtuse angle and let sides be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>-</mo><mi>d</mi><mo>,</mo><mo>&#160;</mo><mi>a</mi><mo>,</mo><mo>&#160;</mo><mi>a</mi><mo>+</mo><mi>d</mi></math></p><p>So, plotting the diagram we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3cf8d55c-d7b4-4bba-a896-bff2fda966c0.png\" style=\"width: 250px; height: 155px;\" /></p><p>Now let sides be,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>&#8722;</mo><mi>d</mi><mo>,</mo><mi>a</mi><mo>,</mo><mi>a</mi><mo>+</mo><mi>d</mi></math></p><p>Also given angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8722;</mo><mi>C</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math></p><p>And circum radius&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mn>1</mn></math></p><p>Now by sine rule we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>a</mi><mo>+</mo><mi>d</mi></mrow><mrow><mi>sin</mi><mo>&#8289;</mo><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mi>a</mi><mrow><mi>sin</mi><mo>&#8289;</mo><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>&#8722;</mo><mi>d</mi></mrow><mrow><mi>sin</mi><mo>&#8289;</mo><mi>C</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mspace width=\"1em\"></mspace><mi>A</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mo>&#8289;</mo><mi>A</mi><mo>=</mo><mi>sin</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mi>C</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mo>&#8289;</mo><mi>A</mi><mo>=</mo><mi>cos</mi><mo>&#8289;</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>d</mi></mrow><mn>2</mn></mfrac><mo>=</mo><msqrt><mn>1</mn><mo>&#8722;</mo><msup><mi>sin</mi><mn>2</mn></msup><mo>&#8289;</mo><mi>C</mi></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mfrac><mrow><mi>a</mi><mo>+</mo><mi>d</mi></mrow><mn>2</mn></mfrac></mfenced><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo>-</mo><msup><mfenced><mfrac><mrow><mi>a</mi><mo>-</mo><mi>d</mi></mrow><mn>2</mn></mfrac></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo></math></p><p>Now using cosine rule we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mo>&#8289;</mo><mi>B</mi><mo>=</mo><mfrac><mrow><mo>(</mo><mi>a</mi><mo>&#8722;</mo><mi>d</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>a</mi><mo>+</mo><mi>d</mi><msup><mo>)</mo><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>B</mi></msqrt><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced><mo>-</mo><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><mn>1</mn><mo>-</mo><mfrac><msup><mi>a</mi><mn>2</mn></msup><mn>4</mn></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>4</mn><mo>-</mo><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfrac><mo>&#160;&#160;</mo><mfenced><mrow><mo>&#8757;</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>4</mn><mo>-</mo><msup><mi>a</mi><mn>2</mn></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo></math></p><p>From <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>)</mo><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mo>(</mo><mn>2</mn><mo>)</mo></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>7</mn><mn>4</mn></mfrac><mo>,</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math><br />Area of triangle<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow><mn>4</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mfrac><msqrt><mn>7</mn></msqrt><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>6</mn><mrow><mn>4</mn><mo>&#215;</mo><mn>4</mn></mrow></mfrac></math></p><p>Now using the formula of inradius we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mfrac><mtext>area&#160;of&#160;triangle</mtext><mtext>semi&#160;perimeter</mtext></mfrac><mo>=</mo><mfrac><mi>&#916;</mi><mi>S</mi></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>r</mi><mo>=</mo><mfrac><mrow><mfrac><msqrt><mn>7</mn></msqrt><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>6</mn><mn>16</mn></mfrac></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><msqrt><mn>7</mn></msqrt><mn>2</mn></mfrac></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>16</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>25</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Circle Connected to Triangle"
+  },
+  {
+    "question_id": "64b16a74f23ac7d519f9b493",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "In a non-right-angled triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>P</mi><mi>Q</mi><mi>R</mi><mo>,</mo></math> let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo mathvariant=\"italic\">,</mo><mi>q</mi><mo mathvariant=\"italic\">,</mo><mi>r</mi></math> denote the lengths of the sides opposite to the angles at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mi>Q</mi><mo>,</mo><mi>R</mi></math> respectively. The median from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> meets the side <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>,</mo></math> the perpendicular from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> meets the side <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mi>R</mi></math> at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math>, and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>S</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>E</mi></math> intersect at <math><mn>0</mn><mo>.</mo></math> If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>=</mo><msqrt><mn>3</mn></msqrt><mo>,</mo><mi>q</mi><mo>=</mo><mn>1</mn><mo>,</mo></math> and the radius of the circumcircle of the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>P</mi><mi>Q</mi><mi>R</mi></math> equals <math><mn>1</mn><mo>,</mo></math> then which of the following options is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SW4Xg",
+        "text": "Length of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>S</mi><mo>=</mo><mfrac><msqrt><mn>7</mn></msqrt><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "FVPIo",
+        "text": "Area of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>S</mi><mi>O</mi><mi>E</mi><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>12</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "aN3Of",
+        "text": "Radius of incircle of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>P</mi><mi>R</mi><mi>Q</mi><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mfenced separators=\"|\"><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "kZjvm",
+        "text": "Length of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>E</mi><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kZjvm",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/012a20ce-aa11-4b54-92ae-5ccba172a0b0-image.png\"/>\r\n\r\nBy sine rule in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mi>R</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>p</mi><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>P</mi></mrow></mfrac><mo>=</mo><mfrac><mi>q</mi><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>Q</mi></mrow></mfrac><mo>=</mo><mfrac><mi>r</mi><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>R</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mi>R</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msqrt><mn>3</mn></msqrt><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>P</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>Q</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>R</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mfenced separators=\"|\"><mn>1</mn></mfenced></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>P</mi><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>Q</mi><mo>=</mo><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>R</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><msup><mn>60</mn><mo>°</mo></msup></math> or <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>120</mn><mo>°</mo></msup><mo>,</mo><mi> </mi><mi>Q</mi><mo>=</mo><msup><mn>30</mn><mo>°</mo></msup></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>150</mn><mo>°</mo></msup></math>\r\n\r\n<math><mo>⇒</mo></math> As <math><mi>P</mi><mi>Q</mi><mi>R</mi></math> is not a right angle triangle\r\n\r\nOnly possibility is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><msup><mn>120</mn><mo>°</mo></msup><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi>Q</mi><mo>=</mo><mi>R</mi><mo>=</mo><msup><mn>30</mn><mo>°</mo></msup></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mi>P</mi><mi>Q</mi><mi>R</mi></math> is an isosceles triangle, hence, <math><mi>P</mi><mi>E</mi></math> is also a median and <math><mi>‘</mi><mi>O</mi><mi>’</mi></math> will be centroid.\r\n\r\n( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∆</mo><mi>P</mi><mi>Q</mi><mi>E</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∆</mo><mi>P</mi><mi>R</mi><mi>E</mi></math> are congruent and <math><mi>E</mi></math> is mid point of <math><mi>Q</mi><mi>R</mi></math> )\r\n\r\n<math><mo>⇒</mo><mi> </mi><mi>r</mi><mo>=</mo><mi>q</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi> </mi><mi>P</mi><mo>=</mo><msqrt><mn>3</mn></msqrt></math>\r\n\r\nOption <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>A</mi></mfenced><mo>:</mo></math>\r\n\r\nLength of median from <math><mi>R</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>S</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mn>2</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup></msqrt><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mn>2</mn><msup><mfenced separators=\"|\"><msqrt><mn>3</mn></msqrt></mfenced><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>(</mo><mn>1</mn><mo>)</mo><mo>-</mo><mn>1</mn></msqrt><mo>=</mo><mfrac><msqrt><mn>7</mn></msqrt><mn>2</mn></mfrac></math>\r\n\r\nOption <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>B</mi></mfenced><mo>:</mo></math>\r\n\r\nNow, area of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>S</mi><mi>E</mi><mi>F</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>Δ</mi><mi>P</mi><mi>Q</mi><mi>R</mi></math>   ...<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math>\r\n\r\nand area of <math><mi>Δ</mi><mi>S</mi><mi>O</mi><mi>E</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>Δ</mi><mi>S</mi><mi>E</mi><mi>F</mi></math> ...<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>ii</mi></mfenced></math>\r\n\r\nfrom <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">i</mi></mfenced></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>ii</mi></mfenced></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>S</mi><mi>O</mi><mi>E</mi><mo>=</mo><mfrac><mn>1</mn><mn>12</mn></mfrac><mi>Δ</mi><mi>P</mi><mi>Q</mi><mi>R</mi></math> ...<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>iii</mi></mfenced></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>p</mi><mi>q</mi><mo> </mo><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi>R</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><msqrt><mn>3</mn></msqrt><mo>×</mo><mn>1</mn><mo>×</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>4</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Δ</mi><mi>S</mi><mi>O</mi><mi>E</mi><mo>=</mo><mfrac><mn>1</mn><mn>12</mn></mfrac><mi>Δ</mi><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>48</mn></mfrac></math>\r\n\r\nOption <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>D</mi></mfenced><mo>:</mo></math>\r\n\r\nLength of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>E</mi></math>\r\n\r\nAs <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> is centroid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>E</mi></math> will be <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> of <math><mi>P</mi><mi>E</mi></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>E</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mn>2</mn><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><msup><mi>r</mi><mn>2</mn></msup><mo>-</mo><msup><mi>p</mi><mn>2</mn></msup></msqrt><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mn>2</mn><mo>+</mo><mn>2</mn><mo>-</mo><mn>3</mn></msqrt></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mi>E</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi> </mi><mi>P</mi><mi>E</mi><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></math>\r\n\r\nOption <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>C</mi></mfenced><mo>:</mo></math>\r\n\r\nRadius of incircle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>Δ</mi><mi>S</mi></mfrac><mi mathvariant=\"normal\"> </mi><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">i</mi><mo>.</mo><mi mathvariant=\"normal\">e</mi><mo>.</mo><mfrac><mrow><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">i</mi><mo>-</mo><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></mrow></mfenced></math>\r\n\r\n<math><mo>=</mo><mfrac><mrow><mfrac bevelled=\"true\"><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac></mrow><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mn>1</mn><mo>+</mo><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><mn>2</mn><mo>+</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced></mrow></mfrac></math>\r\n\r\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mfenced><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced></math>",
+    "solution_image": null,
+    "topic": "Circle Connected to Triangle"
+  },
+  {
+    "question_id": "64b16a3df23ac7d519f9b29b",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "In a triangle the sum of two sides is x and the product of the same two sides is y. If <math><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">c</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi mathvariant=\"normal\">y</mi><mo>,</mo></math>&nbsp;(where c is the third side of the triangle) then the ratio of the inradius to the circumradius of the triangle is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "5H8aV",
+        "text": "<math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">x</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">c</mi></mrow></mfenced></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "zrg81",
+        "text": "<math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">c</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">c</mi></mrow></mfenced></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "pgL7Q",
+        "text": "<math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">x</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">c</mi></mrow></mfenced></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "PRWZb",
+        "text": "<math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">y</mi></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">c</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">c</mi></mrow></mfenced></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "zrg81",
+    "solution_text": "Let <math><mi>x</mi><mo>=</mo><mi>a</mi><mo>+</mo><mi>b</mi></math><br /><math><mi>y</mi><mo>=</mo><mi>a</mi><mi>b</mi></math><br /><math><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi>y</mi></math><br /><math><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi>a</mi><mi>b</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mn>120</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mfenced></mrow></mrow><mi>&nbsp;</mi></math><br /><math><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>∠</mi><mi>C</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math><br /><math><mo>⇒</mo><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>R</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mi>b</mi><mi>c</mi></mrow><mrow><mn>4</mn><mo>∆</mo></mrow></mfrac><mo>,</mo><mi>&nbsp;</mi><mi>r</mi><mo>=</mo><mfrac><mrow><mo>∆</mo></mrow><mrow><mi>s</mi></mrow></mfrac></math><br /><math><mo>⇒</mo><mi>&nbsp;</mi><mfrac><mrow><mi>r</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mrow><mo>∆</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>s</mi><mfenced separators=\"|\"><mrow><mi>a</mi><mi>b</mi><mi>c</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn><msup><mrow><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>&nbsp;</mi><mi>a</mi><mi>b</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced></mrow></mrow></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mfrac><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>y</mi><mi>&nbsp;</mi><mo>.</mo><mi>&nbsp;</mi><mi>c</mi></mrow></mfrac></math><br /><math><mfrac><mrow><mi>r</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><mn>2</mn><mi>c</mi><mfenced separators=\"|\"><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfrac></math>",
+    "solution_image": null,
+    "topic": "Circle Connected to Triangle"
+  },
+  {
+    "question_id": "64b169d7f23ac7d519f9aef3",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 1)",
+    "paper_year_short": "2007 (Paper 1)",
+    "held_on": "2007-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nConsider the circle $x^2+y^2=9$ and the parabola $y^2=8 x$. They intersect at $P$ and $Q$ in the first and the fourth quadrants, respectively. Tangents to the circle at $P$ and $Q$ intersect the $\\mathrm{X}$-axis at $R$ and tangents to the parabola at $P$ and $Q$ intersect the $\\mathrm{X}$-axis at $S$.<strong>Question:</strong>\nThe radius of the incircle of the $\\triangle P Q R$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "UlmYx",
+        "text": "\n4\n",
+        "image": null
+      },
+      {
+        "id": "dsfDz",
+        "text": "\n3\n",
+        "image": null
+      },
+      {
+        "id": "374JY",
+        "text": "\n$\\frac{8}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "4UkP2",
+        "text": "\n2",
+        "image": null
+      }
+    ],
+    "correct_answer": "4UkP2",
+    "solution_text": "Radius of incircle is, $r=\\frac{\\Delta}{s}$\nAs $\\Delta=16 \\sqrt{2}$\n$$\n\\begin{aligned}\n& \\therefore \\quad s=\\frac{6 \\sqrt{2}+6 \\sqrt{2}+4 \\sqrt{2}}{2}=8 \\sqrt{2} \\\\\n& \\therefore \\quad r=\\frac{16 \\sqrt{2}}{8 \\sqrt{2}}=2 \\\\\n&\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Circle Connected to Triangle"
+  },
+  {
+    "question_id": "64b16a92f23ac7d519f9b5a2",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "Consider a triangle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mi>R</mi></math>&nbsp;having sides of lengths&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>,</mo><mi>q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>&nbsp;opposite to the angles&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>,</mo><mi>Q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>, respectively. Then which of the following statements is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qOyss",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>P</mi><mo>&#8805;</mo><mn>1</mn><mo>-</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>q</mi><mi>r</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "kDRRt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>R</mi><mo>&#8805;</mo><mfenced><mfrac><mrow><mi>q</mi><mo>-</mo><mi>r</mi></mrow><mrow><mi>p</mi><mo>+</mo><mi>q</mi></mrow></mfrac></mfenced><mi>cos</mi><mi>P</mi><mo>+</mo><mfenced><mfrac><mrow><mi>p</mi><mo>-</mo><mi>r</mi></mrow><mrow><mi>p</mi><mo>+</mo><mi>q</mi></mrow></mfrac></mfenced><mi>cos</mi><mi>Q</mi></math>",
+        "image": null
+      },
+      {
+        "id": "8ANov",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>q</mi><mo>+</mo><mi>r</mi></mrow><mi>p</mi></mfrac><mo>&#60;</mo><mn>2</mn><mfrac><msqrt><mi>sin</mi><mi>Q</mi><mo>&#160;</mo><mi>sin</mi><mi>R</mi></msqrt><mrow><mi>sin</mi><mi>P</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "S69Zn",
+        "text": "If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>&#60;</mo><mi>q</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>&#60;</mo><mi>r</mi><mo>,</mo></math>&nbsp;then&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>Q</mi><mo>&#62;</mo><mfrac><mi>p</mi><mi>r</mi></mfrac></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>R</mi><mo>&#62;</mo><mfrac><mi>p</mi><mi>q</mi></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kDRRt",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cac050d9-bcfb-40c1-b5bc-ce5bf1bf1ace-image.png\" style=\"width: 180px; height: 179px;\" /></p><p>(A) Applying cosine rule</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>P</mi><mo>=</mo><mfrac><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>p</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>q</mi><mi>r</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mfrac><mi>q</mi><mi>r</mi></mfrac><mo>+</mo><mfrac><mi>r</mi><mi>q</mi></mfrac></mrow></mfenced><mo>&#8722;</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>q</mi><mi>r</mi></mrow></mfrac></math></p><p>We know, using&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo><mi>M</mi><mo>.</mo><mo>&#8805;</mo><mi>G</mi><mo>.</mo><mi>M</mi><mo>.</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mfrac><mi>q</mi><mi>r</mi></mfrac><mo>+</mo><mfrac><mi>r</mi><mi>q</mi></mfrac></mrow></mfenced><mo>&#8805;</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mo>&#160;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mfrac><mi>q</mi><mi>r</mi></mfrac><mo>+</mo><mfrac><mi>r</mi><mi>q</mi></mfrac></mrow></mfenced><mo>&#8805;</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mfrac><mi>q</mi><mi>r</mi></mfrac><mo>+</mo><mfrac><mi>r</mi><mi>q</mi></mfrac></mrow></mfenced><mfrac><mrow><mo>&#8722;</mo><msup><mi>p</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>q</mi><mi>r</mi></mrow></mfrac><mo>&#8805;</mo><mn>1</mn><mo>&#8722;</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>q</mi><mi>r</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>cos</mi><mi>P</mi><mo>&#8805;</mo><mn>1</mn><mo>&#8722;</mo><mfrac><msup><mi>p</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>q</mi><mi>r</mi></mrow></mfrac></math></p><p>(B)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>p</mi><mo>+</mo><mi>q</mi></mrow></mfenced><mi>cos</mi><mi>R</mi><mo>&#8805;</mo><mfenced><mrow><mi>q</mi><mo>&#8722;</mo><mi>r</mi></mrow></mfenced><mi>cos</mi><mi>P</mi><mo>+</mo><mfenced><mrow><mi>p</mi><mo>&#8722;</mo><mi>r</mi></mrow></mfenced><mi>cos</mi><mi>Q</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>p</mi><mi>cos</mi><mi>R</mi><mo>+</mo><mi>r</mi><mi>cos</mi><mi>P</mi></mrow></mfenced><mo>+</mo><mfenced><mrow><mi>q</mi><mi>cos</mi><mi>R</mi><mo>+</mo><mi>r</mi><mi>cos</mi><mi>Q</mi></mrow></mfenced><mo>&#8805;</mo><mfenced><mrow><mi>q</mi><mi>cos</mi><mi>P</mi><mo>+</mo><mi>p</mi><mi>cos</mi><mi>Q</mi></mrow></mfenced></math></p><p>using projection formula</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi><mo>+</mo><mi>p</mi><mo>&#8805;</mo><mi>r</mi></math></p><p>Which is true as sum of two sides of triangles is greater than third side.</p><p>(C)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>q</mi><mo>+</mo><mi>r</mi></mrow><mi>p</mi></mfrac><mo>&#60;</mo><mfrac><mrow><mn>2</mn><msqrt><mi>sin</mi><mi>Q</mi><mi>sin</mi><mi>R</mi></msqrt></mrow><mrow><mi>sin</mi><mi>P</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>q</mi><mo>+</mo><mi>r</mi></mrow><mi>p</mi></mfrac><mo>&#60;</mo><mn>2</mn><msqrt><mfrac><mrow><mi>sin</mi><mi>Q</mi><mi>sin</mi><mi>R</mi></mrow><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>P</mi></mrow></mfrac></msqrt></math></p><p>Applying sine rule</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>q</mi><mo>+</mo><mi>r</mi></mrow><mi>p</mi></mfrac><mo>&#60;</mo><mn>2</mn><msqrt><mfrac><mrow><mi>q</mi><mi>r</mi></mrow><msup><mi>p</mi><mn>2</mn></msup></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>q</mi><mo>+</mo><mi>r</mi></mrow><mrow><mn>2</mn><mi>p</mi></mrow></mfrac><mo>&#60;</mo><msqrt><mfrac><mrow><mi>q</mi><mi>r</mi></mrow><msup><mi>p</mi><mn>2</mn></msup></mfrac></msqrt></math></p><p>Applying&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>.</mo><mi>M</mi><mo>.</mo><mo>&#8805;</mo><mi>G</mi><mo>.</mo><mi>M</mi><mo>.</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfrac><mi>q</mi><mi>p</mi></mfrac><mo>+</mo><mfrac><mi>r</mi><mi>p</mi></mfrac></mrow><mn>2</mn></mfrac><mo>&#8805;</mo><msqrt><mfrac><mrow><mi>q</mi><mi>r</mi></mrow><msup><mi>p</mi><mn>2</mn></msup></mfrac></msqrt></math></p><p>So, (C) is not true</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>q</mi><mo>+</mo><mi>r</mi></mrow><mrow><mn>2</mn><mi>p</mi></mrow></mfrac><mo>&#8805;</mo><msqrt><mfrac><mrow><mi>q</mi><mi>r</mi></mrow><msup><mi>p</mi><mn>2</mn></msup></mfrac></msqrt></math></p><p>(D)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>&#60;</mo><mi>q</mi></math>&nbsp;&amp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>&#60;</mo><mi>r</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;</mo><mi>p</mi></math>&nbsp;is smallest side</p><p>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>Q</mi><mo>&#62;</mo><mfrac><mi>p</mi><mi>r</mi></mfrac></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>R</mi><mo>&#62;</mo><mfrac><mi>p</mi><mi>q</mi></mfrac></math>&nbsp;is true</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>p</mi><mo>&#60;</mo><mi>r</mi><mi>cos</mi><mi>Q</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>&#60;</mo><mi>q</mi><mi>cos</mi><mi>R</mi></math></p><p>adding both inequalities</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>p</mi><mo>&#60;</mo><mi>r</mi><mi>cos</mi><mi>Q</mi><mo>+</mo><mi>q</mi><mi>cos</mi><mi>R</mi></math></p><p>using projection formula</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>2</mn><mi>p</mi><mo>&#60;</mo><mi>p</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#60;</mo><mn>1</mn></math></p><p>Which is not correct.</p><p>&nbsp;</p>",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a8ef23ac7d519f9b579",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "In a triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math>, let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>=</mo><msqrt><mn>23</mn></msqrt><mo>,</mo><mi>B</mi><mi>C</mi><mo>=</mo><mn>3</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>A</mi><mo>=</mo><mn>4</mn></math>. Then the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cot</mi><mi>A</mi><mo>+</mo><mi>cot</mi><mi>C</mi></mrow><mrow><mi>cot</mi><mi>B</mi></mrow></mfrac></math>&nbsp;is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cot</mi><mi>A</mi><mo>+</mo><mi>cot</mi><mi>C</mi></mrow><mrow><mi>cot</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mi>cos</mi><mi>A</mi></mrow><mrow><mi>sin</mi><mi>A</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>cos</mi><mi>C</mi></mrow><mrow><mi>sin</mi><mi>C</mi></mrow></mfrac></mrow><mfrac><mrow><mi>cos</mi><mi>B</mi></mrow><mrow><mi>sin</mi><mi>B</mi></mrow></mfrac></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi>cos</mi><mi>A</mi><mi>sin</mi><mi>C</mi><mo>+</mo><mi>cos</mi><mi>C</mi><mi>sin</mi><mi>A</mi></mrow><mrow><mi>sin</mi><mi>A</mi><mi>sin</mi><mi>C</mi></mrow></mfrac><mo>&#183;</mo><mfrac><mrow><mi>sin</mi><mi>B</mi></mrow><mrow><mi>cos</mi><mi>B</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi>sin</mi><mo>(</mo><mi>A</mi><mo>+</mo><mi>C</mi><mo>)</mo></mrow><mrow><mi>sin</mi><mi>A</mi><mi>sin</mi><mi>C</mi></mrow></mfrac><mo>&#183;</mo><mfrac><mrow><mi>sin</mi><mi>B</mi></mrow><mrow><mi>cos</mi><mi>B</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mi>sin</mi><mo>(</mo><mi>&#960;</mi><mo>-</mo><mi>B</mi><mo>)</mo></mrow><mrow><mi>sin</mi><mi>A</mi><mi>sin</mi><mi>C</mi></mrow></mfrac><mo>&#183;</mo><mfrac><mrow><mi>sin</mi><mi>B</mi></mrow><mrow><mi>cos</mi><mi>B</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>B</mi></mrow><mrow><mi>sin</mi><mi>A</mi><mi>sin</mi><mi>C</mi><mi>cos</mi><mi>B</mi></mrow></mfrac></math></p><p>Let,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mo>=</mo><mi>c</mi><mo>,</mo><mo>&#160;</mo><mi>B</mi><mi>C</mi><mo>=</mo><mi>a</mi><mo>,</mo><mo>&#160;</mo><mi>C</mi><mi>A</mi><mo>=</mo><mi>b</mi></math></p><p>By using sine rule, we get</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msup><mi>b</mi><mn>2</mn></msup><mrow><mi>a</mi><mi>c</mi><mi>cos</mi><mi>B</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><msup><mi>b</mi><mn>2</mn></msup><mrow><mi>a</mi><mi>c</mi><mfenced><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup><mo>-</mo><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>a</mi><mi>c</mi></mrow></mfrac></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup><mo>-</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>32</mn><mrow><mn>9</mn><mo>+</mo><mn>23</mn><mo>-</mo><mn>16</mn></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>32</mn><mn>16</mn></mfrac><mo>=</mo><mn>2</mn></math></p>",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a68f23ac7d519f9b423",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "In a triangle <math><mi>P</mi><mi>Q</mi><mi>R</mi><mo>,</mo><mi>&#160;</mi><mi>l</mi><mi>e</mi><mi>t</mi><mi>&#160;</mi><mi>&#8736;</mi><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></math> and the sides <math><mi>P</mi><mi>Q</mi><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mi>Q</mi><mi>R</mi></math> have lengths <math><mn>10</mn><msqrt><mn>3</mn></msqrt><mi>&#160;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&#160;</mi><mn>10</mn></math> , respectively. Then, which of the following statement(s) is (are) TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2Ktoy",
+        "text": "<math><mi>∠</mi><mi>Q</mi><mi>P</mi><mi>R</mi><mo>=</mo><msup><mrow><mn>45</mn></mrow><mrow><mi>o</mi></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "RU9ou",
+        "text": "The area of the triangle  <math><mi>P</mi><mi>Q</mi><mi>R</mi><mi> </mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi> </mi><mn>25</mn><msqrt><mn>3</mn></msqrt><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mi>∠</mi><mi>Q</mi><mi>R</mi><mi>P</mi><mo>=</mo><msup><mrow><mn>120</mn></mrow><mrow><mi>o</mi></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "Ujv5M",
+        "text": "The radius of the in circle of the triangle <math><mi>P</mi><mi>Q</mi><mi>R</mi><mi>&nbsp;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi>&nbsp;</mi><mn>10</mn><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>15</mn></math>",
+        "image": null
+      },
+      {
+        "id": "v0dfy",
+        "text": "The area of the circumcircle of the triangle <math><mi>P</mi><mi>Q</mi><mi>R</mi><mi>&nbsp;</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi>&nbsp;</mi><mn>100</mn><mi>π</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "v0dfy",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bckqyittpevfhjlokvubbzmzeirlnupionbjpkfgorwdqzxwcr.jpeg\"/><br ><math><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mrow><mo>=</mo><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>10</mn><msqrt><mn>3</mn></msqrt></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mn>10</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mfenced separators=\"|\"><mrow><mi>P</mi><mi>R</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>×</mo><mn>10</mn><msqrt><mn>3</mn></msqrt><mo>×</mo><mn>10</mn></mrow></mfrac></math><br ><math><mo>⇒</mo><mi> </mi><mi> </mi><mi>P</mi><mi>R</mi><mo>=</mo><mn>10</mn></math><br ><math><mo>∵</mo><mi> </mi><mi> </mi><mi>Q</mi><mi>R</mi><mo>=</mo><mi>P</mi><mi>R</mi><mi> </mi><mo>⇒</mo><mi>∠</mi><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><mi>∠</mi><mi>Q</mi><mi>P</mi><mi>R</mi></math><br ><math><mi>∠</mi><mi>Q</mi><mi>P</mi><mi>R</mi><mo>=</mo><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></math><br ><math><mfenced separators=\"|\"><mrow><mi>B</mi></mrow></mfenced></math> Area of <math><mo>∆</mo><mi>P</mi><mi>Q</mi><mi>R</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mn>10</mn><msqrt><mn>3</mn></msqrt><mo>×</mo><mn>10</mn><mo>×</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><mn>10</mn><mo>×</mo><mn>10</mn><msqrt><mn>3</mn></msqrt><mo>×</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><mo>=</mo><mi> </mi><mi> </mi><mn>25</mn><msqrt><mn>3</mn></msqrt></math><br ><math><mi>∠</mi><mi>Q</mi><mi>R</mi><mi>P</mi><mo>=</mo><msup><mrow><mn>180</mn></mrow><mrow><mi>o</mi></mrow></msup><mo>-</mo><mfenced separators=\"|\"><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup><mo>+</mo><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mfenced><mo>=</mo><msup><mrow><mn>120</mn></mrow><mrow><mi>o</mi></mrow></msup></math><br ><math><mfenced separators=\"|\"><mrow><mi>C</mi></mrow></mfenced></math> <math><mi>r</mi><mo>=</mo><mfrac><mrow><mo>∆</mo></mrow><mrow><mi>S</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>25</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>10</mn><mo>+</mo><mn>10</mn><mo>+</mo><mn>10</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>25</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>10</mn><mo>+</mo><mn>5</mn><msqrt><mn>3</mn></msqrt></mrow></mfrac></math><br ><math><mo>=</mo><mi> </mi><mi> </mi><mn>5</mn><msqrt><mn>3</mn></msqrt><mo>.</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced><mo>=</mo><mn>10</mn><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>15</mn></math><br ><math><mfenced separators=\"|\"><mrow><mi>D</mi></mrow></mfenced></math> <math><mi>R</mi><mo>=</mo><mfrac><mrow><mi>a</mi></mrow><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi>A</mi></mrow></mrow></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><msup><mrow><mn>30</mn></mrow><mrow><mi>o</mi></mrow></msup></mrow></mrow></mrow></mfrac><mo>=</mo><mn>10</mn></math><br ><math><mo>∴</mo><mi> </mi><mi> </mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mo>=</mo><mi>π</mi><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>100</mn><mi>π</mi></math>",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a45f23ac7d519f9b2e8",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 800px;\">\t<tbody>\t\t<tr>\t\t\t<td colspan=\"2\" rowspan=\"1\" style=\"text-align: center;\"><strong>&nbsp;Column I</strong></td>\t\t\t<td colspan=\"2\" rowspan=\"1\" style=\"text-align: center;\"><strong>&nbsp;Column&nbsp;II&nbsp;&nbsp;</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">A</mi></mfenced></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</td>\t\t\t<td>\t\t\t<p>&nbsp;In a triangle<span lang=\"EN-IN\" style=\"font-size:11.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\">&nbsp;</span></span></span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>X</mi><mi>Y</mi><mi>Z</mi></math>&nbsp;let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>,</mo><mi>b</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">c</mi></math>&nbsp;be the lengths of the angles&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>,</mo><mi>Y</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">Z</mi></math>, respectively. If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></mfenced><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi><mo>=</mo><mfrac><mrow><mi>sin</mi><mfenced><mrow><mi>X</mi><mo>&#8722;</mo><mi>Y</mi></mrow></mfenced></mrow><mi>sinZ</mi></mfrac></math>then possible values of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;for which&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced><mrow><mi>n</mi><mi>&#960;</mi><mi>&#955;</mi></mrow></mfenced><mo>=</mo><mn>0</mn></math>&nbsp;is are</p>\t\t\t</td>\t\t\t<td>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">P</mi></mfenced></math>&nbsp; &nbsp; &nbsp; &nbsp;</td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>&nbsp; &nbsp; &nbsp; &nbsp;</td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">B</mi></mfenced></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>\t\t\t<td>\t\t\t<p>&nbsp;In a triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi><mi>X</mi><mi>Y</mi><mi>Z</mi><mo>,</mo></math> let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>,</mo><mi>b</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math> be the lengths of the sides opposite to the angles <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>,</mo><mi>Y</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math>, respectively. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>+</mo><mi>cos</mi><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>cos</mi><mn>2</mn><mi>y</mi></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mi>sin</mi><mi>x</mi><mi>sin</mi><mi>y</mi></math>, then possible value(s) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>a</mi><mi>b</mi></mfrac></math> is (are)</p>\t\t\t</td>\t\t\t<td>&nbsp;&nbsp;<math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">Q</mi></mrow></mfenced></math></td>\t\t\t<td>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">C</mi></mfenced></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>\t\t\t<td>&nbsp;In <math><msup><mrow><mi mathvariant=\"double-struck\">R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>,</mo></math> let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">&#160;</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>+</mo><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>+</mo><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">&#160;</mi><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>+</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>&#946;</mi></mrow></mfenced><mi mathvariant=\"normal\">&#160;</mi><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></math> be the position vectors of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>,</mo><mi>Y</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math> with respect to the origin <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math>, respectively. If the distance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi></math> from the bisector of the acute angle of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi><mi>X</mi></mrow><mo>&#8594;</mo></mover></math> with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi><mi>Y</mi></mrow><mo>&#8594;</mo></mover></math> is <math><mfrac><mrow><mn>3</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math>, then possible value (s) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\"><mi>&#946;</mi></mfenced></math> is (are)</td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">R</mi></mfenced></math></td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">D</mi></mfenced></math>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>\t\t\t<td>\t\t\t<p>&nbsp;Suppose that <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>(</mo><mi>&#945;</mi><mo>)</mo></math> denotes the area of the region bounded by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi mathvariant=\"normal\">&#160;</mi><mi>x</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>&#160;</mi><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>x</mi></math>&nbsp;and<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>a</mi><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>+</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi>&#945;</mi><mi>&#160;</mi><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mo>+</mo><mi>&#945;</mi><mi>x</mi><mo>,</mo></math>&nbsp; where <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>&#8712;</mo><mfenced close=\"}\" open=\"{\" separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mn>1</mn></mrow></mfenced><mo>.</mo><mi>&#160;</mi></math>&nbsp;Then the value (s) of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mfenced separators=\"|\"><mi>&#945;</mi></mfenced><mo>+</mo><mfrac><mn>8</mn><mn>3</mn></mfrac><mi>&#160;</mi><msqrt><mn>2</mn></msqrt><mo>,</mo><mi>&#160;</mi></math> when <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>0</mn></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mn>1</mn></math>, is (are)</p>\t\t\t</td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">S</mi></mfenced></math></td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">T</mi></mfenced></math></td>\t\t\t<td>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math></td>\t\t</tr>\t</tbody></table><p>&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xUVSR",
+        "text": "a-p,r,s;b-p;c-p,q;d-s,t;",
+        "image": null
+      },
+      {
+        "id": "0uCdg",
+        "text": "a-q,r,s,t;b-q,r,s,t;c-r,s,t;d-q,r,s;",
+        "image": null
+      },
+      {
+        "id": "2kItB",
+        "text": "a-q;b-r;c-r,s;d-r,s;",
+        "image": null
+      },
+      {
+        "id": "TThdF",
+        "text": "a-q,r,s,t;b-t;c-r,s,t;d-q,r,s,t;",
+        "image": null
+      }
+    ],
+    "correct_answer": "xUVSR",
+    "solution_text": "<p><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math> <math><mi mathvariant=\"normal\">λ</mi><mo>=</mo><mfrac><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">X</mi><mo>-</mo><mi mathvariant=\"normal\">Y</mi></mrow></mfenced></mrow></mrow></mrow><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">Z</mi></mrow></mrow></mrow></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>sinX</mi><mi>cosY</mi><mo>-</mo><mi>cosX</mi><mi>sin</mi><mi>Y</mi></mrow><mi>sinZ</mi></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">a</mi><mi>cosY</mi><mo>-</mo><mi mathvariant=\"normal\">b</mi><mi>cosX</mi></mrow><mi>c</mi></mfrac></math><br ><math><mfrac><mrow><mi mathvariant=\"normal\">a</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">c</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">c</mi></mrow></mfrac></mrow></mfenced><mo>-</mo><mi mathvariant=\"normal\">b</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">c</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">c</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi mathvariant=\"normal\">c</mi></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">λ</mi></math><br ><math><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">c</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">λ</mi></math><br >As <math><mn>2</mn><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">c</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br ><math><mo>∴</mo><mi mathvariant=\"normal\">λ</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math><br ><math><mo>∴</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mn>0</mn></math><br ><math><mo>∴</mo><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mn>3</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mn>5</mn></math><br ><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">B</mi></mrow></mfenced></math> <math><mn>1</mn><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mn>2</mn></mrow></mrow><mi mathvariant=\"normal\">X</mi><mo>-</mo><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mn>2</mn></mrow></mrow><mi mathvariant=\"normal\">Y</mi><mo>=</mo><mn>2</mn><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">X</mi></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mi mathvariant=\"normal\">Y</mi></mrow></mrow></math><br >Solving<br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msup><mi>sin</mi><mn>2</mn></msup><mi mathvariant=\"normal\">Y</mi><mo>-</mo><mn>2</mn><msup><mi>sin</mi><mn>2</mn></msup><mi mathvariant=\"normal\">X</mi><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">X</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">Y</mi></math><br ><math><mn>4</mn><msup><mrow><mi mathvariant=\"normal\">b</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mn>2</mn><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">b</mi></math><br ><math><mn>4</mn><mo>-</mo><mn>2</mn><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">b</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">b</mi></mrow></mfrac></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image69-547fbc98-9bfb-47dc-b4e1-cca3f5388779.png\"/><br/><math><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">b</mi></mrow></mfrac><mo>=</mo><mi mathvariant=\"normal\">X</mi></math></p><p><math><msup><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi mathvariant=\"normal\">X</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></p><p><math><mi mathvariant=\"normal\">X</mi><mo>=</mo><mn>1</mn></math></p><p><math><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">b</mi></mrow></mfrac><mo>=</mo><mn>1</mn></math></p><p><math><mi mathvariant=\"normal\">x</mi><mo>=</mo><mo>-</mo><mn>2</mn></math></p><p><math><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mi mathvariant=\"normal\">b</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mn>2</mn></math> (rejected)</p><p><math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">C</mi></mrow></mfenced></math> <math><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">Y</mi><mo>≡</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><msqrt><mn>3</mn></msqrt><mi mathvariant=\"normal\">x</mi></math></p><p><math><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">X</mi><mo>≡</mo><mi mathvariant=\"normal\">y</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac><mi mathvariant=\"normal\">x</mi></math></p><p><math><mo>∴</mo></math> Equation of bisector of <math><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">X</mi><mo>,</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">O</mi><mi mathvariant=\"normal\">Y</mi></math></p><p><math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">x</mi></math></p><p><math><mo>∴</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">x</mi><mo>-</mo><mi mathvariant=\"normal\">y</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math></p><p><math><mfrac><mrow><mi mathvariant=\"normal\">β</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">β</mi></mrow></mfenced></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>=</mo><mo>±</mo><mfrac><mrow><mn>3</mn></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math></p><p><math><mn>2</mn><mi mathvariant=\"normal\">β</mi><mo>-</mo><mn>1</mn><mo>=</mo><mo>±</mo><mn>3</mn></math></p><p><math><mi mathvariant=\"normal\">β</mi><mo>=</mo><mn>2</mn></math></p><p><math><mi mathvariant=\"normal\">β</mi><mo>=</mo><mo>-</mo><mn>1</mn></math></p><p><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">β</mi></mrow></mfenced><mo>=</mo><mn>1</mn><mo>,</mo><mi mathvariant=\"normal\"> </mi><mn>2</mn></math></p><p><math><mo>(</mo><mi mathvariant=\"normal\">D</mi><mo>)</mo></math><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image70-875c99de-8a7d-4fa9-97e3-eeddabe9c4d2.png\"/></p><p><math><mo>∴</mo></math> Area <math><mo>=</mo><mn>6</mn><mo>-</mo><mrow><msubsup><mo stretchy=\"false\">∫</mo><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></mrow><mi mathvariant=\"normal\"> </mi><mi>d</mi><mi>x</mi></math></p><p><math><mo>=</mo><mn>6</mn><mo>-</mo><mfrac><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p><p><math><mo>∴</mo></math> Required value <math><mo>=</mo><mn>6</mn><mo>-</mo><mfrac><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mn>6</mn></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image71-fe1b2fae-b6b6-4f82-9686-7890276bd909.png\"/><br >Area<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math> Shaded region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo></math> area under parabola.</p><p><math><mo>=</mo><mn>5</mn><mo>-</mo><mfrac><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p><p><math><mo>∴</mo></math> Required value <math><mo>=</mo><mn>5</mn></math></p>",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a30f23ac7d519f9b229",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "In a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>P</mi><mi>Q</mi><mi>R</mi></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> is the largest angle and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>P</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math>. Further the incircle of the triangle touches the sides <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>Q</mi><mo>,</mo><mo>&#160;</mo><mi>Q</mi><mi>R</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>P</mi></math> at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>,</mo><mo>&#160;</mo><mi>L</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math> respectively, such that the lengths of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>N</mi><mo>,</mo><mo>&#160;</mo><mi>Q</mi><mi>L</mi></math>&nbsp;and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mi>M</mi></math> are consecutive even integers. Then possible length(s) of the side(s) of the triangle is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "uEIUY",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn></math>",
+        "image": null
+      },
+      {
+        "id": "OLrpg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn></math>",
+        "image": null
+      },
+      {
+        "id": "3Cioa",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn></math>",
+        "image": null
+      },
+      {
+        "id": "LpuiI",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>22</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "LpuiI",
+    "solution_text": "<p>Consider the following figure:<br /><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM00012619_AnsExp_1.jpg\" style=\"width: 199px; height: 176px;\" /><br />We assumed the value of sides in terms of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>, which satisfies&nbsp;our given condition.</p><p>Now applying cosine rule,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>P</mi><mo>=</mo><mfrac><mrow><msup><mfenced><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo>-</mo><msup><mfenced><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>6</mn></mrow></mfenced><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>4</mn></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>=</mtext><mfrac><mrow><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>-</mo><mn>16</mn></mrow><mrow><mn>8</mn><mfenced><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>=</mtext><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></mrow><mrow><mn>2</mn><mfenced><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow><mrow><mn>2</mn><mfenced><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mn>3</mn><mi>n</mi><mo>-</mo><mn>6</mn><mo>=</mo><mn>2</mn><mi>n</mi><mo>+</mo><mn>2</mn><mo>&#8658;</mo><mi>n</mi><mo>=</mo><mn>8</mn></math></p><p>Length of the sides will be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn><mo>,</mo><mo>&#160;</mo><mn>20</mn><mo>&#160;</mo></math>and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>22</mn></math>.</p>",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a08f23ac7d519f9b0ba",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 2)",
+    "paper_year_short": "2010 (Paper 2)",
+    "held_on": "2010-04-30T14:00:00.000Z",
+    "question_text": "Consider a triangle $A B C$ and let $a, b$ and $c$ denote the lengths of the sides opposite to vertices $A, B$ and $C$ respectively. Suppose $a=6, b=10$ and the area of the triangle is $15 \\sqrt{3}$. If $\\angle A C B$ is obtuse and if $r$ denotes the radius of the incircle of the triangle, then $r^2$ is equal to",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "$\\sin C=\\frac{\\sqrt{3}}{2}$ and $C$ is given to be obtuse\n\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad C=\\frac{2 \\pi}{3}=\\sqrt{a^2+b^2-2 a b \\cos C} \\\\\n& =\\sqrt{6^2+10^2-2 \\times 6 \\times 10 \\times \\cos \\frac{2 \\pi}{3}}=14 \\\\\n& \\therefore \\quad r=\\frac{\\Delta}{s} \\Rightarrow r^2=\\frac{225 \\times 3}{\\left(\\frac{6+10+14}{2}\\right)^2}=3\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a02f23ac7d519f9b07b",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "Let $A B C$ be a triangle such that $\\angle A C B=\\frac{\\pi}{6}$ and let $a, b$ and $c$ denote the lengths of the sides opposite to $A, B$ and $C$ respectively. The value(s) of $x$ for which $a=x^2+x+1, b=x^2-1$ and $c=2 x+1$ is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dbVKS",
+        "text": "\n$-(2+\\sqrt{3})$\n",
+        "image": null
+      },
+      {
+        "id": "ewOXp",
+        "text": "\n$1+\\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "ERveF",
+        "text": "\n$2+\\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "NwhQd",
+        "text": "\n$4 \\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "ewOXp",
+    "solution_text": "Using, $\\cos C=\\frac{a^2+b^2-c^2}{2 a b}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/89PQ-836ICof7ENzJeD4KV6Ji82KVNt2qE7sAheUO2c.original.fullsize.png\"><br>\n$$\n\\begin{gathered}\n\\Rightarrow \\frac{\\sqrt{3}}{2}=\\frac{\\left(x^2+x+1\\right)^2+\\left(x^2-1\\right)^2-(2 x+1)^2}{2\\left(x^2+x+1\\right)\\left(x^2-1\\right)} \\\\\n\\Rightarrow(x+2)(x+1)(x-1) x+\\left(x^2-1\\right)^2 \\\\\n=\\sqrt{3}\\left(x^2+x+1\\right)\\left(x^2-1\\right) \\\\\n\\Rightarrow x^2+2 x+\\left(x^2-1\\right)=\\sqrt{3}\\left(x^2+x+1\\right) \\\\\n\\Rightarrow(2-\\sqrt{3}) x^2+(2-\\sqrt{3}) x-(\\sqrt{3}+1)=0\n\\end{gathered}\n$$\n\n$\\Rightarrow x=-(2+\\sqrt{3})$ and $x=1+\\sqrt{3}$\nBut, $x=-(2+\\sqrt{3}) \\Rightarrow c$ is negative. $\\therefore \\quad x=1+\\sqrt{3}$ is the only solution.\nHence, (b) is the correct option.",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b169d0f23ac7d519f9aeb7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Match the following.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/m1EAsIDafFkvQJfVVNHHUnyzlA5lW-g4xZ8pul4RCq4.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "TDMPp",
+        "text": "\n(i) (a), (ii) (b), (iii) (c)\n",
+        "image": null
+      },
+      {
+        "id": "XP5Wi",
+        "text": "\n(i) (b), (ii) (a), (iii) (c)\n",
+        "image": null
+      },
+      {
+        "id": "7Eive",
+        "text": "\n(i) (a), (ii) (c), (iii) (b)\n",
+        "image": null
+      },
+      {
+        "id": "67HO9",
+        "text": "\n(i) (b), (ii) (c), (iii) (a)",
+        "image": null
+      }
+    ],
+    "correct_answer": "XP5Wi",
+    "solution_text": "$$\n\\begin{aligned}\n& \\text { (i) } \\sum_{i=1}^{\\infty} \\tan ^{-1}\\left(\\frac{1}{2 i^2}\\right)=t \\Rightarrow \\sum_{i=1}^{\\infty} \\tan ^{-1}\\left(\\frac{2}{4 i^2-1+1}\\right) \\\\\n& \\Rightarrow \\sum_{i=1}^{\\infty} \\tan ^{-1}\\left\\{\\frac{(2 i+1)-(2 i-1)}{1+(2 i-1)(2 i+1)}\\right\\} \\\\\n& \\Rightarrow\\left(\\tan ^{-1} 3-\\tan ^{-1} 1\\right)+\\left(\\tan ^{-1} 5-\\tan ^{-1} 3\\right)+\\ldots+\\left\\{\\tan ^{-1}(2 n+1)-\\tan ^{-1}(2 n-1)\\right\\} \\\\\n& \\therefore \\quad \\quad t=\\lim _{n \\rightarrow \\infty}\\left(\\tan ^{-1}(2 n+1)-\\tan ^{-1} 1\\right)=\\lim _{n \\rightarrow \\infty} \\tan ^{-1}\\left(\\frac{2 n}{1+2 n+1}\\right)=\\frac{\\pi}{4} \\\\\n& \\therefore \\quad \\tan t=1 .\n\\end{aligned}\n$$\n(ii) We have, $\\cos \\theta_1=\\frac{1-\\tan ^2 \\frac{\\theta_1}{2}}{1+\\tan ^2 \\frac{\\theta_2}{2}}=\\frac{a}{b+c}$\n$$\n\\Rightarrow \\quad \\tan ^2 \\frac{\\theta}{2}=\\frac{b+c-a}{b+c+a}\n$$\nAlso, $\\quad \\cos \\theta_3=\\frac{1-\\tan ^2 \\frac{\\theta_3}{2}}{1+\\tan ^2 \\frac{\\theta_3}{2}}=\\frac{c}{a+b}$\n$$\n\\Rightarrow \\quad \\tan ^2 \\frac{\\theta_3}{2}=\\frac{a+b-c}{a+b+c}\n$$\n$\\Rightarrow \\tan ^2 \\frac{\\theta_1}{2}+\\tan ^2 \\frac{\\theta_3}{2}=\\frac{2 b}{a+b+c}=\\frac{2 b}{3 b}=\\frac{2}{3}, \\quad$ [as, $a, b, c$ are in AP $\\Rightarrow 2 b=a+c$ ]\n(iii) Line through $(0,1,0)$ and perpendicular to plane $x+2 y+2 z=0$ is given by $\\frac{x-0}{1}=\\frac{y-1}{2}=\\frac{z-0}{2}=r$\n$\\therefore P(r, 2 r+1,2 r)$ be the foot of perpendicular on the straight line, then\n$$\n\\begin{array}{ll} \n& r \\cdot 1+(2 r+1) \\cdot 2+(2 r) \\cdot 2=0 \\\\\n\\Rightarrow \\quad r= & \\quad r\\left(-\\frac{2}{9}, \\frac{5}{9},-\\frac{4}{9}\\right) \\\\\n\\therefore & \\quad P(r) \\\\\n\\therefore & \\text { Required perpendicular distance }=\\sqrt{\\frac{4+25+16}{81}}=\\frac{\\sqrt{5}}{3} \\text { unit. }\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b169ccf23ac7d519f9ae94",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "If $a, b$ and $c$ are the sides of a $\\triangle A B C$ such that $x^2-2(a+b+c) x+3 \\lambda(a b+b c+c a)=0$ has real roots, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "I3UMc",
+        "text": "\n$\\lambda < \\frac{4}{3}$",
+        "image": null
+      },
+      {
+        "id": "M7HUW",
+        "text": "\n$\\lambda>\\frac{5}{3}$\n",
+        "image": null
+      },
+      {
+        "id": "GDZEr",
+        "text": "\n$\\lambda \\in\\left(\\frac{4}{3}, \\frac{5}{3}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "kX86A",
+        "text": "\n$\\lambda \\in\\left(\\frac{1}{3}, \\frac{5}{3}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "I3UMc",
+    "solution_text": "Since, roots are real, $D \\geq 0$\n$$\n\\begin{array}{ll}\n\\Rightarrow & 4(a+b+c)^2-12 \\lambda(a b+b c+c a) \\geq 0 \\\\\n\\Rightarrow & (a+b+c)^2 \\geq 3 \\lambda(a b+b c+c a) \\\\\n\\Rightarrow & a^2+b^2+c^2 \\geq(a b+b c+c a)(3 \\lambda-2) \\\\\n\\Rightarrow & 3 \\lambda-2 \\leq \\frac{a^2+b^2+c^2}{a b+b c+c a} \\\\\n\\text { where, } a^2+b^2 \\geq 2 a b, b^2+c^2 \\geq 2 b c \\text { and } c^2+a^2 \\geq 2 c a \\\\\n\\Rightarrow & a^2+b^2+c^2 \\geq(a b+b c+c a) \\\\\n\\therefore & \\frac{a^2+b^2+c^2}{a b+b c+c a} \\geq 1\n\\end{array}\n$$\nAlso, $\\quad \\cos A=\\frac{b^2+c^2-a^2}{2 b c} < 1$\n$$\n\\Rightarrow \\quad b^2+c^2-a^2 < 2 b c\n$$\nSimilarly, $c^2+a^2-b^2 < 2 c a$ and $a^2+b^2-c^2 < 2 a b$\n$$\n\\Rightarrow a^2+b^2+c^2 < 2(a b+b c+c a) \\text { or } \\frac{a^2+b^2+c^2}{a b+b c+c a} < 2\n$$\nFrom Eqs. (i), (ii) and (iii)\n$$\n\\begin{array}{lrl}\n\\therefore & 3 \\lambda-2 & < 2 \\\\\n\\Rightarrow & \\lambda < \\frac{4}{3}\n\\end{array}\n$$",
+    "solution_image": null,
+    "topic": "Cosine Rule and Projection Formula"
+  },
+  {
+    "question_id": "64b16a81f23ac7d519f9b503",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi></math> and <math> <mi>z</mi> </math> be positive real numbers. Suppose <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>,</mo><mo>&#160;</mo><mi>y</mi></math> and <math> <mi>z</mi> </math> are the lengths of the sides of a triangle opposite to its angles <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>,</mo><mo>&#160;</mo><mi>Y</mi></math> and <math> <mi>Z</mi> </math>&nbsp;respectively. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mfrac><mi>X</mi><mn>2</mn></mfrac><mo>+</mo><mi>tan</mi><mfrac><mi>Z</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>y</mi></mrow><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfrac></math>,&nbsp;then which of the following statements is/are TRUE?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2nfgd",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>Y</mi><mo>=</mo><mi>X</mi><mo>+</mo><mi>Z</mi></math>",
+        "image": null
+      },
+      {
+        "id": "VDCBS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Y</mi><mo>=</mo><mi>X</mi><mo>+</mo><mi>Z</mi></math>",
+        "image": null
+      },
+      {
+        "id": "mIUWn",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mfrac><mi>X</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mi>x</mi><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "E16gg",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mi>x</mi><mi>z</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "mIUWn",
+    "solution_text": "<p>We have,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mfrac><mi>X</mi><mn>2</mn></mfrac><mo>+</mo><mi>tan</mi><mfrac><mi>Z</mi><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>y</mi></mrow><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfrac><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mi>s</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo></math>perimeter of a triangle&nbsp;&nbsp;</p><p>Apply half-angle formula and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mi>s</mi></math>&nbsp;then,&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mo>&#8710;</mo><mrow><mi>s</mi><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>x</mi></mrow></mfenced></mrow></mfrac><mo>+</mo><mfrac><mo>&#8710;</mo><mrow><mi>s</mi><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>z</mi></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mi>y</mi><mi>s</mi></mfrac><mo>&#8658;</mo><mo>&#8710;</mo><mo>=</mo><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>z</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mo>&#8710;</mo><mn>2</mn></msup><mo>=</mo><mi>s</mi><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>y</mi></mrow></mfenced><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>z</mi></mrow></mfenced><mo>=</mo><msup><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>x</mi></mrow></mfenced><mn>2</mn></msup><msup><mfenced><mrow><mi>s</mi><mo>&#8722;</mo><mi>z</mi></mrow></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup><mo>&#8658;</mo><mo>&#8736;</mo><mi>Y</mi><mo>=</mo><mn>90</mn><mo>&#176;</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#8736;</mo><mi>Y</mi><mo>=</mo><mo>&#8736;</mo><mi>X</mi><mo>+</mo><mo>&#8736;</mo><mi>Z</mi></math></p><p>An option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>B</mi></mfenced></math>&nbsp;is correct.</p><p>Now,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>x</mi><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>sin</mi><mstyle displaystyle=\"true\"><mi>X</mi></mstyle></mrow><mrow><mi>sin</mi><mstyle displaystyle=\"true\"><mi>Y</mi></mstyle><mstyle displaystyle=\"true\"><mo>+</mo></mstyle><mstyle displaystyle=\"true\"><mi>sin</mi></mstyle><mstyle displaystyle=\"true\"><mi>Z</mi></mstyle></mrow></mfrac><mo>=</mo><mfrac><mstyle displaystyle=\"true\"><mi>sin</mi><mi>X</mi></mstyle><mstyle displaystyle=\"true\"><mn>1</mn><mo>+</mo><mi>sin</mi><mfenced><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>-</mo><mi>X</mi></mrow></mfenced></mstyle></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>sin</mi><mstyle displaystyle=\"true\"><mfrac><mi>X</mi><mn>2</mn></mfrac></mstyle><mi>cos</mi><mstyle displaystyle=\"true\"><mfrac><mi>X</mi><mn>2</mn></mfrac></mstyle></mrow><mrow><mn>2</mn><msup><mi>cos</mi><mn>2</mn></msup><mstyle displaystyle=\"true\"><mfrac><mi>X</mi><mn>2</mn></mfrac></mstyle></mrow></mfrac><mo>=</mo><mi>tan</mi><mfrac><mi>X</mi><mn>2</mn></mfrac></math></p><p>An Option&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>C</mi></mfenced></math>&nbsp;is correct.</p>",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b16a63f23ac7d519f9b3fb",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nLet $O$ be the origin, and $\\overrightarrow{O X}, \\overrightarrow{O Y}, \\overrightarrow{O Z}$ be three unit vectors in the directions of the sides $\\overrightarrow{Q R}, \\overrightarrow{R P}$, $\\overrightarrow{P Q}$, respectively, of a triangle $P Q R$.\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nIf the triangle $P Q R$ varies, then the minimum value of\r\n\r\n$\\cos (P+Q)+\\cos (Q+R)+\\cos (R+P)$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xqF8a",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "PfS4W",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "XCjF6",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "OaVg0",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo><mfrac><mn>5</mn><mn>3</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "xqF8a",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mfenced><mrow><mi>P</mi><mo>+</mo><mi>Q</mi></mrow></mfenced><mo>+</mo><mi>cos</mi><mfenced><mrow><mi>Q</mi><mo>+</mo><mi>R</mi></mrow></mfenced><mo>+</mo><mi>cos</mi><mfenced><mrow><mi>R</mi><mo>+</mo><mi>P</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>cos</mi><mfenced><mrow><mn>180</mn><mo>&#8722;</mo><mi>R</mi></mrow></mfenced><mo>+</mo><mi>cos</mi><mfenced><mrow><mn>180</mn><mo>&#8722;</mo><mi>P</mi></mrow></mfenced><mo>+</mo><mi>cos</mi><mfenced><mrow><mn>180</mn><mo>&#8722;</mo><mi>Q</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mo>&#8722;</mo><mfenced close=\"]\" open=\"[\"><mrow><mi>cos</mi><mi>P</mi><mo>+</mo><mi>cos</mi><mi>Q</mi><mo>+</mo><mi>cos</mi><mi>R</mi></mrow></mfenced></math></p><p>In any&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi>P</mi><mi>Q</mi><mi>R</mi></math>,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mi>P</mi><mo>+</mo><mi>cos</mi><mi>Q</mi><mo>+</mo><mi>cos</mi><mi>R</mi><mo>&#8804;</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mtext>&#8201;&#8201;</mtext><mo>&#8722;</mo><mfenced><mrow><mi>cos</mi><mi>P</mi><mo>+</mo><mi>cos</mi><mi>Q</mi><mo>+</mo><mi>cos</mi><mi>R</mi></mrow></mfenced><mo>&#8805;</mo><mo>&#8722;</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b16a51f23ac7d519f9b351",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "In a&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8710;</mo><mi>X</mi><mi>Y</mi><mi>Z</mi></math> let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>z</mi></math>,&nbsp; be the lengths of sides opposite to the angles, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><mi>X</mi><mo>,</mo><mo>&#160;</mo><mi>Y</mi><mo>,</mo><mo>&#160;</mo><mi>Z</mi></math>, respectively and <math><mn>2</mn><mi>s</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>.</mo></math> If <math><mfrac><mrow><mi>s</mi><mo>-</mo><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>s</mi><mo>-</mo><mi>y</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>s</mi><mo>-</mo><mi>z</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math> and area of incircle of the triangle XYZ is <math><mfrac><mrow><mn>8</mn><mi>&#960;</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>,</mo></math> then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "OAwbI",
+        "text": "Area of the triangle XYZ is <math><mn>6</mn><msqrt><mn>6</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "TNKs4",
+        "text": "The radius of circumcircle of the triangle XYZ is <math><mfrac><mrow><mn>35</mn></mrow><mrow><mn>6</mn></mrow></mfrac><msqrt><mn>6</mn></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "x977C",
+        "text": "<math><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mi>&nbsp;</mi><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>35</mn></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "y6uxe",
+        "text": "<math><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>X</mi><mo>+</mo><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mrow><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "y6uxe",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/maths_44_solut_paper1.jpg\"/><br >Let <math><mfrac><mrow><mi>s</mi><mo>-</mo><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>s</mi><mo>-</mo><mi>y</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>s</mi><mo>-</mo><mi>z</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mi>k</mi>   </math><math><mo>(</mo><mi>K</mi><mo>≠</mo><mn>0</mn><mo>)</mo></math><br ><math><mi>s</mi><mo>-</mo><mi>x</mi><mo>=</mo><mn>4</mn><mi>k</mi><mi> </mi><mi> </mi><mi> </mi></math><br/><math><mi>s</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>3</mn><mi>k</mi><mi> </mi><mi> </mi><mi> </mi></math><br/><math><mi>s</mi><mo>-</mo><mi>z</mi><mo>=</mo><mn>2</mn><mi>k</mi><mi> </mi><mi> </mi><mi> </mi><mi> </mi></math><br ><math><mo>Adding this, we get</mo></math><br ><math><mn>3</mn><mi mathvariant=\"normal\">s</mi><mo>-</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">x</mi><mo>+</mo><mi mathvariant=\"normal\">y</mi><mo>+</mo><mi mathvariant=\"normal\">z</mi></mrow></mfenced><mo>=</mo><mi mathvariant=\"normal\"> </mi><mn>9</mn><mi mathvariant=\"normal\">k</mi></math><br ><math><mo>⟹</mo><mi mathvariant=\"normal\">s</mi><mo>=</mo><mn>9</mn><mi mathvariant=\"normal\">k</mi></math><br ><math><mo>⇒</mo></math> <math><mi>x</mi><mo>=</mo><mn>5</mn><mi>k</mi><mo>,</mo><mi> </mi><mi>y</mi><mo>=</mo><mn>6</mn><mi>k</mi><mo>,</mo><mi> </mi><mi>z</mi><mo>=</mo><mn>7</mn><mi>k</mi></math><br ><let be=\"\" br=\"\" r=\"\"><br/><math><mo>⇒</mo></math> <math><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>8</mn><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mi>π</mi><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi></mrow><mrow><mi>s</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>8</mn><mi>π</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math><br ><math><mo>∆</mo><mi> </mi><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></msqrt><mi mathvariant=\"italic\"> .</mi></math>s<br ><math><msqrt><mi>s</mi><mfenced separators=\"|\"><mrow><mi>s</mi><mo>-</mo><mi>x</mi></mrow></mfenced><mi> </mi><mfenced separators=\"|\"><mrow><mi>s</mi><mo>-</mo><mi>y</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mi>s</mi><mo>-</mo><mi>z</mi></mrow></mfenced></msqrt><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></msqrt><mo>.</mo><mi> </mi><mi>s</mi></math><br ><math><msqrt><mn>9</mn><mi>k</mi><mo>.</mo><mi> </mi><mn>4</mn><mi>k</mi><mo>.</mo><mi> </mi><mn>3</mn><mi>k</mi><mo>.</mo><mi> </mi><mn>2</mn><mi>k</mi></msqrt><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></msqrt><mi> </mi><mn>9</mn><mi>k</mi></math><br ><math><msqrt><mn>24.9</mn></msqrt><mi> </mi><msup><mrow><mi>k</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></msqrt><mi> </mi><mo>.</mo><mi> </mi><mn>9</mn><mi>k </mi></math><math><mo>⇒</mo><mn>3</mn><mo>×</mo><mn>2</mn><mi mathvariant=\"normal\"> </mi><msqrt><mn>6</mn></msqrt><mi mathvariant=\"normal\"> K</mi><mo>=</mo><mfrac><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><msqrt><mn>3</mn><mi mathvariant=\"normal\"> </mi></msqrt></mrow></mfrac><mi mathvariant=\"normal\"> </mi><mn>9</mn></math><br ><math><mo>⇒</mo><mi mathvariant=\"italic\">K </mi><mfrac><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt><mi>.</mi><mn>9</mn></mrow><mrow><mn>6</mn><msqrt><mn>6</mn></msqrt><mi mathvariant=\"italic\"> </mi><msqrt><mn>3</mn></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>=</mo><mn>1</mn></math><br ><math><mi>k</mi><mo>=</mo><mn>1</mn></math><br ><math><mo>⇒</mo></math> <math><mi>x</mi><mo>=</mo><mn>5</mn><mo>,</mo><mi> </mi><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo><mi> </mi><mi>z</mi><mo>=</mo><mn>7</mn></math><br ><math><mi mathvariant=\"normal\">Δ</mi><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></msqrt><mi> </mi><mo>.</mo><mi> </mi><mn>9</mn><mi>k</mi><mo>=</mo><mi> </mi><msqrt><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></msqrt><mi> </mi><mo>.</mo><mn>9</mn><mo>=</mo><mn>6</mn><msqrt><mn>6</mn></msqrt></math><br >R = circumradius <math><mo>=</mo><mfrac><mrow><mi>x</mi><mi>y</mi><mi>z</mi></mrow><mrow><mn>4</mn><mi mathvariant=\"normal\">Δ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mo>.</mo><mi> </mi><mn>6</mn><mo>.</mo><mi> </mi><mn>7</mn></mrow><mrow><mn>4</mn><mo>.</mo><mo>.</mo><mn>6</mn><msqrt><mn>6</mn></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>35</mn></mrow><mrow><mn>4</mn><msqrt><mn>6</mn></msqrt></mrow></mfrac></math><br >Using formula <math><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mo>=</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mn>4</mn><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi></mrow><mrow><mi mathvariant=\"normal\">s</mi></mrow></mfrac></mrow><mrow><mfrac><mrow><mi>x</mi><mi>y</mi><mi>z</mi></mrow><mrow><mi mathvariant=\"normal\">Δ</mi></mrow></mfrac></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mrow><mi mathvariant=\"normal\">Δ</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>s</mi><mo>.</mo><mi>x</mi><mi>y</mi><mi>z</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>36.6</mn></mrow><mrow><mn>9.5</mn><mo>.</mo><mn>6.7</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>35</mn></mrow></mfrac></math><br ><math><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>Z</mi><mo>=</mo><mi> </mi></mrow></mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi>x</mi><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>25</mn><mo>+</mo><mn>36</mn><mo>-</mo><mn>49</mn></mrow><mrow><mn>2.5</mn><mo>.</mo><mn>6</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math><br ><math><mrow><mrow><msup><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>X</mi><mo>+</mo><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mrow><mrow><mrow><msup><mrow><mi mathvariant=\"normal\"> = cos</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>⁡</mo><mrow><mfrac><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><mrow><mrow><mi mathvariant=\"normal\">cos</mi></mrow><mo>⁡</mo><mrow><mi>Z</mi></mrow></mrow></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow><mrow><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math></let>",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b16a23f23ac7d519f9b1ac",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "Let $P Q R$ be a triangle of area $\\Delta$ with $a=2, b=\\frac{7}{2}$ and $c=\\frac{5}{2} ;$ where $a, b$, and $c$ are the lengths of the sides of the triangle opposite to the angles at $P, Q$ and $R$ respectively. Then $\\frac{2 \\sin P-\\sin 2 P}{2 \\sin P+\\sin 2 P}$ equals.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nb1tp",
+        "text": "$\\frac{3}{4 \\Delta}$",
+        "image": null
+      },
+      {
+        "id": "gwu3E",
+        "text": "$\\frac{45}{4 \\Delta}$",
+        "image": null
+      },
+      {
+        "id": "mBCdb",
+        "text": "$\\left(\\frac{3}{4 \\Delta}\\right)^{2}$",
+        "image": null
+      },
+      {
+        "id": "oPtJ0",
+        "text": "$\\left(\\frac{45}{4 \\Lambda}\\right)^{2}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "mBCdb",
+    "solution_text": "$\\frac{2 \\sin P-\\sin 2 P}{2 \\sin P+\\sin 2 P}=\\frac{2 \\sin P-2 \\sin P \\cos P}{2 \\sin P+2 \\sin P \\cos P}=\\frac{1-\\cos P}{1-\\sin P}$\r\n\r\n$=\\frac{2 \\sin ^{2} \\frac{P}{2}}{2 \\cos ^{2} \\frac{P}{2}}=\\tan ^{2} \\frac{P}{2}=\\frac{(s-b)(s-c)}{s(s-a)}$ where $s=\\frac{a+b+c}{2}$\r\n\r\n$=\\frac{(s-b)^{2}(s-c)^{2}}{s(s-a)(s-b)(s-c)}=\\frac{(a+c-b)^{2}(a+b-c)^{2}}{16 . \\Delta^{2}}$\r\n\r\n$=\\frac{\\left(2+\\frac{5}{2}-\\frac{7}{2}\\right)^{2}\\left(2+\\frac{7}{2}-\\frac{5}{2}\\right)^{2}}{16 \\Delta^{2}}=\\frac{1 \\times 9}{16 \\Delta^{2}}=\\left(\\frac{3}{4 \\Delta}\\right)^{2}$",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b169faf23ac7d519f9b034",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Let $A B C$ and $A B C^{\\prime}$ be two non-congruent triangles with sides $A B=4$, $A C=A C^{\\prime}=2 \\sqrt{2}$ and angle $B=30^{\\circ}$. The absolute value of the difference between the areas of these triangles is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "In $\\triangle A B C$, by sine rule,\n$$\n\\begin{aligned}\n& \\frac{a}{\\sin A}=\\frac{2 \\sqrt{2}}{\\sin 30^{\\circ}}=\\frac{4}{\\sin C} \\\\\n\\Rightarrow \\quad & C=45^{\\circ}, C^{\\prime}=135^{\\circ} \\\\\n\\Rightarrow & A=180^{\\circ}-\\left(45^{\\circ}+30^{\\circ}\\right)=105^{\\circ}\n\\end{aligned}\n$$\n\n\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/BUgaugr3-2iN2vBBsw8lq7vfyVWLNvDQoBTiS3mnVkM.original.fullsize.png\"><br>\n\n\nWhen $\\quad C^{\\prime}=135^{\\circ}$, then\n$$\n\\begin{aligned}\n& \\quad A=180^{\\circ}-\\left(135^{\\circ}+30^{\\circ}\\right)=15^{\\circ} \\\\\n& \\text { Area of } \\triangle A B C=\\frac{1}{2} A B \\times A C \\sin A \\\\\n& =\\frac{1}{2} \\times 4 \\times 2 \\sqrt{2} \\sin \\left(105^{\\circ}\\right) \\\\\n& =4 \\sqrt{2} \\times \\frac{\\sqrt{3}+1}{2 \\sqrt{2}}=2(\\sqrt{3}+1) \\\\\n& \\text { Area of } \\triangle A B C^{\\prime}=\\frac{1}{2} A B \\times A C \\sin A \\\\\n& =\\frac{1}{2} \\times 4 \\times 2 \\sqrt{2} \\sin \\left(15^{\\circ}\\right)=2(\\sqrt{3}-1)\n\\end{aligned}\n$$\nDifference of areas of triangles\n$$\n=|2(\\sqrt{3}+1)-2(\\sqrt{3}-1)|=4\n$$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/7lJ98Kv3OvF_T4cGscG-lVOXIIQusN3nwnSa4WPdPhg.original.fullsize.png\"><br>\n$$\nA D=2, D C=2\n$$\nDifference of areas of $\\triangle A B C$ and $\\triangle A B C^{\\prime}$\n\n$$\n\\begin{aligned}\n& =\\text { Area of } \\triangle A C C^{\\prime} \\\\\n& =\\frac{1}{2} A D \\times C C^{\\prime}=\\frac{1}{2} \\times 2 \\times 4=4\n\\end{aligned}\n$$",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b169f3f23ac7d519f9aff6",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 1)",
+    "paper_year_short": "2009 (Paper 1)",
+    "held_on": "2009-04-30T09:00:00.000Z",
+    "question_text": "In a $\\triangle A B C$ with fixed base $B C$, the vertex $A$ moves such that $\\cos B+\\cos C=4 \\sin ^2 \\frac{A}{2}$. If $a, b$ and $c$ denote the lengths of the sides of the triangle opposite to the angles $A, B$ and $C$ respectively, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "YJHSC",
+        "text": "\n$b+c=4 a$\n",
+        "image": null
+      },
+      {
+        "id": "93TkI",
+        "text": "\n$b+c=2 a$\n",
+        "image": null
+      },
+      {
+        "id": "ovaGC",
+        "text": "\nlocus of point $A$ is an ellipse\n",
+        "image": null
+      },
+      {
+        "id": "twhdK",
+        "text": "\nlocus of point $A$ is a pair of straight line",
+        "image": null
+      }
+    ],
+    "correct_answer": "ovaGC",
+    "solution_text": "Given, $\\cos B+\\cos C=4 \\sin ^2 \\frac{A}{2}$\n$$\n\\begin{aligned}\n& \\Rightarrow 2 \\cos \\left(\\frac{B+C}{2}\\right) \\cos \\left(\\frac{B-C}{2}\\right)=4 \\sin ^2 \\frac{A}{2} \\\\\n& \\Rightarrow 2 \\sin \\frac{A}{2}\\left[\\cos \\left(\\frac{B-C}{2}\\right)-2 \\sin \\frac{A}{2}\\right]=0 \\\\\n& \\Rightarrow \\cos \\left(\\frac{B-C}{2}\\right)-2 \\cos \\left(\\frac{B+C}{2}\\right)=0 \\\\\n& \\Rightarrow-\\cos \\frac{B}{2} \\cos \\frac{C}{2}+3 \\sin \\frac{B}{2} \\sin \\frac{C}{2}=0 \\\\\n& \\Rightarrow \\quad \\tan \\frac{B}{2} \\tan \\frac{C}{2}=\\frac{1}{3} \\\\\n& \\Rightarrow \\quad \\sqrt{\\frac{(s-a)(s-c)}{s(s-b)} \\cdot \\frac{(s-b)(s-a)}{s(s-c)}}=\\frac{1}{3} \\\\\n& \\Rightarrow \\quad \\frac{s-a}{s}=\\frac{1}{3} \\Rightarrow 2 s=3 a \\\\\n& \\Rightarrow \\quad b+c=2 a\n\\end{aligned}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/yyaF-wntrMyQyNp7xROYMA8aGwXqkF61bQHF6flrPxg.original.fullsize.png\"><br>\n$\\therefore$ Locus of $A$ is an ellipse.",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b169ddf23ac7d519f9af2c",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Let $O(0,0), P(3,4)$ and $Q(6,0)$ be the vertices of the $\\triangle O P Q$. The point $R$ inside the $\\triangle O P Q$ is such that the $\\triangle O P R, \\triangle P Q R, \\triangle O Q R$ are of equal area. The coordinates of $R$ are",
+    "question_image": null,
+    "options": [
+      {
+        "id": "tEvcL",
+        "text": "\n$\\left(\\frac{4}{3}, 3\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "hgFnw",
+        "text": "\n$\\left(3, \\frac{2}{3}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "nE4RB",
+        "text": "\n$\\left(3, \\frac{4}{3}\\right)$\n",
+        "image": null
+      },
+      {
+        "id": "cYn1G",
+        "text": "\n$\\left(\\frac{4}{3}, \\frac{2}{3}\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "nE4RB",
+    "solution_text": "$$\n\\text { 7. Since, triangle is on isosceles, hence centroid is the desired point. }\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mPt6BiU7se3e8XRpvnhJ0CQd1IFrMT3sobkeFYbTv-Y.original.fullsize.png\"><br>\n$\\therefore$ Coordinates of $R\\left(3, \\frac{4}{3}\\right)$",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b169cef23ac7d519f9aea1",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Internal bisector of $\\angle A$ of $\\triangle A B C$ meets side $B C$ at $D$. A line drawn through $D$ perpendicular to $A D$ intersects the side $A C$ at $E$ and side $A B$ at $F$. If $a, b$ and $c$ represent sides of $\\triangle A B C$, then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ifoHX",
+        "text": "\n$A E$ is $\\mathrm{HM}$ of $b$ and $c$\n",
+        "image": null
+      },
+      {
+        "id": "NBNOE",
+        "text": "\n$A D=\\frac{2 b c}{b+c} \\cos \\frac{A}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "hJQgs",
+        "text": "\n$E F=\\frac{4 b c}{b+c} \\sin \\frac{A}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "MBwlx",
+        "text": "\nthe $\\triangle A E F$ is isosceles",
+        "image": null
+      }
+    ],
+    "correct_answer": "MBwlx",
+    "solution_text": "We have, $\\triangle A B C=\\triangle A B D+\\triangle A C D$\n$$\n\\begin{aligned}\n& \\Rightarrow \\frac{1}{2} b c \\sin A=\\frac{1}{2} c A D \\sin \\frac{A}{2}+\\frac{1}{2} b A D \\sin \\frac{A}{2} \\\\\n& \\Rightarrow \\quad A D=\\frac{2 b c}{b+c} \\cos \\frac{A}{2}\n\\end{aligned}\n$$\nAgain, $\\quad A E=A D \\sec \\frac{A}{2}=\\frac{2 b c}{b+c}$\n$\\therefore A E$ is $\\mathrm{HM}$ of $b$ and $c$.\n$$\n\\begin{aligned}\nE F & =E D+D F=2 D E=2 A D \\tan \\frac{A}{2} \\\\\n& =2 \\frac{2 b c}{b+c} \\cos \\frac{A}{2} \\tan \\frac{A}{2}=\\frac{4 b c}{b+c} \\sin \\frac{A}{2}\n\\end{aligned}\n$$\nAs $A D \\perp E F$ and $D E=D F$ and $A D$ is bisector.\n$\\Rightarrow \\triangle A E F$ is isosceles.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_Xl9hjzWwQRk4E-I6GNC2M5Xwg65OHYLXnkwwQZg4pM.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Napiers Analogy, Area of Triangle & Half angle Formulae"
+  },
+  {
+    "question_id": "64b16aabf23ac7d519f9b684",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2023 (Paper 2)",
+    "paper_year_short": "2023 (Paper 2)",
+    "held_on": "2023-04-30T14:00:00.000Z",
+    "question_text": "Consider an obtuse angled triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math> in which the difference between the largest and the smallest angle is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math> and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie on a circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math>.<br />\n(There are two questions based on <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>PARAGRAPH</mi><mo>&#160;</mo><mo>&#34;</mo><mo>&#160;</mo><mn>1</mn><mo>&#160;</mo><mo>&#34;</mo></math>, the question given below is one of them)<br>Let&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math> be the area of the triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math>. Then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>64</mn><mi>&#945;</mi><msup><mo>)</mo><mn>2</mn></msup></math>&nbsp;is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1008",
+    "solution_text": "<blockquote><p>Let angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;be obtuse angle and let sides be&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>-</mo><mi>d</mi><mo>,</mo><mo>&#160;</mo><mi>a</mi><mo>,</mo><mo>&#160;</mo><mi>a</mi><mo>+</mo><mi>d</mi></math></p><p>So, plotting the diagram we get,</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3cf8d55c-d7b4-4bba-a896-bff2fda966c0.png\" style=\"width: 250px; height: 155px;\" /></p><p>Now let sides be,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>&#8722;</mo><mi>d</mi><mo>,</mo><mi>a</mi><mo>,</mo><mi>a</mi><mo>+</mo><mi>d</mi></math></p><p>Also given angle&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&#8722;</mo><mi>C</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac></math></p><p>And circum radius&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mn>1</mn></math></p><p>Now by sine rule we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>a</mi><mo>+</mo><mi>d</mi></mrow><mrow><mi>sin</mi><mo>&#8289;</mo><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mi>a</mi><mrow><mi>sin</mi><mo>&#8289;</mo><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>&#8722;</mo><mi>d</mi></mrow><mrow><mi>sin</mi><mo>&#8289;</mo><mi>C</mi></mrow></mfrac><mo>=</mo><mn>2</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mspace width=\"1em\"></mspace><mi>A</mi><mo>=</mo><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mo>&#8289;</mo><mi>A</mi><mo>=</mo><mi>sin</mi><mo>&#8289;</mo><mfenced separators=\"|\"><mrow><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mo>+</mo><mi>C</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>sin</mi><mo>&#8289;</mo><mi>A</mi><mo>=</mo><mi>cos</mi><mo>&#8289;</mo><mi>C</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>d</mi></mrow><mn>2</mn></mfrac><mo>=</mo><msqrt><mn>1</mn><mo>&#8722;</mo><msup><mi>sin</mi><mn>2</mn></msup><mo>&#8289;</mo><mi>C</mi></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mfrac><mrow><mi>a</mi><mo>+</mo><mi>d</mi></mrow><mn>2</mn></mfrac></mfenced><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo>-</mo><msup><mfenced><mfrac><mrow><mi>a</mi><mo>-</mo><mi>d</mi></mrow><mn>2</mn></mfrac></mfenced><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo></math></p><p>Now using cosine rule we get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mo>&#8289;</mo><mi>B</mi><mo>=</mo><mfrac><mrow><mo>(</mo><mi>a</mi><mo>&#8722;</mo><mi>d</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>a</mi><mo>+</mo><mi>d</mi><msup><mo>)</mo><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced separators=\"|\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>&#8722;</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><mn>1</mn><mo>-</mo><msup><mi>sin</mi><mn>2</mn></msup><mi>B</mi></msqrt><mo>=</mo><mfrac><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced><mo>-</mo><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msqrt><mn>1</mn><mo>-</mo><mfrac><msup><mi>a</mi><mn>2</mn></msup><mn>4</mn></mfrac></msqrt><mo>=</mo><mfrac><mrow><mn>4</mn><mo>-</mo><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow></mfrac><mo>&#160;&#160;</mo><mfenced><mrow><mo>&#8757;</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msup><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>4</mn><mo>-</mo><msup><mi>a</mi><mn>2</mn></msup><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo></math></p><p>From <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>1</mn><mo>)</mo><mo>&#160;</mo><mo>&#38;</mo><mo>&#160;</mo><mo>(</mo><mn>2</mn><mo>)</mo></math><br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>7</mn><mn>4</mn></mfrac><mo>,</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math><br />Area of triangle<br /><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mfenced><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfenced></mrow><mn>4</mn></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mfrac><msqrt><mn>7</mn></msqrt><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>6</mn><mrow><mn>4</mn><mo>&#215;</mo><mn>4</mn></mrow></mfrac></math></p><p>Now&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mn>64</mn><mi>&#945;</mi></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>64</mn><mo>&#215;</mo><mn>64</mn><mo>&#215;</mo><mfrac><mn>7</mn><mn>4</mn></mfrac><mo>&#215;</mo><mfrac><mn>36</mn><mrow><mn>16</mn><mo>&#215;</mo><mn>16</mn></mrow></mfrac><mo>=</mo><mn>4</mn><mo>&#215;</mo><mn>252</mn><mo>=</mo><mn>1008</mn></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Sine Rule and its application"
+  },
+  {
+    "question_id": "64b16a01f23ac7d519f9b074",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "If the angles $A, B$ and $C$ of a triangle are in an arithmetic progression and if $a, b$ and $c$ denote the lengths of the sides opposite to $A, B$ and $C$ respectively, then the value of the expression $\\frac{a}{c} \\sin 2 C+\\frac{c}{a} \\sin 2 A$ is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "FybPo",
+        "text": "\n$\\frac{1}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "jyySk",
+        "text": "\n$\\frac{\\sqrt{3}}{2}$\n",
+        "image": null
+      },
+      {
+        "id": "1mSg5",
+        "text": "\n1\n",
+        "image": null
+      },
+      {
+        "id": "AXuE0",
+        "text": "\n$\\sqrt{3}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "AXuE0",
+    "solution_text": "Since, $A, B, C$ are in $\\mathrm{AP}$\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad 2 B=A+C \\text { ie, } \\angle B=60^{\\circ} \\\\\n& \\therefore \\frac{a}{c}(2 \\sin C \\cos C)+\\frac{c}{a}(2 \\sin A \\cos A) \\\\\n& =2 k(a \\cos C+c \\cos A) \\\\\n& \\quad\\left[\\begin{array}{l}\n\\text { using, } \\\\\n\\frac{a}{\\sin A}=\\frac{b}{\\sin B}=\\frac{c}{\\sin C}=\\frac{1}{k}\n\\end{array}\\right] \\\\\n& =2 k(b) \\\\\n& =2 \\sin B\n\\end{aligned}\n$$\n\n$$\n=\\sqrt{3}\n$$\n$$\n\\text { [using, } b=a \\cos C+c \\cos A]\n$$",
+    "solution_image": null,
+    "topic": "Sine Rule and its application"
+  },
+  {
+    "question_id": "64b169ccf23ac7d519f9ae91",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "Inradius of a circle which is inscribed in an isosceles triangle one of whose angle is $2 \\pi / 3$, is $\\sqrt{3}$, then area of triangle is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "Roy5I",
+        "text": "\n$4 \\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "CNlfL",
+        "text": "\n$12-7 \\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "l8A5l",
+        "text": "\n$12+7 \\sqrt{3}$\n",
+        "image": null
+      },
+      {
+        "id": "ePomR",
+        "text": "\nNone of these",
+        "image": null
+      }
+    ],
+    "correct_answer": "l8A5l",
+    "solution_text": "Let $A B=A C$ and $\\angle A=120^{\\circ}$\n$\\therefore$ Area of $\\Delta=\\frac{1}{2} a^2 \\sin 120^{\\circ}$\nwhere, $a=A D+B D$\n$=\\sqrt{3} \\tan 30^{\\circ}+\\sqrt{3} \\cot 15^{\\circ}$\n$=1+\\sqrt{3}\\left(\\frac{1+\\tan 45^{\\circ} \\tan 30^{\\circ}}{\\tan 45^{\\circ}-\\tan 30^{\\circ}}\\right)$\n$=1+\\sqrt{3}\\left(\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\right)$\n$\\therefore \\quad a=4+2 \\sqrt{3}$\n$\\therefore$ Area of $\\Delta=\\frac{1}{2}(4+2 \\sqrt{3})^2\\left(\\frac{\\sqrt{3}}{2}\\right)=12+7 \\sqrt{3}$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/PXl03TAYLnGL7W1m-BtgA8nH4CI9IIu9JAkQGn0XaRE.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Sine Rule and its application"
+  }
+]

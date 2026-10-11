@@ -1,0 +1,1578 @@
+[
+  {
+    "question_id": "64b16a8ef23ac7d519f9b580",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<p>Two concentric circular loops, one of radius&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;and the other of radius&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>R</mi></math>, lie in the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>-plane with the origin as their common center, as shown in the figure. The smaller loop carries current&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>1</mn></msub></math>&nbsp;in the anti-clockwise direction and the larger loop carries current&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub></math>&nbsp;in the clockwise direction, with&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub><mo>&#62;</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub><mo>.</mo><mo>&#160;</mo><mover><mi>B</mi><mo>&#8594;</mo></mover><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></math>&nbsp;denotes&nbsp;the magnetic field at a point&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></math>&nbsp;in the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>-plane. Which of the following statement(s) is (are) correct?</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/943fc473-a8ae-4dd6-b9e0-694ca23ed9f2-image.png\" style=\"width: 230px; height: 213px;\" />&nbsp;</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kqkZq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover accent=\"true\"><mi>B</mi><mo>&#8594;</mo></mover><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></math>&nbsp;is perpendicular to the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>-plane at any point in the plane",
+        "image": null
+      },
+      {
+        "id": "M24r7",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"|\" close=\"|\"><mrow><mover accent=\"true\"><mi>B</mi><mo>&#8594;</mo></mover><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></mrow></mfenced></math>&nbsp;depends on&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>&nbsp;only through the radial distance&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><msqrt><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></msqrt></math>",
+        "image": null
+      },
+      {
+        "id": "iy8md",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced open=\"|\" close=\"|\"><mrow><mover accent=\"true\"><mi>B</mi><mo>&#8594;</mo></mover><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></mrow></mfenced></math>&nbsp;is non-zero at all points for&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#60;</mo><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "id": "bpkwf",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover accent=\"true\"><mi>B</mi><mo>&#8594;</mo></mover><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></math>&nbsp;points normally outward from the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>-plane for all the points between the two loops",
+        "image": null
+      }
+    ],
+    "correct_answer": "M24r7",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/943fc473-a8ae-4dd6-b9e0-694ca23ed9f2-image.png\" style=\"width: 300px; height: 278px;\" />\r\n\r\n(A) Magnetic field at the plane of the ring is perpendicular to the plane. However, they bend as they move forward.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/913996a0-f76f-44b9-b156-a9cb8ea29c53-image.png\" style=\"width: 170px; height: 158px;\" />\r\n\r\n(B) By symmetry, we can say that<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover></math>will be same at all the points having the same radial distance. so<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></math>will depend only the radial distance<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><msqrt><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></msqrt></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/97890d26-1be4-4410-baad-9268dc25e9d2-image.png\" style=\"width: 200px; height: 205px;\" />\r\n\r\n(C)<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>B</mi><mrow><mi>net</mi><mo>&#160;</mo></mrow></msub></mfenced><mrow><mi>centre</mi><mo>&#160;</mo></mrow></msub><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><msub><mi>I</mi><mn>2</mn></msub></mrow><mrow><mn>2</mn><mfenced><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfenced></mrow></mfrac><mo>-</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><msub><mi>I</mi><mn>1</mn></msub></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mo>=</mo><mfrac><msub><mi>&#956;</mi><mn>0</mn></msub><mrow><mn>4</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac><mfenced><mrow><msub><mi>I</mi><mn>2</mn></msub><mo>-</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub></mrow></mfenced></math>Since,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub><mo>&#62;</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub></math>so<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>net</mi></msub></math>at the centre will be non-zero in<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8855;</mo></math>direction, But at some other point,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>net</mi></msub></math>may be zero.\r\n\r\nFrom the graph, it is clear that<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>net</mi></msub><mo>=</mo><mn>0</mn></math>for some value of<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#8712;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mi>R</mi></mrow></mfenced></math>. Sooption (C) is incorrect\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/431a916f-234d-431c-8d06-b7cb28df4a90-image.png\" style=\"width: 320px; height: 191px;\" />\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/22a8cefd-2b9e-46e8-b1f2-4703dd9aee7d-image.png\" style=\"width: 370px; height: 171px;\" />\r\n\r\n(D) For the graph, it is clear that<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mo>-</mo><mi>v</mi><mi>e</mi><mo>&#8658;</mo></math>in<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8855;</mo></math>direction for<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#8712;</mo><mfenced><mrow><mi>R</mi><mo>&#160;</mo><mi>to</mi><mo>&#160;</mo><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfenced></math>, so option D is also incorrect.",
+    "solution_image": null,
+    "topic": "Biot-Savart's Law and Ampere's Circuital Law"
+  },
+  {
+    "question_id": "64b16a12f23ac7d519f9b110",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 2)",
+    "paper_year_short": "2011 (Paper 2)",
+    "held_on": "2011-04-30T14:00:00.000Z",
+    "question_text": "A long insulated copper wire is closely wound as a spiral of $N$ turns. The spiral has inner radius $a$ and outer radius $b$. The spiral lies in the XY-plane and a steady current $I$ flows through the wire. The Z-component of the magnetic field at the centre of the spiral is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/WmycTUrrVf7IKN4c5VBT4TB4PBxzkeLl7dO0m0tVDr4.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "SK80Y",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sUooC5bCiYfSxQLUrgtSEhqOIKhrcCw8OvgH71nhc30.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "nUJAC",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OkdpbkPeRzs32HIE0PC_5k62_Xe10HO1oaGyCgqX0PU.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "OgehT",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/6aA8dsRAmibaeIeEGBWhgL5Hqp3JSZHy07T-JtrFE_4.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "Y4Rnk",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GOAVi2UUHeYkKsJUWy0MiygIxqx6Ss8UyFnYWKY_jfk.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "SK80Y",
+    "solution_text": "If we take a small strip of $d r$ at distancer from centre, then number of turns in this strip would be\n$$\nd N=\\frac{N}{b-a} d r\n$$\nMagnetic field due to this element at the centre of the coil will be\n$$\n\\begin{aligned}\n& d B=\\frac{\\mu_0(d N) I}{2 r}=\\frac{\\mu_0 N I}{2(b-a)} \\frac{d r}{r} \\\\\n\\therefore \\quad & B=\\int_{r=a}^{r=b} d B=\\frac{\\mu_0 N I}{2(b-a)} \\ln \\frac{b}{a}\n\\end{aligned}\n$$\n$\\therefore$ Correct answer is (a).\nAnalysis of Question\n(i) If we see this problem independently, then I will rate this question moderately difficult. But the idea of this question is taken from question number $3.245$ of IE Irodov.\n(ii) Interestingly the same question was asked in IIT-JEE 2001 also.",
+    "solution_image": null,
+    "topic": "Biot-Savart's Law and Ampere's Circuital Law"
+  },
+  {
+    "question_id": "66965dd5d603121f43a402b7",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A thin stiff insulated metal wire is bent into a circular loop with its two ends extending tangentially from the same point of the loop. The wire loop has mass $m$ and radius $r$ and it is in a uniform vertical magnetic field $B_0$, as shown in the figure. Initially, it hangs vertically downwards, because of acceleration due to gravity $g$, on two conducting supports at $\\mathrm{P}$ and $\\mathrm{Q}$. When a current $I$ is passed through the loop, the loop turns about the line $\\mathrm{PQ}$ by an angle $\\theta$ given by\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8JSTqulXRIo-lz6_Dcmrgf8Gy8pyFacqZmDoAu0_jJM.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aD23t",
+        "text": "$\\tan \\theta=\\pi r I B_0 /(\\mathrm{mg})$",
+        "image": null
+      },
+      {
+        "id": "P83HT",
+        "text": "$\\tan \\theta=2 \\pi r I B_0 /(\\mathrm{mg})$",
+        "image": null
+      },
+      {
+        "id": "Bmxc0",
+        "text": "$\\tan \\theta=\\pi r I B_0 /(2 m g)$",
+        "image": null
+      },
+      {
+        "id": "ERkmW",
+        "text": "$\\tan \\theta=m g /\\left(\\pi r I B_0\\right)$",
+        "image": null
+      }
+    ],
+    "correct_answer": "aD23t",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nzgepYKLZGpmJmNWLKoHV6HV5m7AN1wlgn3VlU370B4.original.fullsize.png\">\n$\\begin{aligned} & \\text { Let loop makes angle } \\theta \\text { with vertical. } \\\\ & \\text { in equilibrium } \\tau_{\\text {net }}=0 \\\\ & \\tau_0=\\mathrm{MB} \\sin (90-\\theta)-\\mathrm{mg} . \\mathrm{r} \\sin \\theta=0 \\\\ & \\text { I. } \\pi \\mathrm{r}^2 \\cdot \\mathrm{B}_0 \\cos \\theta=\\mathrm{mg} \\text { r.sin } \\theta \\\\ & \\tan \\theta=\\frac{\\pi \\mathrm{rIB}_0}{\\mathrm{mg}} \\\\ & \\end{aligned}$",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a96f23ac7d519f9b5c2",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 1)",
+    "paper_year_short": "2022 (Paper 1)",
+    "held_on": "2022-04-30T09:00:00.000Z",
+    "question_text": "<p>A small circular loop of area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math>&nbsp;and resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>&nbsp;is fixed on a horizontal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>-plane with the center of the loop always on the axis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">n</mi><mo>^</mo></mover></math> of a long solenoid. The solenoid has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>&nbsp;turns per unit length and carries current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi></math>&nbsp;counter clockwise as shown in the figure. The magnetic field due to the solenoid is in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">n</mi><mo>^</mo></mover></math> direction. List-I gives time dependences of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"normal\">n</mi><mo>^</mo></mover></math> in terms of a constant angular frequency <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi></math>. List-II gives the torques experienced by the circular loop at time <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mfrac><mi>&#960;</mi><mrow><mn>6</mn><mi>&#969;</mi></mrow></mfrac></math>, Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi><mo>=</mo><mfrac><mrow><msup><mi>A</mi><mn>2</mn></msup><msubsup><mi>&#956;</mi><mn>0</mn><mn>2</mn></msubsup><msup><mi>m</mi><mn>2</mn></msup><msup><mi>I</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3dbd710a-2aec-4891-a220-baef9f053b38-image.png\" style=\"width: 220px; height: 150px;\" /></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\"><strong>List-I</strong></td>\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\t\t\t<td style=\"text-align: center;\"><strong>List-II</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>(i)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mfenced><mrow><mi>sin</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover><mo>+</mo><mi>cos</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></td>\t\t\t<td>(p)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(ii)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mfenced><mrow><mi>sin</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>+</mo><mi>cos</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></mrow></mfenced></math></td>\t\t\t<td>(q)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mi>&#945;</mi><mn>4</mn></mfrac><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(iii)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mfenced><mrow><mi>sin</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>+</mo><mi>cos</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></td>\t\t\t<td>(r)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><mi>&#945;</mi></mrow><mn>4</mn></mfrac><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>(iv)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mfenced><mrow><mi>cos</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover><mo>+</mo><mi>sin</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></td>\t\t\t<td>(s)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#945;</mi><mn>4</mn></mfrac><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>&nbsp;</td>\t\t\t<td>&nbsp;</td>\t\t\t<td>(t)</td>\t\t\t<td><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mfrac><mrow><mn>3</mn><mi>&#945;</mi></mrow><mn>4</mn></mfrac><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></math></td>\t\t</tr>\t</tbody></table><p>Which one of the following options is correct?</p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "9Ace4",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">i</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi>ii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi>iii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mi>iv</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">t</mi></math>",
+        "image": null
+      },
+      {
+        "id": "mr8f5",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">i</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mi>ii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">t</mi><mo>,</mo><mi>iii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi>iv</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">p</mi></math>",
+        "image": null
+      },
+      {
+        "id": "spt2d",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">i</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi>ii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi>iii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">s</mi><mo>,</mo><mi>iv</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">r</mi></math>",
+        "image": null
+      },
+      {
+        "id": "51BeU",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">i</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">t</mi><mo>,</mo><mi>ii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">q</mi><mo>,</mo><mi>iii</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">p</mi><mo>,</mo><mi>iv</mi><mo>&#8594;</mo><mi mathvariant=\"normal\">r</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "spt2d",
+    "solution_text": "<blockquote><p>Note: This question was given bonus by JEE council.</p><p>The magnetic field in a solenoid is given by,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>m</mi><mi>I</mi><mover><mi mathvariant=\"normal\">n</mi><mo>^</mo></mover></math>. Therefore, the flux through the loop will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfenced><mrow><mi>A</mi><mover><mi>k</mi><mo>^</mo></mover></mrow></mfenced><mo>&#183;</mo><mfenced><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>m</mi><mi>I</mi><mover><mi mathvariant=\"normal\">n</mi><mo>^</mo></mover></mrow></mfenced></math></p><p>For case I:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>A</mi></mrow><msqrt><mn>2</mn></msqrt></mfrac><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p>The emf will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#949;</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>A</mi><mi>&#969;</mi></mrow><msqrt><mn>2</mn></msqrt></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p>Therefore, the current in the loop will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>A</mi><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p>The magnetic moment of the loop will be,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>m</mi><mo>&#8594;</mo></mover><mo>=</mo><mi>i</mi><mi>A</mi><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover><mo>=</mo><mfrac><mrow><mi>B</mi><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></math></p><p>Therefore, the torque</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mover><mi>m</mi><mo>&#8594;</mo></mover><mo>&#215;</mo><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mfenced><mrow><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover><mo>&#215;</mo><mover><mi mathvariant=\"normal\">n</mi><mo>^</mo></mover></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mfenced close=\"]\" open=\"[\"><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></mfenced><msup><mi>sin</mi><mn>2</mn></msup><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mfenced close=\"]\" open=\"[\"><mrow><msup><mi>sin</mi><mn>2</mn></msup><mfenced><mfrac><mi>&#960;</mi><mn>6</mn></mfrac></mfenced></mrow></mfenced><mo>=</mo><mfrac><mrow><mo>-</mo><mi>&#945;</mi></mrow><mn>4</mn></mfrac><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi mathvariant=\"normal\">I</mi></mfenced><mo>&#8594;</mo><mi>q</mi></math></p><p>For case II</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mn>0</mn></math></p><p>Therefore, we can directly write&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#964;</mi><mo>=</mo><mn>0</mn></math></p><p>Hence&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>II</mi></mfenced><mo>&#8594;</mo><mi>p</mi></math></p><p>Following the same process as in case I for case III</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>A</mi></mrow><msqrt><mn>2</mn></msqrt></mfrac><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>A</mi><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>m</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><mi>B</mi><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mover><mi>m</mi><mo>&#8594;</mo></mover><mo>&#215;</mo><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mo>&#215;</mo><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>sin</mi><mi>&#969;</mi><mi>t</mi><mfenced><mrow><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover><mo>&#215;</mo><mfenced><mrow><mi>sin</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover><mo>+</mo><mi>cos</mi><mi>&#969;</mi><mi>t</mi><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><msup><mi>sin</mi><mn>2</mn></msup><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mi>&#945;</mi><mn>4</mn></mfrac><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>III</mi><mo>&#8594;</mo><mi>s</mi></math></p><p>Following the same process as in case I for case IV</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#981;</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>A</mi></mrow><msqrt><mn>2</mn></msqrt></mfrac><mi>sin</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>i</mi><mo>=</mo><mo>-</mo><mfrac><mrow><mi>B</mi><mi>A</mi><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>cos</mi><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>m</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><mfrac><mrow><mi>B</mi><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mi>R</mi></mrow></mfrac><mi>cos</mi><mi>&#969;</mi><mi>t</mi><mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mover><mi>m</mi><mo>&#8594;</mo></mover><mo>&#215;</mo><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mfenced><mrow><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover><mo>&#215;</mo><mover><mi mathvariant=\"normal\">j</mi><mo>^</mo></mover></mrow></mfenced><msup><mi>cos</mi><mn>2</mn></msup><mfenced><mrow><mi>&#969;</mi><mi>t</mi></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>+</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>A</mi><mn>2</mn></msup><mi>&#969;</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mfenced><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></mfenced><mo>&#183;</mo><msup><mi>cos</mi><mn>2</mn></msup><mfenced><mfrac><mi>&#960;</mi><mn>6</mn></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>&#964;</mi><mo>&#8594;</mo></mover><mo>=</mo><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>&#945;</mi><mover><mi mathvariant=\"normal\">i</mi><mo>^</mo></mover></math></p><p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>IV</mi></mfenced><mo>&#8594;</mo><mi>r</mi></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a7cf23ac7d519f9b4d9",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 1)",
+    "paper_year_short": "2020 (Paper 1)",
+    "held_on": "2020-04-30T09:00:00.000Z",
+    "question_text": "<p>A circular coil of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi></math> turns has negligible resistance. As shown in the schematic figure, its two ends are connected to two wires and it is hanging by those wires with its plane being vertical. The wires are connected to a capacitor with charge <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> through a switch. The coil is in a horizontal uniform magnetic field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mi>o</mi></msub></math> parallel to the plane of the coil. When the switch is closed, the capacitor gets discharged through the coil in a very short time. By the time the capacitor is discharged fully, magnitude of the angular momentum gained by the coil will be (assume that the discharge time is so short that the coil has hardly rotated during this time)</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/f975a3c8-5015-4a61-b665-fd34a364a43d-image.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "oiAri",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>&#960;</mi><mn>2</mn></mfrac><mi>N</mi><mi>Q</mi><msub><mi>B</mi><mi>o</mi></msub><msup><mi>R</mi><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "g2QFG",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#960;</mi><mi>N</mi><mi>Q</mi><msub><mi>B</mi><mi>o</mi></msub><msup><mi>R</mi><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "Rm84N",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>&#960;</mi><mi>N</mi><mi>Q</mi><msub><mi>B</mi><mi>o</mi></msub><msup><mi>R</mi><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "id": "w6ig0",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>&#960;</mi><mi>N</mi><mi>Q</mi><msub><mi>B</mi><mi>o</mi></msub><msup><mi>R</mi><mn>2</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "g2QFG",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#964;</mi><mo>=</mo><mi>M</mi><mo>&#183;</mo><mi>B</mi><mo>&#183;</mo><mi>sin</mi><mo>&#160;</mo><mn>90</mn><mo>&#176;</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#964;</mi><mo>=</mo><mi>N</mi><mi>I</mi><mi mathvariant=\"normal\">&#960;</mi><msup><mi>R</mi><mn>2</mn></msup><msub><mi>B</mi><mn>0</mn></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi>L</mi><mo>=</mo><msubsup><mo>&#8747;</mo><mn>0</mn><mi>t</mi></msubsup><mi>&#964;</mi><mo>&#183;</mo><mi>d</mi><mi>t</mi><mo>=</mo><mi>N</mi><mo>&#183;</mo><mi>&#960;</mi><msup><mi>R</mi><mn>2</mn></msup><mo>&#183;</mo><mi>B</mi><msubsup><mo>&#8747;</mo><mn>0</mn><mi>t</mi></msubsup><mi>I</mi><mo>&#160;</mo><mi>d</mi><mi>t</mi></math>;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#916;</mi><mi>L</mi><mo>=</mo><mi>N</mi><mo>&#183;</mo><mi>&#960;</mi><msup><mi>R</mi><mn>2</mn></msup><mo>&#183;</mo><mi>B</mi><mi>Q</mi></math>.</p>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a71f23ac7d519f9b472",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2019 (Paper 1)",
+    "paper_year_short": "2019 (Paper 1)",
+    "held_on": "2019-04-30T09:00:00.000Z",
+    "question_text": "Two identical moving coil galvanometer have <math><mn>10</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#937;</mi></math> resistance and full scale deflection at <math><mn>2</mn><mtext>&#8201;</mtext><mi mathvariant=\"normal\">&#956;</mi><mi mathvariant=\"normal\">A</mi></math> current. One of them is converted into a voltmeter of <math><mn>100</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">V</mi></math> full scale reading and the other into an Ammeter of <math><mn>1</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">A</mi></math> full scale current using appropriate resistors. These are then used to measure the voltage and current in the Ohm&#39;s law experiment with <math><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>1000</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">&#937;</mi></math> resistor by using an ideal cell. Which of the following statement(s) is/are correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "bn9g2",
+        "text": "The resistance of the Voltmeter will be  <math><mn>100</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">k</mi><mi mathvariant=\"normal\">Ω</mi><mo>.</mo></math>",
+        "image": null
+      },
+      {
+        "id": "tLmCe",
+        "text": "The measured value of  <math><mi mathvariant=\"normal\">R</mi></math>  will be  <math><mn>978</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi><mo>&lt;</mo><mi mathvariant=\"normal\">R</mi><mo>&lt;</mo><mn>982</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi><mo>.</mo></math>",
+        "image": null
+      },
+      {
+        "id": "It7Iv",
+        "text": "The resistance of the Ammeter will be  <math><mn>0.02</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi></math>  (round off to  <math><msup><mrow><mn>2</mn></mrow><mrow><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi></mrow></msup></math>  decimal place)",
+        "image": null
+      },
+      {
+        "id": "js5Sl",
+        "text": "If the ideal cell is replaced by a cell having internal resistance of  <math><mn>5</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi></math>  then the measured value of  <math><mi mathvariant=\"normal\">R</mi></math>  will be more than  <math><mn>1000</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Ω</mi><mo>.</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "It7Iv",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/xnkhzdhaatkbyxgowrfumwnpdshmmlwbzfozirqhsizalpbdsf.png\"/> <br >Voltmeter rom galvanometer arrangement.<br >Given:  <math><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mn>10</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math>  and  <math><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mn>2</mn><mi>μ</mi><mi>A</mi></math> <br >Required voltage range,  <math><mi>V</mi><mo>=</mo><mn>100</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mtext> </mtext><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">s</mi></math> <br > <math><mo>⇒</mo><mi>V</mi><mo>=</mo><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mfenced separators=\"|\"><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>v</mi></mrow></msub></mrow></mfenced><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> <br > <math><mo>⇒</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow></mfrac><mo>=</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>+</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>v</mi></mrow></msub><mtext>  </mtext><mfenced separators=\"|\"><mrow><mi>a</mi><mi>s</mi><mo>,</mo><mtext> </mtext><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mn>2</mn><mi>μ</mi><mi>A</mi></mrow></mfenced></math> <br > <math><mo>⇒</mo><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><mi mathvariant=\"normal\">Ω</mi><mo>≈</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>v</mi></mrow></msub><mtext>  </mtext><mo>(</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>v</mi></mrow></msub><mo><</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup><mi mathvariant=\"normal\">Ω</mi><mo>)</mo><mo>⇒</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">A</mi><mo>)</mo></math>  is incorrect.<br > <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/aqkzsslaacymtkrjdmgzqlmhvwoubdrtkxfcwgvcnxokhbrbhs.png\"/> <br >Galvanometer to Ammeter arrangement<br > <math><mi>Δ</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>G</mi></mrow></msub><mo>=</mo><mi>Δ</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>S</mi></mrow></msub></math> <br > <math><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>⋅</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mi>I</mi><mo>-</mo><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub></mrow></mfenced><mo>⋅</mo><mi>S</mi></math> <br > <math><mo>⇒</mo><mi>S</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>⋅</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub></mrow><mrow><mi>I</mi><mo>-</mo><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>6</mn></mrow></msup><mo>×</mo><mn>10</mn></mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>-</mo><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>6</mn></mrow></msup></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi>S</mi><mo>=</mo><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>5</mn></mrow></msup><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mo>=</mo><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> <br > <math><mo>⇒</mo><mi>S</mi><mo>=</mo><mn>20</mn><mtext> </mtext><mi>m</mi><mi mathvariant=\"normal\">Ω</mi><mo>⇒</mo><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math>  is correct.<br >Circuit diagram for ohm's law<br > <img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/oszbguhhgvscngbsawvtorapmuxkltpcsqfojgoaalquouerqo.png\"/> <br >Resistance ammeter,<br > <math><msub><mrow><mi>R</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>20</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>×</mo><mn>10</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mo>=</mo><mn>20</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi mathvariant=\"normal\">Ω</mi></math> <br > <math><mi>i</mi><mo>=</mo><mfrac><mrow><mi>ε</mi></mrow><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1000</mn><mo>×</mo><mn>50</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mn>51</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mfenced></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>51</mn><mi>ε</mi></mrow><mrow><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac><mfenced separators=\"|\"><mrow><mo>∵</mo><mtext> </mtext><msub><mrow><mi>R</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>→</mo><mn>0</mn></mrow></mfenced></math> <br > <math><msup><mrow><mi>i</mi></mrow><mrow><mi>′</mi></mrow></msup><mo>=</mo><mi>i</mi><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>v</mi></mrow></msub></mrow><mrow><mn>51</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>ε</mi></mrow><mrow><mn>1000</mn></mrow></mfrac></math> <br >Measured resistance  <math><mo>∴</mo><mtext>  </mtext><msub><mrow><mi>R</mi></mrow><mrow><mi>m</mi></mrow></msub><mo>=</mo><mfrac><mrow><msup><mrow><mi>i</mi></mrow><mrow><mi>′</mi></mrow></msup><mo>×</mo><mn>1000</mn></mrow><mrow><mi>i</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>ε</mi></mrow><mrow><mn>51</mn><mi>ε</mi></mrow></mfrac><mo>×</mo><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><mn>51</mn></mrow></mfrac><mo>=</mo><mn>980.4</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math> <br >If the voltmeter shows full scale deflection then<br > <math><mfrac><mrow><mi>ε</mi></mrow><mrow><mn>980</mn></mrow></mfrac><mo>×</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>1000</mn></mrow><mrow><mn>51</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mo>×</mo><mn>5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>4</mn></mrow></msup><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> <br > <math><mo>∴</mo><mi>ε</mi><mo>=</mo><mn>999.6</mn><mtext> </mtext><mi>m</mi><mi>v</mi></math> <br >Since  <math><msub><mrow><mi>i</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mn>1</mn><mtext> </mtext><mi>m</mi><mi>A</mi></math>  so max reading of R can be  <math><mfrac><mrow><mn>999.6</mn><mtext> </mtext><mi>m</mi><mi>V</mi></mrow><mrow><mn>1</mn><mtext> </mtext><mi>m</mi><mi>A</mi></mrow></mfrac><mo>=</mo><mn>999.6</mn><mtext> </mtext><mi mathvariant=\"normal\">Ω</mi></math>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a6bf23ac7d519f9b43d",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 2)",
+    "paper_year_short": "2018 (Paper 2)",
+    "held_on": "2018-04-30T14:00:00.000Z",
+    "question_text": "A moving coil galvanometer has 50 turns and each turn has an area <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><msup><mi mathvariant=\"normal\">m</mi><mn>2</mn></msup></math> . The magnetic field produced by the magnet inside the galvanometer is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.02</mn><mo>&#160;</mo><mi mathvariant=\"normal\">T</mi></math> . The torsional constant of the suspension wire is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">&#160;</mi><msup><mi>rad</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> . When a current flows through the galvanometer, a full scale deflection occurs if the coil rotates by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.2</mn><mi>&#160;</mi><mi>rad</mi></math> . The resistance of the coil of the galvanometer is <math><mn>50</mn><mi>&#160;</mi><mi mathvariant=\"normal\">&#937;</mi></math> . This galvanometer is to be converted into an ammeter capable of measuring current in the range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>1.0</mn><mi>&#160;</mi><mi mathvariant=\"normal\">A</mi></math> . For this purpose, a shunt resistance is to be added in parallel to the galvanometer. The value of this shunt resistance, in ohms, is __________.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5.55",
+    "solution_text": "<math><mtable><mtr><mtd><mi>n</mi><mo>=</mo><mn>50</mn><mi> </mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">s</mi></mtd><mtd><mi>A</mi><mo>=</mo><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mi> </mi><msup><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msup></mtd></mtr></mtable></math><br ><math><mtable><mtr><mtd><mi>B</mi><mo>=</mo><mn>0.02</mn><mi>T</mi></mtd><mtd><mi>K</mi><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup></mtd></mtr></mtable></math><br ><math><mtable><mtr><mtd><msub><mrow><mi>Q</mi></mrow><mrow><mi>m</mi></mrow></msub><mo>=</mo><mn>0.2</mn><mi> </mi><mi>r</mi><mi>a</mi><mi>d</mi></mtd><mtd><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mn>50</mn><mi mathvariant=\"normal\">Ω</mi></mtd></mtr></mtable></math><br ><math><mtable><mtr><mtd><msub><mrow><mi>I</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mn>0</mn><mo>-</mo><mn>1.0</mn><mi>A</mi></mtd><mtd><mi>τ</mi><mo>=</mo><mi>M</mi><mi>B</mi><mo>=</mo><mi>C</mi><mi>θ</mi><mo>,</mo><mi> </mi><mi>M</mi><mo>=</mo><mi>N</mi><mi>I</mi><mi>A</mi><mi> </mi></mtd></mtr></mtable></math><br ><math><mi>B</mi> <mrow> <msub> <mi>I</mi> <mi>g</mi> </msub> </mrow> <mi>N</mi><mi>A</mi><mo>=</mo><mi>C</mi><mi>θ</mi></math><br ><math><mn>0.02</mn><mo>×</mo> <mrow> <msub> <mi>I</mi> <mi>g</mi> </msub> </mrow> <mo>×</mo><mn>50</mn><mo>×</mo><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>=</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>4</mn></mrow></msup><mo>×</mo><mn>0.2</mn></math><br ><math><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mn>0.1</mn><mi>A</mi></math><br >For galvanometer, resistance is to be connected to ammeter in shunt.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/10_solu_1_phys.jpg\"/><br ><math><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>×</mo><msub><mrow><mi>R</mi></mrow><mrow><mi>g</mi></mrow></msub><mo>=</mo><mfenced separators=\"|\"><mrow><mi>I</mi><mo>-</mo><msub><mrow><mi>I</mi></mrow><mrow><mi>g</mi></mrow></msub></mrow></mfenced><mi>S</mi></math><br ><math><mn>0.1</mn><mo>×</mo><mn>50</mn><mo>=</mo><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>0.1</mn></mrow></mfenced><mi>S</mi></math><br ><math><mi>S</mi><mo>=</mo><mfrac><mrow><mn>50</mn></mrow><mrow><mn>9</mn></mrow></mfrac><mo>=</mo><mn>5.55</mn></math>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a40f23ac7d519f9b2bc",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 1)",
+    "paper_year_short": "2015 (Paper 1)",
+    "held_on": "2015-04-30T09:00:00.000Z",
+    "question_text": "<p>A Conductor (shown in the figure) carrying constant current <math><mi mathvariant=\"normal\">I</mi></math> is kept in the <math><mi mathvariant=\"normal\">x</mi></math> - <math><mi mathvariant=\"normal\">y</mi></math> plane in a uniform magnetic field <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math> . If <math><mi mathvariant=\"normal\">F</mi></math> is the magnitude of the total magnetic force acting on the conductor, then the correct statement(s) is (are)<br ><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image15-eab3ad90-5e68-4942-a452-b87a3445a3ba.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kNAzG",
+        "text": "If <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math>  is along  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">z</mi></mrow><mo>^</mo></mover></math> ,  <math><mi mathvariant=\"normal\">F</mi><mo>∝</mo><mo>(</mo><mi mathvariant=\"normal\">L</mi><mo>+</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "8oED0",
+        "text": "If  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math>   is along  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">x</mi></mrow><mo>^</mo></mover></math> ,  <math><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "id": "vWcAe",
+        "text": "If  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math>  is along  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">y</mi></mrow><mo>^</mo></mover></math> ,  <math><mi mathvariant=\"normal\">F</mi><mo>∝</mo><mo>(</mo><mi mathvariant=\"normal\">L</mi><mo>+</mo><mi mathvariant=\"normal\">R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "RM0AM",
+        "text": "If  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math>  is along  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">z</mi></mrow><mo>^</mo></mover></math> ,  <math><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "vWcAe",
+    "solution_text": "<math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">F</mi></mrow><mo>→</mo></mover><mo>=</mo><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\"> </mi><mfenced separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">D</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">s</mi><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">t</mi></mrow><mo>→</mo></mover></mrow></mfenced><mo>×</mo><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math> <br >As magnetic field is uniform<br > <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">F</mi></mrow><mo>→</mo></mover><mo>=</mo><mi mathvariant=\"normal\">I</mi><mfenced separators=\"|\"><mrow><mn>2</mn><mi mathvariant=\"normal\">L</mi><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfenced><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">i</mi></mrow><mo>^</mo></mover><mo>×</mo><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math> <br >When  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math>  is along  <math><mi mathvariant=\"normal\">y</mi></math>  or  <math><mi mathvariant=\"normal\">z</mi></math>  axis<br > <math><mi mathvariant=\"normal\">F</mi><mo>∝</mo><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">L</mi><mo>+</mo><mi mathvariant=\"normal\">R</mi></mrow></mfenced></math> <br >When  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>→</mo></mover></math>  is along  <math><mi mathvariant=\"normal\">x</mi></math> -axis<br > <math><mi mathvariant=\"normal\">F</mi><mo>=</mo><mn>0</mn></math>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a3af23ac7d519f9b27d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nThe figure shows a circular loop of radius $a$ with two long parallel wires (numbered $1$ and $2$ ) all in the plane of the paper. The distance of each wire from the centre of the loop is $d$. The loop and the wires are carrying the same current $I$. The current in the loop is in the counterclockwise direction if seen from above.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GU7hy-nzjBiPl9XHgbWTvl1eCPrJlBsf582p5th3YVs.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nConsider $d \\gg a$, and the loop is rotated about its diameter parallel to the wires by $30^{\\circ}$ from the position shown in the figure. If the currents in the wires are in the opposite directions, the torque on the loop at its new position will be (assume that the net field due to the wires is constant over the loop)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "206wU",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><msup><mi>I</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>d</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "b6vGt",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><msup><mi>I</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mrow><mrow><mn></mn><mi>d</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "bTurX",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msqrt><mn>3</mn></msqrt><msub><mi>&#956;</mi><mn>0</mn></msub><msup><mi>I</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mrow><mi>d</mi></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "YdpX8",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msqrt><mn>3</mn></msqrt><msub><mi>&#956;</mi><mn>0</mn></msub><msup><mi>I</mi><mn>2</mn></msup><msup><mi>d</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>d</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "206wU",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#964;</mi><mo>=</mo><mi>M</mi><mi>B</mi><mi>sin</mi><mo>&#160;</mo><mi>&#952;</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>&#964;</mi><mo>=</mo><mi>I</mi><mo>&#215;</mo><mi>&#960;</mi><msup><mi>a</mi><mn>2</mn></msup><mo>&#215;</mo><mn>2</mn><mo>&#215;</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>&#960;</mi><mi>d</mi></mrow></mfrac><mi>sin</mi><mo>&#8289;</mo><msup><mn>30</mn><mi>o</mi></msup><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><msup><mi>I</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mrow><mi>2d</mi></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a34f23ac7d519f9b246",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "A galvanometer gives full scale deflection with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#183;</mo><mn>006</mn><mo>&#160;</mo><mi>A</mi></math>&nbsp;current. By connecting it to a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4990</mn><mo>&#160;</mo><mi>&#937;</mi></math> resistance, it can be converted into a voltmeter of range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>30</mn><mo>&#160;</mo><mi>V</mi></math>. If connected to a <math><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">n</mi></mrow><mrow><mn>249</mn></mrow></mfrac><mi mathvariant=\"normal\">&#937;</mi></math> resistance, it becomes an ammeter of range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mo>&#160;</mo><mn>1</mn><mo>&#183;</mo><mn>5</mn><mo>&#160;</mo><mi>A</mi></math>. The value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "<p>Given a galvanometer of resistance (of resistance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>G</mi></msub></math>) get converted into a voltmeter of range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mn>30</mn><mi>V</mi></math> , when a resistance of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>S</mi></msub><mo> </mo><mo>=</mo><mo> </mo><mn>4990</mn><mo> </mo><mi>Ω</mi></math> is connected in series of it and give full scale of deflection with current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>G</mi></msub><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo>·</mo><mn>006</mn><mo> </mo><mi>A</mi></math>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image12-6bc73f0e-7a0f-42ab-bc21-467285445214.png\"/><br/>Than from equation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">G</mi></msub><mo>=</mo><mfrac><mi mathvariant=\"normal\">V</mi><mrow><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">S</mi></msub><mo>+</mo><msub><mi>R</mi><mi mathvariant=\"normal\">G</mi></msub></mrow></mfrac></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.006</mn><mo>=</mo><mfrac><mn>30</mn><mrow><mn>4990</mn><mo>+</mo><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mo> </mo><msub><mi>R</mi><mi>G</mi></msub><mo> </mo><mo>=</mo><mo> </mo><mn>10</mn><mo> </mo><mi>Ω</mi></math></p><p>Now this galvanometer is connected with a shunt resistance to convert into ammeter of range <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>-</mo><mo> </mo><mn>1</mn><mo>·</mo><mn>5</mn><mo> </mo><mi>A</mi></math><br/><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image13-42e2827a-6edd-4b55-942f-bc9fcea016be.png\"/><br >Given <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">G</mi></msub><mo>=</mo><mn>0.006</mn></math>, so current passing shunt will be <br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">S</mi></msub><mo>=</mo><mi>I</mi><mo>-</mo><msub><mi>I</mi><mi>G</mi></msub><mo>=</mo><mn>1</mn><mo>.</mo><mn>5</mn><mo>-</mo><mn>0</mn><mo>·</mo><mn>006</mn><mo> </mo><mo>=</mo><mo> </mo><mn>1.494</mn><mo> </mo><mi>A</mi></math><br >Since <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">G</mi></msub></math> and <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mi mathvariant=\"normal\">S</mi></mrow></msub></math> are in parallel, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">G</mi></msub><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">G</mi></msub><mo>=</mo><msub><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">s</mi></msub><msub><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">S</mi></msub></math><br ><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.006</mn><mi mathvariant=\"normal\">R</mi><mo>=</mo><mn>1.494</mn><mfenced separators=\"|\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">n</mi></mrow><mn>249</mn></mfrac></mfenced></math> ;   <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∵</mo></math>given <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>S</mi></msub><mo>=</mo><mfenced separators=\"|\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">n</mi></mrow><mn>249</mn></mfrac></mfenced></math>  <br ><math><mo>∴</mo><mi mathvariant=\"normal\">n</mi><mo>=</mo><mn>5</mn></math></p>",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b169fbf23ac7d519f9b03e",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2010 (Paper 1)",
+    "paper_year_short": "2010 (Paper 1)",
+    "held_on": "2010-04-30T09:00:00.000Z",
+    "question_text": "A thin flexible wire of length $L$ is connected to two adjacent fixed points and carries a current $I$ in the clockwise direction, as shown in the figure. When the system is put in a uniform magnetic field of strength $B$ going into the plane of the paper, the wire takes the shape of a circle. The tension in the wire is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/bF_Vs5zbWXF13GK9k5D-6QuFUCOToY-1ar4BeybdPbw.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "pUjrW",
+        "text": "\n$I B L$\n",
+        "image": null
+      },
+      {
+        "id": "2zBtH",
+        "text": "\n$\\frac{I B L}{\\pi}$\n",
+        "image": null
+      },
+      {
+        "id": "i4Tx0",
+        "text": "\n$\\frac{I B L}{2 \\pi}$\n",
+        "image": null
+      },
+      {
+        "id": "7yqHx",
+        "text": "\n$\\frac{I B L}{4 \\pi}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "i4Tx0",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/4veaaxxLY6EsrGuXWp0Zi06fUxuiwtTpsIf1XwC9re8.original.fullsize.png\"><br>\n$L=2 \\pi R$\n$R=\\frac{L}{2 \\pi}$\n$2 T \\sin (d \\theta)=F_m$\nfor small angles, $\\sin (d \\theta) \\approx d \\theta$\n$$\n\\begin{aligned}\n\\therefore \\quad 2 T(d \\theta) & =I(d L) B \\sin 90^{\\circ} \\\\\n& =I(2 R \\cdot d \\theta) \\cdot B \\\\\n\\therefore \\quad T & =I R B=\\frac{I L B}{2 \\pi}\n\\end{aligned}\n$$\n$\\therefore$ correct option is (c)",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b169e7f23ac7d519f9af8a",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 2)",
+    "paper_year_short": "2008 (Paper 2)",
+    "held_on": "2008-04-30T14:00:00.000Z",
+    "question_text": "Statement 1 The sensitivity of a moving coil galvanometer is increased by placing a suitable magnetic material as a core inside the coil.\nand Statement 2 Soft iron has a high magnetic permeability and cannot be easily magnetized or demagnetized.",
+    "question_image": null,
+    "options": [
+      {
+        "id": "XjSLH",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "yBf00",
+        "text": "\nStatement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation for Statement 1.\n",
+        "image": null
+      },
+      {
+        "id": "362m2",
+        "text": "\nStatement 1 is true, Statement 2 is false.\n",
+        "image": null
+      },
+      {
+        "id": "e5f2t",
+        "text": "\nStatement 1 is false, Statement 2 is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "362m2",
+    "solution_text": "$c \\phi=B I N A$\n$$\n\\therefore \\phi=\\left(\\frac{B N A}{c}\\right) I\n$$\nUsing iron core, value of magnetic field increases. So, deflection increases for same current. Hence, sensitivity increases. Soft iron can be easily magnetized or demagnetized.\n$\\therefore$ correct option is (c).",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b169d9f23ac7d519f9af06",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Statement I A vertical iron rod has a coil of wire wound over it at the bottom end. An alternating current flows in the coil. The rod goes through a conducting ring as shown in the figure. The ring can float at a certain height above the coil.\nStatement II In the above situation, a current is induced in the ring which interacts with the horizontal component of the magnetic field to produce an average force in the the upward direction.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/VfxDHPfimERkhriPVyfbv6yyRPMB3cqA6B7YfjZ87qc.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "jN0br",
+        "text": "\nStatement I is true, Statement II is true; Statement II is a correct explanation for Statement\n",
+        "image": null
+      },
+      {
+        "id": "q6ZXK",
+        "text": "\nStatement I is true, Statement II is true; Statement II is NOT a correct explanation for Statement I\n",
+        "image": null
+      },
+      {
+        "id": "hZt89",
+        "text": "\nStatement I is true, Statement II is false\n",
+        "image": null
+      },
+      {
+        "id": "daWFX",
+        "text": "\nStatement I is false, Statement II is true",
+        "image": null
+      }
+    ],
+    "correct_answer": "jN0br",
+    "solution_text": "The induced current in the ring will interact with horizontal component of magnetic field and both will repel each other.\nThis repulsion will balance the weight of ring.\n$$\n\\text { Hence, option (a) is correct. }\n$$",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b169c5f23ac7d519f9ae51",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "$$\n\\text { Which of the following statement is correct in Infinitely long wire kept perpendicular }\n$$\nto the paper carrying current inwards the given figure?\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/SYLXFKpBfOd_SpVt4Ekr8sCl2_H1MJuM584PMrnE7yU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "AHHdC",
+        "text": "\nnet force on the loop is zero\n",
+        "image": null
+      },
+      {
+        "id": "lZetE",
+        "text": "\nnet torque on the loop is zero\n",
+        "image": null
+      },
+      {
+        "id": "AHsn1",
+        "text": "\nloop will rotate clockwise about axis $\\mathrm{OO}^{\\prime}$ when seen from $O$\n",
+        "image": null
+      },
+      {
+        "id": "0cnjv",
+        "text": "\nloop will rotate anti-clockwise about $\\mathrm{OO}^{\\prime}$ when seen from $O$",
+        "image": null
+      }
+    ],
+    "correct_answer": "AHsn1",
+    "solution_text": "$\\mathbf{F}_{B A}=0$, because magnetic lines are parallel to this wire.\n$\\mathbf{F}_{C D}=0$, because magnetic lines are antiparallel to this wire.\n$\\mathbf{F}_{C B}$ is perpendicular to paper inwards and $\\mathbf{F}_{A D}$ is perpendicular to paper outwards. These two forces (although calculated by integration) cancel each other but produce a torque which tend to rotate the loop in clockwise direction about an axis $O O^{\\prime}$.",
+    "solution_image": null,
+    "topic": "Force and Torque on Current Carrying Conductor"
+  },
+  {
+    "question_id": "64b16a8ff23ac7d519f9b588",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 2)",
+    "paper_year_short": "2021 (Paper 2)",
+    "held_on": "2021-04-30T14:00:00.000Z",
+    "question_text": "<strong>Paragraph</strong><br>A special metal $S$ conducts electricity without any resistance. A closed wire loop, made of $S$, does not allow any change in flux through itself by inducing a suitable current to generate a compensating flux. The induced current in the loop cannot decay due to its zero resistance. This current gives rise to a magnetic moment which in turn repels the source of magnetic field or flux. Consider such a loop, of radius $a$, with its center at the origin. A magnetic dipole of moment $m$ is brought along the axis of this loop from infinity to a point at distance $r(\\gg a)$ from the center of the loop with its north pole always facing the loop, as shown in the figure below.<br><br>The magnitude of magnetic field of a dipole $m$, at a point on its axis at distance $r$, is $\\frac{\\mu_{0}}{2 \\pi} \\frac{m}{r^{3}}$, where $\\mu_{0}$ is the permeability of free space. The magnitude of the force between two magnetic dipoles with moments, $m_{1}$ and $m_{2}$, separated by a distance $r$ on the common axis, with their north poles facing each other, is $\\frac{k m_{1} m_{2}}{r^{4}}$, where $k$ is a constant of appropriate dimensions. The direction of this force is along the line joining the two dipoles.<br><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/OnwLM4py_dLCUenLLwdFNEy8sa-0i9DHGKEW9cpctzU.original.fullsize.png\" /><br><strong>Question</strong>The work done in bringing the dipole from infinity to a distance&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>&nbsp;from the centre of the loop by the given process is proportional to:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "P9AaJ",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>m</mi><msup><mi>r</mi><mn>5</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "KOf35",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>5</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "iY3b3",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>6</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "id": "o5Qir",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>7</mn></msup></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "iY3b3",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/571fef32-a285-4778-9cb1-8a36e9213622-image.png\" style=\"width: 230px; height: 84px;\" /></p><p>For a super conducting loop, net flux&nbsp;passing through it will remain constant.</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mfenced><msub><mi>&#981;</mi><mrow><mi>total</mi><mo>&#160;</mo></mrow></msub></mfenced><mi>i</mi></msub><mo>=</mo><msub><mfenced><msub><mi>&#981;</mi><mrow><mi>total</mi><mo>&#160;</mo></mrow></msub></mfenced><mi>f</mi></msub></math></p><p>As area is same, therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>m</mi></mrow><mrow><mn>2</mn><msup><mi>&#960;r</mi><mn>3</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>a</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>I</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mi>m</mi></mrow><msup><mi>&#960;r</mi><mn>3</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mi>I</mi><mo>&#8733;</mo><mfrac><mi>m</mi><msup><mi>r</mi><mn>3</mn></msup></mfrac></math></p><p>The current carrying superconducting loop will also behave like a magnet, whose magnetic dipole moment is given by,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi><mn>1</mn></msub><mo>=</mo><mi>N</mi><mi>I</mi><mi>A</mi><mspace linebreak=\"newline\"></mspace><mo>=</mo><mo>(</mo><mn>1</mn><mo>)</mo><mfenced><mfrac><mrow><mi>a</mi><mi>m</mi></mrow><msup><mi>&#960;r</mi><mn>3</mn></msup></mfrac></mfenced><mo>&#215;</mo><mi>&#960;</mi><msup><mi>a</mi><mn>2</mn></msup><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mrow><mi>m</mi><msup><mi>a</mi><mn>3</mn></msup></mrow><msup><mi>r</mi><mn>3</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mo>&#160;&#160;</mo><msub><mi>m</mi><mn>1</mn></msub><mo>&#8733;</mo><mfrac><mi>m</mi><msup><mi>r</mi><mn>3</mn></msup></mfrac></math></p><p>The repulsive force felt on&nbsp;the magnet will be</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>=</mo><mfrac><mrow><mi>K</mi><msub><mi>m</mi><mn>1</mn></msub><msub><mi>m</mi><mn>2</mn></msub></mrow><msup><mi>r</mi><mn>4</mn></msup></mfrac><mo>=</mo><mfrac><mrow><mfenced><msup><mi>K</mi><mo>&#39;</mo></msup></mfenced><mfenced><mfrac><mi>m</mi><msup><mi>r</mi><mn>3</mn></msup></mfrac></mfenced><mfenced><mi>m</mi></mfenced></mrow><msup><mi>r</mi><mn>4</mn></msup></mfrac><mo>&#8733;</mo><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>7</mn></msup></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>W</mi><mi>ext</mi></msub><mo>=</mo><mo>-</mo><mo>&#8747;</mo><mi>F</mi><mi mathvariant=\"normal\">d</mi><mi>r</mi><mspace linebreak=\"newline\"/><mo>=</mo><mo>-</mo><mi>K</mi><mo>'</mo><mo>&#8747;</mo><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>7</mn></msup></mfrac><mi mathvariant=\"normal\">d</mi><mi>r</mi></math></p><p>Using&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8747;</mo><msup><mi>x</mi><mi>n</mi></msup><mi mathvariant=\"normal\">d</mi><mi>x</mi><mo>=</mo><mfrac><msup><mi>x</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math></p><p>We get,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>W</mi><mi>ext</mi></msub><mo>&#8733;</mo><mfrac><msup><mi>m</mi><mn>2</mn></msup><msup><mi>r</mi><mn>6</mn></msup></mfrac></math></p>",
+    "solution_image": null,
+    "topic": "Magnetic Dipole"
+  },
+  {
+    "question_id": "6696579c623b9ed1d4637466",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 1)",
+    "paper_year_short": "2024 (Paper 1)",
+    "held_on": "2024-04-30T09:00:00.000Z",
+    "question_text": "An infinitely long wire, located on the $z$-axis, carries a current $I$ along the $+z$-direction and produces the magnetic field $\\vec{B}$. The magnitude of the line integral $\\int \\vec{B} \\cdot \\overrightarrow{d l}$ along a straight line from the point $(-\\sqrt{3} a, a, 0)$ to $(a, a, 0)$ is given by\n[ $\\mu_0$ is the magnetic permeability of free space.]",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cbdd2",
+        "text": "$7 \\mu_0 I / 24$",
+        "image": null
+      },
+      {
+        "id": "XzL3f",
+        "text": "$7 \\mu_0 I / 12$",
+        "image": null
+      },
+      {
+        "id": "sOFxL",
+        "text": "$\\mu_0 I / 8$",
+        "image": null
+      },
+      {
+        "id": "bVPPb",
+        "text": "$\\mu_0 I / 6$",
+        "image": null
+      }
+    ],
+    "correct_answer": "cbdd2",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dOwQMQIMqWc3qSYk7vRYoO8D2tUqLEGHE9AM4qGhLbU.original.fullsize.png\">\n$\\begin{aligned} & \\Rightarrow|\\overrightarrow{\\mathrm{d} \\ell}|=\\mathrm{rd} \\theta \\\\ & \\Rightarrow|\\overrightarrow{\\mathrm{B}}|=\\frac{\\mu_0 \\mathrm{I}}{2 \\pi \\mathrm{r}} \\\\ & \\Rightarrow \\int \\overrightarrow{\\mathrm{B}} \\cdot \\overrightarrow{\\mathrm{d} \\ell}=\\int|\\overrightarrow{\\mathrm{B}}||\\overrightarrow{\\mathrm{d} \\ell}| \\cos 0^{\\circ} \\\\ & =\\int\\left(\\frac{\\mu_0 \\mathrm{I}}{2 \\pi \\mathrm{r}}\\right) \\times(\\operatorname{rd} \\theta) \\\\ & =\\int_{\\theta_1}^{\\theta_2} \\frac{\\mu_0 \\mathrm{I}}{2 \\pi} \\mathrm{d} \\theta=\\frac{\\mu_0 \\mathrm{I}}{2 \\pi}\\left[\\theta_2-\\left(-\\theta_1\\right)\\right]\\end{aligned}$\n[ $\\theta_1$ is anticlockwise hence taken negative]\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/v4ARfWjdth5qjuv2qokm1juok7gPsOSGKck2oWYOK4A.original.fullsize.png\">\n$\\begin{aligned} & \\Rightarrow \\tan \\theta_1=\\frac{\\mathrm{a} \\sqrt{3}}{\\mathrm{a}}=\\sqrt{3} \\\\ & \\theta_1=\\frac{\\pi}{3} \\\\ & \\Rightarrow \\tan \\theta_2=\\frac{\\mathrm{a}}{\\mathrm{a}}=1 \\\\ & \\theta_2=\\frac{\\pi}{4} \\\\ & \\Rightarrow \\int \\mathrm{B} \\cdot \\mathrm{d} \\ell=\\frac{\\mu_0 \\mathrm{I}}{2 \\pi}\\left[\\frac{\\pi}{3}+\\frac{\\pi}{4}\\right] \\\\ & =\\frac{7 \\mu_0 \\mathrm{I}}{24} \\\\ & \\Rightarrow \\text { Ans. Option (1) }\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a9cf23ac7d519f9b5fb",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2022 (Paper 2)",
+    "paper_year_short": "2022 (Paper 2)",
+    "held_on": "2022-04-30T14:00:00.000Z",
+    "question_text": "<p>Which one of the following options represents the magnetic field <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover></math>&nbsp;at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi></math> due to the current flowing in the given wire segments lying on the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mi>y</mi></math>&nbsp;plane?</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/315eac39-9614-4744-940b-a5694b59d1b9-1.jpg\" style=\"width: 400px; height: 220px;\" /></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "aCRkK",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mi>L</mi></mfrac><mfenced><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt><mi>&#960;</mi></mrow></mfrac></mrow></mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "az8SS",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mi>L</mi></mfrac><mfenced><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt><mi>&#960;</mi></mrow></mfrac></mrow></mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "DQoYN",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mi>L</mi></mfrac><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt><mi>&#960;</mi></mrow></mfrac></mrow></mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></math>",
+        "image": null
+      },
+      {
+        "id": "rWhNv",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>&#8594;</mo></mover><mo>=</mo><mfrac><mrow><mo>-</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mi>L</mi></mfrac><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mn>4</mn><mi>&#960;</mi></mrow></mfrac></mrow></mfenced><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "DQoYN",
+    "solution_text": "<blockquote><p><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/b3f41a6a-b29f-4091-9ea2-9307e3a3a657-1.jpg\" style=\"width: 400px; height: 220px;\" /></p><p>Magnetic field due to a straight wire will be zero if the line of the wire passes through the point of interest. Therefore, In the above figure,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi><mrow><mi>B</mi><mi>C</mi></mrow></msub><mo>+</mo><msub><mi>B</mi><mrow><mi>D</mi><mi>E</mi></mrow></msub><mo>+</mo><msub><mi>B</mi><mrow><mi>F</mi><mi>G</mi></mrow></msub><mo>=</mo><mn>0</mn></math></p><p>Therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>net</mi><mo>&#160;</mo></mrow></msub><mo>=</mo><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>A</mi><mi>B</mi></mrow></msub><mo>+</mo><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>C</mi><mi>D</mi><mo>&#160;</mo></mrow></msub><mo>+</mo><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>E</mi><mi>F</mi></mrow></msub></math></p><p>Magnetic field due to a finite wire is given by,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>&#960;</mi><mi>d</mi></mrow></mfrac><mfenced><mrow><mi>sin</mi><mi>&#945;</mi><mo>+</mo><mi>sin</mi><mi>&#946;</mi></mrow></mfenced></math></p><p>Using above formula,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>A</mi><mi>B</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>&#960;</mi><mi>L</mi></mrow></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mfenced><mrow><mo>-</mo><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></p><p>Magnetic field due to a circular arc is,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mo>&#215;</mo><mfrac><mi>&#952;</mi><mrow><mn>2</mn><mi>&#960;</mi></mrow></mfrac></math></p><p>Therefore,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>C</mi><mi>D</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>4</mn><mfenced><mfrac><mi>L</mi><mn>2</mn></mfrac></mfenced></mrow></mfrac><mfenced><mrow><mo>-</mo><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mrow><mi>E</mi><mi>F</mi></mrow></msub><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>8</mn><mo>&#215;</mo><mfenced><mfrac><mi>L</mi><mn>4</mn></mfrac></mfenced></mrow></mfrac><mfenced><mrow><mo>-</mo><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></p><p>Therefore, net magnetic field</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mi>net</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>&#960;</mi><mo>&#215;</mo><mi>L</mi></mrow></mfrac><mfenced><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac></mfenced><mo>+</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>4</mn><mfenced><mfrac><mi>L</mi><mn>2</mn></mfrac></mfenced></mrow></mfrac><mo>+</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>8</mn><mo>&#215;</mo><mfenced><mfrac><mi>L</mi><mn>4</mn></mfrac></mfenced></mrow></mfrac><mfenced><mrow><mo>-</mo><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mi>net</mi></msub><mo>=</mo><mfenced><mrow><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>L</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>2</mn><mi>L</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt><mi>&#960;</mi><mi>L</mi></mrow></mfrac></mrow></mfenced><mfenced><mrow><mo>-</mo><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><msub><mover><mi>B</mi><mo>&#8594;</mo></mover><mi>net</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>&#956;</mi><mn>0</mn></msub><mi>I</mi></mrow><mi>L</mi></mfrac><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mn>4</mn><msqrt><mn>2</mn></msqrt><mi>&#960;</mi></mrow></mfrac></mrow></mfenced><mfenced><mrow><mo>-</mo><mover><mi mathvariant=\"normal\">k</mi><mo>^</mo></mover></mrow></mfenced></math></p></blockquote>",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a64f23ac7d519f9b402",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "Two infinitely long straight wires lie in the xy - plane along the lines <math><mi>x</mi><mo>=</mo><mo>&#177;</mo><mi>R</mi></math>. The wire located at <math><mi>x</mi><mi>&#160;</mi><mo>=</mo><mi>&#160;</mi><mo>+</mo><mi>R</mi></math> carries a constant current <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub></math> and the wire located at <math><mi>x</mi><mi>&#160;</mi><mo>=</mo><mo>-</mo><mi>R</mi></math> carries a constant current <math><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub></math>. A circular loop of radius R is suspended with its centre at <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&#160;</mi><mn>0</mn><msqrt><mn>3</mn></msqrt><mi>R</mi></mrow></mfenced></math> and in a plane parallel to the xy - plane. This loop carries a constant current <math><mi>I</mi></math> in the clockwise direction as seen from above the loop. The current in the wire is taken to be positive if it is in the <math><mo>+</mo><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math> direction. Which of the following statements regarding the magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> is (are) true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "imU80",
+        "text": "If <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi>&nbsp;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi>&nbsp;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> cannot be equal to zero at the origin <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "UkJt1",
+        "text": "If <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&gt;</mo><mn>0</mn><mi>&nbsp;</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi>&nbsp;</mi><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&lt;</mo><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi>&nbsp;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> can be equal to zero at the origin <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mn>0</mn><mo>,</mo><mi>&nbsp;</mi><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "OruFb",
+        "text": "If  <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>&lt;</mo><mn>0</mn><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>&gt;</mo><mn>0</mn><mo>,</mo><mi> </mi><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">n</mi><mi> </mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math>  can be equal to zero at the origin <math><mfenced separators=\"|\"><mrow><mn>0</mn><mo>,</mo><mi> </mi><mn>0</mn><mo>,</mo><mi> </mi><mn>0</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "l9jkR",
+        "text": "If <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , Then the z-component of the magnetic field at the centre of the loop is \\((-\\mu 0 \\mathrm{I} / 2 \\mathrm{R})\\)",
+        "image": null
+      }
+    ],
+    "correct_answer": "l9jkR",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5_solu_4_phys.jpg\"/>\r\n\r\n<math><mo>(</mo><mi>A</mi><mo>)</mo></math> At origin, <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover><mo>=</mo><mn>0</mn></math> due to two wires if <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>,</mo><mi> </mi><mi>h</mi><mi>e</mi><mi>n</mi><mi>c</mi><mi>e</mi><mi> </mi><mfenced separators=\"|\"><mrow><msub><mrow><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></mrow><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub></mrow></mfenced></math> at origin is equal to <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> due to ring, which is non-zero.\r\n\r\n<math><mo>(</mo><mi>B</mi><mo>)</mo></math> If <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>></mo><mn>0</mn><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo><</mo><mn>0</mn><mo>,</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> at origin due to wires will be along <math><mo>+</mo><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math> direction and <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> due to ring is along <math><mo>-</mo><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math> direction and hence <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> can be zero at origin\r\n\r\n<math><mo>(</mo><mi>C</mi><mo>)</mo></math> If <math><msub><mrow><mi>I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo><</mo><mn>0</mn><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><msub><mrow><mi>I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>></mo><mn>0</mn><mo>,</mo><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> at origin due to wires is along <math><mo>-</mo><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math> and also along <math><mo>-</mo><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math> due to ring, hence <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>→</mo></mover></math> cannot be zero <math><mo>(</mo><mi>D</mi><mo>)</mo></math>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5_Solu_1_phys_253.jpg\"/>",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a5ef23ac7d519f9b3ca",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>A symmetric star shaped conducting wire loop is carrying a steady state current <math> <mi>I</mi> </math> as shown in the figure. The distance between the diametrically opposite vertices of the star is <math><mn>4</mn><mi>a</mi></math> .<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/190774q.png\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "MXXTe",
+        "text": "<math><mfrac><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>π</mi><mi>a</mi></mrow></mfrac><mi> </mi><mn>3</mn><mi> </mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "lV2h2",
+        "text": "<math><mfrac><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>π</mi><mi>a</mi></mrow></mfrac><mn>6</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "0Izoj",
+        "text": "<math><mfrac><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>π</mi><mi>a</mi></mrow></mfrac><mn>6</mn><mi> </mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "id": "Mwy88",
+        "text": "<math><mfrac><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>I</mi></mrow><mrow><mn>4</mn><mi>π</mi><mi>a</mi></mrow></mfrac><mn>3</mn><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>2</mn><mo>-</mo><msqrt><mn>3</mn></msqrt></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "lV2h2",
+    "solution_text": "<p>The given points (1, 2, 3, 4, 5, 6) makes 360<sup>o</sup> angle at ‘O’. Hence angle made by vertices 1 and 2 with ‘O’ is 60<sup>o</sup>.</p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/190774s.png\"/></p><p>Direction of magnetic field at ‘O’ due to each segment is same. Since it is symmetric star shape, magnitude will also be same.</p><p>Magnetic field due to section BC.</p><p><math><mfenced separators=\"|\"><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>k</mi><mi>i</mi></mrow><mrow><mi>a</mi></mrow></mfrac><mi> </mi><mfenced separators=\"|\"><mrow><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mfenced separators=\"|\"><mrow><mn>60°</mn></mrow></mfenced><mo>-</mo><mrow><mrow><mi mathvariant=\"normal\">sin</mi></mrow><mo>⁡</mo><mrow><mn>30°</mn></mrow></mrow></mrow></mrow></mrow></mfenced><mo>=</mo><mfrac><mrow><mi>k</mi><mi>i</mi></mrow><mrow><mn>2</mn><mi>a</mi></mrow></mfrac><mi> </mi><mfenced separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced></math></p><p><math><msub><mrow><mi>B</mi></mrow><mrow><mi>n</mi><mi>e</mi><mi>t</mi></mrow></msub><mo>=</mo><mn>12</mn><mo>×</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>6</mn><mi>k</mi><mi>i</mi></mrow><mrow><mi>a</mi></mrow></mfrac><mi> </mi><mfenced separators=\"|\"><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow></mfenced><mi> </mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">d</mi><mi> </mi><mfenced separators=\"|\"><mrow><mi>k</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>4</mn><mi>π</mi></mrow></mfrac></mrow></mfenced></math></p>",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a39f23ac7d519f9b27c",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 2)",
+    "paper_year_short": "2014 (Paper 2)",
+    "held_on": "2014-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nThe figure shows a circular loop of radius $a$ with two long parallel wires (numbered $1$ and $2$ ) all in the plane of the paper. The distance of each wire from the centre of the loop is $d$. The loop and the wires are carrying the same current $I$. The current in the loop is in the counterclockwise direction if seen from above.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GU7hy-nzjBiPl9XHgbWTvl1eCPrJlBsf582p5th3YVs.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nWhen $d \\approx a$ but wires are not touching the loop, it is found that the net magnetic field on the axis of the loop is zero at a height $h$ above the loop. In that case",
+    "question_image": null,
+    "options": [
+      {
+        "id": "ckPpx",
+        "text": "current in wire 1 and wire 2 is the direction PQ and RS, respectively and <math><mi mathvariant=\"normal\">h</mi><mo>&#8776;</mo><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      },
+      {
+        "id": "r1afW",
+        "text": "current in wire 1 and wire 2 is the direction PQ and SR, respectively and <math><mi mathvariant=\"normal\">h</mi><mo>&#8776;</mo><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      },
+      {
+        "id": "er4KZ",
+        "text": "current in wire 1 and wire 2 is the direction PQ and SR, respectively and <math><mi mathvariant=\"normal\">h</mi><mo>&#8776;</mo><mn>1.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Gaoxl",
+        "text": "current in wire 1 and wire 2 is the direction PQ and RS, respectively and <math><mi mathvariant=\"normal\">h</mi><mo>&#8776;</mo><mn>1.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "er4KZ",
+    "solution_text": "The net magnetic field at the given point will be zero if.<br /><math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mrow><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>&#8594;</mo></mover></mrow><mrow><mi mathvariant=\"normal\">w</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">s</mi></mrow></msub></mrow></mfenced><mo>=</mo><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><msub><mrow><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>&#8594;</mo></mover></mrow><mrow><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">p</mi></mrow></msub></mrow></mfenced></math><br /><math><mo>&#8658;</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#956;</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">I</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">&#960;</mi><msqrt><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">h</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac><mo>&#215;</mo><mfrac><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><msqrt><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">h</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">&#956;</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">I</mi><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><msup><mrow><mfenced separators=\"|\"><mrow><msup><mrow><mi mathvariant=\"normal\">a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi mathvariant=\"normal\">h</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow></mfrac></math><br /><math><mo>&#8658;</mo><mi mathvariant=\"normal\">h</mi><mo>&#8776;</mo><mn>1.2</mn><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">a</mi></math>",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a2cf23ac7d519f9b200",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 2)",
+    "paper_year_short": "2013 (Paper 2)",
+    "held_on": "2013-04-30T14:00:00.000Z",
+    "question_text": "A steady current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi></math> flows along an infinitely long hollow cylindrical conductor of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi></math>. This cylinder is placed co-axially inside an infinite solenoid of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>R</mi></math>. The solenoid has <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>&nbsp;turns per unit length and carries a steady current <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi></math>. Consider a point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi></math> at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> from the common axis. The correct statement(s) is(are):",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4tkn8",
+        "text": "In the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#60;</mo><mi>r</mi><mo>&#60;</mo><mi>R</mi></math>, the magnetic field is non-zero.",
+        "image": null
+      },
+      {
+        "id": "eIoH2",
+        "text": "In the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#60;</mo><mi>r</mi><mo>&#60;</mo><mn>2</mn><mi>R</mi></math>, the magnetic field is along the common axis.",
+        "image": null
+      },
+      {
+        "id": "7x50n",
+        "text": "In the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&#60;</mo><mi>r</mi><mo>&#60;</mo><mn>2</mn><mi>R</mi></math>, the magnetic field is tangential to the circle of radius <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math>, centered on the axis.",
+        "image": null
+      },
+      {
+        "id": "0Q4SO",
+        "text": "In the region <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>&#62;</mo><mn>2</mn><mi>R</mi><mo>,</mo></math> the magnetic field is non-zero.",
+        "image": null
+      }
+    ],
+    "correct_answer": "0Q4SO",
+    "solution_text": "<p style=\"text-align: justify;\"><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/108dee63-b8e1-4616-a22e-367843d21b70-5.jpg\" style=\"width: 270px; height: 235px;\" /></p><p style=\"text-align: justify;\">If we consider a point at a distance <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> from&nbsp;a common axis such that&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo mathvariant=\"italic\">&#60;</mo><mi>r</mi><mo mathvariant=\"italic\">&#60;</mo><mi>R</mi></math>,&nbsp;the magnetic field is non-zero because inside infinite solenoid magnetic field is,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi mathvariant=\"italic\">B</mi><mo mathvariant=\"italic\">&#8594;</mo></mover><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><msub><mi>&#956;</mi><mn>0</mn></msub><mi>n</mi><mi>i</mi></math> and due to the hollow cylinder it is zero.&nbsp; Hence, net magnetic field is non-zero.&nbsp;</p><p style=\"text-align: justify;\">If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>R</mi><mo mathvariant=\"italic\">&#60;</mo><mi>r</mi></math>, then magnetic field due to an infinite solenoid is zero but there will be a non-zero magnetic field because of hollow cylinder.&nbsp;Hence, net magnetic field is non-zero.</p><p style=\"text-align: justify;\">If&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo mathvariant=\"italic\">&#60;</mo><mi>r</mi><mo mathvariant=\"italic\">&#60;</mo><mn>2</mn><mi>R</mi></math>,&nbsp;then the&nbsp;magnetic field due to solenoid is along the axis and magnetic field due to the hollow cylinder is in circular form. Hence, the net magnetic field is neither along axis nor in tangential direction.</p>",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a1ef23ac7d519f9b184",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "An infinitely long hollow conducting cylinder with inner radius $R / 2$ and outer radius $R$ carries a uniform current density along its length. The magnitude of the magnetic field, $|\\vec{B}|$ as a function of the radial distance $r$ from the axis is best represented by",
+    "question_image": null,
+    "options": [
+      {
+        "id": "2KxbR",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/nogly2qu41QUFjjYDYRBYd2O1nKbcEG9EkYhE-wGHv8.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "XtBCp",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/11ra4vfG_g5i1dSHFpvRQ_Oc_nY4vLdxCirEX2zmS48.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "r72kK",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ddT7E2nMz1YfYqHzkbWSmoyWbSjQvsUx5h0w9kTpVRI.original.fullsize.png\">",
+        "image": null
+      },
+      {
+        "id": "f65r3",
+        "text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/u2khswZTB9LqZ62DIuYZfd7SksSKM-Gr0bba9WDifiM.original.fullsize.png\">",
+        "image": null
+      }
+    ],
+    "correct_answer": "f65r3",
+    "solution_text": "For $r < \\frac{R}{2}, \\quad B=0$\r\n\r\n$\\begin{array}{l}\r\n\r\n\\text { For } \\frac{R}{2} \\leq r < R, \\\\\r\n\r\nB=\\frac{\\mu_{0}}{2}\\left[r-\\frac{R^{2}}{2 r}\\right] J\r\n\r\n\\end{array}$\r\n\r\n$\\begin{array}{l}\r\n\r\n\\text { For } r>R, \\quad B=\\frac{\\mu_{0} i}{2 \\pi r} \\\\\r\n\r\n\\text { i.e., } B \\propto \\frac{1}{r}\r\n\r\n\\end{array}$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/qgGu_YEvBp-rvLqpOSE1-9SlVH-Eol7TfBpkYVClRQA.original.fullsize.png\"><br>\r\n\r\nHence graph $(d)$ correctly depicts $|\\vec{B}|$ versus $r$ graph.",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b16a1af23ac7d519f9b159",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "A cylindrical cavity of diameter a exists inside a cylinder of diameter $2 a$ as shown in the figure. Both the cylinder and the cavity are infinity long. A uniform current density $J$ flows along the length. If the magnitude of the magnetic field at the point $P$ is given by $\\frac{N}{12} \\mu_{0} a J$, then the value of $N$ is\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/YfqH0WzwUDjeUhuXA7otppktNta3TUFOyi7I8kErGug.original.fullsize.png\">",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "5",
+    "solution_text": "Current density $J=\\frac{\\text { current }}{\\text { area }}=\\frac{I}{A} \\Rightarrow I=\\mathrm{JA}$ Magnetic field $\\mathrm{B}_{\\mathrm{R}}$ after removing cavity $(\\mathrm{C})$ $\\mathrm{B}_{\\mathrm{R}}=\\mathrm{B}_{\\text {total }}-\\mathrm{B}_{\\text {cavity }}$\r\n\r\n$\\begin{array}{l}\r\n\r\n\\frac{\\mu_{0} I_{t}}{2 \\pi a}-\\frac{\\mu_{0} I_{c}}{2 \\pi\\left(\\frac{3}{2} a\\right)} \\\\\r\n\r\n\\quad=\\frac{\\mu_{0}}{\\pi a}\\left[\\frac{I_{t}}{2}-\\frac{I_{c}}{3}\\right]\\left(\\text { here } I_{t}=J\\left(\\pi a^{2}\\right) I_{c}=J\\left(\\frac{\\pi a^{2}}{4}\\right)\\right) \\\\\r\n\r\n=\\frac{\\mu_{0}}{\\pi a}\\left[\\frac{\\pi a^{2} J}{2}-\\frac{\\pi a^{2} J}{12}\\right] \\\\\r\n\r\n\\text { or, } \\mathrm{B}_{\\mathrm{R}}=\\frac{5 \\mu_{0} a J}{12}\r\n\r\n\\end{array}$\r\n\r\nComparing it with $\\frac{N}{12} \\mu_{0} a J$ We get $N=5$",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b169f5f23ac7d519f9b00a",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "A steady current $I$ goes through a wire loop $P Q R$ having shape of a right angle triangle with $P Q=3 x, P R=4 x$ and $Q R=5 x$. If the magnitude of the magnetic field at $P$ due to this loop is $k\\left(\\frac{\\mu_0 I}{48 \\pi x}\\right)$, find the value of $k$.",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "7",
+    "solution_text": "Magnetic field at point $P$ due to wires $R P$ and $R Q$ is zero. Only wire $Q R$ will produce magnetic field at $P$.\n$$\nr=3 x \\cos 37^{\\circ}=(3 x)\\left(\\frac{4}{5}\\right)=\\frac{12 x}{5}\n$$\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/-Tnw_k9oHJNYG2G47lZ6gOLhOzmflmnXKOJwQUhvb5g.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b169f5f23ac7d519f9b007",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2009 (Paper 2)",
+    "paper_year_short": "2009 (Paper 2)",
+    "held_on": "2009-04-30T14:00:00.000Z",
+    "question_text": "Two metallic rings $A$ and $B$, identical in shape and size but having different resistivities $\\rho_A$ and $\\rho_B$, are kept on top of two identical solenoids as shown in the figure. When current $I$ is switched on in both the solenoids in identical manner, the rings $A$ and $B$ jump to heights $h_A$ and $h_B$, respectively, with $h_A>h_B$. The possible relation(s) between their resistivities and their masses $m_A$ and $m_B$ is(are)\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/cAWt44w_vRNo7N_FM9HAQIkbCi01R15BSkltLk_Bh9g.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "dDgfM",
+        "text": "\n$\\rho_A>\\rho_B$ and $m_A=m_B$\n",
+        "image": null
+      },
+      {
+        "id": "7Xw7G",
+        "text": "\n$\\rho_A < \\rho_B$ and $m_A=m_B$",
+        "image": null
+      },
+      {
+        "id": "LmQ3x",
+        "text": "\n$\\rho_A>\\rho_B$ and $m_A>m_B$\n",
+        "image": null
+      },
+      {
+        "id": "WD9ZK",
+        "text": "\n$\\rho_A < \\rho_B$ and $m_A < m_B$",
+        "image": null
+      }
+    ],
+    "correct_answer": "WD9ZK",
+    "solution_text": "Induced emf $e=-\\frac{d \\phi}{d t}$. For identical rings induced emf will be same. But currents will be different. Given $h_A>h_B$. Hence, $v_A>v_B$ as $\\left(h=\\frac{v^2}{2 g}\\right)$.\nIf $\\rho_A>\\rho_B$, then, $I_A < I_B$. In this case given condition can be fulfilled if $m_A < m_B$.\nIf $\\rho_A < \\rho_B$, then $I_A>I_B$. In this case given condition can be fulfilled of $m_A \\leq m_B$.",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b169daf23ac7d519f9af0d",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "Two wires each carrying a steady current $I$ are shown in four configurations in Column I. Some of the resulting effects are described in Column II. Match the statements in Column I with the statements in Column II and indicate your answer by darkening appropriate bubbles in the $4 \\times 4$ matrix given in the ORS.\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/10VY3wvCE3mi0B4Xwl5xqOCTrSZ6crG8OyCxIhCMnbk.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qbUbw",
+        "text": "\nA-p; B-p, s; C-p; D-q\n",
+        "image": null
+      },
+      {
+        "id": "nohNK",
+        "text": "\nA-p, q; B-r, s; C-r, s; D-r, s\n",
+        "image": null
+      },
+      {
+        "id": "KXvJr",
+        "text": "\nA-q; B-s; C-s; D-p, q\n",
+        "image": null
+      },
+      {
+        "id": "nKzuN",
+        "text": "\nA-q, r; B-p; C-q, r; D-q, s",
+        "image": null
+      }
+    ],
+    "correct_answer": "nKzuN",
+    "solution_text": "No Solution Available",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "64b169c5f23ac7d519f9ae4d",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2006",
+    "paper_year_short": "2006",
+    "held_on": "2006-04-30T09:00:00.000Z",
+    "question_text": "A field line is shown in the figure. This field cannot represent\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sBuAndXrVPaCS8wD88iMYjym52y85QgiPtevdojilzs.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "weNbP",
+        "text": "\nMagnetic field\n",
+        "image": null
+      },
+      {
+        "id": "XgMPv",
+        "text": "\nElectrostatic field\n",
+        "image": null
+      },
+      {
+        "id": "TsEMV",
+        "text": "\nInduced electric field\n",
+        "image": null
+      },
+      {
+        "id": "w9o0N",
+        "text": "\nGravitational field",
+        "image": null
+      }
+    ],
+    "correct_answer": "w9o0N",
+    "solution_text": "Electrostatic and gravitational field do not make closed loops.",
+    "solution_image": null,
+    "topic": "Magnetic Field"
+  },
+  {
+    "question_id": "6a0be50f44d287c9361e5c93",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 1)",
+    "paper_year_short": "2026 (Paper 1)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "A hollow, right circular cone of base radius $R$ and height $h$, with its tip at the origin is rotating about the $Z$-axis with an angular velocity $\\omega$, as shown in the figure. The cone carries a total charge $Q$ uniformly distributed on its curved surface. The magnitude of magnetic field at a point $(0, 0, z)$, where $z \\gg R$ and $z \\gg h$, is $\\dfrac{n\\mu_0}{4\\pi}\\dfrac{Q R^2 \\omega}{z^3}$. The value of $n$ is:<br><img style=\"width: 300px\" src=\"https://cdn.quizrr.in/question-assets/jee_adv/2026/watermarked_images/p1_english__q28_d1.png\" />",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "0.5",
+    "solution_text": "For a point on the axis at a distance $z \\gg R$ and $z \\gg h$, the rotating cone can be considered as a magnetic dipole. The magnetic field on the axis of a dipole is given by:<br><br>$B = \\dfrac{\\mu_0}{4\\pi} \\dfrac{2M}{z^3}$<br><br>where $M$ is the magnetic dipole moment of the cone.<br><br>To find $M$, consider an elemental ring on the cone at a vertical distance $y$ from the origin, with vertical thickness $dy$. The radius of this ring is $r = \\dfrac{R}{h}y$ and its slant length is $dl = \\dfrac{\\sqrt{R^2+h^2}}{h}dy$.<br><br>The surface charge density of the cone is $\\sigma = \\dfrac{Q}{\\pi R \\sqrt{R^2+h^2}}$.<br><br>The charge on the elemental ring is:<br><br>$dq = \\sigma (2\\pi r dl) = \\dfrac{Q}{\\pi R \\sqrt{R^2+h^2}} \\left(2\\pi \\dfrac{R}{h}y \\dfrac{\\sqrt{R^2+h^2}}{h}dy\\right) = \\dfrac{2Q}{h^2}y dy$<br><br>The current due to the rotation of this ring is:<br><br>$dI = \\dfrac{dq}{T} = \\dfrac{dq \\omega}{2\\pi} = \\dfrac{Q\\omega}{\\pi h^2}y dy$<br><br>The magnetic moment of this elemental ring is:<br><br>$dM = dI (\\pi r^2) = \\left(\\dfrac{Q\\omega}{\\pi h^2}y dy\\right) \\pi \\left(\\dfrac{R}{h}y\\right)^2 = \\dfrac{Q\\omega R^2}{h^4}y^3 dy$<br><br>Integrating from $y = 0$ to $y = h$, the total magnetic moment is:<br><br>$M = \\int_{0}^{h} \\dfrac{Q\\omega R^2}{h^4}y^3 dy = \\dfrac{Q\\omega R^2}{h^4} \\left[\\dfrac{y^4}{4}\\right]_{0}^{h} = \\dfrac{Q\\omega R^2}{4}$<br><br>Alternatively, using the gyromagnetic ratio for a uniform charge distribution, $\\dfrac{M}{L_{ang}} = \\dfrac{Q}{2m}$. The moment of inertia of a hollow cone is $I = \\dfrac{1}{2}mR^2$, so the angular momentum is $L_{ang} = \\dfrac{1}{2}mR^2\\omega$. Thus, $M = \\dfrac{Q}{2m} \\left(\\dfrac{1}{2}mR^2\\omega\\right) = \\dfrac{1}{4}QR^2\\omega$.<br><br>Substituting $M$ into the magnetic field formula:<br><br>$B = \\dfrac{\\mu_0}{4\\pi} \\dfrac{2}{z^3} \\left(\\dfrac{1}{4}QR^2\\omega\\right) = \\dfrac{\\mu_0}{4\\pi} \\dfrac{QR^2\\omega}{2z^3}$<br><br>Comparing this with the given expression $B = \\dfrac{n\\mu_0}{4\\pi} \\dfrac{QR^2\\omega}{z^3}$, we get:<br><br>$n = \\dfrac{1}{2} = 0.5$<br><br>Answer: $0.5$",
+    "solution_image": null,
+    "topic": "Magnetic Moment"
+  },
+  {
+    "question_id": "685102c36bba689a3eb09cb7",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2025 (Paper 2)",
+    "paper_year_short": "2025 (Paper 2)",
+    "held_on": "2025-04-30T09:00:00.000Z",
+    "question_text": "A conducting solid sphere of radius $R$ and mass $M$ carries a charge $Q$. The sphere is rotating about an axis passing through its center with a uniform angular speed $\\omega$. The ratio of the magnitudes of the magnetic dipole moment to the angular momentum about the same axis is given as $\\alpha \\frac{Q}{2 M}$. The value of $\\alpha$ is _______ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "1.66",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/8PV3uchCpyB4ABxur_-K1o17VanGEw9MdAB3vQ4AClI.original.fullsize.png\"><br>$\\begin{aligned} & d M=d I A \\\\ & A=\\pi r^2=\\pi(R \\sin \\theta)^2 \\\\ & d I=\\frac{d a}{T}=\\frac{\\sigma(2 \\pi r)(R d \\theta) \\omega}{2 \\pi} \\\\ & d I=\\frac{\\sigma 2 \\pi R^2 \\omega \\sin \\theta d \\theta}{2 \\pi}\\end{aligned}$\n$\\mathrm{dI}=\\sigma \\mathrm{R}^2 \\omega \\sin \\theta \\mathrm{~d} \\theta$\nMagnetic dipole moment :\n$M=\\int d M=\\int_0^\\pi \\sigma R^2 \\omega \\pi R^2 \\sin ^3 \\theta d \\theta$\n$M=\\sigma R^4 \\omega \\pi \\int_0^\\pi \\sin ^3 \\theta d \\theta \\quad\\left(\\because \\int_0^\\pi \\sin ^3 \\theta d \\theta=\\frac{4}{3}\\right)$\n$\\mathrm{M}=\\left(\\frac{\\mathrm{Q}}{4 \\pi \\mathrm{R}^2}\\right) \\mathrm{R}^4 \\omega \\pi\\left(\\frac{4}{3}\\right)$\nMagnetic dipole moment\n$\\mathrm{M}=\\frac{\\mathrm{QR}^2 \\omega}{3}$\nAngular momentum\n$\\mathrm{L}=\\left(\\frac{2}{5} \\mathrm{MR}^2\\right) \\omega$\n$\\frac{\\mathrm{M}}{\\mathrm{~L}}=\\frac{\\mathrm{QR}^2 \\omega}{3 \\times \\frac{2}{5} \\mathrm{MR}^2 \\omega}=\\frac{\\mathrm{Q}}{2 \\mathrm{M}}\\left(\\frac{5}{3}\\right)$\n$\\alpha=\\frac{5}{3}=1.67$",
+    "solution_image": null,
+    "topic": "Magnetic Moment"
+  },
+  {
+    "question_id": "64b16a1ef23ac7d519f9b183",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 2)",
+    "paper_year_short": "2012 (Paper 2)",
+    "held_on": "2012-04-30T14:00:00.000Z",
+    "question_text": "A loop carrying current $I$ lies in the $x-y$ plane as shown in the figure. The unit vector $\\hat{k}$ is coming out of the plane of the paper. The magnetic moment of the current loop is\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ZQI4dW5wmYwSBqFfVnVz4R2SgFtX3OlMJYgeeFwFsz8.original.fullsize.png\">",
+    "question_image": null,
+    "options": [
+      {
+        "id": "39Fj0",
+        "text": "$a^{2} I \\hat{k}$",
+        "image": null
+      },
+      {
+        "id": "WUCJR",
+        "text": "$\\left(\\frac{\\pi}{2}+1\\right) a^{2} I \\hat{k}$",
+        "image": null
+      },
+      {
+        "id": "BfWsn",
+        "text": "$-\\left(\\frac{\\pi}{2}+1\\right) a^{2} I \\hat{k}$",
+        "image": null
+      },
+      {
+        "id": "anqX4",
+        "text": "$(2 \\pi+1) a^{2} I \\hat{k}$",
+        "image": null
+      }
+    ],
+    "correct_answer": "WUCJR",
+    "solution_text": "Magnetic moment of a current carrying loop $\\vec{M}=N I \\vec{A}$\r\n\r\nHere $N=1, A=a^{2}+2 \\pi\\left(\\frac{a}{2}\\right)^{2}=a^{2}\\left[1+\\frac{\\pi}{2}\\right]$\r\n\r\nFrom Screw law, direction of $m$ is outward or in +ve z-direction.\r\n\r\n$\\therefore \\quad \\vec{M}=I a^{2}\\left[1+\\frac{\\pi}{2}\\right] \\hat{k}$\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/gqv5YWas2u0OrTX0h5hHA_A8CiX4RBcAhWprW1WAXoM.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Magnetic Moment"
+  },
+  {
+    "question_id": "64b16a0cf23ac7d519f9b0d7",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "A long circular tube of length $10 \\mathrm{~m}$ and radius $0.3 \\mathrm{~m}$ carries a current I along its curved surface as shown. A wire loop of resistance $0.005 \\Omega$ and of radius $0.1 \\mathrm{~m}$ is placed inside the tube with its axis coinciding with the axis of the tube. The current varies as $I=I_0 \\cos 300 t$, where $I_0$ is constant. If the magnetic moment of the loop is $N \\mu_0 I_0 \\sin 300 t$, then $N$ is\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CbAZwTPq4oMzOvE4BMMDId0ZYqPEcVqy6u9nDKdL4lA.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "6",
+    "solution_text": "Take the circular tube as a long solenoid. The wires are closely wound. Magnetic field inside the solenoid is\n$$\nB=\\mu_0 n i\n$$\nHere, $n=$ number of turns per unit length\n$\\therefore n i=$ current per unit length\nIn the given problem,\n\n$$\n\\begin{aligned}\n& n i=\\frac{I}{L} \\\\\n\\therefore \\quad B & =\\frac{\\mu_0 I}{L}\n\\end{aligned}\n$$\nFlux passing through the circular coil is\n$$\n\\phi=B S=\\left(\\frac{\\mu_0 I}{L}\\right)\\left(\\pi r^2\\right)\n$$\nInduced emf, $e=-\\frac{d \\phi}{d t}=-\\left(\\frac{\\mu_0 \\pi r^2}{L R}\\right) \\cdot \\frac{d I}{d t}$\nInduced current,\n$$\ni=\\frac{e}{R}=-\\left(\\frac{\\mu_0 \\pi r^2}{L R}\\right) \\frac{d I}{d t}\n$$\nMagnetic moment $i A=i \\pi r^2$\nor $\\quad M=-\\left(\\frac{\\mu_0 \\pi^2 r^4}{L R}\\right) \\cdot \\frac{d I}{d t}$\nGiven, $\\quad I=I_0 \\cos 300 t$\n$$\n\\therefore \\quad \\frac{d I}{d t}=-300 I_0 \\sin (300 t)\n$$\n\nSubstituting in Eq. (i), we get\n$$\n\\begin{aligned}\nM & =\\left(\\frac{300 \\pi^2 r^4}{L R}\\right) \\mu_0 I_0 \\sin 300 t \\\\\n\\therefore \\quad N & =\\frac{300 \\pi^2 r^4}{L R}\n\\end{aligned}\n$$\nSubstituting the values, we get\n$$\n\\begin{aligned}\nN & =\\frac{300(22 / 7)^2(0.1)^4}{(10)(0.005)} \\\\\n& =5.926\n\\end{aligned}\n$$\nor $\\quad N \\simeq 6$\nAnalysis of Question\nQuestion is difficult to understand inside the examination hall. But 5 to $10 \\%$ question in IIT JEE are always difficult. Students should not panic. Because topper of IIT JEE scores approximately $80-90 \\%$.",
+    "solution_image": null,
+    "topic": "Magnetic Moment"
+  },
+  {
+    "question_id": "6a0be51444d287c9361e5cbf",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2026 (Paper 2)",
+    "paper_year_short": "2026 (Paper 2)",
+    "held_on": "2026-05-25T09:00:00.000Z",
+    "question_text": "In a vacuum chamber, a particle of charge $1\\ \\mu\\text{C}$ and mass $1$ mg is projected with a velocity $(\\hat{i} + 2\\hat{j})$ ms$^{-1}$ from the $XZ$ plane at time $t = 0$ in an electric field of $1\\hat{i}$ Vm$^{-1}$. At $t = 0.2$ s, the electric field is switched off and a magnetic field of $6\\hat{j}$ T is switched on. The acceleration due to gravity is $-10\\hat{j}$ ms$^{-2}$. Correct option(s) is/are:",
+    "question_image": null,
+    "options": [
+      {
+        "id": "QFb4c",
+        "text": "The vertical distance of the particle from the $XZ$ plane at $t = 0.3$ s is $15$ cm.",
+        "image": null
+      },
+      {
+        "id": "rd2gi",
+        "text": "The vertical distance of the particle from the $XZ$ plane at $t = 0.4$ s is $10$ cm.",
+        "image": null
+      },
+      {
+        "id": "GA9VO",
+        "text": "The radius of the trajectory of the particle for $t > 0.2$ s is $20$ cm.",
+        "image": null
+      },
+      {
+        "id": "qWn9h",
+        "text": "The particle will be in the $XZ$ plane at $t = 0.35$ s.",
+        "image": null
+      }
+    ],
+    "correct_answer": "GA9VO",
+    "solution_text": "For the time interval $0 \\le t \\le 0.2$ s, the particle is under the influence of the electric field and gravity.<br>The charge-to-mass ratio of the particle is $\\dfrac{q}{m} = \\dfrac{10^{-6}}{10^{-6}} = 1$ C kg$^{-1}$.<br><br>The acceleration of the particle is:<br>$\\vec{a} = \\dfrac{q\\vec{E}}{m} + \\vec{g} = 1(\\hat{i}) - 10\\hat{j} = \\hat{i} - 10\\hat{j}$ ms$^{-2}$<br><br>Given the initial velocity $\\vec{v}_0 = \\hat{i} + 2\\hat{j}$ ms$^{-1}$ and initial vertical position $y_0 = 0$ (since it is projected from the $XZ$ plane), we can find the velocity and position at $t = 0.2$ s.<br><br>Velocity at $t = 0.2$ s:<br>$\\vec{v}(0.2) = \\vec{v}_0 + \\vec{a}t = (\\hat{i} + 2\\hat{j}) + (\\hat{i} - 10\\hat{j})(0.2) = 1.2\\hat{i}$ ms$^{-1}$<br><br>Vertical position at $t = 0.2$ s:<br>$y(0.2) = y_0 + v_{0y}t + \\dfrac{1}{2}a_y t^2 = 0 + 2(0.2) - \\dfrac{1}{2}(10)(0.2)^2 = 0.4 - 0.2 = 0.2$ m $= 20$ cm<br><br>For $t > 0.2$ s, the electric field is switched off and the magnetic field $\\vec{B} = 6\\hat{j}$ T is switched on. The magnetic force $\\vec{F}_m = q(\\vec{v} \\times \\vec{B})$ acts only in the $XZ$ plane because $\\vec{B}$ is along the $y$-axis. The vertical motion is only affected by gravity.<br><br>Let $t' = t - 0.2$ be the time elapsed after the fields are switched. The initial vertical velocity for this phase is $v_y(0.2) = 0$.<br>The vertical position as a function of $t'$ is:<br>$y(t') = y(0.2) + v_y(0.2)t' - \\dfrac{1}{2}gt'^2 = 0.2 - 5t'^2$<br><br>Evaluating the options:<br>At $t = 0.3$ s ($t' = 0.1$ s):<br>$y(0.1) = 0.2 - 5(0.1)^2 = 0.2 - 0.05 = 0.15$ m $= 15$ cm. (Option A is correct)<br><br>At $t = 0.4$ s ($t' = 0.2$ s):<br>$y(0.2) = 0.2 - 5(0.2)^2 = 0.2 - 0.2 = 0$ m $= 0$ cm. (Option B is incorrect)<br><br>At $t = 0.35$ s ($t' = 0.15$ s):<br>$y(0.15) = 0.2 - 5(0.15)^2 = 0.2 - 0.1125 = 0.0875$ m $\\neq 0$. (Option D is incorrect)<br><br>For the radius of the trajectory for $t > 0.2$ s, the particle moves in a helical path. The radius of the circular projection in the $XZ$ plane is determined by the velocity perpendicular to the magnetic field, $v_{\\perp} = 1.2$ ms$^{-1}$.<br>$R = \\dfrac{mv_{\\perp}}{qB} = \\dfrac{10^{-6} \\times 1.2}{10^{-6} \\times 6} = 0.2$ m $= 20$ cm. (Option C is correct)<br><br>Answer: The vertical distance of the particle from the $XZ$ plane at $t = 0.3$ s is $15$ cm.; The radius of the trajectory of the particle for $t > 0.2$ s is $20$ cm.",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "66965dd7d603121f43a40960",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A positive, singly ionized atom of mass number $A_{\\mathrm{M}}$ is accelerated from rest by the voltage $192 \\mathrm{~V}$. Thereafter, it enters a rectangular region of width $w$ with magnetic field $\\vec{B}_0=0.1 \\hat{k}$ Tesla, as shown in the figure. The ion finally hits a detector at the distance $x$ below its starting trajectory.\n[Given: Mass of neutron/proton $=(5 / 3) \\times 10^{-27} \\mathrm{~kg}$, charge of the electron $=1.6 \\times 10^{-19} \\mathrm{C}$.]\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EjxheHwg2E5DRG7fpxDN3umsURzVM09Ja6kyndc_8w8.original.fullsize.png\">\nWhich of the following option(s) is(are) correct?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "NC7nF",
+        "text": "The value of $x$ for $H^{+}$ion is $4 \\mathrm{~cm}$.",
+        "image": null
+      },
+      {
+        "id": "ORXBo",
+        "text": "The value of $x$ for an ion with $A_{\\mathrm{M}}=144$ is $48 \\mathrm{~cm}$.",
+        "image": null
+      },
+      {
+        "id": "hjo0V",
+        "text": "For detecting ions with $1 \\leq A_{\\mathrm{M}} \\leq 196$, the minimum height $\\left(x_1-x_0\\right)$ of the detector is $55 \\mathrm{~cm}$.",
+        "image": null
+      },
+      {
+        "id": "MhA33",
+        "text": "The minimum width $w$ of the region of the magnetic field for detecting ions with $A_{\\mathrm{M}}=196$ is $56 \\mathrm{~cm}$.",
+        "image": null
+      }
+    ],
+    "correct_answer": "ORXBo",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/sFRaCnE-HC3NWZT_mjiFNmbf2laD7LnPWm5vp4zEQAs.original.fullsize.png\">\n$$\n\\begin{aligned}\n& \\mathrm{x}=2 \\mathrm{R} \\\\\n& \\Rightarrow \\mathrm{x}=2 \\frac{\\mathrm{P}}{\\mathrm{qB}} \\Rightarrow \\mathrm{x}=\\frac{2 \\sqrt{2 \\mathrm{mqV}}}{\\mathrm{qB}} \\Rightarrow \\mathrm{x}=\\frac{2}{\\mathrm{~B}} \\sqrt{\\frac{2 \\mathrm{mV}}{\\mathrm{q}}}\n\\end{aligned}\n$$\nOption A\nFor $\\mathrm{H}^{+} \\rightarrow \\mathrm{m}=\\frac{5}{3} \\times 10^{-27} \\mathrm{~kg}$\n$\\therefore x=\\frac{2}{0.1} \\sqrt{\\frac{2 \\times \\frac{5}{3} \\times 10^{-27} \\times 192}{1.6 \\times 10^{-19}}}=4 \\mathrm{~cm}$\nOption B\nFor $\\mathrm{A}_{\\mathrm{m}}=144$\n$x=\\frac{2}{0.1} \\sqrt{\\frac{2 \\times 144 \\times \\frac{5}{3} \\times 10^{-27} \\times 192}{1.6 \\times 10^{-19}}}=48 \\mathrm{~cm}$\nOption C\nfor $\\mathrm{A}_m=1$\n$\\mathrm{x}=4 \\mathrm{~cm} \\&$ for $\\mathrm{A}_{\\mathrm{m}}=196$\n$\\mathrm{x}=56 \\mathrm{~cm}$.\nso $\\mathrm{x}_0=4 \\mathrm{~cm} \\& \\mathrm{x}_1=56 \\mathrm{~cm}$\n$\\therefore \\mathrm{x}_1-\\mathrm{x}_0=52 \\mathrm{~cm}$.\nOption D\nMinimum width $=R$\nfor $\\mathrm{A}_{\\mathrm{M}}=196$\n$\\begin{aligned}\n& \\mathrm{R}=\\frac{\\mathrm{P}}{\\mathrm{qB}}=\\frac{\\sqrt{2 \\mathrm{mqV}}}{\\mathrm{qB}} \\\\\n& \\mathrm{R}=\\frac{1}{\\mathrm{~B}} \\sqrt{\\frac{2 \\mathrm{mV}}{\\mathrm{q}}} \\\\\n& \\mathrm{w}_{\\min }=\\mathrm{R}=\\frac{1}{0.1} \\sqrt{\\frac{2 \\times 196 \\times \\frac{5}{3} \\times 10^{-27} \\times 192}{1.6 \\times 10^{-19}}}=28 \\mathrm{~cm}\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a89f23ac7d519f9b552",
+    "type": "numerical",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2021 (Paper 1)",
+    "paper_year_short": "2021 (Paper 1)",
+    "held_on": "2021-04-30T09:00:00.000Z",
+    "question_text": "An&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>-particle (mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn></math>&nbsp;amu) and a singly charged Sulphur ion (mass&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn></math>&nbsp;amu) are initially at rest. They are accelerated through a potential&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi></math>&nbsp;and then allowed to pass into a region of uniform magnetic field which is normal to the velocities of the particles. Within this region, the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi></math>-particle and the sulphur ion move in circular orbits of radii&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>&#945;</mi></msub></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>S</mi></msub></math>,&nbsp;respectively. The ratio&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mfrac><msub><mi>R</mi><mi>S</mi></msub><msub><mi>R</mi><mi>&#945;</mi></msub></mfrac></mfenced></math>&nbsp;is __________ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "4",
+    "solution_text": "<p>When a particle moves on a circular path in a magnetic field then,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mi>R</mi><mo>=</mo><mfrac><mrow><mi>m</mi><mi>v</mi></mrow><mrow><mi>q</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><msqrt><mn>2</mn><mi>m</mi><mi>E</mi></msqrt><mrow><mi>q</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><msqrt><mn>2</mn><mi>m</mi><mi>q</mi><mi>V</mi></msqrt><mrow><mi>q</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><msqrt><mn>2</mn><mi>m</mi><mi>V</mi></msqrt><mrow><msqrt><mi>q</mi></msqrt><mi>B</mi></mrow></mfrac></math></p><p>According to given data,</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8757;</mo><mi>V</mi><mo>=</mo><mtext>constant</mtext><mspace linebreak=\"newline\"></mspace><mtext>&#38;</mtext><mo>&#160;</mo><mi>B</mi><mo>=</mo><mtext>constant</mtext></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8756;</mo><mi>R</mi><mo>&#8733;</mo><msqrt><mfrac><mi>m</mi><mi>q</mi></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>R</mi><mi>&#945;</mi></msub><msub><mi>R</mi><mi>S</mi></msub></mfrac><mo>=</mo><msqrt><mfrac><msub><mi>m</mi><mi>&#945;</mi></msub><msub><mi>q</mi><mi>&#945;</mi></msub></mfrac><mo>&#215;</mo><mfrac><msub><mi>q</mi><mi>S</mi></msub><msub><mi>m</mi><mi>S</mi></msub></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mn>4</mn><mn>2</mn></mfrac><mo>&#215;</mo><mfrac><mn>1</mn><mn>32</mn></mfrac></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8658;</mo><mfrac><msub><mi>R</mi><mi>&#945;</mi></msub><msub><mi>R</mi><mi>S</mi></msub></mfrac><mo>=</mo><msqrt><mfrac><mn>1</mn><mn>16</mn></mfrac></msqrt><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math></p><p>Then,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>R</mi><mi>S</mi></msub><msub><mi>R</mi><mi>&#945;</mi></msub></mfrac><mo>=</mo><mn>4</mn></math></p>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a65f23ac7d519f9b409",
+    "type": "numerical",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2018 (Paper 1)",
+    "paper_year_short": "2018 (Paper 1)",
+    "held_on": "2018-04-30T09:00:00.000Z",
+    "question_text": "<p>In the <math> <mrow> <mtext>xy - plane</mtext></mrow> </math>, the region <math> <mrow> <mi>y</mi><mo>></mo><mn>0</mn></mrow> </math> has a uniform magnetic field <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math> and the region <math> <mrow> <mi>y</mi><mo><</mo><mn>0</mn></mrow> </math> has another uniform magnetic field <math><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></math>. A positively charged particle is projected from the origin along the positive <math> <mrow> <mtext>y</mtext><mo>−</mo><mtext>axis</mtext></mrow> </math> with speed <math> <mrow> <msub> <mi>v</mi> <mn>0</mn> </msub> <mo>=</mo><mi>π </mi><mn>m</mn><msup> <mi> s</mi> <mrow> <mo>−</mo><mn>1</mn></mrow> </msup> </mrow> </math> at <math> <mrow> <mi>t</mi><mo>=</mo><mn>0</mn></mrow></math>, as shown in the figure. Neglect gravity in this problem. Let <math> <mrow> <mi>t</mi><mo>=</mo><mi>T</mi></mrow> </math> be the time when the particle crosses the <math> <mrow> <mtext>x</mtext><mo>−</mo><mtext>axis</mtext></mrow> </math> from below for the first time. If <math> <mrow> <msub> <mi>B</mi> <mn>2</mn> </msub> <mo>=</mo><mn>4</mn><msub> <mi>B</mi> <mn>1</mn></msub></mrow></math>, the average speed of the particle, in <math> <mrow> <mn>m</mn><msup> <mn> s</mn> <mrow> <mo>−</mo><mn>1</mn></mrow></msup></mrow></math>, along the <math> <mrow> <mtext>x</mtext><mo>−</mo><mtext>axis</mtext></mrow> </math> in the time interval <math> <mi>T</mi> </math> is ________.<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/3793070d-9b18-42f6-9cbe-f46a7d6b99e4-image.png\"/><br/> </p>",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "2",
+    "solution_text": "Average speed along the \\(\\mathrm{x}\\)-axis\r\n\\(\\left(\\mathrm{V}_{\\mathrm{x}}\\right)=\\frac{\\int\\left|\\overrightarrow{\\mathrm{V}}_{\\mathrm{x}}\\right| \\mathrm{dt}}{\\int \\mathrm{dt}}=\\frac{\\mathrm{d}_1+\\mathrm{d}_2}{\\mathrm{t}_1+\\mathrm{t}_2} \\rightarrow(1)\\)\r\nWe also have,\r\n\\(\\begin{aligned}\r\n&\\mathrm{r}_1=\\frac{\\mathrm{mv}}{\\mathrm{qB}_1}, \\mathrm{r}_2=\\frac{\\mathrm{mv}}{\\mathrm{qB} \\mathrm{B}_2} \\\\\r\n&\\text { since } \\mathrm{B}_1=\\frac{\\mathrm{B}_2}{4}\r\n\\end{aligned}\\)\r\n\\(\\therefore \\mathrm{r}_1=4 \\mathrm{r}_2 \\rightarrow(2)\\)\r\nTime in \\(B_1 \\Rightarrow \\frac{\\pi B}{q B_1}=t_1\\)\r\nTime in \\(\\mathrm{B}_2 \\Rightarrow \\frac{\\pi \\mathrm{B}}{\\mathrm{qB}_2}=\\mathrm{t}_2\\)\r\nTotal distance along \\(\\mathrm{x}\\)-axis \\(\\mathrm{d}_1+\\mathrm{d}_2=2 \\mathrm{r}_1+2 \\mathrm{r}_2=2\\left(\\mathrm{r}_1+\\mathrm{r}_2\\right)=2\\left(5 \\mathrm{r}_2\\right)\\)\r\nTotal time \\(\\mathrm{T}=\\mathrm{t}_1+\\mathrm{t}_2=5 \\mathrm{t}_2\\)\r\n\\(\\therefore \\text { Average speed }=\\frac{10 \\mathrm{r}_2}{5 \\mathrm{t}_2}=2 \\frac{\\mathrm{mv}}{\\mathrm{qB}_2} \\times \\frac{\\mathrm{qB}_2}{\\pi \\mathrm{m}}=2\\)",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a5ff23ac7d519f9b3d5",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 2)",
+    "paper_year_short": "2017 (Paper 2)",
+    "held_on": "2017-04-30T14:00:00.000Z",
+    "question_text": "<p>A uniform magnetic field B exists in the region between <math><mi>x</mi><mo>=</mo><mn>0</mn></math> and <math><mi>x</mi><mo>=</mo><mfrac><mrow><mn>3</mn><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math> (region 2 in the figure) pointing normally into the plane of the paper. A particle with charge <math><mo>+</mo><mi>Q</mi></math> and momentum p directed along <math><mi>x</mi></math> -axis enters region 2 from region 1 at point <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced separators=\"|\"><mrow><mi>y</mi><mo>=</mo><mo>-</mo><mi>R</mi></mrow></mfenced><mo>.</mo></math> Which of the following option(s) is/are correct?<br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/vtfxbigbrkkznpkrojpbombjsgffdijayhmlnxmyhqbkwuamst.jpeg\"/></p>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "LKYux",
+        "text": "For <math><mi>B</mi><mo>=</mo><mfrac><mrow><mn>8</mn></mrow><mrow><mn>13</mn></mrow></mfrac><mfrac><mrow><mi>p</mi></mrow><mrow><mi>Q</mi><mi>R</mi></mrow></mfrac></math> , the particle will enter region 3 through the point <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> on <math><mi>x</mi></math> -axis",
+        "image": null
+      },
+      {
+        "id": "KpusD",
+        "text": "For <math><mi>B</mi><mo>&gt;</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mfrac><mrow><mi>p</mi></mrow><mrow><mi>Q</mi><mi>R</mi></mrow></mfrac></math> , the particle will re-enter region 1",
+        "image": null
+      },
+      {
+        "id": "dkdGZ",
+        "text": "For a fixed B, particles of same charge Q and same velocity  <math><mi>v</mi></math> , the distance between the point  <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  and the point of re-entry into region 1 is inversely proportional to the mass of the particle",
+        "image": null
+      },
+      {
+        "id": "6f4zq",
+        "text": "When the particle re-enters region 1 through the longest possible path in region 2, the magnitude of the change in its linear momentum between point  <math><msub><mrow><mi>P</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  and farthest point from  <math><mi>y</mi></math> -axis is  <math><mfrac><mrow><mi>p</mi></mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "KpusD",
+    "solution_text": "<p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/14_solu_phy_pa_2.jpg\"/></p><p>For  <math><mi>B</mi><mo>=</mo><mfrac><mrow><mn>8</mn></mrow><mrow><mn>13</mn></mrow></mfrac><mi> </mi><mfrac><mrow><mi>p</mi></mrow><mrow><mi>Q</mi><mi>R</mi></mrow></mfrac><mo>,</mo></math> radius of path</p><p><math><msup><mrow><mi>R</mi></mrow><mrow><mi>'</mi></mrow></msup><mo>=</mo><mfrac><mrow><mi>p</mi></mrow><mrow><mi>O</mi><mo>.</mo><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>p</mi><mo>×</mo><mn>13</mn><mi>Q</mi><mi>R</mi></mrow><mrow><mi>Q</mi><mn>8</mn><mi>p</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>13</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mi>R</mi></math></p><p>Using pythagorous theorem,<math><mi>y</mi><mo>=</mo><mfrac><mrow><mn>5</mn><mi>R</mi></mrow><mrow><mn>8</mn></mrow></mfrac></math></p><p><math><mo>∴</mo></math>    particle will enter region 3 through point  <math><msub><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msub></math> for <math><mi>B</mi><mo>></mo><mfrac><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mfrac><mrow><mi>p</mi></mrow><mrow><mi>Q</mi><mi>R</mi></mrow></mfrac></math></p><p>Radius of path <math><mo><</mo><mfrac><mrow><mn>3</mn><mi>P</mi><mi>Q</mi><mi>R</mi></mrow><mrow><mi>Q</mi><mn>2</mn><mi>p</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>R</mi></math></p><p><math><mo>∴</mo></math>    Particle will not enter in region 3 and will re-enter region 1</p><p>Charge on momentum <math><mo>=</mo><mi> </mi><msqrt><mn>2</mn></msqrt><mi>p</mi><mo>.</mo></math> When particle enters region 1 between entry point and farthest point from y-axis.</p>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b3a0",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "A charged particle is introduced at the origin <math><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>y</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>z</mi><mo>=</mo><mn>0</mn></math> with a given initial velocity <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> . A uniform electric field <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi></math> and a uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> exist everywhere. The velocity <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> , electric field <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi></math> and a uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> are given in the columns below<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Column 1</td>\t\t\t<td>Column 2</td>\t\t\t<td>Column 3</td>\t\t</tr>\t\t<tr>\t\t\t<td>1. Electron with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover><mi>&#160;</mi></math></td>\t\t\t<td>(i) <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>z</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(P) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>2. Electron with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(ii) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(Q) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>3.Proton with <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> =0</td>\t\t\t<td>(iii) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mo>-</mo><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(R) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>4. Proton with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(iv) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(S) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>z</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t</tbody></table>In which case would the particle move in a straight line along the negative direction of y axis",
+    "question_image": null,
+    "options": [
+      {
+        "id": "nOhKq",
+        "text": "<math><mo>(</mo><mn>4</mn><mo>)</mo>&nbsp; <mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo>&nbsp; <mo>(</mo><mi>S</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "igVAY",
+        "text": "<math><mo>(</mo><mn>3</mn><mo>)</mo>&nbsp; <mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo>&nbsp; <mo>(</mo><mi>P</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "licGL",
+        "text": "<math><mo>(</mo><mn>2</mn><mo>)</mo>&nbsp; <mo>(</mo><mi>i</mi><mi>i</mi><mi>i</mi><mo>)</mo>&nbsp; <mo>(</mo><mi>Q</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "kuEWo",
+        "text": "<math><mo>(</mo><mn>3</mn><mo>)</mo>&nbsp; <mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo>&nbsp; <mo>(</mo><mi>R</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kuEWo",
+    "solution_text": "For particle to move in -ve y-direction, either its velocity must be in –ve y-direction (if initial velocity <math><mo>≠&nbsp;</mo></math>0) and force should be parallel to velocity or it must experience a net force in –ve y-direction only (if initial velocity = 0)",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b39f",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "A charged particle is introduced at the origin <math><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>y</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>z</mi><mo>=</mo><mn>0</mn></math> with a given initial velocity <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> . A uniform electric field <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi></math> and a uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> exist everywhere. The velocity <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> , electric field <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi></math> and a uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> are given in the columns below<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Column 1</td>\t\t\t<td>Column 2</td>\t\t\t<td>Column 3</td>\t\t</tr>\t\t<tr>\t\t\t<td>1. Electron with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover><mi>&#160;</mi></math></td>\t\t\t<td>(i) <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>z</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(P) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>2. Electron with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(ii) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(Q) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>3.Proton with <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> =0</td>\t\t\t<td>(iii) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mo>-</mo><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(R) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>4. Proton with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(iv) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(S) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>z</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t</tbody></table>In which case will the particle describe a helical path with axis along positive z direction?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4pZYC",
+        "text": "<math><mo>(</mo><mn>2</mn><mo>)</mo>&nbsp; <mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo>&nbsp; <mo>(</mo><mi>R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "FZ8xQ",
+        "text": "<math><mo>(</mo><mn>4</mn><mo>)</mo> &nbsp; <mo>(</mo><mi>i</mi><mo>)</mo> &nbsp; <mo>(</mo><mi>S</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "MMDi6",
+        "text": "<math><mo>(</mo><mn>3</mn><mo>)</mo>&nbsp;<mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo>&nbsp; <mo>(</mo><mi>R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "RSA02",
+        "text": "<math><mo>(</mo><mn>4</mn><mo>)</mo>&nbsp; <mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo> &nbsp; <mo>(</mo><mi>R</mi><mo>)</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "FZ8xQ",
+    "solution_text": "<p>For path to be helix with axis along +ve z-direction, particle should experience a centripetal acceleration in x-y plane.</p><p>For the given set of options only option&nbsp;<math><mo>(4</mo><mo>)&nbsp;</mo><mo>(</mo><mi>i</mi><mo>)&nbsp;</mo><mo>(S</mo><mo>)</mo></math>&nbsp;satisfy the condition. Path is helical with increasing pitch.</p>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a59f23ac7d519f9b39e",
+    "type": "singleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2017 (Paper 1)",
+    "paper_year_short": "2017 (Paper 1)",
+    "held_on": "2017-04-30T09:00:00.000Z",
+    "question_text": "A charged particle is introduced at the origin <math><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>y</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>&#160;</mi><mi>z</mi><mo>=</mo><mn>0</mn></math> with a given initial velocity <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> . A uniform electric field <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi></math> and a uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> exist everywhere. The velocity <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> , electric field <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mi>&#160;</mi></math> and a uniform magnetic field <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover></math> are given in the columns below<table border=\"1\">\t<tbody>\t\t<tr>\t\t\t<td>Column 1</td>\t\t\t<td>Column 2</td>\t\t\t<td>Column 3</td>\t\t</tr>\t\t<tr>\t\t\t<td>1. Electron with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover><mi>&#160;</mi></math></td>\t\t\t<td>(i) <math><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>z</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(P) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>2. Electron with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn></mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(ii) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(Q) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>3.Proton with <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover></math> =0</td>\t\t\t<td>(iii) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mo>-</mo><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(R) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>y</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t\t<tr>\t\t\t<td>4. Proton with <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mn>2</mn><mfrac><mrow><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(iv) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>E</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>x</mi></mrow><mo>^</mo></mover></math></td>\t\t\t<td>(S) <math><mi>&#160;</mi><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>&#8594;</mo></mover><mo>=</mo><mo>-</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi>z</mi></mrow><mo>^</mo></mover></math></td>\t\t</tr>\t</tbody></table>In which case will the particle move in a straight line with a constant velocity?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "4gL1Z",
+        "text": "<math><mfenced separators=\"|\"><mrow><mn>2</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced><mo>(</mo><mi>S</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "8BUCG",
+        "text": "<math><mfenced separators=\"|\"><mrow><mn>4</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mi>i</mi></mrow></mfenced><mo>(</mo><mi>S</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "OaWIB",
+        "text": "<math><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi></mrow></mfenced><mo>(</mo><mi>R</mi><mo>)</mo></math>",
+        "image": null
+      },
+      {
+        "id": "M4Ys1",
+        "text": "<math><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced><mo>,</mo><mfenced separators=\"|\"><mrow><mi>i</mi><mi>i</mi><mi>i</mi></mrow></mfenced><mfenced separators=\"|\"><mrow><mi>P</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "4gL1Z",
+    "solution_text": "Given: A charged particle is introduced at the origin \\((x=0, y=0, z=0)\\). initial velocity \\(=\\vec{v}\\),\r\nuniform electric field \\(\\vec{E}\\).\r\nuniform magnetic field \\(\\vec{B}\\).\r\nAlso the values are given the table.\r\nwe need to find the cases where the particle will move in a straight line with constant velocity.\r\nTo move a particle with constant velocity;\r\nFnet \\(=0\\),\r\n\\(\\Rightarrow\\) The electric force \\(=\\) magnetic fore e.\r\n\\(\\begin{gathered}\r\nq E=q v B . \\\\\r\nE=v B .\r\n\\end{gathered}\\)\r\nNow checking the options.\r\n\\(\\begin{aligned}\r\n&\\text { A) (II) (iii) (s). } \\\\\r\n&\\text { (II) }=\\vec{v}=\\frac{E_0}{B_0} \\hat{y} \\text {. } \\\\\r\n&\\text { (iii) }=\\vec{E}=-E_0 \\hat{x} \\\\\r\n&(s)=\\vec{B}=B_0 \\hat{Z} \\text {. } \\\\\r\n&-E_0 \\hat{x}=E_0 \\hat{B O} \\hat{y}(B O \\hat{z}) \\\\\r\n\\end{aligned}\\)\r\n\\(\\therefore\\) (II) (iii) (s) is the correct option",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a47f23ac7d519f9b2fb",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nIn a thin rectangular metallic strip a constant current $I$ flows along the positive $x$-direction, as shown in the figure. The length, width and thickness of the strip are $l, w$ and $d$, respectively.\r\n\r\nA uniform magnetic field $\\vec{B}$ is applied on the strip along the positive $y$-direction. Due to this, the charge carriers experience a net deflection along the $z$-direction. This results in accumulation of charge carriers on the surface $P Q R S$ and appearance of equal and opposite charges on the face opposite to $P Q R S$. A potential difference along the $z$-direction is thus developed. Charge accumulation continues until the magnetic force is balanced by the electric force. The current is assumed to be uniformly distributed on the cross section of the strip and carried by electrons.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rk7iCrqTkG8XFjnzRfpmdb-EMN75NKH4Gk7-jhKM3pI.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GWF47XWI5Y41HR3tDPCu8mHDFO1K3NrXCqk_XuYBLmY.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nConsider two different metallic strips ($1$ and $2$) of same dimensions (length $l$, width $w$ and thickness $d$ ) with carrier densities $n_{1}$ and $n_{2}$, respectively. Strip $1$ is placed in magnetic field $B_{1}$ and strip $2$ is placed in magnetic field $B_{2}$, both along positive $y$-directions. Then $V_{1}$ and $V_{2}$ are the potential differences developed between $K$ and $M$ in strips $1$ and $2$, respectively. Assuming that the current $I$ is the same for both the strips, the correct option(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "qIi1o",
+        "text": "If  <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "HvV4Q",
+        "text": "If  <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "BuOMz",
+        "text": "If  <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>0.5</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "EkqFk",
+        "text": "If  <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "BuOMz",
+    "solution_text": "As done in the above question<br > <math><mi>V</mi><mo>=</mo><mfrac><mrow><mi>B</mi><mi>I</mi></mrow><mrow><mi>n</mi><mi>e</mi><mi>d</mi></mrow></mfrac></math> <br > <math><mo>∴</mo><mi>V</mi><mo>∝</mo><mfrac><mrow><mi>B</mi></mrow><mrow><mi>n</mi></mrow></mfrac></math> <br >Or  <math><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math> <br > <math><mo>∴</mo></math>  if  <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>&amp;</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >& if  <math><msub><mrow><mi>B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant=\"normal\"> </mi><mo>&amp;</mo><mi mathvariant=\"normal\"> </mi><msub><mrow><mi>n</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>0.5</mn><mi mathvariant=\"normal\"> </mi><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a47f23ac7d519f9b2fa",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2015 (Paper 2)",
+    "paper_year_short": "2015 (Paper 2)",
+    "held_on": "2015-04-30T14:00:00.000Z",
+    "question_text": "<strong> Paragraph: </strong>\r\n\r\nIn a thin rectangular metallic strip a constant current $I$ flows along the positive $x$-direction, as shown in the figure. The length, width and thickness of the strip are $l, w$ and $d$, respectively.\r\n\r\nA uniform magnetic field $\\vec{B}$ is applied on the strip along the positive $y$-direction. Due to this, the charge carriers experience a net deflection along the $z$-direction. This results in accumulation of charge carriers on the surface $P Q R S$ and appearance of equal and opposite charges on the face opposite to $P Q R S$. A potential difference along the $z$-direction is thus developed. Charge accumulation continues until the magnetic force is balanced by the electric force. The current is assumed to be uniformly distributed on the cross section of the strip and carried by electrons.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/rk7iCrqTkG8XFjnzRfpmdb-EMN75NKH4Gk7-jhKM3pI.original.fullsize.png\"><br>\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GWF47XWI5Y41HR3tDPCu8mHDFO1K3NrXCqk_XuYBLmY.original.fullsize.png\"><br>\r\n\r\n<br> <strong> Question: </strong>\r\n\r\nConsider two different metallic strips ($1$ and $2$) of the same material. Their lengths are the same, widths are $w_{1}$ and $w_{2}$ and thicknesses are $d_{1}$ and $d_{2}$, respectively. Two points $K$ and $M$ are symmetrically located on the opposite faces parallel to the $x-y$ plane (see figure). $V_{1}$ and $V_{2}$ are the potential differences between $K$ and $M$ in strips $1$ and $2$, respectively. Then, for a given current $I$ flowing through them in a given magnetic field strength $B$, the correct statement(s) is(are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "l803C",
+        "text": "If  <math><msub><mrow><mi>w</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>w</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "ANCc3",
+        "text": "If  <math><msub><mrow><mi>w</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>w</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "h7p99",
+        "text": "If  <math><msub><mrow><mi>w</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>w</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "id": "baX5K",
+        "text": "If  <math><msub><mrow><mi>w</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>w</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  and  <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub></math> , then  <math><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "baX5K",
+    "solution_text": "<math><mi>q</mi><msub><mrow><mi>v</mi></mrow><mrow><mi>d</mi></mrow></msub><mi>B</mi><mo>=</mo><mi>q</mi><mi>E</mi><mo>=</mo><mfrac><mrow><mi>q</mi><mi>V</mi></mrow><mrow><mi>w</mi></mrow></mfrac></math> <br > <math><mo>⇒</mo><mi>V</mi><mo>=</mo><mi>w</mi><mi>B</mi><mo>×</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>d</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>w</mi><mi>B</mi><mi>I</mi></mrow><mrow><mi>n</mi><mi>e</mi><mi>w</mi><mi>d</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>B</mi><mi>I</mi></mrow><mrow><mi>n</mi><mi>e</mi><mi>d</mi></mrow></mfrac></math> <br > <math><mo>∴</mo><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math> <br > <math><mo>∴</mo></math>  if  <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></math> <br >& if  <math><msub><mrow><mi>d</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>⇒</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></math>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a33f23ac7d519f9b243",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2014 (Paper 1)",
+    "paper_year_short": "2014 (Paper 1)",
+    "held_on": "2014-04-30T09:00:00.000Z",
+    "question_text": "Two parallel wires in the plane of the paper are distance <math><msub><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>0</mn></mrow></msub></math> apart. A point charge is moving with speed u between the wires in the same plane at a distance <math><msub><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>1</mn></mrow></msub></math> from one of the wires. When the wires carry current of magnitude <math><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">I</mi></math>&nbsp; in the same direction, the radius of curvature of the path of the point charge is <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub></math> . In contrast, if the currents <math><mi mathvariant=\"normal\">&#160;</mi><mi mathvariant=\"normal\">I</mi></math>&nbsp;in the two wires have directions opposite to each other, the radius of curvature of the path is <math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></math> . If <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">X</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mn>3</mn></math> , value of <math><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math> is",
+    "question_image": null,
+    "options": [],
+    "correct_answer": "3",
+    "solution_text": "<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image9-46044510-e362-4b57-806c-25469a638dbd.png\"/><br ><math><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced separators=\"|\"><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">μ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">π</mi></mrow></mfrac></mrow></mfenced><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">I</mi></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mfenced></math><br ><math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">q</mi><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math><br ><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/image10-f37c9afd-9ad9-4dbe-b181-128790c8d255.png\"/><br ><math><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant=\"normal\">m</mi><mi mathvariant=\"normal\">v</mi></mrow><mrow><mi mathvariant=\"normal\">q</mi><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math><br ><math><mo>⇒</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></mfrac><mo>=</mo><mn>3</mn></math>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a26f23ac7d519f9b1c9",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2013 (Paper 1)",
+    "paper_year_short": "2013 (Paper 1)",
+    "held_on": "2013-04-30T09:00:00.000Z",
+    "question_text": "A particle of mass M and positive charge Q, moving with a constant velocity&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mtext>u</mtext><mo>&#8594;</mo></mover><mn>1</mn></msub><mo>=</mo><mn>4</mn><mover><mtext>i</mtext><mo>^</mo></mover><msup><mtext>ms</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>,&nbsp;enters a region of uniform static magnetic field normal to the x-y plane. The region of the magnetic field extends from x = 0 to x = L for all values of y. After passing through this region, the particle emerges on the other side after 10 milliseconds with a velocity <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mover><mtext>u</mtext><mo>&#8594;</mo></mover><mn>2</mn></msub><mo>=</mo><mn>2</mn><mfenced><mrow><msqrt><mn>3</mn></msqrt><mover><mtext>i</mtext><mo>^</mo></mover><mo>+</mo><mover><mtext>j</mtext><mo>^</mo></mover></mrow></mfenced><msup><mtext>ms</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>.&nbsp;The correct statement (s) is (are)",
+    "question_image": null,
+    "options": [
+      {
+        "id": "VYyzb",
+        "text": "The direction of the magnetic field is -z direction.",
+        "image": null
+      },
+      {
+        "id": "9a6or",
+        "text": "The direction of the magnetic field is&nbsp;+z&nbsp;direction.",
+        "image": null
+      },
+      {
+        "id": "ugM2a",
+        "text": "The magnitude of the magnetic field&nbsp;<math> <mrow> <mfrac> <mrow> <mn>5</mn> <mn>0</mn> <mi>&pi;</mi> <mtext>M</mtext> </mrow> <mrow> <mn>3</mn> <mtext>Q</mtext> </mrow> </mfrac> </mrow> </math>units.",
+        "image": null
+      },
+      {
+        "id": "KXjnn",
+        "text": "The magnitude of the magnetic field&nbsp;<math> <mrow> <mfrac> <mrow> <mn>1</mn><mn>0</mn> <mn>0</mn> <mi>&pi;</mi> <mtext>M</mtext> </mrow> <mrow> <mn>3</mn> <mtext>Q</mtext> </mrow> </mfrac> </mrow> </math>units.",
+        "image": null
+      }
+    ],
+    "correct_answer": "ugM2a",
+    "solution_text": "<p><img alt=\"\" src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/EM0012547_AnsExp1_1..jpg\" style=\"opacity: 0.9; width: 219px; height: 207px;\" /></p><p>the angular displacement<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>&#952;</mi></mfenced><mo>,</mo></math><br /><math> <mrow> <mi>&#952;</mi> <mo>=</mo> <mi>&#969;</mi> <mtext>t</mtext> </mrow> </math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mfenced><mn>1</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo></math>angular velocity,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo></math>time taken by the&nbsp;the particle emerges on the other side&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>10</mn><mo>&#160;</mo><mi>ms</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mn>10</mn><mo>&#215;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>&#160;</mo><mi mathvariant=\"normal\">S</mi></math></p><p>angular velocity of particle in a magnetic field&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>&#969;</mi></mfenced></math>,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#969;</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><mfrac><mrow><mi>q</mi><mi>B</mi></mrow><mi>m</mi></mfrac></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8594;</mo><mfenced><mn>2</mn></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo></math>charge,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo></math>magnetic field,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo></math>mass of the particle.<br />substitute equation 2 in equation 1<br /><math> <mrow> <mi>&#952;</mi> <mo>=</mo> <mfrac> <mrow> <mtext>qB</mtext> </mrow> <mrow> <mtext>m</mtext> </mrow> </mfrac> <mtext>t</mtext> </mrow> </math><br />Angle between velocity vectors is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mi>&#952;</mi></mfenced><mo>=</mo><mfrac><mi>&#960;</mi><mn>6</mn></mfrac></math><br />Solving above we get <math> <mrow> <mtext>B</mtext> <mo>=</mo> <mfrac> <mrow> <mn>5</mn> <mn>0</mn> <mi>&#960;</mi> <mtext>m</mtext> </mrow> <mrow> <mn>3</mn> <mtext>q</mtext> </mrow> </mfrac> </mrow> </math></p>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a19f23ac7d519f9b150",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2012 (Paper 1)",
+    "paper_year_short": "2012 (Paper 1)",
+    "held_on": "2012-04-30T09:00:00.000Z",
+    "question_text": "Consider the motion of a positive point charge in a region where there are simultaneous uniform electric and magnetic fields $\\vec{E}=E_{0} \\hat{j}$ and $\\vec{B}=B_{0} \\hat{j}$. At time $t=0$, this charge has velocity $\\vec{v}$ in the in the $x$-y plane, making an angle $\\theta$ with the $x$-axis. Which of the following option(s) is (are) correct for time $t>0$ ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "cdKLY",
+        "text": "If $\\theta=0^{\\circ}$, the charge moves in a circular path in the $x$ - plane.",
+        "image": null
+      },
+      {
+        "id": "oI4FD",
+        "text": "If $\\theta=0^{\\circ}$, the charge undergoes helical motion with constant pitch along the $y$-axis.",
+        "image": null
+      },
+      {
+        "id": "PF53B",
+        "text": "If $\\theta=10^{\\circ}$, the charge undergoes helical motion with its pitch increasing with time, along the $y$-axis.",
+        "image": null
+      },
+      {
+        "id": "HgYxA",
+        "text": "If $\\theta=90^{\\circ}$, the charge undergoes linear but accelerated motion along the $y$-axis.",
+        "image": null
+      }
+    ],
+    "correct_answer": "HgYxA",
+    "solution_text": "If $\\theta=0^{\\circ}$, the charged particle is projected along $x$-axis, due to magnetic field, $\\vec{B}$ the charged particle will tend to move in a circular path in $y-z$ plane but due to force of electric field $\\vec{E}$, the particle will move in a helical path with increasing pitch. Hence options (A) and (B) are wrong. If $\\theta=10^{\\circ}$, we can resolve velocity into two rectangular components. One along $x$-axis $\\left(v \\cos 10^{\\circ}\\right)$ and one along $y$-axis $\\left(v \\sin 10^{\\circ}\\right)$. Due to $v \\cos 10^{\\circ}$, the particle will move in circular path and due to $v \\sin 10^{\\circ}$ plus the force due to electric field, the particle will undergo helical motion with its pitch increasing.\r\n\r\nIf $\\theta=90^{\\circ}$, the charge is moving along the magnetic field. Therefore the force due to magnetic field is zero. But the force due to electric field will accelerate the particle along $y$-axis.\r\n\r\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/ESjcDOMtKhQqHP_c9Ylws4MPmEOB0gS0nTW1_sU4eic.original.fullsize.png\">",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b16a0af23ac7d519f9b0cc",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "An electron and a proton are moving on straight parallel paths with same velocity. They enter a semi-infinite region of uniform magnetic field perpendicular to the velocity. Which of the following statement(s) is/are true?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "hLO1j",
+        "text": "\nThey will never come out of the magnetic field region\n",
+        "image": null
+      },
+      {
+        "id": "jsAfa",
+        "text": "\nThey will come out travelling along parallel paths\n",
+        "image": null
+      },
+      {
+        "id": "U3C0D",
+        "text": "\nThey will come out at the same time\n",
+        "image": null
+      },
+      {
+        "id": "0dUwv",
+        "text": "\nThey will come out at different times",
+        "image": null
+      }
+    ],
+    "correct_answer": "0dUwv",
+    "solution_text": "$\\quad r=\\frac{m v}{B q}$\nor $\\quad r \\propto m$\n$\\therefore r_e < r_p$ as $m_e < m_p$\nFurther, $\\quad T=\\frac{2 \\pi m}{B q}$\nor $\\quad T \\propto m$<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/g_AtYJ68EHOj3DMGv-AIig9FQDGi2RQeeQhj7Awaryo.original.fullsize.png\"><br>\n$$\n\\begin{aligned}\n\\therefore \\quad T_e & < T_p \\\\\nt_e & =\\frac{T_e}{2}\n\\end{aligned}\n$$\nand\nor $\\quad t_e < t_p$\n$\\therefore$ Correct options are (b) and (d).\nNote In JEE 2011, official answer key, correct options were given bc, bd, bcd, here student should realise that both the electron and proton enter the magnetic field at the same time or at different times.\nAnalysis of Question\n(i) Question is simple.\n(ii) In the situation given above particle will never complete the circle unless magnetic field is all around.",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b169dff23ac7d519f9af42",
+    "type": "multipleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2008 (Paper 1)",
+    "paper_year_short": "2008 (Paper 1)",
+    "held_on": "2008-04-30T09:00:00.000Z",
+    "question_text": "A particle of mass $m$ and charge $q$, moving with velocity $v$ enters Region II normal to the boundary as shown in the figure. Region II has a uniform magnetic field $B$ perpendicular to the plane of the paper. The length of the Region II is $l$. Choose the correct choice(s)\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/2R-9CzzQsKQiIWeWGqRQfQoFeKBfJB3YsXFFqvgUbGU.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "J0hW8",
+        "text": "\nThe particle enters Region III only if its velocity $v>\\frac{q l B}{m}$\n",
+        "image": null
+      },
+      {
+        "id": "uJhHm",
+        "text": "\nThe particle enters Region III only if its velocity $v < \\frac{q I B}{m}$",
+        "image": null
+      },
+      {
+        "id": "LQ3Ty",
+        "text": "\nPath length of the particle in Region II is maximum when velocity $v=\\frac{q I B}{m}$\n",
+        "image": null
+      },
+      {
+        "id": "22UVS",
+        "text": "\nTime spent in Region II is same for any velocity $v$ as long as the particle returns to Region I",
+        "image": null
+      }
+    ],
+    "correct_answer": "22UVS",
+    "solution_text": "$\\overrightarrow{\\mathbf{V}} \\perp \\overrightarrow{\\mathbf{B}}$ in region II. Therefore, path of particle is circle in region II. Particle enters in region III if, radius of circular path, $r>1$ or $\\frac{m v}{B q}>1$ or $v>\\frac{B q l}{m}$\nIf $v=\\frac{B q l}{m}, r=\\frac{m v}{B q}=l$, particle will turn back and path length will be maximum as shown in figure in region II. If particle returns to region I, time spent in region II will be $t=\\frac{T}{2}=\\frac{\\pi m}{B q}$, which is independent of $v$.\n$\\therefore$ correct options are (a), (c) and (d).\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/0u3oe3umQiRM7QrzjiMfVEpq5UCFuBEPfFEcz8oRLs4.original.fullsize.png\"><br>",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  },
+  {
+    "question_id": "64b169d8f23ac7d519f9aeff",
+    "type": "singleCorrect",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2007 (Paper 2)",
+    "paper_year_short": "2007 (Paper 2)",
+    "held_on": "2007-04-30T14:00:00.000Z",
+    "question_text": "A magnetic field $\\mathbf{B}=B_0 \\hat{\\mathbf{j}}$ exists in the region $a < x < 2 a$ and $\\mathbf{B}=B_0 \\hat{\\mathbf{j}}$ in the region $2 a < x < 3 a$, where $B_0$ is a positive constant. A positive point charge moving with a velocity $\\mathbf{v}=v_0 \\hat{\\mathbf{i}}$, where $v_0$ is a positive constant, enters the magnetic field at $x=a$. The trajectory of the charge in this region can be like<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/_N5VIaTqGyv5jcrg44Q0Bg2NBIG0WPxXf5MuRx9KtH4.original.fullsize.png\"><br>",
+    "question_image": null,
+    "options": [
+      {
+        "id": "kxbU4",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/CuWOOBYq3jS2YpduXSHKvuhX2J8MwJbhYpKeuhCF9vw.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "phs7W",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/mh_9iwlp6wjACA2hwq5AR2fr7YhbhDe2HfcZMMPWs4E.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "z7S8T",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/5DLSkEyTqEIOhN9TjwKWqu3FgulcbE1av2dEBbNN1r0.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "tyntG",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/uNBd5cdR_7EE6qPM2BbIMVGhSvFPMwO_gXUHVMsYF48.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "kxbU4",
+    "solution_text": "$\\mathbf{F}_m=q(\\mathbf{v} \\times \\mathbf{B})$\nCorrect option is (a).",
+    "solution_image": null,
+    "topic": "Motion of Charged Particle in Magnetic Field"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "question_id": "64b16a0bf23ac7d519f9b0d2",
+    "type": "singleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2011 (Paper 1)",
+    "paper_year_short": "2011 (Paper 1)",
+    "held_on": "2011-04-30T09:00:00.000Z",
+    "question_text": "<strong>Paragraph:</strong>\nPhase space diagrams are useful tools in analyzing all kinds of dynamical problems. They are especially useful in studying the changes in motion as initial position and momentum are changed. Here we consider some simple dynamical systems in one-dimension. For such systems, phase space is a plane in which position is plotted along horizontal axis and momentum is plotted along vertical axis. The phase space diagram is $x(t) v s p(t)$ curve in this plane. The arrow on the\ncurve indicates the time flow. For example, the phase space diagram for a particle moving with constant velocity is a straight line as shown in the figure. We use the sign convention in which position or momentum upwards (or to right) is positive and downwards (or to left) is negative.<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/XUS9yb1oVClHFXXo1R2Su7FpnIAGiALCHaAWRaCkIxo.original.fullsize.png\"><br><strong>Question:</strong>\nThe phase space diagram for a ball thrown vertically up from ground is",
+    "question_image": null,
+    "options": [
+      {
+        "id": "xcd7J",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/iI0Kxu2WnV4NkRO9yY3V7z6whEGe6AvixYB2vbO-hD8.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "ydrD0",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/DOfzCHyzibJNVnxn0HafBRyOgKJe6uLD1830_7T21VI.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "9TrM5",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/O1yAEKHii2lM3o6tCdd5OomqXot_8p1UEg0sH2_8QuA.original.fullsize.png\"><br>",
+        "image": null
+      },
+      {
+        "id": "0eQN0",
+        "text": "\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/h80ZqR_DLfd3NCpT3nZGdB647TUEv-dWcd5q3qSkx1k.original.fullsize.png\"><br>",
+        "image": null
+      }
+    ],
+    "correct_answer": "0eQN0",
+    "solution_text": "Momentum is first positive but decreasing. Displacement (or say position). is initially zero.\nIt will first increase. At highest point, momentum is zero and displacement is maximum. After that momentum is downwards (negative) and increasing but displacement is decreasing. Only (d) option satisfies these conditions.\nAnalysis of Question\n(i) Question is simple.\n(ii) Since all the graphs given in question are parabolic type, we need not to check the mathematical part of the question.",
+    "solution_image": null,
+    "topic": "Graphs of motion in one dimension"
+  },
+  {
+    "question_id": "64b16a4df23ac7d519f9b331",
+    "type": "multipleCorrect",
+    "difficulty_level": 1,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2016 (Paper 1)",
+    "paper_year_short": "2016 (Paper 1)",
+    "held_on": "2016-04-30T09:00:00.000Z",
+    "question_text": "The positon vector <math><mover accent=\"true\"><mrow><mi>r</mi></mrow><mo>&#8594;</mo></mover></math> of a particle of mass m is given by the following equation <math><mover accent=\"true\"><mrow><mi>r</mi></mrow><mo>&#8594;</mo></mover><mfenced separators=\"|\"><mrow><mi>t</mi></mrow></mfenced><mo>=</mo><mi>&#945;</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>&#946;</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover><mo>,</mo><mi>&#160;</mi><mi>w</mi><mi>h</mi><mi>e</mi><mi>r</mi><mi>e</mi><mi>&#160;</mi><mi>&#945;</mi><mo>=</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>,</mo><mi>&#160;</mi><mi>&#946;</mi><mo>=</mo><mn>5</mn><mi>&#160;</mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>2</mn></mrow></msup><mi>&#160;</mi><mi>a</mi><mi>n</mi><mi>d</mi><mi>&#160;</mi><mi>m</mi><mo>=</mo><mn>0.1</mn><mi>&#160;</mi><mi>k</mi><mi>g</mi><mo>.</mo><mi>&#160;</mi><mi>A</mi><mi>t</mi><mi>&#160;</mi><mi>t</mi><mo>=</mo><mn>1</mn><mi>s</mi><mo>,</mo></math> which of the following statements (s) is (are) true about the particle?",
+    "question_image": null,
+    "options": [
+      {
+        "id": "EwnuX",
+        "text": "The velocity  <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>→</mo></mover></math>  is given by  <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>→</mo></mover><mo>=</mo><mfenced separators=\"|\"><mrow><mn>10</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>10</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced><mi> </mi><mi>m</mi><msup><mrow><mi>s</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "tt9Da",
+        "text": "The angular momentum  <math><mover accent=\"true\"><mrow><mi>L</mi></mrow><mo>→</mo></mover></math>  with respect to the origin is given by  <math><mover accent=\"true\"><mrow><mi>L</mi></mrow><mo>→</mo></mover><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover><mi> </mi><mi>N</mi><mi>m</mi><mi>s</mi></math>",
+        "image": null
+      },
+      {
+        "id": "oYx1K",
+        "text": "The force  <math><mover accent=\"true\"><mrow><mi>F</mi></mrow><mo>→</mo></mover></math>  is given by  <math><mover accent=\"true\"><mrow><mi>F</mi></mrow><mo>→</mo></mover><mo>=</mo><mfenced separators=\"|\"><mrow><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>2</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced><mi>N</mi></math>",
+        "image": null
+      },
+      {
+        "id": "Qy7cU",
+        "text": "The torque  <math><mover accent=\"true\"><mrow><mi>τ</mi></mrow><mo>→</mo></mover></math>  with respect to the origin is given by  <math><mover accent=\"true\"><mrow><mi>τ</mi></mrow><mo>→</mo></mover><mo>=</mo><mo>-</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>20</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover><mi> </mi><mi>N</mi><mi>m</mi><mi> </mi></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "Qy7cU",
+    "solution_text": "<math><mover accent=\"true\"><mrow><mi>r</mi></mrow><mo>→</mo></mover><mo>=</mo><mi>α</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mi>β</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math>  <br > <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>→</mo></mover><mo>=</mo><mfrac><mrow><mi>d</mi><mover accent=\"true\"><mrow><mi>r</mi></mrow><mo>→</mo></mover></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mn>3</mn><mi>α</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>2</mn><mi>β</mi><mi>t</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math>  <br > <math><mover accent=\"true\"><mrow><mi>a</mi></mrow><mo>→</mo></mover><mo>=</mo><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mover accent=\"true\"><mrow><mi>r</mi></mrow><mo>→</mo></mover></mrow><mrow><mi>d</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>6</mn><mi>α</mi><mi>t</mi><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>2</mn><mi>β</mi><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math>  <br >At t = 1<br >(i)  <math><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>→</mo></mover><mo>=</mo><mn>3</mn><mo>×</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>×</mo><mn>1</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>2</mn><mo>×</mo><mi>J</mi><mo>×</mo><mn>1</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math> <br > <math><mo>=</mo><mn>10</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>10</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math>  <br >(ii)  <math><mover accent=\"true\"><mrow><mi>L</mi></mrow><mo>→</mo></mover><mo>=</mo><mover accent=\"true\"><mrow><mi>r</mi></mrow><mo>→</mo></mover><mo>×</mo><mover accent=\"true\"><mrow><mi>p</mi></mrow><mo>→</mo></mover></math> <br > <math><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>×</mo><mn>1</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>5</mn><mo>×</mo><mn>1</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced><mo>×</mo><mn>0.1</mn><mfenced separators=\"|\"><mrow><mn>10</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>10</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced></math>  <br > <math><mo>=</mo><mi> </mi><mo>-</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover><mi> </mi></math>  <br >(iii)  <math><mover accent=\"true\"><mrow><mi>F</mi></mrow><mo>→</mo></mover><mo>=</mo><mi>m</mi><mo>×</mo><mfenced separators=\"|\"><mrow><mn>6</mn><mo>×</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mo>×</mo><mn>1</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>2</mn><mo>×</mo><mn>5</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced><mo>=</mo><mn>2</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></math> <br >(iv)  <math><mover accent=\"true\"><mrow><mi>τ</mi></mrow><mo>→</mo></mover><mo>=</mo><mi>r</mi><mo>×</mo><mover accent=\"true\"><mrow><mi>F</mi></mrow><mo>→</mo></mover></math> <br > <math><mo>=</mo><mfenced separators=\"|\"><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>5</mn><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced><mo>×</mo><mfenced separators=\"|\"><mrow><mn>2</mn><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>^</mo></mover><mo>+</mo><mover accent=\"true\"><mrow><mi>j</mi></mrow><mo>^</mo></mover></mrow></mfenced></math>  <br > <math><mo>=</mo><mo>+</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover><mo>+</mo><mn>10</mn><mfenced separators=\"|\"><mrow><mo>-</mo><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover></mrow></mfenced></math>  <br > <math><mo>=</mo><mo>-</mo><mfrac><mrow><mn>20</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mover accent=\"true\"><mrow><mi>k</mi></mrow><mo>^</mo></mover><mi> </mi></math>",
+    "solution_image": null,
+    "topic": "Non-uniform Motion"
+  },
+  {
+    "question_id": "66965dd8d603121f43a40e72",
+    "type": "numerical",
+    "difficulty_level": 3,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2024 (Paper 2)",
+    "paper_year_short": "2024 (Paper 2)",
+    "held_on": "2024-04-30T14:00:00.000Z",
+    "question_text": "A ball is thrown from the location $\\left(x_0, y_0\\right)=(0,0)$ of a horizontal playground with an initial speed $v_0$ at an angle $\\theta_0$ from the $+x$-direction. The ball is to be hit by a stone, which is thrown at the same time from the location $\\left(x_1, y_1\\right)=(L, 0)$. The stone is thrown at an angle $\\left(180-\\theta_1\\right)$ from the $+x$-direction with a suitable initial speed. For a fixed $v_0$, when $\\left(\\theta_0, \\theta_1\\right)=\\left(45^{\\circ}, 45^{\\circ}\\right)$, the stone hits the ball after time $T_1$, and when $\\left(\\theta_0, \\theta_1\\right)=\\left(60^{\\circ}, 30^{\\circ}\\right)$, it hits the ball after time $T_2$. In such a case, $\\left(T_1 / T_2\\right)^2$ is _______ .",
+    "question_image": null,
+    "options": [],
+    "correct_answer": 2,
+    "solution_text": "For case I :\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/u9Al_faN8FMZKamCLt15IzlCUp4QrsdixqkMC0Y2syo.original.fullsize.png\">\n$a_{\\text {rel }}=0$\nFor collision $\\frac{\\mathrm{v}_0}{\\sqrt{2}}=\\frac{\\mathrm{v}}{\\sqrt{2}}$\n$\\therefore \\mathrm{v}=\\mathrm{v}_0$\nSo $\\mathrm{T}_1=\\frac{\\mathrm{L}}{\\frac{\\mathrm{v}_0}{\\sqrt{2}}+\\frac{\\mathrm{v}}{\\sqrt{2}}}$\n$\\therefore \\tau_1=\\frac{\\mathrm{L}}{\\sqrt{2} \\mathrm{v}_0} \\ldots . .(1)$\nFor case II,\n<img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/GboTeS8Qff495XnPuDOZa0th_x8sv7aKL18Z5jCjG3o.original.fullsize.png\">\n$a_{\\text {rel }}=0$\nFor collision, $\\frac{\\mathrm{v}_0 \\sqrt{3}}{2}=\\frac{\\mathrm{v}}{2}$\n$\\begin{aligned}\n& \\therefore \\mathrm{v}=\\sqrt{3} \\mathrm{v}_0 \\\\\n& \\text { So, } \\mathrm{T}_2=\\frac{\\mathrm{L}}{\\frac{\\mathrm{v}_0}{2}+\\mathrm{v} \\frac{\\sqrt{3}}{2}} \\\\\n& \\mathrm{~T}_2=\\frac{\\mathrm{L}}{\\frac{\\mathrm{v}_0}{2}+\\frac{3 \\mathrm{v}_0}{2}} \\\\\n& \\therefore \\mathrm{T}_2=\\frac{\\mathrm{L}}{2 \\mathrm{v}_0} \\ldots \\ldots . .(2) \\\\\n& \\text { so, }\\left(\\frac{\\mathrm{T}_1}{\\mathrm{~T}_2}\\right)^2=(\\sqrt{2})^2=2 \\Rightarrow\\left(\\frac{\\mathrm{T}_1}{\\mathrm{~T}_2}\\right)^2=2\n\\end{aligned}$",
+    "solution_image": null,
+    "topic": "Relative Motion"
+  },
+  {
+    "question_id": "64b16a83f23ac7d519f9b517",
+    "type": "multipleCorrect",
+    "difficulty_level": 2,
+    "syllabus_category": "noChange",
+    "question_structure": "default",
+    "paper_year_title": "JEE Advanced 2020 (Paper 2)",
+    "paper_year_short": "2020 (Paper 2)",
+    "held_on": "2020-04-30T14:00:00.000Z",
+    "question_text": "Starting at time&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn></math> from the origin with speed&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>, a particle follows a two-dimensional trajectory in the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mi>y</mi></math> plane so that its coordinates are related by the equation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>2</mn></mfrac></math>. The&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>&nbsp;and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math>&nbsp;components of its acceleration are denoted by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>y</mi></msub></math>, respectively. Then",
+    "question_image": null,
+    "options": [
+      {
+        "id": "z1vHq",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> implies that when the particle is at the origin, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>y</mi></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "id": "JrSid",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub><mo>=</mo><mn>0</mn></math> implies&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>y</mi></msub><mo>=</mo><mn>1</mn><mo>&#160;</mo><mi mathvariant=\"normal\">m</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">s</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>&nbsp;at all times",
+        "image": null
+      },
+      {
+        "id": "4in3i",
+        "text": "at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>0</mn><mo>,</mo></math> the particle&#39;s velocity points in the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math>-direction",
+        "image": null
+      },
+      {
+        "id": "qODYC",
+        "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub><mo>=</mo><mn>0</mn></math> implies that at&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>1</mn><mi mathvariant=\"normal\">s</mi><mo>,</mo></math> the angle between the particle&#39;s velocity and the&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> axis is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>45</mn><mo>&#176;</mo></math>",
+        "image": null
+      }
+    ],
+    "correct_answer": "qODYC",
+    "solution_text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mn>2</mn></mfrac></math></p><p><img src=\"https://cdn-question-pool.getmarks.app/pyq/jee_advanced/dd9428b6-9da1-41d6-9a8d-581bc1dda5cd-image.png\"/></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mn>2</mn><mi>x</mi><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">y</mi></msub><mo>=</mo><mi>x</mi><msub><mi>v</mi><mi mathvariant=\"normal\">x</mi></msub></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>d</mi><msub><mi>v</mi><mi>y</mi></msub></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>×</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>+</mo><mi>x</mi><mfenced><mfrac><mrow><msup><mi>d</mi><mn>2</mn></msup><msub><mi>v</mi><mi>x</mi></msub></mrow><mrow><mi>d</mi><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac></mfenced></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>y</mi></msub><mo>=</mo><msubsup><mi>v</mi><mi>x</mi><mn>2</mn></msubsup><mo>+</mo><mi>x</mi><msub><mi>a</mi><mi>x</mi></msub></math></p><p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mo> </mo><msub><mi>a</mi><mi>y</mi></msub><mo>=</mo><msubsup><mi>v</mi><mi>x</mi><mn>2</mn></msubsup><mo>=</mo><mn>1</mn><mo>,</mo></math> No matters what is the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub></math> hence, Option <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> is correct.</p><p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi><mi>x</mi></msub><mo>=</mo><mn>0</mn></math> then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><msub><mi>v</mi><mi>x</mi></msub><mi>t</mi><mo>=</mo><mi>t</mi></math></p><p>at <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mn>1</mn><mo>;</mo><mo> </mo><mi>x</mi><mo>=</mo><mn>1</mn><mo> </mo><mi mathvariant=\"normal\">m</mi></math></p><p>then angle made by velocity vector with <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> -axis</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>tan</mi><mi>θ</mi><mo>=</mo><mfrac><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">y</mi></msub><msub><mi mathvariant=\"normal\">v</mi><mi mathvariant=\"normal\">x</mi></msub></mfrac><mo>=</mo><mi mathvariant=\"normal\">x</mi><mo>=</mo><mn>1</mn><mo>⇒</mo><mi>θ</mi><mo>=</mo><mn>45</mn><mo>°</mo></math></p>",
+    "solution_image": null,
+    "topic": "Rest and Motion"
+  }
+]
