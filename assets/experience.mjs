@@ -356,16 +356,21 @@ function answerIsCorrect(question, answer) {
 }
 
 const summarizeGroup = (questions) => {
-  const attempted = questions.filter((question) => question.status !== "skipped");
+  const attempted = questions.filter(
+    (question) => question.status === "correct" || question.status === "incorrect",
+  );
   const correct = questions.filter((question) => question.status === "correct").length;
   const incorrect = questions.filter((question) => question.status === "incorrect").length;
-  const skipped = questions.length - attempted.length;
+  const skipped = questions.filter((question) => question.status === "skipped").length;
+  const unscored = questions.filter((question) => question.status === "unscored").length;
   return {
     total: questions.length,
+    scoreableTotal: questions.length - unscored,
     attempted: attempted.length,
     correct,
     incorrect,
     skipped,
+    unscored,
     accuracy: attempted.length ? Math.round((correct / attempted.length) * 100) : 0,
     score: correct * 4 - incorrect,
   };
@@ -376,7 +381,9 @@ export function analyzeTest(test = {}) {
   const questions = (Array.isArray(test.questions) ? test.questions : []).map(
     (question, index) => {
       const userAnswer = question.userAnswer;
-      const attempted = isAttempted(userAnswer);
+      const hasAnswer = isAttempted(userAnswer);
+      const unscored = hasAnswer && question.type === "multipleCorrect";
+      const attempted = hasAnswer && !unscored;
       const isCorrect = attempted
         ? typeof question.isCorrect === "boolean"
           ? question.isCorrect
@@ -387,7 +394,14 @@ export function analyzeTest(test = {}) {
         ...question,
         index: index + 1,
         attempted,
-        status: attempted ? (isCorrect ? "correct" : "incorrect") : "skipped",
+        unscored,
+        status: !hasAnswer
+          ? "skipped"
+          : unscored
+            ? "unscored"
+            : isCorrect
+              ? "correct"
+              : "incorrect",
         isCorrect: attempted && isCorrect,
         difficulty: [1, 2, 3].includes(level) ? level : null,
         timeSpentSeconds: Math.max(0, Number(question.timeSpentSeconds) || 0),
