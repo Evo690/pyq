@@ -1,5 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import {
   adaptivePracticeQuestions,
   analyzeTest,
@@ -9,6 +10,12 @@ import {
   topicInsights,
   topicPerformance,
 } from "../assets/experience.mjs";
+import {
+  availablePaperYears,
+  buildExactPaperQuestions,
+  normalizePaperCatalog,
+  papersForYear,
+} from "../assets/exact-paper.mjs";
 
 const questions = Array.from({ length: 12 }, (_, index) => ({
   uid: `q-${index}`,
@@ -17,6 +24,129 @@ const questions = Array.from({ length: 12 }, (_, index) => ({
   topic: index < 6 ? "Motion" : "Energy",
   difficulty_level: (index % 3) + 1,
 }));
+
+const paperIndex = JSON.parse(
+  readFileSync(new URL("../data/papers.json", import.meta.url), "utf8"),
+);
+
+test("checked-in exact-paper index resolves sources and subject totals", () => {
+  for (const exam of ["JEE_Main", "JEE_Advanced"]) {
+    const examIndex = paperIndex.exams[exam];
+    const chapterFiles = new Set(
+      examIndex.chapters.map((chapter) => chapter.file),
+    );
+    const catalog = normalizePaperCatalog(examIndex);
+    assert.ok(catalog.length > 0);
+    assert.ok(availablePaperYears(catalog).length > 0);
+    for (const paper of catalog) {
+      assert.ok(paper.sources.length > 0, paper.title);
+      assert.ok(
+        paper.sources.every((source) => chapterFiles.has(source?.file)),
+        paper.title,
+      );
+      assert.equal(
+        Object.values(paper.subjects).reduce((sum, count) => sum + count, 0),
+        paper.questionCount,
+        paper.title,
+      );
+    }
+  }
+});
+
+test("exact-paper catalog exposes only available years and their sessions", () => {
+  const catalog = {
+    chapters: [
+      {
+        subject: "physics",
+        chapter: "Mechanics",
+        file: "Physics/Mechanics.json",
+      },
+    ],
+    papers: [
+      {
+        title: "JEE Main 2025 (22 Jan Shift 1)",
+        year: 2025,
+        label: "22 Jan Shift 1",
+        date: "2025-01-22T09:00:00.000Z",
+        questionCount: 2,
+        sources: [0],
+      },
+      {
+        title: "JEE Main 2024 (27 Jan Shift 2)",
+        year: 2024,
+        label: "27 Jan Shift 2",
+        date: "2024-01-27T14:00:00.000Z",
+        questionCount: 3,
+        sources: [0],
+      },
+      {
+        title: "JEE Main 2024 (27 Jan Shift 1)",
+        year: 2024,
+        label: "27 Jan Shift 1",
+        date: "2024-01-27T09:00:00.000Z",
+        questionCount: 3,
+        sources: [0],
+      },
+    ],
+  };
+
+  const normalized = normalizePaperCatalog(catalog);
+  assert.deepEqual(availablePaperYears(normalized), ["2025", "2024"]);
+  assert.deepEqual(
+    papersForYear(normalized, 2024).map((paper) => paper.label),
+    ["27 Jan Shift 1", "27 Jan Shift 2"],
+  );
+  assert.equal(normalized[0].sources[0].file, "Physics/Mechanics.json");
+});
+
+test("exact-paper assembly keeps every matching question in stable subject order", () => {
+  const title = "JEE Advanced 2024 (Paper 1)";
+  const groups = [
+    {
+      subject: "math",
+      chapter: "Calculus",
+      questions: [{ question_id: "math-1", paper_year_title: title }],
+    },
+    {
+      subject: "physics",
+      chapter: "Mechanics",
+      questions: [
+        { question_id: "physics-1", paper_year_title: title },
+        {
+          question_id: "physics-2",
+          paper_year_title: "JEE Advanced 2023 (Paper 1)",
+        },
+      ],
+    },
+    {
+      subject: "chemistry",
+      chapter: "Equilibrium",
+      questions: [{ question_id: "chemistry-1", paper_year_title: title }],
+    },
+    {
+      subject: "physics",
+      chapter: "Optics",
+      questions: [{ question_id: "physics-1", paper_year_title: title }],
+    },
+  ];
+
+  const paperQuestions = buildExactPaperQuestions(groups, "JEE_Advanced", {
+    title,
+  });
+  assert.deepEqual(
+    paperQuestions.map((question) => question.question_id),
+    ["physics-1", "chemistry-1", "math-1"],
+  );
+  assert.ok(
+    paperQuestions.every((question) => question.exam === "JEE_Advanced"),
+  );
+  assert.ok(
+    paperQuestions.every((question) =>
+      question.uid.startsWith("JEE_Advanced:"),
+    ),
+  );
+  assert.equal(new Set(paperQuestions.map((question) => question.uid)).size, 3);
+});
 
 test("question sampling picks fresh questions first and stays unique", () => {
   const seenQuestions = Object.fromEntries(
@@ -282,6 +412,61 @@ test("custom-test analytics summarizes difficulty, topic, timing, and each respo
   assert.equal(report.questions[1].status, "incorrect");
   assert.equal(report.questions[3].status, "skipped");
   assert.equal(report.halves.delta, 50);
+});
+
+test("multiple-correct source-key items are reported as unscored rather than incorrect", () => {
+  const report = analyzeTest({
+    questions: [
+      {
+        uid: "multi",
+        type: "multipleCorrect",
+        userAnswer: ["A", "C"],
+        correct_answer: "A",
+      },
+      {
+        uid: "single-right",
+        type: "singleCorrect",
+        options: [{ id: "A" }],
+        correct_answer: "A",
+        userAnswer: "A",
+      },
+      {
+        uid: "single-wrong",
+        type: "singleCorrect",
+        options: [{ id: "A" }, { id: "B" }],
+        correct_answer: "A",
+        userAnswer: "B",
+      },
+      { uid: "blank", type: "singleCorrect" },
+    ],
+  });
+
+  assert.deepEqual(
+    {
+      total: report.total,
+      scoreableTotal: report.scoreableTotal,
+      attempted: report.attempted,
+      correct: report.correct,
+      incorrect: report.incorrect,
+      skipped: report.skipped,
+      unscored: report.unscored,
+      accuracy: report.accuracy,
+      score: report.score,
+      multiStatus: report.questions[0].status,
+    },
+    {
+      total: 4,
+      scoreableTotal: 3,
+      attempted: 2,
+      correct: 1,
+      incorrect: 1,
+      skipped: 1,
+      unscored: 1,
+      accuracy: 50,
+      score: 3,
+      multiStatus: "unscored",
+    },
+  );
 });
 
 test("custom-test reports can recompute historical answers without timing metadata", () => {
