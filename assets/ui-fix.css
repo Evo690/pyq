@@ -1044,16 +1044,46 @@ body {
   }
 
   /* --- bottom navigation ------------------------------------------------ */
+  /* The app styles the sidebar's list with a bare `nav { margin-bottom: 28px }`
+     rule. That also matched <nav class="mobile-bottom-nav">, and because the bar
+     is `position: fixed; bottom: 0`, a bottom margin lifts it 28px off the
+     screen edge — page content shows through the gap and the bar looks like it
+     is floating. Zero it out and anchor the bar edge to edge. */
   .mobile-bottom-nav {
+    margin: 0 !important;
+    flex-direction: row;
     gap: 4px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 0;
+    border-top: 1px solid var(--line);
+    background: var(--white);
+    box-shadow: 0 -10px 28px -18px #1d332633;
     padding: 8px 10px calc(8px + env(safe-area-inset-bottom));
   }
 
+  [data-theme="dark"] .mobile-bottom-nav {
+    border-top-color: #24332c;
+    background: #101815;
+    box-shadow: 0 -10px 28px -16px #0006;
+  }
+
   .mobile-nav-item {
-    min-height: 56px;
+    min-height: 54px;
     gap: 5px;
     font-size: 11px;
     letter-spacing: 0.1px;
+    border-radius: 10px;
+  }
+
+  .mobile-nav-item.active {
+    background: #edf2e6;
+  }
+
+  [data-theme="dark"] .mobile-nav-item.active {
+    background: #22352a;
   }
 
   .mobile-nav-item svg {
