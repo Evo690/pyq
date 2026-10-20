@@ -1,0 +1,2014 @@
+/* ==========================================================================
+   PYQ Studio — UI refinement layer
+   Loaded after the app stylesheet. Fixes:
+     1. A type scale that had drifted to 6–11px (illegible on desktop,
+        inconsistent on mobile) — restored to a readable, coherent scale.
+     2. Mobile heroes/headers where artwork and action buttons collided
+        with headlines, and headings squeezed into narrow columns.
+     3. The practice bottom dock covering answer options and navigation.
+     4. Cramped toolbars, filters, chapter rows and the test-builder sheet.
+     5. Touch targets that were well under 44px.
+   No markup or behaviour changes: CSS only.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Foundations
+   -------------------------------------------------------------------------- */
+
+:root {
+  --font: "DM Sans", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --ui-radius: 12px;
+  --ui-border: var(--line);
+  --ui-tap: 44px;
+}
+
+body {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* Micro-labels: readable, still clearly "labels". */
+.eyebrow,
+.hero-kicker,
+.exact-paper-eyebrow,
+.focus-kicker,
+.modal-head .eyebrow {
+  font-size: 11px;
+  letter-spacing: 1.4px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+/* --------------------------------------------------------------------------
+   2. Chrome: sidebar, top bar, buttons, footer
+   -------------------------------------------------------------------------- */
+
+/* Wider rail: the app's 228px rail clipped "Question bank" and the brand. */
+@media (min-width: 681px) {
+  .sidebar {
+    width: 244px;
+  }
+
+  .main-shell {
+    margin-left: 244px;
+  }
+}
+
+.brand {
+  font-size: 25px;
+}
+
+.nav-label {
+  font-size: 11px;
+  letter-spacing: 1.5px;
+}
+
+.nav-item {
+  min-height: 46px;
+  font-size: 13.5px;
+  gap: 11px;
+  padding-inline: 10px;
+  white-space: nowrap;
+}
+
+.nav-item > span:first-of-type {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-item .tiny-badge,
+.tiny-badge {
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  padding: 2px 6px;
+}
+
+.exam-switch small,
+.sidebar-bottom small {
+  font-size: 10px;
+  letter-spacing: 0.7px;
+  white-space: nowrap;
+}
+
+.exam-switch strong {
+  font-size: 14px;
+}
+
+.daily-goal strong {
+  font-size: 13px;
+}
+
+.daily-goal p {
+  font-size: 12px;
+}
+
+.daily-goal button {
+  font-size: 12px;
+  min-height: 26px;
+}
+
+.local-status {
+  font-size: 11px;
+}
+
+.breadcrumb,
+.header-season,
+.header-streak {
+  font-size: 12px;
+}
+
+.header-streak {
+  min-height: 36px;
+  gap: 6px;
+}
+
+.header-streak strong {
+  font-size: 13px;
+}
+
+.avatar {
+  width: 34px;
+  height: 34px;
+  font-size: 12px;
+}
+
+.theme-toggle {
+  width: 38px;
+  height: 38px;
+  font-size: 19px;
+}
+
+.btn {
+  min-height: 42px;
+  padding: 11px 18px;
+  font-size: 14px;
+  gap: 9px;
+  border-radius: 9px;
+}
+
+.btn.small,
+.btn.sm {
+  min-height: 36px;
+  font-size: 13px;
+  padding: 8px 13px;
+}
+
+.text-button {
+  font-size: 13px;
+  min-height: 32px;
+  gap: 7px;
+}
+
+.icon-button {
+  width: 38px;
+  height: 38px;
+  padding: 8px;
+  border-radius: 9px;
+}
+
+.pill {
+  font-size: 12px;
+  padding: 7px 11px;
+}
+
+.date-chip {
+  font-size: 12px;
+  padding: 9px 12px;
+  border-radius: 9px;
+}
+
+.toast {
+  font-size: 13px;
+}
+
+.main-footer {
+  font-size: 12px;
+  color: #8b9683;
+}
+
+.source-link,
+.footer-right {
+  font-size: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   3. Page headings & section titles
+   -------------------------------------------------------------------------- */
+
+.main-content {
+  max-width: 1460px;
+}
+
+.page-heading {
+  margin-bottom: 30px;
+  gap: 22px;
+}
+
+.page-heading h1 {
+  font-size: clamp(30px, 3.2vw, 42px);
+  line-height: 1.14;
+  letter-spacing: -0.9px;
+  margin-bottom: 10px;
+}
+
+.page-heading p {
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 60ch;
+}
+
+.section-title {
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.section-title h2 {
+  font-size: 24px;
+  line-height: 1.25;
+  letter-spacing: -0.5px;
+}
+
+.section-title p {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-top: 7px;
+}
+
+/* --------------------------------------------------------------------------
+   4. Hero
+   -------------------------------------------------------------------------- */
+
+.hero {
+  min-height: 292px;
+}
+
+.hero-copy {
+  padding: 36px 40px;
+  max-width: min(68%, 800px);
+}
+
+.hero h2 {
+  font-size: clamp(32px, 2.9vw, 44px);
+  line-height: 1.14;
+  letter-spacing: -1px;
+  text-wrap: balance;
+}
+
+.hero p {
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 14px 0 22px;
+  max-width: 44ch;
+}
+
+.hero-kicker {
+  margin-bottom: 16px;
+}
+
+.hero-actions {
+  gap: 16px;
+}
+
+.hero-actions .btn {
+  min-height: 44px;
+  padding: 12px 20px;
+  font-size: 14px;
+}
+
+.hero-actions > span {
+  font-size: 12px;
+}
+
+.orbit-art {
+  pointer-events: none;
+  flex-shrink: 0;
+}
+
+/* Decorative micro-caption drifted onto the orbit artwork at wide sizes. */
+.orbit-caption {
+  display: none;
+}
+
+/* --------------------------------------------------------------------------
+   5. Cards, stats, subjects, chapters
+   -------------------------------------------------------------------------- */
+
+.stat-card {
+  padding: 20px;
+}
+
+.stat-top > span:first-child {
+  font-size: 13px;
+}
+
+.stat-card > strong {
+  font-size: 30px;
+  margin-bottom: 6px;
+}
+
+.stat-card > small {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.subject-card h3 {
+  font-size: 22px;
+  letter-spacing: -0.6px;
+}
+
+.subject-card > p {
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.subject-meta {
+  font-size: 12px;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.subject-progress > span {
+  font-size: 11px;
+}
+
+.subject-tabs {
+  min-height: 52px;
+}
+
+.subject-tabs button {
+  font-size: 13px;
+}
+
+.bank-tools {
+  gap: 10px;
+  padding: 14px 16px 10px;
+}
+
+.search-field {
+  height: 42px;
+  border-radius: 9px;
+}
+
+.search-field input {
+  font-size: 14px;
+}
+
+.search-field kbd {
+  font-size: 10px;
+  padding: 2px 5px;
+}
+
+.bank-tools select {
+  height: 42px;
+  font-size: 13px;
+  border-radius: 9px;
+  padding: 0 10px;
+  max-width: 170px;
+}
+
+.chapter-panel .chapter-list > .chapter-row,
+.chapter-panel .chapter-list > .chapter-row + .chapter-row,
+.chapter-panel .chapter-list > .chapter-row:last-child {
+  min-height: 84px;
+  padding: 14px 16px;
+}
+
+.chapter-row .chapter-icon {
+  height: 40px;
+  width: 40px;
+  border-radius: 9px;
+}
+
+.chapter-info h3 {
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.chapter-info p {
+  font-size: 12px;
+}
+
+.chapter-count strong {
+  font-size: 18px;
+}
+
+.chapter-count span {
+  font-size: 11px;
+}
+
+.progress-pill {
+  font-size: 11px;
+  padding: 5px 9px;
+}
+
+.chapter-panel-footer {
+  font-size: 12px;
+  padding: 14px 6px 9px;
+}
+
+.chapter-panel-footer button {
+  font-size: 12px;
+  min-height: 32px;
+}
+
+.focus-card h3 {
+  font-size: 25px;
+}
+
+.focus-card p {
+  font-size: 13px;
+  line-height: 1.8;
+  max-width: 220px;
+}
+
+.focus-card .btn {
+  font-size: 13px;
+  min-height: 42px;
+}
+
+.focus-info {
+  font-size: 11px;
+}
+
+.empty-state h3 {
+  font-size: 19px;
+}
+
+.empty-state p {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+/* --------------------------------------------------------------------------
+   6. Test studio, analytics, collections
+   -------------------------------------------------------------------------- */
+
+.test-landing-copy > h2 {
+  font-size: clamp(30px, 3.1vw, 42px);
+  line-height: 1.2;
+}
+
+.test-landing-copy > p {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.test-landing .pill,
+.sheet-footer {
+  font-size: 11px;
+}
+
+.exact-paper-copy h2 {
+  font-size: 30px;
+}
+
+.exact-paper-description {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.exact-paper-facts {
+  font-size: 12px;
+}
+
+.exact-paper-note {
+  font-size: 12px;
+  line-height: 1.65;
+}
+
+.exact-paper-field {
+  font-size: 12px;
+  gap: 7px;
+}
+
+.exact-paper-field select {
+  height: 46px;
+  font-size: 14px;
+}
+
+.exact-paper-selection strong {
+  font-size: 12px;
+}
+
+.exact-paper-selection span,
+.exact-paper-start-hint {
+  font-size: 11px;
+}
+
+.analytics-stats .stat-card {
+  padding: 22px;
+}
+
+.analytics-stats .stat-card > span {
+  font-size: 13px;
+  margin-bottom: 12px;
+}
+
+.analytics-stats .stat-card > strong {
+  font-size: 34px;
+}
+
+.mock-sheet h3 {
+  font-size: 19px;
+  margin-bottom: 18px;
+}
+
+.mock-sheet > div:not(.mock-title):not(.sheet-footer) {
+  font-size: 12.5px;
+  gap: 11px;
+  margin-bottom: 15px;
+}
+
+.sheet-footer {
+  font-size: 11.5px;
+  padding-top: 15px;
+}
+
+.sheet-footer span {
+  font-size: 22px;
+}
+
+.mock-sheet .stat-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.subject-breakdown h3 {
+  font-size: 15px;
+  margin-bottom: 9px;
+}
+
+.subject-breakdown h3 span {
+  font-size: 12px;
+}
+
+.subject-breakdown p {
+  font-size: 12px;
+}
+
+.week-chart {
+  height: 185px;
+}
+
+.week-chart > div {
+  font-size: 12px;
+  gap: 7px;
+}
+
+.week-chart small {
+  font-size: 11px;
+}
+
+.bar-area {
+  max-width: 34px;
+  background: #eef2e6;
+}
+
+.chart-note {
+  font-size: 12px;
+  line-height: 1.65;
+  margin-top: 18px;
+}
+
+.history-row .chapter-info h3 {
+  font-size: 14px;
+}
+
+.history-row .chapter-info p,
+.history-score > span {
+  font-size: 12px;
+}
+
+.history-score strong {
+  font-size: 20px;
+}
+
+.results h1 {
+  font-size: 30px;
+}
+
+.results > p {
+  font-size: 14px;
+}
+
+.notebook-card h3 {
+  font-size: 21px;
+}
+
+.notebook-card p {
+  font-size: 12px;
+}
+
+.saved-question .rich {
+  font-size: 15px;
+}
+
+.report-stat > span {
+  font-size: 11px;
+}
+
+.report-stat > strong {
+  font-size: 24px;
+}
+
+.report-stat > small {
+  font-size: 11px;
+}
+
+.report-section-heading h3 {
+  font-size: 16px;
+}
+
+.report-section-heading p {
+  font-size: 12px;
+}
+
+.report-solution .rich {
+  font-size: 13px;
+}
+
+.report-footer > span {
+  font-size: 11px;
+}
+
+.report-reply,
+.report-review-button,
+.report-empty,
+.report-context {
+  font-size: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   7. Practice & exam surfaces
+   -------------------------------------------------------------------------- */
+
+.practice-heading {
+  margin-bottom: 24px;
+}
+
+.practice-title h1 {
+  font-size: 28px;
+  line-height: 1.2;
+}
+
+.practice-title p {
+  font-size: 13px;
+}
+
+.practice-heading .text-button {
+  font-size: 13px;
+}
+
+.practice-heading .pill {
+  font-size: 12px;
+}
+
+.practice-aside .section-title h3 {
+  font-size: 15px;
+}
+
+.session-progress > span {
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.question-palette {
+  gap: 8px;
+}
+
+.question-palette > button {
+  height: 38px;
+  font-size: 13px;
+  border-radius: 7px;
+}
+
+.palette-legend {
+  font-size: 11px;
+  gap: 10px 16px;
+}
+
+.palette-legend i {
+  width: 8px;
+  height: 8px;
+}
+
+.practice-tip h3 {
+  font-size: 15px;
+}
+
+.practice-tip p {
+  font-size: 12.5px;
+  line-height: 1.75;
+}
+
+.question-card {
+  padding: 28px;
+}
+
+.q-number {
+  font-size: 11px;
+  letter-spacing: 1.3px;
+}
+
+.question-tags {
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.question-tags > span {
+  font-size: 11px;
+  padding: 5px 9px;
+}
+
+.question-text {
+  font-size: 16px;
+  line-height: 1.95;
+}
+
+.rich {
+  font-size: 15px;
+  line-height: 1.85;
+}
+
+.answer-options {
+  gap: 12px;
+}
+
+.answer-option {
+  min-height: 58px;
+  padding: 14px 15px;
+  gap: 14px;
+  border-radius: 11px;
+}
+
+.answer-option .rich {
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+.option-letter {
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+  border-radius: 8px;
+}
+
+.option-radio {
+  width: 18px;
+  height: 18px;
+}
+
+.question-actions {
+  margin-top: 24px;
+}
+
+.question-actions .btn {
+  min-height: 44px;
+}
+
+.question-navigation {
+  padding-top: 20px;
+  margin-top: 22px;
+}
+
+.question-navigation > span {
+  font-size: 12px;
+}
+
+.question-navigation .btn {
+  font-size: 13px;
+  min-height: 44px;
+}
+
+.solution-box {
+  padding: 22px;
+}
+
+.solution-heading h3 {
+  font-size: 16px;
+}
+
+.solution-box .rich {
+  font-size: 14px;
+  line-height: 1.9;
+}
+
+.solution-key {
+  font-size: 12px;
+}
+
+.numerical-answer input {
+  font-size: 15px;
+}
+
+.rich table {
+  font-size: 14px;
+}
+
+.rich td,
+.rich th {
+  padding: 7px 9px;
+}
+
+.report-solution .rich table {
+  font-size: 13px;
+}
+
+.timer-box span {
+  font-size: 11px;
+}
+
+.timer-box strong {
+  font-size: 22px;
+}
+
+/* --------------------------------------------------------------------------
+   8. Modals & forms
+   -------------------------------------------------------------------------- */
+
+.modal {
+  padding: 26px;
+}
+
+.modal-head {
+  margin-bottom: 22px;
+}
+
+.modal-head h2 {
+  font-size: 26px;
+  line-height: 1.3;
+}
+
+.modal-description {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.builder-label {
+  margin: 24px 0 14px;
+}
+
+.builder-label strong {
+  font-size: 15px;
+}
+
+.builder-label > span:last-child:not(.step-num) {
+  font-size: 12px;
+}
+
+.step-num {
+  font-size: 12px;
+}
+
+.builder-tabs > button {
+  font-size: 13px;
+  min-height: 40px;
+}
+
+.chapter-check-list label {
+  font-size: 13px;
+  min-height: 40px;
+}
+
+.chapter-check-list small {
+  font-size: 11px;
+}
+
+.form-grid label,
+.form-label,
+.form-grid > label {
+  font-size: 13px;
+}
+
+.form-hint {
+  font-size: 11.5px;
+  line-height: 1.6;
+}
+
+.form-grid select,
+.form-grid input:not([type="checkbox"]),
+.form-label input,
+.form-label select,
+.form-label textarea,
+.numerical-answer input,
+.preset-save input {
+  font-size: 14px;
+}
+
+.form-grid select,
+.form-grid input:not([type="checkbox"]),
+.form-label input,
+.form-label select {
+  min-height: 44px;
+}
+
+.check-options label {
+  font-size: 13px;
+  min-height: 30px;
+}
+
+.mode-cards h3 {
+  font-size: 16px;
+}
+
+.mode-cards p {
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.mode-tag {
+  font-size: 10px;
+}
+
+.data-note {
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.builder-bottom > span {
+  font-size: 13px;
+}
+
+.modal-actions .btn {
+  font-size: 14px;
+}
+
+.preset-chip button {
+  font-size: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   9. Mobile (≤ 680px)
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 680px) {
+  .main-content {
+    /* Room for the fixed bottom navigation (+ home indicator). */
+    padding: 18px 16px calc(100px + env(safe-area-inset-bottom)) !important;
+  }
+
+  /* --- top bar ---------------------------------------------------------- */
+  .topbar {
+    height: 58px;
+    padding: 0 14px;
+  }
+
+  .breadcrumb {
+    font-size: 13px;
+    min-width: 0;
+  }
+
+  .breadcrumb strong {
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .header-actions {
+    gap: 10px;
+  }
+
+  .header-streak {
+    font-size: 12px;
+    min-height: 34px;
+  }
+
+  .header-streak span {
+    display: inline;
+  }
+
+  .header-streak strong {
+    font-size: 12px;
+  }
+
+  .avatar {
+    width: 32px;
+    height: 32px;
+    font-size: 12px;
+    border-width: 2px;
+  }
+
+  .theme-toggle {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+    border-radius: 10px;
+  }
+
+  /* --- bottom navigation ------------------------------------------------ */
+  .mobile-bottom-nav {
+    gap: 4px;
+    padding: 8px 10px calc(8px + env(safe-area-inset-bottom));
+  }
+
+  .mobile-nav-item {
+    min-height: 56px;
+    gap: 5px;
+    font-size: 11px;
+    letter-spacing: 0.1px;
+  }
+
+  .mobile-nav-item svg {
+    width: 21px;
+    height: 21px;
+  }
+
+  /* --- page headings ---------------------------------------------------- */
+  .page-heading {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    row-gap: 14px;
+    column-gap: 12px;
+    margin-bottom: 22px;
+  }
+
+  .page-heading > div:first-child {
+    flex: 1 1 100%;
+    min-width: 0;
+  }
+
+  .page-heading h1 {
+    font-size: clamp(26px, 7.2vw, 32px);
+    line-height: 1.16;
+    letter-spacing: -0.7px;
+    margin-bottom: 8px;
+  }
+
+  .page-heading p {
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: none;
+  }
+
+  .page-heading > .btn {
+    align-self: flex-start;
+    min-height: 44px;
+    padding: 10px 16px;
+    font-size: 13px;
+  }
+
+  .page-heading > .date-chip {
+    align-self: flex-start;
+    font-size: 12px;
+  }
+
+  .page-heading > .pill {
+    display: none;
+  }
+
+  .eyebrow {
+    font-size: 10.5px;
+    letter-spacing: 1.3px;
+    margin-bottom: 8px;
+  }
+
+  /* --- hero: artwork must never sit under the headline ------------------ */
+  .hero {
+    display: block;
+    min-height: 0;
+    padding: 0;
+    border-radius: 16px;
+  }
+
+  .hero-copy {
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    padding: 24px 20px 22px;
+  }
+
+  .hero h2 {
+    position: relative;
+    z-index: 2;
+    font-size: clamp(26px, 7.4vw, 32px);
+    line-height: 1.18;
+    letter-spacing: -0.8px;
+  }
+
+  .hero p {
+    position: relative;
+    z-index: 2;
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 12px 0 18px;
+    max-width: 100%;
+  }
+
+  .hero-kicker {
+    position: relative;
+    z-index: 2;
+    font-size: 10px;
+    letter-spacing: 1.2px;
+    margin-bottom: 12px;
+  }
+
+  .orbit-art {
+    position: absolute;
+    right: -54px;
+    bottom: -42px;
+    top: auto;
+    width: 58%;
+    min-width: 0;
+    max-width: none;
+    margin: 0;
+    opacity: 0.14;
+    pointer-events: none;
+  }
+
+  /* Floating formula chips would drift under the CTA; hide them here. */
+  .orbit-art .formula,
+  .hero .formula {
+    display: none;
+  }
+
+  [data-theme="dark"] .orbit-art {
+    opacity: 0.22;
+  }
+
+  .orbit-art svg {
+    transform: none;
+  }
+
+  .orbit-caption {
+    display: none;
+  }
+
+  .hero-actions {
+    position: relative;
+    z-index: 2;
+    gap: 10px;
+  }
+
+  .hero-actions .btn {
+    min-height: 46px;
+    font-size: 14px;
+    padding: 11px 16px;
+  }
+
+  .hero-actions > span {
+    font-size: 12px;
+  }
+
+  /* --- stats ------------------------------------------------------------ */
+  .stats-row {
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+
+  .stat-card {
+    padding: 15px 14px;
+  }
+
+  .stat-top > span:first-child {
+    font-size: 13px;
+    line-height: 1.35;
+  }
+
+  .stat-card > strong {
+    font-size: 27px;
+    margin: 4px 0 6px;
+  }
+
+  .stat-card > small {
+    font-size: 11.5px;
+    line-height: 1.45;
+  }
+
+  /* --- sections --------------------------------------------------------- */
+  .section-title {
+    flex-wrap: wrap;
+    row-gap: 10px;
+    align-items: flex-end;
+  }
+
+  .section-title > div {
+    flex: 1 1 100%;
+    min-width: 0;
+  }
+
+  .section-title > .text-button {
+    margin-left: auto;
+    margin-top: -2px;
+  }
+
+  .section-title > svg {
+    flex: 0 0 auto;
+    margin-top: 2px;
+  }
+
+  .section-title h2 {
+    font-size: 20px;
+    line-height: 1.3;
+  }
+
+  .section-title p {
+    font-size: 13px;
+    margin-top: 5px;
+  }
+
+  .section-title .text-button {
+    font-size: 12px;
+  }
+
+  /* --- subject carousel ------------------------------------------------- */
+  .subject-cards {
+    grid-auto-columns: minmax(74%, 1fr);
+    gap: 12px;
+    padding: 2px 2px 10px;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: 2px;
+  }
+
+  .subject-card {
+    min-height: 0;
+    padding: 17px 16px;
+  }
+
+  .subject-card h3 {
+    font-size: 19px;
+  }
+
+  .subject-card > p {
+    font-size: 12px;
+    line-height: 1.6;
+    min-height: 0;
+  }
+
+  .subject-meta {
+    font-size: 11px;
+    gap: 6px;
+    margin-top: 12px;
+  }
+
+  .subject-progress {
+    margin-top: 12px;
+  }
+
+  .subject-progress > span {
+    font-size: 10px;
+  }
+
+  /* --- chapter browser -------------------------------------------------- */
+  .bank-tools {
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 12px 12px 8px;
+  }
+
+  .bank-tools > .search-field {
+    flex: 1 1 100%;
+  }
+
+  .search-field {
+    min-height: 44px;
+    height: 44px;
+  }
+
+  .search-field input {
+    font-size: 14px;
+  }
+
+  .bank-tools > select {
+    flex: 1 1 0;
+    min-width: 0;
+    max-width: none;
+    height: 42px;
+    font-size: 12.5px;
+  }
+
+  .subject-tabs {
+    min-height: 52px;
+    gap: 18px;
+  }
+
+  .subject-tabs button {
+    font-size: 13px;
+  }
+
+  .chapter-row,
+  .chapter-panel .chapter-list > .chapter-row,
+  .chapter-panel .chapter-list > .chapter-row + .chapter-row,
+  .chapter-panel .chapter-list > .chapter-row:last-child {
+    min-height: 78px;
+    padding: 11px;
+    gap: 11px;
+  }
+
+  .chapter-row .chapter-icon,
+  .chapter-panel .chapter-row .chapter-icon {
+    height: 40px;
+    width: 40px;
+  }
+
+  .chapter-info h3 {
+    font-size: 14.5px;
+    line-height: 1.35;
+  }
+
+  .chapter-info p {
+    font-size: 12px;
+    line-height: 1.4;
+  }
+
+  .chapter-count {
+    min-width: 56px;
+  }
+
+  .chapter-count strong {
+    font-size: 16px;
+  }
+
+  .chapter-count span {
+    font-size: 11px;
+  }
+
+  .chapter-row .progress-pill {
+    display: none;
+  }
+
+  .chapter-panel-footer {
+    font-size: 12px;
+    margin-inline: 10px;
+  }
+
+  .chapter-panel-footer button {
+    font-size: 12px;
+  }
+
+  /* --- analytics -------------------------------------------------------- */
+  .analytics-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .analytics-stats .stat-card {
+    padding: 15px 14px;
+  }
+
+  .analytics-stats .stat-card > span {
+    font-size: 12.5px;
+    margin-bottom: 8px;
+  }
+
+  .analytics-stats .stat-card > strong {
+    font-size: 27px;
+  }
+
+  .analytics-stats .stat-card:last-child {
+    grid-column: 1 / -1;
+  }
+
+  .analytics-grid {
+    gap: 14px;
+  }
+
+  .analytics-grid .white-panel,
+  .focus-areas,
+  .topic-trends {
+    padding: 18px 16px;
+  }
+
+  .week-chart {
+    height: 158px;
+    gap: 6px;
+  }
+
+  .week-chart > div {
+    gap: 6px;
+    font-size: 11px;
+  }
+
+  .week-chart small {
+    font-size: 10.5px;
+  }
+
+  .bar-area {
+    max-width: 26px;
+  }
+
+  .chart-note {
+    font-size: 12px;
+    margin-top: 14px;
+  }
+
+  .subject-breakdown {
+    gap: 11px;
+    margin-top: 18px;
+  }
+
+  .mock-sheet h3 {
+  font-size: 19px;
+  margin-bottom: 18px;
+}
+
+.mock-sheet > div:not(.mock-title):not(.sheet-footer) {
+  font-size: 12.5px;
+  gap: 11px;
+  margin-bottom: 15px;
+}
+
+.sheet-footer {
+  font-size: 11.5px;
+  padding-top: 15px;
+}
+
+.sheet-footer span {
+  font-size: 22px;
+}
+
+.mock-sheet .stat-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.subject-breakdown h3 {
+    font-size: 14px;
+  }
+
+  .subject-breakdown p {
+    font-size: 11.5px;
+  }
+
+  .empty-state {
+    padding: 30px 12px;
+    gap: 10px;
+  }
+
+  .empty-state h3 {
+    font-size: 17px;
+  }
+
+  .empty-state p {
+    font-size: 13px;
+  }
+
+  /* --- practice workspace ---------------------------------------------- */
+  /* Sticky practice header must be opaque so question text can't show through. */
+  .app-shell.practice-fullscreen .practice-heading,
+  .app-shell.exam-fullscreen .practice-heading,
+  .practice-heading {
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    box-shadow: 0 6px 15px -12px #1d33261f;
+  }
+
+  [data-theme="dark"] .app-shell.practice-fullscreen .practice-heading,
+  [data-theme="dark"] .app-shell.exam-fullscreen .practice-heading,
+  [data-theme="dark"] .practice-heading {
+    background: #0d1412;
+    border-bottom-color: #26352e;
+  }
+
+  .practice-heading .text-button {
+    font-size: 13px;
+    min-height: 40px;
+  }
+
+  .practice-heading .pill {
+    font-size: 11px;
+  }
+
+  .practice-title h1 {
+    font-size: 23px;
+    line-height: 1.22;
+  }
+
+  .practice-title p {
+    font-size: 12.5px;
+  }
+
+  .question-card {
+    padding: 18px 15px;
+    border-radius: 15px;
+  }
+
+  .q-number {
+    font-size: 11px;
+  }
+
+  .question-header .icon-button {
+    width: 40px;
+    height: 40px;
+  }
+
+  .question-tags > span {
+    font-size: 11px;
+    padding: 5px 8px;
+  }
+
+  .question-text {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
+  .answer-option {
+    min-height: 56px;
+    padding: 13px 12px;
+    gap: 11px;
+  }
+
+  .answer-option .rich {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .option-letter {
+    width: 30px;
+    height: 30px;
+    font-size: 13px;
+  }
+
+  .question-actions .btn,
+  .question-navigation .btn {
+    font-size: 13px;
+    min-height: 46px;
+  }
+
+  .question-navigation > span {
+    font-size: 11px;
+  }
+
+  .solution-box {
+    padding: 17px 15px;
+  }
+
+  .solution-box .rich {
+    font-size: 14px;
+    line-height: 1.85;
+  }
+
+  .solution-heading h3 {
+    font-size: 15px;
+  }
+
+  .practice-tip {
+    display: none;
+  }
+
+  /* --- practice bottom dock: compact, never bury the last answer -------- */
+  .app-shell.practice-fullscreen .main-content.practice-main {
+    padding: 10px 13px calc(156px + env(safe-area-inset-bottom)) !important;
+  }
+
+  .app-shell.practice-fullscreen .practice-aside .white-panel {
+    gap: 7px;
+    max-height: none;
+    padding: 10px 13px calc(10px + env(safe-area-inset-bottom));
+    border-radius: 16px 16px 0 0;
+  }
+
+  .app-shell.practice-fullscreen .practice-aside .session-progress > span {
+    font-size: 11.5px;
+    margin-bottom: 5px;
+  }
+
+  .app-shell.practice-fullscreen .practice-aside .question-palette {
+    gap: 8px;
+    padding: 2px 0 0;
+    scrollbar-width: none;
+    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 90%, transparent 100%);
+    mask-image: linear-gradient(90deg, #000 0, #000 90%, transparent 100%);
+  }
+
+  .app-shell.practice-fullscreen .practice-aside .question-palette::-webkit-scrollbar {
+    display: none;
+  }
+
+  .app-shell.practice-fullscreen .practice-aside .question-palette > button {
+    flex: 0 0 40px;
+    width: 40px;
+    height: 40px;
+    font-size: 13px;
+  }
+
+  /* Timed tests: stack the dock so "Submit test" can never overlap the
+     question palette, and give the palette the full width to scroll in. */
+  /* Reserve space for the taller stacked dock so the last answer option
+     and the Previous/Next row can always be scrolled clear of it. */
+  .app-shell.exam-fullscreen .main-content.practice-main {
+    padding: 10px 13px calc(308px + env(safe-area-inset-bottom)) !important;
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .white-panel {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 8px;
+    max-height: 44dvh;
+    overflow-y: auto;
+    padding: 11px 13px calc(11px + env(safe-area-inset-bottom));
+    border-radius: 16px 16px 0 0;
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .session-progress,
+  .app-shell.exam-fullscreen .practice-aside .question-palette {
+    grid-column: 1 / -1;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .session-progress > span {
+    font-size: 11.5px;
+    margin-bottom: 5px;
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .question-palette {
+    gap: 8px;
+    padding: 2px 0 0;
+    scrollbar-width: none;
+    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 92%, transparent 100%);
+    mask-image: linear-gradient(90deg, #000 0, #000 92%, transparent 100%);
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .question-palette::-webkit-scrollbar {
+    display: none;
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .question-palette > button {
+    flex: 0 0 40px;
+    width: 40px;
+    height: 40px;
+    font-size: 13px;
+  }
+
+  .app-shell.exam-fullscreen .practice-aside .full-width {
+    grid-column: 1 / -1;
+    width: 100%;
+    min-height: 46px;
+    margin: 2px 0 0;
+    padding: 11px 16px;
+    font-size: 14px;
+  }
+
+  /* --- test studio ------------------------------------------------------ */
+  .test-landing {
+    padding: 22px 18px;
+  }
+
+  .test-landing-copy > h2 {
+    font-size: 28px;
+    line-height: 1.22;
+    letter-spacing: -0.6px;
+    margin: 16px 0;
+  }
+
+  .test-landing-copy > p {
+    font-size: 13.5px;
+    line-height: 1.65;
+  }
+
+  .exact-paper-copy h2 {
+    font-size: 25px;
+  }
+
+  .exact-paper-description {
+    font-size: 13.5px;
+  }
+
+  .exact-paper-facts {
+    flex-wrap: wrap;
+    font-size: 12px;
+    gap: 8px;
+  }
+
+  .exact-paper-note {
+    font-size: 12px;
+  }
+
+  .exact-paper-field select {
+    font-size: 14px;
+    height: 46px;
+  }
+
+  .exact-paper-selection strong {
+    font-size: 12px;
+  }
+
+  /* --- forms & modal sheet --------------------------------------------- */
+  .modal-backdrop {
+    padding: 0;
+  }
+
+  .modal,
+  .modal.wide {
+    padding: 20px 16px 0;
+    max-height: min(94dvh, 940px);
+    border-radius: 22px 22px 0 0;
+  }
+
+  .modal-head {
+    top: -20px;
+    margin: -20px -16px 16px;
+    padding: calc(16px + env(safe-area-inset-top)) 16px 12px;
+  }
+
+  .modal-head h2 {
+    font-size: 22px;
+    line-height: 1.25;
+  }
+
+  .modal-description {
+    font-size: 13.5px;
+    line-height: 1.65;
+    margin-bottom: 18px;
+  }
+
+  .builder-label {
+    margin: 20px 0 12px;
+  }
+
+  .builder-label strong {
+    font-size: 14.5px;
+  }
+
+  .builder-label > span:last-child:not(.step-num) {
+    font-size: 12px;
+  }
+
+  .builder-tabs > button {
+    font-size: 13px;
+    min-height: 44px;
+  }
+
+  .chapter-check-list {
+    max-height: 36dvh;
+    padding: 2px 12px;
+  }
+
+  .chapter-check-list label {
+    font-size: 13px;
+    min-height: 46px;
+    padding: 8px 2px;
+  }
+
+  .chapter-check-list small {
+    font-size: 11px;
+  }
+
+  .form-grid label,
+  .form-label {
+    font-size: 13px;
+  }
+
+  .form-hint {
+    font-size: 11.5px;
+  }
+
+  .check-options label {
+    font-size: 12.5px;
+  }
+
+  .data-note {
+    font-size: 12.5px;
+  }
+
+  .mode-cards h3 {
+    font-size: 16px;
+  }
+
+  .mode-cards p {
+    font-size: 12.5px;
+  }
+
+  .builder-bottom {
+    bottom: 0;
+    margin: 16px -16px 0;
+    padding: 12px 16px calc(14px + env(safe-area-inset-bottom));
+    border-top: 1px solid var(--line);
+    background: var(--white);
+  }
+
+  .builder-bottom > span {
+    font-size: 12px;
+  }
+
+  .preset-save input {
+    font-size: 14px;
+  }
+
+  /* --- misc ------------------------------------------------------------- */
+  .notebook-card h3 {
+    font-size: 19px;
+  }
+
+  .notebook-card p {
+    font-size: 12px;
+  }
+
+  .results h1 {
+    font-size: 26px;
+  }
+
+  .results > p {
+    font-size: 13.5px;
+  }
+
+  .report-stat > span {
+    font-size: 11px;
+  }
+
+  .report-stat > strong {
+    font-size: 22px;
+  }
+
+  .report-section-heading h3 {
+    font-size: 15px;
+  }
+
+  .report-solution .rich {
+    font-size: 13px;
+  }
+
+  .report-footer > span {
+    font-size: 11px;
+  }
+
+  .toast {
+    font-size: 13px;
+    bottom: calc(96px + env(safe-area-inset-bottom));
+  }
+}
+
+@media (max-width: 400px) {
+  .header-streak span {
+    display: none;
+  }
+
+  .stat-top {
+    gap: 6px;
+  }
+
+  .stat-top > span:first-child {
+    font-size: 12px;
+    line-height: 1.3;
+  }
+
+  .stat-card > small {
+    font-size: 11px;
+  }
+
+  .page-heading h1 {
+    font-size: 26px;
+  }
+
+  .subject-cards {
+    grid-auto-columns: 80%;
+  }
+
+  .center-note {
+    font-size: 12px;
+  }
+
+  .question-navigation .btn {
+    font-size: 12px;
+    padding: 10px 9px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   10. Tablet: the rail squeezed labels into two lines and clipped the brand
+   -------------------------------------------------------------------------- */
+
+@media (min-width: 681px) and (max-width: 1200px) {
+  .sidebar {
+    width: 224px;
+    padding-inline: 16px;
+  }
+
+  .main-shell {
+    margin-left: 224px;
+  }
+
+  .brand {
+    font-size: 23px;
+    gap: 10px;
+  }
+
+  .brand-mark {
+    width: 32px;
+    height: 33px;
+  }
+
+  .exam-switch {
+    padding: 12px 10px;
+  }
+
+  .exam-switch small {
+    font-size: 9px;
+    letter-spacing: 0.9px;
+    white-space: nowrap;
+    margin-bottom: 4px;
+  }
+
+  .nav-label {
+    font-size: 10px;
+    letter-spacing: 1.2px;
+  }
+
+  .nav-item {
+    font-size: 13px;
+    gap: 9px;
+    padding-inline: 8px;
+  }
+
+  .nav-item > span:first-of-type {
+    white-space: normal;
+  }
+
+  .nav-item .tiny-badge {
+    display: none;
+  }
+
+  .hero-copy {
+    padding: 28px 30px;
+    max-width: min(66%, 560px);
+  }
+
+  .hero h2 {
+    font-size: 33px;
+    text-wrap: balance;
+  }
+
+  .page-heading h1 {
+    font-size: 32px;
+  }
+
+  .subject-card h3 {
+    font-size: 19px;
+  }
+
+  .subject-card > p {
+    font-size: 12px;
+  }
+
+  .subject-meta {
+    font-size: 11px;
+    gap: 6px;
+  }
+
+  .chapter-info h3 {
+    font-size: 14px;
+  }
+
+  .chapter-info p {
+    font-size: 11.5px;
+  }
+
+  .chapter-count strong {
+    font-size: 17px;
+  }
+
+  .chapter-count span {
+    font-size: 11px;
+  }
+
+  .stat-card > strong {
+    font-size: 27px;
+  }
+
+  .stat-card > small {
+    font-size: 11.5px;
+  }
+
+  .main-content {
+    padding-inline: 26px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   11. Dark theme adjustments for anything recoloured above
+   -------------------------------------------------------------------------- */
+
+[data-theme="dark"] .bar-area {
+  background: #1c2a22;
+}
+
+[data-theme="dark"] .main-footer {
+  color: #9aab9a;
+}
+
+[data-theme="dark"] .builder-bottom {
+  border-top-color: #293a31;
+  background: #141f1a;
+}
+
+[data-theme="dark"] .answer-option,
+[data-theme="dark"] .chapter-check-list,
+[data-theme="dark"] .form-grid select,
+[data-theme="dark"] .form-grid input,
+[data-theme="dark"] .form-label input,
+[data-theme="dark"] .form-label select,
+[data-theme="dark"] .exact-paper-field select {
+  border-color: #2a3a32;
+}
+
+/* --------------------------------------------------------------------------
+   12. Reduced motion / print safety
+   -------------------------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .mobile-bottom-nav,
+  .orbit-art {
+    transition: none !important;
+  }
+}
