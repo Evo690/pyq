@@ -25,8 +25,7 @@ class PreviewHandler(SimpleHTTPRequestHandler):
     """Static handler with cache headers that suit an iterating preview."""
 
     def end_headers(self):
-        path = self.path.split("?", 1)[0]
-        if path.endswith(NO_STORE_SUFFIXES) or path == "/sw.js":
+        if self._is_no_store():
             self.send_header("Cache-Control", "no-store, must-revalidate")
             self.send_header("Pragma", "no-cache")
         else:
@@ -35,6 +34,23 @@ class PreviewHandler(SimpleHTTPRequestHandler):
         # preview free of console noise from the default strict handler.
         self.send_header("X-Content-Type-Options", "nosniff")
         super().end_headers()
+
+    def _is_no_store(self):
+        path = self.path.split("?", 1)[0]
+        # "/" and "/dir/" are served as index.html, so treat them as documents.
+        if path == "/" or path.endswith("/"):
+            return True
+        return path == "/sw.js" or path.endswith(NO_STORE_SUFFIXES)
+
+    def send_head(self):
+        # http.server answers a cached copy with 304 based on If-Modified-Since
+        # before our Cache-Control ever reaches the browser. Dropping the
+        # conditional headers for app code means every reload gets fresh bytes.
+        if self._is_no_store():
+            for header in ("If-Modified-Since", "If-None-Match"):
+                if header in self.headers:
+                    del self.headers[header]
+        return super().send_head()
 
     def do_GET(self):
         # Single-page routes are hash based, so any missing path that is not a
