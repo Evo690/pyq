@@ -555,6 +555,51 @@ function buildInsights({ rows, bySubject, byType, byChapter, totals, totalTime, 
   return insights;
 }
 
+/**
+ * Aggregate answered questions from past attempts into chapter and topic
+ * progress, so the question bank can show where you actually stand.
+ * Keys are `subject::chapter` and `subject::chapter::topic`.
+ */
+export function practiceProgress(attempts = []) {
+  const chapters = new Map();
+  const topics = new Map();
+
+  const bump = (map, key, result, at) => {
+    let entry = map.get(key);
+    if (!entry) {
+      entry = { attempted: 0, correct: 0, partial: 0, incorrect: 0, lastAt: 0 };
+      map.set(key, entry);
+    }
+    entry.attempted += 1;
+    if (result.status === "correct") entry.correct += 1;
+    else if (result.status === "partial") entry.partial += 1;
+    else if (result.status === "incorrect") entry.incorrect += 1;
+    entry.lastAt = Math.max(entry.lastAt, at || 0);
+  };
+
+  for (const attempt of attempts || []) {
+    const finishedAt = attempt.finishedAt || 0;
+    for (const question of attempt.questions || []) {
+      const answer = attempt.answers?.[question.uid];
+      if (!isAnswered(question, answer)) continue;
+      const result = scoreQuestion(question, answer);
+      const chapter = question.chapter || "";
+      bump(chapters, `${question.subject}::${chapter}`, result, finishedAt);
+      if (question.topic) {
+        bump(topics, `${question.subject}::${chapter}::${question.topic}`, result, finishedAt);
+      }
+    }
+  }
+
+  return { chapters, topics };
+}
+
+/** Accuracy for one aggregated progress entry. */
+export function progressAccuracy(entry) {
+  if (!entry?.attempted) return 0;
+  return (entry.correct + entry.partial * 0.5) / entry.attempted;
+}
+
 /** Group a list of attempts into a compact history for the library page. */
 export function recentAttempts(attempts, limit = 6) {
   return [...(attempts || [])]

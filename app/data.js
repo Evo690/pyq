@@ -229,11 +229,19 @@ export function offlineLibrary(exam) {
  * Load chapter questions for a free-practice session and take a balanced
  * random sample: unseen questions first, MCQ/numerical mixed.
  */
-export async function loadPracticeQuestions(exam, chapterFiles, count, { seen = {} } = {}) {
+export async function loadPracticeQuestions(
+  exam,
+  chapterFiles,
+  count,
+  { seen = {}, topics = null } = {},
+) {
   const seenFiles = [...new Set(chapterFiles)];
   const groups = await mapLimit(seenFiles, 5, async (source) => {
     const raw = await fetchJson(`${exam}/${source.file}`);
+    // `topics` maps `subject::chapter` to the topic names to keep.
+    const allowed = topics?.get(`${source.subject}::${source.name}`);
     return raw
+      .filter((item) => !allowed || allowed.has(item?.topic))
       .map((item) =>
         normalizeQuestion(item, {
           exam,

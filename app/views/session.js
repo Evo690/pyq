@@ -119,6 +119,7 @@ function questionBody(session) {
       <span class="chip plain">${TYPE_LABEL[question.type]}</span>
       <span class="chip plain">${DIFFICULTY_LABEL[question.difficulty] || "Medium"}</span>
       <span class="chip plain" title="Chapter">${escapeHtml(question.chapter || "Unclassified")}</span>
+      ${question.topic ? `<span class="chip plain" title="Topic">${escapeHtml(question.topic)}</span>` : ""}
     </div>
     <div class="q-stem">${escapeHtml(question.text)}</div>
     ${question.type === "numerical" ? numeric : `<div class="options">${options}</div>`}

@@ -3,6 +3,7 @@ import { escapeHtml, typesetMath, upgradeImages } from "./dom.js";
 import { getPrefs, setPrefs } from "./store.js";
 import * as home from "./views/home.js";
 import * as papers from "./views/papers.js";
+import * as bank from "./views/bank.js";
 import * as practice from "./views/practice.js";
 import * as library from "./views/library.js";
 import * as sessionView from "./views/session.js";
@@ -11,6 +12,7 @@ import * as analysis from "./views/analysis.js";
 const VIEWS = {
   home,
   papers,
+  bank,
   practice,
   library,
   session: sessionView,
@@ -20,7 +22,8 @@ const VIEWS = {
 const NAV = [
   { route: "home", hash: "#/", label: "Overview" },
   { route: "papers", hash: "#/papers", label: "Exact papers" },
-  { route: "practice", hash: "#/practice", label: "Practice" },
+  { route: "bank", hash: "#/bank", label: "Question bank" },
+  { route: "practice", hash: "#/practice", label: "Custom set" },
   { route: "library", hash: "#/library", label: "Library" },
 ];
 
@@ -30,6 +33,7 @@ const state = {
   online: typeof navigator === "undefined" ? true : navigator.onLine !== false,
   cleanup: null,
   renderToken: 0,
+  renderedHash: "",
 };
 
 const root = document.getElementById("app");
@@ -47,7 +51,7 @@ export function parseHash(hash = window.location.hash || "#/") {
     return { name: "analysis", params: { ...params, id: decodeURIComponent(segments[1]) } };
   }
   if (segments[0] === "session") return { name: "session", params };
-  const known = ["papers", "practice", "library"];
+  const known = ["papers", "practice", "library", "bank"];
   if (known.includes(segments[0])) return { name: segments[0], params };
   return { name: "home", params: {} };
 }
@@ -104,13 +108,17 @@ function updateNetPill() {
 export async function render() {
   const token = ++state.renderToken;
   const route = parseHash();
+  // A re-render of the same route (expanding a chapter, filtering a list) must
+  // not throw the reader back to the top of the page.
+  const sameRoute = state.renderedHash === window.location.hash;
+  const scrollY = sameRoute ? window.scrollY : 0;
   state.route = route;
 
   // Deep links (home cards, analysis "practise" links) carry the exam with them.
   const routeExam = route.params?.exam;
   if (
     routeExam &&
-    (route.name === "papers" || route.name === "practice") &&
+    (route.name === "papers" || route.name === "practice" || route.name === "bank") &&
     routeExam !== state.exam
   ) {
     state.exam = routeExam;
@@ -175,7 +183,10 @@ export async function render() {
       };
     }
     if (!isSession) setPrefs({ lastRoute: window.location.hash || "#/" });
-    if (!isSession) window.scrollTo(0, 0);
+    if (!isSession) {
+      window.scrollTo(0, scrollY);
+      state.renderedHash = window.location.hash;
+    }
   } catch (error) {
     console.error(error);
     if (token !== state.renderToken) return;

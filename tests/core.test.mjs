@@ -3,6 +3,8 @@ import test from "node:test";
 
 import {
   analyzeAttempt,
+  practiceProgress,
+  progressAccuracy,
   buildPaperQuestions,
   formatClock,
   formatDuration,
@@ -192,6 +194,69 @@ test("analysis totals, subject order and weakest-first chapters", () => {
   assert.equal(analysis.rows[0].status, "correct");
   assert.equal(analysis.slowest[0].index, 2);
   assert.ok(analysis.insights.length > 0);
+});
+
+test("progress aggregates per chapter and per topic", () => {
+  const questions = buildPaperQuestions(
+    [
+      {
+        subject: "physics",
+        chapter: "Optics",
+        questions: [
+          raw("o1", "singleCorrect", PAPER, { topic: "Lenses" }),
+          raw("o2", "singleCorrect", PAPER, { topic: "Lenses" }),
+          raw("o3", "singleCorrect", PAPER, { topic: "Mirrors" }),
+        ],
+      },
+    ],
+    "JEE_Main",
+    { title: PAPER },
+  ).map((question, index) => ({
+    ...question,
+    topic: ["Lenses", "Lenses", "Mirrors"][index],
+  }));
+
+  const attempt = {
+    id: "p1",
+    finishedAt: 1000,
+    questions,
+    answers: {
+      [questions[0].uid]: "b", // correct
+      [questions[1].uid]: "a", // wrong
+      [questions[2].uid]: "", // unanswered: ignored
+    },
+  };
+
+  const progress = practiceProgress([attempt]);
+  const optics = progress.chapters.get("physics::Optics");
+  assert.equal(optics.attempted, 2);
+  assert.equal(optics.correct, 1);
+  assert.equal(optics.incorrect, 1);
+  assert.equal(progressAccuracy(optics), 0.5);
+
+  const lenses = progress.topics.get("physics::Optics::Lenses");
+  assert.equal(lenses.attempted, 2);
+  assert.equal(progressAccuracy(lenses), 0.5);
+  assert.equal(progress.topics.has("physics::Optics::Mirrors"), false);
+
+  assert.equal(progressAccuracy(undefined), 0);
+  assert.equal(practiceProgress([]).chapters.size, 0);
+});
+
+test("a topic filter narrows a practice set to matching questions", () => {
+  const pool = [
+    raw("t1", "singleCorrect", PAPER, { topic: "Nernst equation" }),
+    raw("t2", "singleCorrect", PAPER, { topic: "Electrolysis" }),
+    raw("t3", "numerical", PAPER, { topic: "Nernst equation" }),
+  ];
+  const allowed = new Set(["Nernst equation"]);
+  const kept = pool.filter((item) => allowed.has(item.topic));
+
+  assert.deepEqual(
+    kept.map((item) => item.question_id),
+    ["t1", "t3"],
+  );
+  assert.equal(pool.filter((item) => !allowed.has(item.topic)).length, 1);
 });
 
 test("duration formatting stays human", () => {

@@ -20,12 +20,12 @@ No build step, no framework, no runtime dependencies. `sw.js` needs an `https://
 | --- | --- |
 | `index.html` | App shell: stylesheet, KaTeX, module entry point |
 | `app/app.js` | Hash router, page shell, exam context |
-| `app/core.js` | Pure logic — paper ordering, scoring, analysis summaries (unit tested) |
+| `app/core.js` | Pure logic — paper ordering, scoring, analysis summaries, chapter/topic progress (unit tested) |
 | `app/data.js` | Question-bank access, offline resolution, paper downloads |
 | `app/store.js` | localStorage persistence: downloads, attempts, session, preferences |
 | `app/session.js` | Practice/test engine: answers, per-question timing, autosave, submission |
 | `app/dom.js` | Safe HTML, KaTeX typesetting, toasts, dialogs |
-| `app/views/` | Overview, exact papers, practice, session, analysis, library |
+| `app/views/` | Overview, exact papers, question bank, custom set, session, analysis, library |
 | `data/` | The question bank, one JSON file per chapter, plus `index.json` and `papers.json` |
 | `vendor/katex/` | KaTeX 0.16 with woff2 fonts, for math without a CDN |
 | `sw.js` | Service worker: app shell, KaTeX fonts and diagram cache |
@@ -37,6 +37,27 @@ No build step, no framework, no runtime dependencies. `sw.js` needs an `https://
 A deliberately plain dark theme: warm neutral greys, hairline rules, one muted accent, no gradients
 and no decoration competing with the equation. Everything is responsive; dialogs become bottom
 sheets and the question palette becomes a drawer on phones.
+
+## Question bank — chapter-wise and topic-wise
+
+`#/bank` is the chapter-wise / topic-wise PYQ browser:
+
+- every chapter of the selected exam, grouped under Physics / Chemistry / Mathematics, with its PYQ
+  count and how many topics it contains;
+- open a chapter to list its topics with per-topic question counts;
+- **Practise** starts a set from exactly that chapter or that single topic, sized by the
+  "questions per set" control — the questions come straight from the chapter file and are filtered
+  by topic field, so a topic set contains only that topic;
+- search matches chapter *and* topic names, and the subject filter narrows to one subject;
+- your accuracy on each chapter and topic appears as a chip, aggregated from every saved sitting;
+- deep link `#/bank?exam=JEE_Main&chapter=physics:Thermodynamics` opens that chapter's topics, which
+  is how the analysis page sends you to a weak chapter.
+
+Each question also carries its chapter and topic in the session header and in the analysis review
+rows, so a set is never anonymous.
+
+`#/practice` (Custom set) remains the multi-chapter builder: tick several chapters, choose a size and
+difficulty, and run one mixed untimed set.
 
 ## Exact papers load in exam order
 
@@ -106,8 +127,9 @@ single-answer questions.
 
 `data/papers.json` indexes papers by year and shift, and points at the chapter files that contain
 each paper's questions. `data/index.json` is a compact chapter catalog (names, files and counts)
-used by the practice browser and the overview; regenerate it with `node scripts/build-index.mjs` if
-the chapter set changes. The older `data.zip` archive is kept in the repository but is no longer read by the app.
+used by the question bank, the custom-set builder and the overview. It also carries every chapter's
+topic list with counts (525 topics for JEE Main, 449 for JEE Advanced); regenerate it with
+`node scripts/build-index.mjs` if the chapter set changes. The older `data.zip` archive is kept in the repository but is no longer read by the app.
 
 ## Notes
 

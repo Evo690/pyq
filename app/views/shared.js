@@ -98,10 +98,10 @@ export async function beginPaper(ctx, paper, { onStatus } = {}) {
 }
 
 /** Build and open an untimed chapter practice session. */
-export async function beginPractice(ctx, { exam, chapters, count, difficulty, title }) {
+export async function beginPractice(ctx, { exam, chapters, count, difficulty, title, topics = null }) {
   if (!chapters.length) throw new Error("Select at least one chapter to practise.");
   if (!(await confirmReplace("a practice set"))) return null;
-  const questions = await loadPracticeQuestions(exam, chapters, count, { seen: seenMap() });
+  const questions = await loadPracticeQuestions(exam, chapters, count, { seen: seenMap(), topics });
   const filtered =
     difficulty && difficulty !== "all"
       ? questions.filter((question) => String(question.difficulty) === difficulty)

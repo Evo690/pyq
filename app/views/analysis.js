@@ -302,7 +302,7 @@ export async function render(ctx) {
       <div class="panel">
         <div class="section-head" style="margin-bottom:12px">
           <h3 style="margin:0">Chapter breakdown</h3>
-          <span class="hint">Weakest first · tap a chapter to drill it</span>
+          <span class="hint">Weakest first · open a chapter in the bank to drill its topics</span>
         </div>
         <div class="table-scroll">
         <table class="data-table">
@@ -337,7 +337,7 @@ export async function render(ctx) {
                   ${scoreLabel(chapter.score)}
                 </td>
                 <td>
-                  <a class="btn tiny ghost" href="#/practice?exam=${attempt.exam}&chapter=${encodeURIComponent(
+                  <a class="btn tiny ghost" href="#/bank?exam=${attempt.exam}&chapter=${encodeURIComponent(
                     `${chapter.subject}:${chapter.chapter}`,
                   )}">Practise</a>
                 </td>
@@ -396,9 +396,9 @@ export async function render(ctx) {
             <summary>
               <span class="st ${statusClass(row.status)}"></span>
               <span class="rn">${row.index}</span>
-              <span class="rt">${escapeHtml(row.question.chapter || "")} · ${TYPE_SHORT[row.question.type] || ""} · ${
-                DIFFICULTY_LABEL[row.question.difficulty] || ""
-              }</span>
+              <span class="rt">${escapeHtml(row.question.chapter || "")}${
+                row.question.topic ? ` › ${escapeHtml(row.question.topic)}` : ""
+              } · ${TYPE_SHORT[row.question.type] || ""} · ${DIFFICULTY_LABEL[row.question.difficulty] || ""}</span>
               <span class="rmeta">${row.marks > 0 ? "+" : ""}${scoreLabel(row.marks)} · ${row.time ? formatClock(row.time) : "0:00"}</span>
             </summary>
             <div class="review-body">
@@ -406,6 +406,7 @@ export async function render(ctx) {
                 <span class="chip subject-${row.question.subject}">${SUBJECT_LABEL[row.question.subject] || row.question.subject}</span>
                 <span class="chip plain">${TYPE_LABEL[row.question.type] || row.question.type}</span>
                 <span class="chip plain">${escapeHtml(row.question.paper || "")}</span>
+                ${row.question.topic ? `<span class="chip plain">${escapeHtml(row.question.topic)}</span>` : ""}
               </div>
               <div class="review-body-inner" data-review-body></div>
             </div>

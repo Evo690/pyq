@@ -49,7 +49,7 @@ export async function render(ctx) {
         </p>
         <div class="hero-actions">
           <a class="btn primary" href="#/papers">Choose an exact paper</a>
-          <a class="btn" href="#/practice">Practise by chapter</a>
+          <a class="btn" href="#/bank">Browse chapter by chapter</a>
         </div>
       </div>
       <aside class="hero-aside">

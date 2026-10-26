@@ -18,13 +18,6 @@ export async function render(ctx) {
     state.selected = new Set();
   }
 
-  const preset = ctx.params?.chapter;
-  if (preset) {
-    const [subject, ...rest] = preset.split(":");
-    const name = rest.join(":");
-    if (subject && name) state.selected.add(`${subject}::${name}`);
-  }
-
   let index = null;
   try {
     index = await getIndex();
@@ -49,10 +42,11 @@ export async function render(ctx) {
     <div class="section-head" style="align-items:flex-start;margin-bottom:10px">
       <div>
         <div class="eyebrow">Practice</div>
-        <h1 class="display" style="font-size:clamp(26px,3.6vw,36px);margin-top:12px">Take a chapter apart.</h1>
+        <h1 class="display" style="font-size:clamp(26px,3.6vw,36px);margin-top:12px">Mix chapters into one set.</h1>
         <p class="lede" style="margin-top:12px;font-size:14.5px">
-          Build a short untimed set from any chapters. Each question reveals its answer and worked
-          solution straight away, and every set ends in the same full analysis.
+          For a single chapter or topic, use the <a href="#/bank">question bank</a> — it starts a set in one click.
+          This page is for combining several chapters into one untimed session. Each question reveals its
+          answer and worked solution straight away, and every set ends in the same full analysis.
         </p>
       </div>
       ${examSwitch(ctx)}

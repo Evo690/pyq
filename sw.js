@@ -6,7 +6,7 @@
  * paper keeps its figures offline too.
  */
 
-const VERSION = "pyq-studio-v4";
+const VERSION = "pyq-studio-v5";
 const SHELL_CACHE = `${VERSION}-shell`;
 const RUNTIME_CACHE = `${VERSION}-runtime`;
 const IMAGE_CACHE = `${VERSION}-images`;
@@ -24,6 +24,7 @@ const SHELL = [
   "/app/session.js",
   "/app/store.js",
   "/app/views/analysis.js",
+  "/app/views/bank.js",
   "/app/views/home.js",
   "/app/views/library.js",
   "/app/views/papers.js",

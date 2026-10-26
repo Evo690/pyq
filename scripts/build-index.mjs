@@ -20,12 +20,25 @@ for (const [exam, examData] of Object.entries(manifest.exams || {})) {
     if (!subject) continue;
     const chapters = Object.entries(subject.chapters || {})
       .sort(([left], [right]) => left.toLowerCase().localeCompare(right.toLowerCase()))
-      .map(([name, chapter]) => ({ name, file: chapter.file, count: chapter.count }));
+      .map(([name, chapter]) => ({
+        name,
+        file: chapter.file,
+        count: chapter.count,
+        // Topics let the question bank be browsed chapter-wise and topic-wise.
+        topics: (chapter.topics || [])
+          .map((topic) => ({ name: topic.name, count: topic.count }))
+          .sort((left, right) => right.count - left.count || left.name.localeCompare(right.name)),
+      }));
     subjects.push({ key, name: subject.name, chapters });
   }
   output.exams[exam] = { subjects };
   output.totals[exam] = subjects.reduce(
     (sum, subject) => sum + subject.chapters.reduce((inner, chapter) => inner + chapter.count, 0),
+    0,
+  );
+  output.topicCounts = output.topicCounts || {};
+  output.topicCounts[exam] = subjects.reduce(
+    (sum, subject) => sum + subject.chapters.reduce((inner, chapter) => inner + chapter.topics.length, 0),
     0,
   );
 }
