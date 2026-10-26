@@ -1,20 +1,117 @@
 # PYQ Studio
 
-A static JEE previous-year-question practice workspace. Serve the repository root with any static web server (for example, `python3 -m http.server 4173`) and open the served page. The question bank is available as ordinary JSON files under `data/`, extracted from the checked-in `data.zip`, so standard static hosting can load each file directly. The ZIP fallback remains available for hosts that omit the extracted `/data` directory. `data/papers.json` indexes the exact paper titles and the chapter files that contain each paper.
+A quiet, offline-first workspace for real JEE previous-year questions. Sit complete papers in
+exam order, download them for a connection-free session, and read a full analysis of every attempt.
 
-## Practice experience
+The whole site is static. Serve the repository root with any static file server and open the served
+page:
 
-- Practice and custom tests use randomized, topic/difficulty-balanced selection. Chapter sessions prefer newer exam years while remaining random within a year; questions you have not seen are preferred, and the least-recently-seen questions return when a pool is exhausted.
-- Test Studio can launch an exact full-paper PYQ mock: choose an available year and shift for JEE Main, or Paper 1 / Paper 2 for JEE Advanced. It uses the selected sitting’s complete question set rather than a randomized sample, then runs in the existing timed, autosaved exam flow and appears in test history. The source data does not include original question numbers, so questions are grouped by subject and chapter. JEE Advanced multi-correct items are included but left unscored because source keys may be incomplete.
-- Timed tests use a clean exam layout that hides question-bank tags, save/report controls, and practice tips, and request browser fullscreen when permitted. An in-app exam view remains available if fullscreen is blocked. Unfinished tests autosave answers, review marks, the current question, and an absolute deadline so the remaining time is preserved across reloads. Resume or discard a saved test from Overview or Test Studio.
-- Incorrect and skipped questions enter a spaced-review queue. Misses come back the next day; successful reviews expand through 1, 3, 7, 14, 30, 60, and 90-day intervals. Due questions can be launched as a focused review session.
-- Adaptive daily and weak-topic practice prioritizes due reviews, then blends lower-accuracy topics with general questions and adjusts difficulty preference to recent performance.
-- Progress analytics show per-topic accuracy and a short-term trend (latest five scored answers versus the previous five). Each completed custom test has a dedicated report page (open it from Test Studio or Progress history) with score, easy/medium/hard accuracy, topic breakdown, first-half versus second-half accuracy, per-question answer status, and time spent on each question (recorded for new tests). Topics with at least three recent scored answers and accuracy below 65% also get a focused-practice recommendation.
-- Save reusable test-builder setups for chapter selection, question count, time, year, and difficulty.
-- Flag a possible answer-key, solution, diagram, duplicate, or other question issue from the question view. Reports are stored locally and included in workspace backups; they are not uploaded automatically.
-- Keyboard controls: left/right arrows move between questions, 1–4 select an answer, M toggles a test review mark, C clears the current test answer, and Enter advances (or opens the final-submit prompt). Shortcuts pause while a modal or text field is active.
-- A persistent light/dark theme toggle remembers the student’s choice and restyles the full workspace, dialogs, analytics cards, and timed-test controls.
-- Chapter selection opens a dedicated workspace instead of a dialog. Practice sessions use a focused viewport with global navigation hidden; on small screens, primary destinations use a thumb-friendly bottom bar, dialogs become bottom sheets, controls respect device safe areas, and test/practice question navigation stays in a compact bottom dock.
-- Question, solution, and answer-option diagrams load lazily with asynchronous decoding, scale to the available desktop/mobile viewport, and show an accessible fallback when a source image cannot load.
+```bash
+python3 -m http.server 4173
+# then open http://localhost:4173
+```
 
-Progress and settings remain in this browser's local storage. Export a workspace backup before moving to another device. Run the focused logic tests with `node --test tests/experience.test.mjs`.
+No build step, no framework, no runtime dependencies. `sw.js` needs an `https://` origin or
+`localhost`; on plain `http://` everything works except the offline app shell.
+
+## What is here
+
+| Path | Purpose |
+| --- | --- |
+| `index.html` | App shell: stylesheet, KaTeX, module entry point |
+| `app/app.js` | Hash router, page shell, exam context |
+| `app/core.js` | Pure logic — paper ordering, scoring, analysis summaries (unit tested) |
+| `app/data.js` | Question-bank access, offline resolution, paper downloads |
+| `app/store.js` | localStorage persistence: downloads, attempts, session, preferences |
+| `app/session.js` | Practice/test engine: answers, per-question timing, autosave, submission |
+| `app/dom.js` | Safe HTML, KaTeX typesetting, toasts, dialogs |
+| `app/views/` | Overview, exact papers, practice, session, analysis, library |
+| `data/` | The question bank, one JSON file per chapter, plus `index.json` and `papers.json` |
+| `vendor/katex/` | KaTeX 0.16 with woff2 fonts, for math without a CDN |
+| `sw.js` | Service worker: app shell, KaTeX fonts and diagram cache |
+| `scripts/build-index.mjs` | Rebuilds `data/index.json` from `data/manifest.json` |
+| `tests/core.test.mjs` | `node --test tests/core.test.mjs` |
+
+## The interface
+
+A deliberately plain dark theme: warm neutral greys, hairline rules, one muted accent, no gradients
+and no decoration competing with the equation. Everything is responsive; dialogs become bottom
+sheets and the question palette becomes a drawer on phones.
+
+## Exact papers load in exam order
+
+Choosing a paper loads **every** question that belongs to that sitting, ordered by:
+
+1. subject — Physics, then Chemistry, then Mathematics;
+2. question type inside each subject — MCQ (single correct), then multiple correct, then numerical;
+3. chapter, and source-file order within a chapter.
+
+So a JEE Main paper reads: *20 Physics MCQs → 5 Physics numericals → 20 Chemistry MCQs → 5 Chemistry
+numericals → 20 Mathematics MCQs → 5 Mathematics numericals*. The navigation palette mirrors those
+sections, and the same order is frozen into an offline download.
+
+The source data does not carry original question numbers, so the order above is the best faithful
+reconstruction available.
+
+## Download for offline
+
+Any paper can be saved from **Exact papers → Download for offline** (or from an analysis page).
+
+- The normalized question set — stems, options, keys, worked solutions and subject/chapter tags — is
+  written to `localStorage` under `pyq.studio.v2.offline-papers` and is roughly a few hundred
+  kilobytes per paper.
+- Diagrams are warm-cached through the service worker so they replay without a connection.
+- The app shell (JS, CSS, KaTeX and its fonts, the paper index) is precached by `sw.js`, so the site
+  itself opens offline too.
+- An offline copy is always preferred over the network, and the offline library shows what is stored
+  plus storage used. Remove a paper to reclaim space; browser storage quota is handled with a clear
+  message instead of a silent failure.
+
+Offline is not a separate mode: with no connection the library still opens saved papers, the timer
+still runs, and the analysis is still generated locally.
+
+## Analysis
+
+Every finished sitting opens a full page:
+
+- **Score band** — score / maximum, accuracy, attempted, skipped, time on questions, average time per
+  answer, marks lost to negative marking.
+- **What this sitting says** — generated insights: strongest and weakest subject, cost of wrong
+  answers, how much was left blank, chapters to revise, MCQ versus numerical accuracy, clock usage.
+- **By subject**, **by question type**, **by difficulty** — accuracy bars with counts and marks.
+- **Time distribution** — per-subject time, share of the clock used, the five slowest questions.
+- **Chapter breakdown** — answered chapters weakest first, with marks and one-tap practice links.
+- **Answer sheet** — every question as a coloured cell; click to open its review entry.
+- **Question review** — filters for wrong / skipped / correct, each question with your answer, the
+  correct answer, marks and the full worked solution (math typeset).
+
+## Marking scheme
+
+Practice-standard marking: **+4** correct, **−1** wrong MCQ or numerical. Multiple-correct questions
+score +4 fully, +1 per correct option chosen when no wrong option is chosen, and −2 if any wrong
+option is chosen. Some JEE Advanced source keys hold a single option, so those items behave as
+single-answer questions.
+
+## Keyboard shortcuts (during a sitting)
+
+| Key | Action |
+| --- | --- |
+| `←` / `→` | Previous / next question |
+| `1`–`4` | Select an option |
+| `M` | Mark / unmark for review |
+| `C` | Clear the current response |
+| `Enter` | In a numerical field: lock the answer and advance |
+
+## Data
+
+`data/papers.json` indexes papers by year and shift, and points at the chapter files that contain
+each paper's questions. `data/index.json` is a compact chapter catalog (names, files and counts)
+used by the practice browser and the overview; regenerate it with `node scripts/build-index.mjs` if
+the chapter set changes. The older `data.zip` archive is kept in the repository but is no longer read by the app.
+
+## Notes
+
+- Progress, downloads and preferences live only in this browser. Clearing site data erases them.
+- Attempts are capped at the 8 most recent to protect the storage quota; a full quota is reported
+  instead of silently dropping a download.
+- Diagrams that could not be cached offline show an inline note instead of a broken image.
