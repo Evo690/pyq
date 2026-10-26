@@ -6,7 +6,7 @@
  * paper keeps its figures offline too.
  */
 
-const VERSION = "pyq-studio-v3";
+const VERSION = "pyq-studio-v4";
 const SHELL_CACHE = `${VERSION}-shell`;
 const RUNTIME_CACHE = `${VERSION}-runtime`;
 const IMAGE_CACHE = `${VERSION}-images`;

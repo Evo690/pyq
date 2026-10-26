@@ -1,9 +1,9 @@
 /** Bits of UI and flow shared by several views. */
 
 import { EXAM_LABEL, SUBJECT_LABEL } from "../core.js";
-import { escapeHtml, toast } from "../dom.js";
+import { confirmDialog, escapeHtml, toast } from "../dom.js";
 import { loadPaperQuestions, loadPracticeQuestions } from "../data.js";
-import { hasOfflinePaper, seenMap } from "../store.js";
+import { getSession, hasOfflinePaper, seenMap } from "../store.js";
 import { startSession } from "../session.js";
 
 export const EXAMS = [
@@ -58,7 +58,22 @@ export function offlineChip(paper) {
 /**
  * Load a paper's questions (offline copy first) and open the timed session.
  */
+/** Starting something new silently would throw away recorded answers. */
+async function confirmReplace(next) {
+  const paused = getSession();
+  const answered = Object.keys(paused?.answers || {}).length;
+  if (!answered) return true;
+  return confirmDialog({
+    title: "Replace the unfinished sitting?",
+    body: `“${paused.title || "An earlier sitting"}” is still open with ${answered} answer${
+      answered === 1 ? "" : "s"
+    } recorded. Starting ${next} discards it.`,
+    confirm: "Start new sitting",
+  });
+}
+
 export async function beginPaper(ctx, paper, { onStatus } = {}) {
+  if (!(await confirmReplace("this paper"))) return null;
   onStatus?.("Loading the paper…");
   const result = await loadPaperQuestions(paper.exam, paper, {
     onProgress: (done, total) => onStatus?.(`Reading chapter files… ${done}/${total}`),
@@ -85,6 +100,7 @@ export async function beginPaper(ctx, paper, { onStatus } = {}) {
 /** Build and open an untimed chapter practice session. */
 export async function beginPractice(ctx, { exam, chapters, count, difficulty, title }) {
   if (!chapters.length) throw new Error("Select at least one chapter to practise.");
+  if (!(await confirmReplace("a practice set"))) return null;
   const questions = await loadPracticeQuestions(exam, chapters, count, { seen: seenMap() });
   const filtered =
     difficulty && difficulty !== "all"

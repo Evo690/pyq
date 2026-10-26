@@ -157,8 +157,23 @@ export async function render() {
     if (typeof result === "string") mount.innerHTML = result;
     typesetMath(mount);
     upgradeImages(mount);
-    const cleanup = view.mount?.(mount, ctx);
-    if (typeof cleanup === "function") state.cleanup = cleanup;
+    const viewCleanup = view.mount?.(mount, ctx);
+    // A view may hand back its own teardown (the session stops a timer and a
+    // document-level key handler); mount() may return one too.
+    const teardowns = [typeof result === "function" ? result : null, viewCleanup].filter(
+      (entry) => typeof entry === "function",
+    );
+    if (teardowns.length) {
+      state.cleanup = () => {
+        for (const teardown of teardowns) {
+          try {
+            teardown();
+          } catch {
+            /* a failed teardown must not block navigation */
+          }
+        }
+      };
+    }
     if (!isSession) setPrefs({ lastRoute: window.location.hash || "#/" });
     if (!isSession) window.scrollTo(0, 0);
   } catch (error) {

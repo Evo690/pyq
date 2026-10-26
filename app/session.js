@@ -74,6 +74,21 @@ export function restoreSession() {
   return current;
 }
 
+/** Stop the clock while the student is elsewhere; the sitting stays resumable. */
+export function pauseSession() {
+  if (!current) return;
+  flushTime();
+  stopTicker();
+  saveSession({ ...current, savedAt: Date.now() });
+}
+
+/** Restart the clock when the sitting view is opened again. */
+export function resumeSession() {
+  if (!current) return;
+  current.questionStartedAt = Date.now();
+  startTicker();
+}
+
 export function endSession() {
   stopTicker();
   current = null;

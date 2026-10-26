@@ -8,7 +8,7 @@ import {
   formatDate,
   formatDuration,
 } from "../core.js";
-import { confirmDialog, escapeHtml, percent, sanitizeHtml, scoreLabel, toast } from "../dom.js";
+import { confirmDialog, escapeHtml, hydrateQuestion, percent, scoreLabel, toast } from "../dom.js";
 import { downloadPaper, getPaperCatalog } from "../data.js";
 import { getAttempt, hasOfflinePaper, removeAttempt } from "../store.js";
 import { beginPaper, emptyState, examLabel } from "./shared.js";
@@ -44,7 +44,7 @@ function optionRows(question, given) {
       if (chosen && !correct) classes.push("is-wrong");
       return `<div class="${classes.join(" ")}" data-option="${escapeHtml(option.id)}" style="cursor:default">
         <span class="key">${"ABCDEFGH"[index] || index + 1}</span>
-        <span class="body">${sanitizeHtml(option.text)}</span>
+        <span class="body">${escapeHtml(option.text)}</span>
       </div>`;
     })
     .join("");
@@ -68,6 +68,26 @@ function correctText(question) {
   if (question.type === "numerical") return escapeHtml(question.answer || "—");
   const index = question.options.findIndex((option) => option.id === question.answer);
   return index === -1 ? escapeHtml(question.answer || "—") : "ABCDEFGH"[index];
+}
+
+/** Rebuilt when a review row is opened, so 75 questions do not typeset up front. */
+function reviewBodyHtml(question, answer) {
+  const answerRow = `<div class="review-answer-row">
+      <span><span class="k">Your answer</span><span class="v">${answerText(question, answer)}</span></span>
+      <span><span class="k">Correct answer</span><span class="v">${correctText(question)}</span></span>
+    </div>`;
+
+  return `
+    <div class="q-stem">${escapeHtml(question.text)}</div>
+    ${
+      question.type === "numerical"
+        ? answerRow
+        : `<div class="options">${optionRows(question, answer)}</div>${answerRow}`
+    }
+    <div class="solution">
+      <div class="solution-head">Worked solution</div>
+      <div data-solution-text>${escapeHtml(question.solution || "No solution is bundled for this question.")}</div>
+    </div>`;
 }
 
 export async function render(ctx) {
@@ -387,24 +407,7 @@ export async function render(ctx) {
                 <span class="chip plain">${TYPE_LABEL[row.question.type] || row.question.type}</span>
                 <span class="chip plain">${escapeHtml(row.question.paper || "")}</span>
               </div>
-              <div class="q-stem">${sanitizeHtml(row.question.text)}</div>
-              ${
-                row.question.type === "numerical"
-                  ? `<div class="review-answer-row">
-                      <span><span class="k">Your answer</span><span class="v">${answerText(row.question, row.given)}</span></span>
-                      <span><span class="k">Correct answer</span><span class="v">${correctText(row.question)}</span></span>
-                    </div>`
-                  : `<div class="options">${optionRows(row.question, row.given)}</div>
-                    <div class="review-answer-row">
-                      <span><span class="k">Your answer</span><span class="v">${answerText(row.question, row.given)}</span></span>
-                      <span><span class="k">Correct answer</span><span class="v">${correctText(row.question)}</span></span>
-                      <span><span class="k">Marks</span><span class="v">${row.marks > 0 ? "+" : ""}${scoreLabel(row.marks)}</span></span>
-                    </div>`
-              }
-              <div class="solution">
-                <div class="solution-head">Worked solution</div>
-                <div data-solution-text>${sanitizeHtml(row.question.solution || "No solution is bundled for this question.")}</div>
-              </div>
+              <div class="review-body-inner" data-review-body></div>
             </div>
           </details>`,
           )
@@ -415,6 +418,29 @@ export async function render(ctx) {
 }
 
 export function mount(root, ctx) {
+  const attempt = getAttempt(ctx.params.id);
+  const reviewList = root.querySelector("[data-review-list]");
+  const hydrateRow = (details) => {
+    if (!details.open) return;
+    const body = details.querySelector("[data-review-body]");
+    if (!body || body.dataset.hydrated === "1") return;
+    const question = attempt?.questions?.[Number(details.dataset.index) - 1];
+    if (!question) return;
+    body.innerHTML = reviewBodyHtml(question, attempt.answers?.[question.uid]);
+    body.dataset.hydrated = "1";
+    hydrateQuestion(body, question);
+  };
+
+  if (reviewList) {
+    reviewList.addEventListener(
+      "toggle",
+      (event) => {
+        if (event.target?.tagName === "DETAILS") hydrateRow(event.target);
+      },
+      true,
+    );
+  }
+
   root.addEventListener("click", async (event) => {
     const filter = event.target.closest("[data-filter]");
     if (filter) {
@@ -441,6 +467,7 @@ export function mount(root, ctx) {
           button.classList.toggle("primary", button.dataset.filter === "all");
         }
         item.open = true;
+        hydrateRow(item);
         item.scrollIntoView({ behavior: "smooth", block: "start" });
       }
       return;
@@ -449,7 +476,6 @@ export function mount(root, ctx) {
     const action = event.target.closest("[data-action]")?.dataset.action;
     if (!action) return;
 
-    const attempt = getAttempt(ctx.params.id);
     if (!attempt) return;
 
     if (action === "retake") {

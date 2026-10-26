@@ -15,8 +15,10 @@ import {
   elapsedSeconds,
   getCurrent,
   goTo,
+  pauseSession,
   remainingSeconds,
   restoreSession,
+  resumeSession,
   setAnswer,
   submit,
   toggleFlag,
@@ -245,6 +247,7 @@ function stopTimer() {
 export async function render(ctx, mount) {
   const session = getCurrent() || restoreSession();
   if (!session?.questions?.length) return emptyStateHtml();
+  resumeSession();
 
   mount.innerHTML = shellHtml(session, ctx);
   const questionCard = mount.querySelector("[data-question]");
@@ -469,5 +472,6 @@ export async function render(ctx, mount) {
   return () => {
     document.removeEventListener("keydown", onKey);
     stopTimer();
+    pauseSession();
   };
 }
