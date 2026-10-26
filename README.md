@@ -7,9 +7,14 @@ The whole site is static. Serve the repository root with any static file server 
 page:
 
 ```bash
-python3 -m http.server 4173
+python3 scripts/serve.py 4173
 # then open http://localhost:4173
 ```
+
+`scripts/serve.py` is a thin wrapper over `http.server` that adds two things the preview needs:
+`Cache-Control: no-store` for HTML, JS, CSS and JSON (so a plain reload always picks up edits instead
+of a 304 with stale code) and an `index.html` fallback for path-style routes. Any static server works
+if you prefer one.
 
 No build step, no framework, no runtime dependencies. `sw.js` needs an `https://` origin or
 `localhost`; on plain `http://` everything works except the offline app shell.
