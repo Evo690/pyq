@@ -355,6 +355,12 @@ function answerIsCorrect(question, answer) {
   );
 }
 
+const SUBJECT_META = {
+  physics: { key: "physics", label: "Physics", color: "mint", order: 0 },
+  chemistry: { key: "chemistry", label: "Chemistry", color: "peach", order: 1 },
+  math: { key: "math", label: "Mathematics", color: "lilac", order: 2 },
+};
+
 const summarizeGroup = (questions) => {
   const attempted = questions.filter(
     (question) => question.status === "correct" || question.status === "incorrect",
@@ -363,16 +369,22 @@ const summarizeGroup = (questions) => {
   const incorrect = questions.filter((question) => question.status === "incorrect").length;
   const skipped = questions.filter((question) => question.status === "skipped").length;
   const unscored = questions.filter((question) => question.status === "unscored").length;
+  const scoreableTotal = questions.length - unscored;
+  const maxScore = scoreableTotal * 4;
+  const score = correct * 4 - incorrect;
   return {
     total: questions.length,
-    scoreableTotal: questions.length - unscored,
+    scoreableTotal,
+    maxScore,
     attempted: attempted.length,
     correct,
     incorrect,
     skipped,
     unscored,
     accuracy: attempted.length ? Math.round((correct / attempted.length) * 100) : 0,
-    score: correct * 4 - incorrect,
+    score,
+    positiveMarks: correct * 4,
+    negativeMarks: incorrect,
   };
 };
 
@@ -382,33 +394,127 @@ export function analyzeTest(test = {}) {
     (question, index) => {
       const userAnswer = question.userAnswer;
       const hasAnswer = isAttempted(userAnswer);
-      const unscored = hasAnswer && question.type === "multipleCorrect";
-      const attempted = hasAnswer && !unscored;
-      const isCorrect = attempted
-        ? typeof question.isCorrect === "boolean"
-          ? question.isCorrect
-          : answerIsCorrect(question, userAnswer)
-        : false;
+      const unscored =
+        question.type === "multipleCorrect" &&
+        (hasAnswer || question.isCorrect === null);
+      const isMultiple = question.type === "multipleCorrect";
+      const status = !hasAnswer
+        ? "skipped"
+        : isMultiple
+          ? "unscored"
+          : (typeof question.isCorrect === "boolean"
+                ? question.isCorrect
+                : answerIsCorrect(question, userAnswer))
+            ? "correct"
+            : "incorrect";
+      const attempted = status === "correct" || status === "incorrect";
+      const isCorrect = status === "correct";
       const level = Number(question.difficulty_level);
+      const normalizedType =
+        question.type === "numerical"
+          ? "numerical"
+          : isMultiple
+            ? "multipleCorrect"
+            : "singleCorrect";
       return {
         ...question,
         index: index + 1,
         attempted,
-        unscored,
-        status: !hasAnswer
-          ? "skipped"
-          : unscored
-            ? "unscored"
-            : isCorrect
-              ? "correct"
-              : "incorrect",
-        isCorrect: attempted && isCorrect,
+        unscored: hasAnswer && isMultiple,
+        status,
+        questionType: normalizedType,
+        isCorrect,
         difficulty: [1, 2, 3].includes(level) ? level : null,
         timeSpentSeconds: Math.max(0, Number(question.timeSpentSeconds) || 0),
       };
     },
   );
-  const overall = summarizeGroup(questions);
+  // Ensure scoreableTotal excludes all multipleCorrect questions regardless of attempt
+  const normalizeSummary = (group) => {
+    const base = summarizeGroup(group);
+    const nonScorable = group.filter((q) => q.type === "multipleCorrect").length;
+    const scoreableTotal = group.length - nonScorable;
+    return {
+      ...base,
+      scoreableTotal,
+      maxScore: scoreableTotal * 4,
+    };
+  };
+  const overall = normalizeSummary(questions);
+
+  const subjectKeys = [
+    ...new Set([
+      "physics",
+      "chemistry",
+      "math",
+      ...questions.map((question) => question.subject).filter(Boolean),
+    ]),
+  ];
+  const subjects = subjectKeys
+    .map((key) => {
+      const group = questions.filter((question) => (question.subject || "") === key);
+      if (!group.length) return null;
+      const meta = SUBJECT_META[key] || {
+        key: key || "general",
+        label: key ? key[0].toUpperCase() + key.slice(1) : "General",
+        color: "mint",
+        order: 99,
+      };
+      const seconds = group.reduce((sum, question) => sum + question.timeSpentSeconds, 0);
+      const attemptedGroup = group.filter((question) => question.attempted);
+      const mcqGroup = group.filter((question) => question.questionType !== "numerical");
+      const numericalGroup = group.filter((question) => question.questionType === "numerical");
+      return {
+        key: meta.key,
+        label: meta.label,
+        color: meta.color,
+        order: meta.order,
+        ...normalizeSummary(group),
+        seconds,
+        averageSecondsPerAttempt: attemptedGroup.length
+          ? Math.round(
+              attemptedGroup.reduce((sum, q) => sum + q.timeSpentSeconds, 0) /
+                attemptedGroup.length,
+            )
+          : null,
+        mcq: normalizeSummary(mcqGroup),
+        numerical: normalizeSummary(numericalGroup),
+      };
+    })
+    .filter(Boolean)
+    .sort((left, right) => left.order - right.order || left.label.localeCompare(right.label));
+
+  const questionTypes = [
+    ["singleCorrect", "Single-correct MCQ"],
+    ["numerical", "Numerical value"],
+    ["multipleCorrect", "Multiple-correct"],
+  ]
+    .map(([type, label]) => {
+      const group = questions.filter((question) => question.questionType === type);
+      return {
+        type,
+        label,
+        ...normalizeSummary(group),
+        seconds: group.reduce((sum, question) => sum + question.timeSpentSeconds, 0),
+      };
+    })
+    .filter((group) => group.total > 0);
+
+  const chaptersMap = new Map();
+  for (const question of questions) {
+    const key = JSON.stringify([question.subject || "", question.chapter || ""]);
+    if (!chaptersMap.has(key)) chaptersMap.set(key, []);
+    chaptersMap.get(key).push(question);
+  }
+  const chapters = [...chaptersMap.values()]
+    .map((group) => ({
+      subject: group[0].subject || "",
+      chapter: group[0].chapter || "General",
+      ...normalizeSummary(group),
+      seconds: group.reduce((sum, question) => sum + question.timeSpentSeconds, 0),
+    }))
+    .sort((left, right) => right.score - left.score || right.total - left.total);
+
   const difficulty = [1, 2, 3, null].map((level) => {
     const group = questions.filter((question) => question.difficulty === level);
     return {
@@ -421,7 +527,7 @@ export function analyzeTest(test = {}) {
             : level === 3
               ? "Hard"
               : "Unrated",
-      ...summarizeGroup(group),
+      ...normalizeSummary(group),
       seconds: group.reduce((sum, question) => sum + question.timeSpentSeconds, 0),
     };
   }).filter((group) => group.total > 0);
@@ -440,7 +546,8 @@ export function analyzeTest(test = {}) {
       subject: group[0].subject || "",
       chapter: group[0].chapter || "",
       topic: group[0].topic || group[0].chapter || "Other",
-      ...summarizeGroup(group),
+      ...normalizeSummary(group),
+      seconds: group.reduce((sum, question) => sum + question.timeSpentSeconds, 0),
     }))
     .sort((left, right) => left.accuracy - right.accuracy || right.total - left.total);
   const measured = questions.filter((question) => question.timeSpentSeconds > 0);
@@ -453,18 +560,36 @@ export function analyzeTest(test = {}) {
     (sum, question) => sum + question.timeSpentSeconds,
     0,
   );
+  const correctSeconds = measured
+    .filter((question) => question.status === "correct")
+    .reduce((sum, question) => sum + question.timeSpentSeconds, 0);
+  const incorrectSeconds = measured
+    .filter((question) => question.status === "incorrect")
+    .reduce((sum, question) => sum + question.timeSpentSeconds, 0);
+  const skippedSeconds = measured
+    .filter((question) => question.status === "skipped")
+    .reduce((sum, question) => sum + question.timeSpentSeconds, 0);
   const half = Math.ceil(questions.length / 2);
-  const firstHalf = summarizeGroup(questions.slice(0, half));
-  const secondHalf = summarizeGroup(questions.slice(half));
+  const firstHalf = normalizeSummary(questions.slice(0, half));
+  const secondHalf = normalizeSummary(questions.slice(half));
+  const finalScore = Number.isFinite(Number(test.score)) ? Number(test.score) : overall.score;
   return {
     ...overall,
-    score: Number.isFinite(Number(test.score)) ? Number(test.score) : overall.score,
+    score: finalScore,
+    scorePercent: overall.maxScore > 0 ? Math.max(0, Math.round((finalScore / overall.maxScore) * 100)) : 0,
+    attemptRate: overall.scoreableTotal > 0 ? Math.round((overall.attempted / overall.scoreableTotal) * 100) : 0,
     totalSeconds: Math.max(0, Number(test.seconds) || measuredSeconds),
     measuredSeconds,
     measuredQuestions: measured.length,
+    correctSeconds,
+    incorrectSeconds,
+    skippedSeconds,
     averageSecondsPerAttempt: measuredAttempts.length
       ? Math.round(attemptedSeconds / measuredAttempts.length)
       : null,
+    subjects,
+    questionTypes,
+    chapters,
     difficulty,
     topics: topicBreakdown,
     halves: {

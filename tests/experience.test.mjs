@@ -16,6 +16,7 @@ import {
   normalizePaperCatalog,
   papersForYear,
 } from "../assets/exact-paper.mjs";
+import { TestAnalysisScreen } from "../assets/test-analysis.mjs";
 
 const questions = Array.from({ length: 12 }, (_, index) => ({
   uid: `q-${index}`,
@@ -511,4 +512,279 @@ test("chapter sampling prefers recent years while staying randomized within a ye
     ["2023", "2024"],
   );
   assert.equal(new Set(selected.map((question) => question.uid)).size, 2);
+});
+
+test("exact-paper assembly orders JEE sections as MCQs then numericals per subject", () => {
+  const title = "JEE Main 2026 (21 January Shift 1)";
+  const makeGroup = (subject, chapter, mcqCount, numCount, prefix) => ({
+    subject,
+    chapter,
+    questions: [
+      // Deliberately interleave numericals before MCQs in source input
+      ...Array.from({ length: numCount }, (_, i) => ({
+        question_id: `${prefix}-num-${String(i + 1).padStart(2, "0")}`,
+        type: "numerical",
+        paper_year_title: title,
+      })),
+      ...Array.from({ length: mcqCount }, (_, i) => ({
+        question_id: `${prefix}-mcq-${String(i + 1).padStart(2, "0")}`,
+        type: "singleCorrect",
+        paper_year_title: title,
+      })),
+    ],
+  });
+
+  const groups = [
+    makeGroup("math", "Calculus", 20, 5, "m"),
+    makeGroup("chemistry", "Organic", 20, 5, "c"),
+    makeGroup("physics", "Mechanics", 20, 5, "p"),
+  ];
+
+  const ordered = buildExactPaperQuestions(groups, "JEE_Main", { title });
+  assert.equal(ordered.length, 75);
+
+  const sliceSummary = (start, end) => {
+    const slice = ordered.slice(start, end);
+    return {
+      subjects: [...new Set(slice.map((q) => q.subject))],
+      types: [...new Set(slice.map((q) => q.type))],
+      count: slice.length,
+    };
+  };
+
+  assert.deepEqual(sliceSummary(0, 20), {
+    subjects: ["physics"],
+    types: ["singleCorrect"],
+    count: 20,
+  });
+  assert.deepEqual(sliceSummary(20, 25), {
+    subjects: ["physics"],
+    types: ["numerical"],
+    count: 5,
+  });
+  assert.deepEqual(sliceSummary(25, 45), {
+    subjects: ["chemistry"],
+    types: ["singleCorrect"],
+    count: 20,
+  });
+  assert.deepEqual(sliceSummary(45, 50), {
+    subjects: ["chemistry"],
+    types: ["numerical"],
+    count: 5,
+  });
+  assert.deepEqual(sliceSummary(50, 70), {
+    subjects: ["math"],
+    types: ["singleCorrect"],
+    count: 20,
+  });
+  assert.deepEqual(sliceSummary(70, 75), {
+    subjects: ["math"],
+    types: ["numerical"],
+    count: 5,
+  });
+});
+
+test("real JEE Main 2026 exact paper from data/ builds 20 MCQ + 5 numerical per subject", () => {
+  const examIndex = paperIndex.exams.JEE_Main;
+  const catalog = normalizePaperCatalog(examIndex);
+  const paper = catalog.find(
+    (entry) => entry.title === "JEE Main 2026 (21 January Shift 1)",
+  );
+  assert.ok(paper);
+
+  const groups = paper.sources.map((source) => ({
+    subject: source.subject,
+    chapter: source.chapter,
+    questions: JSON.parse(
+      readFileSync(
+        new URL(`../data/JEE_Main/${source.file}`, import.meta.url),
+        "utf8",
+      ),
+    ),
+  }));
+
+  const built = buildExactPaperQuestions(groups, "JEE_Main", paper);
+  assert.equal(built.length, 75);
+  assert.ok(
+    built
+      .slice(0, 20)
+      .every((q) => q.subject === "physics" && q.type === "singleCorrect"),
+  );
+  assert.ok(
+    built
+      .slice(20, 25)
+      .every((q) => q.subject === "physics" && q.type === "numerical"),
+  );
+  assert.ok(
+    built
+      .slice(25, 45)
+      .every((q) => q.subject === "chemistry" && q.type === "singleCorrect"),
+  );
+  assert.ok(
+    built
+      .slice(45, 50)
+      .every((q) => q.subject === "chemistry" && q.type === "numerical"),
+  );
+  assert.ok(
+    built
+      .slice(50, 70)
+      .every((q) => q.subject === "math" && q.type === "singleCorrect"),
+  );
+  assert.ok(
+    built
+      .slice(70, 75)
+      .every((q) => q.subject === "math" && q.type === "numerical"),
+  );
+});
+
+test("analyzeTest computes subject-wise marks, MCQ vs numerical split, and chapters without changing storage format", () => {
+  const report = analyzeTest({
+    id: "t-1",
+    exam: "JEE_Main",
+    title: "Full Mock",
+    minutes: 180,
+    seconds: 3200,
+    questions: [
+      {
+        uid: "p1",
+        subject: "physics",
+        chapter: "Mechanics",
+        topic: "Kinematics",
+        type: "singleCorrect",
+        options: [{ id: "A" }, { id: "B" }],
+        correct_answer: "A",
+        userAnswer: "A",
+        timeSpentSeconds: 60,
+      },
+      {
+        uid: "p2",
+        subject: "physics",
+        chapter: "Mechanics",
+        topic: "Dynamics",
+        type: "numerical",
+        correct_answer: "5",
+        userAnswer: "4",
+        timeSpentSeconds: 90,
+      },
+      {
+        uid: "c1",
+        subject: "chemistry",
+        chapter: "Thermodynamics",
+        topic: "Enthalpy",
+        type: "singleCorrect",
+        options: [{ id: "A" }, { id: "B" }],
+        correct_answer: "B",
+        userAnswer: "B",
+        timeSpentSeconds: 45,
+      },
+      {
+        uid: "m1",
+        subject: "math",
+        chapter: "Calculus",
+        topic: "Limits",
+        type: "numerical",
+        correct_answer: "10",
+        timeSpentSeconds: 20,
+      },
+    ],
+  });
+
+  assert.equal(report.score, 7);
+  assert.equal(report.maxScore, 16);
+  assert.equal(report.positiveMarks, 8);
+  assert.equal(report.negativeMarks, 1);
+  assert.deepEqual(
+    report.subjects.map((s) => ({
+      key: s.key,
+      score: s.score,
+      maxScore: s.maxScore,
+      correct: s.correct,
+      incorrect: s.incorrect,
+      skipped: s.skipped,
+      mcqScore: s.mcq.score,
+      numScore: s.numerical.score,
+    })),
+    [
+      {
+        key: "physics",
+        score: 3,
+        maxScore: 8,
+        correct: 1,
+        incorrect: 1,
+        skipped: 0,
+        mcqScore: 4,
+        numScore: -1,
+      },
+      {
+        key: "chemistry",
+        score: 4,
+        maxScore: 4,
+        correct: 1,
+        incorrect: 0,
+        skipped: 0,
+        mcqScore: 4,
+        numScore: 0,
+      },
+      {
+        key: "math",
+        score: 0,
+        maxScore: 4,
+        correct: 0,
+        incorrect: 0,
+        skipped: 1,
+        mcqScore: 0,
+        numScore: 0,
+      },
+    ],
+  );
+  assert.equal(report.chapters.length, 3);
+  assert.equal(report.questionTypes.length, 2);
+});
+
+test("TestAnalysisScreen renders subject marks and overview tree with lightweight React stub", () => {
+  const mockReact = {
+    createElement: (type, props, children) => ({ type, props: props || {}, children }),
+    useMemo: (fn) => fn(),
+    useState: (initial) => [initial, () => {}],
+    useEffect: () => {},
+  };
+
+  const tree = TestAnalysisScreen({
+    React: mockReact,
+    test: {
+      id: "1",
+      exam: "JEE_Main",
+      title: "JEE Main 2026 (21 January Shift 1)",
+      date: "2026-01-21T09:00:00.000Z",
+      minutes: 180,
+      seconds: 5400,
+      questions: [
+        {
+          uid: "q1",
+          subject: "physics",
+          chapter: "Optics",
+          type: "singleCorrect",
+          options: [{ id: "A", text: "10" }],
+          correct_answer: "A",
+          userAnswer: "A",
+        },
+        {
+          uid: "q2",
+          subject: "chemistry",
+          chapter: "Solutions",
+          type: "numerical",
+          correct_answer: "3",
+          userAnswer: "2",
+        },
+      ],
+    },
+    onBack: () => {},
+    onReview: () => {},
+  });
+
+  const serialized = JSON.stringify(tree);
+  assert.ok(serialized.includes("analysis-screen"));
+  assert.ok(serialized.includes("Marks & accuracy by subject"));
+  assert.ok(serialized.includes("Physics"));
+  assert.ok(serialized.includes("Chemistry"));
 });
