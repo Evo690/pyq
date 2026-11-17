@@ -1,6 +1,15 @@
 import { dataJson, requestExamFullscreen } from "./experience.mjs";
 
 const SUBJECT_ORDER = { physics: 0, chemistry: 1, math: 2 };
+const QUESTION_TYPE_ORDER = {
+  singleCorrect: 0,
+  multipleCorrect: 1,
+  numerical: 2,
+};
+
+function questionTypeRank(question) {
+  return QUESTION_TYPE_ORDER[question?.type] ?? 1;
+}
 
 /** Return a normalized, stable catalog for the paper selector. */
 export function normalizePaperCatalog(source = []) {
@@ -56,9 +65,11 @@ export function papersForYear(papers = [], year) {
 }
 
 /**
- * Build a complete paper from its source chapter files. The dataset has no
- * original question-number field, so questions are kept in a stable subject,
- * chapter, and source-file order rather than shuffled or sampled.
+ * Build a complete paper from its source chapter files in JEE section order:
+ * for each subject (Physics → Chemistry → Mathematics), all MCQ / objective
+ * questions come first followed by numerical-value questions (e.g. 20 MCQs
+ * then 5 numericals of Subject 1, then 20 MCQs and 5 numericals of Subject 2,
+ * and so on). Source IDs/chapters keep ties deterministic without shuffling.
  */
 export function buildExactPaperQuestions(groups, exam, paper) {
   if (!paper?.title) return [];
@@ -77,6 +88,7 @@ export function buildExactPaperQuestions(groups, exam, paper) {
     },
   );
   const selected = [];
+  let sourceOrder = 0;
 
   for (const group of orderedGroups) {
     const chapterName =
@@ -90,16 +102,38 @@ export function buildExactPaperQuestions(groups, exam, paper) {
       if (seen.has(uid)) continue;
       seen.add(uid);
       selected.push({
-        ...question,
-        uid,
-        exam,
-        subject: group.subject,
-        chapter: chapterName || question.chapter || "",
+        order: sourceOrder++,
+        item: {
+          ...question,
+          uid,
+          exam,
+          subject: group.subject,
+          chapter: chapterName || question.chapter || "",
+        },
       });
     }
   }
 
-  return selected;
+  selected.sort((left, right) => {
+    const a = left.item;
+    const b = right.item;
+    const leftSubject = SUBJECT_ORDER[a.subject] ?? 99;
+    const rightSubject = SUBJECT_ORDER[b.subject] ?? 99;
+    if (leftSubject !== rightSubject) return leftSubject - rightSubject;
+
+    const leftType = questionTypeRank(a);
+    const rightType = questionTypeRank(b);
+    if (leftType !== rightType) return leftType - rightType;
+
+    const leftId = String(a.question_id || "");
+    const rightId = String(b.question_id || "");
+    const idDiff = leftId.localeCompare(rightId);
+    if (idDiff !== 0) return idDiff;
+
+    return left.order - right.order;
+  });
+
+  return selected.map((entry) => entry.item);
 }
 
 /** Load only the chapter files that contain questions for the selected paper. */
@@ -267,7 +301,7 @@ export function ExactPaperPicker({ React, exam, start }) {
         h(
           "p",
           { className: "exact-paper-description", key: "description" },
-          "Choose a year and shift to sit a complete paper from the question bank. Every matching question is included; source files omit original question numbers, so items are grouped by subject and chapter.",
+          "Choose a year and shift to sit a complete paper from the question bank. Questions follow JEE section order by subject—MCQs first, then numerical-value questions for Physics, Chemistry, and Mathematics.",
         ),
         h("div", { className: "exact-paper-facts", key: "facts" }, [
           h(
