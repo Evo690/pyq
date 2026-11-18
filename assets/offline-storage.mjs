@@ -160,7 +160,12 @@ export function saveWorkspaceStore(store, storage) {
   const payload = serializeStore(store);
   try {
     const previous = target.getItem(STORE_KEY);
-    if (previous) target.setItem(STORE_BACKUP_KEY, previous);
+    // Only rotate a *valid* payload into the backup: after a recovery the
+    // primary may hold the corrupted copy, which must never replace the
+    // last good state.
+    if (previous && deserializeStore(previous)) {
+      target.setItem(STORE_BACKUP_KEY, previous);
+    }
   } catch {
     // Backup is best-effort; the primary write below is what matters.
   }

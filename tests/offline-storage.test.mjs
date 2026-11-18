@@ -127,6 +127,21 @@ test("loadWorkspaceStore recovers from a corrupted primary via the backup", () =
   assert.deepEqual(defaults.store.attempts, {});
 });
 
+test("a recovery save never overwrites the good backup with corrupted data", () => {
+  const storage = createMemoryStorage();
+  saveWorkspaceStore({ goal: 20, theme: "light" }, storage);
+  saveWorkspaceStore({ goal: 50, theme: "dark" }, storage);
+  const goodBackup = storage.getItem(STORE_BACKUP_KEY);
+  storage.setItem(STORE_KEY, "{ broken");
+
+  const recovered = loadWorkspaceStore({}, storage);
+  assert.equal(recovered.store.goal, 20);
+  saveWorkspaceStore(recovered.store, storage);
+
+  assert.equal(storage.getItem(STORE_BACKUP_KEY), goodBackup);
+  assert.equal(deserializeStore(storage.getItem(STORE_KEY)).store.goal, 20);
+});
+
 test("loadWorkspaceStore migrates legacy data and readWorkspaceStore returns the store only", () => {
   const storage = createMemoryStorage({
     [STORE_KEY]: JSON.stringify({ goal: 15, attempts: { a: 1 } }),
