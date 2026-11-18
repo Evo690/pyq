@@ -15,9 +15,33 @@ BUNDLE = Path(__file__).resolve().parents[1] / "assets" / "index-ff8d0e4d.js"
 REPLACEMENTS = [
     (
         "imports",
-        "compactExactPaperTest",
+        "readWorkspaceStore",
         r'''import{ExactPaperPicker}from"./exact-paper.mjs";import{TestAnalysisScreen}from"./test-analysis.mjs";import{dataJson,pickQuestions,topicInsights,topicPerformance,adaptivePracticeQuestions,dueReviewEntries,dueReviewCount,scheduleReview,analyzeTest,requestExamFullscreen,releaseExamFullscreen}from"./experience.mjs";''',
-        r'''import{ExactPaperPicker,compactExactPaperTest,restoreExactPaperTest,restoreExactPaperSession}from"./exact-paper.mjs";import{TestAnalysisScreen}from"./test-analysis.mjs";import{dataJson,pickQuestions,topicInsights,topicPerformance,adaptivePracticeQuestions,dueReviewEntries,dueReviewCount,scheduleReview,analyzeTest,requestExamFullscreen,releaseExamFullscreen,isScoreableQuestion,isCorrectAnswer}from"./experience.mjs";''',
+        r'''import{ExactPaperPicker,compactExactPaperTest,restoreExactPaperTest,restoreExactPaperSession}from"./exact-paper.mjs";import{OfflineCacheManager}from"./offline-ui.mjs";import{readWorkspaceStore,workspaceSaver}from"./offline-storage.mjs";import{TestAnalysisScreen}from"./test-analysis.mjs";import{dataJson,pickQuestions,topicInsights,topicPerformance,adaptivePracticeQuestions,dueReviewEntries,dueReviewCount,scheduleReview,analyzeTest,requestExamFullscreen,releaseExamFullscreen,isScoreableQuestion,isCorrectAnswer}from"./experience.mjs";''',
+    ),
+    (
+        "reliable-store-load",
+        "function gp(){return readWorkspaceStore(O3)}",
+        r'''function gp(){try{return{...O3,...JSON.parse(localStorage.getItem("pyq-studio-v1")||"{}")}}catch{return O3}}''',
+        r'''function gp(){return readWorkspaceStore(O3)}''',
+    ),
+    (
+        "reliable-store-save",
+        "workspaceSaver.schedule(G)",
+        r'''Ae.useEffect(()=>{try{localStorage.setItem("pyq-studio-v1",JSON.stringify(G))}catch{X("Storage is full. Export your progress from settings to keep a backup.")}},[G])''',
+        r'''Ae.useEffect(()=>{try{workspaceSaver.schedule(G)}catch{X("Storage is full. Export your progress from settings to keep a backup.")}},[G]),Ae.useEffect(()=>{const storageError=e=>X(e?.detail?.message||"Storage is full. Export your progress from settings to keep a backup.");return window.addEventListener("pyq:storage-error",storageError),()=>window.removeEventListener("pyq:storage-error",storageError)},[])''',
+    ),
+    (
+        "settings-offline-manager",
+        "f.jsx(OfflineCacheManager,{React:Ae,notify:r})",
+        r'''f.jsxs("div",{className:"source-note",children:[f.jsx(eu,{size:20})''',
+        r'''f.jsx(OfflineCacheManager,{React:Ae,notify:r}),f.jsxs("div",{className:"source-note",children:[f.jsx(eu,{size:20})''',
+    ),
+    (
+        "offline-source-note",
+        "download a paper for offline use",
+        r'''Some diagrams load from the source CDN and need internet access.''',
+        r'''Diagrams load from the source CDN; download a paper for offline use to keep them with you.''',
     ),
     (
         "rich-html-sanitizer",

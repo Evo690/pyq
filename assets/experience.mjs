@@ -12,6 +12,11 @@ export const JEE_MAIN_ARCHIVE_URL = "/jee-main-papers-by-year.zip";
 
 const archivePromises = new Map();
 
+/** Drop memoized ZIP bytes (after a failed/cleared cache, or in tests). */
+export function resetArchiveCache() {
+  archivePromises.clear();
+}
+
 function loadArchive(archiveUrl) {
   if (!archivePromises.has(archiveUrl)) {
     const promise = fetch(archiveUrl)
