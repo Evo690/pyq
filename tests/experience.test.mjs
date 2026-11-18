@@ -5,6 +5,9 @@ import {
   adaptivePracticeQuestions,
   analyzeTest,
   dueReviewEntries,
+  isCorrectAnswer,
+  isScoreableQuestion,
+  parseNumericalAnswerKey,
   pickQuestions,
   scheduleReview,
   topicInsights,
@@ -787,4 +790,40 @@ test("TestAnalysisScreen renders subject marks and overview tree with lightweigh
   assert.ok(serialized.includes("Marks & accuracy by subject"));
   assert.ok(serialized.includes("Physics"));
   assert.ok(serialized.includes("Chemistry"));
+});
+
+test("year-wise numerical keys support ranges, alternatives, and bonus items", () => {
+  assert.deepEqual(parseNumericalAnswerKey("18TO24"), {
+    kind: "range",
+    min: 18,
+    max: 24,
+    raw: "18TO24",
+  });
+  assert.deepEqual(parseNumericalAnswerKey("190 OR 210").values, [190, 210]);
+  assert.equal(parseNumericalAnswerKey("BONUS").kind, "bonus");
+
+  const range = { type: "numerical", correct_answer: "18TO24" };
+  const alternatives = { type: "numerical", correct_answer: "3730OR6460" };
+  const bonus = { type: "numerical", correct_answer: "BONUS" };
+  assert.equal(isScoreableQuestion(range), true);
+  assert.equal(isCorrectAnswer(range, "22"), true);
+  assert.equal(isCorrectAnswer(range, "25"), false);
+  assert.equal(isCorrectAnswer(alternatives, "6460"), true);
+  assert.equal(isCorrectAnswer(alternatives, "3731"), false);
+  assert.equal(isScoreableQuestion(bonus), false);
+  assert.equal(isCorrectAnswer(bonus, "1"), false);
+
+  const report = analyzeTest({
+    questions: [
+      { uid: "range", ...range, userAnswer: "22" },
+      { uid: "bonus", ...bonus, userAnswer: "1" },
+    ],
+  });
+  assert.deepEqual(
+    report.questions.map((question) => question.status),
+    ["correct", "unscored"],
+  );
+  assert.equal(report.scoreableTotal, 1);
+  assert.equal(report.maxScore, 4);
+  assert.equal(report.score, 4);
 });

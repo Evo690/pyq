@@ -7,17 +7,32 @@ const shuffle = (items) => {
   return result;
 };
 
-let archivePromise;
+export const DATA_ARCHIVE_URL = "/data.zip";
+export const JEE_MAIN_ARCHIVE_URL = "/jee-main-papers-by-year.zip";
 
-async function readArchiveEntry(path) {
-  archivePromise ??= fetch("/data.zip").then((response) => {
-    if (!response.ok) {
-      throw new Error("The bundled question archive could not be loaded.");
-    }
-    return response.arrayBuffer().then((buffer) => new Uint8Array(buffer));
-  });
+const archivePromises = new Map();
 
-  const bytes = await archivePromise;
+function loadArchive(archiveUrl) {
+  if (!archivePromises.has(archiveUrl)) {
+    const promise = fetch(archiveUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`The ${archiveUrl} question archive could not be loaded.`);
+        }
+        return response.arrayBuffer().then((buffer) => new Uint8Array(buffer));
+      })
+      .catch((error) => {
+        // A transient failure should not poison every later retry.
+        archivePromises.delete(archiveUrl);
+        throw error;
+      });
+    archivePromises.set(archiveUrl, promise);
+  }
+  return archivePromises.get(archiveUrl);
+}
+
+async function readArchiveEntry(archiveUrl, path) {
+  const bytes = await loadArchive(archiveUrl);
   const view = new DataView(bytes.buffer, bytes.byteOffset, bytes.byteLength);
   let endOfDirectory = -1;
   const searchStart = Math.max(0, bytes.length - 65_557);
@@ -29,7 +44,7 @@ async function readArchiveEntry(path) {
       break;
     }
   }
-  if (endOfDirectory < 0) throw new Error("The question archive is invalid.");
+  if (endOfDirectory < 0) throw new Error(`The ${archiveUrl} archive is invalid.`);
 
   const totalEntries = view.getUint16(endOfDirectory + 10, true);
   let cursor = view.getUint32(endOfDirectory + 16, true);
@@ -66,21 +81,45 @@ async function readArchiveEntry(path) {
     cursor += 46 + nameLength + extraLength + commentLength;
   }
 
-  throw new Error("The requested question file was not found in the archive.");
+  throw new Error(`The requested question file was not found in ${archiveUrl}.`);
+}
+
+/** Read one JSON member from a checked-in ZIP archive. */
+export async function archiveJson(archiveUrl, path) {
+  const bytes = await readArchiveEntry(archiveUrl, path);
+  return JSON.parse(new TextDecoder().decode(bytes));
+}
+
+function dataUrl(path) {
+  return `/data/${path.split("/").map(encodeURIComponent).join("/")}`;
 }
 
 /** Fetch a loose data file first, then read it from the checked-in ZIP archive. */
 export async function dataJson(path) {
-  const url = `/data/${path.split("/").map(encodeURIComponent).join("/")}`;
   try {
-    const response = await fetch(url);
+    const response = await fetch(dataUrl(path));
     if (response.ok) return await response.json();
   } catch {
     // A static host may not unpack data.zip into /data; use the archive below.
   }
 
-  const bytes = await readArchiveEntry(`data/${path}`);
-  return JSON.parse(new TextDecoder().decode(bytes));
+  return archiveJson(DATA_ARCHIVE_URL, `data/${path}`);
+}
+
+/**
+ * Load one year of exact JEE Main papers. A deployment may extract the large
+ * year files beneath /data/exact-papers; otherwise the checked-in year-wise
+ * ZIP is the source of truth.
+ */
+export async function exactPaperYearJson(fileName) {
+  try {
+    const response = await fetch(dataUrl(`exact-papers/${fileName}`));
+    if (response.ok) return await response.json();
+  } catch {
+    // Fall through to the checked-in archive.
+  }
+
+  return archiveJson(JEE_MAIN_ARCHIVE_URL, fileName);
 }
 
 /** Uniform Fisher-Yates shuffle. */
@@ -339,20 +378,101 @@ const isAttempted = (answer) =>
   answer !== "" &&
   (!Array.isArray(answer) || answer.length > 0);
 
-function answerIsCorrect(question, answer) {
-  if (!isAttempted(answer) || question?.type === "multipleCorrect") return false;
-  if (question?.type === "numerical") {
-    return (
-      Number.isFinite(Number(answer)) &&
-      Number.isFinite(Number(question.correct_answer)) &&
-      Math.abs(Number(answer) - Number(question.correct_answer)) < 1e-6
+const NUMERICAL_TOLERANCE = 1e-6;
+
+/**
+ * Year-wise JEE Main papers preserve the source answer key verbatim. Some
+ * numerical keys are a range, alternative accepted values, or a bonus/dropped
+ * marker. Parse those without changing the stored source key.
+ */
+export function parseNumericalAnswerKey(value) {
+  const raw = String(value ?? "").trim();
+  if (!raw) return { kind: "unscored", raw };
+  const normalized = raw.toUpperCase();
+
+  if (/^(BONUS|DROP(PED)?|ALL|ALL CORRECT|MARKS TO ALL)$/.test(normalized)) {
+    return { kind: "bonus", raw };
+  }
+
+  const range = normalized.match(
+    /^(-?\d+(?:\.\d+)?)\s*TO\s*(-?\d+(?:\.\d+)?)$/,
+  );
+  if (range) {
+    const first = Number(range[1]);
+    const second = Number(range[2]);
+    if (Number.isFinite(first) && Number.isFinite(second)) {
+      return {
+        kind: "range",
+        min: Math.min(first, second),
+        max: Math.max(first, second),
+        raw,
+      };
+    }
+  }
+
+  const parts = normalized
+    .split(/\s*(?:OR|,|\||\/)\s*/)
+    .map((part) => part.trim())
+    .filter(Boolean);
+  const values = parts.map(Number);
+  if (parts.length > 0 && values.every(Number.isFinite)) {
+    return { kind: "values", values, raw };
+  }
+
+  const exact = Number(raw);
+  if (Number.isFinite(exact)) {
+    return { kind: "values", values: [exact], raw };
+  }
+  return { kind: "unscored", raw };
+}
+
+function numericalRuleFor(question) {
+  if (question?.type !== "numerical") return null;
+  if (question.answerRule && typeof question.answerRule.kind === "string") {
+    return question.answerRule;
+  }
+  return parseNumericalAnswerKey(question?.correct_answer);
+}
+
+/** Whether the app can award +4 / −1 for this source item. */
+export function isScoreableQuestion(question) {
+  if (!question) return false;
+  if (question.type === "multipleCorrect" || question.bonus === true) return false;
+  if (question.type === "numerical") {
+    const rule = numericalRuleFor(question);
+    return rule?.kind === "values" || rule?.kind === "range";
+  }
+  if (Array.isArray(question.correct_answer)) return false;
+  return (question.options || []).some(
+    (option) => String(option?.id) === String(question.correct_answer),
+  );
+}
+
+/** Shared correctness check for live tests, practice, and historical reports. */
+export function isCorrectAnswer(question, answer) {
+  if (!isAttempted(answer) || !isScoreableQuestion(question)) return false;
+
+  if (question.type === "numerical") {
+    if (Array.isArray(answer)) return false;
+    const value = Number(answer);
+    if (!Number.isFinite(value)) return false;
+    const rule = numericalRuleFor(question);
+    if (rule?.kind === "range") {
+      return (
+        value >= rule.min - NUMERICAL_TOLERANCE &&
+        value <= rule.max + NUMERICAL_TOLERANCE
+      );
+    }
+    return (rule?.values || []).some(
+      (expected) => Math.abs(value - expected) < NUMERICAL_TOLERANCE,
     );
   }
-  return (
-    (question?.options || []).some(
-      (option) => String(option.id) === String(question.correct_answer),
-    ) && String(answer) === String(question.correct_answer)
-  );
+
+  return String(answer) === String(question.correct_answer);
+}
+
+function answerIsCorrect(question, answer) {
+  return isCorrectAnswer(question, answer);
 }
 
 const SUBJECT_META = {
@@ -394,13 +514,16 @@ export function analyzeTest(test = {}) {
     (question, index) => {
       const userAnswer = question.userAnswer;
       const hasAnswer = isAttempted(userAnswer);
-      const unscored =
-        question.type === "multipleCorrect" &&
-        (hasAnswer || question.isCorrect === null);
+      const answerRule = numericalRuleFor(question);
       const isMultiple = question.type === "multipleCorrect";
+      const unscoredQuestion =
+        isMultiple ||
+        question.bonus === true ||
+        answerRule?.kind === "bonus" ||
+        answerRule?.kind === "unscored";
       const status = !hasAnswer
         ? "skipped"
-        : isMultiple
+        : unscoredQuestion
           ? "unscored"
           : (typeof question.isCorrect === "boolean"
                 ? question.isCorrect
@@ -420,7 +543,8 @@ export function analyzeTest(test = {}) {
         ...question,
         index: index + 1,
         attempted,
-        unscored: hasAnswer && isMultiple,
+        scoreable: !unscoredQuestion,
+        unscored: unscoredQuestion && (hasAnswer || status === "unscored"),
         status,
         questionType: normalizedType,
         isCorrect,
@@ -432,7 +556,7 @@ export function analyzeTest(test = {}) {
   // Ensure scoreableTotal excludes all multipleCorrect questions regardless of attempt
   const normalizeSummary = (group) => {
     const base = summarizeGroup(group);
-    const nonScorable = group.filter((q) => q.type === "multipleCorrect").length;
+    const nonScorable = group.filter((q) => q.scoreable === false).length;
     const scoreableTotal = group.length - nonScorable;
     return {
       ...base,
