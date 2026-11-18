@@ -3835,3 +3835,51 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+/* Year-wise JEE Main archive: MathJax SVG, source tables, and exact-paper notes. */
+.rich mjx-container[jax="SVG"] {
+  display: inline-block;
+  max-width: 100%;
+  margin: 0 0.04em;
+  vertical-align: baseline;
+  color: inherit;
+}
+.rich mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  margin: 0.7em 0;
+  text-align: center;
+}
+.rich mjx-container[jax="SVG"] > svg {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  overflow: visible;
+  vertical-align: baseline;
+}
+.rich mjx-container[jax="SVG"] svg use {
+  color: inherit;
+}
+.rich picture {
+  display: block;
+}
+.rich source {
+  display: none;
+}
+.exact-paper-mathjax-defs {
+  position: absolute!important;
+  width: 0!important;
+  height: 0!important;
+  overflow: hidden!important;
+  pointer-events: none;
+}
+.exact-paper-source-note {
+  display: block;
+  margin-top: 8px;
+  color: #6f8060;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+[data-theme="dark"] .exact-paper-source-note {
+  color: #a9bd9b;
+}

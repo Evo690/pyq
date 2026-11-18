@@ -1,4 +1,15 @@
-import { dataJson, requestExamFullscreen } from "./experience.mjs";
+import {
+  dataJson,
+  exactPaperYearJson,
+  parseNumericalAnswerKey,
+  requestExamFullscreen,
+} from "./experience.mjs";
+import { EXACT_PAPER_CATALOG } from "./exact-paper-catalog.mjs";
+
+const JEE_MAIN_ARCHIVE = "jee-main-papers-by-year.zip";
+const SVG_NS = "http://www.w3.org/2000/svg";
+const MATH_DEFS_ID = "exact-paper-mathjax-defs";
+const MAX_CACHED_YEARS = 2;
 
 const SUBJECT_ORDER = { physics: 0, chemistry: 1, math: 2 };
 const QUESTION_TYPE_ORDER = {
@@ -6,9 +17,20 @@ const QUESTION_TYPE_ORDER = {
   multipleCorrect: 1,
   numerical: 2,
 };
+const SUBJECT_KEYS = {
+  physics: "physics",
+  chemistry: "chemistry",
+  mathematics: "math",
+  maths: "math",
+  math: "math",
+};
 
 function questionTypeRank(question) {
   return QUESTION_TYPE_ORDER[question?.type] ?? 1;
+}
+
+function normalizeSubject(value) {
+  return SUBJECT_KEYS[String(value || "").trim().toLowerCase()] || "general";
 }
 
 /** Return a normalized, stable catalog for the paper selector. */
@@ -27,11 +49,17 @@ export function normalizePaperCatalog(source = []) {
 
       return {
         ...paper,
-        id: String(paper.id || title),
+        id: String(paper.id || paper.slug || title),
+        slug: String(paper.slug || ""),
         title,
         year: String(paper.year || yearMatch?.[0] || ""),
         label: String(paper.label || labelMatch?.[1] || "Full paper"),
         questionCount: Number.isFinite(questionCount) ? questionCount : 0,
+        archiveFile: String(paper.archiveFile || ""),
+        source: String(paper.source || (paper.archiveFile ? JEE_MAIN_ARCHIVE : "data.zip")),
+        sessionOrder: Number.isFinite(Number(paper.sessionOrder))
+          ? Number(paper.sessionOrder)
+          : 0,
         sources: Array.isArray(paper.sources)
           ? paper.sources
               .map((sourceIndex) =>
@@ -53,23 +81,87 @@ export function availablePaperYears(papers = []) {
   ].sort((left, right) => Number(right) - Number(left));
 }
 
-/** Papers for one year, ordered by exam date and then by their display label. */
+/** Papers for one year, ordered by exam date/session and then display label. */
 export function papersForYear(papers = [], year) {
   return normalizePaperCatalog(papers)
     .filter((paper) => paper.year === String(year))
     .sort(
       (left, right) =>
         String(left.date || "").localeCompare(String(right.date || "")) ||
+        Number(left.sessionOrder || 0) - Number(right.sessionOrder || 0) ||
         left.label.localeCompare(right.label),
     );
 }
 
 /**
- * Build a complete paper from its source chapter files in JEE section order:
- * for each subject (Physics → Chemistry → Mathematics), all MCQ / objective
- * questions come first followed by numerical-value questions (e.g. 20 MCQs
- * then 5 numericals of Subject 1, then 20 MCQs and 5 numericals of Subject 2,
- * and so on). Source IDs/chapters keep ties deterministic without shuffling.
+ * Use the year-wise archive for every year it covers; keep older chapter-bank
+ * papers (and JEE Advanced papers) available as a fallback.
+ */
+export function mergePaperCatalogs(archivePapers = [], fallbackPapers = []) {
+  const primary = normalizePaperCatalog(archivePapers);
+  const coveredYears = new Set(primary.map((paper) => String(paper.year)));
+  const archiveDates = new Set(
+    primary.map(
+      (paper) =>
+        `${paper.year}:${String(paper.examDate || paper.date || "").slice(0, 10)}`,
+    ),
+  );
+  const fallback = normalizePaperCatalog(fallbackPapers).filter((paper) => {
+    const year = String(paper.year);
+    if (!coveredYears.has(year)) return true;
+    // Keep chapter-bank sittings from a covered year only when the archive
+    // has no paper on that exam date (for example, JEE Main 2018 08 Apr).
+    const legacyDate = String(paper.date || paper.examDate || "").slice(0, 10);
+    return !archiveDates.has(`${year}:${legacyDate}`);
+  });
+  const seen = new Set();
+  return [...primary, ...fallback].filter((paper) => {
+    const key = paper.id || paper.title;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+/** Load the selector catalog, preferring loose/checked-in catalog data. */
+export async function loadPaperCatalog(exam, options = {}) {
+  const loadIndex = options.loadIndex || dataJson;
+  const builtIn = options.archiveCatalog || EXACT_PAPER_CATALOG;
+
+  if (exam !== "JEE_Main") {
+    const index = await loadIndex("papers.json");
+    return normalizePaperCatalog(index?.exams?.[exam] || index);
+  }
+
+  let archivePapers = normalizePaperCatalog(builtIn?.exams?.[exam] || builtIn);
+  try {
+    const diskIndex = await loadIndex("exact-papers.json");
+    const diskPapers = normalizePaperCatalog(
+      diskIndex?.exams?.[exam] || diskIndex,
+    );
+    if (diskPapers.length) archivePapers = diskPapers;
+  } catch {
+    // The built-in generated catalog keeps the selector usable offline.
+  }
+
+  let legacyPapers = [];
+  try {
+    const legacyIndex = await loadIndex("papers.json");
+    legacyPapers = normalizePaperCatalog(
+      legacyIndex?.exams?.[exam] || legacyIndex,
+    );
+  } catch {
+    // Archive papers are still available when the chapter index is missing.
+  }
+
+  const merged = mergePaperCatalogs(archivePapers, legacyPapers);
+  if (!merged.length) throw new Error("The paper list could not be loaded.");
+  return merged;
+}
+
+/**
+ * Build a complete paper from its source chapter files in JEE section order.
+ * This is retained for years/exams that are not present in the year-wise ZIP.
  */
 export function buildExactPaperQuestions(groups, exam, paper) {
   if (!paper?.title) return [];
@@ -136,8 +228,330 @@ export function buildExactPaperQuestions(groups, exam, paper) {
   return selected.map((entry) => entry.item);
 }
 
-/** Load only the chapter files that contain questions for the selected paper. */
-export async function loadExactPaperQuestions(exam, paper) {
+function compactPaperSource(paper = {}) {
+  const fields = [
+    "id",
+    "slug",
+    "title",
+    "year",
+    "label",
+    "date",
+    "examDate",
+    "examDateLabel",
+    "questionCount",
+    "archiveFile",
+    "source",
+    "sourceUrl",
+  ];
+  const source = {};
+  for (const field of fields) {
+    if (paper[field] !== undefined && paper[field] !== null) {
+      source[field] = paper[field];
+    }
+  }
+  source.archiveFile = String(paper.archiveFile || "");
+  source.slug = String(paper.slug || paper.id || "");
+  source.source = String(paper.source || JEE_MAIN_ARCHIVE);
+  source.questionCount = Number(paper.questionCount) || 0;
+  return source;
+}
+
+function parseMathDefPaths(defs, doc) {
+  const xml = `<svg xmlns="${SVG_NS}"><defs>${String(defs || "")}</defs></svg>`;
+  const Parser =
+    typeof DOMParser !== "undefined" ? DOMParser : doc?.defaultView?.DOMParser;
+  if (Parser) {
+    const parsed = new Parser().parseFromString(xml, "image/svg+xml");
+    if (!parsed.querySelector("parsererror")) {
+      return [...parsed.querySelectorAll("path")];
+    }
+  }
+  const holder = doc.createElement("div");
+  holder.innerHTML = xml;
+  return [...holder.querySelectorAll("path")];
+}
+
+/**
+ * MathJax SVG in the archive references shared <path> definitions by ID.
+ * Install only those safe path nodes once in a hidden, global SVG defs host.
+ */
+export function installExactPaperMathDefs(
+  defs,
+  sourceKey = "default",
+  doc = typeof document !== "undefined" ? document : null,
+) {
+  if (!doc) return false;
+  let host = doc.getElementById(MATH_DEFS_ID);
+  const key = String(sourceKey || "default");
+  if (host?.getAttribute?.("data-source") === key) return true;
+
+  if (!host) {
+    host = doc.createElementNS(SVG_NS, "svg");
+    host.setAttribute("id", MATH_DEFS_ID);
+    host.setAttribute("class", "exact-paper-mathjax-defs");
+    host.setAttribute("aria-hidden", "true");
+    host.setAttribute("focusable", "false");
+    if (host.style) {
+      host.style.cssText =
+        "position:absolute;width:0;height:0;overflow:hidden;pointer-events:none";
+    }
+    (doc.body || doc.documentElement).appendChild(host);
+  }
+
+  const targetDefs = doc.createElementNS(SVG_NS, "defs");
+  let installed = 0;
+  for (const sourcePath of parseMathDefPaths(defs, doc)) {
+    const id = sourcePath.getAttribute("id");
+    const d = sourcePath.getAttribute("d");
+    if (!id || !d || !/^[A-Za-z][\w:.-]*$/.test(id)) continue;
+    const path = doc.createElementNS(SVG_NS, "path");
+    path.setAttribute("id", id);
+    path.setAttribute("d", d);
+    targetDefs.appendChild(path);
+    installed += 1;
+  }
+
+  if (typeof host.replaceChildren === "function") {
+    host.replaceChildren(targetDefs);
+  } else {
+    while (host.firstChild) host.removeChild(host.firstChild);
+    host.appendChild(targetDefs);
+  }
+  host.setAttribute("data-source", key);
+  return installed > 0;
+}
+
+function sourceTags(question) {
+  return (Array.isArray(question?.tags) ? question.tags : [])
+    .map((tag) => String(tag).toLowerCase())
+    .join(" ");
+}
+
+function isBonusSourceQuestion(question) {
+  const tags = sourceTags(question);
+  const key = String(question?.answerKey || "").trim().toUpperCase();
+  return (
+    tags.includes("dropped") ||
+    tags.includes("bonus") ||
+    /^(BONUS|DROP(PED)?|ALL|ALL CORRECT|MARKS TO ALL)$/.test(key)
+  );
+}
+
+function normalizeArchiveType(question) {
+  if (question?.type === "integer") return "numerical";
+  const correctCount = Array.isArray(question?.correctOptions)
+    ? question.correctOptions.length
+    : 0;
+  if (
+    question?.type === "mcqm" ||
+    correctCount > 1 ||
+    isBonusSourceQuestion(question)
+  ) {
+    return "multipleCorrect";
+  }
+  return "singleCorrect";
+}
+
+function normalizeArchiveQuestion(source, context, index) {
+  const position = Number.isFinite(Number(source?.position))
+    ? Number(source.position)
+    : index + 1;
+  const sourceId = String(source?.sourceId || `${context.paper.slug}-${position}`);
+  const uid = `${context.exam}:exact:${context.paper.slug}:${position}:${sourceId}`;
+  const subjectName = String(source?.subject || "General");
+  const subject = normalizeSubject(subjectName);
+  const type = normalizeArchiveType(source);
+  const bonus = isBonusSourceQuestion(source);
+  const answerKey = String(source?.answerKey ?? "").trim();
+  const options = (Array.isArray(source?.options) ? source.options : []).map(
+    (option, optionIndex) => ({
+      id: String(option?.label || String.fromCharCode(65 + optionIndex)),
+      text: String(option?.html || ""),
+      correct: Boolean(option?.correct),
+    }),
+  );
+  const correctOptionIds = (Array.isArray(source?.correctOptions)
+    ? source.correctOptions
+    : []
+  )
+    .map((optionIndex) => options[optionIndex]?.id)
+    .filter(Boolean);
+  const answerKeyLabels = answerKey
+    .split(/[^A-D]+/)
+    .filter((label) => /^[A-D]$/.test(label));
+
+  let correctAnswer;
+  if (type === "numerical") {
+    correctAnswer = answerKey;
+  } else if (type === "multipleCorrect") {
+    correctAnswer = correctOptionIds.length ? correctOptionIds : answerKeyLabels;
+  } else {
+    correctAnswer =
+      correctOptionIds[0] ||
+      (/^[A-D]$/.test(answerKey) ? answerKey : options[0]?.id || "");
+  }
+
+  const answerRule =
+    type === "numerical"
+      ? parseNumericalAnswerKey(correctAnswer)
+      : bonus
+        ? { kind: "bonus", raw: answerKey }
+        : undefined;
+
+  return {
+    uid,
+    question_id: sourceId,
+    exam: context.exam,
+    subject,
+    subjectName,
+    chapter: "Original paper",
+    topic: "Exact paper",
+    difficulty_level: null,
+    paper_year_title: context.title,
+    paper_year_short: String(context.year),
+    paperPosition: position,
+    position,
+    subjectNumber: source?.subjectNumber ?? null,
+    type,
+    sourceType: String(source?.type || ""),
+    typeLabel: bonus
+      ? "Dropped · all options accepted"
+      : String(source?.typeLabel || ""),
+    marks: source?.marks || { correct: 4, wrong: -1 },
+    question_text: String(source?.questionHtml || ""),
+    solution_text: String(source?.solutionHtml || ""),
+    options,
+    correct_answer: correctAnswer,
+    answerKey,
+    answerSource: String(source?.answerSource || ""),
+    correctOptions: Array.isArray(source?.correctOptions)
+      ? [...source.correctOptions]
+      : [],
+    tags: Array.isArray(source?.tags) ? [...source.tags] : [],
+    sourceUrl: String(source?.sourceUrl || ""),
+    bonus,
+    answerRule,
+    paperSource: context.paperSource,
+    source: JEE_MAIN_ARCHIVE,
+  };
+}
+
+function findArchivePaper(yearData, paper) {
+  const papers = Array.isArray(yearData?.papers)
+    ? yearData.papers
+    : Array.isArray(yearData?.questions)
+      ? [yearData]
+      : [];
+  return (
+    papers.find(
+      (entry) => paper?.slug && String(entry?.slug) === String(paper.slug),
+    ) ||
+    papers.find(
+      (entry) => paper?.title && String(entry?.title) === String(paper.title),
+    ) ||
+    papers.find(
+      (entry) => paper?.id && String(entry?.id) === String(paper.id),
+    ) ||
+    null
+  );
+}
+
+/**
+ * Convert one source paper into app questions while keeping the archive's
+ * exact `position` order, subject sequence, HTML, options, keys, and solutions.
+ */
+export function normalizeArchivePaperQuestions(
+  yearData,
+  paper,
+  exam = "JEE_Main",
+  options = {},
+) {
+  const sourcePaper = findArchivePaper(yearData, paper);
+  if (!sourcePaper) {
+    throw new Error(`The selected paper was not found in ${paper?.archiveFile || JEE_MAIN_ARCHIVE}.`);
+  }
+
+  const archiveFile = String(paper?.archiveFile || sourcePaper.archiveFile || "");
+  const mergedPaper = {
+    ...paper,
+    ...sourcePaper,
+    slug: String(paper?.slug || sourcePaper.slug || ""),
+    archiveFile,
+    title: String(sourcePaper.title || paper?.title || ""),
+    year: sourcePaper.year || paper?.year,
+    questionCount: Number(
+      sourcePaper.questions?.length ?? paper?.questionCount ?? 0,
+    ),
+    source: JEE_MAIN_ARCHIVE,
+  };
+  const paperSource = compactPaperSource(mergedPaper);
+  const context = {
+    exam,
+    paper: mergedPaper,
+    paperSource,
+    title: mergedPaper.title,
+    year: mergedPaper.year,
+  };
+
+  if (options.installDefs !== false) {
+    installExactPaperMathDefs(yearData?.mathjaxDefs, archiveFile || mergedPaper.slug);
+  }
+
+  return (Array.isArray(sourcePaper.questions) ? sourcePaper.questions : [])
+    .map((question, index) => normalizeArchiveQuestion(question, context, index))
+    .sort(
+      (left, right) =>
+        Number(left.paperPosition) - Number(right.paperPosition) ||
+        left.uid.localeCompare(right.uid),
+    );
+}
+
+const exactPaperYearCache = new Map();
+
+/** Small LRU cache: one 45 MB year file is enough; avoid retaining all years. */
+export async function loadExactPaperYear(
+  fileName,
+  loader = exactPaperYearJson,
+) {
+  const key = String(fileName || "");
+  if (!key) throw new Error("The exact-paper archive file is missing.");
+  if (!exactPaperYearCache.has(key)) {
+    const promise = Promise.resolve()
+      .then(() => loader(key))
+      .catch((error) => {
+        if (exactPaperYearCache.get(key) === promise) {
+          exactPaperYearCache.delete(key);
+        }
+        throw error;
+      });
+    exactPaperYearCache.set(key, promise);
+    while (exactPaperYearCache.size > MAX_CACHED_YEARS) {
+      const oldest = exactPaperYearCache.keys().next().value;
+      exactPaperYearCache.delete(oldest);
+    }
+  }
+  return exactPaperYearCache.get(key);
+}
+
+/** Load the exact paper from the year-wise ZIP, or fall back to chapter files. */
+export async function loadExactPaperQuestions(exam, paper, options = {}) {
+  if (exam === "JEE_Main" && paper?.archiveFile) {
+    const yearData = await loadExactPaperYear(
+      paper.archiveFile,
+      options.loadYear || exactPaperYearJson,
+    );
+    const questions = normalizeArchivePaperQuestions(
+      yearData,
+      paper,
+      exam,
+      options,
+    );
+    if (!questions.length) {
+      throw new Error("No questions were found for this paper in the source archive.");
+    }
+    return questions;
+  }
+
   const sources = [...(paper?.sources || [])].sort((left, right) => {
     const leftSubject = SUBJECT_ORDER[left.subject] ?? 99;
     const rightSubject = SUBJECT_ORDER[right.subject] ?? 99;
@@ -156,6 +570,93 @@ export async function loadExactPaperQuestions(exam, paper) {
   );
 
   return buildExactPaperQuestions(groups, exam, paper);
+}
+
+function responseFields(stored) {
+  if (!stored) return {};
+  const fields = ["userAnswer", "isCorrect", "timeSpentSeconds"];
+  const response = {};
+  for (const field of fields) {
+    if (Object.prototype.hasOwnProperty.call(stored, field)) {
+      response[field] = stored[field];
+    }
+  }
+  return response;
+}
+
+/**
+ * Completed exact-paper tests store small response refs rather than repeating
+ * megabytes of HTML/MathJax in localStorage. Rehydrate them from the ZIP.
+ */
+export function compactExactPaperTest(test) {
+  if (!test?.exactPaperSource) return test;
+  return {
+    ...test,
+    questions: (Array.isArray(test.questions) ? test.questions : []).map(
+      (question) => ({
+        uid: question.uid,
+        question_id: question.question_id,
+        subject: question.subject,
+        chapter: question.chapter,
+        topic: question.topic,
+        type: question.type,
+        difficulty_level: question.difficulty_level ?? null,
+        paper_year_title: question.paper_year_title,
+        paper_year_short: question.paper_year_short,
+        paperPosition: question.paperPosition,
+        correct_answer: question.correct_answer,
+        answerKey: question.answerKey,
+        answerRule: question.answerRule,
+        bonus: Boolean(question.bonus),
+        options: (question.options || []).map((option) => ({ id: option.id })),
+        userAnswer: question.userAnswer,
+        isCorrect: question.isCorrect,
+        timeSpentSeconds: question.timeSpentSeconds || 0,
+      }),
+    ),
+  };
+}
+
+export async function restoreExactPaperTest(
+  test,
+  loader = loadExactPaperQuestions,
+) {
+  if (!test?.exactPaperSource) return test;
+  const sourceQuestions = await loader("JEE_Main", test.exactPaperSource);
+  const stored = new Map(
+    (Array.isArray(test.questions) ? test.questions : []).map((question) => [
+      question.uid,
+      question,
+    ]),
+  );
+  return {
+    ...test,
+    questions: sourceQuestions.map((question) => ({
+      ...question,
+      ...responseFields(stored.get(question.uid)),
+    })),
+  };
+}
+
+export async function restoreExactPaperSession(
+  draft,
+  loader = loadExactPaperQuestions,
+) {
+  if (!draft?.exactPaperSource) return [];
+  const refs = Array.isArray(draft.questionRefs) ? draft.questionRefs : [];
+  const restored = await restoreExactPaperTest(
+    {
+      ...draft,
+      questions: refs.map((ref) => ({
+        ...ref,
+        userAnswer: draft.answers?.[ref.uid],
+        timeSpentSeconds: draft.questionTimes?.[ref.uid] || 0,
+        isCorrect: null,
+      })),
+    },
+    loader,
+  );
+  return restored.questions;
 }
 
 function PaperSelect({ React, label, value, disabled, onChange, children }) {
@@ -196,10 +697,9 @@ export function ExactPaperPicker({ React, exam, start }) {
     setCatalogLoading(true);
     setCatalogError("");
     setCatalogExam("");
-    dataJson("papers.json")
-      .then((index) => {
+    loadPaperCatalog(exam)
+      .then((papers) => {
         if (!current) return;
-        const papers = normalizePaperCatalog(index?.exams?.[exam]);
         const years = availablePaperYears(papers);
         const firstYear = years[0] || "";
         setCatalog(papers);
@@ -227,6 +727,7 @@ export function ExactPaperPicker({ React, exam, start }) {
   const selected =
     yearPapers.find((paper) => paper.id === paperId) || yearPapers[0] || null;
   const examName = exam === "JEE_Main" ? "JEE Main" : "JEE Advanced";
+  const fromArchive = Boolean(selected?.archiveFile);
 
   const beginMock = async () => {
     if (!selected || starting) return;
@@ -237,7 +738,7 @@ export function ExactPaperPicker({ React, exam, start }) {
       const questions = await loadExactPaperQuestions(exam, selected);
       if (!questions.length) {
         throw new Error(
-          "No questions were found for this paper in the question bank.",
+          "No questions were found for this paper in the source archive.",
         );
       }
       if (questions.length !== selected.questionCount) {
@@ -277,6 +778,16 @@ export function ExactPaperPicker({ React, exam, start }) {
         .join(" · ")
     : "";
 
+  const description =
+    exam === "JEE_Main"
+      ? "Choose a year and shift to sit the original JEE Main paper. Its questions, options, answer keys and worked solutions come directly from the year-wise archive in the exact source order. Papers not represented in the archive use the chapter question bank."
+      : "Choose a year and paper to sit a complete JEE Advanced paper from the question bank, ordered by subject—MCQs first, then numerical-value questions.";
+
+  const note =
+    exam === "JEE_Advanced"
+      ? "Choose Paper 1 or Paper 2. This practice mock uses +4 / −1 scoring; multi-correct responses are included but left unscored when source keys are incomplete."
+      : "Three-hour timed mock using +4 / −1 scoring. Range, alternate-value, dropped and bonus keys are preserved from the source and left unscored rather than marked wrong.";
+
   return h(
     "section",
     { className: "exact-paper-card", "aria-labelledby": "exact-paper-heading" },
@@ -301,7 +812,7 @@ export function ExactPaperPicker({ React, exam, start }) {
         h(
           "p",
           { className: "exact-paper-description", key: "description" },
-          "Choose a year and shift to sit a complete paper from the question bank. Questions follow JEE section order by subject—MCQs first, then numerical-value questions for Physics, Chemistry, and Mathematics.",
+          description,
         ),
         h("div", { className: "exact-paper-facts", key: "facts" }, [
           h(
@@ -319,14 +830,18 @@ export function ExactPaperPicker({ React, exam, start }) {
             "·",
           ),
           h("span", { key: "duration" }, "3-hour timer"),
+          h(
+            "span",
+            {
+              className: "exact-paper-fact-divider",
+              "aria-hidden": "true",
+              key: "dot-2",
+            },
+            "·",
+          ),
+          h("span", { key: "solutions" }, "Worked solutions"),
         ]),
-        h(
-          "p",
-          { className: "exact-paper-note", key: "note" },
-          exam === "JEE_Advanced"
-            ? "Choose Paper 1 or Paper 2. This practice mock uses +4 / −1 scoring; multi-correct responses are included but left unscored when source keys are incomplete."
-            : "Three-hour timed mock using the practice +4 / −1 scoring scheme.",
-        ),
+        h("p", { className: "exact-paper-note", key: "note" }, note),
       ]),
       h("div", { className: "exact-paper-setup", key: "setup" }, [
         h("div", { className: "exact-paper-selectors", key: "selectors" }, [
@@ -360,6 +875,13 @@ export function ExactPaperPicker({ React, exam, start }) {
           h("div", { className: "exact-paper-selection", key: "selection" }, [
             h("strong", { key: "title" }, selected.title),
             subjectSummary && h("span", { key: "subjects" }, subjectSummary),
+            h(
+              "span",
+              { key: "source", className: "exact-paper-source-note" },
+              fromArchive
+                ? "Year-wise ZIP · exact order · worked solutions"
+                : "Chapter bank · JEE section order",
+            ),
           ]),
         catalogError
           ? h(
