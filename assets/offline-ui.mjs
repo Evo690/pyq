@@ -18,6 +18,18 @@ import {
   removeCachedPaper,
   requestPersistentStorage,
 } from "./offline-storage.mjs";
+import { isNetworkFailure, isOfflineError } from "./experience.mjs";
+
+const OFFLINE_DOWNLOAD_MESSAGE =
+  "You're offline, so this paper can't be downloaded right now. Reconnect and try again — papers already saved on this device still work.";
+
+/** Explain connectivity failures instead of showing the browser's raw fetch error. */
+function friendlyError(error, fallback) {
+  if (isOfflineError(error) || isNetworkFailure(error)) {
+    return OFFLINE_DOWNLOAD_MESSAGE;
+  }
+  return error?.message || fallback;
+}
 
 /** Tracks connectivity so offline mode is explained instead of failing silently. */
 function useOnlineStatus(React) {
@@ -126,7 +138,7 @@ export function OfflinePaperControls({
     onStatusChange?.();
   };
 
-  const handleDownload = async () => {
+  const handleDownload = async ({ retryImages = false } = {}) => {
     if (busy) return;
     const controller = new AbortController();
     abortRef.current = controller;
@@ -140,6 +152,7 @@ export function OfflinePaperControls({
         paper,
         loadQuestions,
         loadYearData,
+        reuseSaved: retryImages,
         signal: controller.signal,
         onProgress: (next) => setProgress(next),
       });
@@ -158,8 +171,10 @@ export function OfflinePaperControls({
         setError("Download cancelled. Nothing was saved.");
       } else {
         setError(
-          downloadError?.message ||
+          friendlyError(
+            downloadError,
             "The paper could not be saved for offline use.",
+          ),
         );
       }
     } finally {
@@ -242,7 +257,7 @@ export function OfflinePaperControls({
         setError("Some diagrams could not be embedded in the exported file. It will use their original online URLs.");
       }
     } catch (fileError) {
-      setError(fileError?.message || "The paper file could not be prepared.");
+      setError(friendlyError(fileError, "The paper file could not be prepared."));
     } finally {
       setFileBusy("");
       setProgress(null);
@@ -298,7 +313,7 @@ export function OfflinePaperControls({
                   type: "button",
                   className: "btn outline exact-paper-download",
                   disabled: busy || checking || !online,
-                  onClick: handleDownload,
+                  onClick: () => handleDownload(),
                   key: "download",
                 },
                 online
@@ -334,11 +349,11 @@ export function OfflinePaperControls({
                     {
                       type: "button",
                       className: "btn outline exact-paper-download",
-                      disabled: busy,
-                      onClick: handleDownload,
+                      disabled: busy || !online,
+                      onClick: () => handleDownload({ retryImages: true }),
                       key: "retry",
                     },
-                    "Retry images",
+                    online ? "Retry images" : "Reconnect to retry images",
                   ),
                 h(
                   "button",

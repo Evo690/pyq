@@ -10,6 +10,62 @@ const shuffle = (items) => {
 export const DATA_ARCHIVE_URL = "/data.zip";
 export const JEE_MAIN_ARCHIVE_URL = "/jee-main-papers-by-year.zip";
 
+/** Error name for "needs the network, but there is none and nothing is cached". */
+export const OFFLINE_ERROR_NAME = "OfflineError";
+/** Header sw.js sets on the 503 it returns for uncached requests while offline. */
+export const OFFLINE_RESPONSE_HEADER = "X-PYQ-Offline";
+
+const OFFLINE_MESSAGE =
+  "You're offline, and this hasn't been saved on this device yet. Reconnect and try again — papers you've downloaded for offline use still open without internet.";
+const INTERRUPTED_MESSAGE =
+  "The connection dropped while loading questions. Check your internet connection and try again.";
+
+export function isOfflineError(error) {
+  return error?.name === OFFLINE_ERROR_NAME;
+}
+
+/** An actionable replacement for the browser's bare fetch failure. */
+export function offlineError(message = OFFLINE_MESSAGE, cause) {
+  const error = new Error(message);
+  error.name = OFFLINE_ERROR_NAME;
+  if (cause !== undefined) error.cause = cause;
+  return error;
+}
+
+/**
+ * fetch() rejects with a TypeError when the network is unreachable — Firefox
+ * words it "NetworkError when attempting to fetch resource.", Chromium
+ * "Failed to fetch", Safari "Load failed". Those messages mean nothing to a
+ * learner, so they are converted before they reach the UI.
+ */
+export function isNetworkFailure(error) {
+  if (!error || error.name === "AbortError" || isOfflineError(error)) return false;
+  if (error instanceof TypeError || error.name === "TypeError") return true;
+  return /NetworkError|Failed to fetch|Load failed|network error/i.test(
+    String(error.message || ""),
+  );
+}
+
+export function isOfflineResponse(response) {
+  return Boolean(
+    response &&
+      response.status === 503 &&
+      response.headers?.get?.(OFFLINE_RESPONSE_HEADER) === "1",
+  );
+}
+
+/** fetch() that reports a missing connection as an OfflineError. */
+async function fetchOrOffline(url, init) {
+  let response;
+  try {
+    response = await fetch(url, init);
+  } catch (error) {
+    throw isNetworkFailure(error) ? offlineError(undefined, error) : error;
+  }
+  if (isOfflineResponse(response)) throw offlineError();
+  return response;
+}
+
 const archivePromises = new Map();
 
 /** Drop memoized ZIP bytes (after a failed/cleared cache, or in tests). */
@@ -19,12 +75,24 @@ export function resetArchiveCache() {
 
 function loadArchive(archiveUrl) {
   if (!archivePromises.has(archiveUrl)) {
-    const promise = fetch(archiveUrl)
+    const promise = fetchOrOffline(archiveUrl)
       .then((response) => {
         if (!response.ok) {
-          throw new Error(`The ${archiveUrl} question archive could not be loaded.`);
+          throw new Error(
+            `The ${archiveUrl} question archive could not be loaded${
+              response.status ? ` (HTTP ${response.status})` : ""
+            }.`,
+          );
         }
-        return response.arrayBuffer().then((buffer) => new Uint8Array(buffer));
+        return response.arrayBuffer().then(
+          (buffer) => new Uint8Array(buffer),
+          (error) => {
+            // The body stream failed part-way (connection dropped mid-download).
+            throw isNetworkFailure(error)
+              ? offlineError(INTERRUPTED_MESSAGE, error)
+              : error;
+          },
+        );
       })
       .catch((error) => {
         // A transient failure should not poison every later retry.
@@ -99,6 +167,9 @@ function dataUrl(path) {
   return `/data/${path.split("/").map(encodeURIComponent).join("/")}`;
 }
 
+const BOOT_OFFLINE_MESSAGE =
+  "You're offline, and PYQ Studio hasn't finished saving itself on this device yet. Connect to the internet once and try again — after that it opens without internet.";
+
 /** Fetch a loose data file first, then read it from the checked-in ZIP archive. */
 export async function dataJson(path) {
   try {
@@ -108,7 +179,15 @@ export async function dataJson(path) {
     // A static host may not unpack data.zip into /data; use the archive below.
   }
 
-  return archiveJson(DATA_ARCHIVE_URL, `data/${path}`);
+  try {
+    return await archiveJson(DATA_ARCHIVE_URL, `data/${path}`);
+  } catch (error) {
+    // The app cannot open without its manifest; say so on the start screen.
+    if (path === "manifest.json" && isOfflineError(error)) {
+      throw offlineError(BOOT_OFFLINE_MESSAGE, error);
+    }
+    throw error;
+  }
 }
 
 /**

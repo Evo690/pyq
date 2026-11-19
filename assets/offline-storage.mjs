@@ -435,19 +435,6 @@ export function flattenPictureHtml(html) {
     });
 }
 
-function questionNeedsHtmlNormalization(question) {
-  if (!question) return false;
-  const needs = (html) =>
-    Boolean(html && /<(?:picture|img|source)\b/i.test(html));
-  if (needs(question.question_text) || needs(question.solution_text)) {
-    return true;
-  }
-  for (const option of question.options || []) {
-    if (needs(option?.text) || needs(option?.html)) return true;
-  }
-  return false;
-}
-
 /**
  * Flatten <picture> tags and replace cached image URLs in <img> tags
  * with blob:/data: URLs. MathJax SVG (<use href="#…">) is left untouched.
@@ -688,7 +675,7 @@ export async function hasCachedPaper(paperSource, deps = {}) {
   return Boolean(await getCachedPaper(paperSource, deps));
 }
 
-export async function listCachedPapers(deps = {}) {
+async function readPaperRecords(deps = {}) {
   let db;
   try {
     db = await getOfflineDb(deps);
@@ -700,17 +687,55 @@ export async function listCachedPapers(deps = {}) {
     const records = await withStore(db, "papers", "readonly", (store) =>
       idbRequest(store.getAll()),
     );
-    return (records || [])
-      .map(summarizePaperRecord)
-      .filter(Boolean)
-      .sort((a, b) =>
-        String(b.downloadedAt || "").localeCompare(
-          String(a.downloadedAt || ""),
-        ),
-      );
+    return (records || []).filter(Boolean);
   } catch {
     return [];
   }
+}
+
+export async function listCachedPapers(deps = {}) {
+  return (await readPaperRecords(deps))
+    .map(summarizePaperRecord)
+    .filter(Boolean)
+    .sort((a, b) =>
+      String(b.downloadedAt || "").localeCompare(String(a.downloadedAt || "")),
+    );
+}
+
+/**
+ * Catalog entries of the papers saved on this device (newest first), so the
+ * picker can still offer them when the paper index cannot be loaded offline.
+ */
+export async function listCachedPaperSources(exam, deps = {}) {
+  return (await readPaperRecords(deps))
+    .filter(
+      (record) =>
+        record.version === OFFLINE_CACHE_VERSION &&
+        record.paperSource &&
+        (!exam || !record.exam || record.exam === exam),
+    )
+    .sort((a, b) =>
+      String(b.downloadedAt || "").localeCompare(String(a.downloadedAt || "")),
+    )
+    .map((record) => record.paperSource);
+}
+
+/**
+ * A saved paper by title (and exam). Unfinished tests started before
+ * sessions recorded their paper source are matched to their offline copy
+ * this way.
+ */
+export async function findCachedPaper({ title, exam } = {}, deps = {}) {
+  const wanted = String(title || "").trim();
+  if (!wanted) return null;
+  return (
+    (await readPaperRecords(deps)).find(
+      (record) =>
+        record.version === OFFLINE_CACHE_VERSION &&
+        String(record.title || "").trim() === wanted &&
+        (!exam || !record.exam || record.exam === exam),
+    ) || null
+  );
 }
 
 export async function getCachedImageBlob(url, deps = {}) {
@@ -1111,6 +1136,7 @@ export async function downloadExactPaperOffline({
   loadYearData,
   onProgress,
   signal,
+  reuseSaved = false,
   deps = {},
 }) {
   if (typeof loadQuestions !== "function") {
@@ -1123,12 +1149,21 @@ export async function downloadExactPaperOffline({
     );
   }
   onProgress?.({ phase: "questions", loaded: 0, total: 1 });
-  const questions = await loadQuestions(exam, paper);
+  // "Retry images" keeps the saved questions and only fetches what is
+  // missing, instead of re-reading the whole paper from its archive.
+  const saved = reuseSaved
+    ? await getCachedPaper(paperSource || paper, deps)
+    : null;
+  const reusable =
+    Array.isArray(saved?.questions) && saved.questions.length ? saved : null;
+  const questions = reusable
+    ? reusable.questions
+    : await loadQuestions(exam, paper);
   if (!Array.isArray(questions) || !questions.length) {
     throw new Error("No questions were found for this paper.");
   }
-  let mathjaxDefs = "";
-  if (paper?.archiveFile && typeof loadYearData === "function") {
+  let mathjaxDefs = reusable ? String(reusable.mathjaxDefs || "") : "";
+  if (!reusable && paper?.archiveFile && typeof loadYearData === "function") {
     try {
       const yearData = await loadYearData(paper.archiveFile);
       mathjaxDefs = yearData?.mathjaxDefs || "";

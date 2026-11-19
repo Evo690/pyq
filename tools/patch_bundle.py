@@ -139,6 +139,20 @@ REPLACEMENTS = [
         r'''pe.type==="numerical"?f.jsxs("div",{className:"numerical-answer",''',
         r'''pe.type==="numerical"&&pe.answerRule?.kind==="bonus"&&f.jsx("p",{className:"data-note",children:"This numerical question was a bonus in the original paper. It is included for review but left unscored; see the worked solution for the accepted key."}),pe.type==="numerical"?f.jsxs("div",{className:"numerical-answer",''',
     ),
+    (
+        "session-restore-import",
+        'restoreExactPaperSession,restoreSessionQuestions}from"./exact-paper.mjs"',
+        r'''restoreExactPaperSession}from"./exact-paper.mjs";''',
+        r'''restoreExactPaperSession,restoreSessionQuestions}from"./exact-paper.mjs";''',
+    ),
+    (
+        # Unfinished exact papers saved before sessions recorded a paper source
+        # resume from their downloaded copy instead of the network-only bank.
+        "resume-offline-copy",
+        "restoreSessionQuestions(draft,",
+        r'''questions=draft.exactPaperSource?await restoreExactPaperSession(draft):await loadQuestionRefs(draft.exam,refs,i);''',
+        r'''questions=draft.exactPaperSource?await restoreExactPaperSession(draft):await restoreSessionQuestions(draft,()=>loadQuestionRefs(draft.exam,refs,i));''',
+    ),
 ]
 
 
