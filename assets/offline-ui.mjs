@@ -238,6 +238,9 @@ export function OfflinePaperControls({
         });
         downloadTextFile(`${slug}.html`, html, "text/html");
       }
+      if (imageDataUrls.size < urls.length) {
+        setError("Some diagrams could not be embedded in the exported file. It will use their original online URLs.");
+      }
     } catch (fileError) {
       setError(fileError?.message || "The paper file could not be prepared.");
     } finally {

@@ -10,7 +10,8 @@
  *
  * 2. Offline exact-paper cache in IndexedDB. A downloaded paper stores its
  *    normalized questions (with the original remote image URLs), the
- *    MathJax SVG defs, and every embedded image as a Blob. Loading a paper
+ *    MathJax SVG defs, and readable images as Blobs. Opaque CDN responses
+ *    stay in Cache Storage for the service worker. Loading a paper
  *    hydrates cached images to blob: URLs, so the paper works with no
  *    network and still scores through the existing analyzeTest logic.
  *
@@ -26,6 +27,9 @@ export const STORE_SCHEMA_VERSION = 2;
 export const OFFLINE_DB_NAME = "pyq-offline";
 export const OFFLINE_DB_VERSION = 1;
 export const OFFLINE_CACHE_VERSION = 1;
+// Also used by sw.js. Unlike the runtime image cache, saved diagrams must
+// survive shell upgrades and must not be pruned while a paper references them.
+const PAPER_IMAGE_CACHE = "pyq-paper-images-v1";
 export const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
 
 /* -------------------------------------------------------------------------- */
@@ -319,6 +323,10 @@ function isRemoteImageUrl(url) {
   );
 }
 
+// Archive fragments are also rewritten in Node when no DOM is available.
+const IMAGE_TAG = /<(?:img|source)\b(?:[^>"']|"[^"]*"|'[^']*')*>/gi;
+const ATTRIBUTE = /\s+([^\s=/>]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+)))?/g;
+
 /** All image URLs referenced by <img>/<source> tags in an HTML fragment. */
 export function extractImageUrlsFromHtml(html) {
   if (!html || typeof html !== "string") return [];
@@ -326,19 +334,12 @@ export function extractImageUrlsFromHtml(html) {
   const add = (url) => {
     if (isRemoteImageUrl(url)) urls.add(String(url).trim());
   };
-  const tagPattern = /<(img|source)\b[^>]*>/gi;
-  let match;
-  while ((match = tagPattern.exec(html)) !== null) {
-    const tag = match[0];
-    const src = tag.match(/\ssrc\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i);
-    if (src) add(src[1] ?? src[2] ?? src[3]);
-    const orsrc = tag.match(
-      /\sdata-orsrc\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i,
-    );
-    if (orsrc) add(orsrc[1] ?? orsrc[2] ?? orsrc[3]);
-    const srcset = tag.match(/\ssrcset\s*=\s*(?:"([^"]*)"|'([^']*)')/i);
-    if (srcset) {
-      for (const url of parseSrcset(srcset[1] ?? srcset[2])) add(url);
+  for (const [tag] of html.matchAll(IMAGE_TAG)) {
+    for (const [, name, dq, sq, bare] of tag.matchAll(ATTRIBUTE)) {
+      const key = name.toLowerCase();
+      const value = dq ?? sq ?? bare;
+      if (key === "src" || key === "data-orsrc") add(value);
+      if (key === "srcset") parseSrcset(value).forEach(add);
     }
   }
   return [...urls];
@@ -387,6 +388,27 @@ function rewriteSrcsetValue(value, map) {
     .join(", ");
 }
 
+// The renderer deliberately removes srcset. Give each picture one ordinary
+// img src before rewriting, preserving alt, dimensions and other img metadata.
+function flattenPicture(_, body) {
+  const tags = body.match(IMAGE_TAG) || [];
+  const img = tags.find((tag) => /^<img\b/i.test(tag)) || "<img>";
+  let src, original, candidate;
+  let attrs = "";
+  for (const tag of [img, ...tags.filter((tag) => /^<source\b/i.test(tag))]) {
+    for (const [raw, name, dq, sq, bare] of tag.matchAll(ATTRIBUTE)) {
+      const key = name.toLowerCase();
+      const value = (dq ?? sq ?? bare ?? "").trim();
+      if (key === "src") src ||= value;
+      if (key === "data-orsrc") original ||= value;
+      if (key === "srcset") candidate ||= parseSrcset(value)[0];
+      if (tag === img && key !== "src" && key !== "srcset") attrs += raw;
+    }
+  }
+  const url = src || original || candidate;
+  return url ? `<img${attrs} src="${url.replace(/"/g, "&quot;")}">` : img;
+}
+
 /**
  * Replace cached image URLs in <img>/<source> tags with blob:/data: URLs.
  * MathJax SVG (<use href="#…">) and all other markup are left untouched.
@@ -394,35 +416,23 @@ function rewriteSrcsetValue(value, map) {
 export function rewriteHtmlImages(html, urlMap) {
   if (!html || typeof html !== "string") return html || "";
   const map = toUrlMap(urlMap);
-  if (!map.size) return html;
-  return String(html).replace(/<(img|source)\b[^>]*>/gi, (tag) => {
-    let out = tag;
-    out = out.replace(
-      /(\s)(src|data-orsrc)\s*=\s*("([^"]*)"|'([^']*)'|([^\s>]+))/gi,
-      (full, space, attr, quoted, doubleQuoted, singleQuoted, unquoted) => {
-        const url = doubleQuoted ?? singleQuoted ?? unquoted ?? "";
-        if (!map.has(url)) return full;
-        const quote = quoted.startsWith('"') ? '"' : quoted.startsWith("'") ? "'" : '"';
-        return `${space}${attr}=${quote}${map.get(url)}${quote}`;
-      },
-    );
-    out = out.replace(
-      /(\s)srcset\s*=\s*("([^"]*)"|'([^']*)')/gi,
-      (full, space, quoted, doubleQuoted, singleQuoted) => {
-        const value = doubleQuoted ?? singleQuoted ?? "";
-        const quote = quoted.startsWith('"') ? '"' : "'";
-        return `${space}srcset=${quote}${rewriteSrcsetValue(value, map)}${quote}`;
-      },
-    );
-    return out;
-  });
+  const flattened = html.replace(/<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi, flattenPicture);
+  if (!map.size) return flattened;
+  return flattened.replace(IMAGE_TAG, (tag) => tag.replace(ATTRIBUTE, (raw, name, dq, sq, bare) => {
+    const key = name.toLowerCase();
+    const url = dq ?? sq ?? bare;
+    let value;
+    if (key === "src" || key === "data-orsrc") value = map.get(url);
+    if (key === "srcset" && url) value = rewriteSrcsetValue(url, map);
+    if (value == null) return raw;
+    return ` ${name}="${value.replace(/"/g, "&quot;")}"`;
+  }));
 }
 
 /** Return a copy of a question with all cached images rewritten. */
 export function rewriteQuestionImages(question, urlMap) {
   if (!question) return question;
   const map = toUrlMap(urlMap);
-  if (!map.size) return question;
   const next = { ...question };
   if (typeof next.question_text === "string") {
     next.question_text = rewriteHtmlImages(next.question_text, map);
@@ -786,6 +796,14 @@ export async function removeCachedPaper(paperSourceOrKey, deps = {}) {
       );
       revokeImageObjectUrl(url);
     }
+    const cacheStorage = deps.caches ?? globalThis.caches;
+    if (await cacheStorage?.has(PAPER_IMAGE_CACHE)) {
+      const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+      const keep = new Set([...referenced].map((url) => new URL(url, globalThis.location?.href).href));
+      for (const request of await cache.keys()) {
+        if (!keep.has(request.url)) await cache.delete(request);
+      }
+    }
   } catch {
     // Orphan cleanup is best-effort.
   }
@@ -809,6 +827,7 @@ export async function clearOfflineCache(deps = {}) {
       // Continue clearing the remaining stores.
     }
   }
+  await (deps.caches ?? globalThis.caches)?.delete(PAPER_IMAGE_CACHE);
   revokeAllImageObjectUrls();
   return true;
 }
@@ -853,9 +872,19 @@ export async function cacheStats(deps = {}) {
         sum + (JSON.stringify(entry.questions || []).length || 0),
       0,
     );
+    let opaqueCount = 0;
+    try {
+      const cacheStorage = deps.caches ?? globalThis.caches;
+      if (await cacheStorage?.has(PAPER_IMAGE_CACHE)) {
+        const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+        opaqueCount = (await cache.keys()).length;
+      }
+    } catch {
+      // Still report readable image counts if Cache Storage is unavailable.
+    }
     return {
       papers: (papers || []).length,
-      images: (images || []).length,
+      images: (images || []).length + opaqueCount,
       imageBytes,
       papersBytes,
       totalBytes: imageBytes + papersBytes,
@@ -925,14 +954,12 @@ export async function getImageObjectUrls(urls, deps = {}) {
 export async function hydrateQuestionImages(questions, deps = {}) {
   if (!Array.isArray(questions) || !questions.length) return questions;
   const urls = extractPaperImageUrls(questions);
-  if (!urls.length) return questions;
-  let urlMap;
+  let urlMap = new Map();
   try {
     urlMap = await getImageObjectUrls(urls, deps);
   } catch {
-    return questions;
+    // Still normalize pictures served at their original URLs by the worker.
   }
-  if (!urlMap.size) return questions;
   return questions.map((question) => rewriteQuestionImages(question, urlMap));
 }
 
@@ -947,6 +974,7 @@ export async function downloadPaperImages(urls, options = {}) {
   const onProgress = options.onProgress;
   const signal = options.signal;
   const succeeded = new Map();
+  let opaqueCount = 0;
   const failed = [];
   let cursor = 0;
 
@@ -960,40 +988,53 @@ export async function downloadPaperImages(urls, options = {}) {
       const url = urls[cursor];
       cursor += 1;
       try {
-        const response = await fetchImpl(url, {
-          mode: "cors",
-          credentials: "omit",
-          signal,
-        });
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const blob = await response.blob();
-        if (!blob || blob.size === 0) throw new Error("Empty image response.");
-        if (blob.size > maxBytes) {
-          throw new Error(
-            `Image is too large (${blob.size} bytes). Skipped to protect storage.`,
-          );
+        const init = { credentials: "omit", signal };
+        let response;
+        try {
+          response = await fetchImpl(url, { ...init, mode: "cors" });
+        } catch (error) {
+          if (signal?.aborted) throw error;
+          response = await fetchImpl(url, { ...init, mode: "no-cors" });
         }
-        const contentType =
-          blob.type ||
-          response.headers?.get?.("content-type") ||
-          "";
-        if (
-          contentType &&
-          (contentType.startsWith("text/") ||
-            contentType.includes("json") ||
-            contentType.includes("html"))
-        ) {
-          throw new Error(`Unexpected content type ${contentType}.`);
+        if (response.type === "opaque") {
+          // Its body is unreadable (blob() is empty). Store the response
+          // itself; the worker serves it to img requests at the original URL.
+          const cacheStorage = options.caches ?? globalThis.caches;
+          if (!cacheStorage) throw new Error("Image cache is unavailable.");
+          const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+          await cache.put(url, response);
+          opaqueCount++;
+        } else {
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const blob = await response.blob();
+          if (!blob || blob.size === 0) throw new Error("Empty image response.");
+          if (blob.size > maxBytes) {
+            throw new Error(
+              `Image is too large (${blob.size} bytes). Skipped to protect storage.`,
+            );
+          }
+          const contentType =
+            blob.type ||
+            response.headers?.get?.("content-type") ||
+            "";
+          if (
+            contentType &&
+            (contentType.startsWith("text/") ||
+              contentType.includes("json") ||
+              contentType.includes("html"))
+          ) {
+            throw new Error(`Unexpected content type ${contentType}.`);
+          }
+          succeeded.set(url, blob);
         }
-        succeeded.set(url, blob);
       } catch (error) {
         if (signal?.aborted) throw error;
         failed.push({ url, error: error?.message || String(error) });
       }
       onProgress?.({
-        loaded: succeeded.size + failed.length,
+        loaded: succeeded.size + opaqueCount + failed.length,
         total: urls.length,
-        succeeded: succeeded.size,
+        succeeded: succeeded.size + opaqueCount,
         failed: failed.length,
         url,
       });
@@ -1005,13 +1046,13 @@ export async function downloadPaperImages(urls, options = {}) {
     () => worker(),
   );
   await Promise.all(workers);
-  return { succeeded, failed };
+  return { succeeded, opaqueCount, failed };
 }
 
 /**
  * Download an exact paper for offline use: load questions, fetch every
  * embedded image (skipping already-cached ones), and persist everything
- * to IndexedDB. Loaders are injected so this module stays independent of
+ * locally. Loaders are injected so this module stays independent of
  * the ZIP/chapter loaders in exact-paper.mjs.
  */
 export async function downloadExactPaperOffline({
@@ -1053,15 +1094,21 @@ export async function downloadExactPaperOffline({
   for (const url of urls) {
     const existing = await getCachedImageBlob(url, deps);
     if (existing) cachedBytes += existing.size || 0;
-    else missing.push(url);
+    else {
+      const cached = await (deps.caches ?? globalThis.caches)?.match(url, {
+        cacheName: PAPER_IMAGE_CACHE, ignoreVary: true,
+      }).catch(() => null);
+      if (!cached) missing.push(url);
+    }
   }
   onProgress?.({
     phase: "images",
     loaded: urls.length - missing.length,
     total: urls.length,
   });
-  const { succeeded, failed } = await downloadPaperImages(missing, {
+  const { succeeded, opaqueCount, failed } = await downloadPaperImages(missing, {
     fetchImpl: deps.fetchImpl,
+    caches: deps.caches,
     signal,
     onProgress: (progress) =>
       onProgress?.({
@@ -1092,7 +1139,7 @@ export async function downloadExactPaperOffline({
   return {
     summary,
     failed,
-    succeededCount: succeeded.size,
+    succeededCount: succeeded.size + opaqueCount,
     totalImages: urls.length,
   };
 }

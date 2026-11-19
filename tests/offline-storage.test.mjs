@@ -202,7 +202,7 @@ test("rewriteHtmlImages points every reference at the cached copy", () => {
   const out = rewriteHtmlImages(html, map);
   assert.ok(out.includes('src="blob:one"'));
   assert.ok(out.includes('data-orsrc="blob:two"'));
-  assert.ok(out.includes('srcset="blob:three 1x"'));
+  assert.doesNotMatch(out, /<picture|<source|srcset=/i);
   assert.ok(!out.includes("cdn.example"));
 });
 
