@@ -11,20 +11,37 @@
  *
  * Question data for downloaded papers is persisted in IndexedDB by
  * assets/offline-storage.mjs; this worker only handles network assets.
+ *
+ * Cache layout:
+ *  - pyq-shell-<VERSION>, pyq-runtime-<VERSION>: tied to one build and
+ *    replaced on update. The core shell is precached all-or-nothing, so an
+ *    interrupted update keeps the previous working version instead of
+ *    activating a half-filled cache.
+ *  - pyq-data-v1, pyq-images-v1, pyq-paper-images-v1: stable across updates.
+ *    A new VERSION must never wipe data a learner relies on offline; JSON is
+ *    revalidated on use and ZIPs once per VERSION (conditional request).
+ *
+ * When something is neither reachable nor cached, the worker answers with a
+ * 503 marked `X-PYQ-Offline: 1` instead of rejecting respondWith(), so the
+ * app can explain what is missing rather than surfacing a bare
+ * "NetworkError when attempting to fetch resource."
  */
 
-const VERSION = "2026-11-19.2";
+const VERSION = "2026-11-19.3";
 const SHELL_CACHE = `pyq-shell-${VERSION}`;
-const DATA_CACHE = `pyq-data-${VERSION}`;
-const IMAGE_CACHE = `pyq-images-${VERSION}`;
-const PAPER_IMAGE_CACHE = "pyq-paper-images-v1"; // shared with offline-storage.mjs
 const RUNTIME_CACHE = `pyq-runtime-${VERSION}`;
+const DATA_CACHE = "pyq-data-v1";
+const IMAGE_CACHE = "pyq-images-v1";
+const PAPER_IMAGE_CACHE = "pyq-paper-images-v1"; // shared with offline-storage.mjs
+const CACHE_PREFIX = "pyq-";
+const LEGACY_DATA_PREFIX = "pyq-data-";
+const VERSION_HEADER = "X-PYQ-SW-Version";
+const OFFLINE_HEADER = "X-PYQ-Offline";
+const NAVIGATION_TIMEOUT_MS = 4000;
 
-const SHELL_ASSETS = [
-  "/",
+/** Everything the app needs to boot. Precached atomically (install fails otherwise). */
+const CORE_SHELL_ASSETS = [
   "/index.html",
-  "/manifest.webmanifest",
-  "/favicon.svg",
   "/assets/index-ff8d0e4d.js",
   "/assets/index-570dc29c.css",
   "/assets/ui-fix.css",
@@ -34,6 +51,13 @@ const SHELL_ASSETS = [
   "/assets/test-analysis.mjs",
   "/assets/offline-storage.mjs",
   "/assets/offline-ui.mjs",
+];
+
+/** Nice to have offline; a previous copy is kept when a refresh fails. */
+const OPTIONAL_SHELL_ASSETS = [
+  "/",
+  "/manifest.webmanifest",
+  "/favicon.svg",
   "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
   "/assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2",
   "/assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2",
@@ -64,14 +88,122 @@ const SHELL_ASSETS = [
   "/fonts/font-8.ttf",
 ];
 
+const SHELL_ASSETS = [...CORE_SHELL_ASSETS, ...OPTIONAL_SHELL_ASSETS];
+
+/** Boot indexes. The manifest is required (a fresh or previously cached copy). */
 const DATA_ASSETS = [
   "/data/manifest.json",
   "/data/exact-papers.json",
   "/data/papers.json",
 ];
+const REQUIRED_DATA_ASSETS = new Set(["/data/manifest.json"]);
 
 const MAX_IMAGE_ENTRIES = 2500;
 const IMAGE_PRUNE_COUNT = 250;
+
+/* -------------------------------------------------------------------------- */
+/* Helpers                                                                     */
+/* -------------------------------------------------------------------------- */
+
+/** Keep the worker alive for background cache work (no-op outside a live event). */
+function background(event, promise) {
+  const settled = Promise.resolve(promise).catch(() => {});
+  try {
+    if (event && typeof event.waitUntil === "function") event.waitUntil(settled);
+  } catch {
+    // The event already finished; the work still runs best-effort.
+  }
+  return settled;
+}
+
+function isCacheable(response) {
+  return Boolean(
+    response && (response.ok || response.type === "opaque" || response.status === 0),
+  );
+}
+
+/** Copy a response, stamping the worker VERSION that stored it. */
+function stampVersion(response) {
+  const headers = new Headers(response.headers);
+  headers.set(VERSION_HEADER, VERSION);
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers,
+  });
+}
+
+function offlineResponse(request) {
+  const url = request && request.url ? request.url : "";
+  return new Response(
+    JSON.stringify({
+      error: "offline",
+      message: "You are offline and this file is not saved on this device yet.",
+      url,
+    }),
+    {
+      status: 503,
+      statusText: "Offline",
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+        "Cache-Control": "no-store",
+        [OFFLINE_HEADER]: "1",
+      },
+    },
+  );
+}
+
+function offlineDocument() {
+  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PYQ Studio · Offline</title></head><body style="font-family:system-ui,-apple-system,Segoe UI,sans-serif;max-width:34rem;margin:14vh auto;padding:0 1.5rem;line-height:1.55;color:#1f2933"><h1 style="font-size:1.4rem">You're offline</h1><p>PYQ Studio hasn't finished saving itself on this device yet, so it can't open without internet. Connect once and open the app again — after that, papers you download keep working offline.</p><button type="button" onclick="location.reload()" style="font:inherit;padding:.6rem 1.25rem;border-radius:999px;border:1px solid #1f2933;background:#fff;cursor:pointer">Try again</button></body></html>`;
+  return new Response(html, {
+    status: 503,
+    statusText: "Offline",
+    headers: {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-store",
+      [OFFLINE_HEADER]: "1",
+    },
+  });
+}
+
+/**
+ * Last resort when the network failed: any copy in any of our caches
+ * (an earlier build's shell, the stable data cache, a downloaded paper's
+ * images). Opaque copies are only usable for no-cors requests.
+ */
+async function matchAnyCache(request) {
+  try {
+    const match = await caches.match(request, { ignoreVary: true });
+    if (!match) return null;
+    if (match.type === "opaque" && request.mode && request.mode !== "no-cors") return null;
+    return match;
+  } catch {
+    return null;
+  }
+}
+
+/* -------------------------------------------------------------------------- */
+/* Install / activate                                                          */
+/* -------------------------------------------------------------------------- */
+
+async function precache(cache, url, { required = false, keepPrevious = true } = {}) {
+  try {
+    const response = await fetch(new Request(url, { cache: "reload" }));
+    if (!response.ok) throw new Error(`${url} returned HTTP ${response.status}`);
+    await cache.put(url, response);
+  } catch (error) {
+    if (keepPrevious) {
+      const existing = await cache.match(url, { ignoreVary: true });
+      if (existing) return;
+      const previous = await caches.match(url, { ignoreVary: true });
+      if (previous) {
+        await cache.put(url, previous);
+        return;
+      }
+    }
+    if (required) throw error;
+  }
+}
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -80,16 +212,18 @@ self.addEventListener("install", (event) => {
         caches.open(SHELL_CACHE),
         caches.open(DATA_CACHE),
       ]);
-      await Promise.all([
-        ...SHELL_ASSETS.map((url) =>
-          shellCache.add(new Request(url, { cache: "reload" })).catch(() => {
-            /* A missing optional asset must not fail the install. */
-          }),
+      // Core shell files must all come from this build: mixing an older
+      // module with a newer bundle could break the app. If any is missing,
+      // the install fails and the previous worker keeps serving offline.
+      await Promise.all(
+        CORE_SHELL_ASSETS.map((url) =>
+          precache(shellCache, url, { required: true, keepPrevious: false }),
         ),
+      );
+      await Promise.all([
+        ...OPTIONAL_SHELL_ASSETS.map((url) => precache(shellCache, url)),
         ...DATA_ASSETS.map((url) =>
-          dataCache.add(new Request(url, { cache: "reload" })).catch(() => {
-            /* A missing optional data index must not fail the install. */
-          }),
+          precache(dataCache, url, { required: REQUIRED_DATA_ASSETS.has(url) }),
         ),
       ]);
       await self.skipWaiting();
@@ -97,13 +231,51 @@ self.addEventListener("install", (event) => {
   );
 });
 
+/**
+ * Earlier builds kept ZIPs and chapter JSON in pyq-data-<VERSION>, which
+ * every update deleted. Carry those entries into the stable data cache once
+ * so learners keep what they already had offline.
+ */
+async function migrateLegacyDataCaches(names) {
+  const legacy = names
+    .filter((name) => name.startsWith(LEGACY_DATA_PREFIX) && name !== DATA_CACHE)
+    .reverse(); // newest first
+  if (!legacy.length) return;
+  const target = await caches.open(DATA_CACHE);
+  for (const name of legacy) {
+    try {
+      const source = await caches.open(name);
+      for (const request of await source.keys()) {
+        if (await target.match(request, { ignoreVary: true })) continue;
+        const response = await source.match(request, { ignoreVary: true });
+        if (response) await target.put(request, response).catch(() => {});
+      }
+    } catch {
+      // A damaged legacy cache must not block activation.
+    }
+  }
+}
+
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
-      const keep = new Set([SHELL_CACHE, DATA_CACHE, IMAGE_CACHE, RUNTIME_CACHE, PAPER_IMAGE_CACHE]);
       const names = await caches.keys();
+      try {
+        await migrateLegacyDataCaches(names);
+      } catch {
+        // Migration is best-effort.
+      }
+      const keep = new Set([
+        SHELL_CACHE,
+        RUNTIME_CACHE,
+        DATA_CACHE,
+        IMAGE_CACHE,
+        PAPER_IMAGE_CACHE,
+      ]);
       await Promise.all(
-        names.map((name) => (keep.has(name) ? undefined : caches.delete(name))),
+        names
+          .filter((name) => name.startsWith(CACHE_PREFIX) && !keep.has(name))
+          .map((name) => caches.delete(name).catch(() => false)),
       );
       await self.clients.claim();
     })(),
@@ -116,60 +288,129 @@ self.addEventListener("message", (event) => {
   }
 });
 
-function isCacheable(response) {
-  return Boolean(
-    response && (response.ok || response.type === "opaque" || response.status === 0),
-  );
-}
+/* -------------------------------------------------------------------------- */
+/* Strategies                                                                  */
+/* -------------------------------------------------------------------------- */
 
-async function cacheFirst(request, cacheName) {
-  const cache = await caches.open(cacheName);
-  const cached = await cache.match(request, { ignoreVary: true });
-  if (cached) return cached;
-  const response = await fetch(request);
-  if (isCacheable(response)) {
-    cache.put(request, response.clone()).catch(() => {});
-  }
-  return response;
-}
+const revalidating = new Map();
 
-async function networkFirst(request, cacheName, fallbackUrl) {
-  const cache = await caches.open(cacheName);
-  try {
-    const response = await fetch(request);
-    if (isCacheable(response)) {
-      cache.put(request, response.clone()).catch(() => {});
+/** Refresh a cached ZIP once per VERSION; a 304 just re-stamps the copy. */
+function revalidateArchive(request, cache, cachedHeaders) {
+  const key = request.url;
+  if (revalidating.has(key)) return revalidating.get(key);
+  const task = (async () => {
+    const headers = new Headers();
+    const etag = cachedHeaders.get("ETag");
+    const lastModified = cachedHeaders.get("Last-Modified");
+    if (etag) headers.set("If-None-Match", etag);
+    if (lastModified) headers.set("If-Modified-Since", lastModified);
+    let response;
+    try {
+      response = await fetch(request.url, {
+        headers,
+        cache: "no-store",
+        credentials: "same-origin",
+      });
+    } catch {
+      return; // Offline: keep serving the cached copy.
     }
-    return response;
-  } catch (error) {
-    const cached = await cache.match(request, { ignoreVary: true });
-    if (cached) return cached;
-    if (fallbackUrl) {
-      const fallback = await caches.match(fallbackUrl);
-      if (fallback) return fallback;
+    if (response.status === 304) {
+      const current = await cache.match(request, { ignoreVary: true });
+      if (current) await cache.put(request, stampVersion(current));
+    } else if (response.ok) {
+      await cache.put(request, stampVersion(response));
     }
-    throw error;
-  }
+  })()
+    .catch(() => {})
+    .finally(() => revalidating.delete(key));
+  revalidating.set(key, task);
+  return task;
 }
 
-async function staleWhileRevalidate(request, cacheName) {
-  const cache = await caches.open(cacheName);
+/** Year-wise and chapter ZIPs: cache-first, kept across updates. */
+async function handleArchive(event) {
+  const { request } = event;
+  const cache = await caches.open(DATA_CACHE);
   const cached = await cache.match(request, { ignoreVary: true });
-  const network = fetch(request)
-    .then((response) => {
-      if (isCacheable(response)) {
-        cache.put(request, response.clone()).catch(() => {});
-      }
-      return response;
-    })
-    .catch(() => null);
   if (cached) {
-    network.catch(() => {});
+    if (cached.headers.get(VERSION_HEADER) !== VERSION) {
+      background(event, revalidateArchive(request, cache, cached.headers));
+    }
     return cached;
   }
-  const response = await network;
-  if (response) return response;
-  throw new Error("offline");
+  try {
+    const response = await fetch(request);
+    if (response.ok) {
+      background(event, cache.put(request, stampVersion(response.clone())));
+    }
+    return response;
+  } catch {
+    return (await matchAnyCache(request)) || offlineResponse(request);
+  }
+}
+
+/** Stale-while-revalidate with an offline answer instead of a rejection. */
+async function staleWhileRevalidate(event, cacheName) {
+  const { request } = event;
+  const cache = await caches.open(cacheName);
+  const cached = await cache.match(request, { ignoreVary: true });
+  const network = fetch(request).then((response) => {
+    if (isCacheable(response)) {
+      background(event, cache.put(request, response.clone()));
+    }
+    return response;
+  });
+  if (cached) {
+    background(event, network);
+    return cached;
+  }
+  try {
+    return await network;
+  } catch {
+    return (await matchAnyCache(request)) || offlineResponse(request);
+  }
+}
+
+/**
+ * Navigations: network-first, but a slow or dead connection falls back to
+ * the cached shell after NAVIGATION_TIMEOUT_MS rather than hanging.
+ */
+async function handleNavigation(event) {
+  const { request } = event;
+  const runtime = await caches.open(RUNTIME_CACHE);
+  const network = fetch(request).then((response) => {
+    if (response.ok && response.type === "basic" && !response.redirected) {
+      background(event, runtime.put(request, response.clone()));
+    }
+    return response;
+  });
+  background(event, network);
+  let timer;
+  const outcome = await Promise.race([
+    network.then(
+      (response) => ({ response }),
+      () => ({ failed: true }),
+    ),
+    new Promise((resolve) => {
+      timer = setTimeout(() => resolve({ timedOut: true }), NAVIGATION_TIMEOUT_MS);
+    }),
+  ]);
+  clearTimeout(timer);
+  if (outcome.response) return outcome.response;
+
+  // Prefer this worker's own shell: a failed update can leave a partial
+  // cache from a newer build behind.
+  const shell =
+    (await runtime.match(request, { ignoreVary: true })) ||
+    (await caches.match("/index.html", { cacheName: SHELL_CACHE, ignoreVary: true })) ||
+    (await caches.match("/index.html", { ignoreVary: true })) ||
+    (await caches.match("/", { ignoreVary: true }));
+  if (shell) return shell;
+  try {
+    return await network;
+  } catch {
+    return offlineDocument();
+  }
 }
 
 async function pruneImageCache() {
@@ -180,7 +421,8 @@ async function pruneImageCache() {
   await Promise.all(excess.map((key) => cache.delete(key).catch(() => false)));
 }
 
-async function handleImage(request) {
+async function handleImage(event) {
+  const { request } = event;
   if (request.mode === "no-cors") {
     const saved = await caches.match(request, { cacheName: PAPER_IMAGE_CACHE, ignoreVary: true });
     if (saved) return saved;
@@ -191,16 +433,15 @@ async function handleImage(request) {
   try {
     const response = await fetch(request);
     if (isCacheable(response)) {
-      cache
-        .put(request, response.clone())
-        .then(pruneImageCache)
-        .catch(() => {});
+      background(
+        event,
+        cache.put(request, response.clone()).then(pruneImageCache),
+      );
     }
     return response;
-  } catch (error) {
-    const fallback = await cache.match(request, { ignoreVary: true });
-    if (fallback) return fallback;
-    throw error;
+  } catch {
+    // The <img> shows the app's "diagram unavailable" note instead.
+    return (await matchAnyCache(request)) || offlineResponse(request);
   }
 }
 
@@ -215,26 +456,26 @@ self.addEventListener("fetch", (event) => {
   // App shell: navigations get the cached document when offline.
   if (request.mode === "navigate") {
     event.respondWith(
-      networkFirst(request, RUNTIME_CACHE, "/index.html").catch(
-        async () => (await caches.match("/index.html")) || Response.error(),
-      ),
+      handleNavigation(event).catch(async () => (await caches.match("/index.html")) || offlineDocument()),
     );
     return;
   }
 
   if (request.destination === "image") {
-    event.respondWith(handleImage(request));
+    event.respondWith(handleImage(event).catch(() => offlineResponse(request)));
     return;
   }
 
   if (url.origin === self.location.origin) {
-    // Year-wise ZIPs and chapter-bank archives: large, immutable per build.
+    // Year-wise ZIPs and chapter-bank archives: large, rarely changing.
     if (url.pathname.endsWith(".zip")) {
-      event.respondWith(cacheFirst(request, DATA_CACHE));
+      event.respondWith(handleArchive(event).catch(() => offlineResponse(request)));
       return;
     }
     if (url.pathname.endsWith(".json")) {
-      event.respondWith(staleWhileRevalidate(request, DATA_CACHE));
+      event.respondWith(
+        staleWhileRevalidate(event, DATA_CACHE).catch(() => offlineResponse(request)),
+      );
       return;
     }
     if (
@@ -243,9 +484,13 @@ self.addEventListener("fetch", (event) => {
       request.destination === "font" ||
       /\.(?:js|mjs|css|woff2?|ttf|svg)$/.test(url.pathname)
     ) {
-      event.respondWith(staleWhileRevalidate(request, SHELL_CACHE));
+      event.respondWith(
+        staleWhileRevalidate(event, SHELL_CACHE).catch(() => offlineResponse(request)),
+      );
       return;
     }
-    event.respondWith(staleWhileRevalidate(request, RUNTIME_CACHE));
+    event.respondWith(
+      staleWhileRevalidate(event, RUNTIME_CACHE).catch(() => offlineResponse(request)),
+    );
   }
 });

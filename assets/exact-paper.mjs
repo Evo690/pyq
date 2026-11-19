@@ -1,13 +1,17 @@
 import {
   dataJson,
   exactPaperYearJson,
+  isOfflineError,
   parseNumericalAnswerKey,
+  releaseExamFullscreen,
   requestExamFullscreen,
 } from "./experience.mjs";
 import { EXACT_PAPER_CATALOG } from "./exact-paper-catalog.mjs";
 import {
+  findCachedPaper,
   getCachedPaper,
   hydrateQuestionImages,
+  listCachedPaperSources,
   listCachedPapers,
   paperCacheKey,
 } from "./offline-storage.mjs";
@@ -134,10 +138,26 @@ export function mergePaperCatalogs(archivePapers = [], fallbackPapers = []) {
 export async function loadPaperCatalog(exam, options = {}) {
   const loadIndex = options.loadIndex || dataJson;
   const builtIn = options.archiveCatalog || EXACT_PAPER_CATALOG;
+  const loadSaved = options.loadSavedPapers || listCachedPaperSources;
+  // Papers downloaded on this device stay selectable even when the chapter
+  // index cannot be loaded (offline before it was ever cached).
+  const savedPapers = async () => {
+    try {
+      return normalizePaperCatalog(await loadSaved(exam));
+    } catch {
+      return [];
+    }
+  };
 
   if (exam !== "JEE_Main") {
-    const index = await loadIndex("papers.json");
-    return normalizePaperCatalog(index?.exams?.[exam] || index);
+    try {
+      const index = await loadIndex("papers.json");
+      return normalizePaperCatalog(index?.exams?.[exam] || index);
+    } catch (error) {
+      const saved = await savedPapers();
+      if (saved.length) return saved;
+      throw error;
+    }
   }
 
   let archivePapers = normalizePaperCatalog(builtIn?.exams?.[exam] || builtIn);
@@ -158,7 +178,9 @@ export async function loadPaperCatalog(exam, options = {}) {
       legacyIndex?.exams?.[exam] || legacyIndex,
     );
   } catch {
-    // Archive papers are still available when the chapter index is missing.
+    // Archive papers are still available when the chapter index is missing;
+    // chapter-bank papers saved for offline use are kept selectable.
+    legacyPapers = (await savedPapers()).filter((paper) => !paper.archiveFile);
   }
 
   const merged = mergePaperCatalogs(archivePapers, legacyPapers);
@@ -173,6 +195,9 @@ export async function loadPaperCatalog(exam, options = {}) {
 export function buildExactPaperQuestions(groups, exam, paper) {
   if (!paper?.title) return [];
 
+  // Sessions and reports restore from this (offline copy first), exactly
+  // like archive papers, instead of re-reading chapter files over the network.
+  const paperSource = compactPaperSource(paper);
   const seen = new Set();
   const orderedGroups = [...(Array.isArray(groups) ? groups : [])].sort(
     (left, right) => {
@@ -208,6 +233,7 @@ export function buildExactPaperQuestions(groups, exam, paper) {
           exam,
           subject: group.subject,
           chapter: chapterName || question.chapter || "",
+          paperSource,
         },
       });
     }
@@ -235,7 +261,13 @@ export function buildExactPaperQuestions(groups, exam, paper) {
   return selected.map((entry) => entry.item);
 }
 
-function compactPaperSource(paper = {}) {
+/**
+ * The small, restorable description of a paper that sessions and reports
+ * keep (instead of megabytes of question HTML). It resolves to the same
+ * offline-copy key as the catalog entry, and chapter-bank papers keep their
+ * chapter files so they can also be rebuilt online.
+ */
+export function compactPaperSource(paper = {}) {
   const fields = [
     "id",
     "slug",
@@ -258,9 +290,26 @@ function compactPaperSource(paper = {}) {
   }
   source.archiveFile = String(paper.archiveFile || "");
   source.slug = String(paper.slug || paper.id || "");
-  source.source = String(paper.source || JEE_MAIN_ARCHIVE);
+  source.source = String(
+    paper.source || (source.archiveFile ? JEE_MAIN_ARCHIVE : "data.zip"),
+  );
   source.questionCount = Number(paper.questionCount) || 0;
+  if (!source.archiveFile && Array.isArray(paper.sources)) {
+    const chapters = paper.sources
+      .filter((entry) => entry && typeof entry === "object" && entry.file)
+      .map(({ subject, chapter, file }) => ({ subject, chapter, file }));
+    if (chapters.length) source.sources = chapters;
+  }
   return source;
+}
+
+function withPaperSource(questions, paper) {
+  if (!Array.isArray(questions) || !paper) return questions;
+  if (questions.every((question) => question?.paperSource)) return questions;
+  const paperSource = compactPaperSource(paper);
+  return questions.map((question) =>
+    question && !question.paperSource ? { ...question, paperSource } : question,
+  );
 }
 
 function parseMathDefPaths(defs, doc) {
@@ -572,7 +621,11 @@ export async function loadExactPaperQuestions(exam, paper, options = {}) {
               paper.archiveFile || paper.slug || cached.key,
             );
           }
-          return await hydrateQuestionImages(cached.questions);
+          // Copies saved before chapter-bank papers recorded a source get one
+          // here, so their sessions resume from this copy too.
+          return await hydrateQuestionImages(
+            withPaperSource(cached.questions, cached.paperSource || paper),
+          );
         }
       }
     } catch {
@@ -711,6 +764,62 @@ export async function restoreExactPaperSession(
   return restored.questions;
 }
 
+/**
+ * Questions for "Resume test". Exact papers are restored from their offline
+ * copy (or archive); other sessions use `loadRefs` (the chapter bank).
+ * Unfinished chapter-bank papers started before sessions recorded a paper
+ * source are matched to a downloaded copy by title so they resume offline.
+ */
+export async function restoreSessionQuestions(draft, loadRefs, options = {}) {
+  const loader = options.loader || loadExactPaperQuestions;
+  const fallback = () => (typeof loadRefs === "function" ? loadRefs() : []);
+  if (draft?.exactPaperSource) return restoreExactPaperSession(draft, loader);
+  if (draft?.exactPaper && draft.title) {
+    const findSaved = options.findSavedPaper || findCachedPaper;
+    let saved = null;
+    try {
+      saved = await findSaved({ title: draft.title, exam: draft.exam });
+    } catch {
+      saved = null;
+    }
+    if (saved?.paperSource) {
+      try {
+        const questions = await restoreExactPaperSession(
+          { ...draft, exactPaperSource: compactPaperSource(saved.paperSource) },
+          loader,
+        );
+        if (questions.length) return questions;
+      } catch {
+        // Fall back to the question bank below.
+      }
+    }
+  }
+  return fallback();
+}
+
+function isBrowserOffline() {
+  return typeof navigator !== "undefined" && navigator.onLine === false;
+}
+
+/** The catalog entry of the most recently downloaded paper for this exam. */
+export async function latestSavedPaper(papers, exam, listSaved = listCachedPapers) {
+  let summaries = [];
+  try {
+    summaries = await listSaved();
+  } catch {
+    return null;
+  }
+  const byKey = new Map(
+    (Array.isArray(papers) ? papers : []).map((paper) => [paperCacheKey(paper), paper]),
+  );
+  for (const summary of summaries || []) {
+    if (exam && summary?.exam && summary.exam !== exam) continue;
+    const paper = byKey.get(summary?.key);
+    if (paper) return paper;
+  }
+  return null;
+}
+
 function PaperSelect({ React, label, value, disabled, onChange, children }) {
   const h = React.createElement;
   return h("label", { className: "exact-paper-field" }, [
@@ -764,14 +873,22 @@ export function ExactPaperPicker({ React, exam, start }) {
     setCatalogError("");
     setCatalogExam("");
     loadPaperCatalog(exam)
-      .then((papers) => {
+      .then(async (papers) => {
         if (!current) return;
         const years = availablePaperYears(papers);
         const firstYear = years[0] || "";
+        let initial = papersForYear(papers, firstYear)[0] || null;
+        // Offline, open on the most recently saved paper rather than the
+        // newest one, which most likely is not on this device.
+        if (isBrowserOffline()) {
+          const saved = await latestSavedPaper(papers, exam);
+          if (saved) initial = saved;
+        }
+        if (!current) return;
         setCatalog(papers);
         setCatalogExam(exam);
-        setYear(firstYear);
-        setPaperId(papersForYear(papers, firstYear)[0]?.id || "");
+        setYear(initial?.year || firstYear);
+        setPaperId(initial?.id || "");
       })
       .catch((loadError) => {
         if (current)
@@ -814,16 +931,30 @@ export function ExactPaperPicker({ React, exam, start }) {
       }
       start(questions, selected.title, "test", 180, true);
     } catch (loadError) {
+      releaseExamFullscreen();
       setError(
-        loadError?.message || "The selected paper could not be prepared.",
+        isOfflineError(loadError)
+          ? "This paper isn't saved on this device yet, and you're offline. Choose a paper marked “saved offline”, or reconnect to load it."
+          : loadError?.message || "The selected paper could not be prepared.",
       );
     } finally {
       setStarting(false);
     }
   };
 
+  const savedYears = new Set(
+    papers
+      .filter((paper) => cachedKeys.has(paperCacheKey(paper)))
+      .map((paper) => paper.year),
+  );
   const yearOptions = years.map((availableYear) =>
-    h("option", { key: availableYear, value: availableYear }, availableYear),
+    h(
+      "option",
+      { key: availableYear, value: availableYear },
+      savedYears.has(availableYear)
+        ? `${availableYear} · saved offline`
+        : availableYear,
+    ),
   );
   const paperOptions = yearPapers.map((paper) =>
     h(
@@ -1020,7 +1151,8 @@ export function ExactPaperPicker({ React, exam, start }) {
             paper: selected,
             loadQuestions: (loadExam, loadPaper) =>
               loadExactPaperQuestions(loadExam, loadPaper, { useCache: false }),
-            loadYearData: (fileName) => exactPaperYearJson(fileName),
+            // Reuse the year file loadQuestions just parsed (up to ~45 MB).
+            loadYearData: (fileName) => loadExactPaperYear(fileName),
             onStatusChange: refreshCachedKeys,
           }),
       ]),
