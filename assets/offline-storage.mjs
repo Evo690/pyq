@@ -10,7 +10,8 @@
  *
  * 2. Offline exact-paper cache in IndexedDB. A downloaded paper stores its
  *    normalized questions (with the original remote image URLs), the
- *    MathJax SVG defs, and every embedded image as a Blob. Loading a paper
+ *    MathJax SVG defs, and readable images as Blobs. Opaque CDN responses
+ *    stay in Cache Storage for the service worker. Loading a paper
  *    hydrates cached images to blob: URLs, so the paper works with no
  *    network and still scores through the existing analyzeTest logic.
  *
@@ -26,7 +27,9 @@ export const STORE_SCHEMA_VERSION = 2;
 export const OFFLINE_DB_NAME = "pyq-offline";
 export const OFFLINE_DB_VERSION = 1;
 export const OFFLINE_CACHE_VERSION = 1;
-export const OFFLINE_IMAGE_CACHE_NAME = "pyq-images-2026-11-18.1";
+// Also used by sw.js. Unlike the runtime image cache, saved diagrams must
+// survive shell upgrades and must not be pruned while a paper references them.
+const PAPER_IMAGE_CACHE = "pyq-paper-images-v1";
 export const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
 
 /* -------------------------------------------------------------------------- */
@@ -320,7 +323,11 @@ function isRemoteImageUrl(url) {
   );
 }
 
-/** Single effective image URL per diagram in an HTML fragment. */
+// Archive fragments are also rewritten in Node when no DOM is available.
+const IMAGE_TAG = /<(?:img|source)\b(?:[^>"']|"[^"]*"|'[^']*')*>/gi;
+const ATTRIBUTE = /\s+([^\s=/>]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+)))?/g;
+
+/** All image URLs referenced by <img>/<source> tags in an HTML fragment. */
 export function extractImageUrlsFromHtml(html) {
   if (!html || typeof html !== "string") return [];
   const flattened = flattenPictureHtml(html);
@@ -328,24 +335,12 @@ export function extractImageUrlsFromHtml(html) {
   const add = (url) => {
     if (isRemoteImageUrl(url)) urls.add(String(url).trim());
   };
-  const tagPattern = /<img\b[^>]*>/gi;
-  let match;
-  while ((match = tagPattern.exec(flattened)) !== null) {
-    const tag = match[0];
-    const src = getTagAttr(tag, "src");
-    if (src) {
-      add(src);
-      continue;
-    }
-    const orsrc = getTagAttr(tag, "data-orsrc");
-    if (orsrc) {
-      add(orsrc);
-      continue;
-    }
-    const srcset = getTagAttr(tag, "srcset");
-    if (srcset) {
-      const first = parseSrcset(srcset)[0];
-      if (first) add(first);
+  for (const [tag] of html.matchAll(IMAGE_TAG)) {
+    for (const [, name, dq, sq, bare] of tag.matchAll(ATTRIBUTE)) {
+      const key = name.toLowerCase();
+      const value = dq ?? sq ?? bare;
+      if (key === "src" || key === "data-orsrc") add(value);
+      if (key === "srcset") parseSrcset(value).forEach(add);
     }
   }
   return [...urls];
@@ -410,6 +405,27 @@ function stripImgFallbackAttrs(imgTag) {
   );
 }
 
+// The renderer deliberately removes srcset. Give each picture one ordinary
+// img src before rewriting, preserving alt, dimensions and other img metadata.
+function flattenPicture(_, body) {
+  const tags = body.match(IMAGE_TAG) || [];
+  const img = tags.find((tag) => /^<img\b/i.test(tag)) || "<img>";
+  let src, original, candidate;
+  let attrs = "";
+  for (const tag of [img, ...tags.filter((tag) => /^<source\b/i.test(tag))]) {
+    for (const [raw, name, dq, sq, bare] of tag.matchAll(ATTRIBUTE)) {
+      const key = name.toLowerCase();
+      const value = (dq ?? sq ?? bare ?? "").trim();
+      if (key === "src") src ||= value;
+      if (key === "data-orsrc") original ||= value;
+      if (key === "srcset") candidate ||= parseSrcset(value)[0];
+      if (tag === img && key !== "src" && key !== "srcset") attrs += raw;
+    }
+  }
+  const url = src || original || candidate;
+  return url ? `<img${attrs} src="${url.replace(/"/g, "&quot;")}">` : img;
+}
+
 /**
  * Flatten <picture><source srcset>…</picture> elements into a plain <img src>
  * using src -> data-orsrc -> first srcset candidate, because the sanitizer
@@ -417,65 +433,18 @@ function stripImgFallbackAttrs(imgTag) {
  */
 export function flattenPictureHtml(html) {
   if (!html || typeof html !== "string") return html || "";
-  let out = String(html);
-  if (/<picture\b/i.test(out)) {
-    out = out.replace(
-      /<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi,
-      (full, inner) => {
-        const imgMatch = inner.match(/<img\b[^>]*>/i);
-        const imgTag = imgMatch ? imgMatch[0] : "";
-
-        const imgSrc = imgTag ? getTagAttr(imgTag, "src") : "";
-        const imgOrsrc = imgTag ? getTagAttr(imgTag, "data-orsrc") : "";
-        const imgSrcset = imgTag ? getTagAttr(imgTag, "srcset") : "";
-
-        let resolvedSrc = imgSrc || imgOrsrc || "";
-        if (!resolvedSrc && imgSrcset) {
-          resolvedSrc = parseSrcset(imgSrcset)[0] || "";
-        }
-        if (!resolvedSrc) {
-          const sourcePattern = /<source\b[^>]*>/gi;
-          let sourceMatch;
-          while ((sourceMatch = sourcePattern.exec(inner)) !== null) {
-            const sourceSrcset = getTagAttr(sourceMatch[0], "srcset");
-            const candidate = parseSrcset(sourceSrcset)[0];
-            if (candidate) {
-              resolvedSrc = candidate;
-              break;
-            }
-            const sourceSrc = getTagAttr(sourceMatch[0], "src");
-            if (sourceSrc) {
-              resolvedSrc = sourceSrc;
-              break;
-            }
-          }
-        }
-
-        if (!imgTag) {
-          return resolvedSrc
-            ? `<img src="${resolvedSrc.replace(/"/g, "&quot;")}">`
-            : full;
-        }
-
-        let nextImg = stripImgFallbackAttrs(imgTag);
-        if (!imgSrc && resolvedSrc) {
-          nextImg = setImgSrcAttr(nextImg, resolvedSrc);
-        }
-        return nextImg;
-      },
-    );
-  }
-  return out.replace(/<img\b[^>]*>/gi, (imgTag) => {
-    const existingSrc = getTagAttr(imgTag, "src");
-    const orsrc = getTagAttr(imgTag, "data-orsrc");
-    const srcsetCandidate = parseSrcset(getTagAttr(imgTag, "srcset"))[0] || "";
-    const resolvedSrc = existingSrc || orsrc || srcsetCandidate;
-    let nextImg = stripImgFallbackAttrs(imgTag);
-    if (!existingSrc && resolvedSrc) {
-      nextImg = setImgSrcAttr(nextImg, resolvedSrc);
-    }
-    return nextImg;
-  });
+  const map = toUrlMap(urlMap);
+  const flattened = html.replace(/<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi, flattenPicture);
+  if (!map.size) return flattened;
+  return flattened.replace(IMAGE_TAG, (tag) => tag.replace(ATTRIBUTE, (raw, name, dq, sq, bare) => {
+    const key = name.toLowerCase();
+    const url = dq ?? sq ?? bare;
+    let value;
+    if (key === "src" || key === "data-orsrc") value = map.get(url);
+    if (key === "srcset" && url) value = rewriteSrcsetValue(url, map);
+    if (value == null) return raw;
+    return ` ${name}="${value.replace(/"/g, "&quot;")}"`;
+  }));
 }
 
 function questionNeedsHtmlNormalization(question) {
@@ -523,7 +492,6 @@ export function rewriteHtmlImages(html, urlMap) {
 export function rewriteQuestionImages(question, urlMap) {
   if (!question) return question;
   const map = toUrlMap(urlMap);
-  if (!map.size && !questionNeedsHtmlNormalization(question)) return question;
   const next = { ...question };
   if (typeof next.question_text === "string") {
     next.question_text = rewriteHtmlImages(next.question_text, map);
@@ -887,6 +855,14 @@ export async function removeCachedPaper(paperSourceOrKey, deps = {}) {
       );
       revokeImageObjectUrl(url);
     }
+    const cacheStorage = deps.caches ?? globalThis.caches;
+    if (await cacheStorage?.has(PAPER_IMAGE_CACHE)) {
+      const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+      const keep = new Set([...referenced].map((url) => new URL(url, globalThis.location?.href).href));
+      for (const request of await cache.keys()) {
+        if (!keep.has(request.url)) await cache.delete(request);
+      }
+    }
   } catch {
     // Orphan cleanup is best-effort.
   }
@@ -910,6 +886,7 @@ export async function clearOfflineCache(deps = {}) {
       // Continue clearing the remaining stores.
     }
   }
+  await (deps.caches ?? globalThis.caches)?.delete(PAPER_IMAGE_CACHE);
   revokeAllImageObjectUrls();
   return true;
 }
@@ -954,9 +931,19 @@ export async function cacheStats(deps = {}) {
         sum + (JSON.stringify(entry.questions || []).length || 0),
       0,
     );
+    let opaqueCount = 0;
+    try {
+      const cacheStorage = deps.caches ?? globalThis.caches;
+      if (await cacheStorage?.has(PAPER_IMAGE_CACHE)) {
+        const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+        opaqueCount = (await cache.keys()).length;
+      }
+    } catch {
+      // Still report readable image counts if Cache Storage is unavailable.
+    }
     return {
       papers: (papers || []).length,
-      images: (images || []).length,
+      images: (images || []).length + opaqueCount,
       imageBytes,
       papersBytes,
       totalBytes: imageBytes + papersBytes,
@@ -1027,15 +1014,10 @@ export async function hydrateQuestionImages(questions, deps = {}) {
   if (!Array.isArray(questions) || !questions.length) return questions;
   const urls = extractPaperImageUrls(questions);
   let urlMap = new Map();
-  if (urls.length) {
-    try {
-      urlMap = await getImageObjectUrls(urls, deps);
-    } catch {
-      urlMap = new Map();
-    }
-  }
-  if (!urlMap.size && !questions.some(questionNeedsHtmlNormalization)) {
-    return questions;
+  try {
+    urlMap = await getImageObjectUrls(urls, deps);
+  } catch {
+    // Still normalize pictures served at their original URLs by the worker.
   }
   return questions.map((question) => rewriteQuestionImages(question, urlMap));
 }
@@ -1074,7 +1056,7 @@ export async function downloadPaperImages(urls, options = {}) {
   const onProgress = options.onProgress;
   const signal = options.signal;
   const succeeded = new Map();
-  const opaque = new Set();
+  let opaqueCount = 0;
   const failed = [];
   let cursor = 0;
 
@@ -1088,33 +1070,22 @@ export async function downloadPaperImages(urls, options = {}) {
       const url = urls[cursor];
       cursor += 1;
       try {
+        const init = { credentials: "omit", signal };
         let response;
         try {
-          response = await fetchImpl(url, {
-            mode: "cors",
-            credentials: "omit",
-            cache: "no-store",
-            signal,
-          });
-        } catch (corsError) {
-          if (signal?.aborted) throw corsError;
-          response = await fetchImpl(url, {
-            mode: "no-cors",
-            credentials: "omit",
-            signal,
-          });
+          response = await fetchImpl(url, { ...init, mode: "cors" });
+        } catch (error) {
+          if (signal?.aborted) throw error;
+          response = await fetchImpl(url, { ...init, mode: "no-cors" });
         }
-        if (isOpaqueResponse(response)) {
-          const cache = await openImageCache(options.caches);
-          if (!cache) {
-            throw new Error(
-              "Opaque image response cannot be cached without Cache Storage.",
-            );
-          }
-          const toStore =
-            typeof response.clone === "function" ? response.clone() : response;
-          await cache.put(url, toStore);
-          opaque.add(url);
+        if (response.type === "opaque") {
+          // Its body is unreadable (blob() is empty). Store the response
+          // itself; the worker serves it to img requests at the original URL.
+          const cacheStorage = options.caches ?? globalThis.caches;
+          if (!cacheStorage) throw new Error("Image cache is unavailable.");
+          const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+          await cache.put(url, response);
+          opaqueCount++;
         } else {
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
           const blob = await response.blob();
@@ -1143,10 +1114,9 @@ export async function downloadPaperImages(urls, options = {}) {
         failed.push({ url, error: error?.message || String(error) });
       }
       onProgress?.({
-        loaded: succeeded.size + opaque.size + failed.length,
+        loaded: succeeded.size + opaqueCount + failed.length,
         total: urls.length,
-        succeeded: succeeded.size + opaque.size,
-        opaque: opaque.size,
+        succeeded: succeeded.size + opaqueCount,
         failed: failed.length,
         url,
       });
@@ -1158,13 +1128,13 @@ export async function downloadPaperImages(urls, options = {}) {
     () => worker(),
   );
   await Promise.all(workers);
-  return { succeeded, failed, opaque };
+  return { succeeded, opaqueCount, failed };
 }
 
 /**
  * Download an exact paper for offline use: load questions, fetch every
  * embedded image (skipping already-cached ones), and persist everything
- * to IndexedDB. Loaders are injected so this module stays independent of
+ * locally. Loaders are injected so this module stays independent of
  * the ZIP/chapter loaders in exact-paper.mjs.
  */
 export async function downloadExactPaperOffline({
@@ -1206,24 +1176,20 @@ export async function downloadExactPaperOffline({
   let cachedBytes = 0;
   for (const url of urls) {
     const existing = await getCachedImageBlob(url, deps);
-    if (existing) {
-      cachedBytes += existing.size || 0;
-      continue;
+    if (existing) cachedBytes += existing.size || 0;
+    else {
+      const cached = await (deps.caches ?? globalThis.caches)?.match(url, {
+        cacheName: PAPER_IMAGE_CACHE, ignoreVary: true,
+      }).catch(() => null);
+      if (!cached) missing.push(url);
     }
-    if (imageCache) {
-      const cachedResponse = await imageCache
-        .match(url, { ignoreVary: true })
-        .catch(() => null);
-      if (cachedResponse) continue;
-    }
-    missing.push(url);
   }
   onProgress?.({
     phase: "images",
     loaded: urls.length - missing.length,
     total: urls.length,
   });
-  const { succeeded, failed, opaque } = await downloadPaperImages(missing, {
+  const { succeeded, opaqueCount, failed } = await downloadPaperImages(missing, {
     fetchImpl: deps.fetchImpl,
     caches: deps.caches,
     signal,
@@ -1256,8 +1222,7 @@ export async function downloadExactPaperOffline({
   return {
     summary,
     failed,
-    succeededCount: succeeded.size + opaque.size,
-    opaqueCount: opaque.size,
+    succeededCount: succeeded.size + opaqueCount,
     totalImages: urls.length,
   };
 }

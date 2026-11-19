@@ -16,7 +16,8 @@
 const VERSION = "2026-11-19.1";
 const SHELL_CACHE = `pyq-shell-${VERSION}`;
 const DATA_CACHE = `pyq-data-${VERSION}`;
-const IMAGE_CACHE = "pyq-images-2026-11-18.1";
+const IMAGE_CACHE = `pyq-images-${VERSION}`;
+const PAPER_IMAGE_CACHE = "pyq-paper-images-v1"; // shared with offline-storage.mjs
 const RUNTIME_CACHE = `pyq-runtime-${VERSION}`;
 
 const SHELL_ASSETS = [
@@ -99,7 +100,7 @@ self.addEventListener("install", (event) => {
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
-      const keep = new Set([SHELL_CACHE, DATA_CACHE, IMAGE_CACHE, RUNTIME_CACHE]);
+      const keep = new Set([SHELL_CACHE, DATA_CACHE, IMAGE_CACHE, RUNTIME_CACHE, PAPER_IMAGE_CACHE]);
       const names = await caches.keys();
       await Promise.all(
         names.map((name) => (keep.has(name) ? undefined : caches.delete(name))),
@@ -180,6 +181,10 @@ async function pruneImageCache() {
 }
 
 async function handleImage(request) {
+  if (request.mode === "no-cors") {
+    const saved = await caches.match(request, { cacheName: PAPER_IMAGE_CACHE, ignoreVary: true });
+    if (saved) return saved;
+  }
   const cache = await caches.open(IMAGE_CACHE);
   const cached = await cache.match(request, { ignoreVary: true });
   if (cached) return cached;

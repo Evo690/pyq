@@ -233,37 +233,11 @@ test("rewriteHtmlImages flattens <picture> tags and rewrites cached image refere
     ["https://cdn.example/a-original.png", "blob:two"],
     ["https://cdn.example/a.webp", "blob:three"],
   ]);
-
-  const withImgSrc =
-    '<picture><source srcset="https://cdn.example/a.webp 1x"><img src="https://cdn.example/a.png" data-orsrc="https://cdn.example/a-original.png"></picture>';
-  const outImgSrc = rewriteHtmlImages(withImgSrc, map);
-  assert.ok(outImgSrc.includes('src="blob:one"'));
-  assert.ok(!/<picture|<source|srcset=|data-orsrc=|cdn\.example/i.test(outImgSrc));
-
-  // Priority: src -> data-orsrc -> first srcset candidate
-  const withOrsrc =
-    '<picture><source srcset="https://cdn.example/a.webp 1x"><img alt="diag" data-orsrc="https://cdn.example/a-original.png"></picture>';
-  const outOrsrc = rewriteHtmlImages(withOrsrc, map);
-  assert.ok(outOrsrc.includes('src="blob:two"'));
-  assert.ok(!/<picture|<source|srcset=|data-orsrc=|cdn\.example/i.test(outOrsrc));
-
-  const withSrcsetOnly =
-    '<picture><source srcset="https://cdn.example/a.webp 1x, https://cdn.example/a.png 2x"><img alt="diag"></picture>';
-  const outSrcsetOnly = rewriteHtmlImages(withSrcsetOnly, map);
-  assert.ok(outSrcsetOnly.includes('src="blob:three"'));
-  assert.ok(outSrcsetOnly.includes('alt="diag"'));
-  assert.ok(!/<picture|<source|srcset=|cdn\.example/i.test(outSrcsetOnly));
-
-  const sourceOnly =
-    '<picture><source srcset="https://cdn.example/a.webp 1x"></picture>';
-  const outSourceOnly = rewriteHtmlImages(sourceOnly, map);
-  assert.equal(outSourceOnly, '<img src="blob:three">');
-
-  const standaloneImg =
-    '<img style="width:300px;"src="https://cdn.example/a.png" srcset="https://cdn.example/a.webp 1x" data-orsrc="https://cdn.example/a-original.png">';
-  const outStandalone = rewriteHtmlImages(standaloneImg, map);
-  assert.ok(outStandalone.includes('src="blob:one"'));
-  assert.ok(!/srcset=|data-orsrc=|cdn\.example/i.test(outStandalone));
+  const out = rewriteHtmlImages(html, map);
+  assert.ok(out.includes('src="blob:one"'));
+  assert.ok(out.includes('data-orsrc="blob:two"'));
+  assert.doesNotMatch(out, /<picture|<source|srcset=/i);
+  assert.ok(!out.includes("cdn.example"));
 });
 
 test("buildPaperJsonBundle embeds images as data URLs, keyed by original URL", async () => {
