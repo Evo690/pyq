@@ -5,6 +5,13 @@ import {
   requestExamFullscreen,
 } from "./experience.mjs";
 import { EXACT_PAPER_CATALOG } from "./exact-paper-catalog.mjs";
+import {
+  getCachedPaper,
+  hydrateQuestionImages,
+  listCachedPapers,
+  paperCacheKey,
+} from "./offline-storage.mjs";
+import { OfflinePaperControls } from "./offline-ui.mjs";
 
 const JEE_MAIN_ARCHIVE = "jee-main-papers-by-year.zip";
 const SVG_NS = "http://www.w3.org/2000/svg";
@@ -508,6 +515,11 @@ export function normalizeArchivePaperQuestions(
 
 const exactPaperYearCache = new Map();
 
+/** Drop memoized year files (so the offline copy is the only source left). */
+export function resetExactPaperYearCache() {
+  exactPaperYearCache.clear();
+}
+
 /** Small LRU cache: one 45 MB year file is enough; avoid retaining all years. */
 export async function loadExactPaperYear(
   fileName,
@@ -533,43 +545,80 @@ export async function loadExactPaperYear(
   return exactPaperYearCache.get(key);
 }
 
-/** Load the exact paper from the year-wise ZIP, or fall back to chapter files. */
+/**
+ * Load the exact paper. A previously downloaded offline copy (IndexedDB)
+ * is preferred so the paper — with every embedded diagram — works with no
+ * network and still scores through the normal result flow. Otherwise the
+ * paper is read from the year-wise ZIP (or chapter files) and any cached
+ * images are hydrated to blob: URLs.
+ */
 export async function loadExactPaperQuestions(exam, paper, options = {}) {
+  const useCache = options.useCache !== false;
+  if (useCache && paper?.title) {
+    try {
+      const cached = await getCachedPaper(paper);
+      if (
+        cached &&
+        Array.isArray(cached.questions) &&
+        cached.questions.length
+      ) {
+        const expected = Number(
+          paper.questionCount || cached.questionCount || 0,
+        );
+        if (!expected || cached.questions.length === expected) {
+          if (cached.mathjaxDefs) {
+            installExactPaperMathDefs(
+              cached.mathjaxDefs,
+              paper.archiveFile || paper.slug || cached.key,
+            );
+          }
+          return await hydrateQuestionImages(cached.questions);
+        }
+      }
+    } catch {
+      // Cache read failures must never break online loading.
+    }
+  }
+
+  let questions;
   if (exam === "JEE_Main" && paper?.archiveFile) {
     const yearData = await loadExactPaperYear(
       paper.archiveFile,
       options.loadYear || exactPaperYearJson,
     );
-    const questions = normalizeArchivePaperQuestions(
-      yearData,
-      paper,
-      exam,
-      options,
-    );
+    questions = normalizeArchivePaperQuestions(yearData, paper, exam, options);
     if (!questions.length) {
       throw new Error("No questions were found for this paper in the source archive.");
     }
-    return questions;
+  } else {
+    const sources = [...(paper?.sources || [])].sort((left, right) => {
+      const leftSubject = SUBJECT_ORDER[left.subject] ?? 99;
+      const rightSubject = SUBJECT_ORDER[right.subject] ?? 99;
+      return (
+        leftSubject - rightSubject ||
+        String(left.chapter || "").localeCompare(String(right.chapter || ""))
+      );
+    });
+
+    const groups = await Promise.all(
+      sources.map(async (source) => ({
+        subject: source.subject,
+        chapter: source.chapter,
+        questions: await dataJson(`${exam}/${source.file}`),
+      })),
+    );
+
+    questions = buildExactPaperQuestions(groups, exam, paper);
   }
 
-  const sources = [...(paper?.sources || [])].sort((left, right) => {
-    const leftSubject = SUBJECT_ORDER[left.subject] ?? 99;
-    const rightSubject = SUBJECT_ORDER[right.subject] ?? 99;
-    return (
-      leftSubject - rightSubject ||
-      String(left.chapter || "").localeCompare(String(right.chapter || ""))
-    );
-  });
-
-  const groups = await Promise.all(
-    sources.map(async (source) => ({
-      subject: source.subject,
-      chapter: source.chapter,
-      questions: await dataJson(`${exam}/${source.file}`),
-    })),
-  );
-
-  return buildExactPaperQuestions(groups, exam, paper);
+  if (useCache) {
+    try {
+      return await hydrateQuestionImages(questions);
+    } catch {
+      return questions;
+    }
+  }
+  return questions;
 }
 
 function responseFields(stored) {
@@ -691,6 +740,20 @@ export function ExactPaperPicker({ React, exam, start }) {
   const [paperId, setPaperId] = React.useState("");
   const [starting, setStarting] = React.useState(false);
   const [error, setError] = React.useState("");
+  const [cachedKeys, setCachedKeys] = React.useState(() => new Set());
+
+  const refreshCachedKeys = React.useCallback(async () => {
+    try {
+      const summaries = await listCachedPapers();
+      setCachedKeys(new Set(summaries.map((entry) => entry.key)));
+    } catch {
+      // Offline badges are best-effort.
+    }
+  }, []);
+
+  React.useEffect(() => {
+    refreshCachedKeys();
+  }, [refreshCachedKeys, exam]);
 
   React.useEffect(() => {
     let current = true;
@@ -763,9 +826,14 @@ export function ExactPaperPicker({ React, exam, start }) {
     h(
       "option",
       { key: paper.id, value: paper.id },
-      `${paper.label} · ${paper.questionCount} questions`,
+      `${paper.label} · ${paper.questionCount} questions${
+        cachedKeys.has(paperCacheKey(paper)) ? " · saved offline" : ""
+      }`,
     ),
   );
+  const selectedCached = selected
+    ? cachedKeys.has(paperCacheKey(selected))
+    : false;
   const count = selected?.questionCount || 0;
   const subjectSummary = selected
     ? [
@@ -936,9 +1004,22 @@ export function ExactPaperPicker({ React, exam, start }) {
           catalogLoading
             ? "Getting the paper list ready"
             : selected
-              ? `${examName} · ${selected.year} · ${selected.label}`
+              ? `${examName} · ${selected.year} · ${selected.label}${
+                  selectedCached ? " · offline ready" : ""
+                }`
               : "No papers available for this exam",
         ),
+        selected &&
+          h(OfflinePaperControls, {
+            React,
+            key: `offline-${selected.id}`,
+            exam,
+            paper: selected,
+            loadQuestions: (loadExam, loadPaper) =>
+              loadExactPaperQuestions(loadExam, loadPaper, { useCache: false }),
+            loadYearData: (fileName) => exactPaperYearJson(fileName),
+            onStatusChange: refreshCachedKeys,
+          }),
       ]),
     ],
   );

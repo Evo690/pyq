@@ -1,4 +1,14 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/><meta name="theme-color" content="#163d31"/><meta name="description" content="A focused workspace for JEE preparation. Explore real previous-year questions, build custom tests, and track your progress."/><title>PYQ Studio — A little practice. A big difference.</title><link rel="icon" href="/favicon.svg"/>  <script type="module" crossorigin src="/assets/index-ff8d0e4d.js"></script>
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/><meta name="theme-color" content="#163d31"/><meta name="description" content="A focused workspace for JEE preparation. Explore real previous-year questions, build custom tests, and track your progress."/><title>PYQ Studio — A little practice. A big difference.</title><link rel="icon" href="/favicon.svg"/>  <link rel="manifest" href="/manifest.webmanifest"/>
+  <script type="module" crossorigin src="/assets/index-ff8d0e4d.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-570dc29c.css">
   <link rel="stylesheet" href="/assets/ui-fix.css">
+  <script>
+    // Offline shell: registered early so a downloaded paper can be reopened
+    // with no network. Failure is non-fatal (app still works online).
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  </script>
 </head><body><div id="root"></div></body></html>
