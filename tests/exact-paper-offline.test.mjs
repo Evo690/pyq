@@ -252,3 +252,64 @@ test("without an offline copy the loader still needs the archive", async (t) => 
     fake.restore();
   }
 });
+
+test("2026 multi-srcset paper downloads only necessary diagram URLs and leaves zero remote image URLs offline", async (t) => {
+  if (typeof DecompressionStream === "undefined") {
+    t.skip("DecompressionStream is unavailable");
+    return;
+  }
+  const paper2026 = normalizePaperCatalog(catalog.exams.JEE_Main).find(
+    (entry) => entry.slug === "jee-main-2026-online-8th-april-evening-shift",
+  );
+  assert.ok(paper2026, "2026 paper must exist in catalog");
+
+  const fake = installFakeIndexedDb();
+  const restoreFetch = withOfflineNetwork();
+  try {
+    const result = await downloadExactPaperOffline({
+      paperSource: paper2026,
+      exam: "JEE_Main",
+      paper: paper2026,
+      loadQuestions: (exam, paper) =>
+        loadExactPaperQuestions(exam, paper, { useCache: false }),
+      deps: { indexedDB: fake.indexedDB, fetchImpl: imageFetch() },
+    });
+    assert.equal(result.failed.length, 0);
+    // Previously this paper attempted 448 downloads (src + data-orsrc + 6 srcset widths).
+    assert.ok(
+      result.summary.imageCount > 0 && result.summary.imageCount <= 70,
+      `expected ~64 necessary images, got ${result.summary.imageCount}`,
+    );
+  } finally {
+    restoreFetch();
+  }
+
+  const restoreOffline = withNoNetwork();
+  forgetInMemoryArchives();
+  try {
+    const questions = await loadExactPaperQuestions("JEE_Main", paper2026);
+    const markup = JSON.stringify(questions);
+    assert.ok(!markup.includes("examgoal.net"));
+    assert.ok(markup.includes("blob:"));
+  } finally {
+    restoreOffline();
+    fake.restore();
+  }
+});
+
+test("restoreExactPaperTest preserves non-JEE_Main exam when reloading", async () => {
+  const seen = [];
+  const restored = await restoreExactPaperTest(
+    {
+      exam: "JEE_Advanced",
+      exactPaperSource: { slug: "adv-2024-p1", title: "JEE Advanced 2024 P1" },
+      questions: [{ uid: "u1", userAnswer: "A", timeSpentSeconds: 10 }],
+    },
+    async (exam, source) => {
+      seen.push({ exam, source });
+      return [{ uid: "u1", question_text: "<p>Q</p>" }];
+    },
+  );
+  assert.equal(seen[0].exam, "JEE_Advanced");
+  assert.equal(restored.questions[0].userAnswer, "A");
+});

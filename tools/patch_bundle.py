@@ -56,6 +56,12 @@ REPLACEMENTS = [
         r'''let s=yp.sanitize(String(i),{ALLOWED_URI_REGEXP:/^(?:(?:blob|https?|mailto|tel|callto|sms|cid|xmpp):|[^a-z]|[a-z+.\-]+(?:[^a-z+.\-:]|$))/i,ADD_TAGS:''',
     ),
     (
+        "allow-blob-image-src",
+        "ALLOWED_URI_REGEXP:/^(?:(?:blob|",
+        r'''FORBID_TAGS:["style","iframe"],FORBID_ATTR:["srcset"]});''',
+        r'''FORBID_TAGS:["style","iframe"],FORBID_ATTR:["srcset"],ALLOWED_URI_REGEXP:/^(?:(?:blob|https?|mailto|tel|callto|sms|cid|xmpp):|[^a-z]|[a-z+.\-]+(?:[^a-z+.\-:]|$))/i});''',
+    ),
+    (
         "shared-scoring",
         "const Xr=i=>isScoreableQuestion(i)",
         r'''const Xr=i=>i.type!=="multipleCorrect"&&(i.type==="numerical"?Number.isFinite(Number(i.correct_answer)):(i.options||[]).some(n=>String(n.id)===String(i.correct_answer)));function Cf(i,n){return!Xr(i)||n==null||n===""?!1:i.type==="numerical"?Number.isFinite(Number(n))&&Math.abs(Number(n)-Number(i.correct_answer))<1e-6:String(n)===String(i.correct_answer)}''',
@@ -142,12 +148,20 @@ REPLACEMENTS = [
 ]
 
 
+def _expected_variants(index: int, new: str) -> list[str]:
+    variants = [new]
+    for _, _, later_old, later_new in REPLACEMENTS[index + 1 :]:
+        if later_old in variants[-1]:
+            variants.append(variants[-1].replace(later_old, later_new, 1))
+    return variants
+
+
 def main() -> None:
     source = BUNDLE.read_text(encoding="utf-8")
     applied = []
-    for name, marker, old, new in REPLACEMENTS:
+    for index, (name, marker, old, new) in enumerate(REPLACEMENTS):
         if marker in source:
-            if new in source:
+            if any(variant in source for variant in _expected_variants(index, new)):
                 continue
             raise RuntimeError(f"{name}: patch appears partially applied")
         count = source.count(old)
@@ -155,7 +169,8 @@ def main() -> None:
             raise RuntimeError(f"{name}: expected one match, found {count}")
         source = source.replace(old, new, 1)
         applied.append(name)
-    BUNDLE.write_text(source, encoding="utf-8")
+    if applied:
+        BUNDLE.write_text(source, encoding="utf-8")
     print(f"Patched {len(applied)} bundle locations: {', '.join(applied) or 'none'}")
 
 

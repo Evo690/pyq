@@ -330,6 +330,7 @@ const ATTRIBUTE = /\s+([^\s=/>]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+)))?/g
 /** All image URLs referenced by <img>/<source> tags in an HTML fragment. */
 export function extractImageUrlsFromHtml(html) {
   if (!html || typeof html !== "string") return [];
+  const flattened = flattenPictureHtml(html);
   const urls = new Set();
   const add = (url) => {
     if (isRemoteImageUrl(url)) urls.add(String(url).trim());
@@ -358,13 +359,13 @@ export function extractPaperImageUrls(questions) {
     for (const option of question?.options || []) {
       for (const url of extractImageUrlsFromHtml(option?.text)) urls.add(url);
       for (const url of extractImageUrlsFromHtml(option?.html)) urls.add(url);
-      if (isRemoteImageUrl(option?.image)) urls.add(String(option.image));
+      if (isRemoteImageUrl(option?.image)) urls.add(String(option.image).trim());
     }
     if (isRemoteImageUrl(question?.question_image)) {
-      urls.add(String(question.question_image));
+      urls.add(String(question.question_image).trim());
     }
     if (isRemoteImageUrl(question?.solution_image)) {
-      urls.add(String(question.solution_image));
+      urls.add(String(question.solution_image).trim());
     }
   }
   return [...urls];
@@ -375,17 +376,33 @@ function toUrlMap(urlMap) {
   return new Map(Object.entries(urlMap || {}));
 }
 
-function rewriteSrcsetValue(value, map) {
-  return String(value)
-    .split(",")
-    .map((part) => {
-      const trimmed = part.trim();
-      if (!trimmed) return part;
-      const tokens = trimmed.split(/\s+/);
-      if (map.has(tokens[0])) tokens[0] = map.get(tokens[0]);
-      return tokens.join(" ");
-    })
-    .join(", ");
+function getTagAttr(tag, name) {
+  const re = new RegExp(
+    `(?:^|[\\s"'/])${name}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`,
+    "i",
+  );
+  const match = String(tag).match(re);
+  if (!match) return "";
+  return (match[1] ?? match[2] ?? match[3] ?? "").trim();
+}
+
+function setImgSrcAttr(imgTag, resolvedSrc) {
+  const safeSrc = String(resolvedSrc).replace(/"/g, "&quot;");
+  if (/([\s"'/])src\s*=/i.test(imgTag)) {
+    return imgTag.replace(
+      /([\s"'/])src\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/i,
+      (_, prefix) =>
+        `${prefix === '"' || prefix === "'" ? `${prefix} ` : prefix}src="${safeSrc}"`,
+    );
+  }
+  return imgTag.replace(/\s*\/?>$/, (end) => ` src="${safeSrc}"${end}`);
+}
+
+function stripImgFallbackAttrs(imgTag) {
+  return imgTag.replace(
+    /([\s"'/])(?:srcset|data-orsrc)\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/gi,
+    (_, prefix) => (prefix === '"' || prefix === "'" ? prefix : ""),
+  );
 }
 
 // The renderer deliberately removes srcset. Give each picture one ordinary
@@ -410,10 +427,11 @@ function flattenPicture(_, body) {
 }
 
 /**
- * Replace cached image URLs in <img>/<source> tags with blob:/data: URLs.
- * MathJax SVG (<use href="#…">) and all other markup are left untouched.
+ * Flatten <picture><source srcset>…</picture> elements into a plain <img src>
+ * using src -> data-orsrc -> first srcset candidate, because the sanitizer
+ * forbids srcset and offline mode caches only the single effective image URL.
  */
-export function rewriteHtmlImages(html, urlMap) {
+export function flattenPictureHtml(html) {
   if (!html || typeof html !== "string") return html || "";
   const map = toUrlMap(urlMap);
   const flattened = html.replace(/<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi, flattenPicture);
@@ -427,6 +445,47 @@ export function rewriteHtmlImages(html, urlMap) {
     if (value == null) return raw;
     return ` ${name}="${value.replace(/"/g, "&quot;")}"`;
   }));
+}
+
+function questionNeedsHtmlNormalization(question) {
+  if (!question) return false;
+  const needs = (html) =>
+    Boolean(html && /<(?:picture|img|source)\b/i.test(html));
+  if (needs(question.question_text) || needs(question.solution_text)) {
+    return true;
+  }
+  for (const option of question.options || []) {
+    if (needs(option?.text) || needs(option?.html)) return true;
+  }
+  return false;
+}
+
+/**
+ * Flatten <picture> tags and replace cached image URLs in <img> tags
+ * with blob:/data: URLs. MathJax SVG (<use href="#…">) is left untouched.
+ */
+export function rewriteHtmlImages(html, urlMap) {
+  if (!html || typeof html !== "string") return html || "";
+  const flattened = flattenPictureHtml(html);
+  const map = toUrlMap(urlMap);
+  if (!map.size) return flattened;
+  return flattened.replace(/<img\b[^>]*>/gi, (tag) =>
+    tag.replace(
+      /([\s"'/])(src|data-orsrc)\s*=\s*("([^"]*)"|'([^']*)'|([^\s>]+))/gi,
+      (full, prefix, attr, quoted, doubleQuoted, singleQuoted, unquoted) => {
+        const url = (doubleQuoted ?? singleQuoted ?? unquoted ?? "").trim();
+        if (!map.has(url)) return full;
+        const quote = quoted.startsWith('"')
+          ? '"'
+          : quoted.startsWith("'")
+            ? "'"
+            : '"';
+        const sep =
+          prefix === '"' || prefix === "'" ? `${prefix} ` : prefix;
+        return `${sep}${attr}=${quote}${map.get(url)}${quote}`;
+      },
+    ),
+  );
 }
 
 /** Return a copy of a question with all cached images rewritten. */
@@ -967,8 +1026,31 @@ export async function hydrateQuestionImages(questions, deps = {}) {
 /* Download orchestration                                                      */
 /* -------------------------------------------------------------------------- */
 
+async function openImageCache(cachesImpl) {
+  const storage = cachesImpl ?? globalThis.caches;
+  if (!storage || typeof storage.open !== "function") return null;
+  let cacheName = OFFLINE_IMAGE_CACHE_NAME;
+  if (typeof storage.keys === "function") {
+    try {
+      const names = await storage.keys();
+      const active = names.find((name) => name.startsWith("pyq-images-"));
+      if (active) cacheName = active;
+    } catch {
+      // Fall back to the default image cache name.
+    }
+  }
+  return storage.open(cacheName);
+}
+
+function isOpaqueResponse(response) {
+  return Boolean(
+    response && (response.type === "opaque" || response.status === 0),
+  );
+}
+
 export async function downloadPaperImages(urls, options = {}) {
-  const fetchImpl = options.fetchImpl || globalThis.fetch;
+  const fetchImpl =
+    options.fetchImpl || ((...args) => globalThis.fetch(...args));
   const concurrency = Math.max(1, Math.min(8, options.concurrency || 4));
   const maxBytes = options.maxBytes || MAX_IMAGE_BYTES;
   const onProgress = options.onProgress;
@@ -1089,6 +1171,7 @@ export async function downloadExactPaperOffline({
     }
   }
   const urls = extractPaperImageUrls(questions);
+  const imageCache = await openImageCache(deps.caches).catch(() => null);
   const missing = [];
   let cachedBytes = 0;
   for (const url of urls) {
