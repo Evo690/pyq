@@ -122,6 +122,20 @@ function isCacheable(response) {
   );
 }
 
+/**
+ * Browsers reject a redirected response for a navigation. Hosts with
+ * "pretty URLs" (Cloudflare Pages redirects /index.html to /) would make
+ * the cached shell unusable offline, so keep and serve a clean copy.
+ */
+function cleanResponse(response) {
+  if (!response || !response.redirected) return response;
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers: response.headers,
+  });
+}
+
 /** Copy a response, stamping the worker VERSION that stored it. */
 function stampVersion(response) {
   const headers = new Headers(response.headers);
@@ -190,14 +204,14 @@ async function precache(cache, url, { required = false, keepPrevious = true } = 
   try {
     const response = await fetch(new Request(url, { cache: "reload" }));
     if (!response.ok) throw new Error(`${url} returned HTTP ${response.status}`);
-    await cache.put(url, response);
+    await cache.put(url, cleanResponse(response));
   } catch (error) {
     if (keepPrevious) {
       const existing = await cache.match(url, { ignoreVary: true });
       if (existing) return;
       const previous = await caches.match(url, { ignoreVary: true });
       if (previous) {
-        await cache.put(url, previous);
+        await cache.put(url, cleanResponse(previous));
         return;
       }
     }
@@ -405,7 +419,7 @@ async function handleNavigation(event) {
     (await caches.match("/index.html", { cacheName: SHELL_CACHE, ignoreVary: true })) ||
     (await caches.match("/index.html", { ignoreVary: true })) ||
     (await caches.match("/", { ignoreVary: true }));
-  if (shell) return shell;
+  if (shell) return cleanResponse(shell);
   try {
     return await network;
   } catch {
@@ -456,7 +470,9 @@ self.addEventListener("fetch", (event) => {
   // App shell: navigations get the cached document when offline.
   if (request.mode === "navigate") {
     event.respondWith(
-      handleNavigation(event).catch(async () => (await caches.match("/index.html")) || offlineDocument()),
+      handleNavigation(event).catch(
+        async () => cleanResponse(await caches.match("/index.html")) || offlineDocument(),
+      ),
     );
     return;
   }

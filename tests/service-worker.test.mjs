@@ -7,25 +7,37 @@ const ORIGIN = "https://pyq.example";
 const SOURCE = readFileSync(new URL("../sw.js", import.meta.url), "utf8");
 const OFFLINE = () => new TypeError("NetworkError when attempting to fetch resource.");
 
-/** In-memory Cache Storage with the subset of the API sw.js uses. */
+/** Mark a response as the result of a redirect (Response() cannot set this). */
+function asRedirected(response) {
+  Object.defineProperty(response, "redirected", { value: true });
+  return response;
+}
+
+/**
+ * In-memory Cache Storage with the subset of the API sw.js uses. Like real
+ * browsers, it remembers whether a stored response was redirected.
+ */
 function createCacheStorage() {
   const stores = new Map();
   const key = (request) =>
     new URL(typeof request === "string" ? request : request.url, ORIGIN).href;
+  const copy = (stored) => {
+    if (!stored) return undefined;
+    const response = stored.clone();
+    return stored.redirected ? asRedirected(response) : response;
+  };
   const cacheFor = (entries) => ({
     async match(request) {
-      return entries.get(key(request))?.clone();
+      return copy(entries.get(key(request)));
     },
     async put(request, response) {
       const body = await response.arrayBuffer();
-      entries.set(
-        key(request),
-        new Response(response.status === 304 ? null : body, {
-          status: response.status,
-          statusText: response.statusText,
-          headers: response.headers,
-        }),
-      );
+      const stored = new Response(response.status === 304 ? null : body, {
+        status: response.status,
+        statusText: response.statusText,
+        headers: response.headers,
+      });
+      entries.set(key(request), response.redirected ? asRedirected(stored) : stored);
     },
     async keys() {
       return [...entries.keys()].map((url) => new Request(url));
@@ -53,13 +65,14 @@ function createCacheStorage() {
       const names = options.cacheName ? [options.cacheName] : [...stores.keys()];
       for (const name of names) {
         const hit = stores.get(name)?.get(key(request));
-        if (hit) return hit.clone();
+        if (hit) return copy(hit);
       }
       return undefined;
     },
-    seed(name, path, body, init = {}) {
+    seed(name, path, body, init = {}, { redirected = false } = {}) {
       if (!stores.has(name)) stores.set(name, new Map());
-      stores.get(name).set(key(path), new Response(body, init));
+      const response = new Response(body, init);
+      stores.get(name).set(key(path), redirected ? asRedirected(response) : response);
     },
     async text(name, path) {
       const hit = stores.get(name)?.get(key(path));
@@ -323,6 +336,31 @@ test("offline navigations get the cached shell, or a readable offline page", asy
   assert.equal(response.status, 503);
   assert.match(response.headers.get("Content-Type"), /text\/html/);
   assert.match(await response.text(), /offline/i);
+});
+
+test("a host that redirects /index.html (Cloudflare Pages) still opens offline", async () => {
+  // Browsers refuse a redirected response for a navigation (net::ERR_FAILED).
+  const caches = createCacheStorage();
+  const { listeners, constants } = loadWorker({
+    caches,
+    fetch: async (request) => {
+      const { pathname } = new URL(request.url);
+      const response = new Response(`fresh ${pathname}`);
+      return pathname === "/index.html" ? asRedirected(response) : response;
+    },
+  });
+  await lifecycle(listeners.install);
+  const stored = await (await caches.open(constants.SHELL_CACHE)).match("/index.html");
+  assert.equal(stored.redirected, false);
+  assert.equal(await stored.text(), "fresh /index.html");
+
+  // A redirected copy cached by an older worker is cleaned when served.
+  const legacy = createCacheStorage();
+  legacy.seed("pyq-shell-2026-11-19.2", "/index.html", "<legacy shell>", {}, { redirected: true });
+  const offline = loadWorker({ caches: legacy, fetch: async () => { throw OFFLINE(); } });
+  const response = await dispatchFetch(offline.listeners, navigation("/"));
+  assert.equal(response.redirected, false);
+  assert.equal(await response.text(), "<legacy shell>");
 });
 
 test("a hanging connection falls back to the cached shell instead of waiting forever", async () => {
