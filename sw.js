@@ -27,7 +27,7 @@
  * "NetworkError when attempting to fetch resource."
  */
 
-const VERSION = "2026-11-19.3";
+const VERSION = "2026-11-19.4";
 const SHELL_CACHE = `pyq-shell-${VERSION}`;
 const RUNTIME_CACHE = `pyq-runtime-${VERSION}`;
 const DATA_CACHE = "pyq-data-v1";
