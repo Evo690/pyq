@@ -13,10 +13,10 @@
  * assets/offline-storage.mjs; this worker only handles network assets.
  */
 
-const VERSION = "2026-11-18.1";
+const VERSION = "2026-11-19.1";
 const SHELL_CACHE = `pyq-shell-${VERSION}`;
 const DATA_CACHE = `pyq-data-${VERSION}`;
-const IMAGE_CACHE = `pyq-images-${VERSION}`;
+const IMAGE_CACHE = "pyq-images-2026-11-18.1";
 const RUNTIME_CACHE = `pyq-runtime-${VERSION}`;
 
 const SHELL_ASSETS = [
@@ -33,22 +33,64 @@ const SHELL_ASSETS = [
   "/assets/test-analysis.mjs",
   "/assets/offline-storage.mjs",
   "/assets/offline-ui.mjs",
+  "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
+  "/assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2",
+  "/assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2",
+  "/assets/KaTeX_Fraktur-Bold-CL6g_b3V.woff2",
+  "/assets/KaTeX_Fraktur-Regular-CTYiF6lA.woff2",
+  "/assets/KaTeX_Main-Bold-Cx986IdX.woff2",
+  "/assets/KaTeX_Main-BoldItalic-DxDJ3AOS.woff2",
+  "/assets/KaTeX_Main-Italic-NWA7e6Wa.woff2",
+  "/assets/KaTeX_Main-Regular-B22Nviop.woff2",
+  "/assets/KaTeX_Math-BoldItalic-CZnvNsCZ.woff2",
+  "/assets/KaTeX_Math-Italic-t53AETM-.woff2",
+  "/assets/KaTeX_SansSerif-Bold-D1sUS0GD.woff2",
+  "/assets/KaTeX_SansSerif-Italic-C3H0VqGB.woff2",
+  "/assets/KaTeX_SansSerif-Regular-DDBCnlJ7.woff2",
+  "/assets/KaTeX_Script-Regular-D3wIWfF6.woff2",
+  "/assets/KaTeX_Size1-Regular-mCD8mA8B.woff2",
+  "/assets/KaTeX_Size2-Regular-Dy4dx90m.woff2",
+  "/assets/KaTeX_Size4-Regular-Dl5lxZxV.woff2",
+  "/assets/KaTeX_Typewriter-Regular-CO6r4hn1.woff2",
+  "/fonts/font-0.ttf",
+  "/fonts/font-1.ttf",
+  "/fonts/font-2.ttf",
+  "/fonts/font-3.ttf",
+  "/fonts/font-4.ttf",
+  "/fonts/font-5.ttf",
+  "/fonts/font-6.ttf",
+  "/fonts/font-7.ttf",
+  "/fonts/font-8.ttf",
 ];
 
-const MAX_IMAGE_ENTRIES = 800;
-const IMAGE_PRUNE_COUNT = 150;
+const DATA_ASSETS = [
+  "/data/manifest.json",
+  "/data/exact-papers.json",
+  "/data/papers.json",
+];
+
+const MAX_IMAGE_ENTRIES = 2500;
+const IMAGE_PRUNE_COUNT = 250;
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
     (async () => {
-      const cache = await caches.open(SHELL_CACHE);
-      await Promise.all(
-        SHELL_ASSETS.map((url) =>
-          cache.add(new Request(url, { cache: "reload" })).catch(() => {
+      const [shellCache, dataCache] = await Promise.all([
+        caches.open(SHELL_CACHE),
+        caches.open(DATA_CACHE),
+      ]);
+      await Promise.all([
+        ...SHELL_ASSETS.map((url) =>
+          shellCache.add(new Request(url, { cache: "reload" })).catch(() => {
             /* A missing optional asset must not fail the install. */
           }),
         ),
-      );
+        ...DATA_ASSETS.map((url) =>
+          dataCache.add(new Request(url, { cache: "reload" })).catch(() => {
+            /* A missing optional data index must not fail the install. */
+          }),
+        ),
+      ]);
       await self.skipWaiting();
     })(),
   );

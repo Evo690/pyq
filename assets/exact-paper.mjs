@@ -671,7 +671,10 @@ export async function restoreExactPaperTest(
   loader = loadExactPaperQuestions,
 ) {
   if (!test?.exactPaperSource) return test;
-  const sourceQuestions = await loader("JEE_Main", test.exactPaperSource);
+  const sourceQuestions = await loader(
+    test.exam || "JEE_Main",
+    test.exactPaperSource,
+  );
   const stored = new Map(
     (Array.isArray(test.questions) ? test.questions : []).map((question) => [
       question.uid,

@@ -26,6 +26,7 @@ export const STORE_SCHEMA_VERSION = 2;
 export const OFFLINE_DB_NAME = "pyq-offline";
 export const OFFLINE_DB_VERSION = 1;
 export const OFFLINE_CACHE_VERSION = 1;
+export const OFFLINE_IMAGE_CACHE_NAME = "pyq-images-2026-11-18.1";
 export const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
 
 /* -------------------------------------------------------------------------- */
@@ -319,26 +320,32 @@ function isRemoteImageUrl(url) {
   );
 }
 
-/** All image URLs referenced by <img>/<source> tags in an HTML fragment. */
+/** Single effective image URL per diagram in an HTML fragment. */
 export function extractImageUrlsFromHtml(html) {
   if (!html || typeof html !== "string") return [];
+  const flattened = flattenPictureHtml(html);
   const urls = new Set();
   const add = (url) => {
     if (isRemoteImageUrl(url)) urls.add(String(url).trim());
   };
-  const tagPattern = /<(img|source)\b[^>]*>/gi;
+  const tagPattern = /<img\b[^>]*>/gi;
   let match;
-  while ((match = tagPattern.exec(html)) !== null) {
+  while ((match = tagPattern.exec(flattened)) !== null) {
     const tag = match[0];
-    const src = tag.match(/\ssrc\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i);
-    if (src) add(src[1] ?? src[2] ?? src[3]);
-    const orsrc = tag.match(
-      /\sdata-orsrc\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i,
-    );
-    if (orsrc) add(orsrc[1] ?? orsrc[2] ?? orsrc[3]);
-    const srcset = tag.match(/\ssrcset\s*=\s*(?:"([^"]*)"|'([^']*)')/i);
+    const src = getTagAttr(tag, "src");
+    if (src) {
+      add(src);
+      continue;
+    }
+    const orsrc = getTagAttr(tag, "data-orsrc");
+    if (orsrc) {
+      add(orsrc);
+      continue;
+    }
+    const srcset = getTagAttr(tag, "srcset");
     if (srcset) {
-      for (const url of parseSrcset(srcset[1] ?? srcset[2])) add(url);
+      const first = parseSrcset(srcset)[0];
+      if (first) add(first);
     }
   }
   return [...urls];
@@ -357,13 +364,13 @@ export function extractPaperImageUrls(questions) {
     for (const option of question?.options || []) {
       for (const url of extractImageUrlsFromHtml(option?.text)) urls.add(url);
       for (const url of extractImageUrlsFromHtml(option?.html)) urls.add(url);
-      if (isRemoteImageUrl(option?.image)) urls.add(String(option.image));
+      if (isRemoteImageUrl(option?.image)) urls.add(String(option.image).trim());
     }
     if (isRemoteImageUrl(question?.question_image)) {
-      urls.add(String(question.question_image));
+      urls.add(String(question.question_image).trim());
     }
     if (isRemoteImageUrl(question?.solution_image)) {
-      urls.add(String(question.solution_image));
+      urls.add(String(question.solution_image).trim());
     }
   }
   return [...urls];
@@ -374,55 +381,149 @@ function toUrlMap(urlMap) {
   return new Map(Object.entries(urlMap || {}));
 }
 
-function rewriteSrcsetValue(value, map) {
-  return String(value)
-    .split(",")
-    .map((part) => {
-      const trimmed = part.trim();
-      if (!trimmed) return part;
-      const tokens = trimmed.split(/\s+/);
-      if (map.has(tokens[0])) tokens[0] = map.get(tokens[0]);
-      return tokens.join(" ");
-    })
-    .join(", ");
+function getTagAttr(tag, name) {
+  const re = new RegExp(
+    `(?:^|[\\s"'/])${name}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`,
+    "i",
+  );
+  const match = String(tag).match(re);
+  if (!match) return "";
+  return (match[1] ?? match[2] ?? match[3] ?? "").trim();
+}
+
+function setImgSrcAttr(imgTag, resolvedSrc) {
+  const safeSrc = String(resolvedSrc).replace(/"/g, "&quot;");
+  if (/([\s"'/])src\s*=/i.test(imgTag)) {
+    return imgTag.replace(
+      /([\s"'/])src\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/i,
+      (_, prefix) =>
+        `${prefix === '"' || prefix === "'" ? `${prefix} ` : prefix}src="${safeSrc}"`,
+    );
+  }
+  return imgTag.replace(/\s*\/?>$/, (end) => ` src="${safeSrc}"${end}`);
+}
+
+function stripImgFallbackAttrs(imgTag) {
+  return imgTag.replace(
+    /([\s"'/])(?:srcset|data-orsrc)\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/gi,
+    (_, prefix) => (prefix === '"' || prefix === "'" ? prefix : ""),
+  );
 }
 
 /**
- * Replace cached image URLs in <img>/<source> tags with blob:/data: URLs.
- * MathJax SVG (<use href="#…">) and all other markup are left untouched.
+ * Flatten <picture><source srcset>…</picture> elements into a plain <img src>
+ * using src -> data-orsrc -> first srcset candidate, because the sanitizer
+ * forbids srcset and offline mode caches only the single effective image URL.
+ */
+export function flattenPictureHtml(html) {
+  if (!html || typeof html !== "string") return html || "";
+  let out = String(html);
+  if (/<picture\b/i.test(out)) {
+    out = out.replace(
+      /<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi,
+      (full, inner) => {
+        const imgMatch = inner.match(/<img\b[^>]*>/i);
+        const imgTag = imgMatch ? imgMatch[0] : "";
+
+        const imgSrc = imgTag ? getTagAttr(imgTag, "src") : "";
+        const imgOrsrc = imgTag ? getTagAttr(imgTag, "data-orsrc") : "";
+        const imgSrcset = imgTag ? getTagAttr(imgTag, "srcset") : "";
+
+        let resolvedSrc = imgSrc || imgOrsrc || "";
+        if (!resolvedSrc && imgSrcset) {
+          resolvedSrc = parseSrcset(imgSrcset)[0] || "";
+        }
+        if (!resolvedSrc) {
+          const sourcePattern = /<source\b[^>]*>/gi;
+          let sourceMatch;
+          while ((sourceMatch = sourcePattern.exec(inner)) !== null) {
+            const sourceSrcset = getTagAttr(sourceMatch[0], "srcset");
+            const candidate = parseSrcset(sourceSrcset)[0];
+            if (candidate) {
+              resolvedSrc = candidate;
+              break;
+            }
+            const sourceSrc = getTagAttr(sourceMatch[0], "src");
+            if (sourceSrc) {
+              resolvedSrc = sourceSrc;
+              break;
+            }
+          }
+        }
+
+        if (!imgTag) {
+          return resolvedSrc
+            ? `<img src="${resolvedSrc.replace(/"/g, "&quot;")}">`
+            : full;
+        }
+
+        let nextImg = stripImgFallbackAttrs(imgTag);
+        if (!imgSrc && resolvedSrc) {
+          nextImg = setImgSrcAttr(nextImg, resolvedSrc);
+        }
+        return nextImg;
+      },
+    );
+  }
+  return out.replace(/<img\b[^>]*>/gi, (imgTag) => {
+    const existingSrc = getTagAttr(imgTag, "src");
+    const orsrc = getTagAttr(imgTag, "data-orsrc");
+    const srcsetCandidate = parseSrcset(getTagAttr(imgTag, "srcset"))[0] || "";
+    const resolvedSrc = existingSrc || orsrc || srcsetCandidate;
+    let nextImg = stripImgFallbackAttrs(imgTag);
+    if (!existingSrc && resolvedSrc) {
+      nextImg = setImgSrcAttr(nextImg, resolvedSrc);
+    }
+    return nextImg;
+  });
+}
+
+function questionNeedsHtmlNormalization(question) {
+  if (!question) return false;
+  const needs = (html) =>
+    Boolean(html && /<(?:picture|img|source)\b/i.test(html));
+  if (needs(question.question_text) || needs(question.solution_text)) {
+    return true;
+  }
+  for (const option of question.options || []) {
+    if (needs(option?.text) || needs(option?.html)) return true;
+  }
+  return false;
+}
+
+/**
+ * Flatten <picture> tags and replace cached image URLs in <img> tags
+ * with blob:/data: URLs. MathJax SVG (<use href="#…">) is left untouched.
  */
 export function rewriteHtmlImages(html, urlMap) {
   if (!html || typeof html !== "string") return html || "";
+  const flattened = flattenPictureHtml(html);
   const map = toUrlMap(urlMap);
-  if (!map.size) return html;
-  return String(html).replace(/<(img|source)\b[^>]*>/gi, (tag) => {
-    let out = tag;
-    out = out.replace(
-      /(\s)(src|data-orsrc)\s*=\s*("([^"]*)"|'([^']*)'|([^\s>]+))/gi,
-      (full, space, attr, quoted, doubleQuoted, singleQuoted, unquoted) => {
-        const url = doubleQuoted ?? singleQuoted ?? unquoted ?? "";
+  if (!map.size) return flattened;
+  return flattened.replace(/<img\b[^>]*>/gi, (tag) =>
+    tag.replace(
+      /([\s"'/])(src|data-orsrc)\s*=\s*("([^"]*)"|'([^']*)'|([^\s>]+))/gi,
+      (full, prefix, attr, quoted, doubleQuoted, singleQuoted, unquoted) => {
+        const url = (doubleQuoted ?? singleQuoted ?? unquoted ?? "").trim();
         if (!map.has(url)) return full;
-        const quote = quoted.startsWith('"') ? '"' : quoted.startsWith("'") ? "'" : '"';
-        return `${space}${attr}=${quote}${map.get(url)}${quote}`;
+        const quote = quoted.startsWith('"')
+          ? '"'
+          : quoted.startsWith("'")
+            ? "'"
+            : '"';
+        const sep =
+          prefix === '"' || prefix === "'" ? `${prefix} ` : prefix;
+        return `${sep}${attr}=${quote}${map.get(url)}${quote}`;
       },
-    );
-    out = out.replace(
-      /(\s)srcset\s*=\s*("([^"]*)"|'([^']*)')/gi,
-      (full, space, quoted, doubleQuoted, singleQuoted) => {
-        const value = doubleQuoted ?? singleQuoted ?? "";
-        const quote = quoted.startsWith('"') ? '"' : "'";
-        return `${space}srcset=${quote}${rewriteSrcsetValue(value, map)}${quote}`;
-      },
-    );
-    return out;
-  });
+    ),
+  );
 }
 
 /** Return a copy of a question with all cached images rewritten. */
 export function rewriteQuestionImages(question, urlMap) {
   if (!question) return question;
   const map = toUrlMap(urlMap);
-  if (!map.size) return question;
+  if (!map.size && !questionNeedsHtmlNormalization(question)) return question;
   const next = { ...question };
   if (typeof next.question_text === "string") {
     next.question_text = rewriteHtmlImages(next.question_text, map);
@@ -925,14 +1026,17 @@ export async function getImageObjectUrls(urls, deps = {}) {
 export async function hydrateQuestionImages(questions, deps = {}) {
   if (!Array.isArray(questions) || !questions.length) return questions;
   const urls = extractPaperImageUrls(questions);
-  if (!urls.length) return questions;
-  let urlMap;
-  try {
-    urlMap = await getImageObjectUrls(urls, deps);
-  } catch {
+  let urlMap = new Map();
+  if (urls.length) {
+    try {
+      urlMap = await getImageObjectUrls(urls, deps);
+    } catch {
+      urlMap = new Map();
+    }
+  }
+  if (!urlMap.size && !questions.some(questionNeedsHtmlNormalization)) {
     return questions;
   }
-  if (!urlMap.size) return questions;
   return questions.map((question) => rewriteQuestionImages(question, urlMap));
 }
 
@@ -940,13 +1044,37 @@ export async function hydrateQuestionImages(questions, deps = {}) {
 /* Download orchestration                                                      */
 /* -------------------------------------------------------------------------- */
 
+async function openImageCache(cachesImpl) {
+  const storage = cachesImpl ?? globalThis.caches;
+  if (!storage || typeof storage.open !== "function") return null;
+  let cacheName = OFFLINE_IMAGE_CACHE_NAME;
+  if (typeof storage.keys === "function") {
+    try {
+      const names = await storage.keys();
+      const active = names.find((name) => name.startsWith("pyq-images-"));
+      if (active) cacheName = active;
+    } catch {
+      // Fall back to the default image cache name.
+    }
+  }
+  return storage.open(cacheName);
+}
+
+function isOpaqueResponse(response) {
+  return Boolean(
+    response && (response.type === "opaque" || response.status === 0),
+  );
+}
+
 export async function downloadPaperImages(urls, options = {}) {
-  const fetchImpl = options.fetchImpl || globalThis.fetch;
+  const fetchImpl =
+    options.fetchImpl || ((...args) => globalThis.fetch(...args));
   const concurrency = Math.max(1, Math.min(8, options.concurrency || 4));
   const maxBytes = options.maxBytes || MAX_IMAGE_BYTES;
   const onProgress = options.onProgress;
   const signal = options.signal;
   const succeeded = new Map();
+  const opaque = new Set();
   const failed = [];
   let cursor = 0;
 
@@ -960,40 +1088,65 @@ export async function downloadPaperImages(urls, options = {}) {
       const url = urls[cursor];
       cursor += 1;
       try {
-        const response = await fetchImpl(url, {
-          mode: "cors",
-          credentials: "omit",
-          signal,
-        });
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const blob = await response.blob();
-        if (!blob || blob.size === 0) throw new Error("Empty image response.");
-        if (blob.size > maxBytes) {
-          throw new Error(
-            `Image is too large (${blob.size} bytes). Skipped to protect storage.`,
-          );
+        let response;
+        try {
+          response = await fetchImpl(url, {
+            mode: "cors",
+            credentials: "omit",
+            cache: "no-store",
+            signal,
+          });
+        } catch (corsError) {
+          if (signal?.aborted) throw corsError;
+          response = await fetchImpl(url, {
+            mode: "no-cors",
+            credentials: "omit",
+            signal,
+          });
         }
-        const contentType =
-          blob.type ||
-          response.headers?.get?.("content-type") ||
-          "";
-        if (
-          contentType &&
-          (contentType.startsWith("text/") ||
-            contentType.includes("json") ||
-            contentType.includes("html"))
-        ) {
-          throw new Error(`Unexpected content type ${contentType}.`);
+        if (isOpaqueResponse(response)) {
+          const cache = await openImageCache(options.caches);
+          if (!cache) {
+            throw new Error(
+              "Opaque image response cannot be cached without Cache Storage.",
+            );
+          }
+          const toStore =
+            typeof response.clone === "function" ? response.clone() : response;
+          await cache.put(url, toStore);
+          opaque.add(url);
+        } else {
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const blob = await response.blob();
+          if (!blob || blob.size === 0) throw new Error("Empty image response.");
+          if (blob.size > maxBytes) {
+            throw new Error(
+              `Image is too large (${blob.size} bytes). Skipped to protect storage.`,
+            );
+          }
+          const contentType =
+            blob.type ||
+            response.headers?.get?.("content-type") ||
+            "";
+          if (
+            contentType &&
+            (contentType.startsWith("text/") ||
+              contentType.includes("json") ||
+              contentType.includes("html"))
+          ) {
+            throw new Error(`Unexpected content type ${contentType}.`);
+          }
+          succeeded.set(url, blob);
         }
-        succeeded.set(url, blob);
       } catch (error) {
         if (signal?.aborted) throw error;
         failed.push({ url, error: error?.message || String(error) });
       }
       onProgress?.({
-        loaded: succeeded.size + failed.length,
+        loaded: succeeded.size + opaque.size + failed.length,
         total: urls.length,
-        succeeded: succeeded.size,
+        succeeded: succeeded.size + opaque.size,
+        opaque: opaque.size,
         failed: failed.length,
         url,
       });
@@ -1005,7 +1158,7 @@ export async function downloadPaperImages(urls, options = {}) {
     () => worker(),
   );
   await Promise.all(workers);
-  return { succeeded, failed };
+  return { succeeded, failed, opaque };
 }
 
 /**
@@ -1048,20 +1201,31 @@ export async function downloadExactPaperOffline({
     }
   }
   const urls = extractPaperImageUrls(questions);
+  const imageCache = await openImageCache(deps.caches).catch(() => null);
   const missing = [];
   let cachedBytes = 0;
   for (const url of urls) {
     const existing = await getCachedImageBlob(url, deps);
-    if (existing) cachedBytes += existing.size || 0;
-    else missing.push(url);
+    if (existing) {
+      cachedBytes += existing.size || 0;
+      continue;
+    }
+    if (imageCache) {
+      const cachedResponse = await imageCache
+        .match(url, { ignoreVary: true })
+        .catch(() => null);
+      if (cachedResponse) continue;
+    }
+    missing.push(url);
   }
   onProgress?.({
     phase: "images",
     loaded: urls.length - missing.length,
     total: urls.length,
   });
-  const { succeeded, failed } = await downloadPaperImages(missing, {
+  const { succeeded, failed, opaque } = await downloadPaperImages(missing, {
     fetchImpl: deps.fetchImpl,
+    caches: deps.caches,
     signal,
     onProgress: (progress) =>
       onProgress?.({
@@ -1092,7 +1256,8 @@ export async function downloadExactPaperOffline({
   return {
     summary,
     failed,
-    succeededCount: succeeded.size,
+    succeededCount: succeeded.size + opaque.size,
+    opaqueCount: opaque.size,
     totalImages: urls.length,
   };
 }
