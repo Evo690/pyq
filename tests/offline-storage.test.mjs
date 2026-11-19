@@ -186,6 +186,12 @@ beforeEach(() => {
 /* Image extraction and rewriting                                              */
 /* -------------------------------------------------------------------------- */
 
+test("text-only test content needs neither an image cache nor a URL map", () => {
+  const text = "<p>Find the value of x.</p>";
+  assert.deepEqual(extractPaperImageUrls([{ question_text: text }]), []);
+  assert.equal(rewriteHtmlImages(text), text);
+});
+
 test("extractPaperImageUrls extracts only the single effective URL per diagram", () => {
   const urls = extractPaperImageUrls(questions());
   assert.deepEqual(urls.sort(), [
@@ -233,9 +239,9 @@ test("rewriteHtmlImages flattens <picture> tags and rewrites cached image refere
     ["https://cdn.example/a-original.png", "blob:two"],
     ["https://cdn.example/a.webp", "blob:three"],
   ]);
-  const out = rewriteHtmlImages(html, map);
+  const out = rewriteHtmlImages(questions()[0].question_text, map);
   assert.ok(out.includes('src="blob:one"'));
-  assert.ok(out.includes('data-orsrc="blob:two"'));
+  assert.ok(!out.includes("data-orsrc"));
   assert.doesNotMatch(out, /<picture|<source|srcset=/i);
   assert.ok(!out.includes("cdn.example"));
 });
@@ -816,7 +822,7 @@ test("sw.js pre-caches boot manifests, KaTeX fonts, and aligns IMAGE_CACHE", () 
   assert.ok(swSource.includes('"/assets/KaTeX_Main-Regular-B22Nviop.woff2"'));
   assert.ok(swSource.includes('"/fonts/font-0.ttf"'));
   assert.ok(
-    swSource.includes(`const IMAGE_CACHE = "${OFFLINE_IMAGE_CACHE_NAME}";`),
+    swSource.includes(`const PAPER_IMAGE_CACHE = "${OFFLINE_IMAGE_CACHE_NAME}";`),
   );
 });
 

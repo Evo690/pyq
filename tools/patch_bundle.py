@@ -56,12 +56,6 @@ REPLACEMENTS = [
         r'''let s=yp.sanitize(String(i),{ALLOWED_URI_REGEXP:/^(?:(?:blob|https?|mailto|tel|callto|sms|cid|xmpp):|[^a-z]|[a-z+.\-]+(?:[^a-z+.\-:]|$))/i,ADD_TAGS:''',
     ),
     (
-        "allow-blob-image-src",
-        "ALLOWED_URI_REGEXP:/^(?:(?:blob|",
-        r'''FORBID_TAGS:["style","iframe"],FORBID_ATTR:["srcset"]});''',
-        r'''FORBID_TAGS:["style","iframe"],FORBID_ATTR:["srcset"],ALLOWED_URI_REGEXP:/^(?:(?:blob|https?|mailto|tel|callto|sms|cid|xmpp):|[^a-z]|[a-z+.\-]+(?:[^a-z+.\-:]|$))/i});''',
-    ),
-    (
         "shared-scoring",
         "const Xr=i=>isScoreableQuestion(i)",
         r'''const Xr=i=>i.type!=="multipleCorrect"&&(i.type==="numerical"?Number.isFinite(Number(i.correct_answer)):(i.options||[]).some(n=>String(n.id)===String(i.correct_answer)));function Cf(i,n){return!Xr(i)||n==null||n===""?!1:i.type==="numerical"?Number.isFinite(Number(n))&&Math.abs(Number(n)-Number(i.correct_answer))<1e-6:String(n)===String(i.correct_answer)}''',

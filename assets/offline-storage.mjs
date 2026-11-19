@@ -29,7 +29,7 @@ export const OFFLINE_DB_VERSION = 1;
 export const OFFLINE_CACHE_VERSION = 1;
 // Also used by sw.js. Unlike the runtime image cache, saved diagrams must
 // survive shell upgrades and must not be pruned while a paper references them.
-const PAPER_IMAGE_CACHE = "pyq-paper-images-v1";
+export const OFFLINE_IMAGE_CACHE_NAME = "pyq-paper-images-v1";
 export const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
 
 /* -------------------------------------------------------------------------- */
@@ -335,13 +335,8 @@ export function extractImageUrlsFromHtml(html) {
   const add = (url) => {
     if (isRemoteImageUrl(url)) urls.add(String(url).trim());
   };
-  for (const [tag] of html.matchAll(IMAGE_TAG)) {
-    for (const [, name, dq, sq, bare] of tag.matchAll(ATTRIBUTE)) {
-      const key = name.toLowerCase();
-      const value = dq ?? sq ?? bare;
-      if (key === "src" || key === "data-orsrc") add(value);
-      if (key === "srcset") parseSrcset(value).forEach(add);
-    }
+  for (const [tag] of flattened.matchAll(IMAGE_TAG)) {
+    if (/^<img\b/i.test(tag)) add(getTagAttr(tag, "src"));
   }
   return [...urls];
 }
@@ -433,18 +428,11 @@ function flattenPicture(_, body) {
  */
 export function flattenPictureHtml(html) {
   if (!html || typeof html !== "string") return html || "";
-  const map = toUrlMap(urlMap);
-  const flattened = html.replace(/<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi, flattenPicture);
-  if (!map.size) return flattened;
-  return flattened.replace(IMAGE_TAG, (tag) => tag.replace(ATTRIBUTE, (raw, name, dq, sq, bare) => {
-    const key = name.toLowerCase();
-    const url = dq ?? sq ?? bare;
-    let value;
-    if (key === "src" || key === "data-orsrc") value = map.get(url);
-    if (key === "srcset" && url) value = rewriteSrcsetValue(url, map);
-    if (value == null) return raw;
-    return ` ${name}="${value.replace(/"/g, "&quot;")}"`;
-  }));
+  return html.replace(/<picture\b[^>]*>([\s\S]*?)<\/picture\s*>/gi, flattenPicture)
+    .replace(/<img\b[^>]*>/gi, (tag) => {
+      const src = getTagAttr(tag, "src") || getTagAttr(tag, "data-orsrc") || parseSrcset(getTagAttr(tag, "srcset"))[0];
+      return src ? setImgSrcAttr(stripImgFallbackAttrs(tag), src) : tag;
+    });
 }
 
 function questionNeedsHtmlNormalization(question) {
@@ -856,8 +844,8 @@ export async function removeCachedPaper(paperSourceOrKey, deps = {}) {
       revokeImageObjectUrl(url);
     }
     const cacheStorage = deps.caches ?? globalThis.caches;
-    if (await cacheStorage?.has(PAPER_IMAGE_CACHE)) {
-      const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+    if (await cacheStorage?.has(OFFLINE_IMAGE_CACHE_NAME)) {
+      const cache = await cacheStorage.open(OFFLINE_IMAGE_CACHE_NAME);
       const keep = new Set([...referenced].map((url) => new URL(url, globalThis.location?.href).href));
       for (const request of await cache.keys()) {
         if (!keep.has(request.url)) await cache.delete(request);
@@ -886,7 +874,7 @@ export async function clearOfflineCache(deps = {}) {
       // Continue clearing the remaining stores.
     }
   }
-  await (deps.caches ?? globalThis.caches)?.delete(PAPER_IMAGE_CACHE);
+  await (deps.caches ?? globalThis.caches)?.delete(OFFLINE_IMAGE_CACHE_NAME);
   revokeAllImageObjectUrls();
   return true;
 }
@@ -934,8 +922,8 @@ export async function cacheStats(deps = {}) {
     let opaqueCount = 0;
     try {
       const cacheStorage = deps.caches ?? globalThis.caches;
-      if (await cacheStorage?.has(PAPER_IMAGE_CACHE)) {
-        const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+      if (await cacheStorage?.has(OFFLINE_IMAGE_CACHE_NAME)) {
+        const cache = await cacheStorage.open(OFFLINE_IMAGE_CACHE_NAME);
         opaqueCount = (await cache.keys()).length;
       }
     } catch {
@@ -1026,28 +1014,6 @@ export async function hydrateQuestionImages(questions, deps = {}) {
 /* Download orchestration                                                      */
 /* -------------------------------------------------------------------------- */
 
-async function openImageCache(cachesImpl) {
-  const storage = cachesImpl ?? globalThis.caches;
-  if (!storage || typeof storage.open !== "function") return null;
-  let cacheName = OFFLINE_IMAGE_CACHE_NAME;
-  if (typeof storage.keys === "function") {
-    try {
-      const names = await storage.keys();
-      const active = names.find((name) => name.startsWith("pyq-images-"));
-      if (active) cacheName = active;
-    } catch {
-      // Fall back to the default image cache name.
-    }
-  }
-  return storage.open(cacheName);
-}
-
-function isOpaqueResponse(response) {
-  return Boolean(
-    response && (response.type === "opaque" || response.status === 0),
-  );
-}
-
 export async function downloadPaperImages(urls, options = {}) {
   const fetchImpl =
     options.fetchImpl || ((...args) => globalThis.fetch(...args));
@@ -1056,7 +1022,7 @@ export async function downloadPaperImages(urls, options = {}) {
   const onProgress = options.onProgress;
   const signal = options.signal;
   const succeeded = new Map();
-  let opaqueCount = 0;
+  const opaque = new Set();
   const failed = [];
   let cursor = 0;
 
@@ -1070,7 +1036,7 @@ export async function downloadPaperImages(urls, options = {}) {
       const url = urls[cursor];
       cursor += 1;
       try {
-        const init = { credentials: "omit", signal };
+        const init = { cache: "no-store", credentials: "omit", signal };
         let response;
         try {
           response = await fetchImpl(url, { ...init, mode: "cors" });
@@ -1083,9 +1049,9 @@ export async function downloadPaperImages(urls, options = {}) {
           // itself; the worker serves it to img requests at the original URL.
           const cacheStorage = options.caches ?? globalThis.caches;
           if (!cacheStorage) throw new Error("Image cache is unavailable.");
-          const cache = await cacheStorage.open(PAPER_IMAGE_CACHE);
+          const cache = await cacheStorage.open(OFFLINE_IMAGE_CACHE_NAME);
           await cache.put(url, response);
-          opaqueCount++;
+          opaque.add(url);
         } else {
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
           const blob = await response.blob();
@@ -1114,9 +1080,9 @@ export async function downloadPaperImages(urls, options = {}) {
         failed.push({ url, error: error?.message || String(error) });
       }
       onProgress?.({
-        loaded: succeeded.size + opaqueCount + failed.length,
+        loaded: succeeded.size + opaque.size + failed.length,
         total: urls.length,
-        succeeded: succeeded.size + opaqueCount,
+        succeeded: succeeded.size + opaque.size,
         failed: failed.length,
         url,
       });
@@ -1128,7 +1094,7 @@ export async function downloadPaperImages(urls, options = {}) {
     () => worker(),
   );
   await Promise.all(workers);
-  return { succeeded, opaqueCount, failed };
+  return { succeeded, opaque, opaqueCount: opaque.size, failed };
 }
 
 /**
@@ -1171,15 +1137,16 @@ export async function downloadExactPaperOffline({
     }
   }
   const urls = extractPaperImageUrls(questions);
-  const imageCache = await openImageCache(deps.caches).catch(() => null);
+  const cacheStorage = deps.caches ?? globalThis.caches;
+  const imageCache = cacheStorage && await cacheStorage.open(OFFLINE_IMAGE_CACHE_NAME).catch(() => null);
   const missing = [];
   let cachedBytes = 0;
   for (const url of urls) {
     const existing = await getCachedImageBlob(url, deps);
     if (existing) cachedBytes += existing.size || 0;
     else {
-      const cached = await (deps.caches ?? globalThis.caches)?.match(url, {
-        cacheName: PAPER_IMAGE_CACHE, ignoreVary: true,
+      const cached = await imageCache?.match(url, {
+        ignoreVary: true,
       }).catch(() => null);
       if (!cached) missing.push(url);
     }
@@ -1222,6 +1189,7 @@ export async function downloadExactPaperOffline({
   return {
     summary,
     failed,
+    opaqueCount,
     succeededCount: succeeded.size + opaqueCount,
     totalImages: urls.length,
   };

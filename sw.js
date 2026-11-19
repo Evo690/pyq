@@ -13,7 +13,7 @@
  * assets/offline-storage.mjs; this worker only handles network assets.
  */
 
-const VERSION = "2026-11-19.1";
+const VERSION = "2026-11-19.2";
 const SHELL_CACHE = `pyq-shell-${VERSION}`;
 const DATA_CACHE = `pyq-data-${VERSION}`;
 const IMAGE_CACHE = `pyq-images-${VERSION}`;
